@@ -46,7 +46,7 @@ for i in range(from_value, total_entries, page_size):
 print(f"Total number of slugs: {total_entries}")
 
 def export_slugs_to_file():
-    with open("slugs.txt", "w") as file:
+    with open("slugs1.txt", "w") as file:
         for i in range(from_value, total_entries, page_size):
             querystring = {"lang":"en","q":"[]","keyword":"","sort":"","from": str(i), "size": str(page_size)}
             
