@@ -15,4 +15,8 @@ we had this idea since a year but left it brewing in the back of our minds. we'r
 Tasks:
 - [ ] scrape [Myschemes](https://www.myscheme.gov.in) (started, WIP)
 - [ ] implement whatsapp chatbot
+    - [x] secure required accounts/access/api etc
+    - [ ] publish a v0 bot to test internally (use 3rd party services but goal is to have most opensource with least external dependencies)
+    - [ ] publish v1 mvp bot
 - [ ] implement voice input
+    - [ ] research on tts & stt models
