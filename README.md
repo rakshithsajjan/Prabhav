@@ -1,4 +1,6 @@
 # prabhav / प्रभाव
+![prabhav_icon](./assets/prabhav_icon.webp)
+
 **prabhav**(translates ~ "*impact*") is a non-profit effort dedicated to leveraging technologies including like AI and more to change things in society for the better.
 
 
