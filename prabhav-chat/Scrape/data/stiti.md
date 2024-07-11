@@ -1,125 +1,167 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Stipends To Trainees In Industrial Training Institute
 
+URL Source: https://www.myscheme.gov.in/schemes/stiti
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+*   Details
+*   Benefits
+*   Eligibility
+*   Application Process
+*   Documents Required
+*   Frequently Asked Questions
+*   Sources And References
+*   Feedback
 
+### Something went wrong. Please try again later.
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 02:15:47 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Browser
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+### 
 
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Paris</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+### You need to sign in before applying for schemes
 
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Host
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
+### Something went wrong. Please try again later.
 
-                </div>
-            </div>
-        </div>
+### It seems you have already initiated your application earlier.To know more please visit
 
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
+### Apply Now
 
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
+### Check Eligibility
 
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89baa41829a599c0</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
+Maharashtra
+-----------
 
+ITI
 
-    </div>
-</div>
-</body>
-</html>
+Scheduled Caste
+
+Stipends
+
+Students
+
+Trainees
+
+[### Details](https://www.myscheme.gov.in/schemes/stiti#details)
+
+The scheme “Stipends to Trainees in Industrial Training Institute” was launched by the Department of Social Justice and Special Assistance, Government of Maharashtra for Scheduled Caste students in Industrial Training Institute (ITI).
+
+The objective of the scheme is to provide Technical Training to Scheduled Caste students in ITI for their job opportunities. Under the scheme, the students of the SC category residing in the hostel of the organization Department of Technical Education gives ₹60/- per month and the Social Welfare department gives them ₹ 40/- per month.
+
+[### Benefits](https://www.myscheme.gov.in/schemes/stiti#benefits)
+
+1.  ₹60/- per month will be given to student residing in the hostel of the organization Department of Technical Education.
+2.  ₹ 40/- per month will be given by the Social welfare department to student residing in the hostel of the organization Department of Technical Education.
+3.  ₹100/- per month will be given by the social welfare department to those student who do not get anything from the organization's Department of Technical Education.
+
+[### Eligibility](https://www.myscheme.gov.in/schemes/stiti#eligibility)
+
+1.  The applicant must be a permanent resident of Maharashtra.
+2.  The student should belong to Scheduled Caste (SC) category.
+3.  It is mandatory for the student should take training in a recognized Industrial Training Institute.
+4.  The annual income of the applicant’s father should not be more than ₹ 65290/-.
+
+[### Application Process](https://www.myscheme.gov.in/schemes/stiti#application-process)
+
+**Step 01:** The applicant wishing to apply for this scheme may apply through his/her respective Industrial Training Institute (ITI).
+
+**Step 02:** The applicant may contact his/her principal of the Institute.
+
+**Step 03:** Further, the applicant may contact his/her related District Social Welfare Officer, Zillah Parishad.
+
+[### Documents Required](https://www.myscheme.gov.in/schemes/stiti#documents-required)
+
+1.  Identity proof i.e. Aadhar Card
+2.  Caste certificate
+3.  Father’s income certificate
+4.  Bank details
+5.  Educational certificate
+
+[### Frequently Asked Questions](https://www.myscheme.gov.in/schemes/stiti#faqs)
+
+Which department has launched the scheme?
+
+The scheme “Stipends to Trainees in Industrial Training Institute” was launched by the Department of Social Justice and Special Assistance, Government of Maharashtra.
+
+What is the objective of this scheme?
+
+The objective of the scheme is to provide technical training to Scheduled Caste students in Industrial Training Institute (ITI) for their job opportunities.
+
+What is the scholarship amount to be given to the students by the organization Department of Technical Education?
+
+₹60/- per month will be given to students residing in the hostel of the organization Department of Technical Education.
+
+What is the scholarship amount to be given to the students by the Social welfare department?
+
+₹ 40/- per month will be given by the Social welfare department to students residing in the hostel of the organization Department of Technical Education.
+
+What is the scholarship amount to be given to the students by the Social welfare department who do not get anything from the organization Department of Technical Education?
+
+₹100/- per month will be given by the social welfare department to those students who do not get anything from the organization's Department of Technical Education.
+
+Who is eligible under the scheme?
+
+A student who is belonging to Scheduled Caste (SC) category may be eligible to apply for the scheme.
+
+Is it mandatory for the student to take training in recognized Industrial Training Institute?
+
+Yes, it is mandatory for the student should take training in a recognized Industrial Training Institute.
+
+What is the income criterion to apply for the scheme?
+
+The annual income of the applicant’s father should not be more than ₹ 65290/-
+
+#### News and Updates
+
+No new news and updates available
+
+#### Share
+
+### Something went wrong. Please try again later.
+
+### 
+
+### You need to sign in before applying for schemes
+
+### Something went wrong. Please try again later.
+
+### It seems you have already initiated your application earlier.To know more please visit
+
+### Apply Now
+
+### Check Eligibility
+
+Maharashtra
+-----------
+
+Stipends To Trainees In Industrial Training Institute
+-----------------------------------------------------
+
+ITI
+
+Scheduled Caste
+
+Stipends
+
+Students
+
+Trainees
+
+Details
+
+Benefits
+
+Eligibility
+
+Application Process
+
+Documents Required
+
+Frequently Asked Questions
+
+The scheme “Stipends to Trainees in Industrial Training Institute” was launched by the Department of Social Justice and Special Assistance, Government of Maharashtra for Scheduled Caste students in Industrial Training Institute (ITI).
+
+The objective of the scheme is to provide Technical Training to Scheduled Caste students in ITI for their job opportunities. Under the scheme, the students of the SC category residing in the hostel of the organization Department of Technical Education gives ₹60/- per month and the Social Welfare department gives them ₹ 40/- per month.
+
+#### Share
+
+#### News and Updates
+
+No new news and updates available

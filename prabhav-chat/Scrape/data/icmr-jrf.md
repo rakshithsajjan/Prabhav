@@ -1,125 +1,88 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: ICMR-Junior Research Fellowship
 
+URL Source: https://www.myscheme.gov.in/schemes/icmr-jrf
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+When the ICMR-JRF entrance examination is usually announced? When it is usually held?
 
+The examination notice is published in leading English Newspapers of India usually during March/April and also on the websites of the Indian Council of Medical Research (ICMR) and Post-graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The entrance examination is usually held once a year in the first/second week of July, on a Sunday.
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 02:51:51 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Browser
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+Where will be the Centres for the written examination located?
 
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Marseille</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+Test for ICMR JRF is conducted at the twelve Centres VIZ., Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Delhi, Guwahati, Hyderabad, Kolkata, Mumbai, Srinagar (J&K) and Varanasi.
 
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Host
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
+What is the eligibility criterion for appearing in the entrance examination?
 
-                </div>
-            </div>
-        </div>
+You should have a Post Graduate degree (M.Sc./MA) in basic science or Post-Graduate degree (M.Sc./MA) in professional courses (B. Tech/M. Tech in biomedical sciences, B. Pharma/M. Pharma or D.Pharma are not eligible) with 55% marks for General/Other Backward Class (OBC) and 50% for SC/ST/Physically Handicapped (PH)/Visually Handicapped (VH). The upper age limit is 28 years \[relaxable up to five years in case of candidates belonging to SC/ST/PH/VH and female candidates, three years in the case of OBC category\].
 
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
+What is the number of fellowships awarded annually? What are the subjects? Can I also apply for other JRF appointments?
 
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
+A total of 150 seats VIZ; 120 for work in the field of biomedical sciences with emphasis on life sciences and 30 for social sciences. Another 100 candidates would be selected for consideration for positions of JRF under various research projects of ICMR only (subject to fulfilling the conditions for appointment under the projects) for the duration of that project. These JRFs would also be permitted to complete Ph.D. while working in the project if enrolled. The validity of the result will be two years for placement in ICMR-funded projects for this category.
 
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89bad8ee29c00d86</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
+What is the pattern of the written examination? Do I have to attempt all the questions?
 
+The paper will consist of two Sections. The Aptitude Section (Section A) will have 50 questions on (i) scientific phenomenon in everyday life; (ii) general knowledge in sciences; and (iii) common statistics. All these 50 questions would be compulsory with each question carrying 1 mark. The subject-specific section (Sections B & C) would pertain to (B) Life sciences and (C) Social sciences. Each question carries one mark. The candidate may attempt questions in either of the two areas. Each area of section B & C would have 100 questions and the candidate may attempt any 75 questions in the predesigned area of Section B or C. Candidates are required to indicate the option for Section B or C in the application form too. Negative marking @ 0.25 will be made for each of the wrong answers. If the candidate answers more than 75 questions in Section B or C, then only the first 75 questions will be evaluated. The questions in both Sections would appear in English only.
 
-    </div>
-</div>
-</body>
-</html>
+What is the duration of the written examination?
+
+The test will consist of one paper of two hours duration.
+
+Can I have a look at the sample paper for JRF examination?
+
+The specimen paper for ICMR-JRF is available at: http://icmr.nic.in/jrf/jrf\_specimen.pdf
+
+Is there any syllabus for the examination?
+
+The syllabi is as per PG level by University Grants Commission (UGC), New Delhi
+
+Is there any aggregate marks cut-off for selection?
+
+The final result will be based on an aggregate of 55% marks obtained in both the Sections for the General category and OBC and 50% for SC/ST and PH/VH.
+
+What is criterion for results for selection?
+
+Two separate merit lists, one comprising the candidates qualifying for Life sciences and the second for those candidates qualifying for Social sciences, will be made on the basis of their performance in the above exam.
+
+What is the admission procedure after selection?
+
+The list of successful candidates would be available on the ICMR website. Selected candidates must join their respective Ph.D. course on the prescribed date as indicated in their admission letter.
+
+Can I enroll myself in any research institute/organization for my JRF work?
+
+The candidates selected for the JRF programme of ICMR would be permitted to enroll themselves for the Ph.D. programme (the Ph.D. topic should be strictly pertaining to ICMR health research) of any University or government college recognized by the UGC/ or any medical college recognized by Medical Council of India (MCI). Ph.D. Enrollment letter certified through Guide is required at the time of Joining, whereas the Ph.D. registration may be submitted within two years from the date of Joining.
+
+What will be the validity of JRF awarded?
+
+The validity of the fellowship awarded to a candidate will be one year from the date of issue of the Award letter.
+
+What will be my joining time?
+
+Selected candidates must send their willingness to join ICMR JRF as soon as they receive the ICMR Award letter and then find placement under a suitable Guide and enroll themselves for Ph.D. in the concerned Institute or University and send the joining report to ICMR within one year of Issue of Award letter. The PhD Registration certificate may be submitted within two years of joining. Failure of which, leads to termination of the fellowship.
+
+What is the tenure of the fellowship?
+
+JRF is generally for first two years. Only after successful assessment by the Review Committee, JRF may be upgraded as SRF after 22 months of commencement of work either on the date when Review Committee meets but not before completion of two years. And SRF is generally for three years or submission of Ph.D. whichever is earlier. However, total duration is five years. The fellowship can be terminated at any time on a month’s notice if the progress of the work is not satisfactory or on receipt of adverse reports from the Guide. In the event if the fellow leaves before completing one year, he/she may be required to refund the stipend drawn by him/her from the date of joining to the date of leaving the fellowship.
+
+What is the stipend amount that I will be getting? And what is amount of House Rent Allowance (HRA) and contingency for the fellowship?
+
+1st year to 2nd year- Rs. 31,000/-, 3rd year or thereafter whenever upgraded as a SRF Rs. 35,000/- till submission of Ph.D. thesis or 5th year, whichever is earlier (Terms and conditions may be adopted from ICMR Fellowship rules available at http://icmr.nic.in/). The HRA will be given as per rules. If the fellow gets accommodation in the institute hostel then he/she will not be eligible for drawing HRA. The contingent amount for JRF/SRF will be Rs. 20,000/- per annum.
+
+How and when will I receive the funds from ICMR?
+
+One needs to send the duly filled and signed mandate form for receiving e-payments along with a photocopy of a cancelled cheque (should be clearly scanned) for purpose of verification of the concerned bank account where money (stipend) is to be remitted. Relevant certificates from hostel warden / AO specifying the date of joining hostel facility should be submitted to avail HRA. If residing in a private accommodation, proof of rent paid from the land lord should be submitted.
+
+Do I have to send reports annually or quarterly?
+
+The Fellow shall submit annual reports for 1st year and all annual report thereafter as per Guidelines and rules in the prescribed standard ICMR proforma.
+
+When should I submit the annual reports?
+
+The first annual report should be submitted after 10 months from the date of commencement of the fellowship (through the Guide along with his/her appraisal) giving complete factual details of the research work done. Subsequent annual reports as per the standard proforma should be submitted through the Guide two months before completion of the fellowship year.
+
+Is the Utilization Certificate (UC) also required?
+
+Annual UC is needed from April to March each financial year.
+
+Can I transfer my fellowship from one institute to other?
+
+A Fellow will not be allowed transfer from one institution to another except in special circumstances with the prior approval of the DG, ICMR. No Travelling Allowance (TA) will be paid as a result of such a transfer. ICMR approval is required before any Transfer of fellowship is done.

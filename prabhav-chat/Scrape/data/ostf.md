@@ -1,125 +1,62 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Odisha State Treatment Fund
 
+URL Source: https://www.myscheme.gov.in/schemes/ostf
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+**PROCEDURE FOR SEEKING TREATMENT ASSISTANCE IN GOVERNMENT MEDICAL COLLEGES & HOSPITALS,**
 
+**SISHUBHAWAN, CUTTACK AND AHRCC, CUTTACK UNDER “OSTF”:**
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 03:43:36 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Browser
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+**1.** Each Department will have a nodal officer not below the rank of Asst. Professor, who will be nominated by the HOD of the concerned Department.
 
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Paris</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+**2\.** The application in the prescribed format with all necessary documents attached to it shall be submitted by the applicant to the Nodal Officer of the concerned Department. The Nodal Officer will scrutinize the application and will forward the same to the HOD of the concerned Department.
 
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Host
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
+**3.**The HOD will verify the facts and forward the application along with his/her recommendation to the Screening Committee.
 
-                </div>
-            </div>
-        </div>
+**4.** The Screening Committee at the medical colleges & hospitals as well as at Sishubhawan, Cuttack and AHRCC, Cuttack will be constituted under the chairmanship of the Superintendent / Director of the respective institution and the other members will be the Accounts Officer / DDO, Administrative Officer and any one faculty (on rotation basis for a period of 2 years at a time) and will be nominated by the Superintendent / Director of the concerned
 
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
+Institute.
 
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
+**5.** The meeting of Screening Committee shall be held on every alternate day and will examine the documents submitted by the applicants duly forwarded by the HODs of the concerned Department where the patient is admitted.
 
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89bb24be4b8c0289</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
+**6.** If the Committee approves the same, the treatment of the patient will be done free of cost at the hospital, strictly restricting to the amount sanctioned.
 
+**7.** The sanctioning power of the Committee shall be limited to Rs.1.00 lakh only. Where the quantum of assistance exceeds Rs.1.00 lakh, Screening Committee will immediately sanction assistance up to Rs.1.00 lakh and with the approval of the Revenue Divisional Commissioner concerned can sanction the rest of the amount up to a maximum of Rs.2.00 lakh. In case of treatment assistance required beyond Rs.2.00 lakh, the same shall be forwarded by the
 
-    </div>
-</div>
-</body>
-</html>
+Screening Committee with their views to the Executive Committee of OSTFC for consideration and approval.
+
+**8.** A separate bank account in State Bank of India, nearer to the medical college shall be opened by medical college under the signature of Dean & Principal, Superintendent and DDO concerned. Amount can be withdrawn with signature of at least two of the account holders.
+
+**9\.** Each and every document relating to the patient application forms shall be kept in proper custody at the office of the Superintendent / Director.
+
+**10\.** Necessary books of accounts and other records shall be maintained at the level of Superintendent / Director as per guideline, which will be produced to audit as and when required.
+
+**11\.** Bi-monthly SOE/UC as per OGFR Norms along with achievement report are to be submitted by the DDO concerned to the Treasurer of the Society in time for release of additional fund.
+
+**PROCEDURE FOR SEEKING TREATMENT ASSISTANCE AT DISTRICT HOSPITALS / CAPITAL HOSPITALS / RGH UNDER “OSTF”:**
+
+**1.** The head of all Clinical Departments in the DHH / Capital Hospital, Bhubaneswar / RGH, Rourkela will be designated as Nodal Officer for OSTF.
+
+**2.** The patient will submit the application form in the prescribed format with all necessary documents attached, to the Nodal Officer.
+
+**3.** After due scrutiny of the application, it will be forwarded to the Screening Committee through ADMO (Medical) / Dy. CMO of Capital Hospital / RGH.
+
+**4.** The Screening Committee at the District Hospitals shall be constituted under the chairmanship of the Chief District Medical Officer of the respective district / CMO, Capital Hospital / RGH and other members will be ADMO (Medical) at DHH / Dy. CMO, Capital Hospital / RGH and another Medical Officer, on rotation basis for a period of two years, of the rank of Joint Director Level-II / Senior Class-I as will be nominated by the CDMO / CMO of the concerned
+
+institution.
+
+**5.** The meeting of the Screening Committee shall be held every alternate day and will examine the documents submitted by the applicants duly forwarded by the MO of the concerned discipline, where the patient is admitted.
+
+**6.** If the Committee approves the same, the treatment of the patient will be done free of cost at the hospital, strictly restricted to the amount sanctioned.
+
+**7.** The sanctioning power of the Committee shall be limited to Rs.30,000/- only for District Headquarter Hospital and Rs.1.00 lakh for Capital Hospital and RGH. Where the quantum of assistance exceeds Rs.30,000/-, CDMO with the approval of the Collector-cum-District Magistrate concerned can sanction up to maximum limit of Rs.50,000/-. For CMO, Capital Hospital, BBSR and RGH, Rourkela, if the treatment cost exceeds Rs.1.00 lakh, the same will be referred
+
+to DMET, Odisha for approval. Director / CMO / CDMO will sanction the treatment cost for which they are empowered and ensure continuance of treatment of patient pending approval of designated authority for the sanction of balance required amount.
+
+**8\.** A separate bank account in State Bank of India, nearer to the DHH / Capital Hospital / RGH will be opened with the signature of CDMO / CMO, ADMO (Medical) of DHH / DDO and one of the Specialists to operate the fund. Amount can be withdrawn with signature of at least two of the account holders.
+
+**9.** Each and every document relating to the patient along with the application forms shall be kept in proper custody in the office of ADMO (Medical) / DDO of the concerned Institution.
+
+**10\.** Necessary books of accounts and other records are to be maintained at their level as per guidelines, which will be produced to audit as and when required.
+
+**11.** Bi-monthly SOE/UC as per OGFR Norms along with achievement report, are to be submitted by the DDO concerned to the Treasurer of the Society in time for release of additional fund.

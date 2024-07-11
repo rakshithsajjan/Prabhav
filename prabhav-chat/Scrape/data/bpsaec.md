@@ -1,125 +1,368 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Biju Patnaik Sports Award for Excellence in Coaching
 
+URL Source: https://www.myscheme.gov.in/schemes/bpsaec
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+Biju Patnaik Sports Award for Excellence in Coaching
+===============
+  
 
+### Are you sure you want to sign out?
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 03:37:32 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+CancelSign Out
+
+[![Image 1: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 2: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+==================================================================================
+
+[![Image 3](blob:https://www.myscheme.gov.in/7029bfa5283c1934d72d4efe1c626373)![Image 4: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+*   ![Image 5](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 6: Change language](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    Eng
     
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+
+[![Image 7: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 8: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+
+[![Image 9](blob:https://www.myscheme.gov.in/04e0786ebe0ffe2b3244c2451b75b80f)![Image 10: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+![Image 11](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 12: Change language](https://cdn.myscheme.in/images/icons/language.svg)English/हिंदी
+
+Theme
+
+*   Sign In
+
+Back
+
+*   Details
+*   Benefits
+*   Eligibility
+*   Application Process
+*   Documents Required
+*   Frequently Asked Questions
+*   Sources And References
+*   Feedback
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Odisha
+------
+
+Biju Patnaik Sports Award for Excellence in Coaching
+====================================================
+
+Coach
+
+Coaching
+
+Games
+
+Sports Award
+
+[### Details](https://www.myscheme.gov.in/schemes/bpsaec#details)
+
+The “Biju Patnaik Sports Award for Excellence in Coaching” is a category of award under the “Biju Patnaik Sports Award" Scheme. The scheme was launched by the Sports & Youth Services Department, Government of Odisha to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The award is given to the coaches who have devoted their career to imparting Coaching in any of the major sports disciplines and have coached Sportspersons achieving excellence at National and International levels.
+
+> **Objective:**
+
+1.  To encourage the development of Sports and Games in the State.
+2.  To honour meritorious sportspersons who have made the State Proud.
+
+**Coach:** A person who has been employed as a Coach in State Government, Sports and Youth Services Department, SAI, O.C.S., Sports Associations, or any other Corporate, Private Sectors, Organizations, Clubs with regular sports activities in pursuing active coaching in individual capacity or a person who produces outstanding result in different Olympic Sports Disciplines and non-Olympic Sports Disciplines recognized by G.O.I. and State Government and such Indigenous Sports which are recognized by the State Government under extant Rule.
+
+**Sports Discipline:** The sports disciplines recognized by the International Olympic Committee (I.O.C.), Indian Olympic Association (I.O.A.), Government of India (G.O.I.), Sports Authority of India (S.A.I.) and Government of Odisha (G.O.O.) including Sports Event for Persons with Disability.
+
+[### Benefits](https://www.myscheme.gov.in/schemes/bpsaec#benefits)
+
+1.  The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of ₹1,00,000/-.
+2.  A statue, a scroll of honour, and a blazer with a tie shall be given along with all the Cash Awards.
+3.  The Awardees shall be invited to receive the awards in person. They shall be given T.A. and D.A. at the rate admissible to a Grade 'A' Officer.
+
+**Note 01:** Canvassing for the award in any form is prohibited.
+
+**Note 02:** The award can also be given posthumously to the next of kin of the awardee.
+
+**Note 03:** In case of selection of more than one person for an award, the award money will be shared amongst the awardees.
+
+**Note 04:** It will not be binding on the Department of Sports & Youth Services to confer the award every year. In case of non-availability of suitable persons for the award, the award shall not be given for the respective year.
+
+[### Eligibility](https://www.myscheme.gov.in/schemes/bpsaec#eligibility)
+
+1.  The applicant should be a permanent resident of the State of Odisha or shall be staying at least for a period not less than 07 years.
+2.  To be eligible for this award, a coach should have devoted his/her career to imparting Coaching in any of the major sports disciplines and should have coached Sportspersons achieving excellence at National and International levels.
+3.  The applicant should not have been convicted of any criminal offence.
+4.  The award will be conferred on a person only once in his/her lifetime, pertaining to the concerned category.
+5.  The award can be given posthumously to the next of kin of the selected awardee.
+
+> **Annulment Cancellation of Award:**
+
+*   The Award may be cancelled in case it is found that it has been obtained by fraudulent means.
+*   In such event, the concerned person shall be asked to refund the award failing which steps will be taken to recover the involved cost from him/her with simple interest @ 5% per annum.
+
+[### Application Process](https://www.myscheme.gov.in/schemes/bpsaec#application-process)
+
+Offline
+
+> **Application process:**
+
+**Step 01:** Advertisement for the award shall be uploaded every year in January on the [Department Website](https://sports.odisha.gov.in/) with the prescribed format for the application.
+
+**Step 02:** The applicants can download the application form from the official website or collect it from the office of District Collector, DSOs, SPs, NYKS, Odisha Council of Sports and Sports & Youth Services Department.
+
+**Step 03:** Fill in the all necessary details in the application form and attach all the relevant documents.
+
+**Step 04:** The application forms can be sent by the Collector, SP, DSO, NYKS concerned Sports Association, the person himself/herself, or Odisha Council of Sports to the Sports & Youth Services Department.
+
+**Note 01:** The Department of Sports and Youth Services also reserves the right to suo moto nominate names for the award.
+
+**Note 02:** The application form and all supporting documents must be self-attested by the applicant, i.e. there is no need for attestation by any Gazetted officer.
+
+> **Scrutiny of Application:**
+
+*   The Secretary, Sports, and Youth Services Department will constitute a five-member scrutiny Committee comprising senior officials and coaches of the Department with Director-cum-Addl. Secretary, Sports and Youth Services Department or the senior most officer of the Department as head of the Committee to scrutinize all the applications and place the scrutiny result before the selection committee for consideration.
+
+> **Selection Procedure:**
+
+*   An eight-member Selection Committee will be constituted by Govt. under the chairmanship of Secretary, Sports and Youth Services Department for the selection of awardees.
+*   The Selection Committee shall examine the scrutinized nominations/applications and recommend names for each award for approval of Government at the level of Hon'ble Minister, Sports & Youth Services.
+
+> **Timeline for the Award:**
+
+*   Invitation of application through issue of Advertisement: By 31st January.
+*   Last date for receipt of applications: By 31st March
+*   Scrutiny and Selection: By 31st May
+*   Award Ceremony: 29th August (National Sports Day)
+
+[### Documents Required](https://www.myscheme.gov.in/schemes/bpsaec#documents-required)
+
+1.  Identity proof
+2.  Three Passport size photographs
+3.  Proof of Residence
+4.  Details of Career as a Coach (Supported documents)
+5.  Details of Qualification as a Coach (Necessary documents)
+6.  Details regarding the Sports person(s) who have achieved excellence at National/International recognized competitions under his/her Coaching and guidance
+7.  Adequate documentary evidence in support of the claim for the award
+
+[### Frequently Asked Questions](https://www.myscheme.gov.in/schemes/bpsaec#faqs)
+
+What is the "Biju Patnaik Sports Award for Excellence in Coaching"?
+
+It is a distinguished category under the "Biju Patnaik Sports Award" Scheme, initiated by the Sports & Youth Services Department, Government of Odisha. This award honors individuals who have demonstrated exceptional coaching contributions in sports.
+
+Which department has launched the Scheme?
+
+Sports & Youth Services Department, Government of Odisha
+
+What does 'Coach' mean?
+
+A coach means a person who has been employed as a Coach in State Government, Sports and Youth Services Department, SAI, O.C.S., Sports Associations, or any other Corporate, Private Sectors, Organizations, Clubs with regular sports activities in pursuing active coaching in individual capacity or a person who produces outstanding result in different Olympic Sports Disciplines and non-Olympic Sports Disciplines recognized by G.O.I. and State Government and such Indigenous Sports which are recognized by the State Government under extant Rule.
+
+How often is this award presented?
+
+The award is presented every year, subject to the availability of a suitable candidate, to recognize outstanding coaching contributions.
+
+What are the financial benefits associated with the award?
+
+The award carries a cash prize of ₹1,00,000/-, which is presented to the deserving candidate.
+
+Besides the cash award, what other honors are given to the awardees?
+
+In addition to the cash award, awardees receive a statue, a scroll of honour, and a blazer with a tie.
+
+Is the awardee required to be present to receive the award?
+
+Yes, awardees are invited to receive the awards in person. They are also entitled to Travel Allowance (T.A.) and Daily Allowance (D.A.) at the rate admissible to a Grade 'A' Officer.
+
+Is the award given posthumously if the awardee is no longer alive?
+
+Yes, the award can be given posthumously to the next of kin of the awardee, recognizing the contributions made during their lifetime.
+
+What happens if more than one person is selected for an award in a specific year?
+
+In case of the selection of more than one person for an award, the award money will be shared among the awardees.
+
+Is the Department of Sports & Youth Services obligated to confer the award every year?
+
+No, it is not binding on the Department of Sports & Youth Services to confer the award every year. If suitable candidates are not available, the award may not be given for that respective year.
+
+Who is eligible to apply for the Coach Excellence Award?
+
+The applicant should be a permanent resident of the State of Odisha or should have been residing in the state for a minimum period of 07 years.
+
+What qualifications are required for eligibility?
+
+To be eligible for this award, a coach should have devoted his/her career to imparting Coaching in any of the major sports disciplines and should have coached Sportspersons achieving excellence at National and International levels.
+
+Are there any legal considerations for eligibility?
+
+Yes, the applicant should not have been convicted of any criminal offence to be considered eligible for the Coach Excellence Award.
+
+Can a person receive the award more than once?
+
+No, the award will be conferred on a person only once in their lifetime, specific to the respective category.
+
+How to apply for the award under this scheme?
+
+Applicants can collect the application form from the specified offices, fill in the necessary details, attach all the required documents (self-attested), and submit the form to the designated authority.
+
+[### Sources And References](https://www.myscheme.gov.in/schemes/bpsaec#sources)
+
+[Official Website](https://sports.odisha.gov.in/schemes/sports-persons-welfare-schemes)
+
+[Scheme Guidelines](https://sports.odisha.gov.in/sites/default/files/2021-12/BijuPatnaikSportsAwardnew.pdf)
+
+[Application Form-2022](https://sports.odisha.gov.in/sites/default/files/2023-07/Application-Biju-Patnaik-Awards.pdf)
+
+Ok
+
+Was this helpful?
+
+#### News and Updates
+
+No new news and updates available
+
+#### Share
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Odisha
+------
+
+Biju Patnaik Sports Award for Excellence in Coaching
+====================================================
+
+Coach
+
+Coaching
+
+Games
+
+Sports Award
+
+Details
+
+Benefits
+
+Eligibility
+
+Application Process
+
+Documents Required
+
+Frequently Asked Questions
+
+The “Biju Patnaik Sports Award for Excellence in Coaching” is a category of award under the “Biju Patnaik Sports Award" Scheme. The scheme was launched by the Sports & Youth Services Department, Government of Odisha to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The award is given to the coaches who have devoted their career to imparting Coaching in any of the major sports disciplines and have coached Sportspersons achieving excellence at National and International levels.
+
+> **Objective:**
+
+1.  To encourage the development of Sports and Games in the State.
+2.  To honour meritorious sportspersons who have made the State Proud.
+
+**Coach:** A person who has been employed as a Coach in State Government, Sports and Youth Services Department, SAI, O.C.S., Sports Associations, or any other Corporate, Private Sectors, Organizations, Clubs with regular sports activities in pursuing active coaching in individual capacity or a person who produces outstanding result in different Olympic Sports Disciplines and non-Olympic Sports Disciplines recognized by G.O.I. and State Government and such Indigenous Sports which are recognized by the State Government under extant Rule.
+
+**Sports Discipline:** The sports disciplines recognized by the International Olympic Committee (I.O.C.), Indian Olympic Association (I.O.A.), Government of India (G.O.I.), Sports Authority of India (S.A.I.) and Government of Odisha (G.O.O.) including Sports Event for Persons with Disability.
+
+Ok
+
+Was this helpful?
+
+#### Share
+
+#### News and Updates
+
+No new news and updates available
+
+©2024
+
+[![Image 13: myScheme](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)](https://www.myscheme.gov.in/)
+
+Powered by![Image 14](blob:https://www.myscheme.gov.in/a01e597e35ed1eeaefa52c5d0c5fe71b)![Image 15: Digital India](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
+
+Digital India Corporation(DIC)Ministry of Electronics & IT (MeitY)Government of India®
+
+Quick Links
+-----------
+
+*   [About Us](https://www.myscheme.gov.in/about)
+*   [Contact Us](https://www.myscheme.gov.in/contact)
+*   [Screen Reader](https://www.myscheme.gov.in/screen-reader)
+*   [Accessibility Statement](https://www.myscheme.gov.in/accessibility-statement)
+*   [Frequently Asked Questions](https://www.myscheme.gov.in/faqs)
+*   [Disclaimer](https://www.myscheme.gov.in/disclaimer)
+*   [Terms & Conditions](https://www.myscheme.gov.in/terms-conditions)
+
+Useful Links
+------------
+
+*   ![Image 16: di](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Browser
+*   ![Image 17: digilocker](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Paris</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+*   ![Image 18: umang](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+*   ![Image 19: indiaGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+*   ![Image 20: myGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Host
+*   ![Image 21: dataGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89bb1bd9f8add65e</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
+*   ![Image 22: igod](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
 
+Get in touch
+------------
 
-    </div>
-</div>
-</body>
-</html>
+4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India
+
+support-myscheme\[at\]digitalindia\[dot\]gov\[dot\]in
+
+(011) 24303714
+
+Last Updated On : 09/07/2024 | v-2.1.8
