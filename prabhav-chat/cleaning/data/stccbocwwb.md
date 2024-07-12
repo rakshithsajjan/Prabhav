@@ -1,125 +1,343 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Supply of Tri-Cycles (CBOCWWB)
 
+URL Source: https://www.myscheme.gov.in/schemes/stccbocwwb
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+Supply of Tri-Cycles (CBOCWWB)
+===============
+  
 
+### Are you sure you want to sign out?
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 03:35:52 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+CancelSign Out
+
+[![Image 1: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 2: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+==================================================================================
+
+[![Image 3](blob:https://www.myscheme.gov.in/7029bfa5283c1934d72d4efe1c626373)![Image 4: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+*   ![Image 5](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 6: Change language](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    Eng
     
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+
+[![Image 7: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 8: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+
+[![Image 9](blob:https://www.myscheme.gov.in/04e0786ebe0ffe2b3244c2451b75b80f)![Image 10: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+![Image 11](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 12: Change language](https://cdn.myscheme.in/images/icons/language.svg)English/हिंदी
+
+Theme
+
+*   Sign In
+
+Back
+
+*   Details
+*   Benefits
+*   Eligibility
+*   Application Process
+*   Documents Required
+*   Frequently Asked Questions
+*   Sources And References
+*   Feedback
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Chandigarh
+----------
+
+Supply of Tri-Cycles (CBOCWWB)
+==============================
+
+Construction Worker
+
+Labour
+
+Tri-Cycle
+
+[### Details](https://www.myscheme.gov.in/schemes/stccbocwwb#details)
+
+The scheme “Supply of Tri-Cycles” was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, Tri-Cycles will be provided by the Board to the disabled registered construction workers and their dependents, once in life time.
+
+[### Benefits](https://www.myscheme.gov.in/schemes/stccbocwwb#benefits)
+
+Tri-Cycles will be provided to the disabled registered construction workers and their dependents, once in life time.
+
+[### Eligibility](https://www.myscheme.gov.in/schemes/stccbocwwb#eligibility)
+
+1.  The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his/her contribution towards the labour welfare fund should regularly been received by the Board.
+2.  Tri-cycles will be provided to the disabled registered construction workers and their dependents.
+3.  The Tri-Cycles will be given on the production of disability certificate by the competent authority and once in a lifetime.
+4.  The applicant shall be eligible to avail the benefit of the scheme only after 06 months of becoming a member of the Board.
+
+[### Application Process](https://www.myscheme.gov.in/schemes/stccbocwwb#application-process)
+
+Online
+
+> **Registration Process under Chandigarh Building and Other Construction Workers Welfare Board:**
+
+**Step 01:** Applicants need to visit the official website of the Labour Department Chandigarh: [http://labour.chd.gov.in/](http://labour.chd.gov.in/)﻿
+
+**Step 02:** On the home page, click on ‘[Click Here for Registration](https://www.serviceonline.gov.in/citizenRegistration.html)’ and a registration page will open. Fill in all the mandatory details and click on the ‘Submit’ button.
+
+**Step 03:** After submitting the details, an OTP is sent to the registered email-id and mobile number, enter the OTP and then submit. Note down your ‘User ID’ and ‘Password’ for future correspondence.
+
+**Step 04:** After registering yourself successfully, visit on Login page and click on ‘[Login](https://www.serviceonline.gov.in/loginWindow.do)’. Fill up the Login ID & Password and click on ‘Login’.
+
+**Step 05:** After the login, click on ‘Apply for Services’ and click on (view all available services). In the search box type (BOCW) and click on (BOCW Application for Registration as a New Member /Renewal).
+
+**Step 06:** Download the CBOCW form and fill up the requisite information and upload this form on the next step.
+
+**Step 07:** Fill up the details for ‘New Member’ and click on the ‘Submit’ button. After submitting, click on 'Attach Annexure' and attach all mandatory annexures and save the annexure.
+
+**Step 08:** After saving the annexure, click on ‘Make Payment’ and complete the payment process.
+
+**Step 09:** Now, click on ‘proceed’ and an acknowledgement receipt will be generated by the system.
+
+**Note 01:** Attach a clear picture on both sides of the Aadhaar Card.
+
+**Note 02:** Attach a clear picture of the Bank Passbook.
+
+**Note 03:** Attach a clear picture of all the pages which have been filled on the BOCW Copy issued by the Board.
+
+([User Manual](http://labour.chd.gov.in/pdf/BOCW%20user%20manual.pdf))
+
+> **Application Process to apply under the scheme:**
+
+**Step 01:** Applicants need to visit the official website of Labour Department Chandigarh: [http://labour.chd.gov.in/](http://labour.chd.gov.in/)﻿
+
+**Step 02:** On the home page, select the scheme ‘SUPPLY OF TRI-CYCLES’ under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board.
+
+**Step 03:** Read details of the scheme and on the bottom of the page, click on ‘[Click here to Apply/Register](https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&message=Successfully+logged+out&OWASP_CSRFTOKEN=HP8Q-F5JT-MJYR-ZOPL-KMHT-VYI2-NUWH-4F5P)’. (The applicant may also read the user manual by clicking on the ‘[Click here for User Manual](http://labour.chd.gov.in/pdf/LWB.pdf)’.)
+
+**Step 04:** If the applicant not register, click on ‘register yourself’. A ‘ServicePlus’ window/page will open and fill in all the details to register.
+
+**Step 05:** Now, to apply for the scheme, click on ‘Apply for Service’ and use ‘ServicePlus’ credentials to Login i.e. ‘User ID’ & ‘Password’.
+
+**Step 06:** After successful Login, the applicant will be redirected automatically to the online application page by clicking on the ‘Apply for Service’ tab.
+
+**Step 07:** In the application form, fill in Applicant's Personal Details, select the scheme (Tri-Cycle for disabled) & Work Place Details. After furnishing all the mandatory details click on ‘Self-Declaration’ and fill in additional details.
+
+**Step 08:** Enter the verification code/Captcha and click on the ‘Submit’ button.
+
+**Step 09:** Preview all the filled details and click on ‘Attach Annexure’.
+
+**Step 10:** Upload all the mandatory documents and click on ‘Save Annexure’.
+
+**Step 11:** After verifying all the details, click on the ‘Submit’ button.
+
+**Step 12:** Take a printout of the generated ‘Acknowledgement Receipt’ for future reference.
+
+**Step 13:** To track the application status, the applicant can visit the official website of the Labour Department and login through their ‘User ID’ & ‘Password’.
+
+**Step 14:** Click on ‘[Track Application Status](https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&message=Successfully+logged+out&OWASP_CSRFTOKEN=HP8Q-F5JT-MJYR-ZOPL-KMHT-VYI2-NUWH-4F5P)’ and fill in all the details. Now click on ‘Get Data’ to know the status of your application.
+
+[### Documents Required](https://www.myscheme.gov.in/schemes/stccbocwwb#documents-required)
+
+> **Documents required for Registration under CBOCWWB:**
+
+1.  Passport size photograph
+2.  Filled-in/signed form of CBOCW Board
+3.  Copy of Aadhaar Card of applicant
+4.  BOCW Card, if any
+5.  Copy of Aadhaar Card of nominee
+6.  Bank details
+7.  Receipt of payment file
+8.  Any other relevant documents
+
+> **Documents required for Grant of Welfare Schemes:**
+
+1.  Passport-size photograph
+2.  A copy of Aadhaar card of the applicant
+3.  Disability certificate issued by competent authority
+4.  Original bill of article purchased
+5.  Bank account details/Bank Passbook
+6.  Copy of salary slip of the worker
+7.  Any other relevant documents
+
+[### Frequently Asked Questions](https://www.myscheme.gov.in/schemes/stccbocwwb#faqs)
+
+What is the "Supply of Tri-Cycles" scheme?
+
+The "Supply of Tri-Cycles" scheme is an initiative by the Chandigarh Building and Other Construction Workers Welfare Board, Labour Department, Chandigarh. Under this scheme, the Board aims to provide tri-cycles to disabled registered construction workers and their dependents as a one-time benefit.
+
+Who is eligible to benefit from the Tri-Cycle supply scheme?
+
+Disabled registered construction workers and their dependents are eligible to benefit from the scheme.
+
+What is the benefit offered by the scheme?
+
+The primary benefit of the scheme is the provision of tri-cycles to disabled registered construction workers and their dependents.
+
+Who is eligible to benefit from the "Supply of Tri-Cycles" scheme?
+
+To be eligible for the scheme, the beneficiary must be actively working in an Establishment registered under the Punjab Labour Welfare Fund Act, 1965. Furthermore, their regular contributions towards the labour welfare fund should be received by the Board.
+
+Are there any exceptions to the one-time provision of Tri-Cycles?
+
+No, the provision of tri-cycles is a one-time benefit.
+
+What is the significance of a disability certificate in the eligibility process?
+
+To qualify for the scheme, the disabled individual or their dependent must produce a disability certificate issued by the competent authority.
+
+How soon can an individual avail themselves of the tri-cycle benefit after becoming a member of the Board?
+
+To be eligible for the scheme, an applicant must be a member of the Board for a continuous period of six months.
+
+How to apply under the scheme?
+
+To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme ‘SUPPLY OF TRI-CYCLES’ under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board: http://labour.chd.gov.in/
+
+[### Sources And References](https://www.myscheme.gov.in/schemes/stccbocwwb#sources)
+
+[Official Website](http://labour.chd.gov.in/PublicPages/supply-of-tri-cycles.aspx)
+
+[Application Portal](https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&message=Successfully+logged+out&OWASP_CSRFTOKEN=HP8Q-F5JT-MJYR-ZOPL-KMHT-VYI2-NUWH-4F5P)
+
+[User Manual](http://labour.chd.gov.in/pdf/LWB.pdf)
+
+Ok
+
+Was this helpful?
+
+#### News and Updates
+
+No new news and updates available
+
+#### Share
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Chandigarh
+----------
+
+Supply of Tri-Cycles (CBOCWWB)
+==============================
+
+Construction Worker
+
+Labour
+
+Tri-Cycle
+
+Details
+
+Benefits
+
+Eligibility
+
+Application Process
+
+Documents Required
+
+Frequently Asked Questions
+
+The scheme “Supply of Tri-Cycles” was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, Tri-Cycles will be provided by the Board to the disabled registered construction workers and their dependents, once in life time.
+
+Ok
+
+Was this helpful?
+
+#### Share
+
+#### News and Updates
+
+No new news and updates available
+
+©2024
+
+[![Image 13: myScheme](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)](https://www.myscheme.gov.in/)
+
+Powered by![Image 14](blob:https://www.myscheme.gov.in/a01e597e35ed1eeaefa52c5d0c5fe71b)![Image 15: Digital India](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
+
+Digital India Corporation(DIC)Ministry of Electronics & IT (MeitY)Government of India®
+
+Quick Links
+-----------
+
+*   [About Us](https://www.myscheme.gov.in/about)
+*   [Contact Us](https://www.myscheme.gov.in/contact)
+*   [Screen Reader](https://www.myscheme.gov.in/screen-reader)
+*   [Accessibility Statement](https://www.myscheme.gov.in/accessibility-statement)
+*   [Frequently Asked Questions](https://www.myscheme.gov.in/faqs)
+*   [Disclaimer](https://www.myscheme.gov.in/disclaimer)
+*   [Terms & Conditions](https://www.myscheme.gov.in/terms-conditions)
+
+Useful Links
+------------
+
+*   ![Image 16: di](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Browser
+*   ![Image 17: digilocker](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Paris</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+*   ![Image 18: umang](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+*   ![Image 19: indiaGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+*   ![Image 20: myGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Host
+*   ![Image 21: dataGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89bb1965d9e701ed</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
+*   ![Image 22: igod](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
 
+Get in touch
+------------
 
-    </div>
-</div>
-</body>
-</html>
+4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India
+
+support-myscheme\[at\]digitalindia\[dot\]gov\[dot\]in
+
+(011) 24303714
+
+Last Updated On : 09/07/2024 | v-2.1.8

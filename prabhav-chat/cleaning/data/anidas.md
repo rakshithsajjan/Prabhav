@@ -1,125 +1,343 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: The Andaman & Nicobar Islands Disability Allowance Scheme
 
+URL Source: https://www.myscheme.gov.in/schemes/anidas
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+The Andaman & Nicobar Islands Disability Allowance Scheme
+===============
+  
 
+### Are you sure you want to sign out?
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 02:57:16 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+CancelSign Out
+
+[![Image 1: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 2: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+==================================================================================
+
+[![Image 3](blob:https://www.myscheme.gov.in/7029bfa5283c1934d72d4efe1c626373)![Image 4: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+*   ![Image 5](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 6: Change language](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    Eng
     
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+
+[![Image 7: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 8: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+
+[![Image 9](blob:https://www.myscheme.gov.in/04e0786ebe0ffe2b3244c2451b75b80f)![Image 10: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+![Image 11](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 12: Change language](https://cdn.myscheme.in/images/icons/language.svg)English/हिंदी
+
+Theme
+
+*   Sign In
+
+Back
+
+*   Details
+*   Benefits
+*   Eligibility
+*   Application Process
+*   Documents Required
+*   Frequently Asked Questions
+*   Sources And References
+*   Feedback
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Andaman and Nicobar Islands
+---------------------------
+
+The Andaman & Nicobar Islands Disability Allowance Scheme
+=========================================================
+
+Allowance
+
+Disability
+
+Financial Assistance
+
+Persons With Disability
+
+PwD
+
+Unemployed
+
+[### Details](https://www.myscheme.gov.in/schemes/anidas#details)
+
+The scheme “The Andaman & Nicobar Islands Disability Allowance Scheme” is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to the differently able unemployed persons with 40% disability or more in the Andaman and Nicobar Islands.
+
+[### Benefits](https://www.myscheme.gov.in/schemes/anidas#benefits)
+
+1.  The quantum of Disability Allowance shall be ₹2500/- per month subject to eligibility.
+2.  The financial assistance sanction shall be payable to a disabled person till his/her death subject to the conditions.
+3.  Disability allowance shall become payable from the month following the one in which it is sanctioned.
+
+**Note:** Assistance shall be stopped on the death of the disabled person, if the disabled person dies, before receiving assistance for a particular period, the same shall lapse.
+
+> **Mode of Payment:**
+
+*   Payment of allowance shall be made through Bank Account on a monthly basis.
+
+[### Eligibility](https://www.myscheme.gov.in/schemes/anidas#eligibility)
+
+1.  Persons who are permanent residents of the Union Territory of Andaman and Nicobar Islands or have resided in the Union Territory of Andaman and Nicobar Islands for more than 10 years at the time of making the application.
+2.  A person of age 01 month or more and having 40% & above disability is eligible under the scheme.
+3.  There is no income ceiling to avail this allowance.
+4.  The applicant is neither in receipt of any other financial assistance/allowances nor employed anywhere.
+
+> **Cancellation of Assistance:**
+
+*   The sanctioning authority i.e. Director (Social Welfare) shall have the right cancel to the sanction of assistance at any stage if it is found that it was sanctioned on a mistaken ground or false information tendered or the conditions under which the assistance was granted no longer exist.
+*   The assistance shall be stopped if the beneficiary gets employment.
+
+[### Application Process](https://www.myscheme.gov.in/schemes/anidas#application-process)
+
+Offline
+
+> **Application Process:**
+
+**Step 01:** The application form shall be available free of cost at the Directorate of Social Welfare, Port Blair, and the sub-divisional offices of CDPOs. The [application form](http://andssw1.and.nic.in/socialwelfare/pdf/allowances_form.pdf) can also be downloaded from the [official website](http://andssw1.and.nic.in/socialwelfare/).
+
+**Step 02:** Application for "Financial Assistance" shall be submitted in the prescribed format in the offices of the concerned Child Development Project Officers located at Port Blair, Ferrargunj, Rangat, Diglipur, and Car Nicobar.
+
+> **Verification:**
+
+The Application for sanction of allowance under the scheme shall be verified by the Mukhya Sevikas with a counter signature or the CDPO concerned and forwarded to the Director (Social Welfare) for sanction.
+
+> Change of Address/Employment Status:
+
+It shall be obligatory for the person receiving assistance to inform about the change of address/employment status, if any, to the Director of Social Welfare within days of such change.
+
+[### Documents Required](https://www.myscheme.gov.in/schemes/anidas#documents-required)
+
+1.  Passport-size photograph
+2.  Identity proof i.e. Aadhaar Card
+3.  Disability certificate
+4.  Proof of Residence i.e. Local Certificate or Islander Identity Card issued by the competent Authority shall be considered. In the absence of the above two, a certificate issued by the Tehsildar of the respective Tehsils stating their stay in the A & N Islands for a minimum period of 10 years shall suffice.
+5.  Caste/community certificate, if applicable
+6.  Bank account details/Copy of passbook
+7.  Affidavit
+8.  Certificate to be furnished by State Institute of Education (Mandatory only in case of Persons with disabilities whose age is less than 18 years)
+9.  Any other document as required
+
+**Note:** Disability certificate shall be renewed every five years.
+
+[### Frequently Asked Questions](https://www.myscheme.gov.in/schemes/anidas#faqs)
+
+What is the objective of the Scheme?
+
+The objective of the scheme is to provide financial assistance to the differently able unemployed persons with 40% disability or more in the Andaman and Nicobar Islands.
+
+What are the benefits offered under the scheme?
+
+What are the benefits offered under the scheme?
+
+How long is the financial assistance provided?
+
+The financial assistance is provided until the death of the disabled person.
+
+What happens if the disabled person passes away before receiving assistance for a specific period?
+
+If the disabled person dies before receiving assistance for a particular period, the assistance for that period lapses.
+
+When does the Disability Allowance become payable?
+
+The Disability Allowance becomes payable from the month following the one in which it is sanctioned.
+
+How is the allowance paid?
+
+The allowance is paid through the beneficiary's Bank Account on a monthly basis.
+
+Who is eligible to apply for the scheme?
+
+Permanent residents of the Union Territory of Andaman and Nicobar Islands or those who have resided in the UT for more than 10 years are eligible. Additionally, individuals aged 01 month or more with 40% and above disability are eligible, with no income ceiling to avail the allowance.
+
+Under what circumstances can the assistance be canceled?
+
+The assistance can be canceled if it was sanctioned based on mistaken grounds or false information, or if the conditions for which it was granted no longer exist. Assistance will also cease if the beneficiary gains employment.
+
+Who has the authority to cancel assistance?
+
+The Director (Social Welfare) has the authority to cancel the sanction of assistance.
+
+How is the application for allowance verified?
+
+The application is verified by the Mukhya Sevikas with counter signature or the CDPO concerned before being forwarded to the Director (Social Welfare) for sanction.
+
+What is the procedure for informing about changes in address or employment status?
+
+Beneficiaries must inform the Director of Social Welfare within days of any change in address or employment status.
+
+How can an applicant apply for the scheme?
+
+Application for "Financial Assistance" shall be submitted in the prescribed format in the offices of the concerned Child Development Project Officers located at Port Blair, Ferrargunj, Rangat, Diglipur and Car Nicobar.
+
+Is there a validity period for the disability certificate?
+
+Yes, the disability certificate must be renewed every five years.
+
+Can individuals outside the specified disability percentage apply for the scheme?
+
+No, individuals must have a disability of 40% or more to qualify for the scheme.
+
+Is there an age limit for beneficiaries?
+
+There is no upper age limit for beneficiaries to avail of the Disability Allowance.
+
+[### Sources And References](https://www.myscheme.gov.in/schemes/anidas#sources)
+
+[Guidelines](http://andssw1.and.nic.in/socialwelfare/pdf/DisabilityAllowance.pdf)
+
+[Official Website](http://andssw1.and.nic.in/socialwelfare/)
+
+[Application Form](http://andssw1.and.nic.in/socialwelfare/pdf/allowances_form.pdf)
+
+Ok
+
+Was this helpful?
+
+#### News and Updates
+
+No new news and updates available
+
+#### Share
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Andaman and Nicobar Islands
+---------------------------
+
+The Andaman & Nicobar Islands Disability Allowance Scheme
+=========================================================
+
+Allowance
+
+Disability
+
+Financial Assistance
+
+Persons With Disability
+
+PwD
+
+Unemployed
+
+Details
+
+Benefits
+
+Eligibility
+
+Application Process
+
+Documents Required
+
+Frequently Asked Questions
+
+The scheme “The Andaman & Nicobar Islands Disability Allowance Scheme” is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to the differently able unemployed persons with 40% disability or more in the Andaman and Nicobar Islands.
+
+Ok
+
+Was this helpful?
+
+#### Share
+
+#### News and Updates
+
+No new news and updates available
+
+©2024
+
+[![Image 13: myScheme](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)](https://www.myscheme.gov.in/)
+
+Powered by![Image 14](blob:https://www.myscheme.gov.in/a01e597e35ed1eeaefa52c5d0c5fe71b)![Image 15: Digital India](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
+
+Digital India Corporation(DIC)Ministry of Electronics & IT (MeitY)Government of India®
+
+Quick Links
+-----------
+
+*   [About Us](https://www.myscheme.gov.in/about)
+*   [Contact Us](https://www.myscheme.gov.in/contact)
+*   [Screen Reader](https://www.myscheme.gov.in/screen-reader)
+*   [Accessibility Statement](https://www.myscheme.gov.in/accessibility-statement)
+*   [Frequently Asked Questions](https://www.myscheme.gov.in/faqs)
+*   [Disclaimer](https://www.myscheme.gov.in/disclaimer)
+*   [Terms & Conditions](https://www.myscheme.gov.in/terms-conditions)
+
+Useful Links
+------------
+
+*   ![Image 16: di](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Browser
+*   ![Image 17: digilocker](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Paris</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+*   ![Image 18: umang](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+*   ![Image 19: indiaGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+*   ![Image 20: myGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Host
+*   ![Image 21: dataGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89bae0dbfe7b047d</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
+*   ![Image 22: igod](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
 
+Get in touch
+------------
 
-    </div>
-</div>
-</body>
-</html>
+4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India
+
+support-myscheme\[at\]digitalindia\[dot\]gov\[dot\]in
+
+(011) 24303714
+
+Last Updated On : 09/07/2024 | v-2.1.8

@@ -1,125 +1,106 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Gharelu Hinsa Ki Pidita Ke Liye Sahayta Yojana
 
+URL Source: https://www.myscheme.gov.in/schemes/ghpklsy
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+### Something went wrong. Please try again later.
 
+### 
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 03:11:54 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Browser
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+### You need to sign in before applying for schemes
 
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Paris</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+### Something went wrong. Please try again later.
 
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Host
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
+### It seems you have already initiated your application earlier.To know more please visit
 
-                </div>
-            </div>
-        </div>
+### Apply Now
 
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
+### Check Eligibility
 
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
+Madhya Pradesh
+--------------
 
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89baf64c1b4a007e</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
+Domestic Violence
 
+Empowerment
 
-    </div>
-</div>
-</body>
-</html>
+Financial Support
+
+Victim
+
+Women
+
+[### Details](https://www.myscheme.gov.in/schemes/ghpklsy#details)
+
+The Protection of Women from Domestic Violence Act of 2005 stands as a significant legal framework designed to safeguard women from various forms of abuse within the confines of their homes. This pivotal legislation extends the right to protection and assistance to women facing domestic violence, encompassing a spectrum of abuses ranging from physical and sexual violence to verbal, emotional, and economic coercion. Its comprehensive scope acknowledges the multifaceted nature of domestic abuse, recognizing that victims may suffer various forms of harm beyond physical injury.
+
+Notably, the Act includes provisions for compensation aimed at aiding women and girls who endure physical harm resulting from domestic violence. This provision underscores the state's commitment to not only preventing further harm but also providing support and redressal for victims who have endured the trauma of abuse within their intimate relationships or households. By addressing the holistic needs of survivors, including financial assistance for physical injuries sustained, the Act embodies a proactive approach toward combating domestic violence, emphasizing the importance of empowering victims and holding perpetrators accountable for their actions.
+
+[### Benefits](https://www.myscheme.gov.in/schemes/ghpklsy#benefits)
+
+**The victim will be assisted as follows**
+
+1.  If the disabilities of less than 40% resulting from damage to any part of the body, compensation of up to ₹2,00,000/- will be provided.
+2.  If the disability exceeds 40% due to damage to any part of the body, the compensation increases to a maximum of ₹4,00,000/-.
+
+[### Eligibility](https://www.myscheme.gov.in/schemes/ghpklsy#eligibility)
+
+*   The applicant must be permanent resident of Madhya Pradesh.
+*   The applicant must be women and girls only.
+*   The applicant must be affected by domestic violence.
+
+[### Application Process](https://www.myscheme.gov.in/schemes/ghpklsy#application-process)
+
+1.  An application has to be submitted by the applicant (victim/dependent) to the Protection Officer/Administrator within 1 year from the date of the incident. If information is received through any medium, the Protection Officer/Administrator can take cognizance of the incident of domestic violence and contact the applicant themselves to receive the application.
+2.  A copy of the FIR lodged for the incident needs to be attached mandatory with the application.
+3.  The Protection Officer/Administrator will forward their report to the District Program Officer.
+4.  The District Program Officer will get the physical injury assessed by the government medical board.
+5.  The application received under this scheme will be placed for consideration/decision before the District Level Committee constituted by the District Collector of the concerned district as follows:
+
+1.  District Collector - Chairperson
+2.  Superintendent of Police - Member
+3.  Chief Medical and Health Officer - Member
+4.  District Program Officer, Women and Child Development Department - Member Secretary.
+
+7.  Approval will be issued by the District Program Officer, Women and Child Development Department.
+
+[### Documents Required](https://www.myscheme.gov.in/schemes/ghpklsy#documents-required)
+
+*   Proof of identity.
+*   Medical reports (if applicable).
+*   Police reports or complaints.
+*   Any other relevant documents related to the domestic violence incident.
+
+[### Frequently Asked Questions](https://www.myscheme.gov.in/schemes/ghpklsy#faqs)
+
+What is the Gharelu Hinsa Pidit Ke Liye Sahayata Yojana?
+
+Gharelu Hinsa Pidit Ke Liye Sahayata Yojana is a scheme aimed at providing assistance and support to victims of domestic violence.
+
+Who is eligible to benefit from this scheme?
+
+Any Individual women/girls who have experienced domestic violence, including physical, emotional, or economic abuse, are eligible to receive support.
+
+How can individuals access assistance under this scheme?
+
+An application has to be submitted by the applicant (victim/dependent) to the Protection Officer/Administrator within 1 year from the date of the incident. If information is received through any medium, the Protection Officer/Administrator can take cognizance of the incident of domestic violence and contact the applicant themselves to receive the application.
+
+What documents are required to access assistance under this scheme?
+
+Required the following documents 1. Proof of identity. 2. Medical reports (if applicable). 3. Police reports or complaints. 4. Any other relevant documents related to the domestic violence incident.
+
+What benefits are provided under the scheme?
+
+Financial benefits are provided.
+
+How much financial benefits are provided if disabilities is less than 40% ?
+
+If the disability less than 40% resulting from damage to any part of the body, compensation of up to ₹2,00,000/- will be provided.
+
+How much financial benefits are provided if disabilities is more than 40% ?
+
+If the disability exceeds 40% due to damage to any part of the body, the compensation increases to a maximum of ₹4,00,000/-.
+
+May other state women/girl get the scheme benefits?
+
+No, this scheme is only for Madhya Pradesh State person.

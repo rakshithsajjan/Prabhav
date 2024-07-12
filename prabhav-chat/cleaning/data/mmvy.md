@@ -1,125 +1,300 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Mukhyamantri Medhavi Vidhyarti Yojana
 
+URL Source: https://www.myscheme.gov.in/schemes/mmvy
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+Mukhyamantri Medhavi Vidhyarti Yojana
+===============
+  
 
+### Are you sure you want to sign out?
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 03:28:05 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+CancelSign Out
+
+[![Image 1: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 2: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+==================================================================================
+
+[![Image 3](blob:https://www.myscheme.gov.in/7029bfa5283c1934d72d4efe1c626373)![Image 4: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+*   ![Image 5](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 6: Change language](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    Eng
     
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+
+[![Image 7: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 8: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+
+[![Image 9](blob:https://www.myscheme.gov.in/04e0786ebe0ffe2b3244c2451b75b80f)![Image 10: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+![Image 11](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 12: Change language](https://cdn.myscheme.in/images/icons/language.svg)English/हिंदी
+
+Theme
+
+*   Sign In
+
+Back
+
+*   Details
+*   Benefits
+*   Eligibility
+*   Application Process
+*   Documents Required
+*   Frequently Asked Questions
+*   Sources And References
+*   Feedback
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Madhya Pradesh
+--------------
+
+Mukhyamantri Medhavi Vidhyarti Yojana
+=====================================
+
+Financial Assitance
+
+Higher Education
+
+Student Finance
+
+[### Details](https://www.myscheme.gov.in/schemes/mmvy#details)
+
+The Government of Madhya Pradesh initiated the Mukhyamantri Medhavi Vidyarthi Yojana. The objective of the scheme is to provide promising career opportunities to meritorious and talented students
+
+[### Benefits](https://www.myscheme.gov.in/schemes/mmvy#benefits)
+
+*   Under the scheme, admission fee and actual fee (excluding mess fee and caution money) which is approved by Fee Regulatory Committee or M.P. Expenditure at graduation level as fixed by Private University Regulatory Commission or Government of India/State Government as the fee, Only that payment will be made.
+
+[### Eligibility](https://www.myscheme.gov.in/schemes/mmvy#eligibility)
+
+1.  The student is a resident of Madhya Pradesh.
+2.  The income of the father/guardian of the student is less than Rs.6.00 lakh.
+3.  The student has secured 70% or more marks in the 12th examination conducted by the Board of Secondary education or 85% or more marks in the 12th examination conducted by the CBSE/ICSE.
+4.  Student's Entrance Exam Information (Whichever is applicable)
+
+(i) Has secured a rank up to 1 lakh 50 thousand in JEE Mains examination and has taken admission in BE/B.Tech course.
+
+(ii) Have taken National Eligibility and Entrance Test (NEET) for admission to MBBS/BDS course.
+
+(iii) Have taken admission in law course through CLAT (Common Law Admission Test).
+
+(iv) Have taken admission in the medical institutions conducting MBBS/BDS courses of the Central Government on the basis of other entrance examinations.
+
+(v) has taken admission to a law course at the National Law Institute, New Delhi, or the University of Delhi, New Delhi on the basis of his/her own entrance examination.
+
+[### Application Process](https://www.myscheme.gov.in/schemes/mmvy#application-process)
+
+Online
+
+1.  Applicants have to visit the [official portal.](https://scholarshipportal.mp.nic.in/MedhaviChhatra/Medhavi_New/Default.aspx)﻿
+2.  Click on **Register** **on Portal** under Application.
+3.  The [application form](https://scholarshipportal.mp.nic.in/MedhaviChhatra/Public/Medhavi_Scholarship_Registration.aspx) will appear.
+4.  Fill out the required details.
+5.  Attach the required documents (if any).
+6.  And Submit
+
+﻿
+
+[### Documents Required](https://www.myscheme.gov.in/schemes/mmvy#documents-required)
+
+1.  Resident certificate of Madhya Pradesh.
+2.  Marks list of 10th and 12th exam.
+3.  Income certificate.
+4.  Aadhaar number.
+5.  Aadhaar-linked bank account in case of admission in aided/ private universities or colleges.
+6.  Item-wise fee details and receipt.
+
+[### Frequently Asked Questions](https://www.myscheme.gov.in/schemes/mmvy#faqs)
+
+Can Students Who Are Residents Of States Other Than Madhya Pradesh Apply For This Scheme?
+
+No. This scheme is only for the resident students of Madhya Pradesh state.
+
+If Some One Already Availed The Benefit Of This Scheme In The Previous Year And Now He/She Got Re-Admission In Next Year Year In Some Other Course. Can He/She Take Advantage Of The Scheme ?
+
+Under the current rules of the scheme, the benefit of the scheme can be taken for only one course. If applicants have already availed the benefit then they are not eligible for the scheme in the next session.
+
+What should Be The Eligible Percent Of The Students Who Passed In The 12th Examination Conducted By The By CBSE/ICSE.
+
+This scheme is for the students who have secured 85% or more marks in the 12th examination conducted by CBSE/ICSE.
+
+If Applicants have passed 12th class examination before year 2018 from Board of Secondary Education with more than 75% marks. Can they get benefits from the scheme?
+
+Yes, But it is necessary to fulfill the prescribed eligibility conditions under the scheme.
+
+Can general category students also take advantage of this scheme?
+
+Yes, students of all classes can take advantage of this scheme.
+
+If a student had already taken admission for higher studies before the year 2017 after passing 12th examination. Can he/she get benefits from the scheme now?
+
+No. This scheme has started from the year 2017-18, therefore the students who have got admission before the year 2017 are not eligible to take advantage of the scheme.
+
+Will applicants be eligible for this scheme if he/she take admission in a private engineering college?
+
+If your rank in JEE MAINS is less than 1 lakh 50 thousand and take admission in private engineering college, then Rs 1 lakh 50 thousand or actual fee (whichever is less) will be given under this scheme.
+
+If I have passed NEET exam then can I take advantage of this scheme?
+
+Yes, you can avail the benefits of this scheme in M.B.B.S. For the course, NEET can be taken in the passing year. All other eligibility conditions must be fulfilled.
+
+Will This Be Applicable On Taking Admission In Nursing Courses Conducted In Private Colleges to get the benefits of the scheme ??
+
+No.
+
+If Applicants have passed the Common Law Admission Test, can they take advantage of this scheme?
+
+Yes, they can take advantage of this scheme (CLAT) in the passing year, but it will be necessary to fulfill all other eligibility related conditions.
+
+Are applicants eligible for admission in any other university/ college admitted through examination other than CLAT?
+
+Yes, the benefit of the scheme will be available only after getting admission in law related undergraduate course in National Law University, New Delhi and University of Delhi through the examination conducted by the institute.
+
+[### Sources And References](https://www.myscheme.gov.in/schemes/mmvy#sources)
+
+[Details](https://scholarshipportal.mp.nic.in/MedhaviChhatra/Medhavi_New/About.aspx)
+
+[Guidelines](https://scholarshipportal.mp.nic.in/MedhaviChhatra/Resources/Files/procedure_process_mmvy.pdf)
+
+Ok
+
+Was this helpful?
+
+#### News and Updates
+
+No new news and updates available
+
+#### Share
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Madhya Pradesh
+--------------
+
+Mukhyamantri Medhavi Vidhyarti Yojana
+=====================================
+
+Financial Assitance
+
+Higher Education
+
+Student Finance
+
+Details
+
+Benefits
+
+Eligibility
+
+Application Process
+
+Documents Required
+
+Frequently Asked Questions
+
+The Government of Madhya Pradesh initiated the Mukhyamantri Medhavi Vidyarthi Yojana. The objective of the scheme is to provide promising career opportunities to meritorious and talented students
+
+Ok
+
+Was this helpful?
+
+#### Share
+
+#### News and Updates
+
+No new news and updates available
+
+©2024
+
+[![Image 13: myScheme](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)](https://www.myscheme.gov.in/)
+
+Powered by![Image 14](blob:https://www.myscheme.gov.in/a01e597e35ed1eeaefa52c5d0c5fe71b)![Image 15: Digital India](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
+
+Digital India Corporation(DIC)Ministry of Electronics & IT (MeitY)Government of India®
+
+Quick Links
+-----------
+
+*   [About Us](https://www.myscheme.gov.in/about)
+*   [Contact Us](https://www.myscheme.gov.in/contact)
+*   [Screen Reader](https://www.myscheme.gov.in/screen-reader)
+*   [Accessibility Statement](https://www.myscheme.gov.in/accessibility-statement)
+*   [Frequently Asked Questions](https://www.myscheme.gov.in/faqs)
+*   [Disclaimer](https://www.myscheme.gov.in/disclaimer)
+*   [Terms & Conditions](https://www.myscheme.gov.in/terms-conditions)
+
+Useful Links
+------------
+
+*   ![Image 16: di](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Browser
+*   ![Image 17: digilocker](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Marseille</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+*   ![Image 18: umang](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+*   ![Image 19: indiaGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+*   ![Image 20: myGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Host
+*   ![Image 21: dataGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89bb0dfffb7f5fdd</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
+*   ![Image 22: igod](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
 
+Get in touch
+------------
 
-    </div>
-</div>
-</body>
-</html>
+4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India
+
+support-myscheme\[at\]digitalindia\[dot\]gov\[dot\]in
+
+(011) 24303714
+
+Last Updated On : 09/07/2024 | v-2.1.8

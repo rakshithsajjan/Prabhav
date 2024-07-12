@@ -1,125 +1,356 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Boneej Scheme
 
+URL Source: https://www.myscheme.gov.in/schemes/bns
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+Boneej Scheme
+===============
+  
 
+### Are you sure you want to sign out?
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 02:09:21 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+CancelSign Out
+
+[![Image 1: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 2: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+==================================================================================
+
+[![Image 3](blob:https://www.myscheme.gov.in/7029bfa5283c1934d72d4efe1c626373)![Image 4: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+*   ![Image 5](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 6: Change language](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    Eng
     
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+
+[![Image 7: Ministry of Electronics and Information Technology](https://cdn.myscheme.in/images/logos/emblem-black.svg)](https://www.myscheme.gov.in/)
+
+![Image 8: myScheme](https://cdn.myscheme.in/images/logos/myscheme-logo-black.svg)
+
+[![Image 9](blob:https://www.myscheme.gov.in/04e0786ebe0ffe2b3244c2451b75b80f)![Image 10: Digital India Corporation](https://cdn.myscheme.in/images/logos/digital-india-black.svg)](https://www.digitalindia.gov.in/)
+
+![Image 11](blob:https://www.myscheme.gov.in/39e3356370f513e3664ceae4ebfc3a5a)![Image 12: Change language](https://cdn.myscheme.in/images/icons/language.svg)English/हिंदी
+
+Theme
+
+*   Sign In
+
+Back
+
+*   Details
+*   Benefits
+*   Eligibility
+*   Application Process
+*   Documents Required
+*   Frequently Asked Questions
+*   Sources And References
+*   Feedback
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Assam
+-----
+
+Boneej Scheme
+=============
+
+Assam
+
+Boneej
+
+Financial Assistance
+
+[### Details](https://www.myscheme.gov.in/schemes/bns#details)
+
+**Objective**
+
+The "Boneej Scheme" is a flagship program of the Government of Assam in India, aimed at promoting entrepreneurship and generating employment opportunities for the youth in the state. The scheme is focused on providing financial assistance and support to young entrepreneurs who are willing to start their own ventures.
+
+Under the Boneej Scheme, the government provides financial assistance in the form of seed money to selected entrepreneurs. The scheme also offers various support services such as training, mentoring, and networking opportunities to help entrepreneurs develop their skills, build their businesses, and access markets.
+
+﻿
+
+**Area of Implementation**
+
+All districts excluding those within the jurisdiction Karbi- Anglong Autonomous District Council, NC Hills Autonomous District Council and Bodoland Territorial Autonomous Districts would be covered.
+
+﻿
+
+**District Target**
+
+*   A district-wise target shall be fixed by the Commissionerate of Industries & Commerce, Assam on the basis of rural population in the district and shall be communicated to the concern DICC.
+
+﻿
+
+﻿
+
+[### Benefits](https://www.myscheme.gov.in/schemes/bns#benefits)
+
+**Benefits**
+
+*   It is proposed to provide Rs. 25,000 ( Rupees twenty-Five thousand ) as a grant to the industries located in Rural areas only where the annual turnover is less than Rs.5 lakh
+
+[### Eligibility](https://www.myscheme.gov.in/schemes/bns#eligibility)
+
+1.  The industry should be located in rural areas of Assam.
+2.  This industry should be an existing one and have a continuous operation for a minimum of the last two years.
+3.  The unit should have its own workshed for production and process.
+4.  The age of the applicant should not be less than 18 years and more than the maximum of 50 years.
+5.  There is no bar to educational qualification.
+6.  The unit should have avail term loan/working capital loan to the extent to a minimum of one lakh.
+
+[### Application Process](https://www.myscheme.gov.in/schemes/bns#application-process)
+
+Online
+
+1.  **Obtain the application form**: The applicant can obtain the application form for the BONEEJ scheme from the nearest office of the Social Welfare Department, Assam or the [official website](https://industries.assam.gov.in/sites/default/files/Boneej.pdf) of the department.
+2.  **Fill up the application form**: The applicant must fill up the application form with all the necessary details such as personal information, age, address, BPL status, bank account details, etc.
+3.  **Attach supporting documents:** The applicant must attach the supporting documents required to prove eligibility for the scheme such as age proof, BPL card, bank account details, etc.
+4.  **Submit the application form**: The applicant must submit the duly filled application form and the supporting documents to the concerned [General Manager, District Industries & Commerce Centre (DICC).](https://industries.assam.gov.in/about-us/our-divisions-field-offices)﻿
+5.  **Application fee:** There is no fee for submission of the application form.
+6.  **Application verification and approval**: The concerned authorities will verify the application and supporting documents to ensure the applicant's eligibility. If the application is found eligible, the applicant will be approved for the scheme.
+7.  **Receive the benefits:** Once the application is approved, the applicant will start receiving financial assistance from the government as per the scheme guidelines.
+
+[### Documents Required](https://www.myscheme.gov.in/schemes/bns#documents-required)
+
+1.  One Pass Port size photograph.
+2.  Copy of Industry registration.
+3.  Caste Certificate, as applicable.
+4.  Identity roof
+5.  Address proof.
+6.  Training Certificate, if available.
+7.  Copy of the First page of the Bank Pass Book.
+
+[### Frequently Asked Questions](https://www.myscheme.gov.in/schemes/bns#faqs)
+
+What is Boneej Scheme?
+
+Boneej Scheme is a program launched by the Government of India to support the growth of micro, small, and medium enterprises (MSMEs) in the country. The scheme provides financial assistance to these enterprises for upgrading their technology and machinery, enhancing their marketing capabilities, and improving their quality standards.
+
+Who is eligible for the Boneej Scheme ?
+
+The Boneej Scheme is available to all registered MSMEs in India. The scheme covers a wide range of industries, including manufacturing, services, and commerce. However, the eligibility criteria may vary depending on the specific objectives of the scheme.
+
+How much financial assistance is provided under the Boneej Scheme?
+
+It is proposed to provide Rs. 25000.00 ( Rupees twenty five thousand ) as a grant to the industries located in Rural areas only where the annual turnover is less than Rs.5 lakh. The amount of grant shall be utilized by the units for procurement of machinery /raw materials, as the case may be.
+
+What are the objectives of the Boneej Scheme
+
+The Boneej Scheme has several objectives, including: • Promoting the growth and development of MSMEs in India. • Upgrading the technology and machinery used by these enterprises. • Enhancing the marketing capabilities and competitiveness of these enterprises • Encouraging the adoption of quality standards and certifications • Supporting the development of new and innovative products and services
+
+How can an enterprise apply for the Boneej Scheme?
+
+To apply for the Boneej Scheme, an enterprise must first check the eligibility criteria and the specific objectives of the scheme. Once the enterprise has identified a suitable scheme, it can submit an application online or offline, depending on the guidelines provided by the scheme. The application must include details of the project, the funding required, and the repayment plan.
+
+List of required documents
+
+1\. One Pass Port size photograph. 2. Copy of Industry registration. 3. Caste Certificate, as applicable. 4. Copy of proof of identity 5. Copy of proof of address. 6. Training Certificate, if available. 7. Copy of the First page of Bank Pass Book
+
+Is the scheme a direct benefit scheme?
+
+No
+
+Is the scheme benefit available to all age group?
+
+Yes
+
+Can only a specific gender avail the benefit of this scheme?
+
+No
+
+Are the benefits actually going to benefit the citizen? Or is it a gimmic?
+
+Yes, it is actually going to benefit the budding entrepreneurs
+
+Does the scheme provide Training and skill development?
+
+Yes, The scheme also provides skill development and training to the tourist guides and travel agents to enhance their knowledge and skills related to the tourism industry.
+
+Can people below 18years of age apply for Boneej Scheme?
+
+No
+
+Can citizen out of assam apply for the scheme?
+
+No
+
+What marital status is required for Boneej scheme?
+
+There are no specific guidelines related to marital status.
+
+I have a group of entrepreneurs but not everyone fulfills the eligibility criteria. Can I apply on the group’s behalf ?
+
+No, every member of the group must fulfill the eligibility criteria.
+
+Is the application process a long procedure?
+
+No, the complete process has been listed step wise for further guidance.
+
+Does the application process require your government ID proofs?
+
+Yes
+
+[### Sources And References](https://www.myscheme.gov.in/schemes/bns#sources)
+
+[Guidelines](https://industries.assam.gov.in/sites/default/files/Boneej.pdf)
+
+Ok
+
+Was this helpful?
+
+#### News and Updates
+
+No new news and updates available
+
+#### Share
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+### You need to sign in before applying for schemes
+
+CancelSign In
+
+### Something went wrong. Please try again later.
+
+Ok
+
+### 
+
+It seems you have already initiated your application earlier.To know more please visit
+
+Cancel
+
+### Apply Now
+
+### Check Eligibility
+
+Assam
+-----
+
+Boneej Scheme
+=============
+
+Assam
+
+Boneej
+
+Financial Assistance
+
+Details
+
+Benefits
+
+Eligibility
+
+Application Process
+
+Documents Required
+
+Frequently Asked Questions
+
+**Objective**
+
+The "Boneej Scheme" is a flagship program of the Government of Assam in India, aimed at promoting entrepreneurship and generating employment opportunities for the youth in the state. The scheme is focused on providing financial assistance and support to young entrepreneurs who are willing to start their own ventures.
+
+Under the Boneej Scheme, the government provides financial assistance in the form of seed money to selected entrepreneurs. The scheme also offers various support services such as training, mentoring, and networking opportunities to help entrepreneurs develop their skills, build their businesses, and access markets.
+
+﻿
+
+**Area of Implementation**
+
+All districts excluding those within the jurisdiction Karbi- Anglong Autonomous District Council, NC Hills Autonomous District Council and Bodoland Territorial Autonomous Districts would be covered.
+
+﻿
+
+**District Target**
+
+*   A district-wise target shall be fixed by the Commissionerate of Industries & Commerce, Assam on the basis of rural population in the district and shall be communicated to the concern DICC.
+
+﻿
+
+﻿
+
+Ok
+
+Was this helpful?
+
+#### Share
+
+#### News and Updates
+
+No new news and updates available
+
+©2024
+
+[![Image 13: myScheme](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)](https://www.myscheme.gov.in/)
+
+Powered by![Image 14](blob:https://www.myscheme.gov.in/a01e597e35ed1eeaefa52c5d0c5fe71b)![Image 15: Digital India](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
+
+Digital India Corporation(DIC)Ministry of Electronics & IT (MeitY)Government of India®
+
+Quick Links
+-----------
+
+*   [About Us](https://www.myscheme.gov.in/about)
+*   [Contact Us](https://www.myscheme.gov.in/contact)
+*   [Screen Reader](https://www.myscheme.gov.in/screen-reader)
+*   [Accessibility Statement](https://www.myscheme.gov.in/accessibility-statement)
+*   [Frequently Asked Questions](https://www.myscheme.gov.in/faqs)
+*   [Disclaimer](https://www.myscheme.gov.in/disclaimer)
+*   [Terms & Conditions](https://www.myscheme.gov.in/terms-conditions)
+
+Useful Links
+------------
+
+*   ![Image 16: di](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Browser
+*   ![Image 17: digilocker](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">Marseille</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
-
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
+*   ![Image 18: umang](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+*   ![Image 19: indiaGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+*   ![Image 20: myGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-    Host
+*   ![Image 21: dataGov](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
-
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
-
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89ba9aa89faf70ef</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
+*   ![Image 22: igod](blob:https://www.myscheme.gov.in/b9a31d3949b1882a09ed2f8508d538f3)
     
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
 
+Get in touch
+------------
 
-    </div>
-</div>
-</body>
-</html>
+4th Floor, NeGD, Electronics Niketan, 6 CGO Complex, Lodhi Road, New Delhi - 110003, India
+
+support-myscheme\[at\]digitalindia\[dot\]gov\[dot\]in
+
+(011) 24303714
+
+Last Updated On : 09/07/2024 | v-2.1.8

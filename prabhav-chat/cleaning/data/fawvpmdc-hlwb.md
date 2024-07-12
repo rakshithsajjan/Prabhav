@@ -1,125 +1,86 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
-<head>
+Title: Financial Assistance to Workers with a Visually, Physically or Mentally Disabled Child- Haryana Labour Welfare Board
 
+URL Source: https://www.myscheme.gov.in/schemes/fawvpmdc-hlwb
 
-<title>r.jina.ai | 524: A timeout occurred</title>
-<meta charset="UTF-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-<meta name="robots" content="noindex, nofollow" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+Markdown Content:
+> **Registration of a Worker Under the Haryana Labour Welfare Board:**
 
+**Step 01:** The applicant should visit the [Official Website](https://hrylabour.gov.in/) of the Labour Department Haryana.
 
-</head>
-<body>
-<div id="cf-wrapper">
-    <div id="cf-error-details" class="p-0">
-        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
-            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
-              <span class="inline-block">A timeout occurred</span>
-              <span class="code-label">Error code 524</span>
-            </h1>
-            <div>
-               Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
-            </div>
-            <div class="mt-3">2024-06-30 02:44:07 UTC</div>
-        </header>
-        <div class="my-8 bg-gradient-gray">
-            <div class="w-240 lg:w-full mx-auto">
-                <div class="clearfix md:px-8">
-                  
-<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">You</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Browser
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+**Step 02:** On the home page, click on the “[Welfare Board Beneficiary Login](https://hrylabour.gov.in/login/welfare)”, a new window page will be opened. If you don't have login details then click on “Click Here” to register.
 
-<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    </a>
-  </div>
-  <span class="md:block w-full truncate">San Jose</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" target="_blank" rel="noopener noreferrer">
-    Cloudflare
-    </a>
-  </h3>
-  <span class="leading-1.3 text-2xl text-green-success">Working</span>
-</div>
+**Step 03:** Applicant has to read all the instructions and then “Tick” the acknowledgment, then click on the “Submit” button.
 
-<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
-  <div class="relative mb-10 md:m-0">
-    
-    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
-    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
-    
-  </div>
-  <span class="md:block w-full truncate">r.jina.ai</span>
-  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
-    
-    Host
-    
-  </h3>
-  <span class="leading-1.3 text-2xl text-red-error">Error</span>
-</div>
+**Step 04:** Verification using Parivar Pehchan Patra (PPP)- Family ID:
 
-                </div>
-            </div>
-        </div>
+a) Forget/not having Family ID: If you do not have PPP ID or forget the PPP ID, then you have to select that radio button and you are redirected to the [PPP Portal](https://meraparivar.haryana.gov.in/) for getting their PPP ID.
 
-        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
-            <div class="clearfix">
-                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
-                    <p>The origin web server timed out responding to this request.</p>
-                </div>
-                <div class="w-1/2 md:w-full float-left leading-relaxed">
-                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
-                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
-      <p class="mb-6">Please try again in a few minutes.</p>
+b) Having a Family ID: If you have a family ID, then only you can move to the next step for registration. To proceed further, follow the given steps:
 
-      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
-      <p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
-                </div>
-            </div>
-        </div>
+• Select the “I have family ID” radio button.
 
-        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-  <p class="text-13">
-    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">89bacd96988dce9c</strong></span>
-    <span class="cf-footer-separator sm:hidden">&bull;</span>
-    <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
-      Your IP:
-      <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
-      <span class="hidden" id="cf-footer-ip">122.166.66.74</span>
-      <span class="cf-footer-separator sm:hidden">&bull;</span>
-    </span>
-    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_524&utm_campaign=r.jina.ai" id="brand_link" target="_blank">Cloudflare</a></span>
-    
-  </p>
-  <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
-</div><!-- /.error-footer -->
+• Enter Parivar Pehchan Patra number - Family ID.
 
+• Click on “Fetch Family Details” which displays the family members registered under the given Family ID.
 
-    </div>
-</div>
-</body>
-</html>
+• Select a family member for registration.
+
+• Enter the OTP that is being sent to the selected family member for verification.
+
+• Click on “Click to Verify”
+
+**Step 05:** A new page will be opened with basic information details of the applicant. Applicant needs to verify all the pre-filled details.
+
+**Step 06:** After verification, the applicant has to fill all the details and red\* marked fields are mandatory. Applicant has to upload his/her photo and then click on the ‘Submit’ button to submit the application.
+
+**Step 07:** Successfully Registered page will appear like the below image and an SMS/ email will be sent to the applicant.
+
+**Step 08:** Login into the account: After the final submission of the registration form, an applicant can login into his/her account using their username and password.
+
+**Note:** An applicant can also apply for registration, if he/she doesn’t have a family ID, through their Aadhaar Number.
+
+**Apply for scheme benefits:**
+
+**Step 01:** Visit the [Official Website](https://hrylabour.gov.in/) of the Labour Department Haryana.
+
+**Step 03:** Enter your Username, Password, Captcha, and click on the submit button.
+
+**Step 04:** In the opened window, click on "Schemes", and a list of schemes will appear on the screen.
+
+**Step 05:** Now, select the scheme and read its details.
+
+**Step 06:** Fill in all the required details in the online application form and submit it.
+
+**Application Tracking:**
+
+Workers can track their application status online through the [official website](https://hrylabour.gov.in/login/welfare) of the Labour Department Haryana. Relevant updates will be sent to the registered mobile number.
+
+> **Apply for scheme benefits through the Antyodaya-SARAL Portal:**
+
+**Registration Process on Antyodaya-SARAL Portal:**
+
+**Step 01:** To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -Antyodaya-SARAL Portal: [https://saralharyana.gov.in/](https://saralharyana.gov.in/)
+
+**Step 02:** If the applicant is not registered on the portal, then he/she gets registered on the portal.
+
+**Step 03:** For registration, click on “New User” under ‘Sign In Here’ and fill in all the mandatory details i.e. Full Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.
+
+**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.
+
+**Login to Apply for the Scheme:**
+
+**Step 01:** Now, to avail the benefits of the scheme, visit the Official Portal -[Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and login through the email ID that is used while registering.
+
+**Step 02:** Enter Password & Captcha and click on ‘Login’.
+
+**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’
+
+Step 04: Now, search for the scheme and click on the scheme to proceed to fill out the application form.
+
+**Step 05:** Enter Parivar Pehchan Patra number - Family ID and Click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.
+
+**Step 06:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”
+
+**Step 07:** Fill in all the mandatory details and upload all the mandatory documents.
+
+**Step 08:** Preview the application form and click on ‘Submit’.
