@@ -4,7 +4,7 @@ import json
 from openai import OpenAI
 import pandas as pd
 from IPython.display import Image, display
-client = OpenAI(api_key = "sk-proj-ycgxUh0RgZ8pEHOrkLpBT3BlbkFJLd7IVdkHcFRE8uZYuzHB")
+
 with open('cleaningprompt.txt', 'r') as f:
     base_prompt = f.read()
 
