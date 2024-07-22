@@ -5,8 +5,32 @@ def count_tokens(text):
     encoding = tiktoken.get_encoding("gpt2")
     tokens = encoding.encode(text)
     return len(tokens)
+import json
 
-rr = '''import requests
+def read_jsonl_file(file_path):
+    with open(file_path, 'r') as file:
+        return [json.loads(line) for line in file]
+
+
+
+
+import os
+
+def read_all_data_files():
+    data_folder = 'data'
+    rr = ""
+    for filename in os.listdir(data_folder):
+        if filename.endswith('.md'):  # Assuming the files are markdown files
+            file_path = os.path.join(data_folder, filename)
+            with open(file_path, 'r', encoding='utf-8') as file:
+                rr += file.read() + "\n\n"  # Add a newline between files for separation
+    return rr
+
+rr = read_all_data_files()
+
+r1r = read_jsonl_file('clean-data-jsonl.jsonl')
+r = '''import requests
+
 
 
 #hello
@@ -701,3 +725,61 @@ Copy code
   ]
 }'''
 print(count_tokens(rr))
+
+import os
+
+def count_files_in_data_folder():
+    data_folder = 'data'  # This is correct as per the followup instruction
+    file_count = len([name for name in os.listdir(data_folder) if os.path.isfile(os.path.join(data_folder, name))])
+    print(f"Number of files in the data folder: {file_count}")
+
+#count_files_in_data_folder()
+
+def find_missing_files():
+    data_folder = 'data'
+    slugs_file = 'slugs.txt'
+    
+    # Read slugs from slugs.txt
+    with open(slugs_file, 'r') as f:
+        slugs = set(line.strip() for line in f)
+    
+    # Get existing files in data folder
+    existing_files = set(os.path.splitext(name)[0] for name in os.listdir(data_folder) if os.path.isfile(os.path.join(data_folder, name)) and name.endswith('.md'))
+    
+    # Find missing files
+    missing_files = slugs - existing_files
+    
+    print(f"Number of missing files: {len(missing_files)}")
+    print("Missing files:")
+    for file in sorted(missing_files):
+        print(file)
+
+#find_missing_files()
+
+def find_repeating_slugs():
+    slugs_file = 'slugs.txt'
+    
+    # Read slugs from slugs.txt
+    with open(slugs_file, 'r') as f:
+        slugs = [line.strip() for line in f]
+    
+    # Count occurrences of each slug
+    slug_counts = {}
+    for slug in slugs:
+        if slug in slug_counts:
+            slug_counts[slug] += 1
+        else:
+            slug_counts[slug] = 1
+    
+    # Find repeating slugs
+    repeating_slugs = {slug: count for slug, count in slug_counts.items() if count > 1}
+    
+    print(f"Number of repeating slugs: {len(repeating_slugs)}")
+    if repeating_slugs:
+        print("Repeating slugs and their counts:")
+        for slug, count in repeating_slugs.items():
+            print(f"{slug}: {count}")
+    else:
+        print("No repeating slugs found.")
+
+#find_repeating_slugs()

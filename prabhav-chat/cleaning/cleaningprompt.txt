@@ -1,4 +1,5 @@
-Given the provided JSON schema and the Markdown input, extract the relevant scheme information and output it as a valid JSON object conforming to the schema. Ensure to accurately capture and structure the data, including titles, lists, URLs, and other relevant details.
+'''
+Given the provided JSON schema and the Markdown input, extract the relevant scheme information and output it as a valid JSON object conforming to the schema. Ensure to accurately capture and structure the data, including titles, lists, URLs, and other relevant details. use single quotes for strings.
 
 ### JSON Schema
 
@@ -127,3 +128,5 @@ Given the provided JSON schema and the Markdown input, extract the relevant sche
     "tags"
   ]
 }
+
+'''
