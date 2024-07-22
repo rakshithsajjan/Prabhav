@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import os
 
-genai.configure(api_key="")
+genai.configure(api_key="AIzaSyArAfWFfvXdGBEu-f9k_0s_u7o06Bqz9sg")
 
 # Using `response_mime_type` requires one of the Gemini 1.5 Pro or 1.5 Flash models
 model = genai.GenerativeModel('gemini-1.5-flash',
@@ -14,9 +14,9 @@ with open('cleaningprompt.txt', 'r') as f:
 if not os.path.exists('json'):
     os.makedirs('json')
 
-
+counter = 0
 with open('donejson.txt', 'w') as done_file:
-    for filename in os.listdir('data')[:10]:
+    for filename in os.listdir('data')[:1400]:
         if filename.endswith('.md'):
             with open(os.path.join('data', filename), 'r') as file:
                 file_content = file.read()
@@ -25,3 +25,10 @@ with open('donejson.txt', 'w') as done_file:
                 with open(os.path.join('json', f"{filename}.json"), 'w') as json_file:
                     json_file.write(response.text)
                 done_file.write(filename + '\n')
+
+                import time
+
+                time.sleep(20)
+                print(f"Iteration done: {filename}")
+                counter = counter + 1
+                print(counter)
