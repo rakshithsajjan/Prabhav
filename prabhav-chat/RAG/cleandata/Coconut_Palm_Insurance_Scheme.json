@@ -1,0 +1,113 @@
+{
+    "content": {
+        "title": "Coconut Palm Insurance Scheme",
+        "state": "All coconut growing States/UTs",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Insurance",
+        "beneficiary": "Coconut Grower",
+        "details": "The Coconut Palm Insurance Scheme (CPIS) is being implemented by the Coconut Development Board, Ministry of Agriculture and Farmers Welfare, Government of India with the objective of insuring coconut palms against natural calamities, climatic risks, pests, diseases and other perils. Under this scheme, all healthy nut bearing coconut palms in the age group from 4 years to 60 years in a contiguous area (Mono/mixed) can be insured against natural perils leading to death/loss of palm/becoming unproductive.",
+        "benefits": [
+            "Assist coconut growers in insuring coconut palms, against natural and other perils.",
+            "Provide timely relief to farmers, who suffer income loss due to sudden death of palms.",
+            "Minimize risk and encourage replanting and rejuvenation to make coconut farming remunerative."
+        ],
+        "eligibility": [
+            "Individual farmers/growers offering at least 5 healthy nuts-bearing palms for insurance in specified age groups (4-60 years for dwarf, hybrid, and 7-60 years for tall) contiguous area/plots will be eligible for insurance."
+        ],
+        "exclusions": [
+            "Loss by Theft, War, Invasion, Civil war, Rebellion, Revolution, Insurrection, Mutiny, Lock out, Malicious Damage, Conspiracy, Military/Usurped power, Civil commotion, Confiscation, Requisition/destruction/damage by order of any Government.",
+            "Nuclear reaction, nuclear radiation or radioactive contamination.",
+            "Impact damage due to aircraft or other falling objects.",
+            "Wilful negligence of insured and any one acting on his behalf.",
+            "Damage caused by human, bird or any animal action.",
+            "Improper maintenance of palms.",
+            "Palm becoming unhealthy & senile.",
+            "Natural morality of the palm, up-rooting of palm traceable to chiselling of roots."
+        ],
+        "application_process": "Farmers/growers desiring insurance may directly contact representatives/authorized agents of the Insurance Company or may contact the nearest office of the Agriculture/Horticulture Department. Premium will be paid by farmer/grower, net off premium subsidy, through cash, cheque/bank draft, drawn in favour of Insurance Company.",
+        "documents_required": [
+            "Identity proof of farmer",
+            "Proposal forms along with premium amount (Preferably DD)",
+            "Proof of land record / Plantation or a certificate issued by revenue authorities to Agri. Dept. / CDB / Horticulture Department, depending upon the practice in a State",
+            "Declaration by a farmer that only healthy palms are insured.",
+            "A rough sketch of the plantation with the land identification number of each plot and the number of palms therein, the palms should preferably be numbered.",
+            "Bank account details",
+            "Other documents as required by the board"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Coconut Palm Insurance Scheme (CPIS)'?",
+                "answer": "The Coconut Palm Insurance Scheme is a program initiated by the Coconut Development Board, Ministry of Agriculture and Farmers Welfare, Government of India. It aims to provide insurance coverage to coconut palms against natural calamities, climatic risks, pests, diseases, and other perils."
+            },
+            {
+                "question": "What are the objectives of this scheme?",
+                "answer": "Assist coconut growers in insuring coconut palms, against natural and other perils. Provide timely relief to farmers, who suffer income loss due to sudden death of palms. Minimize risk and encourage replanting and rejuvenation to make coconut farming remunerative."
+            },
+            {
+                "question": "Who is eligible for coverage under CPIS?",
+                "answer": "All healthy nut-bearing coconut palms in the age group of 4 to 60 years, whether grown as mono or intercropped, on bunds farms or homestead, and of all varieties including Tall, Dwarf, and Hybrids are eligible for coverage. Unhealthy and senile palms will be excluded."
+            },
+            {
+                "question": "How is the age range determined for coverage?",
+                "answer": "For Dwarf and Hybrid varieties, coverage begins from the 4th year of planting, while Tall variety coconut palms are eligible for coverage from the 7th year onwards, up to the age of 60 years."
+            },
+            {
+                "question": "Which areas and states are covered under the scheme?",
+                "answer": "This insurance scheme will be implemented in the selected districts of all the States/UTs, growing coconut palms. All bearing and healthy palms will be insured, in a contiguous area, by farmer/grower and every effort will be made by CDB, to get all bearing and healthy palms insured, in cluster villages of district(s)."
+            },
+            {
+                "question": "How is this scheme implemented?",
+                "answer": "The scheme is implemented through the Agriculture Insurance Company and collaborating State Governments in all coconut-growing states. Every effort is made by the Coconut Development Board to encourage farmers in cluster villages to insure all bearing and healthy palms in their respective districts."
+            },
+            {
+                "question": "How is the premium for CPIS determined?",
+                "answer": "The premium for CPIS is subsidized to make it accessible for farmers. The Coconut Development Board (CDB) contributes 50%, the State Government covers 25%, and the remaining 25% is the responsibility of the farmer or grower."
+            },
+            {
+                "question": "Is there any premium subsidy provided to farmers?",
+                "answer": "Yes, there is a premium subsidy. The CDB and participating State Governments provide a subsidy amounting to 75% of the premium."
+            },
+            {
+                "question": "Is there a waiting period for coverage under CPIS?",
+                "answer": "Yes, there is a waiting period of 30 days from the inception of insurance during which loss or death of palms is not payable."
+            },
+            {
+                "question": "What happens if a farmer wishes to retain an unproductive palm without felling it?",
+                "answer": "If a farmer/grower chooses to retain an unproductive palm without felling it, a salvage value of 50% of the sum insured will be deducted from the claim."
+            },
+            {
+                "question": "Who is eligible to enroll in the Scheme?",
+                "answer": "Individual farmers or growers offering a minimum of 5 healthy nut-bearing palms falling within the specified age group are eligible for insurance."
+            },
+            {
+                "question": "Is the insurance based on individual palms or the entire plantation area?",
+                "answer": "The insurance under CPIS is for individual palms and is not area-based."
+            },
+            {
+                "question": "Can a farmer opt for partial insurance of their coconut plantation?",
+                "answer": "No, partial insurance of the plantation is not allowed under the CPIS."
+            },
+            {
+                "question": "How can a farmer/grower apply under the scheme?",
+                "answer": "Farmers/growers desiring insurance may directly contact representatives/authorized agents of Insurance Company or may contact nearest office of Agriculture/Horticulture Department."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://coconutboard.gov.in/Scheme.aspx#Insurance"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://coconutboard.gov.in/docs/cpis-guidelines.pdf"
+            }
+        ],
+        "tags": [
+            "Coconut",
+            "Coconut Grower",
+            "Farmer",
+            "Insurance",
+            "Palm"
+        ]
+    }
+}

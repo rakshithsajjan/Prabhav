@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "New Entrepreneur-cum-enterprise Development Scheme",
+        "state": "Tamil Nadu",
+        "department": "Department of Micro, Small and Medium Enterprises",
+        "type": "Loan",
+        "beneficiary": "First Generation Entrepreneurs",
+        "details": "The scheme 'New Entrepreneur-Cum-Enterprise Development Scheme (NEEDS)' was launched to assist educated youth to become first-generation entrepreneurs. It provides training, helps in preparing business plans, and facilitates loans with a capital subsidy of 25% of the project cost not exceeding \u20b975 lakhs.",
+        "benefits": [
+            "Subsidy assistance up to 25% of the project cost (maximum \u20b975 Lakhs)",
+            "Interest subvention at the rate of 3%",
+            "Priority in allotment in Small Industries Development Corporation (SIDCO) industrial estates",
+            "Additional capital subsidy for SC/ST or differently-abled candidates"
+        ],
+        "eligibility": [
+            "Resident of Tamil Nadu for not less than 3 years",
+            "First-generation entrepreneur",
+            "Age between 21 to 35 years (relaxation up to 45 years for special categories)",
+            "Minimum educational qualification of 12th std./diploma/ITI or vocational training",
+            "No income ceiling for assistance",
+            "New projects sanctioned specifically under the NEEDS",
+            "Not a defaulter to any Commercial Bank/TIIC",
+            "Project cost should be above \u20b910 lakh and below \u20b95 crore",
+            "10% contribution for General category; 5% for Special category",
+            "Mandatory Entrepreneurship Development Programme (EDP) training"
+        ],
+        "exclusions": [
+            "Any activity directly connected with agriculture",
+            "Sericulture, Animal Husbandry",
+            "Manufacturing of Polythene carry bags of less than 40 microns",
+            "Sugar, Distilleries, Brewery",
+            "Mining and Quarrying",
+            "Manufacturing of intoxicant items",
+            "Cement, Calcium Carbide, Real Estate",
+            "All types of Business activities"
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof (Election ID Card/Aadhaar card)",
+            "Copy of PAN Card",
+            "Passport size photo",
+            "Educational Qualification proof",
+            "Proof of age",
+            "Caste/Community Certificate",
+            "Residence proof",
+            "Valid certificate for Ex-Serviceman/Differently abled/Transgender",
+            "Bank account details",
+            "Any other document, if required"
+        ],
+        "faqs": [
+            {
+                "question": "Who are the beneficiaries?",
+                "answer": "First Generation Individual Entrepreneur (Proprietorship) or Group of Entrepreneurs (Partnership)."
+            },
+            {
+                "question": "What is the age limit to apply under NEEDS?",
+                "answer": "The applicant must be between 21 - 35 years, with relaxation up to 45 years for special categories."
+            },
+            {
+                "question": "Is there any income ceiling to get assistance under NEEDS?",
+                "answer": "No, there is no family income ceiling prescribed."
+            },
+            {
+                "question": "What is the maximum subsidy available under this scheme?",
+                "answer": "25% of the eligible components of the project cost subject to a maximum of \u20b975 Lakhs."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://msmeonline.tn.gov.in/needs/needs_go.php?id=G.O%20&%20Guidelines#"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://msmeonline.tn.gov.in/needs/needs_desc.php"
+            }
+        ],
+        "tags": [
+            "Entrepreneur",
+            "Loan",
+            "MSME",
+            "NEEDS",
+            "Subsidy"
+        ]
+    }
+}

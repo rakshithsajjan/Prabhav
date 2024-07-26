@@ -1,0 +1,62 @@
+{
+    "content": {
+        "title": "Chief Minister Sustainable Agriculture Irrigation Scheme - Magel Tyala Shettale (Individual Farm Pond)",
+        "state": "Maharashtra",
+        "department": "Ministry of Agriculture, Animal Husbandry, Dairy Development & Fisheries Department",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "Chief Minister Sustainable Agriculture Irrigation Scheme-Magel Tyala Shettale (Individual Farm Pond) has been launched by Ministry of Agriculture, Animal Husbandry, Dairy Development & Fisheries Department, Maharashtra State in the year 2022-23 (vide G.R.Dated 29th June, 2022). Under this scheme, subsidy payable to individual farmer is minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond. The scheme is implemented in all districts of the state.",
+        "benefits": [
+            "Financial Assistance is given to farmers.",
+            "The subsidy payable to an individual farmer minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond."
+        ],
+        "eligibility": [
+            "Farmer should hold at least (Minimum) 0.20 ha. land in Kokan region, while it is 0.40 ha. limit for rest of Maharashtra.",
+            "The applicant farmers land will have to be technically suitable for digging farm pond.",
+            "Before applying for farm pond, the applicant farmers should not have availed the subsidy for farm pond, community tank or bodi in paddy bunding or any Government Scheme."
+        ],
+        "exclusions": [
+            "Farmers who have availed the subsidy for farm pond, community tank or bodi in paddy bunding under any Government Scheme previously is not eligible for subsidy again."
+        ],
+        "application_process": "Online application through Maha-DBT portal.",
+        "documents_required": [],
+        "faqs": [
+            {
+                "question": "What are the scheme benefits?",
+                "answer": "Financial Assistance up to certain limit is given to farmer for construction of individual farm pond."
+            },
+            {
+                "question": "How much Financial Assistance is given to farmer under the scheme?",
+                "answer": "Under this scheme the subsidy payable to an individual farmer is minimum Rs. 14433/- and maximum Rs. 75000/- depending on the size of farm pond."
+            },
+            {
+                "question": "How the Subsidy will be disbursed?",
+                "answer": "Subsidy will be disbursed through aadhaar link Bank account."
+            },
+            {
+                "question": "If there is joint land holder can the benefit of the scheme be availed?",
+                "answer": "In case of joint land holding, land demarcation map must be available, if not the benefit cannot be given to the individual farmer."
+            },
+            {
+                "question": "What if the farmer has land less than 0.20 ha. in Kokan area or less than 0.40 ha. in rest of Maharashtra area?",
+                "answer": "Farmers application will be rejected and not eligible, so can't be benefited."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.myscheme.gov.in/schemes/chief-minister-sustainable-agriculture-irrigation-scheme"
+            },
+            {
+                "type": "Government Resolution",
+                "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202206291827382601.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Irrigation",
+            "Subsidy",
+            "Farm Pond"
+        ]
+    }
+}

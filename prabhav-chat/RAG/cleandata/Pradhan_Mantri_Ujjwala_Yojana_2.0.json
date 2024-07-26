@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Ujjwala Yojana 2.0",
+        "state": "India",
+        "department": "Ministry of Petroleum and Natural Gas",
+        "type": "Subsidy",
+        "beneficiary": "Adult women from poor households without an LPG connection",
+        "details": "Pradhan Mantri Ujjwala Yojana 2.0 aims to provide LPG connections to women from poor households, ensuring clean cooking fuel access.",
+        "benefits": [
+            "Free LPG connection",
+            "Financial assistance for the first refill and stove",
+            "Access to clean cooking fuel"
+        ],
+        "eligibility": [
+            "Adult woman from a poor household",
+            "Not having an LPG connection",
+            "Eligible as per SECC 2011 list",
+            "Belongs to SC/ST households, PMAY beneficiaries, AAY beneficiaries, Forest dwellers, MBC, Tea and Ex-Tea Garden Tribes, or People residing in river Islands"
+        ],
+        "exclusions": [
+            "Households with existing LPG connections",
+            "Households without an adult female member"
+        ],
+        "application_process": "Applicants can apply both online and offline. Online applications can be submitted through the official website or at the nearest CSC Centre. Offline applications can be submitted directly at the distributorship.",
+        "documents_required": [
+            "KYC as per standard format with photograph",
+            "Proof of Identity (POI)",
+            "Proof of Address (POA)",
+            "Aadhaar copy of applicant",
+            "Aadhaar copies of all adult family members",
+            "Bank account details of the applicant",
+            "Ration card or equivalent family document",
+            "Self-declaration for migrants",
+            "Supporting documents for specific categories"
+        ],
+        "tags": [
+            "Ujjwala",
+            "LPG",
+            "Women Empowerment",
+            "Clean Cooking Fuel"
+        ],
+        "faqs": [
+            {
+                "question": "Who is the eligible beneficiary under Ujjwala 2.0?",
+                "answer": "An adult woman belonging to a poor household and not having LPG connection in her household."
+            },
+            {
+                "question": "What documents are mandatory for enrolment under Ujjwala 2.0?",
+                "answer": "KYC, POI, POA, Aadhaar copies, Bank account details, Ration card, and supporting documents."
+            },
+            {
+                "question": "Can Aadhaar be used as POI and POA?",
+                "answer": "Yes, if the Aadhaar card has the address where the connection is to be released."
+            },
+            {
+                "question": "How can one apply for LPG connection under Ujjwala 2.0?",
+                "answer": "Applicants can apply online or offline at the distributorship."
+            },
+            {
+                "question": "What is the criterion to ascertain a poor household under Ujjwala 2.0?",
+                "answer": "The 14-point declaration submitted by the applicant."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pmuy2"
+            }
+        ]
+    }
+}

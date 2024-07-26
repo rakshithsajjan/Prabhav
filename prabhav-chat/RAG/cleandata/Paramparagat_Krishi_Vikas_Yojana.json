@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Paramparagat Krishi Vikas Yojana",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Grant",
+        "beneficiary": "Farmers and agricultural institutions",
+        "details": "PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health. The scheme promotes Participatory Guarantee System (PGS) For India (PGS- India) form of organic certification that is built on mutual trust, locally relevant and mandates the involvement of producers and consumers in the process of certification. PGS \u2013 India operates outside the framework of 'Third Party Certification'.",
+        "benefits": [
+            "Promotion of organic farming, in turn resulting in improvement of soil health",
+            "Sustainable production of chemical free and nutritious agriculture produce",
+            "Direct linkages with local and national markets",
+            "Empowerment of farmers through their own institutional development in the form of clusters and groups with capacity to manage production, processing value addition and certification management"
+        ],
+        "eligibility": [
+            "All farmers/institutions are eligible to apply",
+            "Maximum land holding is 2 hectare"
+        ],
+        "exclusions": [
+            "Farmers with less than 2 ha land are not eligible for applying to the scheme"
+        ],
+        "application_process": "Offline. Interested applicants should connect and communicate with the regional councils of their respective states. The regional councils consolidate all applications and develop an Annual Action Plan, which is submitted to the Ministry of Agriculture & Farmers Welfare.",
+        "documents_required": [
+            "Aadhaar number",
+            "Land documents",
+            "Caste Certificate (SC/ST/OBC only)",
+            "Phone Details",
+            "Bank Details",
+            "Photographs",
+            "DPR"
+        ],
+        "faqs": [
+            {
+                "question": "What are the core benefits of the PKVY scheme?",
+                "answer": "PKVY targets the following benefits: Promotion of organic farming, improvement of soil health, sustainable production of chemical free and nutritious agriculture produce, direct linkages with local and national markets, and empowerment of farmers through their own institutional development."
+            },
+            {
+                "question": "Are benefits directly transferred to the farmers?",
+                "answer": "No, the benefits are transferred through regional councils of the state."
+            },
+            {
+                "question": "Does this scheme work upon creating a bigger market for the farmers?",
+                "answer": "Yes, this scheme works to make farmers entrepreneurs through direct market linkages with local and national markets."
+            },
+            {
+                "question": "Are there any particular eligibility criteria?",
+                "answer": "No, anyone can apply for this scheme."
+            },
+            {
+                "question": "Can I directly apply for the scheme as an individual on the portal?",
+                "answer": "No, the regional council of states will compile all the farmers and project details, which will be taken further and the benefits will also be disbursed by the regional council of states only."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://darpg.gov.in/sites/default/files/Paramparagat%20Krishi%20Vikas%20Yojana.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pkvy"
+            }
+        ],
+        "tags": [
+            "Organic Farming",
+            "Sustainable Agriculture",
+            "Soil Health",
+            "Farmers Empowerment"
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Destitute Agricultural Labourers Pension Scheme",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Nutritious Meal Programme Department",
+        "type": "Pension",
+        "beneficiary": "Destitute agricultural labourers aged 60 years and above",
+        "details": "The 'Destitute Agricultural Labourers Pension Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to give pensions of \u20b91,000/- to destitute agricultural labourers of 60 years. The scheme also provides one free saree to females, one free dhoti to males during Pongal and Deepavali, and free rice in the Anganwadi Centres.",
+        "benefits": [
+            "\u20b91,000/- per month pension",
+            "One free dhoti to male pensioners during Pongal and Deepavali",
+            "One free saree to female pensioners during Pongal and Deepavali",
+            "2kg/month of rice for those taking nutritious meals",
+            "4kg/month of rice for those not taking nutritious meals"
+        ],
+        "eligibility": [
+            "The applicant should be a destitute agricultural labourer",
+            "The age of the applicant should be 60 years and above",
+            "The applicant should not have any source of income or means of subsistence to support",
+            "The applicant should not be a habitual beggar",
+            "The applicant should not possess property valued at more than \u20b95000/-",
+            "The applicant should not be supported by a son or son's son aged 20 years or above"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit the Special Tahsildar/Village Administrative Officer to request a hard copy of the application form or apply on a white paper. After filling the form and attaching the required documents, submit it to the Special Tahsildar/Village Administrative Officer and request a receipt.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Proof of age",
+            "Bank Passbook",
+            "Any other document if required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the primary objective of this scheme?",
+                "answer": "The objective is to provide a pension to destitute agricultural laborers."
+            },
+            {
+                "question": "How much pension is provided under this scheme?",
+                "answer": "The scheme provides \u20b91000/- per month as a pension."
+            },
+            {
+                "question": "Who can benefit from this scheme?",
+                "answer": "Destitute agricultural laborers who are 60 years old and above can benefit from this scheme."
+            },
+            {
+                "question": "Are there any additional benefits provided besides the pension?",
+                "answer": "Yes, male pensioners receive one free Dhoti and female pensioners receive one free Saree twice a year during Pongal and Deepavali festivals. They also receive either 2 kg of rice per month if they take the nutritious meal or 4 kg of rice per month if they do not take the meal, at no cost."
+            },
+            {
+                "question": "What is the time limit for processing the applications?",
+                "answer": "Applications are processed within one month from the date of receipt."
+            },
+            {
+                "question": "Who are the officers to be contacted regarding this scheme?",
+                "answer": "The Special Tahsildar (Social Security Scheme) or the Tahsildar should be contacted."
+            },
+            {
+                "question": "Where should grievances be reported?",
+                "answer": "Grievances should be reported to the Revenue Divisional Officer or the District Collector."
+            },
+            {
+                "question": "What support is available if an application is delayed beyond one month?",
+                "answer": "Applicants can contact the Special Tahsildar (Social Security Scheme) or escalate the issue to the Revenue Divisional Officer or the District Collector for resolution."
+            },
+            {
+                "question": "How can one apply for this scheme?",
+                "answer": "Applications can be submitted in white paper or in the prescribed format with the required details to the Special Tahsildar (Social Security Scheme) or the Village Administrative Officer in the village."
+            },
+            {
+                "question": "Is there a provision for reapplying if the application is rejected?",
+                "answer": "While not specified, typically applicants can inquire with the Special Tahsildar (Social Security Scheme) or relevant officers about reapplying."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen\u2019s Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/whatsnew/socialwelfare.pdf"
+            }
+        ],
+        "tags": [
+            "Clothes",
+            "Destitute",
+            "Farmer",
+            "Financial Assistance",
+            "Labour",
+            "Senior Citizen"
+        ]
+    }
+}

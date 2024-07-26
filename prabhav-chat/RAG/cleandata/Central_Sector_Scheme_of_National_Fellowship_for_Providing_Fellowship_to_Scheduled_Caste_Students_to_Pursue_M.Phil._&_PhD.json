@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Fellowship",
+        "beneficiary": "Scheduled Caste Students",
+        "details": "'Central Sector Scheme of National Fellowship for Providing Fellowship to Scheduled Caste Students to Pursue M.Phil. & PhD' is a Fellowship Scheme by the Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment. The scheme was introduced during the financial year 2005-06 to provide opportunities to Scheduled Castes students to pursue higher education leading to M.Phil/Ph.D degrees in Sciences, Humanities and Social Science streams. The objective of the scheme is to provide fellowships in the form of financial assistance to students belonging to the SC category to pursue higher studies leading to an M.Phil/Ph.D in Science, Humanities, or Social Science, in Indian Universities/Institutions/Colleges recognized by UGC.",
+        "benefits": [
+            "The scheme provides for 2000 new Fellowships (1500 Junior Research Fellows for Humanities/ Social Sciences and 500 Junior Research Fellows for Science stream) per year.",
+            "The fellowship shall be paid from the date of issue of the JRF award letter under the Scheme for National Fellowship or the date of joining the M.Phil./Ph.D., whichever is later.",
+            "The fellowship shall be granted up to the date of submission of the Ph.D. thesis or five years of tenure, whichever is earlier.",
+            "Confirmation for continuation of the fellowship shall be given by the University twice a year on a semester basis.",
+            "The disbursal of the fellowship will be directly into the beneficiary's Aadhaar-linked Bank Account via Direct Benefit Transfer (DBT)."
+        ],
+        "eligibility": [
+            "The applicant should be from a Scheduled Caste.",
+            "The applicant should be pursuing regular and full-time advanced studies/ research leading to an M.Phil/PhD Degree.",
+            "The applicant should have qualified one of the following tests: National Eligibility Test - Junior Research Fellowship (NET - JRF) of UGC or UGC - Council of Scientific and Industrial Research (UGC - CSIR) NET - JRF Joint Test.",
+            "The applicant should be pursuing the program from a University/Institution recognized by the University Grants Commission (UGC).",
+            "A scholar is eligible to receive only one fellowship at a time."
+        ],
+        "exclusions": [
+            "Employees of any University/College/Educational Institution/Central/ State/ UT Government shall be excluded from availing Fellowship.",
+            "A scholar who does not complete his/her research work during the period of fellowship shall not be eligible to apply again under this scheme.",
+            "A scholar who has completely or partially availed any of these fellowships for PhD earlier shall also not be eligible for fellowship under this scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport Sized Photograph",
+            "Aadhaar Number",
+            "Self-attested Degree/Mark Sheet of the last qualifying exam",
+            "Fee Receipt of \u2018Current Course Year\u2019",
+            "Bank Details of the Aadhaar-linked Bank Account",
+            "Caste certificate (issued by SDM or Tehsildar or any competent authority)",
+            "Declaration Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "How is the merit list for fellowship awards prepared?",
+                "answer": "The merit list is drawn up through the NET examination. Preference is given to candidates who have already secured admission."
+            },
+            {
+                "question": "What happens if a scholar has previously availed of other fellowships for a Ph.D.?",
+                "answer": "A scholar who has availed of other fellowships for a Ph.D. earlier is not eligible for a fellowship under this scheme."
+            },
+            {
+                "question": "Can a scholar reapply for this fellowship if they don't complete their research work during the fellowship period?",
+                "answer": "No, a scholar who doesn't complete their research work during the fellowship period is not eligible to apply again under this scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.ugc.gov.in/pdfnews/6590506_NFSC-Revised-Guidelines.pdf"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/ccsnfpfscsmap"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Scheduled Caste",
+            "Higher Education",
+            "Research"
+        ]
+    }
+}

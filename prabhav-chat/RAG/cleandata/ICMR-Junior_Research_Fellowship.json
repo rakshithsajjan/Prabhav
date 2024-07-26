@@ -1,0 +1,72 @@
+{
+    "content": {
+        "title": "ICMR-Junior Research Fellowship",
+        "state": "India",
+        "department": "Indian Council of Medical Research (ICMR)",
+        "type": "Fellowship",
+        "beneficiary": "Post Graduate students in basic and social sciences",
+        "details": "The ICMR-JRF entrance examination is conducted annually for selecting candidates for Junior Research Fellowships in biomedical and social sciences.",
+        "benefits": [
+            "Financial support for research",
+            "Opportunity to pursue Ph.D.",
+            "Access to various research projects"
+        ],
+        "eligibility": [
+            "Post Graduate degree (M.Sc./MA) in basic science or professional courses",
+            "55% marks for General/OBC and 50% for SC/ST/PH/VH",
+            "Upper age limit of 28 years with relaxations for certain categories"
+        ],
+        "exclusions": [
+            "Candidates with B. Tech/M. Tech in biomedical sciences, B. Pharma/M. Pharma or D.Pharma are not eligible"
+        ],
+        "application_process": "Online application through the ICMR website.",
+        "documents_required": [
+            "Post Graduate degree certificate",
+            "Age proof",
+            "Caste certificate (if applicable)"
+        ],
+        "faqs": [
+            {
+                "question": "When is the ICMR-JRF entrance examination usually announced?",
+                "answer": "The examination notice is published in leading English Newspapers of India usually during March/April."
+            },
+            {
+                "question": "Where will the Centres for the written examination located?",
+                "answer": "Test for ICMR JRF is conducted at twelve Centres including Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Delhi, Guwahati, Hyderabad, Kolkata, Mumbai, Srinagar, and Varanasi."
+            },
+            {
+                "question": "What is the pattern of the written examination?",
+                "answer": "The paper consists of two Sections: Aptitude Section with 50 compulsory questions and subject-specific sections for Life sciences and Social sciences."
+            },
+            {
+                "question": "What is the duration of the written examination?",
+                "answer": "The test will consist of one paper of two hours duration."
+            },
+            {
+                "question": "What is the tenure of the fellowship?",
+                "answer": "JRF is generally for the first two years, which may be upgraded to SRF after successful assessment."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/icmr-jrf"
+            },
+            {
+                "type": "Specimen Paper",
+                "url": "http://icmr.nic.in/jrf/jrf_specimen.pdf"
+            },
+            {
+                "type": "ICMR Fellowship Rules",
+                "url": "http://icmr.nic.in/"
+            }
+        ],
+        "tags": [
+            "ICMR",
+            "Research Fellowship",
+            "JRF",
+            "Biomedical Sciences",
+            "Social Sciences"
+        ]
+    }
+}

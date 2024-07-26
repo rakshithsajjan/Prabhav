@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Maternity Assistance for the Construction Workers",
+        "state": "Delhi",
+        "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Workers",
+        "details": "The 'Maternity Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, maternity benefits of \u20b9 30,000/- is provided to the registered women members and wives of male members for upto 2 children from the date of joining membership of the fund.",
+        "benefits": [
+            "\u20b930,000/- is provided to the registered women members and wives of male members for upto 2 children from the date of joining membership of the fund."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Delhi.",
+            "The applicant should be a Building/Construction Worker.",
+            "The applicant should be between 18 and 60 years.",
+            "The applicant should have served the Board for at least 90 days in a given year.",
+            "Registered women member Under the Delhi Building and Other Construction Workers Welfare Board.",
+            "Wives of registered male members Under the Delhi Building and Other Construction Workers Welfare Board.",
+            "The applicant shall be eligible to avail the benefits only for their first 2 children."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "In case of Delivery at Hospital: Birth certificate of the Child (duly issued by any Municipal/Govt. Authority), Discharge summary/Medical Certificate (to be obtained from medical officer not below the rank of an Assistant Surgeon).",
+            "In case of Emergency Delivery at Home: Birth certificate of the Child (duly issued by any Municipal/Govt. Authority), Proof of visiting a Hospital/Nursing Home in connection with the pregnancy in the pregnancy period, Photocopy of any ID proof of Aaya/Dai."
+        ],
+        "faqs": [
+            {
+                "question": "Which Department of the NCT of Delhi administers this scheme?",
+                "answer": "This scheme is administered by the Labour Department, of the National Capital Territory of Delhi."
+            },
+            {
+                "question": "Where can I find the URL of the Delhi Building and Other Construction Workers Welfare Board?",
+                "answer": "The URL of the Official Website of the Delhi Building and Other Construction Workers Welfare Board is: https://bocw.delhi.gov.in/."
+            },
+            {
+                "question": "Is self-attestation required for attaching documents with the application?",
+                "answer": "Yes, applicants need to self-attest the copies of mandatory documents while submitting the application."
+            },
+            {
+                "question": "What is the URL for the registration of this scheme?",
+                "answer": "The applicants needs to register through clicking on the 'Register' button on DBoCWWB website: https://dbocwwb.delhi.gov.in/cwapp/MyLoginPage?ReturnUrl=%2Fcwapp%2F."
+            },
+            {
+                "question": "Can members in my family also register if they are all registered construction workers?",
+                "answer": "Yes, if there are more than one member in the family who are engaged in Construction Work, they can all register under the DBoCWWB."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://bocw.delhi.gov.in/bocw/welfare-schemes"
+            },
+            {
+                "type": "Latest Guidelines",
+                "url": "https://dbocwwb.delhi.gov.in/welfareschemedboc.html"
+            },
+            {
+                "type": "User Manual (Registration)",
+                "url": "https://drive.google.com/file/d/1nCDEvvl3saMAKnR__iYZNbc_MnuwQ0E1/view"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://dbocwwb.delhi.gov.in/faqdboc.html#faqm2q1"
+            },
+            {
+                "type": "Application Status",
+                "url": "https://dbocwwb.delhi.gov.in/"
+            }
+        ],
+        "tags": [
+            "Maternity",
+            "Financial Assistance",
+            "Labour",
+            "Construction Workers",
+            "Medical Support"
+        ]
+    }
+}

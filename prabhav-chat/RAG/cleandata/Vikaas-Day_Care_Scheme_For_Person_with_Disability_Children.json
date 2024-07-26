@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "Vikaas-Day Care Scheme For Person with Disability Children",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Day Care Scheme",
+        "beneficiary": "Person with Disability (PwD) aged 10 years or more",
+        "details": "Vikaas is a Day care scheme, launched by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment, Govt. of India, primarily to expand the range of opportunities available to a person with disability attaining the age of 10 years for enhancing interpersonal and vocational skills as they are on a transition to higher age groups. Registered Organisation (RO) centre will also offer caregiving support to Person with Disability (PwD) during the time the PwD is in the Vikaas centre. In addition, it also helps in supporting family members of the PwDs with disabilities covered under the National Trust Act to get some time during the day to fulfil other responsibilities.",
+        "benefits": [
+            "Day Care: RO should provide day-care facilities to PwDs for at least 6 hours in a day (between 8 am to 6 pm) along with age specific activities.",
+            "Staffing: Interpersonal and vocational skills would be provided for the betterment of the children.",
+            "Counselling: Counselling and guidance especially for Activities for Daily Living (ADL) must be provided to parents or guardians of PwDs. RO should provide assistance to PwDs for further training, education and employment.",
+            "Transport Facilities (OPTIONAL): RO can also provide transportation facilities to PwDs in case it so desires. The National Trust will provide additional transport allowance to RO only for PwDs who are availing transport facilities provided by RO."
+        ],
+        "eligibility": [
+            "Beneficiary should be of the age of 10 years or more.",
+            "Beneficiary should have one of the disabilities under the National Trust Act, 1999, which are Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities.",
+            "Beneficiary should not be simultaneously enrolled under Samarth or Gharaunda scheme."
+        ],
+        "exclusions": [
+            "PwD should not be simultaneously enrolled under Samarth or Gharaunda scheme."
+        ],
+        "application_process": "Offline and Online. Beneficiary provides necessary proofs at the Vikaas Centre. Individual Assessment Test conducted for children aged 10-14. All applicants (including below 14 and above 14 years of age) interested in Vikas centers check eligibility for LIG or BPL funding if enrolling in Vikaas Centre. Submit Enrolment Form with required documents for verification. Upon successful verification, PwD enrolled with ID card and starter kit.",
+        "documents_required": [
+            "Enrolment form",
+            "Birth certificate or Date of Birth proof of the PwD",
+            "Disability certificate",
+            "BPL certificate or Income certificate of Parents or Guardian issued by competent authority as authorized by the concerned State/ Union Territory (for LIG or BPL family)",
+            "ID proof of parent or guardian",
+            "Residence (Local) proof (Mandatory in case of LIG parent or guardian for parents of PwD availing transport facility)",
+            "Declaration proof of the guardianship if PwD < or 18 years of age and parents are not the guardians (OR)",
+            "LG certificate, if PwD > 18 years of age and parents are not the guardians."
+        ],
+        "faqs": [
+            {
+                "question": "What is Vikaas Day care scheme?",
+                "answer": "Vikaas scheme aims at setting up Vikaas Centres for welfare of PwDs."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Vikaas Day Care Scheme was launched by the Department of Empowerment of Persons with Disabilities."
+            },
+            {
+                "question": "What are the main benefits of this scheme?",
+                "answer": "Vikaas Centre/Registered Organization (RO) should provide facilities to the PwD like day care, staffing, infrastructure, assessment and evaluation etc."
+            },
+            {
+                "question": "From where can the PwD get the facilities?",
+                "answer": "PwD can avail the benefits from Vikaas Centre or Registered Organisation."
+            },
+            {
+                "question": "What is the main purpose of the scheme?",
+                "answer": "This is a day care scheme, primarily for enhancing interpersonal and vocational skills of the children."
+            },
+            {
+                "question": "How is this scheme also beneficial to the family of the PwD?",
+                "answer": "This scheme also helps in supporting family members of the PwDs to get some time during the day to fulfil other responsibilities."
+            },
+            {
+                "question": "Who will be covered under this scheme?",
+                "answer": "Person with Disability (PwD) who has attained 10 years or more age will be covered under this scheme."
+            },
+            {
+                "question": "What is the enrolment process of the PwD at the Vikaas Centre?",
+                "answer": "Parent/legal guardian of the PwD have to come together at the Vikaas Centre. Then the centre will conduct a PwD Assessment Test with the help of a Therapist or Counsellor."
+            },
+            {
+                "question": "What are the documents required for the enrolment?",
+                "answer": "Enrolment form, Birth certificate or Date of Birth proof of the PwD, Disability certificate, BPL certificate or Income certificate of Parents or Guardian issued by competent authority as authorized by the concerned State/ Union Territory (for LIG or BPL family), ID proof of parent or guardian, Residence (Local) proof (Mandatory in case of LIG parent or guardian for parents of PwD availing transport facility), Declaration proof of the guardianship if PwD < or 18 years of age and parents are not the guardians (OR), LG certificate, if PwD > 18 years of age and parents are not the guardians."
+            },
+            {
+                "question": "May the beneficiary also get the benefits of other schemes?",
+                "answer": "PwD should not be simultaneously enrolled under Samarth or Gharaunda scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://thenationaltrust.gov.in/upload/uploadfiles/files/vikas_eng.pdf"
+            },
+            {
+                "type": "RO Center",
+                "url": "https://thenationaltrust.gov.in/content/centre-sanctioned-list.php"
+            }
+        ],
+        "tags": [
+            "Day Care",
+            "Disability",
+            "Child Care",
+            "Counselling",
+            "Special Care"
+        ]
+    }
+}

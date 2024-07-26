@@ -1,0 +1,64 @@
+{
+    "content": {
+        "title": "Niramaya Scheme",
+        "state": "Odisha",
+        "department": "Health & Family Welfare Dept.",
+        "type": "Free Medicines Distribution Scheme",
+        "beneficiary": "Patients registered in Govt. Hospitals",
+        "details": "NIRAMAYA is the Free Medicines Distribution Scheme of the Govt. of Odisha, implemented since 1st May 2015.",
+        "benefits": [
+            "Access to 317 essential drugs",
+            "Access to 107 Lifesaving Cancer drugs",
+            "Access to 20 types of Non-EDL Items",
+            "Access to 83 medical consumables/surgical & sutures"
+        ],
+        "eligibility": [
+            "Patients who have done registration in the Govt. Hospitals"
+        ],
+        "exclusions": [],
+        "application_process": "Registration ---> Consultation with doctor ---> Prescription ---> Receipt of drugs from DDC Counter",
+        "documents_required": [],
+        "faqs": [
+            {
+                "question": "How much quantity of drugs can I get at a time?",
+                "answer": "A patient can get free drugs as suggested in the prescription. For example, if the prescription is for 7 days, drugs for all 7 days are to be given."
+            },
+            {
+                "question": "What are the timings for Drug Distribution Counters (DDC)?",
+                "answer": "The timing for at least one Drug Distribution Counter (DDC) at all medical colleges, major health institutions, district head quarter hospitals & sub-divisional hospitals is 24 X 7."
+            },
+            {
+                "question": "Are those availing assistance under OSTF/RSBY/BKKY also eligible to get drugs under Niramaya?",
+                "answer": "Yes. Any registered patient claiming for assistance under OSTF/RSBY/BKKY is eligible to get drugs under Niramaya."
+            },
+            {
+                "question": "Whom do I contact for any grievance related to drugs availability?",
+                "answer": "For any grievance related to drugs availability, please contact the authorities at Block Level, Sub-divisional Level, District Level, Tertiary Level Institutions, and State Level."
+            },
+            {
+                "question": "What is the role of different agencies under Niramaya?",
+                "answer": "The roles include supervision by District Health Administration, central procurement by Odisha State Medical Corporation, overall monitoring by Director of Health Services, and supervision by Director of Medical Education and Training."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/ns"
+            },
+            {
+                "type": "Odisha State Medical Corporation Ltd",
+                "url": "http://www.osmcl.nic.in"
+            },
+            {
+                "type": "OSMC Twitter Account",
+                "url": "http://twitter.com/OSMCL1"
+            }
+        ],
+        "tags": [
+            "Free Medicines",
+            "Health Scheme",
+            "Odisha",
+            "Government Scheme"
+        ]
+    }
+}

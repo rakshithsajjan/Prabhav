@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Home Loan Interest Subsidy Scheme- Gujarat Labour Welfare Board",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Subsidy",
+        "beneficiary": "Workers employed in the organized sector",
+        "details": "The 'Home Loan Interest Subsidy Scheme' was launched by the Gujarat Labour Welfare Board. Under the scheme, a 3% Interest Subsidy is provided to workers who are employed in the organized sector to buy their own house and get relief from interest deductions on loans taken from banks.",
+        "benefits": [
+            "The scheme offers a 3% Interest Subsidy to workers employed in the organized sector for purchasing their own house.",
+            "The maximum loan on a house purchased by a worker is \u20b915 lakhs or an interest subsidy of 3% taking into account the bank interest on the loan actually taken, whichever is less.",
+            "The assistance amount will be credited to the beneficiary's bank account through DBT."
+        ],
+        "eligibility": [
+            "Workers who are working in the organized sector in the state of Gujarat.",
+            "Workers should have been working continuously with the Factory/Company/Organization for one year and their Labour Welfare Fund should have been deposited in the board.",
+            "The purchase price of the house is a maximum of \u20b930 lakhs.",
+            "The loan tenure should be 15 years or more.",
+            "Home loans should be taken from Nationalized/Scheduled Bank/NBFC only.",
+            "Application has to be made within one year from the date of purchase document."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport-size Photograph",
+            "A copy of the identity card issued by the contractor to the worker/labour",
+            "Aadhaar Card of Labour",
+            "Labour Welfare Fund Account Number",
+            "Proof of taking a loan (loan sanction letter)",
+            "Annual Loan Statement/Annual Interest Certificate",
+            "Self-declaration",
+            "Bonafide certificate",
+            "Bank account details/Bank Passbook",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who launched the 'Home Loan Interest Subsidy Scheme'?",
+                "answer": "The scheme was launched by the Gujarat Labour Welfare Board, under the Labour, Skill Development & Employment Department, Government of Gujarat."
+            },
+            {
+                "question": "What is the percentage of Interest Subsidy provided under the scheme?",
+                "answer": "The scheme offers a 3% Interest Subsidy to eligible workers."
+            },
+            {
+                "question": "What are the maximum loan limitations under the scheme?",
+                "answer": "A worker can avail a maximum loan of \u20b915 lakhs or the interest subsidy of 3%, whichever is less, considering the actual bank interest on the loan taken."
+            },
+            {
+                "question": "How is the assistance amount disbursed to beneficiaries?",
+                "answer": "The assistance amount is credited directly to the beneficiary's bank account through Direct Benefit Transfer (DBT)."
+            },
+            {
+                "question": "Who is eligible to benefit from the scheme?",
+                "answer": "Workers employed in the organized sector in Gujarat are eligible for the scheme."
+            },
+            {
+                "question": "What are the criteria for continuous employment under the scheme?",
+                "answer": "Workers must have been continuously employed with the Factory/Company/Organization for at least one year."
+            },
+            {
+                "question": "What is the maximum purchase price of a house eligible under the scheme?",
+                "answer": "The purchase price of the house should not exceed \u20b930 lakhs to be eligible for the scheme."
+            },
+            {
+                "question": "What is the minimum tenure for a home loan under the scheme?",
+                "answer": "The loan tenure should be 15 years or more."
+            },
+            {
+                "question": "From which financial institutions can a home loan be availed under the scheme?",
+                "answer": "Home loans should be obtained from Nationalized/Scheduled Bank/NBFC only."
+            },
+            {
+                "question": "Is there a deadline for applying for the scheme?",
+                "answer": "Yes, applications must be submitted within one year from the date of the purchase document."
+            },
+            {
+                "question": "How can one apply for the benefits of the Scheme?",
+                "answer": "Applicants can visit the Sanman Portal at https://sanman.gujarat.gov.in/ to apply for the scheme benefits."
+            },
+            {
+                "question": "Can workers from any sector apply for the scheme?",
+                "answer": "No, only workers employed in the organized sector in Gujarat are eligible for the scheme benefits."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://glwb.gujarat.gov.in/hli-subsidy-scheme.htm"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/Home/GLWBScheme#"
+            }
+        ],
+        "tags": [
+            "Home Loan",
+            "Industrial Worker",
+            "Interest",
+            "Labour",
+            "Organized Worker",
+            "Subsidy"
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "content": {
+        "title": "Accident Medical Assistance Scheme (PBAOCWWB)",
+        "state": "Puducherry",
+        "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Workers",
+        "details": "The 'Accident Medical Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction an amount of \u20b91,500/- per month to the Construction Worker who has met an accident and sustained fracture. The financial assistance is provided until he/she becomes physically fit to resume normal work. The claim from the worker should be supported by medical certificates issued by a prescribed doctor.",
+        "benefits": [
+            "Financial Assistance of \u20b91,500/- per month credited within 15 days through Direct Benefit Transfer (DBT).",
+            "The financial assistance is provided until he/she becomes physically fit to resume normal work."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+            "The applicant should have completed the age of 18 years.",
+            "The applicant should not have completed the age of 60 years during the preceding 12 months in the construction work.",
+            "The beneficiary should be contributing to the Board's Fund.",
+            "The applicant should not have defaulted in payment of contribution to the Board for a continuous period of more than one year.",
+            "The applicant should have met an accident, and sustained fracture(s).",
+            "The applicant should not be physically fit to resume normal work."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Duly Filled and Signed Application Form.",
+            "Birth Certificate/Transfer Certificate/Doctor Certificate for Age Verification.",
+            "Experience Certificate to Be Obtained From a Registered Engineer/contractor/association/trade Union, Serving as Evidence of Being a Construction Worker.",
+            "Details Related to Construction Work/worksite.",
+            "Proof of Blood Group (Medical Health Card or Laboratory Certificate).",
+            "Two Passport-size Photographs.",
+            "Ration Card.",
+            "Aadhaar Card.",
+            "Bank Details.",
+            "Family Particulars/status and Nomination Details of the Beneficiaries.",
+            "Certificate From the Revenue Department or Social Welfare Department or Anganwadi Officials of the Respective Area.",
+            "Last Subscription Bill.",
+            "Board ID Card.",
+            "Aadhaar Card.",
+            "Bank Pass Book.",
+            "Medical Certificate Issued by the Competent Authority (RMO).",
+            "Accident Report.",
+            "Discharge Slip."
+        ],
+        "faqs": [
+            {
+                "question": "How quickly can a registered worker expect financial assistance after an accident?",
+                "answer": "Financial assistance is credited within 15 days through Direct Benefit Transfer (DBT) after the claim is supported by medical certificates and verified by the Board."
+            },
+            {
+                "question": "What is the role of inspectors in the registration process?",
+                "answer": "Inspectors verify the authenticity of the registration, and upon approval by the Secretary (Board), the worker is enrolled as a beneficiary. A registration fee of \u20b925 is applicable, along with an annual subscription of \u20b9100."
+            },
+            {
+                "question": "How much financial assistance does the scheme provide, and for how long?",
+                "answer": "The scheme provides \u20b91,500 per month through Direct Benefit Transfer (DBT) until the injured worker becomes physically fit to resume normal work."
+            },
+            {
+                "question": "Is citizenship a mandatory requirement for eligibility under the scheme?",
+                "answer": "Yes, the applicant should be a citizen of India to be eligible for the 'Accident Medical Assistance' scheme."
+            },
+            {
+                "question": "How is the age of the construction worker determined during eligibility assessment?",
+                "answer": "The age is determined based on completion of the 18th and 60th years during the preceding 12 months in the construction work."
+            },
+            {
+                "question": "Is there a specific time limit for contributing to the Board for eligibility?",
+                "answer": "Yes, to meet the eligibility criteria, the applicant should not have defaulted in payment of contributions to the Board for a continuous period of more than one year."
+            },
+            {
+                "question": "Is there any specific requirement regarding the physical condition of the worker for eligibility?",
+                "answer": "Yes, to be eligible, the worker should have met with an accident, sustained a fracture, and must not be physically fit to resume normal work."
+            },
+            {
+                "question": "Can a construction worker apply for the scheme if they have defaulted in contribution payments to the Board?",
+                "answer": "No, to be eligible, the applicant should not have defaulted in payment of contributions to the Board for a continuous period of more than one year."
+            },
+            {
+                "question": "Can the financial assistance be used for any purpose, or are there restrictions?",
+                "answer": "The financial assistance of \u20b91,500 per month is meant to support the injured construction worker during their recovery period. While there are no specific restrictions on usage, it is intended to cover living expenses during the period of incapacity."
+            },
+            {
+                "question": "Is the financial assistance taxable, and does it affect other government benefits?",
+                "answer": "The financial assistance provided by the scheme is generally not considered taxable income. However, workers are advised to consult with a tax professional for personalized advice. The scheme's assistance is specific to its purpose and does not affect other government benefits."
+            },
+            {
+                "question": "How are disputes or grievances related to the scheme's benefits addressed?",
+                "answer": "Grievances and disputes can be addressed through the Grievance Redressal mechanism outlined in the scheme's guidelines (Page No. 131). Beneficiaries can follow the process outlined in the Citizen's Charter to resolve any issues or concerns regarding the scheme's benefits."
+            },
+            {
+                "question": "Are there any specific declarations to be made in the application form?",
+                "answer": "The worker must declare their status as a construction worker and mention their worksite."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Registration Process & Documents Required",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Construction",
+            "DBT",
+            "Financial Assistance",
+            "Labour",
+            "Medical",
+            "Worker"
+        ]
+    }
+}

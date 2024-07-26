@@ -1,0 +1,106 @@
+{
+    "content": {
+        "title": "Janta Juth Accidental Insurance Scheme",
+        "state": "Gujarat",
+        "department": "Director of Insurance, Gandhinagar",
+        "type": "Insurance",
+        "beneficiary": "Farmers, their children, and spouses aged 5 to 70 years",
+        "details": "'Janta Juth' is a Farmer's Accidental Insurance Scheme launched by the Govt. of Gujarat on 26th January 1996 to provide economic assistance of upto \u20b9 2,00,000 to Farmers in case of Death or Disability. It is a 100% state-sponsored scheme. The main objective is to assist the successor of the farmer in case of death or disability due to an accident. In this scheme, insurance premium is paid by the State Government for all farmers. This scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar.",
+        "benefits": [
+            "In case of accidental death or permanent disability 100% assistance of \u20b9 2,00,000.",
+            "In case of accidental loss of two eyes / two limbs / hand and leg / one eye and one hand or leg 100% assistance of \u20b9 2,00,000.",
+            "In case of accidental loss of one eye or one limb 50% assistance of \u20b9 1,00,000."
+        ],
+        "eligibility": [
+            "The Deceased or the Person with Permanent Disability Should Be a Registered Farmer (Have Individual or Joint Name Land) or Child of a Registered Farmer (Son or Daughter) or the Husband/ Wife.",
+            "The Death or Permanent Disability Must Be Due to an Accident.",
+            "The Deceased or the Person with Permanent Disability should be between the age of 5 to 70 years.",
+            "The Application Should Be Made Within 150 Days to the Office of the Concerned District Agriculture Officer."
+        ],
+        "exclusions": [
+            "Suicide or Natural death are not covered in this scheme."
+        ],
+        "application_process": "Offline. The Applicant Should Submit the Application Along With the Relevant Papers in the Prescribed Format to the Concerned District Agricultural Officer, District Panchayat Within 150 Days From the Date of Death or Date of Accidental Disabilities.",
+        "documents_required": [
+            "Application in prescribed form Annexure -1, 2,3, 3(A),4,5",
+            "7/12, 8-A, Form No: 6 (certified extract after death date)",
+            "Post Mortem Report",
+            "F.I.R & Spot Panchnama Police Inquest Report or Court Order",
+            "Death Certificate & Age Proof",
+            "Case Approval report of Sub Divisional Magistrate.",
+            "Disability certificate of Medical board/Civil Surgeon in the case of permanent disability and Photograph of disablement shown.",
+            "Valid Driving License in case of Deceased was driving at the time of accident.",
+            "Indemnity Bond",
+            "Hereditary Report (Pedhinamu)",
+            "Hereditary Report (Pedhinamu) in Successor case (When the husband/wife are not Successor)",
+            "Any other proof asked by Director of Insurance"
+        ],
+        "faqs": [
+            {
+                "question": "When Was 'Janta Juth' Scheme Launched?",
+                "answer": "'Janta Juth' scheme was launched by the Govt. of Gujarat on 26th January 1996."
+            },
+            {
+                "question": "Does This Scheme Only Covers Permanent Disability?",
+                "answer": "The scheme provides financial assistance in case of accidental death or permanent disability."
+            },
+            {
+                "question": "What Shall Be The Amount Of Financial Assistance In Case Of Accidental Death Or Permanent Disability?",
+                "answer": "In case of accidental death or permanent disability, there shall be 100% assistance of \u20b9 2,00,000."
+            },
+            {
+                "question": "What Shall Be The Amount Of Financial Assistance In Case Of Loss Of Both Eyes?",
+                "answer": "In case of loss of both eyes, a 100% financial assistance of \u20b9 2,00,000 is provided."
+            },
+            {
+                "question": "What Shall Be The Amount Of Financial Assistance In Case Of Loss Of One Eye Or One Limb?",
+                "answer": "In case of accidental loss of one eye or one limb, 50% financial assistance of \u20b9 1,00,000 is provided."
+            },
+            {
+                "question": "Who Is The Implementing Agency Under 'Janta Juth' Scheme?",
+                "answer": "The 'Janta Juth' scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar."
+            },
+            {
+                "question": "Is There A Deadline For The Submission Of The Application Under This Scheme?",
+                "answer": "Yes, the Application Should Be Made Within 150 Days to the Office of the Concerned District Agriculture Officer."
+            },
+            {
+                "question": "Is Death By Suicide Or Unnatural Causes Covered In This Scheme?",
+                "answer": "No, The Death or Permanent Disability Must Be Due to an Accident."
+            },
+            {
+                "question": "Is Partial Disability Covered In This Scheme?",
+                "answer": "No, Partial Disability is not covered in this scheme."
+            },
+            {
+                "question": "Is The Post Mortem Report Of The Deceased A Mandatory Document?",
+                "answer": "Yes, Post Mortem Report is a mandatory document in case the farmer died due to an accident."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dag.gujarat.gov.in/farmers-accidental-insurance-scheme.htm"
+            },
+            {
+                "type": "Amount Of Assistance",
+                "url": "https://dag.gujarat.gov.in/images/directorofagriculture/pdf/Janta-Juth-Accidental-Insurance-Scheme.pdf"
+            },
+            {
+                "type": "Guidelines (Gujarati) And Application Form",
+                "url": "https://dag.gujarat.gov.in/Portal/Document/12_4318_3_KKVY_FORM.pdf"
+            },
+            {
+                "type": "Check Application Status",
+                "url": "https://gsjjavy.gujarat.gov.in/claimsearch.php"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Farmer",
+            "Financial Assistance",
+            "Insurance",
+            "Person With Disability"
+        ]
+    }
+}

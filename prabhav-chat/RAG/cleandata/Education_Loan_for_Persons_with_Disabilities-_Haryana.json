@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Education Loan for Persons with Disabilities- Haryana",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Loan",
+        "beneficiary": "Persons with Disabilities",
+        "details": "The scheme 'Education Loan for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under this scheme, education loans of up to \u20b950 lakhs are provided to persons with disabilities (Orthopedically Handicapped, Visually Handicapped, Hearing Handicapped, Mentally Retarded) for pursuing professional and technical education both in India and abroad. Permanent residents of Haryana, aged between 18 and 55 years, with a disability of more than 40%, are eligible to benefit from this scheme.",
+        "benefits": [
+            "Education loans of up to \u20b950 lakhs for pursuing professional and technical education both in India and abroad."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana State.",
+            "The applicant should have a disability of more than 40%.",
+            "The applicant's age should be between 18 and 55 years. For persons with mental retardation, the eligible age is above 14 years.",
+            "The applicant should have secured admission to a professional or technical course in India or abroad.",
+            "Unique Disability ID (UDID) registration under the Department of Empowerment of Persons with Disabilities (DEPwD) is mandatory for loan amounts of \u20b915 lakhs and above.",
+            "The applicant must have a Parivar Pehchan Patra (PPP ID)."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity/Citizenship i.e. Aadhaar Card",
+            "Proof of age",
+            "Resident Proof/Address Proof/Ownership Proof i.e. Haryana Domicile Certificate",
+            "Disability Certificate",
+            "Privaar Pahchan Patra (PPP ID)",
+            "Copy of PAN Card",
+            "Photo of Applicant",
+            "Admission proof",
+            "Fee structure",
+            "Previous qualification certificate",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for this education loan?",
+                "answer": "Permanent residents of Haryana aged between 18 and 55 years with a disability of more than 40% are eligible. For persons with mental retardation, the eligible age is above 14 years."
+            },
+            {
+                "question": "What types of disabilities are covered under this scheme?",
+                "answer": "The scheme covers orthopedically handicapped, visually handicapped, hearing handicapped, and mentally retarded individuals."
+            },
+            {
+                "question": "How much loan amount can be availed under this scheme?",
+                "answer": "Eligible applicants can avail education loans of up to \u20b950 lakhs."
+            },
+            {
+                "question": "For which types of education can this loan be used?",
+                "answer": "The loan can be used for pursuing professional and technical education both in India and abroad."
+            },
+            {
+                "question": "Is there an age limit for applying for this loan?",
+                "answer": "Yes, the applicant's age should be between 18 and 55 years. For persons with mental retardation, the eligible age is above 14 years."
+            },
+            {
+                "question": "Is UDID registration necessary for applying for this loan?",
+                "answer": "Yes, UDID registration under the Department of Empowerment of Persons with Disabilities (DEPwD) is mandatory for loan amounts of \u20b915 lakhs and above."
+            },
+            {
+                "question": "Is a Parivar Pehchan Patra (PPP ID) required for the application?",
+                "answer": "Yes, the applicant must have a Parivar Pehchan Patra (PPP ID)."
+            },
+            {
+                "question": "How can one apply for the education loan under this scheme?",
+                "answer": "Eligible applicants can apply online through the Official Portal- Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=dqtBI+sui3UGdiZgKVKJ9Q%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Education Loan",
+            "PwD"
+        ]
+    }
+}

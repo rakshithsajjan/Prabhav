@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "Integrated Scheme on Agriculture Cooperation",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Loan",
+        "beneficiary": "Cooperatives in agriculture and allied sectors",
+        "details": "The Integrated Scheme on Agriculture Cooperation (ISAC) is a Central Sector Scheme of the Ministry of Agriculture and Farmers Welfare, Government of India. The scheme is being implemented through the National Cooperative Development Corporation (NCDC). The main objectives of the scheme are to provide financial assistance to cooperatives to improve their economic conditions, remove regional imbalances, help cotton growers, promote overall development of selected districts, and assist National Level Cooperative Federation/Multi State Cooperative Societies (MSCS).",
+        "benefits": [
+            "Financial assistance to improve economic conditions",
+            "Access to technology and training",
+            "Support for developing new markets",
+            "Help to expand operations and reach"
+        ],
+        "eligibility": [
+            "Registered under the Cooperative Societies Act of the respective state",
+            "Undertaking activities related to agriculture and allied sectors",
+            "Financially viable with a good track record",
+            "Eligible for financial assistance from the NCDC"
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "NCDC may prescribe the requirements of documents to be obtained from the agency as per the nature and size of the project."
+        ],
+        "faqs": [
+            {
+                "question": "What is the ISAC scheme?",
+                "answer": "The ISAC scheme is a Central Sector Scheme of the Ministry of Agriculture and Farmers Welfare, Government of India, implemented through the National Cooperative Development Corporation (NCDC)."
+            },
+            {
+                "question": "What are the objectives of the ISAC scheme?",
+                "answer": "The main objectives are to provide financial assistance to cooperatives, remove regional imbalances, help cotton growers, promote overall development, and assist MSCS."
+            },
+            {
+                "question": "Who is eligible for the ISAC scheme?",
+                "answer": "Eligible organizations must be registered under the Cooperative Societies Act, undertake relevant activities, be financially viable, and eligible for NCDC assistance."
+            },
+            {
+                "question": "What types of projects are eligible for financial assistance under the ISAC scheme?",
+                "answer": "Eligible projects include construction of godowns, purchase of machinery, development of marketing infrastructure, and training of cooperative members."
+            },
+            {
+                "question": "How can cooperatives apply for financial assistance under the ISAC scheme?",
+                "answer": "Cooperatives can apply by submitting a project proposal to the NCDC, including a detailed description of the project, its cost, and benefits."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://wep.gov.in/resource-details?slug=the-central-sector-integrated-scheme-on-agricultur"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://www.ncdc.in/documents/notice-circular/2817230419Guidelines_CSISAC.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.ncdc.in/"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Cooperation",
+            "Financial Assistance",
+            "NCDC"
+        ]
+    }
+}

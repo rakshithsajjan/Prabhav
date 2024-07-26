@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Centrally Sponsored Scheme of Post-Matric Scholarship for OBC Students for studying in India",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "OBC Students",
+        "details": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Other Backward Class (OBC) Students for Studying in India is a Scholarship Scheme by the Department of Social Justice and Empowerment. The objective of the scheme is to provide financial assistance to OBC students studying at the post-matriculation or post-secondary stage to enable them to complete their education. These scholarships shall be available for studies in India only and will be awarded by the Government of State/Union Territory to which the applicant actually belongs, i.e. permanently settled.",
+        "benefits": [
+            "Maintenance Allowance for different groups of courses",
+            "Reader Charges for Blind Students",
+            "Fees for enrolment/registration, tuition, games, union, library, magazine, medical examination",
+            "Study Tours charges",
+            "Thesis Typing/Printing Charges",
+            "Direct payment to beneficiaries through bank accounts"
+        ],
+        "eligibility": [
+            "The applicant should be an Indian national.",
+            "The applicant should belong to OBCs, as notified by their State Govt./ UT Admn.",
+            "The applicant should be pursuing post-matriculation or post-secondary courses in a recognized institution.",
+            "The applicant should be permanently settled and should have passed a recognized Matriculation or Higher Secondary or any higher examination.",
+            "The applicant should be eligible if, after failing or passing the undergraduate/Post-Graduate examinations, they join any recognized professional or technical certificate/diploma/degree courses.",
+            "The employed applicant should be eligible if their income, combined with the income of their parents/guardians, does not exceed Rs. 1.50 lakh per annum.",
+            "The unemployed applicant should be eligible if their parents/guardians' income from all sources does not exceed Rs. 1.50 lakh per annum.",
+            "The scholarships are restricted to two boys of the same parents/guardian, with this restriction not applying to girls."
+        ],
+        "exclusions": [
+            "Scholarships shall not be awarded for Commercial Pilot Licence (CPL) Courses and other aviation-linked courses.",
+            "Candidates studying in the same stage of education in a different subject will not be eligible.",
+            "Students who have completed their educational career in one professional line will not be eligible.",
+            "Students studying in the XI Class of the Higher Secondary School courses or the XII class of the Multipurpose High School will not be eligible."
+        ],
+        "application_process": "Online. Visit the National Scholarship Portal and follow the registration and application steps.",
+        "documents_required": [
+            "One copy of the application for the scholarship in the prescribed form.",
+            "One copy of the passport-size photograph with signatures of the student.",
+            "One attested copy of each of the certificates/diplomas/degrees.",
+            "A certificate of income issued by an authorized Revenue Officer.",
+            "A receipt in acknowledgement of the scholarship in the previous year."
+        ],
+        "faqs": [
+            {
+                "question": "How does the scholarship program define the duration of awards?",
+                "answer": "The scholarship is awarded from the stage at which it is given until the completion of the course."
+            },
+            {
+                "question": "What is the rationale behind transitioning to Smart Cards for the disbursal of scholarship amounts?",
+                "answer": "The move to Smart Cards is aimed at ensuring efficient and secure disbursal of scholarship amounts."
+            },
+            {
+                "question": "Could you elaborate on the significance of providing financial support for thesis typing/printing charges?",
+                "answer": "The provision for thesis typing/printing charges assists research scholars in the final stages of their academic journey."
+            },
+            {
+                "question": "What is the eligibility for post-graduate courses in medicine?",
+                "answer": "Eligibility for pursuing post-graduate courses in medicine is contingent on the student not being allowed to practice during the period of their course."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/TRIPURA_PMS_OBC.pdf"
+            },
+            {
+                "type": "National Scholarship Portal",
+                "url": "http://www.scholarships.gov.in/"
+            }
+        ],
+        "tags": [
+            "DBT",
+            "Education",
+            "OBC",
+            "Post-Matric",
+            "Scholarship"
+        ]
+    }
+}

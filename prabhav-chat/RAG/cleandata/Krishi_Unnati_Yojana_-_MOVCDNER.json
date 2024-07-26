@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "Krishi Unnati Yojana - MOVCDNER",
+        "state": "Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Central Sector Scheme",
+        "beneficiary": "Farmers in the North Eastern Region",
+        "details": "The scheme aims at development of certified organic production in a value chain mode to link growers with consumers and to support the development of entire value chain starting from inputs, seeds, and certification, to the creation of facilities for collection, aggregation, processing marketing and brand building initiative.",
+        "benefits": [
+            "Developing crop specific organic production clusters",
+            "Assistance for on-farm input production unit and off-farm inputs",
+            "Assistance for quality seed and planting material",
+            "Support for extension services, input facilitation, training hand holding and certification at the production stage",
+            "Financial assistance for setting up of functional infrastructure for collection units, grading units and North East organic bazaar",
+            "Financial assistance for setting up of integrated processing units"
+        ],
+        "eligibility": [
+            "FPCs/FIGs/ FPOs has minimum contiguous area of organic cultivation or organic conversion not less than 400 Ha.",
+            "The marketing infrastructure shall be within the radius of 25 Km from clusters developed and registered under MOVCDNER."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The eligible beneficiaries under MOVCDNER will fill up the subsidy proposal in the prescribed format and submit it to respective State Lead Agency (SLA) designated for each state.",
+        "documents_required": [
+            "Forwarding letter of the beneficiary with complete address and contact details.",
+            "Copy of project report (DPR) with item-wise details of costs.",
+            "Copy of the approved plan/map and civil drawings.",
+            "Invoices for purchase of machinery/equipment.",
+            "Copy of land documents where the project is going to be established.",
+            "Notarized Affidavit in Original executed by the promoter.",
+            "Copy of duly registered partnership deed or registration certificate as per Producer Company."
+        ],
+        "faqs": [
+            {
+                "question": "What is the purpose of this scheme?",
+                "answer": "The Mission has been launched with an aim to develop certified organic produce in a value chain mode to link growers with consumers."
+            },
+            {
+                "question": "Which states come under this scheme?",
+                "answer": "Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland, Tripura, and Sikkim."
+            },
+            {
+                "question": "What is the Sanction and Fund Flow Mechanism?",
+                "answer": "Comprehensive project proposal for making commodity specific end-to-end value chain duly approved by the State Level Executive Committee will be submitted to the Mission Head Quarter."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://agricoop.nic.in/sites/default/files/movcdner_revised.pdf"
+            }
+        ],
+        "tags": [
+            "Organic Farming",
+            "North Eastern Region",
+            "Value Chain Development",
+            "Farmers Welfare"
+        ]
+    }
+}

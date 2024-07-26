@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Education Assistance for the Construction Workers",
+        "state": "Delhi",
+        "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
+        "type": "Scholarship",
+        "beneficiary": "Construction Workers",
+        "details": "The 'Education Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. The objective of the scheme is to provide scholarships to the students studying in various classes for enabling them to bear the expenses required for their studies.",
+        "benefits": [
+            "Class 1 to 8: \u20b9 500/- per month",
+            "Class 9 to 10: \u20b9 700/- per month",
+            "Class 11 to 12: \u20b9 1,000/- per month",
+            "Graduation level: \u20b9 3,000/- per month",
+            "ITI Course: \u20b9 4,000/- per month",
+            "L.LB. Course (5 Years): \u20b9 4,000/- per month",
+            "L.LB Course (3 years): \u20b9 3,000/- per month",
+            "Polytechnic Diploma: \u20b9 5,000/- per month",
+            "Technical Course such as Engineering, Medical, MBA: \u20b9 10,000/- per month"
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Delhi.",
+            "The applicant should be a Building/Construction Worker.",
+            "The applicant should be between 18 and 60 years.",
+            "The applicant should have served the Board for at least 90 days in a given year.",
+            "The applicant should be a child of the construction worker.",
+            "The applicant should be studying in any of the specified classes."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Institutional Identity Card of the Student.",
+            "Bank Passbook Copy/ Copy of Cancelled Cheque.",
+            "Aadhar Card of the child."
+        ],
+        "faqs": [
+            {
+                "question": "Which Department of the NCT of Delhi administers this scheme?",
+                "answer": "This scheme is administered by the Labour Department, of the National Capital Territory of Delhi."
+            },
+            {
+                "question": "Where can I find the URL of the Delhi Building and Other Construction Workers Welfare Board?",
+                "answer": "The URL of the Official Website of the Delhi Building and Other Construction Workers Welfare Board is: https://bocw.delhi.gov.in/"
+            },
+            {
+                "question": "What is the URL for the registration of this scheme?",
+                "answer": "The applicants need to register through clicking on the 'Register' button on DBoCWWB website: https://dbocwwb.delhi.gov.in/cwapp/MyLoginPage?ReturnUrl=%2Fcwapp%2F"
+            },
+            {
+                "question": "Can members in my family also register if they are all registered construction workers?",
+                "answer": "Yes, if there are more than one member in the family who are engaged in Construction Work, they can all register under the DBoCWWB."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://bocw.delhi.gov.in/bocw/welfare-schemes"
+            },
+            {
+                "type": "Latest Guidelines",
+                "url": "https://dbocwwb.delhi.gov.in/welfareschemedboc.html"
+            },
+            {
+                "type": "User Manual (Registration)",
+                "url": "https://drive.google.com/file/d/1nCDEvvl3saMAKnR__iYZNbc_MnuwQ0E1/view"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://dbocwwb.delhi.gov.in/faqdboc.html#faqm2q1"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Assistance",
+            "Construction Workers",
+            "Scholarship"
+        ]
+    }
+}

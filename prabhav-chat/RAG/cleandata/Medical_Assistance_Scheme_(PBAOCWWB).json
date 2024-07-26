@@ -1,0 +1,121 @@
+{
+    "content": {
+        "title": "Medical Assistance Scheme (PBAOCWWB)",
+        "state": "Puducherry",
+        "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Construction Workers",
+        "details": "The 'Medical Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction financial assistance to the Construction Workers who are hospitalized for five or more days due to an accident or any disease. The financial assistance shall be \u20b9500/- for the first 5 days and \u20b950/- each for the remaining days, subject to a maximum of \u20b91,500/-.",
+        "benefits": [
+            "Financial Assistance of \u20b9500/- for initial minimum period of 5 days and thereafter \u20b950/- per day up to maximum of \u20b91500/- per month, credited within 15 days through Direct Benefit Transfer (DBT)."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+            "The applicant should have completed the age of 18 years.",
+            "The applicant should not have completed the age of 60 years during the preceding 12 months in the construction work.",
+            "The beneficiary should be contributing to the Board's Fund.",
+            "The applicant should not have defaulted in payment of contribution to the Board for a continuous period of more than one year.",
+            "The applicant should have been hospitalized for five or more days due to an accident or any disease."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Duly Filled and Signed Application Form.",
+            "Birth Certificate/Transfer Certificate/Doctor Certificate for Age Verification.",
+            "Experience Certificate to Be Obtained From a Registered Engineer/contractor/association/trade Union, Serving as Evidence of Being a Construction Worker.",
+            "Details Related to Construction Work/worksite.",
+            "Proof of Blood Group (Medical Health Card or Laboratory Certificate).",
+            "Two Passport-size Photographs.",
+            "Ration Card.",
+            "Aadhaar Card.",
+            "Bank Details.",
+            "Family Particulars/status and Nomination Details of the Beneficiaries.",
+            "Certificate From the Revenue Department or Social Welfare Department or Anganwadi Officials of the Respective Area.",
+            "Last Subscription Bill.",
+            "Board ID card",
+            "Aadhaar Card",
+            "Bank Passbook.",
+            "Medical Certificate issued by the competent authority (RMO).",
+            "Prescription Slip or Treatment Card.",
+            "Discharge Slip."
+        ],
+        "faqs": [
+            {
+                "question": "Can a construction worker with a lapse in contribution still be eligible?",
+                "answer": "No, the beneficiary should be contributing to the Board's Fund, and there should not be a default in payment of contribution for more than one year."
+            },
+            {
+                "question": "What happens if a worker is hospitalized for less than five days?",
+                "answer": "The scheme is applicable for construction workers hospitalized for five or more days due to accident or any disease."
+            },
+            {
+                "question": "Is there an age limit for applying for the scheme?",
+                "answer": "The applicant should not have completed the age of 60 years during the preceding 12 months in the construction work."
+            },
+            {
+                "question": "What if a worker has defaulted in payment previously?",
+                "answer": "The applicant should not have defaulted in payment of contribution to the Board for a continuous period of more than one year."
+            },
+            {
+                "question": "What financial assistance does the Medical Assistance scheme provide?",
+                "answer": "The scheme offers \u20b9500/- for the initial 5 days and \u20b950/- per day thereafter, up to a maximum of \u20b91,500/- per month, credited through Direct Benefit Transfer (DBT)."
+            },
+            {
+                "question": "How quickly are the benefits disbursed after hospitalization?",
+                "answer": "Financial assistance is credited within 15 days through Direct Benefit Transfer (DBT) after the completion of the hospitalization period."
+            },
+            {
+                "question": "Can the financial assistance be used for purposes other than medical expenses?",
+                "answer": "The assistance is specifically for construction workers hospitalized due to accident or disease, intended for covering medical expenses during that period."
+            },
+            {
+                "question": "Is there a maximum limit on the total benefits a worker can receive?",
+                "answer": "The maximum benefit under the scheme is \u20b91,500/- per month."
+            },
+            {
+                "question": "Are the benefits taxable?",
+                "answer": "The scheme provides financial assistance, and it is advisable for beneficiaries to consult with a tax professional for information on tax implications."
+            },
+            {
+                "question": "Is there an option for a lump sum payment instead of monthly assistance?",
+                "answer": "The scheme outlines a daily payment structure, and there is no provision mentioned for a lump sum payment."
+            },
+            {
+                "question": "Are there any conditions for extending the benefit period beyond 5 days?",
+                "answer": "The benefit period extends beyond 5 days only if the hospitalization continues, with a daily assistance rate of \u20b950/-."
+            },
+            {
+                "question": "Can the beneficiary choose the mode of receiving the financial assistance?",
+                "answer": "The benefits are credited through Direct Benefit Transfer (DBT), providing a secure and efficient mode of payment."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Registration Process & Documents Required",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Construction",
+            "Disease",
+            "Financial Assistance",
+            "Hospital",
+            "Medical",
+            "Worker"
+        ]
+    }
+}

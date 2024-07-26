@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Mukhmantri Sehat Bima Yojana",
+        "state": "Punjab",
+        "department": "Health",
+        "type": "Insurance",
+        "beneficiary": "Residents of Punjab",
+        "details": "Ayushman Bharat PM-JAY Mukhmantri Sehat Bima Yojana (AB PM-JAY MMSBY), was launched on 20 August 2019 this is a flagship State Health Insurance Scheme for the beneficiaries of State of Punjab. AB PM-JAY MMSBY will provide financial protection to 65% population of state of Punjab. It is entitlement based cashless Health Insurance cover. Under this scheme cashless and paperless treatment is available at Government and empaneled Private hospitals.",
+        "benefits": [
+            "A health insurance cover of 5 lakh rupees per family per year for secondary and tertiary care hospitalization (in-patient services) for treatment of listed diseases and medical conditions."
+        ],
+        "eligibility": [
+            "Residents of Punjab.",
+            "Applicants should be from the following categories:",
+            "SECC 2011 data families",
+            "Smart Ration Card holder families",
+            "J-Form holder farmers",
+            "Small traders registered with Excise & Taxation Department",
+            "Small & Marginal Farmers",
+            "Accredited & Yellow Card Journalist and Construction workers registered with Punjab Building & Other Construction Workers Welfare Board."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. AB PM-JAY MMSBY is an entitlement-based scheme. There is no enrolment process. Families who are identified by the Government of India based on SECC 2011 data, Smart Ration card holders families as per the database of Food and Civil Supplies, Small & Marginal Farmers and J-form holder farmer families as per data provided by Punjab Mandi Board, Small trader families as per data provided by Excise & Taxation Department, Accredited & Yellow Card Journalist as per data provided by PUNMEDIA, and Registered Construction worker families as per data provided by the Construction Worker Welfare Board are entitled to AB PM-JAY MMSBY. A dedicated AB PM-JAY MMSBY family identification number will be allotted to eligible families. Print of individual e-card will also be given to every family member at the Common Service Center (CSCs), Market Committee, Sewa Kendra by paying thirty rupees (Rs. 30/-) per card.",
+        "documents_required": [
+            "Aadhar Card",
+            "Ration Card",
+            "Family Declaration (If no Ration Card)",
+            "Income Certificate",
+            "Construction Worker Card (If belong to that Category)"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "AYUSHMAN BHARAT PM-JAY MUKH MANTRI SEHAT BIMA YOJNA is a flagship State Health Insurance Program of the Government of Punjab."
+            },
+            {
+                "question": "What health services are available under AB PM-JAY MMSBY?",
+                "answer": "The Scheme covers 1579 treatment packages that include hospitalization expenses, daycare surgeries, 3 days pre and 15 days post-hospitalization expenses and treatment of newborn child."
+            },
+            {
+                "question": "What is the maximum limit of provided health insurance?",
+                "answer": "Health insurance cover of 5 lakh rupees per family per year."
+            },
+            {
+                "question": "Who can get the benefits?",
+                "answer": "All the eligible residents of Punjab."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "This is an entitlement-based scheme and no enrolment process for the families who are identified by the Government of India."
+            },
+            {
+                "question": "What documents are required for this?",
+                "answer": "1. Aadhar Card. 2. Ration Card. 3. Family Declaration (If no Ration Card). 4. Income Certificate. 5. Construction Worker Card (If belong to that Category)."
+            },
+            {
+                "question": "How to check e-cards of AB PM-JAY MMSBY?",
+                "answer": "Follow the below URL and enter the e-card & captcha details."
+            },
+            {
+                "question": "Can those families whose names are not on the list avail the benefits under AB PM-JAY MMSBY?",
+                "answer": "In this phase, no additional new families can be added under AB PM-JAY MMSBY. However, names of additional family members can be added only in case of families of J-Form holder farmers, families of registered Small traders and families of registered construction workers based on the family identification document produced by the Beneficiary at the point of contact."
+            },
+            {
+                "question": "Will e-card be given to the beneficiary?",
+                "answer": "A dedicated AB PM-JAY MMSBY family identification number will be allotted to eligible families. Print of individual e-card will also be given to every family member at the Common Service Center (CSCs), Market Committee, Sewa Kendra by paying thirty rupees (Rs. 30/-) per card."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Portal",
+                "url": "https://sha.punjab.gov.in/shapunjab/index.php"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.myscheme.gov.in/schemes/mmsby"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Insurance",
+            "Medical",
+            "Welfare"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Jan Dhan Yojana",
+        "state": "India",
+        "department": "Ministry of Finance",
+        "type": "Scheme",
+        "beneficiary": "Individuals without bank accounts",
+        "details": "Pradhan Mantri Jan Dhan Yojana (PMJDY) is a financial inclusion program launched by the Government of India to ensure access to financial services, such as banking, savings, and insurance, for all citizens.",
+        "benefits": [
+            "Zero balance account",
+            "Accidental insurance cover of Rs. 2 lakh",
+            "Overdraft facility up to Rs. 10,000",
+            "Free RuPay debit card",
+            "Mobile banking facility"
+        ],
+        "eligibility": [
+            "Any Indian citizen",
+            "Minors can open accounts under guardianship"
+        ],
+        "exclusions": [],
+        "application_process": "Accounts can be opened at any bank branch or BC outlet.",
+        "documents_required": [
+            "AADHAAR",
+            "Government ID proofs (Voter Card/PAN Card/Ration card)",
+            "Permanent Address proof (Passport/Driving License/Electricity Bill/Telephone Bill/Water Bill)",
+            "Passport size photograph",
+            "Filled and Signed PMJDY Account opening form",
+            "Any other document as notified by the Central Government"
+        ],
+        "faqs": [
+            {
+                "question": "Can I Open A Joint Account Under Pradhan Mantri Jan Dhan Yojana?",
+                "answer": "Yes. You can open a joint account under Pradhan Mantri Jan-Dhan Yojana."
+            },
+            {
+                "question": "Where Do I Open A Bank Account Under PMJDY?",
+                "answer": "You can open a PMJDY account at any bank branch on Core Banking Solutions (CBS) or at a BC outlet of such Banks."
+            },
+            {
+                "question": "Can I Link My Mobile Number With My Bank Account Opened Under PMJDY?",
+                "answer": "Yes. You can link your mobile number with your bank account."
+            },
+            {
+                "question": "What Is A Small Account or Chota Khata under PMJDY?",
+                "answer": "A 'Small Account' can be opened in case of non availability of Officially Valid Documents (OVDs)."
+            },
+            {
+                "question": "Does The PMJDY Scheme Offer Accidental Insurance Cover?",
+                "answer": "All PMJDY Accounts are provided with a free Rupay Debit Card with inbuilt accidental insurance cover of Rs.2 lakh."
+            },
+            {
+                "question": "Is Overdraft/Loan Facility Available Under PMJDY?",
+                "answer": "Overdraft facility up to Rs. 10,000 will be available to one account holder of PMJDY per household after 6 months of satisfactory conduct of the account."
+            },
+            {
+                "question": "What Are The Documents Required For Opening A Bank Account Under PMJDY?",
+                "answer": "The following documents are required: AADHAAR, Government ID proofs, Permanent Address proof, Passport size photograph, Filled and Signed PMJDY Account opening form."
+            },
+            {
+                "question": "Can A RuPay Card Be Availed By Illiterate Account Holders?",
+                "answer": "Yes. It can be availed by illiterate account holders as well."
+            },
+            {
+                "question": "Will I Get A Cheque Book Against My Bank Account?",
+                "answer": "Cheque book(s) are not a mandatory feature of PMJDY A/cs."
+            },
+            {
+                "question": "Do Banks Charge Account Opening Fees For Opening An Account Under PMJDY?",
+                "answer": "Banks do not charge any fees while opening PMJDY account."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pmjdy"
+            }
+        ],
+        "tags": [
+            "Financial Inclusion",
+            "Banking",
+            "Government Scheme"
+        ]
+    }
+}

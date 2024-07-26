@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Single Point Registration Scheme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Registration",
+        "beneficiary": "Micro & Small Enterprises (MSEs)",
+        "details": "The scheme 'Single Point Registration Scheme (SPRS)' was started by the National Small Industries Corporation (NSIC), Government of India Enterprise under the Ministry of Micro, Small and Medium Enterprises (MSME) for Micro & Small Enterprises (MSEs) to participate in Government Purchases. The units enlisted under this scheme of NSIC are eligible to get the benefits under the Public Procurement Policy for Micro & Small Enterprises (MSEs) Order 2012 as notified by the Government of India.",
+        "benefits": [
+            "Issue of the Tender Sets free of cost.",
+            "Exemption from payment of Earnest Money Deposit (EMD).",
+            "In tender participating MSEs quoting price within a price band of L1+15 percent shall also be allowed to supply a portion up to 25% of the requirement by bringing down their price to L1 Price where L1 is non-MSEs.",
+            "Every Central Ministries/Departments/PSUs shall set an annual goal of a minimum of 25% of the total annual purchases of the products or services produced or rendered by MSEs.",
+            "358 items are reserved for exclusive purchase from the MSE Sector.",
+            "Provides access to many schemes & benefits."
+        ],
+        "eligibility": [
+            "All Micro & Small Enterprises having a Udyam Registration are eligible for registration with NSIC under its Single Point Registration Scheme (SPRS).",
+            "Micro & Small Enterprises who have already commenced their commercial production but have not completed one year of existence can apply for Provisional Registration."
+        ],
+        "exclusions": [
+            "Manufacture of Medicine and drugs except for MSE engaged in manufacturing and supply of Ayurvedic, Unani, Sidha, and Homeopathic Medicines.",
+            "Wholesale trading, Retail Trading or commission agents.",
+            "MSEs who have been blacklisted till expiry of such period.",
+            "The proprietor/partner/director/Karta of the MSEs has been convicted of any criminal offense."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "PAN Card",
+            "Udyam Registration",
+            "Details of Plant & Machinery",
+            "A copy of the ownership document of the premises or a copy of the Lease deed/Rent Deed",
+            "Latest Electricity Bill Copy",
+            "Face of Audited Balance Sheet, Profit and Loss A/cs, Schedule of Fixed Assets, and Schedule of Revenue from Operations (For the last 3 years, duly signed by the authorized person under his seal.)",
+            "Statement showing the Results of Operation for the last 3 years duly signed by the Chartered Accountant by indicating UDIN.",
+            "Bankers\u2019 Report giving details of the financial status of the applicant firm as per Performa.",
+            "Declaration signed by the applicant MSE Unit accepting conditions of registration.",
+            "List of Directors & their Share Holding, Memorandum of Article, Board Resolution (In case of Private Limited/Public Limited)",
+            "Partnership Deed, General Power of Attorney (In case of Partnership Concern)",
+            "List of Members, Copy of Registration of Society, Resolution of Authorization, Name of Executive Body (In case of Industrial Co-operative Societies)",
+            "Authorization of Karta (Hindu Undivided Family)",
+            "Copy of incorporation document LLP Agreement, Copy of Form 4, Copy of Form 2, Copy of Form 8, Copies of Form 11 (In case of Limited Liability Partnership)",
+            "List of Members, Copy of Registration of Society, Resolution of Authorization, Name of Executive Body (In case of Trust)"
+        ],
+        "faqs": [
+            {
+                "question": "When the Government of India launched the Central Government Stores Purchase Programme?",
+                "answer": "The Government of India launched the Central Government Stores Purchase Programme in 1955."
+            },
+            {
+                "question": "When the Single Point Registration Scheme was evolved by Government of India?",
+                "answer": "The Single Point Registration Scheme was introduced in 1976 with the objective to avoid the multiple registration."
+            },
+            {
+                "question": "Who is eligible to get registered with NSIC under Single Point Registration Scheme?",
+                "answer": "Micro & Small Enterprises are eligible to get registered with NSIC under SPRS."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.nsic.co.in/Schemes/Single-Point-Registration"
+            },
+            {
+                "type": "Fresh Online Application Form",
+                "url": "https://www.nsicspronline.com/appAdministrator/NewUnitRegistrationIntro.aspx"
+            },
+            {
+                "type": "Online Renewal Application Form",
+                "url": "https://www.nsicspronline.com/appAdministrator/RenewalOnlineIntro.aspx"
+            }
+        ],
+        "tags": [
+            "Single Point Registration",
+            "Micro Enterprises",
+            "Small Enterprises",
+            "Government Scheme"
+        ]
+    }
+}

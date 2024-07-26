@@ -1,0 +1,64 @@
+{
+    "content": {
+        "title": "Merit Cum Means Linked Financial Assistance Scheme",
+        "state": "Delhi",
+        "department": "Education",
+        "type": "Linked Financial Assistance",
+        "beneficiary": "Meritorious economically disadvantaged students",
+        "details": "Delhi Government wants to enhance access to high-quality higher education for meritorious economically disadvantaged sections of society. Many meritorious students from this section find it hard to bear the full tuition fee, though the better off sections of society do not face this difficulty. To ease the burden on such meritorious students, the Delhi Govt. proposes a Merit cum Means Linked Financial Assistance Scheme for providing tuition fee reimbursement under the aegis of Delhi Higher Education Aid Trust, with the aim to enhance greater access to high-quality higher education for meritorious Students from economically disadvantaged sections of the society. Many students from this section who find it hard to bear the full tuition fee will benefit immensely from the Scheme. The Scheme is to extend financial assistance to the meritorious and needy students pursuing higher education in the NCT of Delhi. Under this Scheme the Delhi Higher Education Trust through the Directorate of Higher Education (DHE), GNCTD will fully or partially reimburse the tuition fee paid by the students.",
+        "benefits": [
+            "100% tuition fee of the meritorious students belonging to economically weaker section i.e. wards of parent/s who are beneficiaries and possess relevant cards issued under the National Food Security Scheme",
+            "50% of the tuition fee to meritorious students having annual family income up to Rs.2.50 Lakh and not covered under the National Food Security Scheme",
+            "25% reimbursement of tuition fee to meritorious students having annual income above Rs.2.50 Lakh but below Rs.6 Lakh"
+        ],
+        "eligibility": [
+            "The student should have been enrolled on an undergraduate programme in any of the Delhi State Public Universities or colleges/ institutes affiliated with Delhi State Public Universities.",
+            "The student should fulfil the income/ economic and academic performance criteria as specified for each category."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Mark sheet / Certificate of having passed class XII or qualifying examination.",
+            "Certificate related to SC/ST Category issued by the competent authority",
+            "Copy of Pass\u00adBook / E\u00adStatement of the student bank account which should be Aadhaar seeded.",
+            "All previous mark sheets/certificates from the concerned University/institution of the current programme.",
+            "A declaration, as per Format at Annexure\u00ad\u201cA\u201d, by the student affirming that no financial support has been availed/is being availed from any other Scheme for meeting the cost of education for the course/program",
+            "Copy of valid card issued under the National Food Security Scheme (for 100% assistance)",
+            "Copy of valid annual family income certificate issued by the SDM/competent authority (for 50% assistance)",
+            "Copy of the full Income Tax Return for both parents filed with Income Tax Department for the previous financial year (for 25% assistance)"
+        ],
+        "tags": [
+            "Merit Cum Means",
+            "Financial Assistance",
+            "Higher Education",
+            "Delhi"
+        ],
+        "faqs": [
+            {
+                "question": "What are the eligibility criteria for applying under this scheme?",
+                "answer": "The student should have been enrolled for under graduate programme in any of the Delhi State Public Universities or colleges/ institutes affiliated to Delhi State Public Universities. The student should fulfill the income/ economic and academic performance criteria as specified for each categories. A relaxation of 5% in qualifying aggregate percentage of marks will be allowed to SC/ST Category students."
+            },
+            {
+                "question": "Whether all Courses / Programs & all Universities/Institutions/Colleges of Delhi covered under this scheme?",
+                "answer": "All approved undergraduate programs offered by any of the Delhi State Public Universities or colleges/ institutes affiliated to Delhi State Public Universities."
+            },
+            {
+                "question": "Is a student resident of Delhi, who pursuing higher education from Central /State Govt. Universities /Institutions located outside Delhi within India, Eligible or Not Eligible under this scheme?",
+                "answer": "NO, Only the student should have been enrolled for under graduate programme in any of the Delhi State Public Universities or colleges/ institutes affiliated to Delhi State Public Universities."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Site",
+                "url": "http://higheredn.delhi.gov.in/merit-cum-means-linked-financial-assistance-scheme-pursuing-higher-education-state-universities-"
+            },
+            {
+                "type": "Guidelines",
+                "url": "http://higheredn.delhi.gov.in/sites/default/files/McM-LFA-Approved-Merit-Cum-Means-Scheme.pdf"
+            },
+            {
+                "type": "Official FAQ",
+                "url": "http://higheredn.delhi.gov.in/sites/default/files/McM-LFA-FAQs.pdf"
+            }
+        ]
+    }
+}

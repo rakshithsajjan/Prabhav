@@ -1,0 +1,103 @@
+{
+    "content": {
+        "title": "Old Age Pension Scheme under Chief Minister\u2019s Uzhavar Padhukappu Thittam",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Farmers and destitute agricultural labourers",
+        "details": "The 'Old Age Pension Scheme under Chief Minister\u2019s Uzhavar Padhukappu Thittam' is a state scheme that was launched by the Social Welfare and Women Empowerment Department, Tamil Nadu. The scheme aims to give a pension of \u20b91,000/- to old-age farmers and destitute agricultural labourers who have membership card under Chief Minister\u2019s Uzhavar Padhukappu Thittam (CMPUT).",
+        "benefits": [
+            "\u20b91,000/- per month pension",
+            "One free dhoti to a male pensioner during Pongal and Deepavali",
+            "One free saree to a female pensioner during Pongal and Deepavali",
+            "2kg/month of free rice in Anganwadi Centres for those taking nutritious meal",
+            "4kg/month of free rice in Anganwadi Centres for those not taking nutritious meal"
+        ],
+        "eligibility": [
+            "The applicant should be destitute",
+            "The applicant's age should be 60 years and above",
+            "The applicant should be a farmer or a landless agricultural labourer",
+            "The applicant's fixed assets should not exceed \u20b91,00,000/-"
+        ],
+        "exclusions": [],
+        "application_process": "Online - via Common Service Centers (CSCs). The applicant should gather necessary documents, visit the nearest CSC, complete the Biometric Verification Process, fill in the application form, upload documents, and request a receipt.",
+        "documents_required": [
+            "Applicant's Photo",
+            "Aadhaar Card",
+            "Proof of Age",
+            "Aadhaar Consent Form",
+            "Smart Ration Card or Any Address Proof",
+            "Membership Card under CMPUT",
+            "Self\u2013declaration of Applicant",
+            "Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License)",
+            "Bank Passbook"
+        ],
+        "faqs": [
+            {
+                "question": "I am 58 years old and a registered farmer under CMPUT. Can I apply for the scheme now?",
+                "answer": "No, unfortunately, the minimum age requirement to apply for the scheme is 60 years old. You can apply once you reach that age."
+            },
+            {
+                "question": "I am not completely destitute, but I have very low income from farming. Am I eligible for the scheme?",
+                "answer": "While the scheme prioritizes destitute individuals, having some income from farming wouldn't necessarily disqualify you. However, your income level and overall financial situation will be assessed during the application process to determine your eligibility."
+            },
+            {
+                "question": "I used to be a farmer, but now I work as a security guard. Am I still eligible for the pension?",
+                "answer": "No, the scheme is specifically for farmers and landless agricultural laborers. If your primary source of income is no longer related to agriculture, you wouldn't be eligible."
+            },
+            {
+                "question": "What happens to the free clothes (dhoti/saree) if I cannot attend the distribution event?",
+                "answer": "In most cases, the clothes can be collected later from designated distribution centers. However, it's best to check with the CSC or local authorities for specific details and collection timelines."
+            },
+            {
+                "question": "I am a female farmer. Do I need to show my land ownership documents to apply?",
+                "answer": "No, the scheme doesn't differentiate between male and female farmers or require land ownership documents. As long as you have a valid CMPUT membership card and meet the eligibility criteria, you can apply."
+            },
+            {
+                "question": "Do I need to renew my application every year to continue receiving the benefits?",
+                "answer": "No, once approved, you don't need to reapply every year. However, you might need to update your information periodically, as instructed by the authorities."
+            },
+            {
+                "question": "I live in a remote area with limited access to CSCs. Are there any alternative ways to apply?",
+                "answer": "You can inquire with the Social Welfare Department about potential mobile camps or designated application centers closer to your location."
+            },
+            {
+                "question": "Do I need help from a lawyer or any other professional to complete the application process?",
+                "answer": "No, the application process for the Old Age Pension Scheme is designed to be simple and self-explanatory. The CSC staff can also guide you through the process and answer any questions you might have."
+            },
+            {
+                "question": "Is there a fee associated with applying for the scheme?",
+                "answer": "No, applying for the Old Age Pension Scheme is completely free. You shouldn't pay any fees at the CSC or to any individual for processing your application."
+            },
+            {
+                "question": "How long does it take to process the application and receive the benefits?",
+                "answer": "Processing times can vary, but it typically takes around 4-6 weeks for verification and approval. Once approved, you should receive the pension within a month."
+            },
+            {
+                "question": "Is there a specific time frame during which I can apply for the scheme?",
+                "answer": "No, the Old Age Pension Scheme is an ongoing initiative, and you can apply at any time."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://tnlegalservices.tn.gov.in/swwe/Annexure_English.pdf"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/oapsucmupt"
+            }
+        ],
+        "tags": [
+            "Old Age Pension",
+            "Financial Assistance",
+            "Farmers",
+            "Senior Citizen",
+            "Tamil Nadu"
+        ]
+    }
+}

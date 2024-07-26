@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Mukhyamantri Mahila Poshan Yojana",
+        "state": "Uttarakhand",
+        "department": "Department of Women Empowerment and Child Development",
+        "type": "Social Security Scheme",
+        "beneficiary": "Pregnant and Lactating Women",
+        "details": "The Government of Uttarakhand, recognizing the critical role of maternal health in child development, has implemented the 'Mukhyamantri Mahila Poshan Yojana' program under the Department of Women Empowerment and Child Development. This social security scheme specifically targets pregnant and lactating women in the state. By providing them with nutritious food supplements, the program aims to combat malnutrition among these mothers. This focus on proper maternal nutrition during pregnancy and breastfeeding is crucial, as it directly impacts the health and well-being of both the mother and the developing child. By ensuring that expecting and new mothers have access to essential nutrients, the 'Mukhyamantri Mahila Poshan Yojana' strives to create a healthier generation for Uttarakhand.",
+        "benefits": [
+            "Egg (2 Days/Week)",
+            "Dates (2 Days/Week)"
+        ],
+        "eligibility": [
+            "Beneficiary should be a permanent resident of Uttarakhand.",
+            "Beneficiary should be pregnant/lactating women."
+        ],
+        "exclusions": [],
+        "application_process": "Concerned women should visit their nearest Anganwadi Centre, provide all the necessary documents as directed (attested, if required), and after the completion of the procedure, benefits can be availed from the Anganwadi Centre.",
+        "documents_required": [
+            "Aadhar card",
+            "Proof of Pregnancy (Medical Report)",
+            "Any other document (as requested)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "\u2018Mukhyamantri Mahila Poshan Yojana\u2019 is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand, that aims to reduce malnutrition among the pregnant/lactating women of the state through providing nutritional food."
+            },
+            {
+                "question": "Which department has launched this Scheme?",
+                "answer": "This scheme has been launched by the Department of Women Empowerment and Child Development, Government of Uttarakhand."
+            },
+            {
+                "question": "Who are the targeted beneficiaries under this scheme?",
+                "answer": "Pregnant/lactating women of the state are the targeted beneficiaries under this scheme."
+            },
+            {
+                "question": "What kind of assistance can be availed through this scheme?",
+                "answer": "This scheme provides nutritional food to the pregnant/lactating women of the state."
+            },
+            {
+                "question": "What should be the age criteria for the beneficiaries?",
+                "answer": "There are no specific age criteria for the beneficiaries."
+            },
+            {
+                "question": "How can the benefits be availed?",
+                "answer": "Concerned women should visit the nearest Anganwadi Centre with all the necessary documents as directed."
+            },
+            {
+                "question": "What meal is provided under the nutritional food?",
+                "answer": "1. Egg (2 Days/Week). 2. Dates (2 Days/Week)."
+            },
+            {
+                "question": "What documents are required under the scheme?",
+                "answer": "1. Aadhar card. 2. Proof of Pregnancy (Medical Report). 3. Any other document (as requested)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/mmpyu"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Lactating Women",
+            "Nutrition",
+            "Pregnant Women"
+        ]
+    }
+}

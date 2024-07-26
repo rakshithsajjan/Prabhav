@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Scholarship (I to VIII Standard) by Welfare of Differently Abled Persons",
+        "state": "Tamil Nadu",
+        "department": "Department for the Welfare of Differently Abled Persons",
+        "type": "Scholarship",
+        "beneficiary": "Differently-abled students",
+        "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, launched the 'Scholarship for Students with Disabilities (Grades 1-8)' program. This initiative provides financial assistance to differently-abled students enrolled in government-recognized schools to help them purchase notebooks.",
+        "benefits": [
+            "Scholarship for students studying from 1st to 5th standard: \u20b91,000/- per annum.",
+            "Scholarship for students studying from 6th to 8th standard: \u20b93,000/- per annum."
+        ],
+        "eligibility": [
+            "The beneficiary must be a student.",
+            "The beneficiary must be a differently abled person.",
+            "The beneficiary must be studying in between class 1st to 8th standard.",
+            "The beneficiary must be studying in government-recognized schools.",
+            "The beneficiary must not avail of similar assistance from other sources."
+        ],
+        "exclusions": [
+            "Students from private schools are not eligible for the scholarship."
+        ],
+        "application_process": "Offline. The interested applicant should visit the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form. Fill in all mandatory fields, attach copies of all mandatory documents, and submit the application form to the District Differently Abled Welfare Officer.",
+        "documents_required": [
+            "Certificate from the headmaster certifying that the student has not availed similar assistance from other sources."
+        ],
+        "faqs": [
+            {
+                "question": "Are the scholarships available for students from 1st to 8th standard?",
+                "answer": "Yes, scholarships are available for students from 1st to 8th standard."
+            },
+            {
+                "question": "Who is eligible for the scholarship?",
+                "answer": "Differently abled students studying in government recognized schools are eligible for the scholarship."
+            },
+            {
+                "question": "What certificates need to be furnished along with the application?",
+                "answer": "The headmaster certifies that the student hasn't received similar assistance from other sources."
+            },
+            {
+                "question": "Where should grievances be addressed?",
+                "answer": "Grievances should be addressed to the Deputy Director (Schemes), Office of The Commissionerate for Welfare of the Differently Abled No.5, Kamarajar Salai, Chennai \u2013 600 005."
+            },
+            {
+                "question": "Are only government recognized schools eligible for this scholarship?",
+                "answer": "Yes, only government recognized schools are eligible for this scholarship."
+            },
+            {
+                "question": "Can students from any state apply for this scholarship?",
+                "answer": "The availability of the scholarship for students from any state is not specified."
+            },
+            {
+                "question": "Is there an age limit for applicants?",
+                "answer": "Age limit for applicants is not specified."
+            },
+            {
+                "question": "Are there any specific disability criteria for eligibility?",
+                "answer": "Specific disability criteria for eligibility are not specified in the scheme."
+            },
+            {
+                "question": "Is there any preference given to students based on their academic performance?",
+                "answer": "Preference based on academic performance is not specified."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Differently-abled",
+            "Education",
+            "Tamil Nadu"
+        ]
+    }
+}

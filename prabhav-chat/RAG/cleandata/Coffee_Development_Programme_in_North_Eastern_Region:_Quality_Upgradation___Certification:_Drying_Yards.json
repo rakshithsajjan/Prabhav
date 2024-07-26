@@ -1,0 +1,64 @@
+{
+    "content": {
+        "title": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Drying Yards",
+        "state": "North Eastern Region",
+        "department": "Ministry of Commerce and Industry",
+        "type": "Subsidy",
+        "beneficiary": "Tribal Growers",
+        "details": "The scheme 'Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Drying Yards' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings.",
+        "benefits": [
+            "For holdings up to 2 hectares: Unit Cost \u20b915,000/- with 75% subsidy.",
+            "For holdings of 2 hectares and above: Unit Cost \u20b945,000/- with 75% subsidy."
+        ],
+        "eligibility": [
+            "The applicant should be a tribal grower.",
+            "The applicant should not have availed of the benefits during the XII plan."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The beneficiary/applicant must submit the application in the prescribed format along with the necessary documents for availing of the subsidy. The Extension Officer will scrutinize the submitted documents and conduct a field inspection to verify the information.",
+        "documents_required": [
+            "Application in the prescribed format (in duplicate).",
+            "Copy of photo identity cards like Aadhaar, Ration card, Passport, EPIC, or Driving license.",
+            "Work completion report and expenditure statement by the applicant.",
+            "Copy of the Bank Pass Book with account details."
+        ],
+        "faqs": [
+            {
+                "question": "Can you elaborate on the specific dimensions for the cement drying yards mentioned in the scheme?",
+                "answer": "The dimensions are either 10 feet x 10 feet for holdings up to 2 hectares or 20 feet x 20 feet for holdings of 2 hectares and above."
+            },
+            {
+                "question": "What measures are in place to prevent misuse of subsidy funds?",
+                "answer": "The scheme emphasizes ethical conduct, and any attempts at coercion, bribery, or misinformation in obtaining subsidies lead to rejection and legal consequences."
+            },
+            {
+                "question": "How is subsidy release facilitated, and what is the mode of fund transfer?",
+                "answer": "After scrutiny, the Joint Director/Deputy Director releases the subsidy through electronic fund transfer (EFT)."
+            },
+            {
+                "question": "What is the eligibility criterion for applicants under this scheme?",
+                "answer": "Applicants must be tribal growers and should not have availed of the benefits during the XII plan."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines, Application And Declaration Form",
+                "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+            },
+            {
+                "type": "Grower's Registration (UMANG)",
+                "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://coffeeboard.gov.in/contact-us.html"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "DBT",
+            "Farmer",
+            "Subsidy"
+        ]
+    }
+}

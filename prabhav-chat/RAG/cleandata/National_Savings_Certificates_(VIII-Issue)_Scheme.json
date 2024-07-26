@@ -1,0 +1,54 @@
+{
+    "content": {
+        "title": "National Savings Certificates (VIII-Issue) Scheme",
+        "state": "India",
+        "department": "Department of Posts",
+        "type": "Savings Scheme",
+        "beneficiary": "Individuals looking to save and earn interest",
+        "details": "The National Savings Certificates (VIII-Issue) Scheme is a savings instrument that encourages savings among the public and provides a fixed return on investment.",
+        "benefits": [
+            "Guaranteed returns on investment",
+            "Tax benefits under Section 80C of the Income Tax Act",
+            "Transferable from one individual to another",
+            "Premature closure allowed under certain conditions"
+        ],
+        "eligibility": [
+            "Any individual can open an account",
+            "Joint accounts can be opened by two or more individuals"
+        ],
+        "exclusions": [],
+        "application_process": "The applicant can visit the nearest Post Office Branch or a designated bank, fill out the application form, attach all required documents, and submit it with an initial deposit.",
+        "documents_required": [
+            "Identity proof",
+            "Address proof",
+            "Passport-sized photographs",
+            "PAN card"
+        ],
+        "faqs": [
+            {
+                "question": "What happens if the account holder dies?",
+                "answer": "In the event of the death of the depositor, the eligible balance in the account shall be payable to the nominee or legal heirs as specified in the scheme guidelines."
+            },
+            {
+                "question": "Can the account be transferred?",
+                "answer": "Yes, the account may be transferred from one individual to another under certain conditions, such as the death of the account holder."
+            },
+            {
+                "question": "What is the process for premature closure?",
+                "answer": "Premature closure is allowed under specific conditions, and the interest payable will depend on the duration the account has been held."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/nscs"
+            }
+        ],
+        "tags": [
+            "Savings",
+            "Investment",
+            "Government Scheme",
+            "Tax Benefits"
+        ]
+    }
+}

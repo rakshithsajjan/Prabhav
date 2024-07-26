@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "Shramik Basera Yojana (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Accommodation Facility",
+        "beneficiary": "Registered construction workers and their families",
+        "details": "The 'Shramik Basera Yojana' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under the scheme, accommodation facilities will be provided to registered construction workers in temporary prefabricated housing with basic amenities that can be dismantled.",
+        "benefits": [
+            "Accommodation facilities will be provided to the laborers/workers at the rate of \u20b95/- per day."
+        ],
+        "eligibility": [
+            "The construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board and their families will be eligible to get the benefit of this scheme.",
+            "The registered worker has to present the identity card/smart card (e-Nirman card) as a construction worker to get assistance and the identity card/smart card should be renewed on time."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhaar card",
+            "e-Nirman Card"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Shramik Basera Yojana?",
+                "answer": "The Shramik Basera Yojana is a scheme implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB), aiming to provide temporary prefabricated housing with basic amenities to registered construction workers and their families."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Under this scheme, registered construction workers and their families can avail accommodation facilities at the rate of \u20b95 per day in temporary prefabricated housing."
+            },
+            {
+                "question": "Who is eligible to avail the benefit of the scheme?",
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board, along with their families, are eligible for the scheme."
+            },
+            {
+                "question": "How can registered construction workers apply for accommodation under this scheme?",
+                "answer": "Registered workers can then visit these locations to avail of the benefits."
+            },
+            {
+                "question": "Is there any limit to the duration of stay in the temporary housing provided under the scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "Are there any specific criteria for the location of the prefabricated housing units?",
+                "answer": "The prefabricated temporary accommodation units are typically constructed near the workplace or Kadianaka to ensure easy access for registered construction workers."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://bocwwb.gujarat.gov.in/schemes.htm"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_380_1_Shramik_Basera_Yojana.pdf"
+            }
+        ],
+        "tags": [
+            "Accommodation",
+            "Construction Workers",
+            "Gujarat",
+            "Welfare Scheme"
+        ]
+    }
+}

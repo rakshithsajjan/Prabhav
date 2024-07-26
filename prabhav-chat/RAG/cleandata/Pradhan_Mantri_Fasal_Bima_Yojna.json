@@ -1,0 +1,102 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Fasal Bima Yojna",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Crop Insurance",
+        "beneficiary": "Farmers",
+        "details": "The PMFBY works on the One Nation, One Crop, One Premium. To provide insurance coverage and financial support to the farmers in the event of failure of any of the notified crops as a result of natural calamities, pests & diseases. The scheme aims to stabilize the income of farmers to ensure their continuance in farming, encourage farmers to adopt innovative and modern agricultural practices, and ensure the flow of credit to the agriculture sector.",
+        "benefits": [
+            "Comprehensive insurance coverage for Kharif and Rabi crops.",
+            "Add on the coverage available for specific circumstances.",
+            "Optional for farmers, both loanee and non-loanee.",
+            "Stability in the income of farmers so that they can continue farming."
+        ],
+        "eligibility": [
+            "The farmer must be a cultivator or a sharecropper on the insured land.",
+            "Farmers must have a valid and authenticated land ownership certificate or a valid land tenancy agreement.",
+            "The farmer must have applied for insurance coverage within the prescribed time frame, which is generally within 2 weeks of the start of the sowing season.",
+            "They must not have received any compensation for the same crop loss from any other source.",
+            "The farmer should have a valid bank account and provide details of their bank account, along with a valid identity proof, at the time of enrollment.",
+            "All farmers growing notified crops in a notified area during the season who have an insurable interest in the crop are eligible."
+        ],
+        "exclusions": [
+            "War & kindred perils, nuclear risks, riots, malicious damage, theft, act of enmity, grazed and/or destroyed by domestic and/or wild animals.",
+            "In case of Post\u2013Harvest losses the harvested crop bundled and heaped at a place before threshing.",
+            "Other preventable risks."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Bank account number.",
+            "Aadhaar card.",
+            "Khasra number of land.",
+            "Agreement photocopy.",
+            "Ration card.",
+            "Voter ID.",
+            "Driving license.",
+            "Passport-size photograph of the farmer."
+        ],
+        "faqs": [
+            {
+                "question": "I am not the owner of land, can I get crop insurance under this scheme?",
+                "answer": "Yes, if you are a tenant on someone else\u2019s farm, you are eligible to get your crop insured under this scheme."
+            },
+            {
+                "question": "How can I calculate my insurance premium in NCIP?",
+                "answer": "There is an insurance premium calculator on https://pmfby.gov.in/ where you can fill in the basic details and calculate the premium."
+            },
+            {
+                "question": "Am I eligible for a claim if only my land is affected by a calamity?",
+                "answer": "Yes, you need to inform through the crop insurance app or toll free number, insurance company, the bank or the concerned official within 72 hours of the incident, you\u2019ll be eligible for the loss assessment and claim."
+            },
+            {
+                "question": "Which documents do I need to apply for the scheme?",
+                "answer": "Khasra, khatauni, bank account details, and Aadhaar are needed along with the declaration about the crop you are planning to sow."
+            },
+            {
+                "question": "Can I apply for the scheme online myself?",
+                "answer": "Yes, create your farmer\u2019s login account in the NCIP https://pmfby.gov.in/ and select 'Farmer Corner' on the portal. There you can apply for the scheme after logging in."
+            },
+            {
+                "question": "How do I check the status of my application?",
+                "answer": "In the NCIP https://pmfby.gov.in/ select 'Application Status', fill in the receipt number as prompted and you\u2019ll be able to see the status of your application."
+            },
+            {
+                "question": "When should I report the crop loss?",
+                "answer": "You should report the crop loss through the crop insurance app, or toll-free number, or directly to the concerned authority within 72 hours of the calamity."
+            },
+            {
+                "question": "How can I report crop loss?",
+                "answer": "You can report the crop loss through the NCIP https://pmfby.gov.in/ by selecting 'Report Crop Loss' or through Mobile Application, the centralized Toll-Free Number, directly to the Insurance Company through its dedicated toll-free number or through the concerned bank, local agriculture department Government/district officials."
+            },
+            {
+                "question": "How can I claim the insurance?",
+                "answer": "The farmer should intimate about the crop loss within 72 hours of the calamity through Mobile Application, the centralized Toll-Free Number, directly to the Insurance Company through its dedicated toll-free number or through the concerned bank, local agriculture department Government/district officials. However, the first mode of intimation should be either Crop Insurance App or the centralised Toll-Free Number. After that duly filled intimation/application of crop insurance app along with all relevant documents is necessary for initiation of loss assessment and payment of claims."
+            },
+            {
+                "question": "How will I know if I have received the claim?",
+                "answer": "You\u2019ll be intimated by SMS about the benefit transfer on your registered mobile number."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://pmfby.gov.in/"
+            },
+            {
+                "type": "Latest Guidelines",
+                "url": "https://pmfby.gov.in/pdf/Revamped%20Operational%20Guidelines_17th%20August%202020.pdf"
+            },
+            {
+                "type": "Details In Hindi",
+                "url": "https://pmfby.gov.in/pdf/Hindi.pdf"
+            }
+        ],
+        "tags": [
+            "Crop Insurance",
+            "Farmers",
+            "Kharif",
+            "Rabi"
+        ]
+    }
+}

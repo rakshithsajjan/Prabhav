@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "Migrants Employment Generation Programme",
+        "state": "Tamil Nadu",
+        "department": "Commissionerate of Industries and Commerce",
+        "type": "Subsidy",
+        "beneficiary": "Non-Resident Tamils who returned due to Covid-19",
+        "details": "The Government of Tamil Nadu has launched the 'Migrants Employment Generation Programme (MEGP)' for the Non-Resident Tamils, who returned back to Tamil Nadu due to Covid-19 Pandemic. This scheme aims to generate employment opportunities for migrant returnees by setting up self-employment ventures in Microenterprises in the Manufacturing, Service, and Business Sectors.",
+        "benefits": [
+            "Subsidy @ 25% of the project cost subject to a maximum of \u20b92.5 lakhs",
+            "Collateral-free advances under Credit Guarantee Trust for Micro, Small Enterprises (CGTMSE)"
+        ],
+        "eligibility": [
+            "Applicant should have returned to Tamil Nadu on & after 01-01-2020 due to the Covid-19 outbreak",
+            "Age between 18 to 45 years (up to 55 years for special categories)",
+            "Minimum educational qualification of 8th standard pass",
+            "Family income below \u20b95.00 lakh",
+            "Maximum project costs for Manufacturing / Trading / Service projects should be \u20b915.00 lakh / \u20b95.00 lakh / \u20b95.00 lakh respectively",
+            "Promoter\u2019s contribution should be 10% for General category and 5% for Special Category"
+        ],
+        "exclusions": [
+            "Applicants who have defaulted in any nationalized bank financial institution / Cooperative bank",
+            "Persons who have already been assisted under other subsidy-linked Government schemes"
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof (Election ID Card/Aadhaar card)",
+            "Copy of PAN Card",
+            "Passport size photo",
+            "Proof of Educational Qualification",
+            "Proof of age",
+            "Caste/Community Certificate",
+            "Residence proof",
+            "Valid certificate for Ex-Serviceman/Differently abled/Transgender",
+            "Bank account details",
+            "Any other documents, if required"
+        ],
+        "faqs": [
+            {
+                "question": "What are the eligibility norms to get benefitted under this scheme?",
+                "answer": "Any individual, above 18 years of age. The upper age limit for General Category is 45 years and for the special category 55 years. The minimum Educational qualification is Pass in VIII Standard. The applicant should be a resident of the place for not less than 3 years. The family income of the beneficiary along with the spouse should not exceed \u20b95,00,000/- per annum."
+            },
+            {
+                "question": "What is the quantum of maximum Government subsidy?",
+                "answer": "Subsidy @ 25% of the project cost will be sanctioned to the beneficiaries subject to a maximum of \u20b92.50 lakh."
+            },
+            {
+                "question": "Does any collateral require?",
+                "answer": "No collateral is required."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://msmeonline.tn.gov.in/megp/megp_desc.php"
+            },
+            {
+                "type": "Guideline",
+                "url": "https://msmeonline.tn.gov.in/megp/pdf/MEGP_349.pdf"
+            },
+            {
+                "type": "Flow Chart Of The Scheme",
+                "url": "https://msmeonline.tn.gov.in/megp/megp_flow_chart.php"
+            }
+        ],
+        "tags": [
+            "Covid-19",
+            "Employment",
+            "Entrepreneur",
+            "Loan",
+            "MEGP",
+            "Migrant",
+            "Subsidy"
+        ]
+    }
+}

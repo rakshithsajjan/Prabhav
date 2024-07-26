@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Accidental Death Assistance Scheme (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Financial Assistance",
+        "beneficiary": "Legal heirs of deceased construction workers",
+        "details": "The \u201cAccidental Death Assistance Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under this scheme, financial assistance shall be provided to the legal heirs of the deceased construction workers, registered or unregistered with the Board, in case of accidental death or permanent disability during ongoing work at the construction site.",
+        "benefits": [
+            "Financial assistance of \u20b93,00,000/- shall be given to the legal heirs of the deceased construction workers."
+        ],
+        "eligibility": [
+            "The applicant should be a legal heir of the deceased worker.",
+            "The deceased worker should have been engaged in any building or other construction work.",
+            "The financial assistance shall be provided to the legal heirs of construction workers, whether registered or unregistered with the Board, in the event of accidental death or permanent disability occurring during ongoing work at the construction site."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof of the deceased worker",
+            "Identity proof of heir",
+            "Copy of death certificate",
+            "Copy of Police Panchnama/FIR",
+            "Copy of post-mortem report",
+            "Copy of Firm Name of Talati/Mamlatdar/Executive Magistrate",
+            "Copy of affidavit",
+            "Consent Form",
+            "Bank details of the applicant",
+            "Any other documents as required",
+            "Identity proof of the employee (for Permanent Disability Assistance)",
+            "Civil Surgeon's Certificate (for Permanent Disability Assistance)",
+            "Copy of affidavit (for Permanent Disability Assistance)",
+            "Bank details of the applicant (for Permanent Disability Assistance)",
+            "Any other documents as required (for Permanent Disability Assistance)"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers this Scheme?",
+                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+            },
+            {
+                "question": "What benefits does the scheme offer?",
+                "answer": "The scheme provides a financial assistance amounting to \u20b93,00,000/- to the legal heirs of the deceased construction workers."
+            },
+            {
+                "question": "Who is eligible to apply for assistance under this scheme?",
+                "answer": "The legal heirs of the deceased construction workers, whether registered or unregistered with the Board, are eligible to apply for assistance."
+            },
+            {
+                "question": "What are the criteria for eligibility?",
+                "answer": "The applicant must be a legal heir of the deceased worker who was engaged in building or other construction work."
+            },
+            {
+                "question": "Is registration with the Board mandatory for availing benefits?",
+                "answer": "No, both registered and unregistered construction workers with the Board are eligible for assistance under this scheme."
+            },
+            {
+                "question": "What types of incidents are covered under the scheme?",
+                "answer": "Accidental death or permanent disability occurring during ongoing work at the construction site are covered."
+            },
+            {
+                "question": "Can assistance be claimed if the accident occurs outside the construction site?",
+                "answer": "The scheme specifically covers accidents occurring during ongoing work at the construction site."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "To apply under the scheme, the applicant may visit the Sanman Portal: https://sanman.gujarat.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://sanman.gujarat.gov.in/Home/BOCWScheme"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_405_1_Accidental_Death_Assistance_Scheme_27102023.pdf"
+            }
+        ],
+        "tags": [
+            "Accidental Death",
+            "Building Worker",
+            "Construction Worker",
+            "Financial Assistance",
+            "Heir",
+            "Permanent Disability"
+        ]
+    }
+}

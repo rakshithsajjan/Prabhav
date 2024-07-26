@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Magnifiers - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare",
+        "type": "Distribution",
+        "beneficiary": "Differently-abled Person",
+        "details": "The Department launched the 'Magnifiers by Welfare of Differently Abled Persons Department' scheme for differently abled persons. Under this scheme, magnifiers are distributed to needy students with low vision to enable them to read books. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
+        "benefits": [
+            "Free distribution of magnifiers."
+        ],
+        "eligibility": [
+            "The beneficiary should be a student.",
+            "The beneficiary should be a person with low vision."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The interested applicant should visit (during office hours) the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer. Step 4: Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "documents_required": [
+            "National Identity Card of the Differently Abled Person.",
+            "Any Other Documents If Required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the purpose of the magnifiers?",
+                "answer": "The magnifiers are distributed to needy students with low vision to aid in reading books."
+            },
+            {
+                "question": "Who is eligible for the scheme?",
+                "answer": "Individuals with low vision qualify for the scheme."
+            },
+            {
+                "question": "Is there a specific type of magnifier provided?",
+                "answer": "Specific types of magnifiers suitable for reading are provided."
+            },
+            {
+                "question": "Are there any age restrictions for applicants?",
+                "answer": "There are no age restrictions for applicants."
+            },
+            {
+                "question": "Can the magnifiers be used for other purposes?",
+                "answer": "The magnifiers are intended solely for reading purposes."
+            },
+            {
+                "question": "How many magnifiers can one person receive?",
+                "answer": "The number of magnifiers provided per person is determined by the scheme guidelines."
+            },
+            {
+                "question": "Are there any fees associated with the scheme?",
+                "answer": "There are no fees associated with the scheme."
+            },
+            {
+                "question": "Can I apply on behalf of someone else?",
+                "answer": "Applications should be submitted by the individual themselves."
+            },
+            {
+                "question": "Are there any restrictions on the type of books that can be read with the magnifiers?",
+                "answer": "The magnifiers are primarily for reading printed materials."
+            },
+            {
+                "question": "Where can I get the application form?",
+                "answer": "Application forms are available with the District Differently Abled Welfare Officer."
+            },
+            {
+                "question": "What documents do I need to submit?",
+                "answer": "Applicants need to furnish a national identity card for the differently abled."
+            },
+            {
+                "question": "How can I address grievances?",
+                "answer": "Grievances should be addressed to the Technical Officer at the Commissionerate for Welfare of the Differently Abled in Chennai."
+            },
+            {
+                "question": "Is there a deadline for submitting applications?",
+                "answer": "There may be a deadline for submitting applications, check with the District Differently Abled Welfare Officer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Differently-abled",
+            "Low Vision",
+            "Magnifiers",
+            "Social Welfare"
+        ]
+    }
+}

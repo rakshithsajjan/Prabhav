@@ -1,0 +1,111 @@
+{
+    "content": {
+        "title": "State Merit Scholarship Manipur",
+        "state": "Manipur",
+        "department": "Department of Education, Government of Manipur",
+        "type": "Scholarship",
+        "beneficiary": "Economically Weaker Sections, Meritorious Students",
+        "details": "The State Merit Scholarship will be awarded to students who have passed the class X examination conducted by the Board of Secondary Education, Manipur (BSEM) and the class XII examination conducted by the Council of Higher Secondary Education, Manipur (COHSEM). For class X passed students, the scholarship will provide Rs. 6,000 per annum to the first 300 students who passed the High School Leaving Certificate Examination (HSLC) conducted by BSEM for a period of two years, provided they do not fail or discontinue their studies. Additionally, another 50 students will be kept on the waiting list. For class XII passed students, the scholarship will provide Rs. 12,000 per annum to the first 125 students of Science, 125 students of Social Sciences, and 50 students of Commerce who passed the class XII examination conducted by COHSEM for a period of three years, provided they do not fail or discontinue their studies. Additionally, another 50 students (25 from Science and 25 from Arts) will be kept on the waiting list.",
+        "benefits": [
+            "For Class X passed students: The scholarship provides Rs. 6,000 per annum to the first 300 students who passed the High School Leaving Certificate Examination (HSLC) conducted by BSEM for a period of two years.",
+            "For Class XII passed students: The scholarship provides Rs. 12,000 per annum to the first 125 students of Science, 125 students of Social Sciences, and 50 students of Commerce who passed the class XII examination conducted by COHSEM for a period of three years.",
+            "The scholarship is available to students who continue their studies within or outside the state but within the country, starting from the academic session of 2015-16.",
+            "The scholarship aims to provide equal opportunities for higher education to deserving students, regardless of their economic background.",
+            "In addition to the initial list of recipients, 50 students will be kept on the waiting list for possible refusal, ineligibility, or other students getting other scholarships.",
+            "The scholarship encourages students to excel academically and pursue further studies, thereby promoting higher education in Manipur."
+        ],
+        "eligibility": [
+            "Scholarship of Rs. 6000/- per annum is provided to the first 300 students who passed the class X examination conducted by the Board of Secondary Education Manipur for a period of 2 years.",
+            "Scholarship of Rs. 12000/- per annum is provided to the first 125 students of Science, 125 students of Social Sciences, and 50 students of Commerce who passed the class XII examination conducted by the Council of Higher Secondary Education, Manipur for a period of 3 years.",
+            "Students in full-time employment are not eligible for the scholarship.",
+            "Students should not receive any other scholarship/stipend for the same course of study for which they are receiving the said merit scholarship.",
+            "Candidates who have passed the qualifying examination in a year prior to the year of the award of the scholarship are not eligible for consideration.",
+            "The scholarship is renewable from year to year within the same stage of education.",
+            "Good conduct and regularity in attendance are required for the continuance of the scholarship. The scholarship will be canceled if a scholar gives up the chosen course of study before its completion or changes the course of study without the approval of the State Government. The decision of the State Government will be final and binding in all such matters.",
+            "The scholarship may be renewed for a different course of study if the scholar has shifted to another course instead of continuing with the course for which the scholarship was originally granted.",
+            "The maximum period of scholarship provided to the meritorious persons passing Class X & XII is 2 years and 3 years, respectively."
+        ],
+        "exclusions": [
+            "Students who have taken a gap year between their academic years",
+            "Students pursuing courses/programs through Open Universities",
+            "Students who are already availing scholarship(s) for pursuing their undergraduate/postgraduate programme under any other scheme(s)",
+            "Students who have gained admission through management quota",
+            "Students pursuing technical or professional courses",
+            "Students whose parents' annual income exceeds Rs. 4.5 lakh per annum."
+        ],
+        "application_process": "Online and Offline. Step 1: Go to the official website of the Manipur scholarship portal. Step 2: Click on the 'New User Register' button. Step 3: Select your state of domicile from the drop-down menu. Step 4: Choose the scholarship scheme you want to apply for. Step 5: Select the scholarship category that applies to you. Step 6: Choose your gender from the given options. Step 7: Enter your name, mobile number, date of birth, and email ID. Step 8: Enter your bank details such as your Bank Name, IFSC Code, and Account Number. Step 9: Choose either an Aadhaar card or account number as identification details and click on the register button. Step 10: An OTP will be generated, and your phone number will be registered. Step 11: Log in using OTP and fill in the details carefully. Step 12: Upload the required documents, such as a Permanent Residential Certificate, Income Certificate, Xerox copy of mark sheet of the qualifying examination, front page of bank passbook, and Aadhaar Card. Step 13: Review the application and ensure that all the details are correct. Step 14: Submit the application and note down the application ID and password for future reference.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Applicant's Passport Size Photograph",
+            "Domicile Certificate",
+            "Marksheet of the last qualifying examination",
+            "Income Certificate",
+            "Bank Details (Bank Name, IFSC Code, and Account Number)",
+            "Caste Certificate (for students belonging to SC/ ST/ OBC category)",
+            "Disability Certificate (if applicable)",
+            "Income Certificate (for certain scholarship schemes)"
+        ],
+        "faqs": [
+            {
+                "question": "Is the Scheme open to all candidates enrolled in any institutions in India?",
+                "answer": "No, it is for the domiciled students of Manipur only."
+            },
+            {
+                "question": "Is there any income ceiling for applying the scholarship?",
+                "answer": "Yes, parent\u2019s/guardian\u2019s annual income from all sources should not exceed Rs. 4.5 lac."
+            },
+            {
+                "question": "Is it necessary to upload the domicile/permanent residential certificate at the time of online submission of application?",
+                "answer": "Yes (for fresh applicants only). The certificate must also be for the current year only."
+            },
+            {
+                "question": "Are only first year undergraduate students can apply?",
+                "answer": "First-year students of general undergraduate and P.G. students can apply."
+            },
+            {
+                "question": "Are students enrolled in private/deemed universities can apply?",
+                "answer": "No."
+            },
+            {
+                "question": "Are students enrolled in integrated courses eligible?",
+                "answer": "Yes, but he/she will get scholarship at undergraduate rate only."
+            },
+            {
+                "question": "Are all courses covered under the ambit of the scheme?",
+                "answer": "No, only first year general undergraduate and P.G. students can apply."
+            },
+            {
+                "question": "Can the awardee claim any other scholarship while availing this one also?",
+                "answer": "No."
+            },
+            {
+                "question": "Can a student apply anytime during the year of admission?",
+                "answer": "No, students can apply only when the notification is issued and within the given timelines."
+            },
+            {
+                "question": "Are students enrolled in distance education programs or those admitted through management quota eligible for the scholarship?",
+                "answer": "No, only students enrolled in regular first year undergraduate and postgraduate programs in institutions in Manipur are eligible to apply for the scholarship."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Online Portal",
+                "url": "http://scholarship.mdmmanipur.in/"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/Manipur_state_scheme/manipur_Guidelines_3056.pdf"
+            },
+            {
+                "type": "Notification",
+                "url": "https://manipureducation.gov.in/wp-content/uploads/2015/06/Notification-Merit-Scholarship.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Higher Education",
+            "Meritorious Students",
+            "Economically Weaker Sections"
+        ]
+    }
+}

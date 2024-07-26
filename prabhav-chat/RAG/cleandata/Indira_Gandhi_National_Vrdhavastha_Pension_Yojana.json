@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Indira Gandhi National Vrdhavastha Pension Yojana",
+        "state": "Rajasthan",
+        "department": "Department of Social Justice and Empowerment",
+        "type": "Pension",
+        "beneficiary": "Senior Citizens",
+        "details": "Indira Gandhi National Vridhavastha Pension Yojana, Under the Department of Social Justice and Empowerment Government of Rajasthan, provides financial support to the citizens whose families live below the poverty line. To empower senior citizens by ensuring their financial independence and dignity in old age, thereby enabling them to lead a dignified life.",
+        "benefits": [
+            "Pension amount: \u20b9 1000 /- per month."
+        ],
+        "eligibility": [
+            "The applicant should be a native of Rajasthan.",
+            "The age of the applicant (male or female) is 60 years or more.",
+            "The applicant should belong to a family living below the poverty line as per the criteria set by the Government of India."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card Copy",
+            "Jan Aadhar/Bhamashah Card Copy",
+            "Passport size photo.",
+            "Bank passbook front page copy (Account holder name, Account No, IFSC code)."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Under this scheme, the Rajasthan government provides financial support to the citizen's families living below the poverty line."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "The government gives a Pension amount: of Rs. 1000/- per month."
+            },
+            {
+                "question": "What is the age eligibility?",
+                "answer": "The age of the applicant (male or female) is 60 years or more."
+            },
+            {
+                "question": "What is B.P.L. card?",
+                "answer": "BPL (Below Poverty Line) ration card - This card was issued to households living below the poverty line."
+            },
+            {
+                "question": "Is this scheme benefit only for Rajasthan State?",
+                "answer": "Yes, Applicants should be a native of Rajasthan State."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "No"
+            },
+            {
+                "question": "What is Bhamashah card?",
+                "answer": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Urban and Rural both."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/108"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            }
+        ],
+        "tags": [
+            "Empower",
+            "Financial Assistance",
+            "Old Age",
+            "Pension"
+        ]
+    }
+}

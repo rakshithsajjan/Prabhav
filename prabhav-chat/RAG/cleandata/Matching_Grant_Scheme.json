@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Matching Grant Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology, Electronics and Communications",
+        "type": "Grant",
+        "beneficiary": "Startups",
+        "details": "The scheme 'Matching Grant Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The Start-ups that raise funds from a registered/recognized funding source prior to the product launch phase will be provided 25% of the matching funds or a maximum benefit of \u20b9 25,00,000, at proportionate ownership of stock, subsequent to due diligence by the Start-up Promotion Cell (SPC).",
+        "benefits": [
+            "Start-ups that raise funds from a registered/recognized funding source prior to the product launch phase will be provided 25% of the matching funds or a maximum benefit of \u20b9 25,00,000, at proportionate ownership of stock, subsequent to due diligence by the Start-up Promotion Cell (SPC).",
+            "This benefit can be availed by 20 start-ups each year which shall be selected by the SPC as per its due diligence and guidelines.",
+            "Once the application is approved by the SPC, the approved amount shall be disbursed within 60 days from the date of approval."
+        ],
+        "eligibility": [
+            "All the Start-ups certified by the Start-up Promotion Cell (SPC) having a valid start-up certificate number are eligible.",
+            "The product for which the benefit is being claimed should not have been made available in the market previously."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Complete Business Model Canvas",
+            "Copy of the Aadhaar Card of the Director/CEO",
+            "Bank Certificate Stating Fund Transferred to Company\u2019s Account",
+            "Details of Funding Agency/ Registration Certificate of Funding Agency",
+            "Term Sheet/ Funding Instrument",
+            "The Form and Documents as Mentioned in Annexure 1"
+        ],
+        "faqs": [
+            {
+                "question": "What is the duration of the validity of the Goa Start-up Policy 2017, and does it specify any review or renewal processes?",
+                "answer": "The document mentions that only expenditures incurred within the validity of the Goa Start-up Policy 2017 are considered for reimbursement under this scheme. However, the exact duration of the policy's validity and any provisions for review or renewal are not specified in the document."
+            },
+            {
+                "question": "Can start-ups apply for the Matching Grant Scheme retroactively for expenditures incurred before the notification of the Goa Start-up Policy 2017?",
+                "answer": "The document mentions that only expenditures incurred after the notification of the Goa Start-up Policy 2017 are considered for reimbursement under this scheme."
+            },
+            {
+                "question": "Can you explain the role of the Start-up Promotion Cell (SPC) in the implementation of the Matching Grant Scheme?",
+                "answer": "The Start-up Promotion Cell (SPC) plays a crucial role in the implementation of the Matching Grant Scheme. It conducts due diligence, selects eligible start-ups, evaluates applications, and makes decisions on the approval or rejection of applications."
+            },
+            {
+                "question": "What is the main vision behind the Goa Start-up Policy 2017, and how does it aim to achieve this vision?",
+                "answer": "The primary vision behind the Goa Start-up Policy 2017 is to position Goa as one of the most preferred start-up destinations in India."
+            },
+            {
+                "question": "How long does it typically take for the SPC to evaluate applications and notify applicants about approval or rejection?",
+                "answer": "The SPC aims to evaluate applications and provide notification of approval or rejection within 45 days from the receipt of the application."
+            },
+            {
+                "question": "Is there a specific time frame within the financial year during which applicants can apply for the Matching Grant Scheme?",
+                "answer": "Applicants can apply for this scheme at any time during the financial year."
+            },
+            {
+                "question": "What types of expenditures are considered for reimbursement under the Matching Grant Scheme, and are there any specific conditions related to digital payments?",
+                "answer": "Only expenditures incurred after the notification of Goa Start-up Policy 2017, within the policy's validity period, and paid digitally will be considered for reimbursement under this scheme."
+            },
+            {
+                "question": "What are the eligibility criteria for start-ups to apply for the Matching Grant Scheme?",
+                "answer": "To be eligible for this scheme, start-ups must be certified by the Start-up Promotion Cell (SPC) and possess a valid start-up certificate number."
+            },
+            {
+                "question": "Is there a guarantee that start-ups meeting the eligibility criteria will receive benefits under this scheme?",
+                "answer": "No, there is no guarantee of benefits under this scheme. The Start-up Promotion Cell (SPC) retains the sole authority to accept or reject applications."
+            },
+            {
+                "question": "How many start-ups can avail of the benefits under this scheme each year, and how are they selected?",
+                "answer": "Up to 20 start-ups can benefit from this scheme annually, and the selection process is carried out by the SPC."
+            },
+            {
+                "question": "Could you elaborate on the benefits offered under the Matching Grant Scheme, particularly for start-ups raising funds before the product launch phase?",
+                "answer": "Under the Matching Grant Scheme, start-ups that secure funds from a registered/recognized funding source before the product launch phase are eligible for benefits."
+            },
+            {
+                "question": "What is the official name of the scheme discussed in this document, and when does it come into effect?",
+                "answer": "The scheme discussed here is called the 'Matching Grant Scheme,' and it is already in effect."
+            },
+            {
+                "question": "Could you explain the concept of 'proportionate ownership of stock' in the context of the benefits provided by the Matching Grant Scheme?",
+                "answer": "Proportionate ownership of stock means that the benefits a start-up receives are proportional to the ownership stake held by investors or funding sources."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.startup.goa.gov.in/Incentives/MatchingGrantScheme.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Entrepreneur",
+            "Grant",
+            "Startup"
+        ]
+    }
+}

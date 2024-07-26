@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "Chetan Chauhan Labor Sports Promotion Scheme",
+        "state": "Uttar Pradesh",
+        "department": "Uttar Pradesh Labour Welfare Board",
+        "type": "Subsidy",
+        "beneficiary": "Children of registered construction workers",
+        "details": "The Chetan Chauhan Shramik Krida Protsahan Yojana (CCSKPY) stands out as a remarkable initiative launched by the Uttar Pradesh government in 2022. Recognizing the potential for sporting talent to blossom even from underprivileged backgrounds, the scheme bridges the financial gap for the children of registered construction workers. By offering a one-time grant, the CCSKPY empowers these young athletes who have excelled at district, state, national, and even international levels. This financial support proves to be a game-changer, allowing them to focus on rigorous training, acquire necessary equipment, and participate in upcoming competitions. The CCSKPY not only fosters a love for sports among these children but also paves the way for them to achieve recognition and success in the sporting arena, etching their names in the history of Indian athletics.",
+        "benefits": [
+            "Provide financial assistance who have been selected in district, state, national and international sports.",
+            "District level: \u20b925,000/- per son/daughter in lump sum once.",
+            "State level: \u20b950,000/- per son/daughter in lump sum.",
+            "National level: \u20b975,000/- lump sum per son/daughter.",
+            "International level: \u20b91,00,000/- lump sum per son/daughter."
+        ],
+        "eligibility": [
+            "The worker must be working in an establishment registered under the Factories Act, 1948.",
+            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-.",
+            "The worker must have worked continuously for at least six months in the establishment/factory and must be in service at the time of applying.",
+            "The benefit will be admissible to the worker or his two daughters only.",
+            "The benefit will be admissible to the worker or his two children only.",
+            "Only those players will be eligible who have been selected on or after March 23, 2021.",
+            "In case of the female worker herself being a player, she will be given the benefit."
+        ],
+        "application_process": "Online. Access the official website of the Uttar Pradesh Labour Welfare Board at https://skpuplabour.in/. Select the 'Shramik Application' option from the homepage. For new users, proceed with the 'Register New User' option. Fill out the registration form accurately and submit it. The system will generate a unique user ID and password, which will be sent to the registered mobile number. Utilize the provided credentials to log in to the portal. Choose the relevant scholarship scheme from the available options. Diligently complete the application form, ensuring all details are accurate and complete. Upload a recent photograph of the applicant. Finally, submit the application form for further processing. Obtain a printed copy of the duly submitted application form for future reference. Present the application form at the concerned educational institution and the factory/establishment for verification and endorsement. Log in again using the registered user ID and password. Access the 'Scheme Application Details' section and upload a scanned copy of the verified application form along with the required supporting documents. Save the information for successful submission. Upon successful verification and validation of the application, the scholarship amount will be disbursed to the beneficiary's bank account. The beneficiary will be notified through an SMS on the registered mobile number. Applicants can track the status of their application by selecting the 'Application Status' option on the portal.",
+        "documents_required": [
+            "Attested copy of the online application form filled in relation to the scheme.",
+            "Self-certified copy of the beneficiary's bank passbook (with the bank's IFSC code).",
+            "Copy of ration card, family register or other government record in confirmation of the relationship of the dependent.",
+            "Attested copy of Aadhar card of the beneficiary father and mother.",
+            "Attested copy of the certificate of the office bearers of the recognized sports association on being selected in district, state, national and international games."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme all about?",
+                "answer": "The Chetan Chauhan Shramik Krida Protsahan Yojana (CCSKPY) is a scheme launched by the Uttar Pradesh government in 2022 to provide financial assistance to the children of construction workers for participating in sports."
+            },
+            {
+                "question": "What benefits are provided?",
+                "answer": "Financial assistance will be provided."
+            },
+            {
+                "question": "How much financial benefits are provided under the scheme?",
+                "answer": "A one-time grant ranging from \u20b925,000 to \u20b91,00,000, the CCSKPY empowers these young athletes who have excelled at district, state, national, and even international levels."
+            },
+            {
+                "question": "How many daughters can get the scheme benefit?",
+                "answer": "The benefit will be admissible to two daughters only."
+            },
+            {
+                "question": "What the financial eligibility criteria?",
+                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-."
+            },
+            {
+                "question": "What is procedure to get the scheme benefits?",
+                "answer": "Applicant need to do the registration. Fill out the application form and apply."
+            },
+            {
+                "question": "What is official website to get register and apply?",
+                "answer": "Follow the below URL. Link: https://skpuplabour.in/."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Attested copy of the online application form filled in relation to the scheme. 2. Self-certified copy of the beneficiary's bank passbook (with the bank's IFSC code). 3. Copy of ration card, family register or other government record in confirmation of the relationship of the dependent. 4. Attested copy of Aadhar card of the beneficiary father and mother. 5. Attested copy of the certificate of the office bearers of the recognized sports association on being selected in district, state, national and international games."
+            },
+            {
+                "question": "What is the minimum service period required to avail the benefits of the scheme?",
+                "answer": "The worker must have worked continuously for at least six months in the establishment/factory and must be in service at the time of applying."
+            },
+            {
+                "question": "If a female employee herself is a sportsperson, can she avail herself of the benefits?",
+                "answer": "In case of the female worker herself being a player, she will be given the benefit."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://skpuplabour.in/"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Sports",
+            "Subsidy"
+        ]
+    }
+}

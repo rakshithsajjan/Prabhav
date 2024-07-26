@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Awas Yojana",
+        "state": "All States",
+        "department": "Ministry of Housing and Urban Affairs",
+        "type": "Subsidy",
+        "beneficiary": "Low-income families",
+        "details": "The Pradhan Mantri Awas Yojana aims to provide affordable housing to the urban poor by providing financial assistance for the construction of houses.",
+        "benefits": [
+            "Interest subsidy on home loans",
+            "Financial assistance for construction",
+            "Access to affordable housing"
+        ],
+        "eligibility": [
+            "Must be a citizen of India",
+            "Must belong to the Economically Weaker Section (EWS) or Low Income Group (LIG)",
+            "Must not own a pucca house"
+        ],
+        "exclusions": [
+            "Individuals who already own a house",
+            "Non-residents"
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card",
+            "Income Certificate",
+            "Property documents"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for the scheme?",
+                "answer": "Any citizen of India belonging to the EWS or LIG can apply."
+            },
+            {
+                "question": "What is the interest subsidy offered?",
+                "answer": "The scheme offers an interest subsidy of up to 6.5% on home loans."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://pmaymis.gov.in/"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://pmaymis.gov.in/Forms/PMAY-Application-Form.pdf"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Subsidy",
+            "Affordable Housing"
+        ]
+    }
+}

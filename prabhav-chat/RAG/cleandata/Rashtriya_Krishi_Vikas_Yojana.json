@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "Rashtriya Krishi Vikas Yojana",
+        "state": "All States",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Scheme",
+        "beneficiary": "Farmers",
+        "details": "Rashtriya Krishi Vikas Yojana (RKVY) - Remunerative Approaches for Agriculture and Allied sector Rejuvenation (RAFTAAR) aims at making farming a remunerative economic activity by strengthening the farmers\u2019 efforts, risk mitigation and promoting agri-business entrepreneurship.",
+        "benefits": [
+            "To strengthen the farmers efforts through the creation of required pre and post-harvest agri-infrastructure that increases access to quality inputs, storage, market facilities etc. and enables farmers to make informed choices.",
+            "To provide autonomy, and flexibility to States to plan and execute schemes as per local/ farmers needs.",
+            "To promote value chain addition linked production models that will help farmers increase their income as well as encourage production/productivity.",
+            "To mitigate the risk of farmers with a focus on additional income generation activities - like integrated farming, mushroom cultivation, beekeeping, aromatic plant cultivation, floriculture etc.",
+            "To empower youth through skill development, innovation and agri-entrepreneurship-based agribusiness models that attract them to agriculture."
+        ],
+        "eligibility": [
+            "The eligibility for assistance under the scheme would depend upon the amount provided in State Plan Budgets for Agriculture and allied sectors, over and above the baseline percentage expenditure incurred by the State Governments on Agriculture and allied sectors."
+        ],
+        "exclusions": [
+            "Creation/topping up of any kind of revolving fund / corpus fund.",
+            "Expenditure towards maintenance of assets or any such recurring expenses.",
+            "Expenses towards Salary, Transport, Travelling Allowances (TA), Daily Allowances (DA) of permanent /semi-permanent employees.",
+            "Expenses towards POL (Petrol, Oil, Lubricants).",
+            "Financing State\u2019s share and/or topping up subsidy level in respect with other Central/State Schemes.",
+            "Foreign Visits/Tours including study tours of farmers abroad.",
+            "Purchase of vehicles.",
+            "Financing any kind of debt waiver, interest subvention, payment of insurance premium, compensation to farmers and calamity relief expenditure."
+        ],
+        "application_process": "Offline. Proposals can be either submitted directly to States or to SFAC at the national level.",
+        "documents_required": [],
+        "faqs": [
+            {
+                "question": "Is the program only for Agriculture and allied sector?",
+                "answer": "Yes, it is only for Agriculture and allied sector."
+            },
+            {
+                "question": "Is there any maximum age limit for the applicant?",
+                "answer": "There is no maximum age limit. however, the applicant should not be a minor."
+            },
+            {
+                "question": "What are the Areas of focus under the RKVY?",
+                "answer": "The components for the RKVY could cover the following: Integrated development of major food crops such as wheat, paddy, coarse cereals, minor millets, pulses, oilseeds."
+            },
+            {
+                "question": "What would be the mode of payment?",
+                "answer": "The payment is through DBT."
+            },
+            {
+                "question": "Is there any application fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rkvy.nic.in/static/download/pdf/RKVY_14th_Fin._Comm.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmers",
+            "Government Scheme"
+        ]
+    }
+}

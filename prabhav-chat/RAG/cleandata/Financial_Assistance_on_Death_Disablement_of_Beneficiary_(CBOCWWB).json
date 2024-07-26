@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Financial Assistance on Death/Disablement of Beneficiary (CBOCWWB)",
+        "state": "Chandigarh",
+        "department": "Labour Department, Chandigarh",
+        "type": "Financial Assistance",
+        "beneficiary": "Registered construction workers and their widowed dependents",
+        "details": "The scheme 'Financial Assistance on Death/Disablement of Beneficiary' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance will be provided to registered construction workers with full or 50% disability due to an accident. The financial assistance will also be provided to the widowed dependents of registered male construction workers for any reason of death.",
+        "benefits": [
+            "Ex-gratia grant to widow dependent of employee (for any reason of death): \u20b950,000/-",
+            "Grant to employee for full disability due to accident: \u20b925,000/-",
+            "Grant to employee for 50% disability due to accident: \u20b915,000/-"
+        ],
+        "eligibility": [
+            "The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contribution towards the labour welfare fund should regularly been received by the Board.",
+            "In case of the death of a registered male construction worker, his dependent widow should apply for this scheme within one year from the date of death.",
+            "Registered construction workers with full or 50% disability due to an accident are eligible to apply under the scheme.",
+            "The beneficiary has not availed any financial assistance from any other Government body."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport size photograph",
+            "Filled-in/signed form of CBOCW Board",
+            "Copy of Aadhaar Card of applicant",
+            "BOCW Card, if any",
+            "Copy of Aadhaar Card of nominee",
+            "Bank details",
+            "Receipt of payment file",
+            "Any other relevant documents",
+            "Death certificate issued by the competent authority (In case of Death Claim)",
+            "In case of accidental death of the worker, an attested copy of DDR or FIR or Post mortem report",
+            "Certificate of complete disablement/partial disablement duly obtained from the Civil Surgeon",
+            "Bank account details/Bank Passbook (In case of disablement)",
+            "Saving bank account details of Nominee (In case of Death Claim)",
+            "Copy of salary slip of the worker"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Financial Assistance on Death/Disablement of Beneficiary' scheme?",
+                "answer": "The scheme is an initiative by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh, providing financial assistance to registered construction workers in case of full or 50% disability due to an accident, and to widowed dependents of registered male construction workers in case of death."
+            },
+            {
+                "question": "Who administers the scheme?",
+                "answer": "The scheme is administered by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), under the Labour Department, Chandigarh."
+            },
+            {
+                "question": "What is the financial assistance provided under the scheme for disability due to an accident?",
+                "answer": "Registered construction workers with full disability will receive \u20b925,000/-, and those with 50% disability will receive \u20b915,000/-."
+            },
+            {
+                "question": "Is financial assistance provided to the widowed dependents of registered male construction workers?",
+                "answer": "Yes, widowed dependents of registered male construction workers are eligible for financial assistance of \u20b950,000/- in case of death for any reason."
+            },
+            {
+                "question": "Who is eligible to receive the financial assistance under this scheme?",
+                "answer": "Registered construction workers facing full or 50% disability due to an accident, as well as widowed dependents of registered male construction workers in the event of death, are eligible to receive financial assistance."
+            },
+            {
+                "question": "What is the time frame for applying under the scheme in case of the death of a registered male construction worker?",
+                "answer": "In the unfortunate event of the death of a registered male construction worker, the dependent widow should apply for this scheme within one year from the date of death."
+            },
+            {
+                "question": "Is there any restriction on having availed financial assistance from other Government bodies?",
+                "answer": "Yes, to be eligible for assistance under this scheme, the beneficiary should not have availed any financial assistance from any other Government body."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme 'FINANCIAL ASSISTANCE ON DEATH/ DISABLEMENT OF BENEFICIARY' under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://labour.chd.gov.in/PublicPages/disablement-of-beneficiary.aspx"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&newLink=N&%3Ccsrf:token%20uri=%27serviceLinkHome.html%27/%3E"
+            },
+            {
+                "type": "User Manual",
+                "url": "http://labour.chd.gov.in/pdf/LWB.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Death",
+            "Disablement",
+            "Construction Worker",
+            "Labour",
+            "Widow"
+        ]
+    }
+}

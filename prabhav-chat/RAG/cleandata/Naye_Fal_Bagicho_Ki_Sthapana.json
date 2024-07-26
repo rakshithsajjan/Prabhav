@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Naye Fal Bagicho Ki Sthapana",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "The 'Naye Fal Bagecho Ki Sthapana' under the Agriculture Department of the Rajasthan government increases farmers' income by facilitating the cultivation of high-value fruit crops that have a potentially higher market demand and profitability compared to traditional crops. It extends financial support and subsidies to smallholder farmers to facilitate the establishment of new orchards, enabling them to access resources and inputs required for fruit cultivation.",
+        "benefits": [
+            "For high-value and common interval crops, the maximum grant amount is 50% of the unit cost, up to a maximum of Rs. 30,000/- per hectare.",
+            "For intensive horticultural orchards, the maximum grant amount is 40% of the unit cost, up to a maximum of Rs. 40,000/- per hectare.",
+            "A farmer will be given a grant for a minimum of 0.4 hectares and a maximum of 4.0 hectares area.",
+            "Small/marginal farmers are eligible for an additional 25% grant."
+        ],
+        "eligibility": [
+            "The applicant should be a farmer.",
+            "The applicant should be a native of Rajasthan.",
+            "The applicant must have agricultural land ownership and irrigation sources.",
+            "Farmers with land between 0.4 and 4 hectares are eligible for the grant.",
+            "For Scheduled Caste/Tribe farmers and tribal areas, the minimum area limit is 0.2 hectares."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card",
+            "Copy of Jamabandi (not more than six months old).",
+            "Passport-size photo.",
+            "Copy of Bank Passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Under the Naye Fal Bagecho Ki Sthapana subsidies to increase farmers' income by facilitating the cultivation of high-value fruit crops that have a potentially higher market demand and profitability compared to traditional crops."
+            },
+            {
+                "question": "How many hectares of area will the grant be given to a farmer?",
+                "answer": "A farmer will be given a grant for a minimum of 0.4 hectares and a maximum of 4.0 hectares area."
+            },
+            {
+                "question": "How many hectares should there be for Scheduled Caste/Tribe farmers and tribal areas?",
+                "answer": "The minimum area limit for Scheduled Caste/Tribe farmers and tribal areas will be 0.2 hectares."
+            },
+            {
+                "question": "Is there any agricultural land criteria?",
+                "answer": "The applicant must have agricultural land ownership and irrigation sources."
+            },
+            {
+                "question": "What documents are required for this scheme?",
+                "answer": "Copy of Aadhar Card / Jan Aadhar Card, Jamabandi (not more than six months old)."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, this scheme is only for Rajasthan."
+            },
+            {
+                "question": "How can I apply online?",
+                "answer": "One can apply by visiting the e-Mitra center."
+            },
+            {
+                "question": "How long is the Jamabandi copy valid?",
+                "answer": "Copy of Jamabandi (not more than six months old)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Fruits",
+            "Garden"
+        ]
+    }
+}

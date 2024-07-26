@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Marriage Assistance (ANBOCWWB)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Labour, Employment & Training",
+        "type": "Financial Assistance",
+        "beneficiary": "Registered construction workers and their dependent children",
+        "details": "The scheme 'Marriage Assistance' was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, registered construction workers will receive a financial allowance to cover either their own marriage expenses or those of their two dependent children.",
+        "benefits": [
+            "Financial assistance of \u20b920,000/- to cover either their own marriage expenses or those of their two dependent children."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
+            "The beneficiary should be engaged in any building & other construction work.",
+            "The beneficiary should be registered under the A&N Islands Building and Other Construction Workers Welfare Board.",
+            "The beneficiary should have an active membership of the Board.",
+            "The assistance shall be given to meet the marriage expenses of the worker or his/her two dependent children."
+        ],
+        "exclusions": [
+            "Marriage assistance is limited for two children only."
+        ],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Passport size photograph",
+            "Proof of age",
+            "Identity proof",
+            "Details of EPF, if any",
+            "Proof of address",
+            "90 Days Work Duration Certificate issued by the competent authority",
+            "Bank account details",
+            "Any other document as required",
+            "Registration ID Card of Worker",
+            "Identity proof of worker i.e. Aadhaar Card",
+            "Latest Subscription Receipt",
+            "Address proof",
+            "Bank account details of worker/Copy of passbook",
+            "Identity proof of Son/Daughter for whose marriage assistance is sought",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the 'Marriage Assistance' scheme?",
+                "answer": "The scheme aims to provide financial assistance to registered construction workers or their dependent children to cover marriage expenses."
+            },
+            {
+                "question": "What are the benefits provided under the Scheme?",
+                "answer": "Registered construction workers are eligible to receive financial assistance of \u20b920,000/- to cover either their own marriage expenses or those of their two dependent children."
+            },
+            {
+                "question": "Who is eligible to benefit from this scheme?",
+                "answer": "A registered worker under the A&N Islands Building and Other Construction Workers Welfare Board and having an active membership of the Board is eligible to apply under the scheme."
+            },
+            {
+                "question": "Is the assistance limited to covering only the worker's marriage expenses?",
+                "answer": "No, the assistance can also be utilized to cover the marriage expenses of the worker's two dependent children."
+            },
+            {
+                "question": "Is there any limit on the number of children for whom assistance can be claimed?",
+                "answer": "Yes, the assistance is limited to covering the marriage expenses of two dependent children of the worker."
+            },
+            {
+                "question": "Can the financial assistance be used for any other purpose besides marriage expenses?",
+                "answer": "No, the assistance is specifically designated for meeting marriage expenses and cannot be used for any other purpose."
+            },
+            {
+                "question": "Are there any documents required for applying for the scheme?",
+                "answer": "Documentation requirements such as proof of residency, employment in construction work, registration with the welfare board, and details regarding the marriage event or dependent children may be necessary."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "The eligible applicant may apply online through Portal: https://serviceonline.gov.in/login.do"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labour.and.nic.in/webPages/welfareboard.html"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/"
+            },
+            {
+                "type": "Application Form For Marriage Assistance",
+                "url": "https://labour.and.nic.in/webPages/forms/Marr.pdf"
+            },
+            {
+                "type": "Application Form For Registration As A Beneficiary",
+                "url": "https://labour.and.nic.in/webPages/forms/welfareboard.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Financial Assistance",
+            "Labour",
+            "Marriage"
+        ]
+    }
+}

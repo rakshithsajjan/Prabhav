@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Natural Calamity Relief to Fishermen of State",
+        "state": "Goa",
+        "department": "Department of Fisheries",
+        "type": "Financial Assistance",
+        "beneficiary": "Fishermen",
+        "details": "Natural Calamity Relief to Fishermen of State is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to the active fishermen who contribute to the Fishermen Corpus Relief Fund, whose fishing vessels are damaged or lost due to natural calamities. The applications are accepted only in offline mode.",
+        "benefits": [
+            "Loss of Life/Total Disability While Fishing in Sea/River: \u20b95,00,000",
+            "Partial Damage of Fishing Canoe: Actual Value, Limited to \u20b91,00,000",
+            "Total Loss/Damage of Canoe With OBM: Actual Value, Limited to \u20b92,00,000",
+            "1 to 4-cylinder Fishing Vessel: Actual Value, Limited to \u20b97,00,000",
+            "6 to 8-cylinder Fishing Vessel: Actual Value, Limited to \u20b910,00,000",
+            "Gill Nets: Limited to \u20b950,000",
+            "Rampon Nets: Limited to \u20b91,00,000",
+            "Trawl Net: Limited to \u20b950,000",
+            "Purseine Net: Limited to \u20b95,00,000"
+        ],
+        "eligibility": [
+            "The applicant should be a Fisherman.",
+            "The applicant should have been contributing to the Fishermen Corpus Relief Fund.",
+            "The applicant's canoe and fishing vessel should be registered with the Department of Fisheries.",
+            "The applicant's fishing vessels should have been damaged or lost due to natural calamities.",
+            "The applicant should not be a defaulter of the department.",
+            "The applicant's loss or damage should be verified by the competent authority."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should take print of the prescribed format of the application form, fill in all mandatory fields, attach required documents, and submit to the concerned authority.",
+        "documents_required": [
+            "Photograph of the Applicant",
+            "Copy of the Vessel Registration Certificate",
+            "Copy of the Updated Fishing License Certificate",
+            "Copy of the Updated Fishing Net Licence",
+            "Copy of Updated Fishing Netbook.",
+            "Copy of Biometric Card/temporary ID Card",
+            "Inspection Report of Registered Fishing Vessel/ OBM/ Net in Original.",
+            "Copy of the Bank Passbook Along With the Mandate Form",
+            "Statement of Contribution for Fishermen Corpus Fund by Applicant",
+            "Post-mortem Report/ Missing Report/ Death Certificate",
+            "Panchanama Report",
+            "FIR Report",
+            "Copy of the Medical Certificate",
+            "Copy of Loss Assessment Report From Authorized Marine Surveyor",
+            "Copy of the Weather Report From the Meteorological Department on the Day of Incident Occurred."
+        ],
+        "faqs": [
+            {
+                "question": "Can an applicant submit a claim for financial assistance beyond one week of the incident, and if so, under what circumstances?",
+                "answer": "No, claims must be submitted within one week of the incident, accompanied by relevant documents and photographs."
+            },
+            {
+                "question": "What is the maximum financial assistance provided under the scheme in case of total loss or damage to a 6 to 8-cylinder Fishing Vessel?",
+                "answer": "\u20b910,00,000, as assessed by an Authorized Marine Surveyor."
+            },
+            {
+                "question": "What is the eligibility criterion regarding the operation of mechanized fishing vessels using trawl-nets during the ban period?",
+                "answer": "Applicants found operating mechanized vessels with trawl-nets during the ban period are not eligible for financial assistance."
+            },
+            {
+                "question": "Where can an applicant register a complaint or dissatisfaction with the services provided?",
+                "answer": "Complaints can be registered with the Department's Grievance Redressal Officer or via email at dir-fish.goa@nic.in."
+            },
+            {
+                "question": "What is the contact information for the Directorate of Fisheries, Government of Goa?",
+                "answer": "Tel: (O) 2224838, Tel: (Dir) 2227780; Fax: (0832)2231049, Email: dir-fish.goa@nic.in, Website: www.fisheries.goa.gov.in."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+            },
+            {
+                "type": "Official Gazette",
+                "url": "https://goaprintingpress.gov.in/downloads/2122/2122-40-SI-OG-0.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Natural-Calamity-Application-Form.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+            }
+        ],
+        "tags": [
+            "Crisis",
+            "Disaster",
+            "Financial Assistance",
+            "Fishermen",
+            "Relief"
+        ]
+    }
+}

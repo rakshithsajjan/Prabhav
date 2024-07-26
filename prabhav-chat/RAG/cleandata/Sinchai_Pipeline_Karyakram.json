@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Sinchai Pipeline Karyakram",
+        "state": "Rajasthan",
+        "department": "Agriculture Department",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "The 'Sinchai Pipeline Karyakram' under The Agriculture Department of the Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers.",
+        "benefits": [
+            "Cost of transporting water: 50% of the cost (capped at \u20b91000/-).",
+            "Pipe material cost: HDPE pipe: \u20b950 per meter (capped at \u20b915,000/- total).",
+            "PVC pipe: \u20b935 per meter (capped at \u20b915,000/- total).",
+            "HDPE laminated flat tube pipe: \u20b920 per meter (capped at \u20b915,000/- total)."
+        ],
+        "eligibility": [
+            "The agricultural land should be owned by the applicant.",
+            "The applicant must be a farmer residing in Rajasthan.",
+            "This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or well.",
+            "Applicants must own at least 2 bighas of cultivable agricultural land.",
+            "The farmer's bank account must be linked to an Aadhar card. Additionally, no farmer can apply again for the next 10 years after receiving the benefit.",
+            "Farmers must apply for the grant within 30 days of purchasing the pipe and after this timeframe will not be considered."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport size photo.",
+            "Copy of Aadhar Card.",
+            "Copy of Jamabandi or Jamabandi.",
+            "Copy of Bank Passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Rajasthan Government will provide subsidy to the farmers on purchasing irrigation pipeline and try to reduce the financial burden."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, this scheme only for Rajasthan."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Passport size photo. 2. Copy of Aadhar Card. 3. Copy of Jamabandi or Jamabandi. 4. Copy of Bank Passbook."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "Application form is free for Irrigation Pipe Line Program."
+            },
+            {
+                "question": "What is IFSC code?",
+                "answer": "IFSC (Indian Financial System Code) is an 11-digit alphanumeric code that helps to identify different bank branches that deal with online fund transfers."
+            },
+            {
+                "question": "How do a applicant know if a field in the application form is mandatory?",
+                "answer": "A distinctive sign (\u201c*\u201d symbol, \u201cmandatory\u201d mention, etc.)"
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Yes, Urban and Rural both can apply for this scheme."
+            },
+            {
+                "question": "Can applicant fill the application form in a language other than English?",
+                "answer": "No, applicant can fill only in English language."
+            },
+            {
+                "question": "What is office web to apply for the scheme benefits?",
+                "answer": "Follow the below url. Link : https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/AGRI_/IPLP/DOC_250_33da8ac2-d17a-49e6-ad16-615dd5ff570a.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/250"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Development",
+            "Irrigation",
+            "Pipe Line"
+        ]
+    }
+}

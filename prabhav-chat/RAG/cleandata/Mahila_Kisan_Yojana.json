@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Mahila Kisan Yojana",
+        "state": "Haryana",
+        "department": "Scheduled Castes Finance and Development Corporation",
+        "type": "Subsidy",
+        "beneficiary": "Women from Scheduled Castes",
+        "details": "The scheme 'Mahila Kisan Yojana' is an economic empowerment scheme by the Scheduled Castes Finance and Development Corporation, Government of Haryana. Through this scheme, loans are provided to the eligible women from Scheduled Castes for the betterment of their economic status through self-employment activities in the Agriculture and Allied Sector. The Corporation in collaboration with NSFDC provide loan for various economic development schemes having unit cost upto \u20b9 50,000/-. The Corporation provides margin money @ 10% of the project cost.",
+        "benefits": [
+            "Loan for various economic development schemes having unit cost up to \u20b950,000/-.",
+            "Margin Money at 10% of the project cost.",
+            "Subsidy at 50% of the total project cost (max. \u20b910,000/-)."
+        ],
+        "eligibility": [
+            "The applicant should be a female.",
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant should be from a 'Scheduled Caste'.",
+            "The applicant's annual family income should not exceed the Below Poverty Line (BPL).",
+            "The applicant's name should be present in the BPL survey list.",
+            "The income ceiling is at least 50% of the beneficiaries having annual family income upto \u20b91,50,000/- and balance 50% of the beneficiaries having annual family income upto \u20b93,00,000/-."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Ration Card.",
+            "Caste Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What type of assistance shall be provided by The Corporation in collaboration with NSFDC for a single unit cost upto \u20b950,000/-?",
+                "answer": "The Corporation in collaboration with NSFDC can provide loan for various economic development schemes having unit cost upto \u20b950,000/-."
+            },
+            {
+                "question": "What percentage of the project cost does the Corporation provide as margin money?",
+                "answer": "The Corporation provides margin money at 10% of the project cost."
+            },
+            {
+                "question": "How much subsidy does the HSFDC corporation provide, and what is the maximum amount of subsidy one can receive for a project?",
+                "answer": "The corporation (HSFDC) provide subsidy at 50% and maximum amount of subsidy is \u20b910,000/- of the total project cost."
+            },
+            {
+                "question": "Which department/ organisation is the management authority for this scheme?",
+                "answer": "The Scheme is being implemented and monitored by the Haryana Scheduled Castes Finance and Development Corporation."
+            },
+            {
+                "question": "What process will be followed by the corporation for the administration of this scheme?",
+                "answer": "The concerned officials of the corporation shall verify, administer and sanction loans for assistance under this Scheme within their respective jurisdiction on the basis of criteria as decided by the corporation."
+            },
+            {
+                "question": "What measures are in place to prevent misuse of this scheme?",
+                "answer": "In case of any misrepresentation of facts or furnishing false information by an applicant, all his/ her claims under the scheme shall be revoked by the corporation."
+            },
+            {
+                "question": "Is there any application fee is applicable?",
+                "answer": "No, however \u20b910/- may be applicable as service charges."
+            },
+            {
+                "question": "How to track the applications?",
+                "answer": "After submitting the application you will be getting an Application Reference ID which you can enter on the homepage to check the status of your application. Also SMS will be sent to you at each step of the application after submitting."
+            },
+            {
+                "question": "I do not remember my password, what should I do?",
+                "answer": "In case you do not remember your password please click on forgot password and enter your email id and an email will be sent to you for next steps."
+            },
+            {
+                "question": "Will I receive any SMS, Email on completing the application?",
+                "answer": "After each step you will sent an SMS and an Email notifying you of the status and next steps that require any appointment or verification."
+            },
+            {
+                "question": "Can I save my application and submit again after that?",
+                "answer": "Yes, you can save the application in middle and you can see the application in the view incomplete applications and you can proceed from their."
+            },
+            {
+                "question": "How to apply offline? Are there any centres at district, Tehsil, Village level?",
+                "answer": "The schemes will be available at District, Tehsil and sub division level at Antyodaya Kendra/ SARAL Kendra/ Antyodaya-Saral Kendra. Also this schemes will be available at CSC centres as well."
+            },
+            {
+                "question": "Can I pay through the portal itself?",
+                "answer": "Yes, all the intermediary payment steps can be made through the portal itself and acknowledge slip will be generated."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=We8we6dAW6UT2XimW+dzKA=="
+            }
+        ],
+        "tags": [
+            "Employment",
+            "Entrepreneur",
+            "Loan",
+            "Scheduled Caste",
+            "Subsidy",
+            "Women"
+        ]
+    }
+}

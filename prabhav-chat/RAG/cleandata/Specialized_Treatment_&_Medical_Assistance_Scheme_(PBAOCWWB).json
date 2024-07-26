@@ -1,0 +1,102 @@
+{
+    "content": {
+        "title": "Specialized Treatment & Medical Assistance Scheme (PBAOCWWB)",
+        "state": "Puducherry",
+        "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Registered Construction Workers",
+        "details": "The 'Specialized Treatment & Medical Assistance Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. The Board provides for upto \u20b92,00,000/- for taking specialized medical treatment in Hospitals having tie-up with Government General Hospitals. The amount for the medical treatment is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker. The applications are accepted offline.",
+        "benefits": [
+            "Financial Assistance of upto \u20b92,00,000/- for taking specialized medical treatment in Hospitals having tie-ups with Government General Hospitals."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+            "The applicant should have completed the age of 18 years.",
+            "The applicant should not have completed the age of 60 years during the preceding 12 months in the construction work.",
+            "The beneficiary should be contributing to the Board's Fund.",
+            "The applicant should not have defaulted in payment of contribution to the Board for a continuous period of more than one year.",
+            "The applicant should have either met an accident or should be suffering from a disease such as Tuberculosis, Lung Issues, Neurological Disorders, etc."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested construction worker should visit the Office of the Puducherry Building and Other Construction Workers Welfare Board (Industrial Estate, Thattanchavady, Puducherry - 605 009) and obtain the prescribed format of the application form free of cost from the concerned authority exclusively entrusted to issue and collect filled-in applications.",
+        "documents_required": [
+            "Last Subscription Bill.",
+            "Board ID Card.",
+            "Aadhaar Card.",
+            "Ration Card.",
+            "Accident Report (if applicable).",
+            "Bank Pass Book.",
+            "Referral Letter, obtained from the Health Department, Government of Puducherry.",
+            "Medical Certificate issued by the competent authority (RMO)."
+        ],
+        "faqs": [
+            {
+                "question": "Is it mandatory to submit an Accident Report, and under what circumstances is it required?",
+                "answer": "The Accident Report is mandatory only for those who have met with an accident."
+            },
+            {
+                "question": "What is the purpose of submitting a Referral Letter for the scheme?",
+                "answer": "The Referral Letter obtained from the Health Department serves as part of the documentation required for the scheme and may be necessary for validating the applicant's medical condition."
+            },
+            {
+                "question": "Is there any relaxation in the age criteria for eligibility under certain circumstances?",
+                "answer": "There is no relaxation in the age criteria. Eligibility requires the applicant to be between 18 and 60 years of age."
+            },
+            {
+                "question": "Can an applicant be eligible for the scheme if they have defaulted in payment of contribution to the Board?",
+                "answer": "The eligibility criteria state that an applicant should not have defaulted in payment of contribution to the Board for a continuous period of more than one year to be eligible for the scheme."
+            },
+            {
+                "question": "What financial assistance does the 'Specialized Treatment & Medical Assistance Scheme' offer?",
+                "answer": "The scheme provides financial assistance of up to \u20b92,00,000/- for taking specialized medical treatment in hospitals having tie-ups with Government General Hospitals."
+            },
+            {
+                "question": "What is the role of the Direct Benefit Transfer (DBT) in the disbursement of financial assistance under the scheme?",
+                "answer": "The amount for medical treatment is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker."
+            },
+            {
+                "question": "Can you provide more details about the health conditions that make an applicant eligible for the scheme?",
+                "answer": "The document mentions that an applicant should have either met with an accident or be suffering from specific diseases such as Tuberculosis, Lung Issues, Neurological Disorders, etc., to be eligible for the scheme."
+            },
+            {
+                "question": "What is the age limit for eligibility to register as a Construction Worker under the scheme?",
+                "answer": "To be eligible for registration, an applicant should have completed the age of 18 years and should not have completed the age of 60 years during the preceding 12 months in construction work."
+            },
+            {
+                "question": "Can I file a grievance online, or is it limited to offline methods?",
+                "answer": "The grievance can only be submitted offline. Detail about the method is outlined on page 131 of the document."
+            },
+            {
+                "question": "What is the source document for the guidelines of the mentioned scheme?",
+                "answer": "The source document for the guidelines is available at https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf, specifically on page 73."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Registration Process & Documents Required",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Construction",
+            "Disease",
+            "Hospital",
+            "Medical",
+            "Worker"
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "Walk In Tunnel",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "The Walk-In Tunnel under the Agriculture Department of the Rajasthan government provides the benefit of a subsidy to the farmers with affordable and efficient structures that offer protection from adverse weather conditions, pests, and diseases. Walk In Tunnels are basically protected structures made from Pre-galvanized pipe and covered with UV Stabilized Plastic sheets. Generally Tunnels are used to give favorable controlled environments like temperature, humidity, light intensity, ventilation, soil media, disease control, irrigation, Fertigation, and other agronomical practices throughout the season irrespective of the natural conditions outside. Walk In Tunnel has a variety of applications, the majority being, the growing of vegetables, floriculture, planting material acclimatization, and fruit crop growing for the export market.",
+        "benefits": [
+            "50 percent grant is payable for the area.",
+            "800 square meters (maximum 5 units per beneficiary).",
+            "400 square meters (maximum 10 units per beneficiary)."
+        ],
+        "eligibility": [
+            "The applicant must be a native of Rajasthan.",
+            "The applicant should be a Farmer.",
+            "The applicant must have agricultural land ownership and irrigation sources."
+        ],
+        "exclusions": [],
+        "application_process": "Registration: Step-2: Click on the option 'Register'. Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options. Citizen: Step-4: Choose either one option from the Jan Aadhaar Or Google to process further. Jan Aadhaar: Enter the Jan Aadhaar number, click on the \u2018Next\u2019 button, Select your name, the name of the head of the family and all the other members and Click on the \u2018Send OTP\u2019 button. Enter the \u2018OTP\u2019 and Click on the \u2018Verify OTP\u2019 button to Complete the registration. Google: Enter the Gmail ID, click on the \u2018Next\u2019 button, Enter the password. A new link appears on screen, now click on the new SSO link. SSO id will appear on the screen, now create the password. Enter Mobile number, click on registration. Step-5: Submit. Apply: Step-2: After login, dashboard will open. Step-3: Click on 'RAJ-KISAN' option. Step-4: In 'Farmer', click on 'Application Entry Request'. Step-5: Enter the 'Bhamashah ID' or 'Janaadhaar ID' and search. Step-6: Select the person name and scheme name. Step-7: Complete the Aadhaar Authentication and click on Get details. Step-8: Provide the required details. Step-9: Submit.",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card",
+            "Copy of Jamabandi (not more than six months old)",
+            "Soil and water test report",
+            "Quotation from approved firm and proof of irrigation source."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "To provide controlled environments for plant growth, Walk In Tunnels offer protection from adverse weather conditions, pests, and diseases, enabling year-round cultivation and increased crop yields."
+            },
+            {
+                "question": "What types of crops can be grown in Walk In Tunnels?",
+                "answer": "A wide variety of crops, including vegetables, fruits, flowers, and herbs, can be cultivated in walk-in tunnels, depending on the climate and farming practices."
+            },
+            {
+                "question": "Are there different sizes of Walk In Tunnels available?",
+                "answer": "Yes, Walk In Tunnels come in various sizes to accommodate different farming needs and land sizes, ranging from small-scale units for backyard gardens to larger structures for commercial farming."
+            },
+            {
+                "question": "How does the subsidy system work for Walk In Tunnels?",
+                "answer": "The scheme provides a subsidy of 50% on the construction costs for Walk In Tunnel."
+            },
+            {
+                "question": "How can farmers apply for the scheme?",
+                "answer": "One can apply by visiting the e-Mitra center."
+            },
+            {
+                "question": "Are there any criteria related to agricultural land?",
+                "answer": "The applicant must have agricultural land ownership and irrigation sources."
+            },
+            {
+                "question": "Can only farmers of Rajasthan take advantage of this scheme?",
+                "answer": "Yes, only farmers of Rajasthan take advantage of this scheme."
+            },
+            {
+                "question": "What is the official website for registration and apply?",
+                "answer": "Applicants need to visit the following link: https://sso.rajasthan.gov.in/signin"
+            },
+            {
+                "question": "Can anyone other than farmers get the benefit of this scheme?",
+                "answer": "No, this is only for farmers."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Aadhar Card / Janadhar Card, Copy of Jamabandi (not more than six months old), soil and water test report, Quotation from approved firm and proof of irrigation source."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/wit"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Dashboard",
+                "url": "https://sso.rajasthan.gov.in/dashboard"
+            },
+            {
+                "type": "e-Mitra Center",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Subsidy",
+            "Rajasthan",
+            "Farmers"
+        ]
+    }
+}

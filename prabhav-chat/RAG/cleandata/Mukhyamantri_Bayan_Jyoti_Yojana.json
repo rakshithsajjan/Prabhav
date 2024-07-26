@@ -1,0 +1,66 @@
+{
+    "content": {
+        "title": "Mukhyamantri Bayan Jyoti Yojana",
+        "state": "Odisha",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Subsidy",
+        "beneficiary": "Bonafide weavers and full-time ancillary workers",
+        "details": "The Mukhyamantri Bayan Jyoti Yojana aims to provide necessary illumination for weaving activities, improve the health of weavers, and enhance productivity.",
+        "benefits": [
+            "Distribution of 20 watts tube lights free of cost.",
+            "Financial assistance of \u20b9 17,500 for purchasing inverters.",
+            "Provision of a 35 watts fan to beneficiaries.",
+            "Interest-free loan of up to \u20b9 5000."
+        ],
+        "eligibility": [
+            "Must be a bonafide weaver or full-time ancillary worker.",
+            "Permanent resident of Odisha.",
+            "Family income must not exceed \u20b9 3,00,000 per annum.",
+            "At least 50% of family income should be from weaving activities.",
+            "Must not have availed similar benefits from any government agency.",
+            "Must purchase the lighting unit from a GST-registered dealer.",
+            "Only one member of a family can benefit."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Directorate's website. In remote areas, Zonal Officers will assist in application collection.",
+        "documents_required": [
+            "Recent passport-size color photograph.",
+            "Self-attested Weavers Identity Card or certificate.",
+            "Self-attested AADHAR card.",
+            "Self-attested copy of the first page of the Savings Bank Passbook.",
+            "Certificate of total annual family income from the Tahasildar.",
+            "Affidavit stating no receipt of similar assistance.",
+            "Undertaking not to sell the lighting unit within three years."
+        ],
+        "faqs": [
+            {
+                "question": "Who are eligible for MBJY?",
+                "answer": "Must be a bonafide weaver or full-time ancillary worker, permanent resident of Odisha, with family income not exceeding \u20b9 3,00,000 per annum."
+            },
+            {
+                "question": "What are the benefits under MBJY?",
+                "answer": "Distribution of 20 watts tube lights, \u20b9 17,500 for inverters, provision of a 35 watts fan, and an interest-free loan of up to \u20b9 5000."
+            },
+            {
+                "question": "Can application be filled in online mode?",
+                "answer": "Yes, applications can be filled online through the Directorate's website."
+            },
+            {
+                "question": "What are the steps to apply?",
+                "answer": "Visit the official website, create an account, login, provide required information, upload documents, and submit."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://handloom.odisha.gov.in/sites/default/files/2021-12/Guidelines%20for%20implementation%20of%20MBJY%20for%20weaver%20household%20and%20families%20of%20the%20state.pdf"
+            }
+        ],
+        "tags": [
+            "Bayan Jyoti",
+            "Weavers",
+            "Odisha",
+            "Government Scheme"
+        ]
+    }
+}

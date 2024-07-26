@@ -1,0 +1,62 @@
+{
+    "content": {
+        "title": "Agricultural Extension",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Government Scheme",
+        "beneficiary": "Farmers and Agricultural Graduates",
+        "details": "Extension Division endeavours towards successful implementation of Agricultural Extension activities. Through its various programmes, schemes and activities, Extension Division helps farmers to get information regarding scientific research and new knowledge in agricultural practices. It assists and encourages the State Governments in organizing, maintaining and operating professional Extension Services.",
+        "benefits": [
+            "To supplement efforts of public extension by necessarily providing extension and other services to the farmers on a payment basis or free of cost as per the business model of agri-preneur, local needs and affordability of the target group of farmers.",
+            "To support agricultural development",
+            "To create gainful self-employment opportunities for unemployed agricultural graduates, agricultural diploma holders, intermediate in agriculture and biological science graduates, with PG in agri-related courses"
+        ],
+        "eligibility": [
+            "Graduates in agriculture and allied subjects like Horticulture, Sericulture, Dairy, Animal Husbandry, Fisheries, Home/ Community Sciences, Biotechnology, Agricultural Engineering, Forestry, Food Technology, Food Nutrition, and Dietetics, etc.",
+            "Diploma (with at least 50% marks)/ Post Graduate Diploma holders in Agriculture and allied subjects.",
+            "Post Graduation in Agriculture & allied subjects.",
+            "Degree courses recognized by UGC with more than 60 percent of the course content in Agriculture and allied subjects.",
+            "Diploma/ Post-graduate Diploma courses with more than 60 percent of course content in Agriculture and allied subjects after B.Sc. in Biological Sciences.",
+            "Agriculture-related courses at the intermediate (i.e. plus two) level, with at least 55% marks."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar enrollment ID slip/ Copy of request for Aadhaar enrolment.",
+            "Voter Identity Card.",
+            "PAN.",
+            "Passport.",
+            "Ration Card.",
+            "Employee Government ID.",
+            "Passbook of Bank or Post Office.",
+            "Driving Licences.",
+            "Any other document as specified by State/ UT."
+        ],
+        "faqs": [
+            {
+                "question": "What is the minimum and maximum age of the scheme?",
+                "answer": "The scheme is open to the age group of 18 to 60 years."
+            },
+            {
+                "question": "What is the official website to apply for the scheme?",
+                "answer": "Official webSite : www.agriclinics.net"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://agricoop.nic.in/sites/default/files/ACABC-Revised-Guideline-2018.pdf"
+            },
+            {
+                "type": "Extension Information",
+                "url": "https://agricoop.nic.in/en/Extenson#gsc.tab=0"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Extension Services",
+            "Farmers",
+            "Government Scheme"
+        ]
+    }
+}

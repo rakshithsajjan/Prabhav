@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "Vishesh Shiksha Sahaayata Yojana",
+        "state": "Chhattisgarh",
+        "department": "Labor Department of Chhattisgarh State",
+        "type": "Financial Assistance",
+        "beneficiary": "Building and other construction workers",
+        "details": "Labor Department of Chhattisgarh State started this scheme 'Vishesh Shiksha Sahaayata Yojana' for Building and other construction worker on 10 July 2018. The main objective of the scheme to provides financial assistance for education.",
+        "benefits": [
+            "For registered workers who pass away after one year of registration, the Board will issue special registration cards.",
+            "These children will be eligible for the benefits of the Naunihal Scholarship Scheme, Meritorious Students Education Incentive Scheme, and Technical Education Scheme.",
+            "Benefits will be granted to the first two eligible children of the deceased worker."
+        ],
+        "eligibility": [
+            "Construction workers (parents) should be registered.",
+            "Construction workers (parents) are dead within one year of registration with labor board.",
+            "Only the first two children of registered construction workers will be eligible.",
+            "Children will not be eligible if any other registered construction workers are in the family (parents) other than the deceased worker."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Original copy labor registration card of either the mother or father of the beneficiary.",
+            "Copy of the applicant's Aadhar card.",
+            "Copy of the applicant's bank pass book.",
+            "Photograph of the beneficiary.",
+            "Copy of self-declaration certificate of the applicant."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Chhattisgarh State Government started a scheme 'Vishesh Shiksha Sahaayata Yojana' for Building and other construction worker on 10 July 2018."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The main objective of the scheme to provides financial assistance for education."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "For registered workers who pass away after one year of registration, the Board will issue special registration cards."
+            },
+            {
+                "question": "Under which scheme, student will get the benefits?",
+                "answer": "Naunihal Scholarship Scheme, Meritorious Students Education Incentive Scheme, and Technical Education Scheme."
+            },
+            {
+                "question": "Who can get the benefits?",
+                "answer": "Construction workers (parents) who are dead within one year of registration with labor board."
+            },
+            {
+                "question": "How many students from the same family will get the benefits?",
+                "answer": "Only the first two children of registered construction workers will be eligible."
+            },
+            {
+                "question": "If one of the parents is still registered and working with the Labor Board, are the children still eligible for the benefits of the scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "What is the procedure to apply for the scheme?",
+                "answer": "Applicant must be registered under 'Chhattisgarh Building and Other Construction Workers Welfare Board'. Only then applicant can apply for the scheme."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "All the applicant have to visit the official website Chhattisgarh Labour Department. On the home page click on 'Apply' under 'Chhattisgarh Building and Other Construction Workers Welfare Board'. Provide the required details. Fill out the application form. Submit."
+            },
+            {
+                "question": "What is the official website to apply for the scheme?",
+                "answer": "URL : https://cglabour.nic.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://govtschemes.in/sites/default/files/2023-04/Chhattisgarh%20Shramik%20Vishesh%20Shiksha%20Sahyta%20Yojna%20Guidelines.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://cglabour.nic.in/"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Financial Assistance",
+            "Social Welfare"
+        ]
+    }
+}

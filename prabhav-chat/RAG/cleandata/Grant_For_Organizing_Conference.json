@@ -1,0 +1,52 @@
+{
+    "content": {
+        "title": "Grant For Organizing Conference",
+        "state": "India",
+        "department": "All India Council for Technical Education (AICTE)",
+        "type": "Grant",
+        "beneficiary": "Educational Institutions",
+        "details": "The scheme provides financial assistance for organizing national and international conferences.",
+        "benefits": [
+            "Financial support for organizing conferences",
+            "Enhancement of academic collaboration",
+            "Promotion of research and development"
+        ],
+        "eligibility": [
+            "Institutions recognized by AICTE",
+            "Institutions that have not received funding for a conference in the last two financial years"
+        ],
+        "exclusions": [],
+        "application_process": "Online submission through the AICTE portal.",
+        "documents_required": [
+            "Verified Bank Mandate Form",
+            "Declaration Certificate",
+            "Institute details"
+        ],
+        "faqs": [
+            {
+                "question": "How can I apply for the grant?",
+                "answer": "Applications can be submitted online through the AICTE portal."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "Institutions recognized by AICTE and those that have not received funding for a conference in the last two financial years are eligible."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.myscheme.gov.in/schemes/goc"
+            },
+            {
+                "type": "AICTE Portal",
+                "url": "https://www.aicte-india.org"
+            }
+        ],
+        "tags": [
+            "Conference",
+            "Grant",
+            "AICTE",
+            "Financial Assistance"
+        ]
+    }
+}

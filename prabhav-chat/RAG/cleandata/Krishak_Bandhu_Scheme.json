@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Krishak Bandhu Scheme",
+        "state": "West Bengal",
+        "department": "Department of Agriculture",
+        "type": "Financial Assistance",
+        "beneficiary": "Farmers",
+        "details": "The scheme 'Krishak Bandhu Scheme' is a flagship scheme of the government of West Bengal and was launched by the Department of Agriculture in 2019. The scheme caters to the farming community by means of assured continuous income and insurance coverage. Further, the scheme seeks to provide the farmers with financial assistance of \u20b910000 per year (\u20b95000 per acre in two installments). The financial support under the Scheme is payable in two equal installments, first during Kharif and second during the Rabi season each year.",
+        "benefits": [
+            "An assured sum of \u20b910,000/- per acre per year for farmers with 1 acre or more cultivable land.",
+            "An assured sum of \u20b94,000/- per acre per year for farmers with less than 1 acre of cultivable land.",
+            "In the event of the death of a farmer/recorded Bhagchasi (Sharecropper) aged 18 - 60 years, the legal heirs will receive a one-time grant of \u20b92,00,000/-."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of West Bengal.",
+            "All farmers having cultivable land with RoR, Patta, or Forest Patta and recorded Bhagchasi (Share-cropper) are eligible for assistance.",
+            "In the event of the death of any farmer or a recorded Bhagchasi (Share Cropper) aged 18 \u2013 60 years, the legal heir of the deceased will be eligible for a one-time grant."
+        ],
+        "exclusions": [],
+        "application_process": "The application can be submitted both offline and online. Farmers must fill up and submit the application form in the Gram Panchayat where they have maximum land holding, along with relevant documents for verification.",
+        "documents_required": [
+            "Latest RoR of Cultivable Land/ RoR recorded with Barga / Patta Record/ Forest Patta",
+            "Valid Voter ID card (mandatory)",
+            "Aadhaar Card (optional)",
+            "Bank pass book 1st page/ Cancelled Cheque",
+            "One passport-size recent photograph (original)",
+            "Valid mobile phone number"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible to get benefit of the scheme 'Krishak Bandhu (Assured Income) Scheme'?",
+                "answer": "Any farmer having RoR in his name or recorded Bhagchasi (share-cropper)."
+            },
+            {
+                "question": "Which documents are required for application for 'Krishak Bandhu (Assured Income) Scheme'?",
+                "answer": "Voter ID, RoR, Bank pass book 1st page/ Cancelled Cheque (Originals for verifications) & one photocopy and a recent passport-size photograph."
+            },
+            {
+                "question": "Will Farmers get any acknowledgement after submission of the Application of 'Krishak Bandhu (Assured Income) Scheme'?",
+                "answer": "Yes, they will get the Acknowledgement Slip."
+            },
+            {
+                "question": "How much is the Extent of Assistance of 'Krishak Bandhu (Assured Income) Scheme'?",
+                "answer": "Maximum of \u20b9 10000/- and a minimum of \u20b9 4000/- per year (paid in two installments of 50% of the approved assistance)."
+            },
+            {
+                "question": "What will be the Mode of Payment?",
+                "answer": "Through DBT in the Bank A/c of the Beneficiary."
+            },
+            {
+                "question": "Where can the applicants get the prescribed application form of 'Krishak Bandhu (Death Benefit) Scheme'?",
+                "answer": "Applicants can collect the application form from the Duare Sarkar camp."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://wb.gov.in/duare_sarkar/Krishak_Bandhu.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/kbs"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Death",
+            "Farmer",
+            "Financial Assistance",
+            "Income"
+        ]
+    }
+}

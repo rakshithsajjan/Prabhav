@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Financial Assistance to Indigent Artistes",
+        "state": "Puducherry",
+        "department": "Arts and Culture Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Indigent Artists",
+        "details": "The scheme 'Financial Assistance to Indigent Artistes' was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide financial assistance of \u20b91,000/- per month to indigent artists aged 50 years and above and contributions to music, dance, drama, folk, painting and sculpture etc. The indigent artists resident of the Union Territory of Puducherry either by birth or by domicile.",
+        "benefits": [
+            "Financial Assistance of \u20b91,000/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be an indigent artist.",
+            "The applicant's age should be 50 years and above.",
+            "The annual income is less than \u20b924,000/-.",
+            "The applicant should contribute to music, dance, drama, folk, painting, and sculpture.",
+            "The applicant should not be the recipient of any other assistance from any other Organizations.",
+            "The applicant should be a resident of the Union Territory of Puducherry either by birth or by domicile.",
+            "The applicant\u2019s wife/children shall be eligible to receive assistance after the death of the indigent artist."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit (during office hours) the Department of Art and Culture, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Fill in all mandatory fields, paste the passport-sized photograph, and attach copies of all mandatory documents. Submit the duly filled and signed application form along with the documents to the superintendent, Department of Art and Culture, 1, Romain Rolland Street, Puducherry. Request a receipt or acknowledgment from the superintendent.",
+        "documents_required": [
+            "Identity Proof.",
+            "Proof of Age.",
+            "Domicile Certificate.",
+            "Any Other Document If Required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the financial assistance amount provided to indigent artists under this scheme?",
+                "answer": "The financial assistance amount is \u20b91000/- per month."
+            },
+            {
+                "question": "Who is eligible for the financial assistance for indigent artists?",
+                "answer": "Artists above 50 years of age with significant contributions to Music, Dance, Drama, Folk, Painting, and Sculpture."
+            },
+            {
+                "question": "Can an artist receiving assistance from another organization apply for this scheme?",
+                "answer": "No, the applicant shall not be a recipient of any other assistance from any other organizations."
+            },
+            {
+                "question": "Is residency in the Union Territory of Puducherry a requirement for this financial assistance?",
+                "answer": "Yes, the applicant must be a resident of the Union Territory of Puducherry either by birth or by domicile."
+            },
+            {
+                "question": "Can the financial assistance be transferred to the family of the artist after their death?",
+                "answer": "Yes, the artist\u2019s wife or children shall be eligible to receive the assistance after the death of the applicant."
+            },
+            {
+                "question": "Is there a limit to the number of artists who can receive assistance under this scheme each year?",
+                "answer": "The specific limit, if any, is determined by the availability of funds and the discretion of the administering authority."
+            },
+            {
+                "question": "How can an artist apply for this financial assistance?",
+                "answer": "The artist can apply by submitting the required documents to the designated government office handling the scheme."
+            },
+            {
+                "question": "What documents are required to apply for financial assistance under this scheme?",
+                "answer": "Applicants need to provide proof of age, proof of significant contribution to the arts, proof of income, and proof of residency in Puducherry."
+            },
+            {
+                "question": "Are the applications submitted online?",
+                "answer": "No, the application process is offline."
+            },
+            {
+                "question": "Is there an application deadline for this scheme?",
+                "answer": "The scheme guidelines do not mention any opening date or closing date for applications."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizens Charter",
+                "url": "https://art.py.gov.in//sites/default/files/ecit1.pdf"
+            }
+        ],
+        "tags": [
+            "Artist",
+            "Culture",
+            "Financial Assistance",
+            "Indigent"
+        ]
+    }
+}

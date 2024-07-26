@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Pension Scheme - Folk Artist",
+        "state": "Tamil Nadu",
+        "department": "Art and Culture Department",
+        "type": "Pension",
+        "beneficiary": "Folk Artist",
+        "details": "The 'Pension Scheme' was launched by the Art and Culture Department, Government of Tamil Nadu. The Tamil Nadu Folk Artist Pension Scheme aims to provide financial support to aged and disabled folk artists who have dedicated significant periods of their lives to the promotion and preservation of folk arts. The applications are accepted offline in the prescribed form available at the Regional Office.",
+        "benefits": [
+            "Pension of \u20b9300/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be a registered folk artist.",
+            "The applicant's age should be 60 years or above.",
+            "The artist must have worked continuously in their profession for at least five years.",
+            "Disabled folk artists (sick and unable to work) who are under 60 but have been registered with the board for five continuous years are eligible for a pension."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Two Passport-size Photograph.",
+            "Original Registration Card of the Folk Artist.",
+            "Original Receipt for Registration and Last Renewal.",
+            "Disability Certificate (issued by a Medical Officer, not below the rank of Civil Surgeon under his name and seal should be enclosed in original) (If disabled)."
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for the pension under this scheme?",
+                "answer": "Registered folk artists who have completed sixty years of age or those registered for five continuous years who have become disabled due to sickness."
+            },
+            {
+                "question": "What is the amount of the pension provided?",
+                "answer": "The pension amount is \u20b9300/- per month."
+            },
+            {
+                "question": "What documents are needed to apply for the pension?",
+                "answer": "A certificate of disability issued by a Medical Officer not below the rank of a Civil Surgeon (for disabled applicants), registration card."
+            },
+            {
+                "question": "How does the Board decide on pension applications?",
+                "answer": "The Board examines each application and can accept or reject it, providing the applicant an opportunity to make a representation before rejection."
+            },
+            {
+                "question": "Can an artiste below sixty years of age apply for the pension?",
+                "answer": "Yes, if they are registered for a continuous period of five years and are disabled due to sickness."
+            },
+            {
+                "question": "Where should the application be sent?",
+                "answer": "The application should be sent to the respective Regional Art & Cultural Centre."
+            },
+            {
+                "question": "What if an application is rejected?",
+                "answer": "The applicant will be given a reasonable opportunity to make a representation before final rejection."
+            },
+            {
+                "question": "Who is the Appellate Authority for this scheme?",
+                "answer": "A. Daniel Premnath, Secretary, Tamil Nadu Folk Artiste\u2019s Welfare Board."
+            },
+            {
+                "question": "Can an applicant apply online?",
+                "answer": "The details about the online application are not provided in the document."
+            },
+            {
+                "question": "Can I appeal if my application is rejected?",
+                "answer": "Yes, through the Appellate Authority, A. Daniel Premnath."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.tn.gov.in/rti/proactive/inftour/handbook_folkartistboard.pdf"
+            },
+            {
+                "type": "Regional Department (20-21 Page No.)",
+                "url": "https://www.tn.gov.in/rti/proactive/inftour/handbook_folkartistboard.pdf"
+            },
+            {
+                "type": "Application Form (VIII & VIIIA)",
+                "url": "https://cms.tn.gov.in/sites/default/files/gos/tour-e-3-2008.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Folk Artist",
+            "Pension",
+            "Person With Disability",
+            "Senior Citizen"
+        ]
+    }
+}

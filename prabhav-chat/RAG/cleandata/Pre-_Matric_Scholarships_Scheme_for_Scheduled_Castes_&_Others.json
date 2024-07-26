@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Pre- Matric Scholarships Scheme for Scheduled Castes & Others",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Students from Scheduled Castes and other disadvantaged groups",
+        "details": "This program provides financial aid to parents of children from Scheduled Castes and other disadvantaged groups to help them afford their children's education at the Pre-Matric level. The goal is to increase the participation of these children in education, reduce the dropout rate, especially during the transition from primary to secondary school, improve their academic performance, and increase their chances of continuing their education beyond the Pre-Matric stage.",
+        "benefits": [
+            "Day Scholar- Rs. 3500 per annum",
+            "Hosteller - Component 1- \u20b9 7,000 per annum",
+            "Hosteller - Component 2- \u20b9 8,000 per annum (For Class III-X)",
+            "10% extra allowance for Divyang (Disabled) students"
+        ],
+        "eligibility": [
+            "The scholarships are open to Nationals of India only.",
+            "Component 1: Pre Matric Scholarship for SC students - Applicant students should be studying in class IX and X on a full time basis, belong to a Scheduled Caste, and parent/guardian's income should not exceed Rs. 2.50 lakh per annum.",
+            "Component 2: Pre-Matric scholarship for children of parents/guardians engaged in Unclean and hazardous Occupation - Students should be studying in classes I to X on a full time basis, and there is no family income ceiling under this component."
+        ],
+        "exclusions": [],
+        "application_process": "Online applications are invited on the National Scholarship Portal (NSP) in the month of April every year.",
+        "documents_required": [
+            "Photograph",
+            "Academic Certificate",
+            "Caste Certificate",
+            "Income proof",
+            "Domicile Certificate",
+            "Bank Account Details",
+            "Aadhaar Card"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "The Pre-Matric Scholarship Scheme for Scheduled Castes & others is a Centrally Sponsored Scheme implemented by the Ministry of Social Justice and Empowerment, Government of India."
+            },
+            {
+                "question": "What are the main objectives of the scheme?",
+                "answer": "This program provides financial aid to parents of children from Scheduled Castes and other disadvantaged groups to help them afford their children's education at the Pre-Matric level."
+            },
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "Day Scholar- Rs. 3,500/- per annum; Hosteller - Component 1- \u20b9 7,000/- per annum; Component 2- \u20b9 8,000/- per annum (For Class III-X)."
+            },
+            {
+                "question": "What benefits are provided to the Disabled students?",
+                "answer": "Along with the common benefits, a 10% extra allowance shall be given to Divyang (Disabled) students."
+            },
+            {
+                "question": "Who can get the benefits under Component 1?",
+                "answer": "The scholarships are open to Nationals of India only, and applicant students should be studying in class IX and X on a full time basis, belong to a Scheduled Caste, and parent/guardian's income should not exceed Rs. 2.50 lakh per annum."
+            },
+            {
+                "question": "Which categories fall under Component 2?",
+                "answer": "Persons who are Manual Scavengers, Tanners & Flayers, Waste pickers, and Persons engaged in hazardous cleaning."
+            },
+            {
+                "question": "Is there any relaxation for Component 2?",
+                "answer": "There is no family income ceiling under component 2."
+            },
+            {
+                "question": "What is the procedure to apply?",
+                "answer": "Applicant must register themselves on the NSP portal and login with their credentials to apply."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Aadhaar Card, linked mobile number with Aadhaar, seed bank account with Aadhaar, and academic documents."
+            },
+            {
+                "question": "What is the NSP URL?",
+                "answer": "URL: https://scholarships.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/Assam_PRE_Matric_Scholarship_Guideline.pdf"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://scholarships.gov.in/public/FAQ/FAQ_ASSAM.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Scheduled Castes",
+            "Education",
+            "Financial Assistance"
+        ]
+    }
+}

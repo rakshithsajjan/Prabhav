@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Super 5000",
+        "state": "Madhya Pradesh",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Financial Assistance",
+        "beneficiary": "Meritorious Students",
+        "details": "The Super 5000 scheme is a part of the ongoing Jan Kalyan Sambal Yojana in Madhya Pradesh. Under this, an education incentive will be given to the first 5000 students of unorganized sector workers who get the maximum marks in the 10th and 12th board examinations. Meritorious students will be able to use this amount to continue their further studies.",
+        "benefits": [
+            "Scholarship Amount: Rs. 25,000/- only at once."
+        ],
+        "eligibility": [
+            "Children of labor family native of Madhya Pradesh.",
+            "Children of registered laborers in the unorganized sector.",
+            "Only students who have passed the 10th/12th board examination conducted by the Madhya Pradesh Board of Secondary Education in a government school and included in the top 5000 children in the merit of the entire state.",
+            "It is necessary to be a student of the Government school of Madhya Pradesh.",
+            "The age of the construction worker should be more than 18 years and less than 60 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhar card.",
+            "Permanent residence certificate.",
+            "Passport-size photo.",
+            "10th/12th class mark sheet."
+        ],
+        "faqs": [
+            {
+                "question": "What Are The Benefits?",
+                "answer": "Financial Assistance is provided."
+            },
+            {
+                "question": "What type of Benefits are provided?",
+                "answer": "Financial Assistance is provided."
+            },
+            {
+                "question": "What Is The Financial Benefit Amount?",
+                "answer": "Scholarship Amount: Rs. 25,000/-"
+            },
+            {
+                "question": "Is The Scholarship Amount Given Every Year?",
+                "answer": "No, The Scholarship Amount Will Be Given Only At Once."
+            },
+            {
+                "question": "Who Can Get The Benefits?",
+                "answer": "Children Of Labour Families Who Are Natives Of Madhya Pradesh."
+            },
+            {
+                "question": "How Many Students Will Get The Benefit Of The Scheme?",
+                "answer": "Top 5000 Children In The Merit Of The Entire State."
+            },
+            {
+                "question": "What Is The Age Eligibility Criteria For Construction Worker?",
+                "answer": "The Age Of The Construction Worker Should Be More Than 18 Years And Less Than 60 Years."
+            },
+            {
+                "question": "How To Apply?",
+                "answer": "1. Applicant Students Have To Contact Their School Principal Or District Labour Department. 2. Get The Application Form. 3. Fill Out The Application Form In The Prescribed Manner. 4. Attach The Required Documents. 5. Submit."
+            },
+            {
+                "question": "What Documents Are Required While Submitting The Application Form?",
+                "answer": "1. Aadhar Card. 2. Permanent Residence Certificate. 3. Passport-Size Photo. 4. 10th/12th Class Mark Sheet."
+            },
+            {
+                "question": "Is It Necessary To Be A Student Of The Government School Of Madhya Pradesh?",
+                "answer": "Yes, It Is Necessary To Be A Student Of The Government School Of Madhya Pradesh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.mp.gov.in/Public/Pages/Schemes/Super5000.aspx"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Financial Assistance",
+            "Meritorious",
+            "Student"
+        ]
+    }
+}

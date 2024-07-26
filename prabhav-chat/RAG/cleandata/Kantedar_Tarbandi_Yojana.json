@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Kantedar Tarbandi Yojana",
+        "state": "Rajasthan",
+        "department": "Agriculture Department",
+        "type": "Financial Benefits",
+        "beneficiary": "Farmers",
+        "details": "The Taarbandi Scheme for Fields was launched on July 21, 2017, under the auspices of the Agriculture Department of the Rajasthan government. The primary objective of this scheme is to safeguard farmers' crops from damage caused by stray animals. Many farmers face crop losses due to the intrusion of such animals into their unfenced fields, particularly those who lack the financial means to secure their land. To address this issue, the Rajasthan Taarbandi Scheme was introduced, offering financial assistance to farmers across the state for the installation of fencing around their fields. This initiative aims to enable farmers to protect their crops effectively by erecting barbed wire enclosures around their fields.",
+        "benefits": [
+            "Subsidy amount: Small and marginal farmers: 60% of the total cost, capped at \u20b948,000/-.",
+            "Other farmers: 50% of the total cost, capped at \u20b940,000/-.",
+            "Community application (group of 10+ farmers with min. 5 hectares collectively): 70% of the total cost, capped at \u20b956,000/- per farmer.",
+            "Land covered: Up to 400 meters of fencing per farmer."
+        ],
+        "eligibility": [
+            "This scheme is available to all categories of farmers.",
+            "For individual farmers and farmer groups, the applicant must possess a minimum of 1.5 hectares of land at a single location.",
+            "In Scheduled Tribe areas, a minimum of 0.5 hectares of land at one location is required.",
+            "For community applications, a group comprising 10 or more farmers must collectively own a minimum of 5 hectares of land.",
+            "Additionally, the boundaries of the group's land must fall within the specified perimeter."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card.",
+            "Address proof.",
+            "Identity card.",
+            "Land related documents.",
+            "Ration card.",
+            "Mobile number.",
+            "Passport size photo."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Under this scheme, financial assistance will be provided to the farmers by the Rajasthan government for fencing their fields."
+            },
+            {
+                "question": "How much amount is available under Tarbandi Scheme Rajasthan?",
+                "answer": "Under the scheme, 50% subsidy is given by the Rajasthan Government and a maximum amount of \u20b940,000/- is given by the government."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, only Rajasthan people can apply for this scheme."
+            },
+            {
+                "question": "What Is The Financial Eligibility For Applicant?",
+                "answer": "There are no financial eligibility criteria."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers can get the benefits of this scheme."
+            },
+            {
+                "question": "How much individual and farmer group the Land Holding Eligibility?",
+                "answer": "In case of individual and farmer group, the applicant must have minimum 1.5 hectare land at one place."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer is a system of transferring money from the government to the beneficiary's bank account."
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Yes, Urban and Rural both can apply for this scheme."
+            },
+            {
+                "question": "What is the limit of fencing per farmer?",
+                "answer": "It will be up to 400 meters of fencing per farmer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://familyid.in/wp-content/uploads/2023/12/guideline_subsidy_for_barbed_wire_fencing.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Farming",
+            "Financial Benefits",
+            "Taarabandi"
+        ]
+    }
+}

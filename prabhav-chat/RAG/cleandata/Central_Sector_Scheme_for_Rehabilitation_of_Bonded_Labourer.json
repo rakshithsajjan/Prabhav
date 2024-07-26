@@ -1,0 +1,53 @@
+{
+    "content": {
+        "title": "Central Sector Scheme for Rehabilitation of Bonded Labourer",
+        "state": "India",
+        "department": "Ministry of Labour and Employment",
+        "type": "DBT",
+        "beneficiary": "Rescued bonded labourers",
+        "details": "The Central Sector Scheme for Rehabilitation of Bonded Labourer-2021, effective from January 27, 2022, is a crucial initiative led by the Ministry of Labour & Employment, Government of India that addresses eradicating bonded labour in India. It introduces varying rehabilitation assistance amounts based on beneficiary categories, such as adults, children, women, and extreme cases, with provisions for annuity schemes and Direct Benefit Transfer. The scheme also facilitates surveys, awareness programs, and evaluatory studies to combat bonded labour, with financial support. It emphasizes skill development, socio-economic assistance, and monitoring mechanisms, all aimed at offering comprehensive support to eradicate the bonded labour system in the country.",
+        "benefits": [
+            "\u20b91,00,000 for adult male beneficiaries",
+            "\u20b92,00,000 for special category beneficiaries (children, women)",
+            "\u20b93,00,000 for extreme cases of bonded or forced labor",
+            "Immediate financial assistance up to \u20b930,000",
+            "Creation of a Bonded Labour Rehabilitation Fund at the district level"
+        ],
+        "eligibility": [
+            "The beneficiary should be a rescued bonded labour."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Duly filled Release Certificates for each rescued bonded labourer (Annexure \u2014A)",
+            "Details of each rescued bonded labourer in the prescribed format (Annexure \u2014B)",
+            "Consolidated information about bonded labourers for the release of Rehabilitation Assistance (Annexure-C)"
+        ],
+        "faqs": [
+            {
+                "question": "How frequently can a State/UT Government conduct surveys of bonded laborers, and what is the financial assistance available for this purpose?",
+                "answer": "A State/UT Government can conduct surveys once every three years per sensitive district, with financial assistance of Rs. 4.50 lakh per district."
+            },
+            {
+                "question": "How are funds released for the scheme, and what are the modalities for fund transfer?",
+                "answer": "Funds are released by the Ministry of Labour and Employment directly to the State/UT Government, which then transfers the funds to the concerned District Magistrate/Collector for the purpose of the Bonded Labourer Rehabilitation Scheme."
+            },
+            {
+                "question": "What is the maximum amount of immediate financial assistance that can be provided to a rescued person from the District Bonded Labour Rehabilitation Fund?",
+                "answer": "The District Administration can provide immediate financial assistance up to Rs. 30,000, with the possibility of higher amounts if justified, subject to the maximum entitlement under the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.gov.in/sites/default/files/20220208154105_compressed.pdf"
+            }
+        ],
+        "tags": [
+            "Labour",
+            "Rehabilitation",
+            "Social Justice",
+            "Trafficking"
+        ]
+    }
+}

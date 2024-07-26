@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Formalisation Of Micro Food Processing Enterprises",
+        "state": "India",
+        "department": "Ministry of Food Processing Industries",
+        "type": "Credit Linked Subsidy",
+        "beneficiary": "Micro Food Processing Enterprises",
+        "details": "Launched on 29th June 2020, PMFMPE is a Centrally Sponsored Scheme by the Ministry of Food Processing Industries, designed to address the challenges faced by the micro-enterprises and to tap the potential of groups and cooperatives in supporting the upgradation and formalization of these enterprises.",
+        "benefits": [
+            "Support to individuals and groups of micro-enterprises.",
+            "Branding and Marketing support.",
+            "Support for strengthening of institutions.",
+            "Setting up a robust project management framework."
+        ],
+        "eligibility": [
+            "Farmer Producer Organization (FPO)",
+            "Self-Help Groups",
+            "Co-operatives",
+            "Existing Micro Food Processing Entrepreneurs",
+            "New Units for One District One Product (ODOP)"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "PAN Card of concern/all promoters",
+            "Aadhaar Copy & Photo of all promoters/guarantors",
+            "Address Proof (Utility bill, Property tax receipt, Ration Card)",
+            "Photocopy of Bank Statement/ Bank Passbook for the last 6 months"
+        ],
+        "faqs": [
+            {
+                "question": "What Is PM FME Scheme?",
+                "answer": "PM FME stands for 'Prime Minister Micro Food Processing Enterprises'. PMFME is an all-India Centrally Sponsored Scheme with an outlay of Rs. 10,000 crores for coverage of 2,00,000 enterprises over 5 years from 2020-21 to 2024-25 being implemented by MOFPI."
+            },
+            {
+                "question": "What Are Micro Enterprises?",
+                "answer": "A Micro Enterprise is an enterprise where the investment in Plant and Machinery or Equipment is not more than Rs. 1 crore and the Annual Turnover is not more than Rs. 5 crore."
+            },
+            {
+                "question": "Is There Any Limit Of Credit Subsidy/Grant?",
+                "answer": "Yes, it would be 35% of the project cost with a maximum ceiling of Rs 10 lacs for an individual beneficiary."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines (English)",
+                "url": "blob:https://pmfme.mofpi.gov.in/2f880be5-8699-468c-8637-30c4528e4767"
+            },
+            {
+                "type": "Guidelines (Hindi)",
+                "url": "blob:https://pmfme.mofpi.gov.in/35cd18b2-87be-4961-9c55-d88b17673b34"
+            },
+            {
+                "type": "Joint Guidelines For Seed Capital",
+                "url": "blob:https://pmfme.mofpi.gov.in/86f7dd0b-bcee-4a70-a8ba-3435fb5dc8c1"
+            },
+            {
+                "type": "FAQs (English)",
+                "url": "blob:https://pmfme.mofpi.gov.in/1e6b8698-b125-4289-99c8-5bf6309d8f01"
+            }
+        ],
+        "tags": [
+            "Micro Food Processing",
+            "Entrepreneurship",
+            "Government Scheme"
+        ]
+    }
+}

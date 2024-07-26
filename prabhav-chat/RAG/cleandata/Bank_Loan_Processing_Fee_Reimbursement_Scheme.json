@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Bank Loan Processing Fee Reimbursement Scheme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Reimbursement",
+        "beneficiary": "Scheduled Caste / Scheduled Tribe Micro and Small Enterprises (MSEs)",
+        "details": "The Bank Loan Processing Fee Reimbursement Scheme provides crucial financial assistance by reimbursing a substantial portion of the processing fees charged by financial institutions (FIs) when SC/ST MSEs secure business loans. This includes loans supported by both fund-based and non-fund-based limits. By alleviating the upfront financial burden of loan processing fees, the scheme aims to enhance access to capital for SC/ST MSEs, promote inclusive economic development, and strengthen entrepreneurial ecosystems.",
+        "benefits": [
+            "Reimbursement of Bank Loan Processing Fee is limited to 80% of the fee or \u20b9 1,00,000/- (excluding GST and other applicable taxes)."
+        ],
+        "eligibility": [
+            "Applicant should belong to the Scheduled Caste / Scheduled Tribe category.",
+            "He/she should represent/own any MSEs unit.",
+            "MSEs availing loans from any Scheduled Commercial Banks, Non-Banking Finance Companies (NBFCs), and State Finance Corporations will be considered under the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Self-certified copy of Udyam Registration (UR) & GST (if applicable).",
+            "Self-certified copy of PAN Card in case of proprietorship, PAN card of SC/ST proprietor ought to be submitted.",
+            "Copy of Caste Certificate of proprietor/ all partners/ directors.",
+            "Details of shareholding in case of partnership / Pvt. Ltd / LLP firm.",
+            "Bank attested (signature with stamp) debit statement with Bank Loan Processing Fee charges mentioning Loan number and applicant MSE's name/valid payment receipt/ original receipt of bank loan processing fee paid by the applicant/ system generated GST Invoice, etc.",
+            "Business loan availment certificate/ disbursement certificate/bank statement substantiating the fact that business loans have been availed.",
+            "Bank attested (signature with stamp) copy of loan sanction letter.",
+            "Cancelled Cheque of the current account of the enterprise from which Bank loan processing charges have been debited.",
+            "Proof of transferred amount as reimbursement by NSSHO/ NSIC through PFMS under the scheme, where any such assistance is availed earlier within the same financial year."
+        ],
+        "faqs": [
+            {
+                "question": "What is Bank loan processing fee Reimbursement Scheme?",
+                "answer": "The Bank Loan Processing Fee Reimbursement Scheme comes under the purview of the Ministry of Micro, Small and Medium Enterprises (MSME) of the Government of India."
+            },
+            {
+                "question": "What are the scheme benefits?",
+                "answer": "The assistance under this scheme for reimbursement of Bank Loan Processing Fee is limited to 80% of the fee or Rs. 1,00,000 (excluding GST and other applicable taxes) whichever is less."
+            },
+            {
+                "question": "Who can get the scheme benefits?",
+                "answer": "Applicant should belong to the Scheduled Caste / Scheduled Tribe category, represent/own any MSEs unit, and avail loans from any Scheduled Commercial Banks, Non-Banking Finance Companies (NBFCs), and State Finance Corporations."
+            },
+            {
+                "question": "Is there a limitation on availing the benefits of this scheme?",
+                "answer": "No. The benefits can be availed multiple times in a financial year by SC/ST MSEs, but the financial assistance shall be restricted to the ceiling which is Rs. 1,00,000 (excluding GST and other applicable taxes)."
+            },
+            {
+                "question": "What kind of loans are eligible for benefits under the scheme?",
+                "answer": "SC/ST MSEs who avail loans from any Scheduled Commercial Banks, Non-Banking Finance Companies (NBFCs) and State Finance Corporations may be considered under the Scheme."
+            },
+            {
+                "question": "How should I apply to avail benefit under the scheme?",
+                "answer": "You may apply online on National SC-ST website www.scsthub.in or visit the nearest CSC-VLEs to apply online."
+            },
+            {
+                "question": "Whether I can club this scheme benefit with another scheme?",
+                "answer": "Clubbing this scheme with any other scheme is not permitted."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://www.scsthub.in/sites/default/files/schemes/NSSH_Guidelines_Sub_scheme__0.pdf"
+            },
+            {
+                "type": "Signup",
+                "url": "https://scsthub.in/nssh-schemes/home/userRegistration"
+            },
+            {
+                "type": "Login",
+                "url": "https://scsthub.in/nssh-schemes/"
+            }
+        ],
+        "tags": [
+            "Entrepreneurship",
+            "Financial Assistance",
+            "MSME",
+            "Reimbursement"
+        ]
+    }
+}

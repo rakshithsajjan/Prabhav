@@ -1,0 +1,110 @@
+{
+    "content": {
+        "title": "Interest Subsidy",
+        "state": "Puducherry",
+        "department": "Industries and Commerce Department",
+        "type": "Subsidy",
+        "beneficiary": "Entrepreneurs (SC/ST/Women/Physically Handicapped/Ex-Servicemen)",
+        "details": "The 'Interest Subsidy' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Industries and Commerce Department, Union Territory of Puducherry. The industrial units which have availed loans from financial institutions towards the creation of fixed assets and for working capital shall be eligible for an interest incentive to an extent of 25% of the annual interest amount paid. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "benefits": [
+            "An interest incentive to an extent of 25% of the annual interest amount paid for five years for industries set up by SC/ST/Women entrepreneurs that commenced production on or after 2-8-2004, with a maximum of \u20b975,000/- per financial year.",
+            "25% interest subsidy subject to a maximum of \u20b95,00,000/- per annum for a period of 5 years for industries set up by SC/ST/Women/Physically Handicapped/Ex-Servicemen entrepreneurs that commenced production on or after 24-8-2011."
+        ],
+        "eligibility": [
+            "The industry should be set up by SC/ST/Women Entrepreneur OR The industry should be a 'Thrust Area Industry' or an 'IT Sector Industry'.",
+            "The industrial unit should have availed of a loan from a financial institution towards the creation of fixed assets and working capital.",
+            "The industry should have commenced production on or after 2-8-2004.",
+            "OR The industry should be set up by SC/ST/Women/Physically Handicapped/Ex-Servicemen Entrepreneur OR The industry should be a 'Thrust Area Industry' or an 'IT Sector Industry'.",
+            "The industry should have availed the loan on or after 24-8-2011 from a financial institution towards the creation of fixed assets and working capital.",
+            "The industry should have commenced production on or after 24-8-2011."
+        ],
+        "application_process": "Offline. The industrial unit should register the claim for the grant of incentive/subsidy in the prescribed form available on the Official Website of the Directorate of Industries and Commerce, Puducherry. The application form must be filled with all mandatory fields and submitted to the concerned authority.",
+        "documents_required": [
+            "Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration/ Commencement of Production Certificate.",
+            "Caste certificate from the competent authority in the case of Scheduled Caste/Scheduled Tribe (SC/ST) Entrepreneurs.",
+            "Loan Sanction Letter.",
+            "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
+            "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
+            "Month-wise Interest Paid Statement from the Finance Institution/Bank Along With No-due Certificate.",
+            "List of Employees Covered Under the Provident Fund Scheme Along With Wage/Salary Payment Particulars.",
+            "Provident Fund Remittance for the Claiming Period.",
+            "Notary Affidavit.",
+            "'No Due Certificate of Interest' issued by the financial institution/bank etc."
+        ],
+        "tags": [
+            "Finance",
+            "Incentive",
+            "Interest",
+            "Loan",
+            "Subsidy"
+        ],
+        "faqs": [
+            {
+                "question": "Are there any deadlines for submitting applications for the Interest Subsidy scheme?",
+                "answer": "Yes, for new units, applications should be submitted within one year from the date of obtaining the Entrepreneurs Memorandum Part-2/Permanent Registration/Commencement of Production Certificate. For existing units, the deadline is within one year of completion of Expansion/Diversification/Modernization."
+            },
+            {
+                "question": "What is the purpose of providing a 'No Due Certificate of Interest' issued by the financial institution/bank?",
+                "answer": "The 'No Due Certificate of Interest' is provided to certify that the industrial unit has cleared all outstanding interest payments to the financial institution, indicating compliance with the scheme requirements."
+            },
+            {
+                "question": "Why is a month-wise interest paid statement from the financial institution necessary for claiming the Interest Subsidy?",
+                "answer": "This statement is necessary to provide evidence of the interest paid by the industrial unit to the financial institution, which is essential for calculating the subsidy amount."
+            },
+            {
+                "question": "Is a caste certificate necessary for all applicants under the Interest Subsidy scheme?",
+                "answer": "Yes, a caste certificate from the competent authority is necessary for Scheduled Caste/Scheduled Tribe (SC/ST) Entrepreneurs to avail of the benefits under the scheme."
+            },
+            {
+                "question": "Which financial institutions are considered for loan availed by industrial units under the Interest Subsidy scheme?",
+                "answer": "Financial institutions include PIPDIC, Scheduled Banks including Co-operative Banks, and Government-sponsored Co-operative Societies, among others."
+            },
+            {
+                "question": "What are the conditions regarding loan availed by industrial units for eligibility for the Interest Subsidy?",
+                "answer": "Industrial units should have availed loans from financial institutions for the creation of fixed assets and working capital."
+            },
+            {
+                "question": "What is the maximum annual subsidy amount for industries set up by SC/ST/Women/Physically Handicapped/Ex-Servicemen entrepreneurs?",
+                "answer": "The maximum annual subsidy amount for these industries is \u20b95,00,000/- per annum for a period of 5 years, subject to specific conditions outlined in the scheme."
+            },
+            {
+                "question": "Through what mode is the subsidy disbursed for self-financed units under the Interest Subsidy scheme?",
+                "answer": "The subsidy for self-financed units is disbursed directly to the entrepreneurs, as specified in the scheme guidelines."
+            },
+            {
+                "question": "How is the interest subsidy disbursed for industrial units accommodated in sheds or premises owned by Government departments?",
+                "answer": "For such units, the rent fixed by the respective organization is taken into account for calculating the subsidy."
+            },
+            {
+                "question": "What is the maximum amount of interest incentive admissible to an industry under the Interest Subsidy scheme?",
+                "answer": "The maximum amount of interest incentive admissible to each industry is \u20b975,000/- in any financial year, as per the scheme guidelines."
+            },
+            {
+                "question": "Where can applicants find the prescribed form for applying for the Interest Subsidy scheme?",
+                "answer": "Applicants can find the prescribed form for applying for the Interest Subsidy scheme on the Official Website of the Directorate of Industries and Commerce, Puducherry."
+            },
+            {
+                "question": "How are applications for the Interest Subsidy scheme processed?",
+                "answer": "Applications for the Interest Subsidy scheme are processed by the Industries Department to obtain sanctions, and they do not need to be placed before a State Level Committee."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://industry.py.gov.in/sites/default/files/subsidy-g.o-2012.pdf"
+            },
+            {
+                "type": "Application Form & Documents Required",
+                "url": "https://industry.py.gov.in/common-application-subsidies"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+            },
+            {
+                "type": "Helpline",
+                "url": "https://industry.py.gov.in/state-helpline"
+            }
+        ]
+    }
+}

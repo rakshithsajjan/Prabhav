@@ -1,0 +1,101 @@
+{
+    "content": {
+        "title": "Vidhva Vivah Uphar Yojana",
+        "state": "Rajasthan",
+        "department": "Social Justice and Empowerment Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Widow Women",
+        "details": "Vidhwa Vivah Uphar Yojana is a government scheme that assists in the process of marriage of widows. This scheme is for those widows who have decided to start a new life after the time spent with their former husbands. The government provides a certain amount to widows, which can be used in the marriage of widows. The money is used to help widows meet the comfortable needs of their new home.",
+        "benefits": [
+            "Financial Assistance/Gift amount \u20b951,000/-"
+        ],
+        "eligibility": [
+            "Applicant must be a widow women from Rajasthan State.",
+            "Applicant must be resident of Rajasthan or living in Rajasthan for 3 years before re-marriage.",
+            "Applicant should be entitled to pension as per widow pension rules.",
+            "Applicant age should be between 18-50 years.",
+            "If the applicant has remarried before this scheme then he/she will not be eligible."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhar Card Copy",
+            "Address Proof Copy",
+            "Bank Passbook Copy",
+            "Birth Certificate Copy : For age proof",
+            "Death Certificate Copy : of Husband",
+            "Jan Aadhar/Bhamashah Card Copy",
+            "Passport Size Photo"
+        ],
+        "faqs": [
+            {
+                "question": "Where to apply for Vidhwa Vivah Uphar Yojana Rajasthan?",
+                "answer": "The Rajasthan government's Social Justice and Empowerment Department launched the 'Vidhva Vivah Uphar Yojana' program, a social welfare initiative that aims to improve the lives of widow women."
+            },
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "Financial support is provided."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, only for Rajasthan."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "The applicant must have the following documents: 1. Aadhar Card Copy. 2. Address Proof Copy. 3. Bank Passbook Copy. 4. Birth Certificate Copy : For age proof. 5. Death Certificate Copy : of Husband. 6. Jan Aadhar/Bhamashah Card Copy. 7. Passport Size Photo."
+            },
+            {
+                "question": "What is Bhamashah Card?",
+                "answer": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+            },
+            {
+                "question": "Is this scheme only for Widows?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries."
+            },
+            {
+                "question": "What is IFSC code?",
+                "answer": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India."
+            },
+            {
+                "question": "How many times can the applicant avail of the benefits of the scheme?",
+                "answer": "Only once."
+            },
+            {
+                "question": "Is this scheme for Urban area only?",
+                "answer": "No, this is for Urban and Rural both."
+            },
+            {
+                "question": "Is there any age restriction for widows to avail benefits under this scheme?",
+                "answer": "Applicant's age should be 18 to 50 years."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/SJED/WRGS/DOC_127_ce05b729-3a99-44fd-b802-be312cee404c.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/127"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Marriage",
+            "Widow",
+            "Women"
+        ]
+    }
+}

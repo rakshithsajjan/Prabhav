@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "National Overseas Scholarship For Scheduled Tribes (ST) Students",
+        "state": "India",
+        "department": "Ministry Of Tribal Affairs",
+        "type": "Scholarship",
+        "beneficiary": "Scheduled Tribes (ST) students",
+        "details": "A scholarship scheme by the Ministry of Tribal Affairs for regular, full-time students from Scheduled Tribes, to obtain higher education (post-graduate courses viz. Masters, Ph.D. and Post-Doctoral Research) from foreign institutes/universities. The Scheme is implemented through the Indian Embassies/Missions abroad, Ministry of External Affairs. 30% of the scholarship awards are earmarked for female candidates. Bachelor-level courses in any discipline are not covered under the scheme. Financial assistance is provided till completion of the course/research or the prescribed duration of the course, whichever is earlier.",
+        "benefits": [
+            "Tuition fee",
+            "Annual Maintenance allowance of USD 15400",
+            "Contingency Charges of USD 1532",
+            "Poll Tax",
+            "Visa Fee",
+            "Medical Insurance",
+            "Cost of Air journey",
+            "Incidental Journey expenses"
+        ],
+        "eligibility": [
+            "The applicant must be from a Scheduled Tribe (ST).",
+            "The applicant must be pursuing a post-graduate course (Master, Ph.D., or Post-Doctoral Research) from a foreign institute/university.",
+            "The annual income of the family of the applicant (from all sources) should not be greater than \u20b9 6,00,000/-.",
+            "The applicant must have secured at least 55% marks or equivalent grade in the qualifying examination.",
+            "The applicant must be the only child in the family who is availing/has availed of this scholarship.",
+            "Age criteria apply based on the level of study."
+        ],
+        "exclusions": [
+            "Bachelor-level courses in any discipline are not covered under the scheme.",
+            "The award of the scholarship will be cancelled if the awardee has taken admission by submitting false documents or not conforming to the guidelines."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Profile/Personal Photo (Image file only)",
+            "Date of Birth (D.O.B) Certificate (10th Marksheet/ Certificate in PDF only)",
+            "Family Income Certificate (PDF only)",
+            "Master Degree (Marksheet) and Conversion factor formulae from CGPA to equivalent percent of mark (if applied in Ph.D or Post Doctoral Research) (PDF only)",
+            "Ph.D (Marksheet) and Conversion factor formulae from CGPA to equivalent percent of mark (if applied in Post Doctoral Research) (PDF only)",
+            "Graduation(Marksheet) and Conversion factor formulae from CGPA to equivalent percent of mark (if applied in Master Degree) (PDF only)",
+            "ST Certificate (PDF only)",
+            "PVTG Certificate (If belongs to PVTG) (PDF only)",
+            "Copy of latest Tax-Assesment (ITR/ Form-16) (PDF only)",
+            "Admission or Offer Letter (PDF only)"
+        ],
+        "tags": [
+            "Scholarship",
+            "Higher Education",
+            "Scheduled Tribes",
+            "Overseas Education"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for National Overseas Scholarship Scheme?",
+                "answer": "This scheme is open for all ST students who are currently pursuing or wish to opt for higher studies abroad for Masters, PhD & Post-Doctoral research programme."
+            },
+            {
+                "question": "How many slots/awards available for National Overseas Scholarship?",
+                "answer": "There are 20 slots/awards available for National Overseas Scholarship each year."
+            },
+            {
+                "question": "Is there any family income criteria required for availing the Scholarship?",
+                "answer": "The Total family\u2019s income from all sources of the candidate or his/her parents/guardians or spouse should not exceed Rs. 6,00,000/- per annum."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://tribal.nic.in/downloads/guidelines/NOS/RevisedGuidelinesNOS07102022.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://tribal.nic.in/downloads/faqs/National-Overseas-Scholarship-FAQs.pdf"
+            },
+            {
+                "type": "Instruction Manual For Application Process",
+                "url": "https://tribal.nic.in/downloads/faqs/Instruction-manual-NOS-2022-23.pdf"
+            },
+            {
+                "type": "NOS Advertisement 2022-23",
+                "url": "https://tribal.nic.in/downloads/circulars/NOS-advertisment%20english%20version-2022-23.pdf"
+            }
+        ]
+    }
+}

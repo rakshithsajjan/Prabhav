@@ -1,0 +1,53 @@
+{
+    "content": {
+        "title": "Swachh Bharat Mission \u2013 Urban 2.0",
+        "state": "India",
+        "department": "Ministry Of Housing & Urban Affairs",
+        "type": "Sanitation Scheme",
+        "beneficiary": "Urban households",
+        "details": "A sanitation scheme for the construction of Individual Household Latrines (IHHL) for urban households. The Mission has the following components: 1. Household toilets, including conversion of insanitary latrines into pour-flush latrines. 2. Community toilets 3. Public toilets 4. Solid waste management 5. IEC & Public Awareness 6. Capacity building and Administrative & Office Expenses (A&OE)",
+        "benefits": [
+            "Financial support of minimum Rs - 6667 in various states",
+            "Financial support of Rs - 12,000 in certain states",
+            "Financial support of Rs - 5333 in Union Territories"
+        ],
+        "eligibility": [
+            "Any household that does not have access to an individual household toilet",
+            "Households engaging in open defecation",
+            "Households with an insanitary toilet"
+        ],
+        "exclusions": [],
+        "application_process": "Applicant creates an Applicant Login ID by registering on IHHL using Name, Mobile Number, Email, Address, ID Type, ID Number. After successful login, the applicant enters geographical particulars and toilet owner's particulars. After successful submission, an IHHL Application Acknowledgement slip is generated.",
+        "documents_required": [
+            "Aadhar Linked Transfer of Incentive",
+            "Aadhar Number",
+            "Bank Account Detail - Passbook",
+            "Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "How will I receive my financial support under the Scheme?",
+                "answer": "All financial incentives will be deposited directly into the bank accounts of the beneficiary households."
+            },
+            {
+                "question": "Will I receive the entire amount in one go if I am eligible for the scheme?",
+                "answer": "No, 50% of the incentive will be released on approval by the ULB. The remaining 50% will be released upon verification of physical progress."
+            },
+            {
+                "question": "Where can I upload the picture of the toilet to claim remaining amount?",
+                "answer": "You can upload the picture at http://swachhbharaturban.gov.in/ihhl/writereaddata/UserManual_ToiletPhotoUpload_CSC_ULB_Applicant.pdf"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/sbm-u"
+            }
+        ],
+        "tags": [
+            "Sanitation",
+            "Urban Development",
+            "Government Scheme"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Health Minister\u2019s Discretionary Grant",
+        "state": "India",
+        "department": "Ministry Of Health & Family Welfare",
+        "type": "Grant",
+        "beneficiary": "Financially poor patients",
+        "details": "A health scheme by Ministry of Health & Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals, for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities are not available. Only those having annual family income up to Rs.1.25,000/- and below are eligible for financial assistance from Health Minister\u2019s Discretionary Grant (HMDG). Under this scheme, Financial assistance is provided towards treatment in Government hospitals including super specialty Government hospitals / institutes.",
+        "benefits": [
+            "Financial Assistance of \u20b950,000/- if the estimated cost of treatment is up to \u20b91,00,000/-",
+            "Financial Assistance of \u20b975,000/- if the estimated cost of treatment is above \u20b91,00,000/- & up to \u20b91,50,000/-",
+            "Financial Assistance of \u20b91,00,000/- if the estimated cost of treatment is above \u20b91,50,000/-"
+        ],
+        "eligibility": [
+            "The applicant must not be an employee of either Central or State Govt.",
+            "The applicant must have been Hospitalized / Undergoing Treatment in a Government Hospital (including super specialty Government hospitals / institutes).",
+            "The Total Annual Family Income of the applicant must not exceed \u20b91,00,000/- per annum."
+        ],
+        "exclusions": [
+            "Prolonged treatment involving recurring expenditure is not permissible.",
+            "Diseases of common nature where treatment is not expensive.",
+            "T.B. cases",
+            "Cases for treatment in private hospital.",
+            "Central as well as State Government employees."
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Application form in prescribed proforma duly signed by the treating doctor and countersigned by the Medical Superintendent of the Government hospital/institute.",
+            "Quantum of financial assistance granted to the patient is- (a) Rs.75,000/-, if the estimated cost of treatment is up to Rs.1,25,000/-(b) Rs.1,00,000/- if the estimated cost of treatment is above Rs.1,25,000/- and up to Rs.1,75,000/- and (c) Rs.1,25,000/- if the estimated cost of treatment is above Rs.1,75,000/-.",
+            "A Certificate in original from the BDO/ Tehsildar/Collector /SDM (quoting full name, designation, telephone number and complete official address of the certificate issuing authority) regarding occupation and monthly/yearly income of the applicant and his/her family members from all sources.",
+            "Copy of the ration card."
+        ],
+        "faqs": [
+            {
+                "question": "I am admitted in a government hospital and the expenditure on my treatment is expected to be beyond \u20b950,000/-. What is the maximum amount of financial assistance I can expect through this grant?",
+                "answer": "Financial Assistance of \u20b950,000/- if the estimated cost of treatment is up to \u20b91,00,000/-."
+            },
+            {
+                "question": "Is the assistance provided as a lump sum or on monthly basis?",
+                "answer": "The assistance is provided as per the requirement of the treatment and can be monthly or lumpsum."
+            },
+            {
+                "question": "What would be the mode of payment of the financial assistance?",
+                "answer": "The assistance will either be paid in cash or paid online."
+            },
+            {
+                "question": "Are there any exclusions to the eligible beneficiaries?",
+                "answer": "Yes, the following are not eligible to avail benefits under HMDG: Prolonged treatment involving recurring expenditure is not permissible. diseases of common nature where treatment is not expensive. T.B. cases Cases for treatment in private hospital. Central as well as State Government employees."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "The mandatory fields have a red asterisk (*) mark at the end."
+            },
+            {
+                "question": "Can I submit the application form online?",
+                "answer": "No, the application needs to submitted offline."
+            },
+            {
+                "question": "What do I write in 'Itemwise breakup of expenditure' field. Where do I get it from?",
+                "answer": "The Itemwise breakup of expenditure can be requested from the hospital staff."
+            },
+            {
+                "question": "In the application, can I request for treatment in private hospital?",
+                "answer": "No, cases for treatment in private hospital are not entertained under this grant."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://main.mohfw.gov.in/major-programmes/poor-patients-financial-assistance/health-ministers-discretionary-grant-hmdg"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Financial Assistance",
+            "Government Scheme"
+        ]
+    }
+}

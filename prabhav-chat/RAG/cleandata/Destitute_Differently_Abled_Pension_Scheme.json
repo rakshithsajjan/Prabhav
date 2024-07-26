@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Destitute Differently Abled Pension Scheme",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Nutritious Meal Programme Department",
+        "type": "Pension",
+        "beneficiary": "Destitute differently-abled persons aged 45 years and above with a disability of 60% and above",
+        "details": "The 'Destitute Differently Abled Pension Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to provide a pension of \u20b91,000/- to differently-abled persons with disability 60% and above. One free saree to females and one free dhoti to males is given on Pongal and Diwali. A nutritious meal is provided to the beneficiaries.",
+        "benefits": [
+            "\u20b91,000/- per month pension",
+            "One free dhoti to a male pensioner during Pongal and Deepavali",
+            "One free saree to a female pensioner during Pongal and Deepavali",
+            "2kg/month of rice to those taking nutritious meal",
+            "4kg/month of rice to those not taking nutritious meal"
+        ],
+        "eligibility": [
+            "The applicant should be a hearing and speech-impaired person",
+            "The applicant's age should be 45 years and above",
+            "The applicant should have a disability of 60% or above",
+            "The applicant should not have any source of income or means of subsistence to support",
+            "The applicant should not be a habitual beggar",
+            "The applicant should not be supported by a son or son's son aged 20 years or above",
+            "The applicant should not possess property valued at more than \u20b95000/-"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit (during office hours) the Special Tahsildar/Village Administrative Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Alternatively, the interested applicant can apply using a white paper. After filling in all mandatory fields and attaching copies of all required documents, the applicant should submit the application form to the Special Tahsildar/Village Administrative Officer and request a receipt or acknowledgment.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Proof of age",
+            "Bank Passbook",
+            "Disability Certificate",
+            "Any other document if required"
+        ],
+        "faqs": [
+            {
+                "question": "Who are the beneficiaries of this pension scheme?",
+                "answer": "Destitute differently-abled persons aged 45 years and above, with a disability of 60% and above, including those who are hearing and speech impaired."
+            },
+            {
+                "question": "How much financial assistance is provided under this scheme?",
+                "answer": "\u20b91,000 per month is provided as pension."
+            },
+            {
+                "question": "What are the age criteria for eligibility in this scheme?",
+                "answer": "The beneficiary must be 45 years of age or above."
+            },
+            {
+                "question": "Can someone with any source of income apply for this scheme?",
+                "answer": "No, the applicant should not have any source of income or means of subsistence."
+            },
+            {
+                "question": "Is a habitual beggar eligible for this scheme?",
+                "answer": "No, habitual beggars are not eligible."
+            },
+            {
+                "question": "What provision is there for age limit relaxation?",
+                "answer": "The age limit can be relaxed by the District Committee, consisting of the District Collector, District Social Welfare Officer, and District Medical Officer."
+            },
+            {
+                "question": "How can one apply for this pension scheme?",
+                "answer": "Applications can be submitted in white paper or in the prescribed format to the Special Tahsildar (Social Security Scheme) or the Village Administrative Officer."
+            },
+            {
+                "question": "What is the time limit for processing the application?",
+                "answer": "The application should be processed within one month from the date of receipt."
+            },
+            {
+                "question": "Who should be contacted for further information regarding the scheme?",
+                "answer": "The Special Tahsildar (Social Security Scheme) or the Tahsildar should be contacted."
+            },
+            {
+                "question": "To whom should grievances be reported if there are any issues?",
+                "answer": "Grievances should be reported to the Revenue Divisional Officer or the District Collector."
+            },
+            {
+                "question": "Can the pension amount be increased in the future?",
+                "answer": "The current document does not specify this, but any changes in the pension amount would typically be announced by the relevant authorities or government bodies."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/whatsnew/socialwelfare.pdf"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Differently Abled",
+            "Financial Assistance",
+            "Tamil Nadu"
+        ]
+    }
+}

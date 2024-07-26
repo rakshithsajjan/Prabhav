@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "AlCTE - Distinguished Professional Scheme",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Honorarium",
+        "beneficiary": "Professors, Students",
+        "details": "The All India Council for Technical Education (AICTE), under the Ministry of Education, has launched the AICTE-Distinguished Professionals Scheme. This initiative aims to enhance the quality of technical education in India by leveraging the expertise of professionals, emeritus professors, and eminent personalities.",
+        "benefits": [
+            "Honorarium of \u20b915,000 per day for full-day interaction with faculty members/students.",
+            "Travel and local hospitality arrangements will be managed by the host institution.",
+            "Professionals are encouraged to visit at least three rural institutions per year."
+        ],
+        "eligibility": [
+            "The applicant must have made unparalleled technical or professional contributions to society in their respective fields.",
+            "The applicant should have acknowledged leader (Professionals) in their particular field with active engagement in research, technology development, and innovation.",
+            "The applicant should conduct 2 visits per month with a maximum of 12 visits per year."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Resume/CV (Profile in pdf format).",
+            "Educational Document (Degree, Master (If any), Ph.D. (If any) all in one pdf in chronological order).",
+            "Experience Certificate (In Chronological order).",
+            "Evidence for Recognized Contribution in your field.",
+            "Evidence of a career commitment to excellence in teaching research or creativity activities, and service to the University and the community at large.",
+            "Evidence of an outstanding reputation in student supervision, mentorship, and educational leadership."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the AICTE-Distinguished Professionals Scheme (DPS)?",
+                "answer": "The objective of the AICTE-Distinguished Professionals Scheme (DPS) is to utilize the expertise of highly qualified professionals to motivate and inspire students and faculty members of AICTE-approved institutes."
+            },
+            {
+                "question": "Who is eligible to apply for the DPS?",
+                "answer": "Eligible applicants must have made unparalleled, exceptional technical/professional contributions to society in their respective fields/disciplines and be acknowledged leaders in their specializations."
+            },
+            {
+                "question": "What is the tenure for professionals selected under the DPS?",
+                "answer": "Professionals selected under the DPS have a tenure of three years or until they reach the age of 75, whichever comes earlier, with the possibility of extension subject to fitness."
+            },
+            {
+                "question": "How much honorarium is provided to the professionals per day of interaction?",
+                "answer": "AICTE provides an honorarium of \u20b915,000 per day for full-day interactions with faculty members/students of the host institute and nearby institutions."
+            },
+            {
+                "question": "How can individuals apply for the DPS?",
+                "answer": "Individuals can apply for the DPS by submitting nominations/applications with all necessary details through a Google form."
+            },
+            {
+                "question": "What expenses are expected to be covered by the host institute?",
+                "answer": "The host institute is expected to cover all travel and logistics expenses, provide necessary administrative support, and offer local hospitality to ensure the success of the professional's visit."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.aicte-india.org/sites/default/files/fds/DPS%20%20Scheme%20Document%202024.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.aicte-india.org/schemes/staff-development-schemes"
+            }
+        ],
+        "tags": [
+            "AICTE",
+            "Technical Education",
+            "Honorarium",
+            "Professors",
+            "Students"
+        ]
+    }
+}

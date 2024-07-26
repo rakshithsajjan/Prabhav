@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "PM-YASASVI: Top Class School Education for OBC, EBC and DNT Students",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Students belonging to OBC, EBC, and DNT categories",
+        "details": "The PM-YASASVI scheme provides educational assistance to students from Other Backward Classes (OBCs), Economically Backward Classes (EBCs), and Denotified, Nomadic Tribes (DNT). It funds their education from Class 9 to Class 12 in Top Class Schools identified under the scheme.",
+        "benefits": [
+            "Tuition fee coverage",
+            "Hostel fee coverage",
+            "Other school-related charges",
+            "Maximum of \u20b975,000 per annum for Classes 9 and 10",
+            "Maximum of \u20b91,25,000 per annum for Classes 11 and 12"
+        ],
+        "eligibility": [
+            "Students must belong to OBC, EBC, or DNT categories",
+            "Household annual income must be less than \u20b92.5 lakhs",
+            "Students must be studying in Top Class Schools"
+        ],
+        "exclusions": [
+            "Students studying in schools assisted under this Scheme are not eligible for assistance under any other government scheme for the same items/purposes."
+        ],
+        "application_process": "Online application through the National Scholarship Portal.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Passport size photograph",
+            "Educational qualification marksheets/certificates",
+            "Valid Income certificate issued by the competent Authority",
+            "Domicile Certificate",
+            "Caste/Community Certificate issued by the competent authority",
+            "Disability certificate, if applicable",
+            "Bank Account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "To provide premium education to meritorious students belonging to OBC, EBC, and DNT categories by funding their education from Class 9 onwards till they complete Class 12."
+            },
+            {
+                "question": "How is the scheme implemented?",
+                "answer": "The scheme is implemented by the Ministry of Social Justice and Empowerment, in collaboration with State Governments and the National Scholarship Portal."
+            },
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "All OBC, EBC, and DNT students studying in Top Class Schools with a household annual income of less than \u20b92.5 lakhs."
+            },
+            {
+                "question": "How are slots allocated for each state under the scheme?",
+                "answer": "Slots are allocated based on the OBC population data to ensure equitable distribution."
+            },
+            {
+                "question": "What expenses does the scholarship cover?",
+                "answer": "The scholarship covers tuition fees, hostel fees, and other charges, up to \u20b975,000 for Classes 9 and 10, and \u20b91,25,000 for Classes 11 and 12."
+            },
+            {
+                "question": "Are there any conditions of eligibility for students?",
+                "answer": "Yes, students must have a household income below \u20b92.5 lakhs and maintain a bank account."
+            },
+            {
+                "question": "Is there any reservation for girls under the scheme?",
+                "answer": "Yes, at least 30% of the scholarships are reserved for girls."
+            },
+            {
+                "question": "How are scholarship funds disbursed?",
+                "answer": "Funds are transferred directly into beneficiaries' bank accounts through the Direct Benefit Transfer (DBT) mode."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "Students can apply on the National Scholarship Portal with their previous class marks."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialjustice.gov.in/public/ckeditor/upload/65661651839791.pdf"
+            },
+            {
+                "type": "National Scholarship Portal",
+                "url": "https://scholarships.gov.in/"
+            }
+        ],
+        "tags": [
+            "PM-YASASVI",
+            "Scholarship",
+            "OBC",
+            "EBC",
+            "DNT",
+            "Education"
+        ]
+    }
+}

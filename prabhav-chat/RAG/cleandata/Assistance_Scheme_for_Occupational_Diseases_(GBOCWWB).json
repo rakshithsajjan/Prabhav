@@ -1,0 +1,106 @@
+{
+    "content": {
+        "title": "Assistance Scheme for Occupational Diseases (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Financial Assistance",
+        "beneficiary": "Building Worker, Construction Worker",
+        "details": "The \u201cAssistance Scheme for Occupational Diseases\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB), Labour, Skill Development & Employment Department, Government of Gujarat. Under the scheme, financial assistance is given to registered construction workers for 15 types of occupational diseases and 23 types of serious injuries.",
+        "benefits": [
+            "Free medical treatment and monthly assistance of \u20b91500/- shall be provided to the registered construction worker under normal circumstances in case of less than 90% disability.",
+            "Free medical treatment and monthly assistance of \u20b93000/- shall be provided to the registered construction worker in case of 90 to 100% disability.",
+            "The above assistance shall be provided up to a maximum limit of \u20b93,00,000/-.",
+            "Financial assistance is provided to the registered construction workers for 15 types of occupational diseases and 23 types of serious injuries."
+        ],
+        "eligibility": [
+            "The construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board will be eligible to get the benefit of this scheme.",
+            "The registered worker who has any type of disability due to an occupational disease or any serious injuries can avail of the benefits under this scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online, Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "Aadhaar Card",
+            "Ration Card",
+            "Caste Category certificate, if applicable",
+            "Proof of age (Birth certificate/Driving Licence/PAN Card/Voter ID Card)",
+            "Self-declaration certificate",
+            "Employer Certificate",
+            "Bank Passbook/cancelled Cheque",
+            "Any other documents as required",
+            "e-Nirman Card of the worker",
+            "Passport-size photograph",
+            "Hospital discharge certificate",
+            "Copy of bank account passbook",
+            "Copy of ration card",
+            "Life Certificate (at the end of six months)",
+            "Certificate with a percentage of disability with the signature of the certifying surgeon",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers this scheme?",
+                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+            },
+            {
+                "question": "What types of benefits are offered under this scheme?",
+                "answer": "The scheme offers free medical treatment and monthly assistance to eligible registered construction workers based on the severity of their disability due to occupational diseases or serious injuries."
+            },
+            {
+                "question": "What is the financial assistance provided under the scheme?",
+                "answer": "Registered construction workers with less than 90% disability receive \u20b91500/- monthly assistance, while those with 90 to 100% disability receive \u20b93000/- monthly assistance."
+            },
+            {
+                "question": "Is there a maximum limit to the financial assistance provided?",
+                "answer": "Yes, the assistance is provided up to a maximum limit of \u20b93,00,000/-."
+            },
+            {
+                "question": "How many types of occupational diseases and serious injuries are covered under the scheme?",
+                "answer": "The scheme covers 15 types of occupational diseases and 23 types of serious injuries."
+            },
+            {
+                "question": "Who is eligible for the benefits under the scheme?",
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible to avail of the benefits."
+            },
+            {
+                "question": "Is the medical treatment provided under the scheme free of cost?",
+                "answer": "Yes, eligible workers receive free medical treatment in government-approved hospitals."
+            },
+            {
+                "question": "How does a registered construction worker apply for benefits under the scheme?",
+                "answer": "The applicant may visit and apply through the Sanman Portal: https://sanman.gujarat.gov.in/"
+            },
+            {
+                "question": "Can an applicant also apply through offline mode?",
+                "answer": "Yes, for availing of the benefits of the scheme, the applicant may visit the district office of District Office of Labour Welfare Board."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://sanman.gujarat.gov.in/Home/BOCWScheme#"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_370_1_Assistance_Scheme_in_Occupational_Diseases.pdf"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/"
+            },
+            {
+                "type": "E-Nirman Portal",
+                "url": "https://enirmanbocw.gujarat.gov.in/Index.aspx"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Financial Assistance",
+            "Free Medical Treatment",
+            "Injuries",
+            "Labour",
+            "Occupational Diseases"
+        ]
+    }
+}

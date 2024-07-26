@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Shri Vajpayee Bankable Yojana",
+        "state": "Gujarat",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Bankable",
+        "beneficiary": "Unemployed persons, including disabled and blind persons",
+        "details": "This scheme aims to supply self-employment to unemployed persons in urban and rural areas. Disabled and blind persons are also eligible to take benefits under this scheme.",
+        "benefits": [
+            "Maximum Limit for Bank Loan: \u20b9.8.00 lakh for the Industries sector, \u20b9.8.00 lakh for the Service sector, \u20b9.8.00 lakh for the Business sector.",
+            "Rate of subsidy on the loan amount varies by area and category.",
+            "Maximum Limit of Subsidy: \u20b9.1,25,000/- for a blind or handicapped person."
+        ],
+        "eligibility": [
+            "Age: 18 to 65 years.",
+            "Qualification: The applicant should have passed the minimum standard fourth OR should have undergone training for a minimum of three months from a private establishment or a minimum of one month from Government recognized Institutes, in the area of the proposed business or should have experience of minimum 1 year in the same activity or should be a hereditary craftsperson.",
+            "No Income criteria."
+        ],
+        "exclusions": [
+            "Meat processing/canning and/or selling or serving.",
+            "Intoxicants manufacturing/storage/sale.",
+            "Crops / Arable Farming / Fisheries / Pig Rearing Centre.",
+            "Any project that creates environmental problems or is prohibited by law."
+        ],
+        "application_process": "Online and Offline. Visit the official website https://blp.gujarat.gov.in/header_home.php for registration and application.",
+        "documents_required": [
+            "Aadhar card copy.",
+            "Vocational Training Certificate.",
+            "Educational qualification certificate.",
+            "Caste certificate.",
+            "Address proof.",
+            "Passport-size photocopy.",
+            "Proof of details of the applicant.",
+            "Bank account passbook.",
+            "School or college identity card.",
+            "Place of business."
+        ],
+        "faqs": [
+            {
+                "question": "What is Shri Vajpayee Bankable Yojana?",
+                "answer": "The scheme aims to provide self-employment to unemployed persons in urban and rural areas of Gujarat. A disabled or blind person can also benefit from this scheme."
+            },
+            {
+                "question": "How much educational qualification is required in Shri Vajpayee Bankable Yojana?",
+                "answer": "At least Class-IV (four) pass or Training/Experience: Must have at least 3 months of training from a private institution appropriate to the profession or at least one month of training from a government recognized institution OR one year of relevant experience in the trade OR should be a heritage craftsman."
+            },
+            {
+                "question": "What Is The Age Limit For Loan In Shree Vajpayee Bankable Yojana?",
+                "answer": "Applicant's age limit should be between 18 years to 65 years."
+            },
+            {
+                "question": "What Is The Maximum Limit Of Loan Facility Through Bank?",
+                "answer": "B.L.P. Through the portal, the applicant can avail loans up to 8 lakhs for industry/services/trade sector."
+            },
+            {
+                "question": "Which businesses are not supported under Re Vajpayee Bankable Yojana?",
+                "answer": "Meat processing/canning and/or selling or serving, intoxicants manufacturing/storage/sale, crops/arable farming/fisheries/pig rearing centre, and any project that creates environmental problems or is prohibited by law."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://www.cottage.gujarat.gov.in/Home-5E25726C3B65-214079-282472242566-5E2572"
+            }
+        ],
+        "tags": [
+            "Self-employment",
+            "Bank Loan",
+            "Subsidy",
+            "Gujarat"
+        ]
+    }
+}

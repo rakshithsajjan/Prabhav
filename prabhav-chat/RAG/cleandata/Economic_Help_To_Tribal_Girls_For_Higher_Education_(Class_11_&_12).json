@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Economic Help To Tribal Girls For Higher Education (Class 11 & 12)",
+        "state": "Rajasthan",
+        "department": "Department of Higher Education",
+        "type": "Educational Grant",
+        "beneficiary": "Student",
+        "details": "Rajasthan state government started a scheme 'Economic Help to Tribal Girls for Higher Education (Class 11 & 12)'. The main objective is to provide benefits to the tribal girls for their higher education, who are studying in government schools by taking admission as regular students for higher education.",
+        "benefits": [
+            "Rs. 3,500/- One time and fully in July"
+        ],
+        "eligibility": [
+            "Should be studying regularly in 11th and 12th in government schools.",
+            "The girl student should belong to the Scheduled Tribe category of Rajasthan.",
+            "The parent/guardian/guardian/husband of the student should not be an income tax payer.",
+            "The student must be a native of Rajasthan.",
+            "The student who is studying by living in the hostel run by the government. They will not be entitled to benefit under the said scheme.",
+            "Must have Vaidya Bhamashah card and Aadhaar card."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Annual Income Of The Parent / Guardian - Non-Tax Payee.",
+            "Janaadhaar Card Details Of Family And Student.",
+            "Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.",
+            "Caste Certificate.",
+            "Birth Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Rajasthan Government started a scholarship for tribal girls higher education (Class 11 & 12) In the year 2011."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Financial Assistance of Rs. 3,500/- One time and fully in July."
+            },
+            {
+                "question": "Who can get the benefits of the scheme?",
+                "answer": "All girl students who are belongs to the Scheduled Tribe category of Rajasthan and full fill the eligibility criteria."
+            },
+            {
+                "question": "Is this scheme only for girls student or boy may also apply?",
+                "answer": "Yes, this scheme is only for Girl students."
+            },
+            {
+                "question": "What Is The Education Qualification For The Scheme?",
+                "answer": "Should be studying regularly in 11th and 12th in government schools."
+            },
+            {
+                "question": "May other state girl student also apply?",
+                "answer": "The Girl student must be native of Rajasthan."
+            },
+            {
+                "question": "What is the financial eligibility for applicant?",
+                "answer": "The parent/guardian/guardian/husband of the student should not be an income tax payer."
+            },
+            {
+                "question": "How To Apply For The Scheme?",
+                "answer": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 3. Select his/her name, the bank account and fill in personal details. 4. Upload the required documents. 5. Click on the 'SUBMIT' button."
+            },
+            {
+                "question": "What Documents Are Needed?",
+                "answer": "1. Aadhaar Card. 2. Annual Income Of The Parent / Guardian - Non-Tax Payee. 3. Janaadhaar Card Details Of Family And Student. 4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student. 5. Caste Certificate. 6. Birth Certificate."
+            },
+            {
+                "question": "What is the official web portal to apply?",
+                "answer": "Use the following link. URL : https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/457"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            }
+        ],
+        "tags": [
+            "Economic Help",
+            "Tribal Girls",
+            "Higher Education",
+            "Rajasthan"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Unnati Scheme",
+        "state": "Karnataka",
+        "department": "Department of Social Welfare",
+        "type": "Grant",
+        "beneficiary": "SC/ST Entrepreneurs",
+        "details": "Unnati, a first of its kind initiative of the Department of Social Welfare, Government of Karnataka intends to provide a comprehensive entrepreneurship platform for startups. The aim of this program is to cater to the end to end requirements of a startup i.e. from identifying the innovation, validating it, providing seed capital and eventually giving them the market access. Under the Unnati Yojana for SC/ST community of Karnataka state government will give up to Rs 50 lakhs rupee financial support to the winning entrepreneurs to develop tech-based solutions. The total investment under the Scheme for Entrepreneurs is Rs 20 crore. This Scheme will be implemented under the two categories. In the first stage of implementation, the Government will provide financial support to the SC/ST Entrepreneurs.",
+        "benefits": [
+            "Financial support of up to Rs 50 lakhs for winning entrepreneurs",
+            "Support for tech-based solutions",
+            "Total investment of Rs 20 crore for entrepreneurs"
+        ],
+        "eligibility": [
+            "Start-ups with an innovative tech based idea/solution.",
+            "Should be registered as an entity (Pvt Ltd/OPC, LLP/Partnership, Proprietorship) in Karnataka.",
+            "At least one of the members/co-founders should belong to SC/ST community or should hold a substantial share.",
+            "Such SC/ST member/co-founder should continue to be a part of the business for at least one year from the date of receiving benefits from the department.",
+            "Terms and conditions of ownership should not be altered to his/her disadvantage during the course of business.",
+            "Total revenue generated in terms of turnover from the date of incorporation should be less than INR 50 Crore.",
+            "At least 50% of qualified workforce should be engaged in Karnataka.",
+            "Less than 4 years from the date of incorporation for Technology based and 7 years for Biotechnology based companies.",
+            "Start-ups applying under social impact should justify how the technological innovations help people belonging to Schedule caste community."
+        ],
+        "exclusions": [
+            "Government employees are not allowed to apply to the scheme.",
+            "Individuals obtaining benefits under this scheme shall not be allowed to avail of benefits under any other scheme for this purpose."
+        ],
+        "application_process": "Online. Step 01: Visit official website karnataka.gov.in. Step 02: Click at Login option. Step 03: Enter your valid email id, mobile no. and click at 'send OTP' button. Step 04: Enter OTP received at registered mobile no. to login. Step 05: Follow the instructions and fill your personal details. Step 06: Choose startup funding for SC/ST application forms. Step 07: Fill all the details in application form and upload all required documents and click submit option.",
+        "documents_required": [
+            "SC/ST Certificate of the candidate Entrepreneurs.",
+            "At least 50% of the qualified workforce.",
+            "Start-up registration documents.",
+            "Aadhar Card Number.",
+            "PAN Number of Founders.",
+            "Startup presentation deck.",
+            "Incorporation or Registration certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits?",
+                "answer": "Under this scheme, 50 Lakhs financial support will be given to the winning entrepreneurs to develop tech-based solutions."
+            },
+            {
+                "question": "Is there any provision of loan associated with this scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "Will women be given priority under this scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "Is there any provision for training under this scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "Who should apply?",
+                "answer": "Only residents of Karnataka State."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://adcl.karnataka.gov.in/pdf/Schemes/Unnati_Scheme/Unnati_en.pdf"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://banjarathanda.kar.nic.in/unnati_scheme.html"
+            }
+        ],
+        "tags": [
+            "Entrepreneurship",
+            "SC/ST",
+            "Karnataka",
+            "Startup",
+            "Financial Support"
+        ]
+    }
+}

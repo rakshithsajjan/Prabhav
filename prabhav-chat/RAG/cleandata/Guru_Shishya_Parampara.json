@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "Guru Shishya Parampara",
+        "state": "Meghalaya",
+        "department": "Ministry of Culture",
+        "type": "Financial Assistance",
+        "beneficiary": "Eminent Practitioners and young talents in the field of art",
+        "details": "The government of India, Ministry of Culture runs a scheme called 'Guru Shishya Parampara Scheme' through Zonal Cultural Centres to preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art under the able guidance of Gurus. The scheme was introduced in 2003-04.",
+        "benefits": [
+            "To preserve and promote rare and vanishing art forms on Classical or Folk/Tribal.",
+            "Financial assistance for Gurus, Accompanists, and Shishyas."
+        ],
+        "eligibility": [
+            "The applicants should be Indian citizens.",
+            "Applicants (Guru) should be Eminent Practitioners/ Resourceful persons in the specified field.",
+            "Applicants (Guru) should be between 45 to 70 years.",
+            "Applicants (Guru) should be physically and mentally sound to run efficiently the Guru Shishya Parampara Kendra.",
+            "The Shishyas should be in the age groups of 15 to 25 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Identification Proof.",
+            "Age Proof.",
+            "Address Proof.",
+            "VCD/DVD/CD/Photograph must be furnished along with the application form."
+        ],
+        "faqs": [
+            {
+                "question": "What is the scope of this scheme?",
+                "answer": "A scheme called 'Guru Shishya Parampara Scheme' to preserve and promote rare and vanishing art forms on Classical or Folk/Tribal so that the young talents be nurtured to acquire skills in their chosen field of art under the able guidance of Gurus."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "The Selected Guru Accompanist and four Shishyas will be appointed for a period of one year. For Gurus: Rs. 7,500/-; For Accompanist (one): Rs. 3,750/-; For Shishyas (Four): Rs. 1,500/- (each)."
+            },
+            {
+                "question": "Who can get the benefits of the scheme?",
+                "answer": "All applicants who are citizens of India and come under the age group between 45 to 70 will be eligible for the scheme."
+            },
+            {
+                "question": "Is there any eligibility percentage of disability?",
+                "answer": "No, there are no such criteria."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://meghalaya.gov.in/sites/default/files/schemes/GSP_Scheme.pdf"
+            }
+        ],
+        "tags": [
+            "Culture",
+            "Dance",
+            "Financial Assistance",
+            "Tradition"
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana",
+        "state": "Jharkhand",
+        "department": "Department of Labour, Employment, Training & Skill Development, Govt. of Jharkhand",
+        "type": "Insurance Scheme",
+        "beneficiary": "Registered Construction Workers (Nirman Shramik / Nirman Karmakar)",
+        "details": "'Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana' is an Insurance Scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. The scheme is also known as the 'Jharkhand Construction Worker Death/Accident Assistance Scheme' in English. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. The applications for this scheme are accepted online through the official website of the department (http://shramadhan.jharkhand.gov.in). The scheme provides social security to all registered workers in the age group of 18-60 years.",
+        "benefits": [
+            "In case of death in an accident, \u20b9 5,00,000/-",
+            "In case of complete disability in an accident, \u20b9 3,00,000/-",
+            "In case of partial disability in an accident, \u20b9 2,00,000/-",
+            "In case of normal death, \u20b9 1,00,000/-"
+        ],
+        "eligibility": [
+            "The applicant should be a domicile in the state of Jharkhand.",
+            "The applicant should be a registered Construction Worker (Nirman Shramik / Nirman Karmakar).",
+            "The applicant should be in the age group of 18-60 years.",
+            "The applicant should have worked for at least 90 days."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card",
+            "Residential Certificate / Domicile Certificate",
+            "Death Certificate (in the case of normal death or death in an accident)",
+            "Disability Certificate (in the case of complete/partial disability)",
+            "Proof of Age / Date of Birth",
+            "eSHRAM Card",
+            "Passport Sized Photograph",
+            "Proof of Registration as a Construction Worker",
+            "Details of the Bank Account",
+            "Income Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What Shall Be The Grant Payable In The Case Of Death In An Accident?",
+                "answer": "In case of death in an accident, \u20b9 5,00,000/- shall be payable."
+            },
+            {
+                "question": "What Shall Be The Grant Payable In The Case Of Complete Disability In An Accident?",
+                "answer": "In case of complete disability in an accident, \u20b9 3,00,000/- shall be payable."
+            },
+            {
+                "question": "What Shall Be The Grant Payable In The Case Of Partial Disability In An Accident?",
+                "answer": "In case of partial disability in an accident, \u20b9 2,00,000/- shall be payable."
+            },
+            {
+                "question": "What Shall Be The Grant Payable In The Case Of Normal Death?",
+                "answer": "In case of normal death, \u20b9 1,00,000/- shall be payable."
+            },
+            {
+                "question": "Which Department Manages This Scheme?",
+                "answer": "This scheme is managed by the Department of Labour, Employment, Training & Skill Development, Govt. of Jharkhand."
+            },
+            {
+                "question": "Is This Scheme State Sponsored Or Centrally Sponsored?",
+                "answer": "This scheme is a 100% State Sponsored Scheme."
+            },
+            {
+                "question": "Can Women Also Apply To This Scheme?",
+                "answer": "Yes, this scheme is open to applicants from all genders."
+            },
+            {
+                "question": "Does This Scheme Accept Offline Applications?",
+                "answer": "No, this scheme only accepts online applications."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "How Do I Track The Status Of My Application?",
+                "answer": "To track the status of your application, follow the stepwise process given below: Step 1: Once submitted, the application goes for 3-level approval: Clerk > Labour Superintendent > DLC. Step 2: Go to Services > BOC Scheme Benefit > Application Status. Step 3: On the next page, fill in your Application ID, and click 'Search'. The status of your application will be displayed in a tabular format."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+            },
+            {
+                "type": "Application Process",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+            },
+            {
+                "type": "District-Wise Contact Details Of Labour Offices",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Construction Worker",
+            "Disability",
+            "Financial Assistance",
+            "Social Welfare"
+        ]
+    }
+}

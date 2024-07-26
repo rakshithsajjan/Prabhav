@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "The Meghalaya Tribal Students\u2019 Book Grant (Post-Matric Education)",
+        "state": "Meghalaya",
+        "department": "Department of Public Instruction",
+        "type": "Grant",
+        "beneficiary": "Students belonging to the Khasi, Jaintia, or Garo communities",
+        "details": "The Meghalaya Tribal Students\u2019 Book Grant provides financial assistance to eligible students for purchasing books and educational materials.",
+        "benefits": [
+            "Financial assistance ranging from \u20b9500 to \u20b91500 per student based on the academic course"
+        ],
+        "eligibility": [
+            "Permanent resident of Meghalaya",
+            "Belonging to the Khasi, Jaintia, or Garo community"
+        ],
+        "exclusions": [
+            "Students pursuing technical or vocational courses",
+            "Non-permanent residents of Meghalaya"
+        ],
+        "application_process": "Applications must be submitted in the prescribed form to the Director of Public Instruction through the institution where the candidate is studying.",
+        "documents_required": [
+            "Prescribed application form",
+            "Utilization certificate"
+        ],
+        "faqs": [
+            {
+                "question": "How is the number of grantees determined?",
+                "answer": "The number of grantees is determined annually by the Department based on the availability of funds in the Budget."
+            },
+            {
+                "question": "How is the selection process carried out?",
+                "answer": "The Selection Committee, constituted by the Department, is responsible for selecting applicants for the grant."
+            },
+            {
+                "question": "Who is responsible for sanctioning the grant?",
+                "answer": "The grant is sanctioned by the Director of Public Instruction based on the recommendation of the Selection Committee."
+            },
+            {
+                "question": "How is the grant disbursed?",
+                "answer": "Grants are disbursed through parents/guardians or directly to the institutions where the students are studying."
+            },
+            {
+                "question": "What are the conditions for utilizing the grant?",
+                "answer": "The grant must be utilized for the purpose for which it is granted, and utilization certificates must be obtained and submitted to the Director of Public Instruction."
+            },
+            {
+                "question": "What factors are considered during the selection process?",
+                "answer": "During the selection process, academic merit and means-based criteria are given due consideration."
+            },
+            {
+                "question": "Can students change their course of study after receiving the grant?",
+                "answer": "Students will not receive further grants if they change their course of study after receiving the grant for a particular course."
+            },
+            {
+                "question": "Is there a provision for modifying the grant amount in the future?",
+                "answer": "Modifications to the grant amount may occur based on future considerations by the Government."
+            },
+            {
+                "question": "Can students from tribes other than Khasi, Jaintia, or Garo apply for the grant?",
+                "answer": "The grant is primarily for students belonging to the Khasi, Jaintia, or Garo communities, but other tribes may be included as decided by the State Government."
+            },
+            {
+                "question": "Are there any age restrictions for applicants?",
+                "answer": "While there are no specific age restrictions mentioned."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/tmtsbg-pme"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Grant",
+            "Meghalaya",
+            "Tribal Students"
+        ]
+    }
+}

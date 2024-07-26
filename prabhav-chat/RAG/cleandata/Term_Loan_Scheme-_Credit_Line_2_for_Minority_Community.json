@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Term Loan Scheme- Credit Line 2 for Minority Community",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Loan",
+        "beneficiary": "Individuals from minority communities",
+        "details": "The scheme 'Term Loan Scheme- Credit Line 2 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans of up to \u20b930,00,000/- are provided at a concessional interest rate to individuals from minority communities to enhance their employability. This applies to those with an annual family income between \u20b998,001/- and \u20b98,00,000/- in rural areas and \u20b91,20,001/- and \u20b98,00,000/- in urban areas. Applicants must be permanent residents of Haryana and belong to minority communities, including Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
+        "benefits": [
+            "Loans of up to \u20b930,00,000/- at a concessional interest rate to enhance employability."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant should be between 18 and 55 years of age.",
+            "The annual family income of the applicant should be between \u20b998,001/- and \u20b98,00,000/- in rural areas and between \u20b91,20,001/- and \u20b98,00,000/- in urban areas.",
+            "The applicant should belong to a minority community, i.e., Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
+            "The applicant should have a Parivar Pehchan Patra (PPP ID)."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity/Citizenship proof i.e. Aadhaar Card",
+            "Proof of age",
+            "Resident Proof/Address Proof/Ownership Proof i.e. Haryana Domicile Certificate",
+            "Caste/Religion Proof",
+            "Parivar Pehchan Patra (PPP ID)",
+            "Copy of PAN Card",
+            "Passport-size photograph of the applicant",
+            "Bank account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum loan amount one can avail under this scheme?",
+                "answer": "Applicants can avail loans up to \u20b930,00,000/-."
+            },
+            {
+                "question": "Which minority communities are covered under this scheme?",
+                "answer": "The scheme covers Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains."
+            },
+            {
+                "question": "What is the age limit for applicants of this scheme?",
+                "answer": "Applicants should be between 18 and 55 years of age."
+            },
+            {
+                "question": "What is the income criteria for rural applicants?",
+                "answer": "Rural applicants should have an annual family income between \u20b998,001/- and \u20b98,00,000/-."
+            },
+            {
+                "question": "What is the income criteria for urban applicants?",
+                "answer": "Urban applicants should have an annual family income between \u20b91,20,001/- and \u20b98,00,000/-."
+            },
+            {
+                "question": "Is it mandatory for applicants to have a Parivar Pehchan Patra (PPP ID)?",
+                "answer": "Yes, applicants must have a Parivar Pehchan Patra (PPP ID)."
+            },
+            {
+                "question": "How can eligible applicants apply for the loan?",
+                "answer": "Applicants can apply online through the Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+            },
+            {
+                "question": "Is there an offline application process for this scheme?",
+                "answer": "No, applications are accepted only through the Antyodaya-SARAL Portal."
+            },
+            {
+                "question": "Can applicants track their application status?",
+                "answer": "Yes, applicants can track their application status through the Official Antyodaya-SARAL Portal at https://status.saralharyana.nic.in/."
+            },
+            {
+                "question": "Can non-residents of Haryana apply for this scheme?",
+                "answer": "No, only permanent residents of Haryana are eligible to apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=rs+oV%2fwCdjLfHSEq3vRWuw%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Credit Line",
+            "Employment",
+            "Minority Community",
+            "Term Loan"
+        ]
+    }
+}

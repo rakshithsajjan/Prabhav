@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Financial Assistive Devices for Persons with Disabilities",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Loan",
+        "beneficiary": "Persons with Disabilities (PwD)",
+        "details": "The scheme 'Financial Assistive Devices for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, loans of up to \u20b95 lakhs are provided to persons with disabilities who are either employed in reputable organizations or have received confirmed appointment letters. These loans can be used to purchase assistive devices such as screen readers, motorized tricycles, scooty, hearing aids, etc., including the cost of retrofitting, to enhance their employability or improve self-employment prospects. A person who is a permanent resident of Haryana and has a disability of 40% or more is eligible to avail the benefits under this scheme.",
+        "benefits": [
+            "Loans of up to \u20b95 lakhs are provided for the purchase of assistive devices such as screen readers, motorized tricycles, scooty, hearing aids, etc., including the cost of retrofitting, to enhance employability or improve self-employment prospects."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant should have a disability of at least 40%.",
+            "The age of the applicant should be above 18 years. For persons with mental retardation, the age is relaxed to 14 years instead of the usual 18 years.",
+            "The applicant should be employed, either working in a reputable organization or have a confirmed appointment letter."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity/Citizenship proof i.e. Aadhaar Card",
+            "Proof of age",
+            "Resident Proof/Address Proof/Ownership Proof i.e. Haryana Domicile Certificate",
+            "Caste/Religion/Community Proof",
+            "Disability Certificate",
+            "Passport-size photograph of applicant",
+            "Bank account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "Permanent residents of Haryana with a disability of 40% or more, aged above 18 years (or 14 years for persons with mental retardation), and employed or having a confirmed appointment letter are eligible."
+            },
+            {
+                "question": "What types of assistive devices can be purchased under this scheme?",
+                "answer": "Assistive devices include screen readers, motorized tricycles, scooty, hearing aids, and the cost of retrofitting."
+            },
+            {
+                "question": "How much loan can be availed under this scheme?",
+                "answer": "Eligible applicants can avail loans up to \u20b95 lakhs."
+            },
+            {
+                "question": "Can self-employed individuals apply for this scheme?",
+                "answer": "Yes, self-employed individuals can apply, and the need for an assistive device will be assessed by the scrutinizing authority."
+            },
+            {
+                "question": "Is there an age relaxation for persons with mental retardation?",
+                "answer": "Yes, the age limit is relaxed to 14 years instead of the usual 18 years for persons with mental retardation."
+            },
+            {
+                "question": "How can one apply for the scheme?",
+                "answer": "Eligible applicants can apply online through the Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+            },
+            {
+                "question": "How can applicants track their application status?",
+                "answer": "Applicants can track their applications through the Antyodaya-SARAL Portal at https://status.saralharyana.nic.in/ by entering their Department Name, Scheme Name, and Application Reference ID."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=R%2fHWDGyVagIM4PkZHu1DQQ%3d%3d"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Assistive Devices",
+            "Disability",
+            "Loan",
+            "PwD"
+        ]
+    }
+}

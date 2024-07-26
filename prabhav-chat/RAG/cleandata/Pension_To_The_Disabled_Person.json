@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Pension To The Disabled Person",
+        "state": "Chandigarh",
+        "department": "Social Welfare, Women & Child Development",
+        "type": "Pension",
+        "beneficiary": "Disable Person",
+        "details": "The Pension to the Disabled Person scheme under the Social Welfare, Women & Child Development Chandigarh is Disability pension to a disabled person granted to Physically Handicapped persons. A person who is disabled to the extent of 40% and is resident of Union Territory of Chandigarh and fulfills the income criteria i.e., family income does not exceed \u20b91.50 lacs per annum. is eligible for a grant of pension. Everyone deserves to live with dignity and respect, regardless of their abilities. Offering a pension to disabled persons recognizes their inherent value and ensures they are not left to live in poverty or dependence.",
+        "benefits": [
+            "The pension payable to each person shall be \u20b91000/- per annum to those persons having 40% to 70% of disability.",
+            "\u20b92000/-per annum to those persons having more than 70% of disability."
+        ],
+        "eligibility": [
+            "The applicant's disability must be to the extent of 40% or above then they will be eligible to avail the benefit of same.",
+            "The applicant must be a resident of UT Chandigarh for more than 3 years.",
+            "The family income of the applicant should not exceed \u20b91.50 lacs annually."
+        ],
+        "exclusions": [
+            "An individual who is disabled less than 40%.",
+            "Individual who is not resident of Chandigarh UT.",
+            "Individual who is resident of Chandigarh for less than 3 years.",
+            "Individual whose family income exceeds Rs.1.50 lacs p.a."
+        ],
+        "application_process": "Step 2: Before you start filling out the form, carefully read any instructions or guidelines provided. Step 3: Collect all the information and documents you will need to complete the form. Step 4: Once you have completed the form, follow the instructions for submission. Step 5: Make a copy of the completed form for your records before submitting it. This will serve as a reference in case you need to refer back to the information provided. Step 6: Submit it to the respective Nodal office/ Nagar Nigam office.",
+        "documents_required": [
+            "Two passport size photographs.",
+            "Certificate of disability having percentage of disability 40% or above.",
+            "Aadhar Card.",
+            "Residence proof of three years (Voter Card, Ration Card, Electricity Bill etc)."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of providing a pension to disabled persons is multifaceted but generally centers around promoting social welfare, equity, and inclusivity."
+            },
+            {
+                "question": "Can NRI apply for this form?",
+                "answer": "Only Indian citizen who are resident of Chandigarh UT for more than 3 years."
+            },
+            {
+                "question": "What is the pension amount?",
+                "answer": "1. The pension payable to each person shall be @Rs.1000/- p.m. to those persons having 40% to 70% of disability. 2. Rs.2000/- p.m. to those persons having more than 70% of disability."
+            },
+            {
+                "question": "Is there any limit on the income of the individual?",
+                "answer": "Family income of the applicant should not exceed Rs. 1.50 lacs annually."
+            },
+            {
+                "question": "Are there any specific documents required for the application?",
+                "answer": "Two passport size photographs. Certificate of disability having percentage of disability 40% or above Aadhar Card. Residence proof of three years (Voter Card, Ration Card, Electricity Bill etc)."
+            },
+            {
+                "question": "Who will get the benefits?",
+                "answer": "All eligible persons from the Chandigarh State."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "Mandatory fields are often marked with asterisks (*) or other symbols like a solid dot or a cross. These symbols indicate that information must be provided in those fields for the form to be considered complete."
+            },
+            {
+                "question": "Who are eligible for this scheme?",
+                "answer": "Person with disability to the extent of 40%."
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Yes, urban area people can apply for this scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/disabled-pension"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Pension",
+            "Social Welfare"
+        ]
+    }
+}

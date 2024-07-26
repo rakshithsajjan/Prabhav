@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Atal Awasiya Vidyala Yojana",
+        "state": "Uttar Pradesh",
+        "department": "Labor Community",
+        "type": "Grant",
+        "beneficiary": "Children of construction workers",
+        "details": "The Atal Awasiya Vidyalaya Yojana is an initiative launched by the Uttar Pradesh government to provide free education to children of construction workers employed in the informal sector. Under this scheme, two children of registered workers between the ages of 6 and 16 receive free residential education in dedicated schools. The scheme is currently being implemented in 18 districts of the state.",
+        "benefits": [
+            "Free education, accommodation, and meals",
+            "Medical facilities",
+            "Sports and recreational activities",
+            "Access to a nurturing environment that fosters personal growth"
+        ],
+        "eligibility": [
+            "Children destitute during the Corona period, identified by the Women Welfare Department, Lucknow.",
+            "Children for the Chief Minister Child Service Scheme (General) are eligible.",
+            "Orphan children and offspring of duly registered construction workers, who have completed at least 01 year (365 days) membership period of the board after registration.",
+            "A maximum of 02 children per registered worker can avail educational benefits."
+        ],
+        "exclusions": [],
+        "application_process": "Applicant must visit the nearest labor office, Tehsildar of the concerned tehsil, or Block Development Officer of the concerned development block. Get the application form, fill it out completely, attach required documents in the prescribed format, and submit the application form in the same office.",
+        "documents_required": [
+            "Parents' Labor Registration cards",
+            "Child birth certificate",
+            "Mark sheet of previous class attended",
+            "Medical certificate (if required)",
+            "Passport size photograph"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme about?",
+                "answer": "The Atal Awasiya Vidyalaya Yojana is an initiative launched by the Uttar Pradesh government to provide free education to children of construction workers employed in the informal sector."
+            },
+            {
+                "question": "What is the scheme benefits?",
+                "answer": "Free education, accommodation, and meals; Medical facilities; Sports and recreational activities; Access to a nurturing environment that fosters personal growth."
+            },
+            {
+                "question": "Who can get the scheme benefits?",
+                "answer": "Children destitute during the Corona period, identified by the Women Welfare Department, Lucknow; Children for the Chief Minister Child Service Scheme (General) are eligible."
+            },
+            {
+                "question": "What is the eligible membership period?",
+                "answer": "At least 01 year (365 days) membership period must be complete of the board after registration."
+            },
+            {
+                "question": "How many children can get the benefits from the same family?",
+                "answer": "A maximum of 02 children per registered worker can avail educational benefits."
+            },
+            {
+                "question": "What is the application process?",
+                "answer": "Firstly applicant get register his/her self with labor department. Submit the application form with required documents to labor department."
+            },
+            {
+                "question": "What documents are required to get the benefits?",
+                "answer": "Parents' Labor Registration cards; Child birth certificate; Mark sheet of previous class attended; Medical certificate (if required); Passport size photograph."
+            },
+            {
+                "question": "Is there any charges for the registration and application process?",
+                "answer": "No, there is no charges."
+            },
+            {
+                "question": "Is there any educational fee need to be submit at the Atal Awasiya Vidyala?",
+                "answer": "No, there is no charges."
+            },
+            {
+                "question": "May other state applicant also apply for this scheme?",
+                "answer": "No."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/aavy"
+            }
+        ],
+        "tags": [
+            "Free Education",
+            "Labor Community",
+            "Life Skill Education"
+        ]
+    }
+}

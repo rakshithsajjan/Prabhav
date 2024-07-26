@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "Post Office Monthly Income Scheme",
+        "state": "India",
+        "department": "Ministry Of Finance",
+        "type": "Investment Scheme",
+        "beneficiary": "Individuals looking for a steady income",
+        "details": "Post Office Monthly Income Scheme (POMIS) is an investment scheme recognized and validated by the Ministry of Finance. It is one of the highest-earning schemes with an interest rate of 6.6%. The interest in this scheme is disbursed monthly. After opening a POMIS account, individuals can invest a suitable amount based on affordability, which, however, should not be less than \u20b91500. It provides low risk and steady income where an investor can deposit every month and get interested of MIS in the post office according to their applicable monthly rate.",
+        "benefits": [
+            "Capital Protection",
+            "Low-risk Investment",
+            "Lock-in Period of 5 years",
+            "Affordable Premium Amount",
+            "Unbeatable by Inflation",
+            "Multiple Fund Owners",
+            "Ease of Transaction",
+            "Good for Risk-averse Investors"
+        ],
+        "eligibility": [
+            "The applicant must be a citizen of India.",
+            "The applicant must be residing in India.",
+            "The applicant should be at least 18 years old."
+        ],
+        "exclusions": [
+            "This system does not apply to non-resident Indians."
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Proof of Identity: Copy of government issued ID such as Passport / Voter ID card / Driving License/Aadhaar, etc.",
+            "Proof of Address: Government-issued ID or recent utility bills.",
+            "Passport size photographs"
+        ],
+        "faqs": [
+            {
+                "question": "How Can I Withdraw Money From My POMIS Account After The Tenure?",
+                "answer": "You can withdraw the deposited amount from the account either from the post office or you can also get it credited in your savings account through ECS."
+            },
+            {
+                "question": "Can I Transfer POMIS Account?",
+                "answer": "Yes, your account can be transferred from one post office to another for absolutely free."
+            },
+            {
+                "question": "Can I Reinvest My Accumulated Amount In POMIS?",
+                "answer": "Yes, it allows the investors to reinvest their accumulated money at the end of the tenure."
+            },
+            {
+                "question": "Is There Any Tax Deduction At Source?",
+                "answer": "No, there is no TDS (Tax Deduction at Source). But, the interests earned are taxable."
+            },
+            {
+                "question": "Is There Any Nomination Facility Available In POMIS?",
+                "answer": "Yes, the scheme allows you to select and appoint a nominee against the account."
+            },
+            {
+                "question": "Can A Senior Citizen Also Invest In POMIS?",
+                "answer": "Yes, POMIS is most suitable for senior citizens and retired persons."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.indiapost.gov.in/Financial/pages/content/post-office-saving-schemes.aspx"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://www.indiapost.gov.in/VAS/DOP_PDFFiles/form/Accountopening.pdf"
+            }
+        ],
+        "tags": [
+            "Investment",
+            "Monthly Income",
+            "Post Office",
+            "Government Scheme"
+        ]
+    }
+}

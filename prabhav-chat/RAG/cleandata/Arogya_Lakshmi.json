@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Arogya Lakshmi",
+        "state": "Telangana",
+        "department": "Women Development and Child Welfare Department",
+        "type": "Nutrition Scheme",
+        "beneficiary": "Pregnant and Lactating Women, Children below 6 years",
+        "details": "The Arogya Lakshmi Scheme provides one nutritious meal every day to pregnant and lactating women and children below the age of six through Anganwadi centers. Launched on January 1, 2015, the scheme aims to reduce maternal and infant mortality rates in Telangana by providing support to women who would otherwise be unable to access quality healthcare services.",
+        "benefits": [
+            "For children between 7 months to 3 years, 16 eggs per month along with 2.5 Kg Balamrutham will be provided.",
+            "Pregnant and lactating women are provided one full meal at the Anganwadi center along with iron and folic acid tablets.",
+            "One full meal will consist of rice, dal with leafy vegetables/sambhar, and vegetables for a minimum of 25 days. Boiled eggs and 200 ml milk for 30 days in a month."
+        ],
+        "eligibility": [
+            "Residency: The pregnant woman or the family with a newborn must be a resident of Telangana.",
+            "Pregnancy: The pregnant woman must be in her first or second trimester of pregnancy to be eligible for the program.",
+            "Delivery: The delivery must take place at a designated healthcare facility or with the assistance of a qualified healthcare provider."
+        ],
+        "exclusions": [
+            "Nonpregnant/not lactating women are not allowed to apply to the scheme.",
+            "Children more than 6 years are also not eligible under this scheme.",
+            "Men are not eligible for this scheme."
+        ],
+        "application_process": "Offline. Applicants can apply through the nearest Anganwadi centers by filling out the application form and submitting it along with the required documents.",
+        "documents_required": [
+            "Aadhar Card",
+            "Ration card",
+            "Proof of age",
+            "Proof of income",
+            "Passport size photograph",
+            "Mobile number"
+        ],
+        "faqs": [
+            {
+                "question": "What is the age of children to use this scheme?",
+                "answer": "Children between 7 months to 6 years."
+            },
+            {
+                "question": "What are the benefits to children under this scheme?",
+                "answer": "For children between 7 months to 3 years, 16 eggs per month will be provided and for children from 3 to 6 years, one egg a day along with other food items."
+            },
+            {
+                "question": "Are normal women eligible for this scheme?",
+                "answer": "No, only pregnant and lactating mothers are eligible."
+            },
+            {
+                "question": "What does a full meal contain?",
+                "answer": "One full meal will consist of rice, dal with leafy vegetables/sambhar, and vegetables for a minimum of 25 days, along with boiled eggs and 200 ml milk for 30 days in a month."
+            }
+        ],
+        "sources": [
+            {
+                "type": "ICDS Website",
+                "url": "http://icds-wcd.nic.in/"
+            },
+            {
+                "type": "Telangana Govt Initiatives",
+                "url": "https://www.telangana.gov.in/government-initiatives"
+            },
+            {
+                "type": "Guide Lines",
+                "url": "https://wdcw.tg.nic.in/Arogya_Lakshmi.html"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://wdcw.tg.nic.in/Arogya_Lakshmi.html"
+            },
+            {
+                "type": "Help Desk",
+                "url": "https://wdcw.tg.nic.in/contact_us.html"
+            }
+        ],
+        "tags": [
+            "Nutrition",
+            "Women Empowerment",
+            "Child Welfare",
+            "Health"
+        ]
+    }
+}

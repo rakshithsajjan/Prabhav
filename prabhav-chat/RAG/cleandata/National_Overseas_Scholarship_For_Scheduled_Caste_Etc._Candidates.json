@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "National Overseas Scholarship For Scheduled Caste Etc. Candidates",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Scheduled Caste, Denotified Nomadic and Semi Nomadic Tribes, Landless Agricultural Labourers and Traditional Artisans",
+        "details": "A scholarship scheme by Ministry of Social Justice & Empowerment for regular, full-time students from Scheduled Castes, Denotified Nomadic and Semi Nomadic Tribes, Landless Agricultural Labourers and Traditional Artisans; to obtain higher education viz., Master degree or Ph.D courses by studying abroad in Institutions/Universities accredited by the Government/authorized body of that country in any field of study.",
+        "benefits": [
+            "Annual Maintenance Allowance: For the USA & other countries except for the UK: 15400 US Dollars. For UK: 9900 Great Britain Pounds",
+            "Contingency Allowance: For the USA & other countries except for the UK: 1500 US Dollars. For UK: 1100 Great Britain Pounds",
+            "Tuition Fees: Actual as charged",
+            "Visa Fees: Actual Visa Fees in INR",
+            "Medical Insurance Premium: Actual as charged",
+            "Incidental Journey Allowance & Equipment Allowance: 20 US Dollars for each or its equivalent in INR.",
+            "Air Passage: Purchase air tickets from the nearest Airport to Hometown in India to the nearest place to the educational institution and back to India."
+        ],
+        "eligibility": [
+            "The applicant must be a student belonging to a Scheduled Caste, Denotified Nomadic, Semi Nomadic Tribe, Landless Agricultural Labourer, or a Traditional Artisan.",
+            "The applicant must have been admitted to or received an unconditional offer of admission for pursuing a master's / Ph.D. from an institute/university located abroad.",
+            "The institute/university of the applicant must be accredited by the Government/authorized body of that country.",
+            "The applicant must have secured at least 60% marks or equivalent grade in the qualifying examination.",
+            "The total income of the family of the applicant (from all sources) is less than or equal to \u20b9 8 lakh per annum.",
+            "Two or more of the applicant's siblings must not be already availing of this scholarship.",
+            "30% of the awards for each year shall be earmarked for women candidates."
+        ],
+        "exclusions": [
+            "Bachelors Level courses, in any discipline, are not covered under this scheme.",
+            "Candidates already staying or studying or having completed studies abroad by utilizing any other scholarship from State Government, other agency, or through their own funds are not eligible to apply under this scheme.",
+            "No more than two children of the same parents/guardians will be eligible for scholarships.",
+            "The candidate is not eligible for a scholarship to pursue the same level (Masters/Ph.D.) of course for which he/she has already acquired the qualification."
+        ],
+        "application_process": "Online application process through the portal: www.nosmsje.gov.in",
+        "documents_required": [
+            "10th Board Certificate",
+            "Caste Certificate",
+            "Photo",
+            "Scanned Signature",
+            "Current Address proof/Permanent Address Proof",
+            "Qualifying Degree/Provisional Certificate",
+            "Mark sheet of qualifying examination",
+            "Valid Document regarding admission in Foreign University",
+            "Family Income Certificate",
+            "Employer's NOC Certificate (if employed)",
+            "Gap certificate (if applicable)",
+            "ITR acceptance document",
+            "Aadhaar Number"
+        ],
+        "tags": [
+            "Scholarship",
+            "Higher Education",
+            "Scheduled Caste",
+            "International Education"
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://nosmsje.gov.in/docs/nosGuidelines2022-23.pdf"
+            },
+            {
+                "type": "Income Certificate Format",
+                "url": "https://nosmsje.gov.in/docs/income_Certificate.pdf"
+            },
+            {
+                "type": "Certificate for Landless Agricultural Labourer",
+                "url": "https://nosmsje.gov.in/docs/Certificate_for%20being%20Landless%20Agricultural%20Labourer.pdf"
+            },
+            {
+                "type": "Certificate for Traditional Artisan",
+                "url": "https://nosmsje.gov.in/docs/Certificate_for%20being%20Traditional%20Artisan.pdf"
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Is there a duration to the prescribed financial assistance?",
+                "answer": "Yes, the prescribed financial assistance will be provided up to the completion of the course / research or the following period, whichever is earlier: PhD - 04 years, Master\u2019s Degree - 03 years."
+            },
+            {
+                "question": "Are there any terms to availing the Maintenance Allowance?",
+                "answer": "The payment of Maintenance Allowance is linked with furnishing of progress report."
+            },
+            {
+                "question": "How many scholarship slots are there in this scheme?",
+                "answer": "In each selection year, 125 fresh awards will be given under this scheme."
+            },
+            {
+                "question": "Is there any earmarking for women candidates?",
+                "answer": "Yes, there is 30% of the awards for each year shall be earmarked for women candidates."
+            }
+        ]
+    }
+}

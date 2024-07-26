@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "Mission on Integrated Development of Horticulture- NHM and HMNEH",
+        "state": "All states and Union territories",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Centrally-Sponsored Scheme",
+        "beneficiary": "Farmers, registered societies, state governments",
+        "details": "MIDH covers horticulture items such as fruits, vegetables, root & tuber crops, mushrooms, spices, flowers, aromatic plants, coconut, cashew, cocoa, and bamboo. It provides technical advice and administrative support to State Governments/State Horticulture Missions (SHMs) for horticulture-related activities.",
+        "benefits": [
+            "Increase in productivity of crops through diversification",
+            "Promotion of R&D technologies for cultivation, production, post-harvest management and processing",
+            "Improvement in post-harvest management, processing for value addition and marketing infrastructure"
+        ],
+        "eligibility": [
+            "All farmers",
+            "Registered societies",
+            "State governments"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Interested beneficiaries can contact the District Horticulture Officer/Block Horticulture Officer to apply for the scheme.",
+        "documents_required": [
+            "Aadhaar number",
+            "Land documents",
+            "Caste certificate",
+            "Bank details",
+            "Photographs"
+        ],
+        "faqs": [
+            {
+                "question": "Can a beneficiary avail assistance for similar activity from two sub schemes of MIDH, like for cold storage?",
+                "answer": "No. As a general principle, subsidy assistance for similar activity cannot be availed from two different schemes."
+            },
+            {
+                "question": "What is the pattern of Assistance under MIDH for organizing Seminars, Workshops and other HRD activities?",
+                "answer": "Provision exists under MIDH for organizing seminars, conferences, workshops, exhibitions, Kisan Melas, horticulture shows etc for creating awareness among farmers."
+            },
+            {
+                "question": "Can a nursery be set up in less than one hectare?",
+                "answer": "No. NHM scheme envisages a minimum area of one hectare for setting up a viable nursery to produce quality planting material."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://midh.gov.in/PDF/MIDH_GL%28E%29.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://hortnet.gov.in/ksuv/FAQ.aspx"
+            }
+        ],
+        "tags": [
+            "Horticulture",
+            "Agriculture",
+            "Development",
+            "Government Scheme"
+        ]
+    }
+}

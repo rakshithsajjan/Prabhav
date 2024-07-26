@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Mukh\u200dyamantri Janakal\u200dyaan (Sambal 2.0) Yojana (Asangathit Karmakaar Man\u200dda)",
+        "state": "Madhya Pradesh",
+        "department": "Labour",
+        "type": "Insurance",
+        "beneficiary": "Unorganized workers",
+        "details": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana (Asangathit Karmakar Mandal) is a scheme launched by the Madhya Pradesh government to provide social security to unorganized workers in the state. This scheme covers unorganized workers from specific age group who are not covered under any other social security scheme and benefits will be provided directly into the beneficiary's account through the DBT system.",
+        "benefits": [
+            "Funeral Grant Amount : \u20b95,000/- Ex-gratia",
+            "On accidental death : \u20b94,00,000/-",
+            "General Death Benefit : \u20b92,00,000/-",
+            "Permanent Disability Benefit : \u20b92,00,000/-",
+            "Partial Permanent Disability Benefit : \u20b91,00,000/-"
+        ],
+        "eligibility": [
+            "Applicant must be a Unorganized worker.",
+            "Applicant have a 'Samagra ID' and 'Pariwar ID'.",
+            "Applicant should not have other social security cover like Provident Fund, Employees' State Insurance Scheme, Gratuity etc.",
+            "Applicant or his wife/husband (as the case may be) should not follow below categories: Should not have more than 01 hectare of agricultural land, Should not be in government service, Should not an income tax payer."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card.",
+            "Samagra id.",
+            "Bank account."
+        ],
+        "faqs": [
+            {
+                "question": "What is Mukhyamantri Jan Kalyan Yojana (MJKY)?",
+                "answer": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana is a initiative of Madhya Pradesh government. The scheme will provide much-needed social security to unorganized workers in the state and help them live a dignified life."
+            },
+            {
+                "question": "What Are The benefits?",
+                "answer": "Financial assistance will be provided."
+            },
+            {
+                "question": "How much financial assistance will be provided?",
+                "answer": "1. Funeral Grant Amount : \u20b95,000/- Ex-gratia 2. On accidental death : \u20b94,00,000/- 3. General Death Benefit : \u20b92,00,000/- 4. Permanent Disability Benefit : \u20b92,00,000/- 5. Partial Permanent Disability Benefit : \u20b91,00,000/-"
+            },
+            {
+                "question": "How can one apply for benefits under Mukhyamantri Jan Kalyan Yojana?",
+                "answer": "Applicant need to visit the official website and need to register him/herself."
+            },
+            {
+                "question": "Is this scheme a DBT scheme?",
+                "answer": "Yes, this is a DBT scheme. Here the money will be directly transferred to the bank account of the beneficiaries."
+            },
+            {
+                "question": "Is there any Application Fee?",
+                "answer": "No"
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Aadhar card. 2. Samagra id. 3. Bank account."
+            },
+            {
+                "question": "Can applicants from outside Madhya Pradesh apply for the scheme?",
+                "answer": "No"
+            },
+            {
+                "question": "Is this scheme apply in Rural areas?",
+                "answer": "Yes, Rural and Urban areas both."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=694"
+            },
+            {
+                "type": "Official Portal",
+                "url": "https://sambal.mp.gov.in/"
+            },
+            {
+                "type": "Application",
+                "url": "https://sambal.mp.gov.in/Public/Survey/ShramikRegApplicationeKYC.aspx"
+            }
+        ],
+        "tags": [
+            "Insurance",
+            "Labour",
+            "Provident Fund",
+            "Workers"
+        ]
+    }
+}

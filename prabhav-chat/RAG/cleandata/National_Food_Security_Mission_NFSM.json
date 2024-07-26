@@ -1,0 +1,60 @@
+{
+    "content": {
+        "title": "National Food Security Mission NFSM",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Government Scheme",
+        "beneficiary": "Farmers",
+        "details": "The core objective of the Mission is to bridge the yield gap in respect of these crops through dissemination of improved technologies and farm management practices. Under the programme, various incentives like production and distribution of seeds, supply of seed mini kits, Front Line/Cluster Demonstrations, improved farm implements, bio-pesticides, micronutrients, bio-fertilizers etc. are provided to the farmers.",
+        "benefits": [
+            "Enhance production and productivity of crops",
+            "Promotion and extension of improved technologies and seed varieties through Cluster Demonstration, Cluster Frontline Demonstration, and Frontline Demonstration",
+            "Assistance for quality / certified seeds production and distribution",
+            "Support for nutrient management and pest management",
+            "Provision of flexi component for Interventions covering farm implements/ machines, capacity building of farmers, water carrying pipes, post-harvest technologies like Dal Mill/de-stoning/ grading, etc."
+        ],
+        "eligibility": [
+            "All farmers can apply for the scheme.",
+            "At least 33% allocation of the fund is to be made for small and marginal farmers.",
+            "At least 30% allocation of the fund is to be made for women farmers.",
+            "All the farmers are entitled to avail the assistance for various components of the Mission limited to 5 hectares in a season."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhaar number",
+            "Caste certificate (SC/ST)",
+            "Bank details"
+        ],
+        "faqs": [
+            {
+                "question": "Is there any age criteria for availing scheme benefits?",
+                "answer": "Any farmer who owns the land can avail benefits under the scheme."
+            },
+            {
+                "question": "Is there a preference for certain gender /caste of farmers?",
+                "answer": "All farmers are to be considered under the scheme, however, as per GoI norms, women farmers, and SC/ST farmers may be given preference."
+            },
+            {
+                "question": "Is there a minimum education qualification for the scheme?",
+                "answer": "No, any farmer meeting requisite criteria may be considered under the scheme."
+            },
+            {
+                "question": "Is there a fee for availing the benefits?",
+                "answer": "No, there is no fee."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.nfsm.gov.in/Guidelines/Guideline_nfsmandoilseed201819to201920.pdf"
+            }
+        ],
+        "tags": [
+            "Food Security",
+            "Agriculture",
+            "Farmers Welfare",
+            "Government Scheme"
+        ]
+    }
+}

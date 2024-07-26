@@ -1,0 +1,46 @@
+{
+    "content": {
+        "title": "Financial Assistance to Workers with a Visually, Physically or Mentally Disabled Child- Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Haryana Labour Welfare Board",
+        "type": "Financial Assistance",
+        "beneficiary": "Workers with a Visually, Physically or Mentally Disabled Child",
+        "details": "This scheme provides financial assistance to workers who have a child with visual, physical, or mental disabilities.",
+        "benefits": [
+            "Financial support for medical expenses",
+            "Educational assistance for disabled children",
+            "Support for rehabilitation services"
+        ],
+        "eligibility": [
+            "Applicant must be a registered worker under the Haryana Labour Welfare Board",
+            "The child must have a certified disability"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Haryana Labour Welfare Board website and Antyodaya-SARAL Portal.",
+        "documents_required": [
+            "Disability certificate of the child",
+            "Identity proof of the applicant",
+            "Proof of registration as a worker"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/fawvpmdc-hlwb"
+            },
+            {
+                "type": "Labour Department Official Website",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Disability Support",
+            "Haryana Labour Welfare"
+        ]
+    }
+}

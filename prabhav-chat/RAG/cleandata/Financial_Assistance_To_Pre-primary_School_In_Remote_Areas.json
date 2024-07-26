@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Financial Assistance To Pre-primary School In Remote Areas",
+        "state": "Goa",
+        "department": "Department of Tribal Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Pre-primary schools in remote tribal areas",
+        "details": "The scheme 'Financial Assistance to Pre-Primary School in Remote Areas' by the Department of Tribal Welfare, Government of Goa provides financial assistance to set up pre-primary schools in the remote tribal areas which lack the facility of pre-primary education for the tribal population. Financial assistance in the form of rent amount payable for the premises, fixed remuneration to one Teacher, one helper, teaching aid/equipment, toys, and mid-meal will be provided under this scheme.",
+        "benefits": [
+            "Up to \u20b9 2,000/- per month recurring expenditure for rent depending upon the quality of the facility.",
+            "\u20b9 300/- per month per student as refreshment expenses.",
+            "Fixed Amount of \u20b9 25,000/- for teaching aids/toys and other teaching materials for the first year.",
+            "\u20b9 15,000/- per annum for toys and other teaching materials for the next four years.",
+            "Fixed Remuneration of \u20b9 10,000/- per month for Trained Teacher (\u20b9 8,000/- per month if untrained) with a 10% annual increment.",
+            "Remuneration of the Helper as per the Minimum Wages Act."
+        ],
+        "eligibility": [
+            "No pre-primary school should exist in the locality.",
+            "The school should have at least ten Scheduled Tribe (ST) students in a class of twenty (20) students.",
+            "Educational Qualification/Training for the Trained Teacher as per the Education Department's requirements.",
+            "If no trained teacher is available, an untrained teacher may be appointed, who must obtain necessary qualifications within three years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Interested persons/agencies should visit the Department of Tribal Welfare, Govt. of Goa, Shram Shakti Bhavan, 5th Floor, Patto, Panaji-Goa, - 403 001. They must fill out the application form and submit it along with required documents.",
+        "documents_required": [
+            "Resolution of the Gramsabha/Village Panchayat.",
+            "NOC / Lease agreement of the owner of the premises.",
+            "Experience certificate of the applicant/agency.",
+            "List of Scheduled Tribe Students in prescribed Proforma.",
+            "Details of the Teacher/Helper in the prescribed proforma.",
+            "Application for registration of Pre-Primary School with the Education Department."
+        ],
+        "faqs": [
+            {
+                "question": "Are untrained teachers considered under this scheme?",
+                "answer": "While trained teachers with the required qualifications are preferred, if no trained teacher is available in a specific locality, the Government might consider appointing an untrained teacher."
+            },
+            {
+                "question": "Is there a provision for incremental increases in the remuneration of trained teachers?",
+                "answer": "Yes, the scheme incorporates an incremental increase of 10% in the remuneration of trained teachers every year, subject to their satisfactory performance."
+            },
+            {
+                "question": "Could you explain the remuneration structure for trained teachers and helpers?",
+                "answer": "Trained teachers are provided with a fixed remuneration of \u20b9 10,000 per month. Helpers' remuneration aligns with rates set under the Minimum Wages Act."
+            },
+            {
+                "question": "How are teaching aids, toys, and other teaching materials supported under the scheme?",
+                "answer": "The scheme allocates a fixed amount of \u20b9 25,000 for the first year for teaching aids, toys, and other materials, and \u20b9 15,000 per annum for the next four years."
+            },
+            {
+                "question": "What provisions are made for refreshments for students in pre-primary schools under this scheme?",
+                "answer": "The scheme allocates \u20b9 300 per month per student for refreshment expenses."
+            },
+            {
+                "question": "Could you detail the rent assistance provided to schools under this scheme?",
+                "answer": "The scheme provides recurring rent assistance of up to \u20b9 2,000 per month, depending on the quality of the facility."
+            },
+            {
+                "question": "Which department manages this scheme?",
+                "answer": "This scheme is managed by the Department of Tribal Welfare, Government of Goa."
+            },
+            {
+                "question": "Can NGOs also apply to this scheme?",
+                "answer": "Yes, NGOs with three years of experience in managing pre-primary schools are eligible to apply."
+            },
+            {
+                "question": "Does this scheme accept online applications?",
+                "answer": "No, as of 18/08/2023 this scheme only accepts offline mode of application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification",
+                "url": "https://www.tribalwelfare.goa.gov.in/attachments/article/56/Notification%20A.pdf"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2022/05/Citizen-Charter-2022-tribal-welfare.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Pre-primary Education",
+            "Tribal Welfare",
+            "Goa"
+        ]
+    }
+}

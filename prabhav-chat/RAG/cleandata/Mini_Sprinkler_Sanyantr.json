@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Mini Sprinkler Sanyantr",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Mini Sprinkler Sanyantr scheme Under the Agriculture Department Rajasthan government will provide 70% to 75% subsidy to farmers for installing sprinkler plants. Through this farmers can irrigate more land by getting sprinkler subsidy. The subsidy given by the state government to the farmers will be sent directly to their bank accounts through DBT. The income of farmers will improve through this scheme. Apart from this, efficient utilization and production will also increase.",
+        "benefits": [
+            "General farmers: Up to 70% of the grant",
+            "Small and marginal farmers, including small marginal/SC/ST/women farmers: Up to 75% of the grant"
+        ],
+        "eligibility": [
+            "The agricultural land should be owned by the applicant.",
+            "The applicant must be a farmer residing in Rajasthan.",
+            "Farmers should have at least 0.2 hectares of irrigated cultivable land."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Jamabandi copy (not older than 6 months)",
+            "Aadhar Card/Janadhar Card.",
+            "Irrigation Source Certificate.",
+            "Soil and Water Testing Report.",
+            "Supplier's Quotation."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The main objective is to provide to the farmers of the state for planting fountain plants in their fields. So that farmers no longer have to face any problems in irrigating their fields."
+            },
+            {
+                "question": "How much Subsidy give to the farmers of Rajasthan?",
+                "answer": "The Rajasthan government will give 70% to 75% subsidy to the farmers for installing sprinkler plants."
+            },
+            {
+                "question": "Is there any criteria for cultivable land?",
+                "answer": "Farmers should have at least 0.2 hectares of irrigated cultivable land."
+            },
+            {
+                "question": "What Is The Financial Eligibility For Applicant?",
+                "answer": "There are no financial eligibility criteria."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer is a system of transferring money from the government to the beneficiary's bank account."
+            },
+            {
+                "question": "Is this scheme only for Farmer?",
+                "answer": "Yes, this scheme only for farmer."
+            },
+            {
+                "question": "How much subsidy is given to Scheduled Tribe farmers?",
+                "answer": "75 percent to small marginal farmers, small marginal/SC/ST/women farmers."
+            },
+            {
+                "question": "How much subsidy is given to General farmers?",
+                "answer": "70 percent to general farmers."
+            },
+            {
+                "question": "How can applicant apply online?",
+                "answer": "One can apply by visiting the e-Mitra center."
+            },
+            {
+                "question": "Is there right to choose the supplier?",
+                "answer": "Yes, The farmer has the right to choose the supplier."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Farming"
+        ]
+    }
+}

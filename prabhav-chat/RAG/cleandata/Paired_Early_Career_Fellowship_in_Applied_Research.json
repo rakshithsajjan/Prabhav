@@ -1,0 +1,70 @@
+{
+    "content": {
+        "title": "Paired Early Career Fellowship in Applied Research",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Fellowship",
+        "beneficiary": "Early Career Researchers",
+        "details": "Indo-German Science & Technology Centre (IGSTC) established a joint initiative of the Department of Science and Technology (DST), Government of India and the Federal Ministry of Education and Research (BMBF), Government of Germany invites applications for \u201cPaired Early Career Fellowship in Applied Research (PECFAR)\u201d from early-career Indian and German researchers to explore, connect and network for research collaboration in applied research.",
+        "benefits": [
+            "Fellowship: \u20ac 2300 per month/fellow on a pro-rata basis.",
+            "Single round trip economy class airfare including visa fees and medical/travel insurance approximately \u20b9 1 lakh (for Indian fellow) and \u20ac 1500 (for German fellow).",
+            "A one-time grant will be provided to cover the travel, accommodation, and daily expenses."
+        ],
+        "eligibility": [
+            "Early Career Researchers holding regular positions in academia/research institution/industry or holding long-term nationally recognized fellowships (4 years and above) will be eligible to apply.",
+            "The applicant should possess the minimum qualification as 'Masters in Science/Bachelor in Engineering (4 years)'.",
+            "PhD Students/Post-docs affiliated with research institutions/industries may also apply.",
+            "The upper age limit of the applicant should be 35 years."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Application Portal.",
+        "documents_required": [
+            "Passport-size Photograph",
+            "No Objection Certificate from the Parent institution",
+            "Invitation Letters certified from the Host Institutions",
+            "Proof of Date of Birth (Scan copy of Passport/Aadhaar Card)",
+            "Proof of Education Qualifications arranged in reverse chronological order",
+            "Proof of Current Employment/Fellowship Award Letter",
+            "Any other document, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the PECFAR?",
+                "answer": "PECFAR is a fellowship to facilitate a two-way exchange of young early-career Indian and German researchers through short visits for networking and exploring avenues for collaboration and innovation in applied research."
+            },
+            {
+                "question": "Who are eligible?",
+                "answer": "Early Career Researchers holding regular positions in academia/research institutions/industry or holding long-term nationally recognized fellowship (4 years and above). Minimum Qualification: Master in Science/Bachelor degree in Engineering (4 years). PhD Students/Post-docs affiliated with research institutions/industries may also apply."
+            },
+            {
+                "question": "Is it mandatory to form a Pair to apply for the fellowship?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What is meant by long term fellowship eligible to avail the PECFAR fellowship?",
+                "answer": "4 years and above."
+            },
+            {
+                "question": "Can I submit separate/multiple applications?",
+                "answer": "No."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.igstc.org/home/pecfar_guidelines"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://indo-germansciencetechnologycentre.my.salesforce-sites.com/ApplicantDashboard?campaign=Landing_Page_Pecfar"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Research",
+            "International Collaboration",
+            "Early Career Researchers"
+        ]
+    }
+}

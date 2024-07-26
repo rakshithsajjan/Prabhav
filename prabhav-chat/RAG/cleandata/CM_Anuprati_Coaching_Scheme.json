@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "CM Anuprati Coaching Scheme",
+        "state": "Rajasthan",
+        "department": "Ministry of Electronics & IT (MeitY)",
+        "type": "Coaching Scheme",
+        "beneficiary": "Students from disadvantaged backgrounds",
+        "details": "This scheme is aimed at providing quality coaching to 30,000 students from disadvantaged backgrounds and improving their chances of success in competitive exams. Under this scheme, eligible students receive free coaching, study material, and guidance from experienced teachers and mentors. The coaching is conducted in various cities across Rajasthan through empaneled coaching institutes. The coaching is available for both English and Hindi medium students.",
+        "benefits": [
+            "Free Coaching for competitive exams like IAS, RAS, and other government job recruitment exams.",
+            "Guidance and Mentorship from experienced teachers and mentors.",
+            "Free Study Material.",
+            "Access to empaneled coaching institutes across various cities in Rajasthan.",
+            "Equal Opportunities for students from all backgrounds.",
+            "Job Opportunities through successful exam preparation."
+        ],
+        "eligibility": [
+            "Residents of Rajasthan",
+            "Belong to SC, ST, OBC, MBC, and EWS categories"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Caste Certificate Copy",
+            "Aadhar Card Copy",
+            "Domicile Certificate Copy",
+            "Education Qualification Marksheet / Certificate Copy",
+            "Income Certificate Copy"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the CM Anuprati Coaching Scheme?",
+                "answer": "The objective of the scheme is to provide free coaching to students from economically weaker sections and socially backward communities for various competitive exams and help them secure government jobs."
+            },
+            {
+                "question": "Who is eligible for the CM Anuprati Coaching Scheme?",
+                "answer": "Students who are residents of Rajasthan and belong to SC, ST, OBC, MBC, and EWS categories are eligible for the scheme."
+            },
+            {
+                "question": "What exams are covered under the CM Anuprati Coaching Scheme?",
+                "answer": "The scheme covers various competitive exams such as IAS, RAS, and other government job recruitment exams."
+            },
+            {
+                "question": "Is there any fee for the coaching provided under the scheme?",
+                "answer": "No, the coaching is provided free of cost to eligible students."
+            },
+            {
+                "question": "What is the selection process for the scheme?",
+                "answer": "The selection process may vary based on the exam for which coaching is sought. Generally, students are selected based on their academic performance and economic status."
+            },
+            {
+                "question": "How can I apply for the CM Anuprati Coaching Scheme?",
+                "answer": "The application process may vary based on the exam for which coaching is sought. Interested students can visit the official website of the scheme or contact the empaneled coaching institutes for more information."
+            },
+            {
+                "question": "What is the duration of the coaching provided under the scheme?",
+                "answer": "The duration of the coaching may vary based on the exam for which coaching is sought. Generally, the coaching is provided for a period of 6-8 months."
+            },
+            {
+                "question": "Is the coaching available in both English and Hindi medium?",
+                "answer": "Yes, the coaching is available for both English and Hindi medium students."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/cmacs"
+            },
+            {
+                "type": "Additional Source",
+                "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/915"
+            }
+        ],
+        "tags": [
+            "Coaching",
+            "Rajasthan",
+            "Education",
+            "Government Scheme",
+            "Free Coaching"
+        ]
+    }
+}

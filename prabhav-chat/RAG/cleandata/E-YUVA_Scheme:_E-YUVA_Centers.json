@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "E-YUVA Scheme: E-YUVA Centers",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Grant",
+        "beneficiary": "Students and Researchers",
+        "details": "The E-YUVA Scheme, initiated by the Biotechnology Industry Research Assistance Council (BIRAC), aims to promote applied research and entrepreneurial innovation among young students and researchers. It provides funding support, technical and business mentoring, and exposure to bio incubation models.",
+        "benefits": [
+            "Funding support through fellowship and research grants",
+            "Technical and business mentoring",
+            "Access to bio-incubation models",
+            "Orientation to an entrepreneurial culture"
+        ],
+        "eligibility": [
+            "University/Institution established as a legal entity under Indian law with at least 51% Indian stakeholders from Tier II/III cities",
+            "Must have a Department in the Life Sciences stream for technical support",
+            "Age of the applicant University/Institution should be at least 3 years",
+            "Presence of an Innovation supporting formal body is mandatory",
+            "Offer dedicated space of approx. 3,000 sq. ft. & relevant infrastructure ready for use"
+        ],
+        "exclusions": [],
+        "application_process": "Online submission through the Head of the University/Institution.",
+        "documents_required": [
+            "Registration/Recognition certificate of the University/Institution",
+            "Other relevant documents"
+        ],
+        "faqs": [
+            {
+                "question": "What is the E-YUVA Scheme?",
+                "answer": "The E-YUVA Scheme promotes a culture of applied research and entrepreneurial innovation among young students and researchers."
+            },
+            {
+                "question": "What are E-YUVA Centers (EYCs)?",
+                "answer": "EYCs are dedicated hubs that provide support and mentoring to students, housed within the University/Institute."
+            },
+            {
+                "question": "Who is the implementing agency of this scheme?",
+                "answer": "The Biotechnology Industry Research Assistance Council (BIRAC)."
+            },
+            {
+                "question": "What is the tenure of EY Centres?",
+                "answer": "EYCs are engaged for an initial duration of 3 years, extendable based on performance review."
+            },
+            {
+                "question": "What is the mode of Proposal submission?",
+                "answer": "The applicant University/Institution allows only online submission of proposals."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://birac.nic.in/webcontent/1658838527_EYUVA_Guideline_Version_1.1.pdf"
+            },
+            {
+                "type": "Application Details",
+                "url": "https://www.birac.nic.in/cfp_view.php?id=82&scheme_type=31"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://birac.nic.in/e_yuva.php"
+            },
+            {
+                "type": "Advertisement",
+                "url": "https://birac.nic.in/desc_new.php?id=1045"
+            },
+            {
+                "type": "Website- India Science, Technology & Innovation",
+                "url": "https://www.indiascienceandtechnology.gov.in/funding-opportunities/startups/e-yuva"
+            }
+        ],
+        "tags": [
+            "E-YUVA",
+            "Innovation",
+            "Research",
+            "Entrepreneurship",
+            "Biotechnology"
+        ]
+    }
+}

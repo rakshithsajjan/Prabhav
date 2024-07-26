@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "Computer Training Scheme",
+        "state": "Uttar Pradesh",
+        "department": "Backward Classes Welfare Department",
+        "type": "Training",
+        "beneficiary": "Unemployed youth",
+        "details": "The Uttar Pradesh government has started computer courses. Under this program, the applicant will receive authorized training in computers. The implementation of this scheme will help the UP state government to reach out to the eligible candidates and provide computer literacy to them. It will not only enhance the education system but also increase the scope of opportunity for the candidates.",
+        "benefits": [
+            "Training for 'O' computer training",
+            "Training for 'CCC' computer training"
+        ],
+        "eligibility": [
+            "Domicile of Uttar Pradesh",
+            "Unemployed youth who passed the Intermediate examination (10+2)",
+            "The annual income of parents/guardians should be up to Rs. 1,00,000/- or less"
+        ],
+        "exclusions": [
+            "Applicants who are applying for Computer Training Scheme, being operated by the Backward Classes Welfare Department, are not getting the benefits of any other government-run scheme like Scholarship/Fee reimbursement etc."
+        ],
+        "application_process": "First of all, the trainee has to log in on the official website http://obccomputertraining.upsdc.gov.in. Trainee should enter his/her name and mobile number for registration. Trainee should enter the OTP in the appropriate box for verification, which is received on the registered mobile number. The trainee should log in with the username and password, which was received on the mobile number. The trainee should log in after entering a username, password, and captcha code in the appropriate fields. After login, the trainee should enter the information in the appropriate columns and upload the documents (Income Certificate, Caste Certificate, Intermediate Marks Sheet, self-photograph, etc.). Trainee should finally lock the application after save. Trainee should take the printout of the application form, attach all the enclosures and submit the same to the office of the District Backward Classes Welfare Officer of the concerned district.",
+        "documents_required": [
+            "Income Certificate",
+            "Caste Certificate",
+            "Intermediate Marks Sheet",
+            "Applicant photograph"
+        ],
+        "faqs": [
+            {
+                "question": "What is Computer Training Scheme?",
+                "answer": "The scheme is being operated with the objective to provide better chances of employment to the youth by enhancing their skills."
+            },
+            {
+                "question": "Who are the beneficiaries?",
+                "answer": "All Unemployed youth who fulfill the eligibility criteria."
+            },
+            {
+                "question": "What is the education qualification criteria?",
+                "answer": "Youth who passed the Intermediate examination (10+2)."
+            },
+            {
+                "question": "What Is The annual income eligibility Criteria?",
+                "answer": "The annual income of parents/guardians should be up to Rs. 1,00,000/- or less."
+            },
+            {
+                "question": "What is the application process?",
+                "answer": "Youth have to visit official web portal. Complete the registration process. Fill the application form. Submit."
+            },
+            {
+                "question": "What benefits are provided under this scheme?",
+                "answer": "Computer training program."
+            },
+            {
+                "question": "How many training programs are offered?",
+                "answer": "Two training programs are offered: For 'O' computer training and For 'CCC' computer training."
+            },
+            {
+                "question": "Do the trainee need to pay fee to the institute?",
+                "answer": "Students need not pay any fee to the institute on account of registration and training. The examination fee for any examination conducted by the NIELIT (National Institute of Electronics and Information Technology), will have to be paid by the trainee to 'NIELIT' in online mode."
+            },
+            {
+                "question": "How much attendance is compulsory during training?",
+                "answer": "75% biometric attendance of trainees will be compulsory during the training session."
+            },
+            {
+                "question": "May trainee get the scheme benefits again?",
+                "answer": "No, only at once."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/cts"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Training",
+            "Unemployment",
+            "Youth Empowerment"
+        ]
+    }
+}

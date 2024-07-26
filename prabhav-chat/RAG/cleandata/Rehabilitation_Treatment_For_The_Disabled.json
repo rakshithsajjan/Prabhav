@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Rehabilitation Treatment For The Disabled",
+        "state": "Meghalaya",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Financial Assistance",
+        "beneficiary": "Persons with disabilities",
+        "details": "Financial assistance to disabled persons who cannot afford to undergo treatment inside and outside the state.",
+        "benefits": [
+            "Medical treatment: The scheme provides medical treatment to persons with disabilities, including surgeries and therapies.",
+            "Assistive devices: The scheme provides assistive devices such as hearing aids, wheelchairs, crutches, and prosthetic limbs.",
+            "Rehabilitation services: The scheme provides rehabilitation services such as physiotherapy, occupational therapy, and speech therapy.",
+            "Training and education: The scheme provides training and education to persons with disabilities to develop their skills and enhance their employability."
+        ],
+        "eligibility": [
+            "The person must be a resident of Meghalaya.",
+            "The person must have a disability certificate issued by a registered medical practitioner.",
+            "The disability percentage should be more than 40%."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Disability certificate issued by a registered medical practitioner.",
+            "Proof of residence in Meghalaya (such as an Aadhaar card, voter ID card, or ration card).",
+            "Identity proof (such as an Aadhaar card or voter ID card).",
+            "Bank account details.",
+            "Passport-size photograph.",
+            "Any other document required by the District Social Welfare Officer for verification purposes."
+        ],
+        "faqs": [
+            {
+                "question": "What is Rehabilitation treatment for the disabled Scheme?",
+                "answer": "The scheme aims to provide medical treatment, assistive devices, and other rehabilitation services to persons with disabilities to improve their quality of life."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "The scheme provides medical treatment, assistive devices, rehabilitation services, training and education, and financial assistance for marriage and equipment purchase."
+            },
+            {
+                "question": "What is the eligibility?",
+                "answer": "The person must be a resident of Meghalaya, have a disability certificate issued by a registered medical practitioner, and the disability percentage should be more than 40%."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Applications through the office of the District Social Welfare Officer."
+            },
+            {
+                "question": "What document is required as Proof of residence?",
+                "answer": "Documents such as an Aadhaar card, voter ID card, or ration card."
+            },
+            {
+                "question": "Is there any age limit to apply for the scheme?",
+                "answer": "No, there is no age limit to apply for the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://meghalaya.gov.in/schemes/content/15649"
+            },
+            {
+                "type": "District Social Welfare Officer Contact List",
+                "url": "https://megsocialwelfare.gov.in/key_contacts.html"
+            }
+        ],
+        "tags": [
+            "Rehabilitation",
+            "Disability",
+            "Financial Assistance",
+            "Medical Treatment",
+            "Assistive Devices"
+        ]
+    }
+}

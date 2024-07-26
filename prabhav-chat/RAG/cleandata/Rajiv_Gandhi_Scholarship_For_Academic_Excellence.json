@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Rajiv Gandhi Scholarship For Academic Excellence",
+        "state": "Rajasthan",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Financial Assistance",
+        "beneficiary": "Meritorious students of Rajasthan",
+        "details": "Hon\u2019ble Chief Minister of Rajasthan Sh. Ashok Gehlot announced this scheme on 20th August 2021 in commemoration of late Shri Rajiv Gandhi, former Prime Minister of India. In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world.",
+        "benefits": [
+            "Tuition Fees and Bench fee: Max 50 lakh for family gross annual income less than 8 Lakh",
+            "Living Expenses: 12 Lakh Rupees for family gross annual income less than 8 Lakh",
+            "One-time advance of Rs 3 Lakh to candidates who will start their course after application on the portal",
+            "Tuition Fees and Bench fee: Max 50 lakh for family gross annual income 8 \u2013 25 Lakh",
+            "Living Expenses: 6 Lakh Rupees for family gross annual income 8 \u2013 25 Lakh",
+            "Tuition Fees and Bench fee: Max 50 lakh for family gross annual income above 25 Lakh",
+            "No Living Expenses for family gross annual income above 25 Lakh"
+        ],
+        "eligibility": [
+            "Bonafide Resident of Rajasthan",
+            "Less than 35 years of age on 1st July 2023",
+            "Admitted / Obtained offer letter in top 150 World QS ranked Universities as of 1st April, 2023",
+            "All disciplines for UG, PG, PhD and Post Doc courses",
+            "Maximum 7.5 % seats (37) for Engineering, Architecture, Medical, Dentistry courses at UG level"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through RajSSO Portal using SSOID.",
+        "documents_required": [
+            "Jan Aadhar Number",
+            "Offer letter of the applicable foreign university",
+            "Bonafide/ Domicile certificate",
+            "Gross family Income certificate",
+            "Income tax return proof",
+            "Affidavit for not filing ITR",
+            "10th mark sheet",
+            "Qualifying Degree, Mark sheet/Certificate of last passed exam",
+            "Self Declaration for Scholarships/ financial help etc. from other sources",
+            "Passport, if any",
+            "Visa, if any",
+            "Aadhar Number"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply in the Scheme?",
+                "answer": "Students of Rajasthan State domicile, less than 35 years as on 1st July of the financial year, and must have an offer letter from one of the top 1-150 Universities (QS World Ranking University)."
+            },
+            {
+                "question": "Which courses are allowed in the Scheme?",
+                "answer": "Post Doc, PhD, PG, and UG courses are allowed with specified maximum course durations."
+            },
+            {
+                "question": "Which documents are required to fill the application on portal?",
+                "answer": "Jan Aadhar Number, Offer letter of the applicable foreign university, Bonafide/ Domicile certificate, Gross family Income certificate, Income Tax Return Proof, Affidavit for not filing ITR, 10th mark sheet, Qualifying Degree, Mark sheet/Certificate of last passed exam, Self Declaration for Scholarships/ financial help etc. from other sources, Passport, if any, Visa, if any, Aadhar Number."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/981"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            },
+            {
+                "type": "Manual",
+                "url": "https://hte.rajasthan.gov.in/files/uploads/RGSAE-APPLICATION-SUBMISSION.pdf"
+            }
+        ],
+        "tags": [
+            "Higher Education",
+            "Student Finance",
+            "Scholarship"
+        ]
+    }
+}

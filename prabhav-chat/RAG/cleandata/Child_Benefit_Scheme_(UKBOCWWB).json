@@ -1,0 +1,128 @@
+{
+    "content": {
+        "title": "Child Benefit Scheme (UKBOCWWB)",
+        "state": "Uttarakhand",
+        "department": "Labour Department, Government of Uttarakhand",
+        "type": "Social Security Scheme",
+        "beneficiary": "Children of registered building & construction workers",
+        "details": "The \u201cChild Benefit Scheme\u201d is a social security scheme implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, financial assistance is provided to the children of registered building & construction workers who are enrolled in classes ranging from Class I to higher education levels or professional courses.",
+        "benefits": [
+            "Financial assistance for education for Class I to V: \u20b91,800/- per year",
+            "Financial assistance for education for Class VI to X: \u20b92,400/- per year",
+            "Financial assistance for education for Class XI to XII: \u20b93,000/- per year",
+            "Financial assistance for Graduation/Post Graduation or equivalent: \u20b910,000/- per year",
+            "Course fee for ITI, Polytechnic, and higher education courses payable to Government Institutions/Colleges"
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Uttarakhand.",
+            "The applicant should be engaged in any building or construction work.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The workers will become eligible for assistance only after three months from their registration under the Board.",
+            "The applicant should have an active membership of the Board.",
+            "The son or daughter of the applicant/registered worker should be enrolled in any grade from Class I up to higher education or professional course.",
+            "The benefits should be provided to the first two children of registered workers."
+        ],
+        "application_process": "Online - via CSCs. Eligible workers can register through Jan Seva Kendra or Shramik Suvidha Kendra with relevant documents.",
+        "documents_required": [
+            "Two Passport size photographs",
+            "Proof of age",
+            "Certificate of working as a construction worker for at least 90 days in the previous year",
+            "Affidavit of construction worker attested by notary",
+            "Voter ID card",
+            "Ration card",
+            "Certificate issued by Gram Panchayat officer, village head, or councilor.",
+            "Self-declaration Certificate",
+            "Nominee\u2019s Identity proof i.e. Aadhaar Card",
+            "Bank account details",
+            "Any other document as required"
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Education Assistance",
+            "Labour",
+            "Scholarship",
+            "Student"
+        ],
+        "faqs": [
+            {
+                "question": "Who implements the scheme?",
+                "answer": "The Child Benefit Scheme is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), under the Labour Department, Government of Uttarakhand."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Financial assistance is provided for education at various levels: from Class I to higher education or professional courses. The assistance amount varies depending on the level of education."
+            },
+            {
+                "question": "How much financial assistance is provided for Class I to V?",
+                "answer": "For Class I to V, the yearly financial assistance provided is \u20b91,800/-."
+            },
+            {
+                "question": "What about financial assistance for Class VI to X?",
+                "answer": "For Class VI to X, the yearly financial assistance provided is \u20b92,400/-."
+            },
+            {
+                "question": "Is there financial assistance available for Class XI to XII students?",
+                "answer": "Yes, students in Class XI to XII are eligible for \u20b93,000/- per year."
+            },
+            {
+                "question": "What is the financial assistance for Graduation/Post Graduation or equivalent courses?",
+                "answer": "For Graduation/Post Graduation or equivalent courses, the yearly financial assistance is \u20b910,000/-."
+            },
+            {
+                "question": "Are ITI, Polytechnic, and higher education courses covered under the scheme?",
+                "answer": "Yes, for these courses, the course fee will be payable to Government Institutions/Colleges."
+            },
+            {
+                "question": "How is the financial assistance provided?",
+                "answer": "The financial assistance is provided in one go for the entire academic session, based on the eligibility of the registered construction worker."
+            },
+            {
+                "question": "How many children can avail benefits under the scheme?",
+                "answer": "Benefits are provided to the first two children of registered workers."
+            },
+            {
+                "question": "How can one apply for new registration under UKBOCWWB?",
+                "answer": "Workers meeting eligibility criteria can register online through Jan Seva Kendra or Shramik Suvidha Kendra with relevant documents."
+            },
+            {
+                "question": "Is there a cost for registration under UKBOCWWB?",
+                "answer": "Registration is free for three years. Afterward, a \u20b9100/- contribution is required every three years."
+            },
+            {
+                "question": "Can the status of registration application be tracked online?",
+                "answer": "The applicant can track the status of their application online by visiting the official website."
+            },
+            {
+                "question": "How can one apply for benefits under the scheme?",
+                "answer": "Eligible applicants can visit Shram Suvidha Kendra with relevant documents to apply for scheme benefits."
+            },
+            {
+                "question": "Is there an online option to track the application status for benefits?",
+                "answer": "Yes, the applicant can track the status of their application online by visiting the official website."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://ukbocw.uk.gov.in/"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+            },
+            {
+                "type": "Notification",
+                "url": "https://ukbocw.uk.gov.in/MediaGallery/Scheme_PDF/1,3,4,5,7,10.pdf"
+            },
+            {
+                "type": "Track Your Scheme Application Status",
+                "url": "https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+            },
+            {
+                "type": "Track Your New Registration Application Status",
+                "url": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+            }
+        ]
+    }
+}

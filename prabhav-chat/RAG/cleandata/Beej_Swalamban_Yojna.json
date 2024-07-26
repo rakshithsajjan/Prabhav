@@ -1,0 +1,51 @@
+{
+    "content": {
+        "title": "Beej Swalamban Yojna",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Farming Assistance",
+        "beneficiary": "Farmers",
+        "details": "The main objective of starting the Mukhyamantri Beej Swavalamban Yojana is to provide up to 50% subsidy by the Agriculture Department for providing seeds to the small and marginal general farmers of the state. Apart from this, free mini kits are to be provided to the farmers living below the poverty line. So that the farmers of the state take steps towards prosperity and self-reliance by producing seeds in their fields. And they can be encouraged to produce seeds for use in their farm. By getting the benefit of this scheme, farmers will be able to produce good crops at low cost. Due to this their economic condition will also increase. This scheme of state funds was started as a pilot project in the Kota, Bhilwara, and Udaipur agriculture blocks of the state. By expanding the scheme from the year 2018-19, the scheme is being implemented in all the blocks of the state.",
+        "benefits": [
+            "The seeds produced by the group of farmers will be used by the rest of the farmers for production in the next year."
+        ],
+        "eligibility": [
+            "Farmers, who are interested in progressive and crop-specific farming."
+        ],
+        "exclusions": [],
+        "application_process": "Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana. Get the application form to apply under this scheme. Enter all the necessary information asked in the form carefully. Attach the required documents with the application form. Submit the application form to the same agriculture department.",
+        "documents_required": [
+            "Copy of Aadhaar Card.",
+            "Copy of Bank Passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "The seeds produced by the group of farmers will be used by the rest of the farmers for production in the next year."
+            },
+            {
+                "question": "Who can get the benefits of the scheme?",
+                "answer": "Farmers, who are interested in progressive and crop-specific farming."
+            },
+            {
+                "question": "May other state farmer apply under this scheme?",
+                "answer": "No, only the Rajasthan State farmers can apply for the scheme."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana. Get the application form to apply under this scheme. Enter all the necessary information asked in the form carefully. Attach the required documents with the application form. Submit the application form to the same agriculture department."
+            },
+            {
+                "question": "Which Mandatory documents are required?",
+                "answer": "Copy of Aadhaar Card. Copy of Bank Passbook."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/bsyrj"
+            }
+        ],
+        "tags": []
+    }
+}

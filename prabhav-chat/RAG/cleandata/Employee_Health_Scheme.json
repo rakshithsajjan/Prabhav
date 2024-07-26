@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Employee Health Scheme",
+        "state": "Andhra Pradesh",
+        "department": "Dr YSR Aarogyasri Health Care Trust",
+        "type": "Health Coverage",
+        "beneficiary": "Government Employees and Pensioners",
+        "details": "The Dr YSR Aarogyasri Health Care Trust, under the auspices of the Government of Andhra Pradesh, has implemented the Employee Health Scheme (EHS) with the primary objective of providing quality healthcare to all State Government Employees. The scheme covers government employees, pensioners and their dependent family members, who are eligible for cashless treatment at empanelled hospitals or Network Hospitals (NWH). The EHS has replaced the erstwhile medical reimbursement process and offers new features such as post-hospitalisation medical care and treatment of chronic diseases.",
+        "benefits": [
+            "In-Patient Treatment: Cashless hospitalization for eligible beneficiaries.",
+            "Follow-Up Service: Follow-up services up to 1-year for listed therapies.",
+            "Out-Patient Treatment for Chronic Diseases: Coverage for treatment of pre-defined chronic diseases.",
+            "Hospital Stay: Hospital stays in semi-private or private wards based on pay grade.",
+            "Financial Coverage: Up to Rs. 2 lakhs per episode of illness."
+        ],
+        "eligibility": [
+            "Serving employees: All regular State Government employees and provincialised employees of local bodies.",
+            "Retired employees: All Service Pensioners, Family pensioners, and Re-employed service pensioners."
+        ],
+        "exclusions": [
+            "Those covered under other insurance schemes such as CGHS, ESIS, Railways, RTC, Aarogya Bhadratha of the Police Department and Aarogya Sahayatha of Prohibition & Excise Department.",
+            "Law officers, including Advocate General, State Prosecutors, State Counsels, Government Pleaders and Public Prosecutors.",
+            "Casual and Daily paid workers.",
+            "Biological parents if adopted parents exist.",
+            "All independent children.",
+            "All India Services (AIS) Officers and AIS pensioners."
+        ],
+        "application_process": "Online application process for both employees and pensioners with specific steps outlined for registration and submission.",
+        "documents_required": [
+            "Aadhaar Card: Scan of Aadhaar Card.",
+            "Photograph: A scan of a 45mm x 35mm ICAO compliant passport size colour photograph.",
+            "Disability Certificates (if any).",
+            "Spouse\u2019s Pensioner ID/Employee ID.",
+            "Date of Birth Certificate: A scan of the DOB Certificate of dependent family members less than 5 years of age."
+        ],
+        "faqs": [
+            {
+                "question": "What is the financial coverage offered by the Andhra Pradesh government under EHS?",
+                "answer": "The financial coverage offered by EHS is up to Rs. 2 lakhs per episode of illness for state government employees, pensioners, and their dependent family members."
+            },
+            {
+                "question": "How do I check the status of my EHS application?",
+                "answer": "You can check the status of your EHS application online through the official website."
+            },
+            {
+                "question": "How do I find my EHS ID?",
+                "answer": "You can find your EHS ID by contacting the 104-Seva Kendra by dialing 104."
+            },
+            {
+                "question": "What is the contribution ratio of the State Government versus the employee towards EHS?",
+                "answer": "The contribution ratio for EHS is 60:40, with the State Government contributing 60% and the employee contributing 40%."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Implementation Guidelines",
+                "url": "https://www.aputf.org/wp-content/uploads/2020/08/2013FIN_MS331.pdf"
+            },
+            {
+                "type": "YSR Aarogyasri Healthcare Trust Official Website",
+                "url": "https://www.ysraarogyasri.ap.gov.in/asri"
+            },
+            {
+                "type": "Employee Health Scheme (EHS) Login Page",
+                "url": "https://www.ehs.ap.gov.in/EHSAP/loginAction.do?actionFlag=loginPage&theme=navyblue#"
+            }
+        ],
+        "tags": [
+            "Health Scheme",
+            "Government Employees",
+            "Pensioners",
+            "Cashless Treatment"
+        ]
+    }
+}

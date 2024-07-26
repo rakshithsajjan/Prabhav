@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Indira Gandhi National Vidhva Pension yojana",
+        "state": "Rajasthan",
+        "department": "Social Justice and Empowerment Department",
+        "type": "Pension",
+        "beneficiary": "Widows",
+        "details": "The scheme 'Indira Gandhi National Vidhva Pension Yojana (IGNWPS)' started on 7-10-2009 under the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, financial support is provided to the widows of the state of Rajasthan. A widow whose household is below the poverty line is eligible to get the benefits of the pension scheme. The beneficiary receives a monthly pension amount consisting of the Central and State governments' share.",
+        "benefits": [
+            "Women who are more than 40 to less than 75 years old monthly pension of \u20b9 1000/-",
+            "Women who are more than 75 years old monthly pension of \u20b9 1500/-"
+        ],
+        "eligibility": [
+            "The applicant should have a domicile in the state of Rajasthan.",
+            "The applicant should be from a Below Poverty Line (BPL) family.",
+            "The application should be aged 40 years."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Photos of applicant",
+            "Husband's death certificate",
+            "B.P.L. card",
+            "Certificate to confirm age"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The Indira Gandhi National Widow Pension Scheme by the Government of India provides financial assistance to widows living below the poverty line."
+            },
+            {
+                "question": "Who is eligible to benefit from the Indira Gandhi National Widow Pension Scheme?",
+                "answer": "Widows belonging to economically vulnerable households, often identified based on their Below Poverty Line (BPL) status, are eligible to receive benefits under this scheme."
+            },
+            {
+                "question": "What is the amount of pension provided?",
+                "answer": "Amount of pension provided Rs 1000 to Rs1500."
+            },
+            {
+                "question": "Is there any age restriction for widows to avail benefits under this scheme?",
+                "answer": "Widow applicants of more than 40 years are eligible to receive pension benefits under this scheme."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "Fees for Indira Gandhi National Widow Pension Scheme is Rs. 33/-. Payment of fees can be done through E-Mitra."
+            },
+            {
+                "question": "May other state person apply for the scheme benefits?",
+                "answer": "No. only Rajasthan."
+            },
+            {
+                "question": "What is Bhamashah Card?",
+                "answer": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+            },
+            {
+                "question": "What is 'IFSC code'?",
+                "answer": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries."
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Urban and Rural Both."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/109"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Widow",
+            "Women"
+        ]
+    }
+}

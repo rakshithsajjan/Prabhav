@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Housing Assistance Scheme (UKBOCWWB)",
+        "state": "Uttarakhand",
+        "department": "Labour Department, Government of Uttarakhand",
+        "type": "Loan",
+        "beneficiary": "Registered construction workers",
+        "details": "The scheme 'Housing Assistance Scheme' is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB). Under the scheme, an advance loan is provided to registered construction workers for the purchase or construction of a house, subject to the conditions specified by the Board. In order to get an advance loan, the worker must have been a member of the fund for five years and have at least 15 years remaining until reaching the age of superannuation/retirement.",
+        "benefits": [
+            "Registered construction workers are eligible to receive an advance loan amount of up to \u20b950,000 for the purchase or construction of a house.",
+            "Interest of at least 5% per annum is applicable on this loan."
+        ],
+        "eligibility": [
+            "The applicant/beneficiary should be a resident of Uttarakhand.",
+            "The applicant should be engaged in any building or construction work.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant should have been a member of the fund for five years.",
+            "The applicant should have at least 15 years remaining before reaching the age of superannuation/retirement."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs. Eligible workers may visit the nearest Jan Seva Kendra or Shramik Suvidha Kendra along with all the relevant documents for online registration.",
+        "documents_required": [
+            "Two Passport size photographs",
+            "Proof of age",
+            "Certificate of working as a construction worker for at least 90 days in the previous year",
+            "Affidavit of construction worker attested by notary",
+            "Voter ID card",
+            "Ration card",
+            "[Self-declaration](https://ukbocw.uk.gov.in/images/Labour%20Registration.pdf) certificate",
+            "Identity proof of Nominee i.e. Aadhaar Card",
+            "Bank account details",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits provided under this scheme?",
+                "answer": "Under the scheme, registered construction workers can receive an advance loan of up to \u20b950,000 for purchasing or constructing a house."
+            },
+            {
+                "question": "Is there any interest applicable on the loan?",
+                "answer": "Yes, an interest of at least 5% per annum is applicable on the loan amount."
+            },
+            {
+                "question": "What are the eligibility criteria for availing this loan?",
+                "answer": "Eligible applicants must be residents of Uttarakhand, engaged in building or construction work, registered under UKBOCWWB, and have been a member of the fund for five years with at least 15 years remaining until reaching superannuation/retirement age."
+            },
+            {
+                "question": "How can one apply for new registration under UKBOCWWB?",
+                "answer": "To register, applicants must be between 18 and 60 years old, have worked as a construction worker for at least 90 days in the preceding year, and visit the nearest Jan Seva Kendra or Shramik Suvidha Kendra with relevant documents."
+            },
+            {
+                "question": "How can one avail the benefits of the scheme after registration?",
+                "answer": "Eligible applicants can visit the nearest Shram Suvidha Kendra with relevant documents to avail the benefits."
+            },
+            {
+                "question": "Can applicants track their application status?",
+                "answer": "Yes, applicants can track the status of their application online by visiting the official website: https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+            },
+            {
+                "question": "How long an applicant should be a member of the fund to qualify for this scheme?",
+                "answer": "The applicant must be a member of the fund for 5 years."
+            },
+            {
+                "question": "What is the validity of the Labour card?",
+                "answer": "The Labour card is valid for three years."
+            },
+            {
+                "question": "Is there any registration fee for a new/renewal of Labour card?",
+                "answer": "Yes, a registration fee of \u20b9100/- is to be deposited by the construction worker for both the new and renewal of Labour card."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://ukbocw.uk.gov.in/StaticPages/SpecialScheme-hi.aspx"
+            },
+            {
+                "type": "Scheme Details (Page No. 54)",
+                "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+            },
+            {
+                "type": "Track Your New Registration Application Status",
+                "url": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+            },
+            {
+                "type": "Track Your Scheme Application Status",
+                "url": "https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "House",
+            "Labour",
+            "Loan"
+        ]
+    }
+}

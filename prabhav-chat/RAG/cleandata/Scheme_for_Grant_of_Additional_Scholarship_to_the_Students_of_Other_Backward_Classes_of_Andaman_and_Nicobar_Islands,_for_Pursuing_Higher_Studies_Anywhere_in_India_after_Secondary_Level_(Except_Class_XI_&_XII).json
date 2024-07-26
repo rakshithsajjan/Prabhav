@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "Scheme for Grant of Additional Scholarship to the Students of Other Backward Classes of Andaman and Nicobar Islands, for Pursuing Higher Studies Anywhere in India after Secondary Level (Except Class XI & XII)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Social Welfare, Union Territory of Andaman and Nicobar Islands",
+        "type": "Scholarship",
+        "beneficiary": "Students of Other Backward Classes (OBC)",
+        "details": "The scheme provides additional financial assistance (Scholarship) to the OBC students belonging to the non-creamy layer of Andaman & Nicobar Islands for pursuing higher education after Secondary (X)/Senior Secondary (XII), in Government-recognized Polytechnic/ITI/College/University anywhere in India, as an incentive to supplement the cost of their education.",
+        "benefits": [
+            "\u20b91000/- per month for eligible students",
+            "Scholarship payable for a duration of ten months in an academic session",
+            "Direct credit of scholarship amount to Aadhaar-linked bank account"
+        ],
+        "eligibility": [
+            "Students belonging to a non-creamy layer of OBC of the Andaman and Nicobar Islands",
+            "Students who have passed Secondary (Class X)/Senior Secondary (Class XII) from a recognized Board of School Education",
+            "Only two children of the same parent/guardian are entitled to receive this scholarship"
+        ],
+        "exclusions": [
+            "Students repeating the same stage/level of education/course",
+            "Students pursuing another professional course after completing one",
+            "Courses funded by the Central Government or State Government or UT Administration"
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport-size photograph",
+            "Certificates of Class X/XII Diploma/Degree",
+            "Caste certificate signed by an authorized revenue officer",
+            "Non-creamy Layer Certificate",
+            "Income Certificate",
+            "Receipt of acknowledgment of the scholarship in the previous year (if applicable)",
+            "Copy of marks statement for renewal of the scholarship",
+            "Copy of Aadhaar Card",
+            "First page of bank passbook",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "To provide additional financial assistance (Scholarship) to the OBC students belonging to the non-creamy layer of Andaman & Nicobar Islands for pursuing higher education."
+            },
+            {
+                "question": "Which is the implementing department of this scheme?",
+                "answer": "Department of Social Welfare, Andaman and Nicobar Administration."
+            },
+            {
+                "question": "Who is eligible to apply under the scheme?",
+                "answer": "Students who belong to OBCs specified and notified in relation to Andaman and Nicobar Islands and are domicile of Andaman & Nicobar Islands."
+            },
+            {
+                "question": "What is the benefit of the scheme?",
+                "answer": "An amount of \u20b91000/- per month shall be sanctioned to the eligible students."
+            },
+            {
+                "question": "How to apply for this scholarship?",
+                "answer": "Online submission of the application form can be done through the National Scholarship Portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/Andaman/3027_G.pdf"
+            },
+            {
+                "type": "National Scholarship Portal",
+                "url": "https://scholarships.gov.in/"
+            }
+        ],
+        "tags": [
+            "Higher Study",
+            "OBC",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

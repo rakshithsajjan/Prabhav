@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Naunihal Scholarship Yojana",
+        "state": "Chhattisgarh",
+        "department": "Labor Department of Chhattisgarh",
+        "type": "Scholarship",
+        "beneficiary": "Children of poor workers",
+        "details": "Chhattisgarh Naunihal Scholarship Scheme has been started by the Government of Chhattisgarh and operated by the Labor Department of Chhattisgarh. This scheme is basically for the children of poor workers of the state who leave their studies due to money. To avail the benefits of the scheme, it is mandatory for the candidate to have a bank account. The amount of scholarship given by the government will be deposited in his bank account.",
+        "benefits": [
+            "Scholarship amount payable in lump sum annually based on class/course."
+        ],
+        "eligibility": [
+            "Applicant should be resident of Chhattisgarh.",
+            "Only two children from a same family will get the benefits.",
+            "There is no requirement for a specific grade to obtain the scholarship.",
+            "There will be no requirement of marks to avail the benefits of the scheme.",
+            "After admission in college/polytechnic or other course for engineering or medical education, the students receiving scholarship amount under this scheme will be required to study for minimum 1 year in that course. In case of first year dropout, the scholarship amount will have to be returned.",
+            "The beneficiary should have worked as a construction worker for at least 90 days in the period of one year before the date of application."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The registered construction worker can submit the online application through labor office of the concerned area. Online application will be submitted from the date of commencement of the academic session till 31st December.",
+        "documents_required": [
+            "Original scanned copy of the beneficiary's surviving labor registration identity card.",
+            "Original scanned copy of Aadhaar card of sons/daughters of beneficiary workers.",
+            "Original scanned copy of the certificate issued by the Principal in the prescribed format.",
+            "Original scanned copy of the mark sheet of previous class passed.",
+            "Original scanned copy of bank passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Chhattisgarh Naunihal Scholarship Scheme has been started by the Government of Chhattisgarh in 2017."
+            },
+            {
+                "question": "What is the benefits of the scheme?",
+                "answer": "Student will get the financial assistance."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "There will be no requirement of marks to avail the benefits of the scheme. After admission in college/polytechnic or other course for engineering or medical education, the students receiving scholarship amount under this scheme will be required to study for minimum 1 year in that course. In case of first year dropout, the scholarship amount will have to be returned. The beneficiary should have worked as a construction worker for at least 90 days in the period of one year before the date of application."
+            },
+            {
+                "question": "For how many children can the applicant avail the benefit of this scheme?",
+                "answer": "Only upto 2 children."
+            },
+            {
+                "question": "What is the marks eligibility criteria in previous class to get scholarship?",
+                "answer": "There will be no requirement of marks to avail the scheme benefits."
+            },
+            {
+                "question": "For which classes/course student will get the scholarship?",
+                "answer": "Students will get the scholarship from class 1st to 12th, Graduation, Post Graduation and PhD."
+            },
+            {
+                "question": "How to apply for the scholarship?",
+                "answer": "The registered construction worker can submit the online application through labor office of the concerned area."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Original scanned copy of the beneficiary's surviving labor registration identity card, Aadhaar card of sons/daughters of beneficiary workers, certificate issued by the Principal, mark sheet of previous class passed, and bank passbook."
+            },
+            {
+                "question": "Will the student get scholarship every month?",
+                "answer": "No, The amount will be payable in lump sum annually."
+            },
+            {
+                "question": "May working person also apply for this scheme?",
+                "answer": "No, this scholarship is only for students."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cglabour.nic.in/BOCW/BOCADHISUCHNA/193788_10_05_2019.pdf"
+            },
+            {
+                "type": "Website",
+                "url": "https://cglabour.nic.in/BOCW/ApplicationSchemes.aspx"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Financial Assistance",
+            "Scholarship",
+            "Student Finance"
+        ]
+    }
+}

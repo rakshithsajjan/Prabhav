@@ -1,0 +1,72 @@
+{
+    "content": {
+        "title": "Assistance to Training Institutions Scheme",
+        "state": "India",
+        "department": "Ministry of Micro, Small and Medium Enterprises",
+        "type": "Financial Assistance",
+        "beneficiary": "Training Institutions under the Ministry of MSME",
+        "details": "The scheme 'Assistance to Training Institutions (ATI) Scheme' was launched by the Ministry of Micro, Small & Medium Enterprises, Government of India. Under the scheme, assistance would be provided to the training institutions under the Ministry of MSME for the creation, strengthening and expansion of infrastructure, including the setting up of new branches and centres. Further, assistance would be provided for meeting any revenue deficit with the National Institute for Micro, Small and Medium Enterprises (NIMSME).",
+        "benefits": [
+            "Financial assistance for infrastructure development",
+            "Support for faculty training",
+            "Development of capability in undertaking studies and research on MSME sector",
+            "Assistance for skill development programmes"
+        ],
+        "eligibility": [
+            "Existing State Level EDIs owned and controlled by a State Government/UT",
+            "Training institutions of the Ministry of MSME"
+        ],
+        "exclusions": [
+            "Private training institutions/NGOs are not covered under the scheme for assistance for infrastructure support and training programmes."
+        ],
+        "application_process": "Offline. Proposals for assistance shall be submitted to the Deputy Secretary/Director (EDI), M/o MSME, Udyog Bhawan, New Delhi 110011.",
+        "documents_required": [
+            "Copy of PAN Card",
+            "MSME registration certificate/ Udyam Registration of the unit",
+            "Bank account details",
+            "Any other document, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Assistance to Training Institutions Scheme'?",
+                "answer": "Under the scheme, assistance would be provided to the training institutions under the Ministry of MSME for creation, strengthening and expansion of infrastructure, including setting-up of new branches and centres."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of the scheme is to strengthen and create infrastructure and facilitate and provide assistance for entrepreneurship and related skill development training programmes."
+            },
+            {
+                "question": "Which is the implementing department of this scheme?",
+                "answer": "Ministry of Micro, Small & Medium Enterprises, Government of India."
+            },
+            {
+                "question": "Which types of institutions are eligible to get the benefits of the scheme?",
+                "answer": "The benefits, under the scheme, can be availed only by the training institutions of the Ministry of MSME and the State-level EDIs."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "The proposals from national and state level EDIs, training institutions of M/o MSME etc. for grant of financial assistance under the scheme shall be submitted to the Deputy Secretary/Director (EDI), M/o MSME, Udyog Bhawan, New Delhi 110011."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://msme.gov.in/sites/default/files/ATIguidelinesEnglish.pdf"
+            },
+            {
+                "type": "Invest India Portal",
+                "url": "https://www.investindia.gov.in/schemes-msmes-india/assistance-training-institutions-ati-scheme"
+            },
+            {
+                "type": "Website",
+                "url": "https://ati.msme.gov.in/ATI/home.aspx"
+            }
+        ],
+        "tags": [
+            "MSME",
+            "Training",
+            "Financial Assistance",
+            "Skill Development"
+        ]
+    }
+}

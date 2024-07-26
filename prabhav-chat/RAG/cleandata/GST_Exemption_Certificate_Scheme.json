@@ -1,0 +1,118 @@
+{
+    "content": {
+        "title": "GST Exemption Certificate Scheme",
+        "state": "Not specified",
+        "department": "Ministry of Heavy Industries",
+        "type": "Concession",
+        "beneficiary": "Persons with Disabilities (PwDs)",
+        "details": "The 'GST Exemption Certificate Scheme' has been introduced by the Department of Heavy Industries, Ministry of Heavy Industries for issuing certificates to Persons with Disabilities (PwDs) having a disability percentage equal to or greater than 40%. The scheme provides GSC Concession to orthopedically disabled persons on purchase of a car.",
+        "benefits": [
+            "A concession of 10% on GST can be availed through this certificate and zero cess would be applicable. A person availing of this certificate will have to pay 18% GST & no cess instead of 28% GST & applicable cess on the purchase of a car.",
+            "The certificate is issued within a month of receipt of the application complete in all respects.",
+            "The certificate is valid for a period of 6 months from the date of issuance."
+        ],
+        "eligibility": [
+            "Any Orthopedic Physically handicapped person having a permanent disability of 40% & above can apply for the benefit under the scheme, irrespective of whether the applicant drives the vehicle himself or otherwise.",
+            "Cars (automatic or manual) having a length less than or equal to 4m and engine capacity of not more than 1200 cc (petrol, Liquefied Petroleum Gases (LPG) or compressed natural gas (CNG) or 1500 cc (diesel) qualify for purchase under this scheme.",
+            "The said Certificate for availing the GST concession would be valid for a period of three months from the date of issue of the certificate and the vehicle would have to be purchased by the applicant within this three-month period to avail the concession."
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online. Interested and eligible applicants may send their applications in the prescribed format along with all required documents to the following address: The Under Secretary (AEI Section), Department of Heavy Industry, Udyog Bhavan, Room No 428, New Delhi 110011, Tel: 011-23061490. The applicant would inform DHI about the purchase of the vehicle and the Registration number of the vehicle to the Department of Heavy Industry within a period of 30 days from the date of registration of the vehicle.",
+        "documents_required": [
+            "Aadhar Card",
+            "PAN Card",
+            "Unique Disability ID card (UDID) or Disability certificate",
+            "Income Tax Return filed for the last three years.",
+            "Self-Declaration stating that he has not availed this concession in the last five years and he will not dispose of the vehicle after availing the GST concession for a period of 5 years from the date of purchase.",
+            "Details of the Vehicle Model they intend to purchase along with the name of the dealer from whom the vehicle will be purchased and the name of RTO, where the vehicle will be registered."
+        ],
+        "faqs": [
+            {
+                "question": "What is the process for updating vehicle details after purchase?",
+                "answer": "After purchasing a vehicle, applicants can update their vehicle details on the portal by providing the vehicle number and date of purchase."
+            },
+            {
+                "question": "Is the scheme available for both new and used vehicles?",
+                "answer": "The guidelines specify the criteria for the eligible vehicles but do not distinguish between new or used cars."
+            },
+            {
+                "question": "Can the online application be saved as a draft and completed later?",
+                "answer": "Yes, the online application can be saved as a draft in the User Dashboard and completed at a later time."
+            },
+            {
+                "question": "What happens if an applicant misses the three-month window for purchasing the vehicle?",
+                "answer": "Missing the three-month window for purchasing the vehicle means the applicant won't be able to avail the concession, and they may need to reapply."
+            },
+            {
+                "question": "Can a person apply for this scheme if they don't drive the vehicle themselves?",
+                "answer": "Yes, the scheme is open to both individuals who drive the vehicle themselves and those who don't."
+            },
+            {
+                "question": "How is the 10% GST concession calculated for vehicle purchases?",
+                "answer": "The 10% GST concession is calculated as a reduction of the standard GST rate, which is 28%, to 18% for eligible applicants."
+            },
+            {
+                "question": "What should applicants do if they face technical issues during the online application process?",
+                "answer": "If technical issues occur during the online application, it's recommended to contact the provided support or helpdesk for assistance."
+            },
+            {
+                "question": "Is there any specific format or template for the self-declaration statement, or can applicants draft it themselves?",
+                "answer": "It's advisable to use the prescribed format for the self-declaration statement to ensure it meets the scheme's requirements."
+            },
+            {
+                "question": "What is the significance of the OTP in the registration process?",
+                "answer": "The OTP (One-Time Password) is used for verification and ensures that the applicant's contact information is valid."
+            },
+            {
+                "question": "What is the process if an applicant's disability certificate is from a district government?",
+                "answer": "If the disability certificate is from a district government, it should bear the proper signature and seal of the issuing authority, and the name and registration number should be mentioned."
+            },
+            {
+                "question": "How long does it usually take for the certificate to be issued after submitting an application?",
+                "answer": "The certificate is typically issued within a month from the date of receiving a complete application."
+            },
+            {
+                "question": "Can you provide more details about the required specifications for creating a password during online registration?",
+                "answer": "The password must include at least one lowercase letter, one uppercase letter, one number, one special character, and be a minimum of 8 characters in length."
+            },
+            {
+                "question": "How is the engine capacity of a vehicle determined for this scheme?",
+                "answer": "Engine capacity is based on the type of fuel (petrol, LPG, CNG, or diesel) and must meet the specified limits to qualify for the concession."
+            },
+            {
+                "question": "What are the consequences if someone disposes of the vehicle within five years after availing the GST concession?",
+                "answer": "If the vehicle is disposed of within five years, the applicant may be subject to penalties or other legal consequences."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://gecs.heavyindustries.gov.in/assets/site/main/DHIGECS_procedure_/(Revised/).pdf"
+            },
+            {
+                "type": "User Manual - Application Process",
+                "url": "https://gecs.heavyindustries.gov.in/assets/site/main/User_Manual_New.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://gecs.heavyindustries.gov.in/assets/site/main/FAQS.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://gecs.heavyindustries.gov.in/home/contactUs"
+            },
+            {
+                "type": "Approved Applications",
+                "url": "https://gecs.heavyindustries.gov.in/home/allOnlineGSTConcessionApprovedApplicant"
+            }
+        ],
+        "tags": [
+            "GST",
+            "Exemption",
+            "Certificate",
+            "Concession",
+            "Person With Disability",
+            "PwD"
+        ]
+    }
+}

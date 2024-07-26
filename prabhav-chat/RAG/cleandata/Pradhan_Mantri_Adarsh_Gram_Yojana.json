@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Adarsh Gram Yojana",
+        "state": "Rural Development",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Government Scheme",
+        "beneficiary": "Scheduled Castes majority villages",
+        "details": "With a view to enabling an area-based development approach, a new scheme Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched during 2009-10. The Scheme aims at integrated development of Scheduled Castes majority villages. The principal objective of PMAGY is the integrated development of SC majority Villages primarily through convergent implementation of the relevant Central and State/UT Government Schemes and by taking up identified activities, which do not get covered under the existing Central and State Government Schemes, through \u2018Gap-filling\u2019 funds provided as Central Assistance to the extent of \u20b920,00,000 per village.",
+        "benefits": [
+            "Should be connected to the nearest major road by an all-weather road.",
+            "Access for all to safe drinking water on a sustainable basis.",
+            "All houses should have electricity.",
+            "The village should have slush-free internal roads and adequate street lighting.",
+            "The village should have adequate communication facilities, such as post-office, telephones, and, if possible, internet.",
+            "Availability of adequate banking facilities through regular branches in the village or in close proximity.",
+            "All residents should have adequate housing, and there should be no homeless families.",
+            "The village should have a high degree of sanitation.",
+            "The village should take care of its environment through planting trees and use of renewable sources of energy.",
+            "Should have an Anganwadi center and schools of appropriate levels.",
+            "Access for all to primary health care and Reproductive Child Health (RCH) facilities.",
+            "All youth and adults of the village should have adequate employment and means of livelihood."
+        ],
+        "eligibility": [
+            "Out of the villages having more than 50% SC population, only those with a total population greater than 500 will be eligible for selection."
+        ],
+        "exclusions": [],
+        "application_process": "No Application process is specified",
+        "documents_required": [],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Guidelines (English)",
+                "url": "https://pmagy.gov.in/Docs/PMAGY_Guidelines-Revised_July_2020.pdf"
+            },
+            {
+                "type": "Guidelines (Other Languages)",
+                "url": "https://pmagy.gov.in/Guidelines-All-Languages"
+            },
+            {
+                "type": "Format For Utilization Certificate",
+                "url": "https://pmagy.gov.in/Docs/utilization_certifi.pdf"
+            },
+            {
+                "type": "List Of Villages Covered Under PMAGY",
+                "url": "https://pmagy.gov.in/covered-villages"
+            }
+        ],
+        "tags": [
+            "Adarsh Gram",
+            "Scheduled Castes",
+            "Rural Development",
+            "Government Scheme"
+        ]
+    }
+}

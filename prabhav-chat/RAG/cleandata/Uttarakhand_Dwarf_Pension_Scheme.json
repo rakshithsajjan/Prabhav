@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Uttarakhand Dwarf Pension Scheme",
+        "state": "Uttarakhand",
+        "department": "Uttarakhand Social Welfare Department",
+        "type": "Pension",
+        "beneficiary": "Individuals with dwarfism",
+        "details": "The Dwarf Pension Scheme, under the Uttarakhand Social Welfare Department, aims to integrate individuals with dwarfism into mainstream society by providing financial assistance. Recognizing the challenges faced by dwarf persons in their daily lives, the scheme offers a monthly pension to support their livelihood and social inclusion.",
+        "benefits": [
+            "Monthly pension of \u20b91,200/- (one thousand two hundred)."
+        ],
+        "eligibility": [
+            "The applicant's height should be below 4 feet for getting benefits of the Dwarf Pension Scheme.",
+            "The age should be 21 years or more, and the benefit of any other scheme is not being provided under the social security program.",
+            "The applicant should be a resident of Uttarakhand state.",
+            "There is no provision for a monthly income limit for eligibility under this scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar card.",
+            "Bank account details.",
+            "Passport-size photos.",
+            "Caste certificate.",
+            "Height certificate issued by Social Welfare Department Officer."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the Dwarf Pension Scheme?",
+                "answer": "The objective of the Dwarf Pension Scheme is to connect dwarf individuals with the mainstream of society by providing financial assistance."
+            },
+            {
+                "question": "How much financial assistance is provided under the Dwarf Pension Scheme?",
+                "answer": "The scheme provides financial assistance of \u20b91200 per month."
+            },
+            {
+                "question": "Who is eligible for the Dwarf Pension Scheme?",
+                "answer": "Individuals whose height is less than 4 feet, who are 21 years or older, and who are not receiving benefits from any other social security program."
+            },
+            {
+                "question": "What is the age requirement for eligibility under the Dwarf Pension Scheme?",
+                "answer": "The individual must be 21 years or older."
+            },
+            {
+                "question": "Is there a monthly income limit for eligibility under the Dwarf Pension Scheme?",
+                "answer": "No, there is no provision of a monthly income limit for eligibility under this scheme."
+            },
+            {
+                "question": "Who implements the Dwarf Pension Scheme?",
+                "answer": "The Dwarf Pension Scheme is implemented by the Uttarakhand Social Welfare Department."
+            },
+            {
+                "question": "How can I apply online for this scheme?",
+                "answer": "The applicant has to visit the Department Of Social Welfare website."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialwelfare.uk.gov.in/pages/display/120-bauna-pension"
+            },
+            {
+                "type": "Registration",
+                "url": "https://ssp.uk.gov.in/OnlineRegistration/FrmBaunaOnlineApplicationForm.aspx"
+            }
+        ],
+        "tags": [
+            "Dwarf Pension",
+            "Social Empowerment",
+            "Uttarakhand"
+        ]
+    }
+}

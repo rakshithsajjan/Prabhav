@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "Scheme Of Assistance To Disabled Persons For Purchase/Fitting Of Aids/Appliances",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Grant",
+        "beneficiary": "Persons with Disabilities (PwD)",
+        "details": "The 'Scheme of Assistance to Disabled Persons for Purchase/Fitting of Aids/Appliances' or the 'ADIP Scheme' was launched on 1st Jan 1981 by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment, to assist disabled persons in procuring suitable, durable, scientifically-manufactured, modern, standard aids and appliances, that can promote their physical, social and psychological rehabilitation by reducing the effects of disabilities and enhance their economic potential.",
+        "benefits": [
+            "Full financial assistance for aids/appliances costing up to \u20b9 15,000",
+            "Financial assistance up to \u20b9 15,000 for aids/appliances costing between \u20b9 15,001 to \u20b9 30,000",
+            "50% cost coverage for expensive items costing above \u20b9 30,001, subject to income ceiling",
+            "Cochlear Implant and post-operative therapy for children with Hearing Impairment with a ceiling of \u20b9 7.00 lakh per unit",
+            "Traveling costs and boarding/lodging expenses for eligible beneficiaries"
+        ],
+        "eligibility": [
+            "An Indian citizen of any age",
+            "Holding a 40% Disability Certificate",
+            "Monthly income not exceeding \u20b9 30,000",
+            "Not having received assistance during the last 3 years for the same purpose"
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online via Common Service Centres (CSCs)",
+        "documents_required": [
+            "Passport Size Photographs",
+            "A copy of the disability certificate",
+            "Address proof (Aadhaar Card, Voter Id Card, Ration Card)",
+            "A copy of the Income Certificate",
+            "An undertaking that the same aids & assistive devices have not been received from any source during the last three years",
+            "Aadhaar Card"
+        ],
+        "faqs": [
+            {
+                "question": "What Is Scheme Of Assistance To Disabled Persons For Purchase/Fitting Of Aids/Appliances ADIP Scheme And How It Is Helping Empowering Divyangjan?",
+                "answer": "Under the ADIP Scheme, assistive devices are given to PwDs with the aim to improve their independent functioning and arrest the extent of disability and occurrence of secondary disability."
+            },
+            {
+                "question": "What Are The Documents Required?",
+                "answer": "Passport Size Photographs, a copy of the disability certificate, address proof, a copy of the Income Certificate, and an undertaking that the same aids & assistive devices have not been received from any source during the last three years."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://disabilityaffairs.gov.in/upload/uploadfiles/files/Revised%20ADIP%20Scheme%202022%20English.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://adip.disabilityaffairs.gov.in/ADIP/faq_adip"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Assistive Devices",
+            "Social Welfare",
+            "Empowerment"
+        ]
+    }
+}

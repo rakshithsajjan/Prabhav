@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Nikshay Poshan Yojana",
+        "state": "India",
+        "department": "Ministry Of Health & Family Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Tuberculosis patients",
+        "details": "The NIKSHAY - TB Notification incentive for Private Sector scheme is a Government of India initiative to incentivize private sector healthcare providers for notifying tuberculosis (TB) cases to the government. The scheme was launched in 2018 and is implemented by the Ministry of Health and Family Welfare. All notified TB patients are beneficiaries of the scheme. All TB patients notified on or after 1st April 2018 including all existing TB patients under treatment are eligible to receive incentives. The patient must be registered/notified on the NIKSHAY portal.",
+        "benefits": [
+            "Financial incentive of Rs.500/- per month for each notified TB patient for duration for which the patient is on anti-TB treatment"
+        ],
+        "eligibility": [
+            "All patients with tuberculosis (TB) who are notified to the government on or after April 1, 2018, including those who are already being treated for TB, are eligible for financial incentives.",
+            "To be eligible for the incentives, patients must be registered or notified on the NIKSHAY portal."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Patient's Aadhaar Details",
+            "Patient's Medical Report",
+            "Treatment details",
+            "Healthcare provider's information, such as the name and address of the facility",
+            "Healthcare provider's registration certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is the NIKSHAY - TB Notification incentive for Private Sector scheme?",
+                "answer": "The NIKSHAY - TB Notification incentive for Private Sector scheme is a Government of India initiative to incentivize private sector healthcare providers for notifying tuberculosis (TB) cases to the government. The scheme was launched in 2018 and is implemented by the Ministry of Health and Family Welfare."
+            },
+            {
+                "question": "Who is eligible for the NIKSHAY - TB Notification incentive for Private Sector scheme?",
+                "answer": "Private sector healthcare providers are eligible for the NIKSHAY - TB Notification incentive for Private Sector scheme if they: 1. Register with the NIKSHAY portal 2. Notify all TB cases diagnosed in their facility to the government through the NIKSHAY portal."
+            },
+            {
+                "question": "What are the benefits of the NIKSHAY - TB Notification incentive for Private Sector scheme?",
+                "answer": "Private sector healthcare providers are eligible for a financial incentive of \u20b9 500 for notifying each TB case to the government."
+            },
+            {
+                "question": "How the amount will be given?",
+                "answer": "The amount will directly be transferred to the bank accounts of the beneficiaries through DBT."
+            },
+            {
+                "question": "How to register on the NIKSHAY portal?",
+                "answer": "To register on the NIKSHAY portal, visit the NIKSHAY portal website and click on the 'Register' button. Enter your personal information and healthcare facility information, and create a password. Once you have registered, you will receive an email with a verification link. Click on the link to verify your account."
+            },
+            {
+                "question": "How do I notify a TB case to the government through the NIKSHAY portal?",
+                "answer": "To notify a TB case to the government through the NIKSHAY portal, log in to the portal and click on the 'Notify TB Case' button. Enter the patient's personal information, TB diagnosis information, and treatment information. Click on the 'Submit' button to notify the government of the TB case."
+            },
+            {
+                "question": "What documents do I need to submit to be eligible for the NIKSHAY - TB Notification incentive for Private Sector scheme?",
+                "answer": "1. Patient's Aadhaar Details. 2. Patient's Medical Report. 3. Treatment details. 4. Healthcare provider's information, such as the name and address of the facility. 5. Healthcare provider's registration certificate."
+            },
+            {
+                "question": "How long does it take to process my NIKSHAY - TB Notification incentive payment?",
+                "answer": "It typically takes 2-3 weeks to process your NIKSHAY - TB Notification incentive payment."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://tbcindia.gov.in/WriteReadData/l892s/6851513623Nutrition%20support%20DBT%20Scheme%20details.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.nikshay.in/"
+            },
+            {
+                "type": "Manual",
+                "url": "https://communitysupport.nikshay.in/Guidance_Booklet_16_09_2022.pdf"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Tuberculosis",
+            "Financial Assistance"
+        ]
+    }
+}

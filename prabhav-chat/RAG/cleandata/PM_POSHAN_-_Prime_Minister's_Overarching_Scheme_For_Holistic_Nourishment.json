@@ -1,0 +1,47 @@
+{
+    "content": {
+        "title": "PM POSHAN - Prime Minister's Overarching Scheme For Holistic Nourishment",
+        "state": "All States",
+        "department": "Department of School Education & Literacy, Ministry of Education",
+        "type": "Centrally Sponsored Scheme",
+        "beneficiary": "Children studying in Government and Government-aided schools",
+        "details": "PM POSHAN is a centrally sponsored scheme that provides one hot cooked meal to children studying in Government and Government-aided schools across the country. The scheme aims to improve the nutritional status of eligible children and encourage regular school attendance.",
+        "benefits": [
+            "Nutrition norm per child per day: Primary - Calorie \u2013 450; Protein - 12 gms; Upper Primary - Calorie \u2013 700; Protein - 20 gms.",
+            "Food norms per child per day: Primary - Food grains - 100 gms; Pulses - 20 gms; Vegetables - 50 gms; Oil & fat - 5 gms; Upper Primary - Food grains - 150 gms; Pulses - 30 gms; Vegetables - 75 gms."
+        ],
+        "eligibility": [
+            "The applicant must be a citizen of India.",
+            "The applicant must be studying in a Primary or Upper Primary class (Class 1st to Class 8th) in a Government or a Government-aided school."
+        ],
+        "exclusions": [
+            "NA"
+        ],
+        "application_process": "Offline. There is no application process for this scheme.",
+        "documents_required": [
+            "NA"
+        ],
+        "faqs": [
+            {
+                "question": "Are there any FAQs available for this scheme?",
+                "answer": "No FAQs available for this Scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://mdm.nic.in/mdm_website/Files/Guidelines/PM-Poshan/PM%20POSHAN-6_oct_21.pdf"
+            },
+            {
+                "type": "Press Information Bureau",
+                "url": "https://pib.gov.in/Pressreleaseshare.aspx?PRID=1812421#:~:text=The%20Government%20has%20approved%20the,by%20the%20Ministry%20of%20Education."
+            }
+        ],
+        "tags": [
+            "Nutrition",
+            "Education",
+            "Children",
+            "Government Scheme"
+        ]
+    }
+}

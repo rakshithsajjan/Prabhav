@@ -1,0 +1,120 @@
+{
+    "content": {
+        "title": "Mahatma Gandhi National Rural Employment Guarantee Act",
+        "state": "India",
+        "department": "Ministry of Rural Development",
+        "type": "Employment Guarantee Scheme",
+        "beneficiary": "Rural wage seekers",
+        "details": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) aims to enhance livelihood security in rural areas by providing at least 100 days of guaranteed wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
+        "benefits": [
+            "Guaranteed wage employment for 100 days",
+            "Social security for rural workers",
+            "Empowerment of women and marginalized groups",
+            "Improvement of rural infrastructure"
+        ],
+        "eligibility": [
+            "Adult members of rural households",
+            "Willing to do unskilled manual work"
+        ],
+        "exclusions": [],
+        "application_process": "Registration can be done at the local Gram Panchayat office throughout the year.",
+        "documents_required": [
+            "Proof of residence",
+            "Identity proof"
+        ],
+        "faqs": [
+            {
+                "question": "Who Are The Key Stakeholders In MGNREGA?",
+                "answer": "The key stakeholders in MGNREGA are wage seekers, Gram Sabha, Three-tier Panchayati Raj Institutions, Programme Officer at the Block level, District Programme Coordinator, State Government, Ministry of Rural Development, Civil Society, and other stakeholders."
+            },
+            {
+                "question": "Will The Wage Be Paid Monthly, Weekly Or On Daily Basis?",
+                "answer": "The disbursement of daily wages shall be made on a weekly basis or not later than a fortnight after the work was done."
+            },
+            {
+                "question": "What Is Wage Rate For Women Employed For Providing Child Care Services?",
+                "answer": "The women so employed should be paid remuneration equivalent to the prevailing wage rate."
+            },
+            {
+                "question": "What Information Will Be Provided In The Wage Slip?",
+                "answer": "Individual pay slips should have details like work ID, wage rate, number of days worked, amount earned, number of mandays completed, and number of mandays of employment due."
+            },
+            {
+                "question": "How Are The Payments Of Wages Made To The Wage Seekers?",
+                "answer": "Payments shall be made through the individual savings accounts of the workers in relevant banks or post offices."
+            },
+            {
+                "question": "Is There Any Authentic Document Required To Open The Wage Seeker Account?",
+                "answer": "MGNREGS Job Card, duly signed by the concerned officer, is an officially valid document for opening a bank account."
+            },
+            {
+                "question": "Is there any compensation for delay in payment of wages?",
+                "answer": "Workers are entitled to receive delay compensation at a rate of 0.05 per cent of the unpaid wages per day for delays beyond the sixteenth day."
+            },
+            {
+                "question": "What social security is provided for MGNREGS workers?",
+                "answer": "Insurance provided includes Janashree Bima Yojana for life coverage and Rashtriya Swasthya Bima Yojana for health coverage."
+            },
+            {
+                "question": "Who Is Designated As PO In MGNREGS?",
+                "answer": "Executive authorities such as Tehsildar/Block Development Officer are designated as Programme Officers."
+            },
+            {
+                "question": "Is There Any Pre-Printed Form For Providing Details While Registering For Job Card?",
+                "answer": "The State Government may provide a printed form, but it should not be insisted upon."
+            },
+            {
+                "question": "Can All Adult Members Of A Household Register For Job Card?",
+                "answer": "Yes, all adult members willing to do unskilled manual work can register."
+            },
+            {
+                "question": "For How Many Years Is The Registration For Job Card Valid?",
+                "answer": "The registration is valid for five years and may be renewed as required."
+            },
+            {
+                "question": "When Is An Applicant Eligible For Unemployment Allowance?",
+                "answer": "If employment is not provided within fifteen days of application, unemployment allowance becomes due."
+            },
+            {
+                "question": "Who Constitutes Special Category Of Workers Under MGNREGA?",
+                "answer": "Special categories include persons with disabilities, tribal groups, women in special circumstances, and senior citizens."
+            },
+            {
+                "question": "Are Any Special Works Identified For Differently Abled Persons Working Under MGNREGA?",
+                "answer": "Yes, works like drinking water arrangements and plantation are identified for differently abled persons."
+            },
+            {
+                "question": "Who Are Eligible To Become Members In Labour Groups?",
+                "answer": "Workers who have put in 10 days of work during the previous year are eligible."
+            },
+            {
+                "question": "What Is The Procedure To Register Oneself For Employment?",
+                "answer": "Households may apply for registration at the local Gram Panchayat office."
+            },
+            {
+                "question": "If The Information Contained In The Application Found To Be Incorrect, What Is The Process?",
+                "answer": "The application will be referred to the PO for verification and processing."
+            },
+            {
+                "question": "Should The Cost Towards Job Card Be Borne By The Applicant?",
+                "answer": "No, the cost of Job Cards is covered under administrative expenses."
+            },
+            {
+                "question": "Is There Any Provision To Provide Duplicate Job Card For A Lost One?",
+                "answer": "Yes, a Job Cardholder may apply for a duplicate if the original is lost or damaged."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/mgnrega"
+            }
+        ],
+        "tags": [
+            "Employment",
+            "Rural Development",
+            "Social Security",
+            "MGNREGA"
+        ]
+    }
+}

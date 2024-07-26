@@ -1,0 +1,58 @@
+{
+    "content": {
+        "title": "Internship Scheme By The Unique Identification Authority Of India (UIDAI)",
+        "state": "India",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Internship",
+        "beneficiary": "Students",
+        "details": "The Internship Scheme by the Unique Identification Authority of India (UIDAI) enables the students to gain adequate exposure to various Technology tracks and other units within UIDAI Headquarters, Technology Centre and Regional offices. It would be expected to work in the field of application development, legal domains (like cyber laws/IT act) & general management. For the \u201cInterns\u201d the exposure to the functioning of the UIDAI & the technologies applied shall be an add-on furthering their future career prospects in niche technology, legal domains, management and many other areas as the case may be.",
+        "benefits": [
+            "Stipend for various fields of study",
+            "Logistic support for lodging",
+            "Experience certificate upon completion"
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a bonafide student of any recognized University/ Institution within India or abroad.",
+            "The applicant should fulfil ANY ONE of the following conditions: 1) Studying in the 3rd / 4th year (Final or pre-final) in B.Tech / BE course with a minimum of 60% marks. 2) Graduate student having completed/ appeared in the term-end exams of the 1st year/2nd semester of their post-graduate programme with not less than 60%. 3) Recent graduates waiting for admission to higher studies or job with 60% or more cumulative marks."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline. Interested and eligible students need to Email their duly filled and signed application form in the prescribed format, along with the required (self-attested) documents to webadmin-uidai@nic.in.",
+        "documents_required": [
+            "Original NOC from the Head of the Department/Principal.",
+            "Recommendation letter from the PhD supervisor (for Fellowship).",
+            "Application sponsored by the current institution."
+        ],
+        "faqs": [
+            {
+                "question": "What Is The Duration Of The UIDAI Internship Scheme?",
+                "answer": "The duration of the UIDAI internship scheme is a minimum of two months and a maximum of six months."
+            },
+            {
+                "question": "Is There Any Application Fee For The UIDAI Internship Scheme?",
+                "answer": "No, there is no application fee for the UIDAI internship scheme."
+            },
+            {
+                "question": "Will Interns Receive An Experience Certificate?",
+                "answer": "Yes, UIDAI will issue a certificate for the internship period upon completion of assigned work."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://uidai.gov.in/images/Internship_policy.pdf"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/isuidai"
+            }
+        ],
+        "tags": [
+            "Cyber Law",
+            "Internship",
+            "Legal",
+            "Management",
+            "Student"
+        ]
+    }
+}

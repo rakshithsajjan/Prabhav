@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Saksham Scheme for Backward Classes",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Loan",
+        "beneficiary": "Young Professionals",
+        "details": "The scheme 'Saksham Scheme for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans of up to \u20b910,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, and similar establishments. Applicants must be between 18 and 35 years old, permanent residents of Haryana, and belong to the Backward Class.",
+        "benefits": [
+            "Loans of up to \u20b910,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, etc."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant should be between 18 and 35 years old.",
+            "The applicant should belong to the Backward Class Category.",
+            "The applicant's annual family income should not exceed \u20b93,00,000/- in both rural and urban areas.",
+            "The applicant should have professional and academic training."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity/Citizenship Proof (Any one of the following): Aadhaar Card",
+            "Age Proof (Any one of the following): Aadhaar Card",
+            "Resident Proof/Address Proof/Ownership Proof (Any one of the following): Ration Card, Haryana Domicile Certificate",
+            "Caste/Religion Proof (Any one of the following): Caste Certificate for reserved category",
+            "Photo of Applicant",
+            "Bank account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum loan amount provided under the Scheme?",
+                "answer": "The maximum loan amount provided under the scheme is \u20b910,00,000/-."
+            },
+            {
+                "question": "What types of establishments can be set up under the scheme?",
+                "answer": "The scheme supports the establishment of Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, and similar professional setups."
+            },
+            {
+                "question": "What is the age limit for applicants of the scheme?",
+                "answer": "Applicants must be between 18 and 35 years old."
+            },
+            {
+                "question": "What is the income criterion for eligibility?",
+                "answer": "The annual family income of the applicant should not exceed \u20b93,00,000/-."
+            },
+            {
+                "question": "How can applicants apply for the scheme?",
+                "answer": "Applicants can apply through the official Antyodaya-SARAL Portal."
+            },
+            {
+                "question": "How can applicants track their application status?",
+                "answer": "Applicants can track their applications through the Official Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID."
+            },
+            {
+                "question": "Is there any training required to apply for the Saksham Scheme?",
+                "answer": "Yes, applicants should have relevant professional and academic training to be eligible."
+            },
+            {
+                "question": "Can applicants from outside Haryana apply for the Saksham Scheme?",
+                "answer": "No, only permanent residents of Haryana are eligible to apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=4hXxZ7hJ6GYh+jxnimt8lA%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Saksham",
+            "Backward Classes",
+            "Loan",
+            "Young Professional"
+        ]
+    }
+}

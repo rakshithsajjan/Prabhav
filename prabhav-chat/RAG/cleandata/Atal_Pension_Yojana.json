@@ -1,0 +1,66 @@
+{
+    "content": {
+        "title": "Atal Pension Yojana",
+        "state": "India",
+        "department": "Ministry Of Finance",
+        "type": "Pension Scheme",
+        "beneficiary": "Unorganized Workers",
+        "details": "Atal Pension Yojana (APY) is an old age income security scheme for a savings account holder in the age group of 18-40 years who is not an income tax-payee. The scheme helps in addressing the longevity risks among the workers in the unorganized sector and encourages the workers to voluntarily save for their retirement.",
+        "benefits": [
+            "Guaranteed minimum pension amount of Rs. 1000/- to Rs. 5000/- per month after the age of 60 years until death.",
+            "Guaranteed minimum pension amount to the spouse after the subscriber\u2019s demise.",
+            "Return of the pension wealth to the nominee after the demise of both the subscriber and the spouse.",
+            "Tax benefits under section 80CCD(1)."
+        ],
+        "eligibility": [
+            "Minimum age of joining APY is 18 years and maximum is 40 years.",
+            "Subscribers must not be income tax payers.",
+            "Contributions must be made from the age of joining APY till the age of 60 years."
+        ],
+        "exclusions": [
+            "Any citizen who is or has been an income tax payer, shall not be eligible to join APY."
+        ],
+        "application_process": "Online and Offline. One can open an APY account online using net banking or visit the NSDL website for registration.",
+        "documents_required": [
+            "KYC details fetched from active Bank/Post Office Savings account."
+        ],
+        "faqs": [
+            {
+                "question": "When will I receive my Pension?",
+                "answer": "Age Of Start Of Pension is 60 Years."
+            },
+            {
+                "question": "Can I still apply for APY if I am a Swavalamban subscriber?",
+                "answer": "Eligible Swavalamban Subscribers may be migrated to APY."
+            },
+            {
+                "question": "Is it required to furnish nomination while joining the scheme?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What will happen if the contribution gets delayed?",
+                "answer": "Subscriber will be charged overdue interest for the delayed period."
+            },
+            {
+                "question": "Is Aadhaar Number compulsory for joining the scheme?",
+                "answer": "It is not mandatory as of now."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://jansuraksha.gov.in/Files/APY/ENGLISH/APY.pdf"
+            },
+            {
+                "type": "APY Subscriber Contribution Chart",
+                "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY_Subscribers_Contribution_Chart_1.pdf"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Retirement",
+            "Unorganized Sector",
+            "Financial Security"
+        ]
+    }
+}

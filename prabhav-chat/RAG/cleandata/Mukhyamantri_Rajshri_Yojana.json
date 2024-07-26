@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Mukhyamantri Rajshri Yojana",
+        "state": "Rajasthan",
+        "department": "Women and Child Development Department",
+        "type": "Financial",
+        "beneficiary": "Girl Child",
+        "details": "Mukhyamantri Rajshri Yojana has been started on June 01, 2016 by the Rajasthan Government to develop positive thinking towards girls to improve their health and educational level and to make them self-reliant. The benefit of this scheme will be given to all those girls of the state who were born after June 1, 2016.",
+        "benefits": [
+            "At the time of birth: \u20b92,500/-",
+            "1 year after vaccination: \u20b92,500/-",
+            "On admission to first class: \u20b94,000/-",
+            "On taking admission in sixth class: \u20b95,000/-",
+            "On taking admission in the tenth class: \u20b911,000/-",
+            "On taking admission in class 12th: \u20b925,000/-"
+        ],
+        "eligibility": [
+            "The girl child must be a resident of Rajasthan.",
+            "She must be born on or after June 1, 2016.",
+            "The girl child must be born in a government or private medical institution registered with Janani Suraksha Yojana (JSY).",
+            "Only two girl child will be eligible.",
+            "Girl's parents must have an Aadhar Card and a Bhamashah Card."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Anganwadi workers, Saathins, and Asha Sahyoginis should obtain the Bhamashah card and linked bank account details from pregnant women during their ANC or MCBN checkups and provide them to the nearest government hospital.",
+        "documents_required": [
+            "Bhamashah/Aadhaar card of parents.",
+            "Aadhaar card of the beneficiary girl.",
+            "Birth certificate of girl child.",
+            "School admission certificate.",
+            "Mobile number.",
+            "12th class mark sheet (If applicable).",
+            "Passport size photograph etc."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Mukhyamantri Rajshri Yojana has been started by the Rajasthan Government to develop positive thinking towards girls to improve their health and educational level and to make them self-reliant."
+            },
+            {
+                "question": "In how many installments will Mukhyamantri Rajshri Yojana be available?",
+                "answer": "There are 6 installments of Mukhyamantri Rajshri Yojana and assistance amount up to Rs 50 thousand will be provided for studies from birth to 12th class."
+            },
+            {
+                "question": "What are the benefits of Mukhyamantri Rajshri Yojana?",
+                "answer": "Girls of the state will get \u20b950,000/- in 6 installments."
+            },
+            {
+                "question": "Is there a Caste-related Eligibility Criteria in this scheme?",
+                "answer": "No, there is no caste-related eligibility criteria."
+            },
+            {
+                "question": "What is Bhamashah Card?",
+                "answer": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+            },
+            {
+                "question": "Can parents get the scheme benefits on the birth of boy child?",
+                "answer": "No, this is only for the girl child birth."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "DBT stands for Direct Benefit Transfer. It is a system introduced by the Government of India to transfer subsidies directly to the beneficiaries' bank accounts."
+            },
+            {
+                "question": "Is there any fees for application?",
+                "answer": "No."
+            },
+            {
+                "question": "What is IFSC code?",
+                "answer": "The IFSC code, or Indian Financial System Code, is an alphanumeric code used to identify specific bank branches within the electronic payment system in India."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/W_CD/MRY/DOC_261_956c47af-f8b6-4c8f-aa22-c1d1d20c1d03.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/261"
+            }
+        ],
+        "tags": [
+            "Children",
+            "Development",
+            "Financial",
+            "Women"
+        ]
+    }
+}

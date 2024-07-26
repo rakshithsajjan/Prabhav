@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Uttar Pradesh Mukhyamantri Bal Seva Yojana (Genearal)",
+        "state": "Uttar Pradesh",
+        "department": "Social Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Children and young adults under 23 years of age",
+        "details": "Recognizing the importance of a safe and nurturing environment for children's development, the Uttar Pradesh Chief Minister Bal Seva Yojana (General) helps young people under 18 who have lost one or both parents (not due to Covid), and young adults aged 18-23 orphaned by Covid-19. The scheme supports students pursuing higher education at government institutions after completing 12th grade, including those achieving excellence in national exams like NEET, JEE, and CLAT.",
+        "benefits": [
+            "Financial Assistance: \u20b9 2,500/- per month."
+        ],
+        "eligibility": [
+            "Children under 18 who have lost both parents or one parent due to non-Covid reasons.",
+            "Adolescents 18-23 who lost both or one parent due to Covid or any reason, and are pursuing higher education after completing 12th grade.",
+            "Children of divorced/abandoned mothers.",
+            "Children whose parents/guardian are imprisoned.",
+            "Children rescued from child labor, begging, or prostitution.",
+            "Children of families involved in begging/prostitution.",
+            "An assistance will be provided to maximum two children of the family.",
+            "The annual income of the family of all the categories of children should be less than \u20b93,00,000/- but the condition of income limit will not apply to those where both mother and father have died.",
+            "Under the age group of 0-18, previously lived in children's homes and reintegrated back into families or residing in child care institutions."
+        ],
+        "exclusions": [
+            "Families already receiving benefits under similar schemes (except Uttar Pradesh Chief Minister Bal Seva Yojana).",
+            "Children aged 18+ who choose not to pursue higher education or competitive exams (eligible until 23 years old or graduation / diploma, whichever is earlier)."
+        ],
+        "application_process": "Non-Institutional Children: Application submission through Village Development Officer, Gram Panchayat Officer, Block Development Officer, or District Probation Officer in rural areas; Accountant, Tehsil office, or District Probation Officer in urban areas. Institutional Children: District Child Protection Unit and Child Welfare Committee directly contact and identify eligible children.",
+        "documents_required": [
+            "Income certificate of the family (not applicable in case of death of both the parents).",
+            "Relevant records of parents or mother or father or guardian as the case may be.",
+            "Certificate of registration in the educational institution of the relevant category (not required for children of 0 to 05 years).",
+            "Order of the Child Welfare Committee/Juvenile Justice Board, by which the child has been placed under institutional care.",
+            "Age certificate of the child/adolescent.",
+            "Certificate of admission for obtaining graduate degree or diploma from a government college, university or technical institute."
+        ],
+        "faqs": [
+            {
+                "question": "What is the scheme about?",
+                "answer": "Uttar Pradesh Mukhyamantri Bal Seva Yojana (General) provides financial assistance to children in Uttar Pradesh who face various hardships."
+            },
+            {
+                "question": "How much financial assistance will be provided?",
+                "answer": "Financial Assistance: \u20b9 2,500/- per month."
+            },
+            {
+                "question": "Who will get the scheme benefits?",
+                "answer": "All the eligible children of Uttar Pradesh State will get the scheme benefits."
+            },
+            {
+                "question": "Can children of divorced/abandoned mothers also get the scheme benefits?",
+                "answer": "Yes."
+            },
+            {
+                "question": "How many children will be able to get the benefit?",
+                "answer": "An assistance will be provided to maximum two children of the family."
+            },
+            {
+                "question": "How to apply for Institutional Children?",
+                "answer": "Identification: District Child Protection Unit and Child Welfare Committee directly contact and identify eligible children. Application: Children or parents submit applications within 15 days of identification."
+            },
+            {
+                "question": "How to apply for Non-Institutional Children?",
+                "answer": "Application submission: Rural areas: Village Development Officer, Gram Panchayat Officer, Block Development Officer, or District Probation Officer. Urban areas: Accountant, Tehsil office, or District Probation Officer."
+            },
+            {
+                "question": "What documents are required for non-institutional category?",
+                "answer": "Income certificate of the family (not applicable in case of death of both the parents), relevant records of parents or mother or father or guardian as the case may be, certificate of registration in the educational institution of the relevant category (not required for children of 0 to 05 years)."
+            },
+            {
+                "question": "What documents are required for the Institutional Children?",
+                "answer": "Order of the Child Welfare Committee/Juvenile Justice Board, age certificate of the child/adolescent, certificate of admission for obtaining graduate degree or diploma from a government college, university or technical institute."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/upmbsyg"
+            }
+        ],
+        "tags": [
+            "Empowerment",
+            "Financial Assistance",
+            "Social Welfare"
+        ]
+    }
+}

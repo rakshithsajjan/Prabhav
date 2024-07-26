@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Delhi Ladli Scheme",
+        "state": "Delhi",
+        "department": "Department of Women & Children Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Girl Child",
+        "details": "Delhi Ladli Scheme was launched by the Department of Women & Children Development, Government of the National Capital Territory (NCT) of Delhi on 1st January 2008 to empower girl children born in Delhi. The State Bank Life Insurance Co. Ltd. (SBIL) is the scheme's Fund Manager. Under this scheme, financial assistance is provided in the form of term deposits: \u20b9 11,000/- if born in a hospital or \u20b9 10,000/- if delivered at home at the time of registration, and \u20b9 5,000/- each in further five milestones i.e., Class 1st, 6th, 9th, 11th, 12th.",
+        "benefits": [
+            "For Institutional Delivery: \u20b9 11,000/-",
+            "For Delivery at Home: \u20b9 10,000/-",
+            "On admission in Class 1st: \u20b9 5,000/-",
+            "On admission in Class 6th: \u20b9 5,000/-",
+            "On admission in Class 9th: \u20b9 5,000/-",
+            "On passing Class 10th: \u20b9 5,000/-",
+            "On admission in Class 12th: \u20b9 5,000/-"
+        ],
+        "eligibility": [
+            "The girl should be born in Delhi as shown by the birth certificate issued by the Registrar (Births & Deaths), MCD/NDMC.",
+            "The applicant must be a bonafide resident of the National Capital Territory of Delhi for at least three years preceding the date of birth of the girl child.",
+            "Annual family income should not exceed \u20b9 1,00,000.",
+            "If a girl is school-going, her school must be recognized by Delhi Govt. / MCD / NDMC.",
+            "The benefit of the scheme is limited to two surviving girls per family."
+        ],
+        "exclusions": [
+            "NA"
+        ],
+        "application_process": "Offline. The prescribed application form can be obtained from the respective District Women and Child Development Officer, WCD, Govt. of Delhi, or from the Govt. Recognized Schools. The application form can also be downloaded in PDF format.",
+        "documents_required": [
+            "Three years of residence proof in Delhi prior to registration.",
+            "Income Certificate/Affidavit showing the annual income of the family.",
+            "Birth certificate of the girl child issued by the Registrar of MCD/NDMC.",
+            "Group photo of parents with the girl child.",
+            "Caste certificate in case of SC/ST/OBC.",
+            "Copy of the Aadhar Card of the parents and the child, if available."
+        ],
+        "faqs": [
+            {
+                "question": "If The Form Is Not Available In The School, Who Should Be Contacted?",
+                "answer": "The District Office of Women & Child Development GNCTD and the same is also available on the Department website www.wcddel.in and can be applied through the e-district portal."
+            },
+            {
+                "question": "If The Certificate From The Registrar (Births & Deaths) Is Not Issued In Time, What Should Be Done?",
+                "answer": "One year's time is provided at the time of birth and 90 days are given at the time of getting admission in different classes for applying under this scheme."
+            },
+            {
+                "question": "What should be done, if the filled-up form is not accepted by the school / Women & Child Development officer?",
+                "answer": "School Principals & District Officers of Women & Child Development are directed to issue, get filled up, and receive these forms."
+            },
+            {
+                "question": "If A Girl Is Not Able To Pass Class X Due To Any Circumstances, Will She Still Get The Amount?",
+                "answer": "The deposits shall be encashable only after the child attains 18 years and has passed at least class 10th."
+            },
+            {
+                "question": "If There Are More Than Two Girls In A Family, How Many Of Them Will Be Benefitted From This Scheme?",
+                "answer": "Any two eligible girls of a family can be benefitted from this scheme."
+            },
+            {
+                "question": "If The Girl Child Dies, Can Another Girl Get The Amount Transferred In Her Name?",
+                "answer": "No."
+            },
+            {
+                "question": "Can Any Other Person Take This Amount?",
+                "answer": "No, this amount will be deposited in the girl's bank account only after she attains the age of 18 years."
+            },
+            {
+                "question": "Many Principals Refuse To Give And Verify Ladli Scheme Forms. What Should Be Done In Such Cases?",
+                "answer": "Principals have been directed to distribute, verify/ attest, accept and issue acknowledgment slips."
+            },
+            {
+                "question": "Will The Renewal After Passing The 12th Class Be Done If Girl Is Enrolled In Ladli Scheme?",
+                "answer": "No renewal has to be done if the Girl Child passes the 12th class."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://wcddel.in/streesakti_3Ladli.html"
+            },
+            {
+                "type": "FAQs",
+                "url": "http://www.wcddel.in/pdf/FAQLadliScheme.pdf"
+            }
+        ],
+        "tags": [
+            "Delhi",
+            "Girl Child",
+            "Financial Assistance",
+            "Social Welfare"
+        ]
+    }
+}

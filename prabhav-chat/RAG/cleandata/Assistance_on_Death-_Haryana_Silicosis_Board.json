@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Assistance on Death- Haryana Silicosis Board",
+        "state": "Haryana",
+        "department": "Haryana Labour Welfare Board",
+        "type": "Financial Assistance",
+        "beneficiary": "Worker",
+        "details": "The 'Assistance on Death' scheme, implemented by the Haryana Labour Welfare Board, Government of Haryana, provides financial assistance of \u20b91,00,000/- in the event of the death of a Silicosis victim. If the deceased was married, the assistance will be payable to the widow or widower. If the deceased was unmarried, the amount will be given to their nominee.",
+        "benefits": [
+            "Under this scheme, in the event of the death of a Silicosis victim, financial assistance of \u20b91,00,000/- will be provided.",
+            "If the deceased was married, the assistance will be payable to the widow or widower.",
+            "If the deceased was unmarried, the financial assistance will be given to the nominee."
+        ],
+        "eligibility": [
+            "The applicant should be the widow/widower/nominee of the deceased worker.",
+            "The deceased worker should have been suffering from silicosis as confirmed by the Silicosis Diagnosis Board, Haryana.",
+            "The deceased worker should have been employed in a factory or at a construction site."
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online - via CSCs. The applicant may visit the nearest Labour Office and collect the application form. The Application Performa may also be downloaded from the Official Website of the Labour Department Haryana. Fill out the application form with all required details, attach necessary documents, and submit it to the Assistant Director, Industrial Health of your concerned jurisdiction.",
+        "documents_required": [
+            "Copy of Aadhaar Card of applicant",
+            "Death Certificate of the worker",
+            "Identity Card (Silicosis)",
+            "Proof of relation with the deceased worker",
+            "Copy of Bank Pass Book",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who implements the scheme?",
+                "answer": "The scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana."
+            },
+            {
+                "question": "What is Silicosis?",
+                "answer": "Silicosis is an incurable lung disease prevalent in workplaces like stone crushers and mines, caused by inhaling silica dust."
+            },
+            {
+                "question": "What are the symptoms of Silicosis?",
+                "answer": "Symptoms include shortness of breath, fatigue, loss of appetite, chest pain, dry cough, respiratory failure, and it eventually leads to death."
+            },
+            {
+                "question": "What kind of financial assistance is provided under the scheme?",
+                "answer": "A financial assistance of \u20b91,00,000/- is provided."
+            },
+            {
+                "question": "Who receives the financial assistance if the deceased Silicosis victim was married?",
+                "answer": "The widow or widower of the deceased receives the financial assistance."
+            },
+            {
+                "question": "Who receives the financial assistance if the deceased Silicosis victim was unmarried?",
+                "answer": "The nominee of the deceased receives the financial assistance."
+            },
+            {
+                "question": "Where can affected Silicosis workers receive treatment?",
+                "answer": "Workers under the Employee State Insurance Act, 1948 receive care at ESI hospitals, while others are treated at district hospitals and medical colleges by the Health Department."
+            },
+            {
+                "question": "What is the eligibility criteria for the scheme?",
+                "answer": "The applicant must be the widow, widower, or nominee of a deceased worker who was confirmed to have Silicosis and was employed in a factory or at a construction site."
+            },
+            {
+                "question": "How can eligible applicants apply for the scheme benefits?",
+                "answer": "Eligible applicants may visit the nearest Antyodaya Kendra and fill up the application form."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification- English",
+                "url": "https://hrylabour.gov.in/staticdocs/labourpolicies/Haryana%20Silicosis%20Rehabilitation%20Policy%20/(English/).pdf"
+            },
+            {
+                "type": "Notification- Hindi",
+                "url": "https://hrylabour.gov.in/uploads/silicosis/Haryana_Silicosis_Rehabilitation_Policy.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/"
+            }
+        ],
+        "tags": [
+            "Death",
+            "Financial Assistance",
+            "Silicosis",
+            "Worker"
+        ]
+    }
+}

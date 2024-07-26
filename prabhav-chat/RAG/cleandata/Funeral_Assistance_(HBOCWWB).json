@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Funeral Assistance (HBOCWWB)",
+        "state": "Haryana",
+        "department": "Labour Department, Government of Haryana",
+        "type": "Financial Assistance",
+        "beneficiary": "Nominee or legal heir of a registered worker",
+        "details": "The scheme 'Funeral Assistance' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, the Board provides financial assistance for funeral expenses to the nominee or legal heir of a registered worker in the event of their death.",
+        "benefits": [
+            "In case of the death of a registered worker, an amount of \u20b915,000/- is payable as funeral assistance to his/her nominee/legal heirs."
+        ],
+        "eligibility": [
+            "The applicant should be a nominee/legal heir of the deceased worker.",
+            "The deceased worker should have been registered with the Haryana Building & Other Construction Workers Welfare Board.",
+            "The registered deceased worker should have held a regular membership with the Board.",
+            "The scheme allows for application only once."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity card of the registered deceased worker",
+            "Identity proof of the nominee/legal heir",
+            "Certificate of being a nominee/legal heir",
+            "Passport-size photograph",
+            "Death Certificate",
+            "Undertaking",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "How much financial assistance is provided under the scheme?",
+                "answer": "An amount of \u20b915,000/- is payable as funeral assistance to the nominee or legal heirs of the deceased worker."
+            },
+            {
+                "question": "Who is eligible to apply for the scheme?",
+                "answer": "The nominee or legal heir of the deceased worker is eligible to apply for the scheme."
+            },
+            {
+                "question": "How many times can one apply for the scheme?",
+                "answer": "The scheme allows for application only once."
+            },
+            {
+                "question": "Is there any specific documentation required to apply for the scheme?",
+                "answer": "Yes, the applicant needs to provide necessary documents such as death certificate, proof of relationship with the deceased worker, and proof of the worker's registration with the Board."
+            },
+            {
+                "question": "Where can one apply for the Funeral Assistance scheme?",
+                "answer": "To avail the benefits of the scheme, the applicant needs to visit the Official Portal - Antyodaya-SARAL Portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/155"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=vZIGjzS0xknUR+M6eUZf9A%3d%3d"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Death",
+            "Financial Assistance",
+            "Funeral",
+            "Labour"
+        ]
+    }
+}

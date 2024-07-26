@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "WISE Post-Doctoral Fellowship",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Fellowship",
+        "beneficiary": "Women Scientists",
+        "details": "The Department of Science and Technology (DST) is implementing a dedicated umbrella scheme 'Women in Science and Engineering-KIRAN (WISE-KIRAN)' with the aim to support women from all walks of life in the domain of Science & Technology. The Department has re-structured one of the flagship programme 'Women Scientists Scheme' and come up with a new programme 'WISE Post-Doctoral Fellowship (WISE-PDF)' that aims to provide opportunities to women scientists and technologists between the age group of 27-60 years who want to continue the research as bench-level scientists in basic and applied sciences.",
+        "benefits": [
+            "The fellowship amount under this programme is @\u20b955,000/- per month with House Rent Allowances as per DST norms.",
+            "This Programme also provides a Research Grant of \u20b92.0 Lakhs per year and the cost of small equipment (up to a maximum of \u20b93.0 Lakhs) along with Institutional overhead charges."
+        ],
+        "eligibility": [
+            "Candidates in regular employment are not eligible for WISE-PDF. However, women scientists who are temporarily employed in research or academics may apply for the scheme but they have to leave their earlier assignment if the WISE-PDF project is approved.",
+            "The minimum age to apply is 27 years and the maximum is 60 years. Women scientists, less than 27 years of age are NOT eligible.",
+            "Women Scientists having a Ph.D. in Basic/ Applied Science or an equivalent degree like MD, MS, MDS, etc. are eligible for WISE-PDF.",
+            "Break in career is not mandatory to apply for WISE-PDF, however, women who have a break are also encouraged to apply for this programme."
+        ],
+        "exclusions": [],
+        "application_process": "Online. Proposals should be submitted at the DST-WISE portal. The portal is open throughout the year.",
+        "documents_required": [
+            "Project Proposal Document (Format)",
+            "Biodata of PI (Signed) (Format)",
+            "Mentor\u2019s Biodata (Signed) (Format)",
+            "Caste Certificate (If applicable)",
+            "Disability Certificate (If Applicable)",
+            "Proof of age (Birth Certificate, 10th Class certificate)",
+            "Photograph of PI",
+            "Signature of PI",
+            "Highest Degree certificate",
+            "House Rent Allowance (if eligible) (Format)"
+        ],
+        "faqs": [
+            {
+                "question": "Is WOS-A programme is still open for proposal submission?",
+                "answer": "No. WOS-A programme is now re-structured and re-designed into 2 separate programmes for Ph.D. and non-Ph.D. women candidates viz. WISE Post-Doctoral Fellowship (WISE-PDF) and WISE Fellowship for Ph.D. (WISE-PhD)."
+            },
+            {
+                "question": "What is the minimum qualification for applying under WISE-PDF?",
+                "answer": "Ph.D. or equivalent degree."
+            },
+            {
+                "question": "What is the age limit for WISE-PDF?",
+                "answer": "27 to 60 years."
+            },
+            {
+                "question": "Is employed Women Scientists are eligible to apply in WISE-PDF programme?",
+                "answer": "Women Scientists other than permanent/regular positions are eligible for WOS-A including unemployed."
+            },
+            {
+                "question": "What are the subject areas where support is available under WISE-PDF programme?",
+                "answer": "WISE-PDF programme supports projects in 5 subject areas of basic and applied sciences namely; Physical and Mathematical Sciences (PM), Chemical Sciences (CS), Life Sciences (LS), Earth & Atmospheric Sciences (EA) and Engineering & Technology (ET)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://online-wosa.gov.in/wosa/resources/wspublic/formats/pdf/WISE-PDF-Guidelines.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://online-wosa.gov.in/wosa/aboutUsPDF"
+            },
+            {
+                "type": "India ST&I Website",
+                "url": "https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/post-doctoral-women/wise-post-doctoral-fellowship-wise-pdf"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Women in Science",
+            "Post-Doctoral",
+            "Research"
+        ]
+    }
+}

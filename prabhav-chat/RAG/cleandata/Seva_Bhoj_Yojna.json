@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Seva Bhoj Yojna",
+        "state": "India",
+        "department": "Ministry Of Culture",
+        "type": "Central Sector Scheme",
+        "beneficiary": "Charitable Institutions",
+        "details": "The scheme 'Seva Bhoj Yojna' was launched by the Ministry of Culture, Government of India and it has been made operational with effect from the 1st of August, 2018. The Scheme shall be applicable within the territorial jurisdiction of India. The Scheme will remain open from the 1st to the 15th of every month. Thereafter, the scrutiny of the applications received will be carried out by a duly constituted committee on a monthly basis. Under the Scheme of 'Seva Bhoj Yojna' Central Goods and Services Tax (CGST) and Central Government\u2019s share of Integrated Goods and Services Tax (IGST) paid on purchase of specific raw food items by Charitable/Religious Institutions like Gurudwaras, Temples, Dharmik Ashrams, Mosques, Dargahs, Churches, Math, Monasteries, etc. for distributing free food to public shall be reimbursed as Financial Assistance by the Government of India.",
+        "benefits": [
+            "Financial assistance in the form of reimbursement shall be provided where the institution has already paid GST on all or any of the raw food items listed below: Ghee, Edible oil, Sugar / Burra / Jaggery, Rice, Atta / Maida / Rava /Flour, Pulses."
+        ],
+        "eligibility": [
+            "A Public Trust or society or body corporate or organization, or institution covered under the provisions of section 10 (23BBA) of the Income Tax Act, 1961 (as amended from time to time) or registered under the provisions of section 12AA of the Income Tax Act, 1961, for charitable/religious purposes.",
+            "The applicant must be involved in charitable/religious activities by way of free and philanthropic distribution of food/prasad/langar (Community Kitchen)/bhandara free of cost and without discrimination.",
+            "The institutions/organizations should have been in existence for the preceding three years before applying for assistance.",
+            "Only those institutions would be eligible for financial assistance which has been distributing free food, Langar, and Prasad to the public for at least the past three years on the day of application.",
+            "Financial assistance shall be given only to those institutions which are not in receipt of any financial assistance from the Central/State Government for the purpose of distributing free food.",
+            "The institutions shall serve free food to at least 5000 people in a calendar month."
+        ],
+        "exclusions": [
+            "The Institution/Organization blacklisted under the provisions of the Foreign Contribution Regulation Act (FCRA) or the provisions of any Act/Rules of the Central/State Government shall not be eligible for financial assistance under the Scheme."
+        ],
+        "application_process": "The Scheme will remain open from the 1st to the 15th of every month. Institutions must first register with the Darpan Portal of NITI Aayog to obtain a Unique ID. After that, they shall enroll in the CSMS Portal on the Ministry of Culture\u2019s Website in a prescribed format and upload the requisite documents.",
+        "documents_required": [
+            "Copy of the valid Registration Certificate",
+            "Copy of Memorandum of Association/Article of Association/Charter of Activities of the organization.",
+            "Copies of Audited Accounts for the last three years.",
+            "Copies of the Annual Report, if any, for the last three years.",
+            "List of Office Bearers/Governing Body of the Institution.",
+            "Name of the authorized signatory who will sign all documents with contact details and E-mail ID.",
+            "Self-certificate indicating that the institution is distributing free food for at least the past three years on the day of application.",
+            "Certificate from District Magistrate indicating that the institution is involved in charitable/religious activities.",
+            "PAN/ TAN Number of the institution/ organization.",
+            "List of locations where free food is being distributed by the institution.",
+            "Number of persons being served free food by the Institution in the previous year \u2013 self-declaration.",
+            "Bank Authorization Letter as per prescribed format.",
+            "Invoices issued by the suppliers for the purchases of specified items."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Under the Scheme, Central Goods and Services Tax (CGST) and Central Government\u2019s share of Integrated Goods and Services Tax (IGST) paid on purchase of specific raw food items by Charitable/Religious Institutions for distributing free food to public shall be reimbursed as Financial Assistance by the Government of India."
+            },
+            {
+                "question": "Which ministry has started the scheme?",
+                "answer": "Ministry of Culture, Government of India."
+            },
+            {
+                "question": "Is this Central Sector Scheme?",
+                "answer": "Yes, this is a Central Sector Scheme."
+            },
+            {
+                "question": "When was this scheme launched?",
+                "answer": "The Scheme has been made operational with effect from the 1st of August, 2018."
+            },
+            {
+                "question": "What is the scope of the scheme?",
+                "answer": "This is a Central Sector Scheme for providing reimbursement of CGST and the Central Government\u2019s share of IGST paid by charitable/religious institutions on the purchase of specific raw food items for serving free food to the public/devotees."
+            },
+            {
+                "question": "What are the types of activities supported under the Scheme?",
+                "answer": "Free \u2018Prasad\u2019 or free food or free \u2018Langar\u2019/\u2018Bhandara\u2019 (community kitchen) offered by charitable/religious institutions."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Financial assistance in the form of reimbursement shall be provided to the institution that has already paid GST on all or any of the raw food items."
+            },
+            {
+                "question": "Which Institutions/organizations are eligible for this scheme?",
+                "answer": "A Public Trust or society or body corporate or organization, or institution covered under the provisions of section 10 (23BBA) of the Income Tax Act, 1961."
+            },
+            {
+                "question": "How old should an institution be to apply for the scheme?",
+                "answer": "The institutions/organizations should have been in existence for the preceding three years before applying for assistance."
+            },
+            {
+                "question": "How many people have to be given free food in a calendar month?",
+                "answer": "The institutions shall serve free food to at least 5000 people in a calendar month."
+            },
+            {
+                "question": "How can an institution apply under the scheme?",
+                "answer": "Charitable/Religious Institutions shall first register with the Darpan Portal of NITI Aayog and get a Unique ID generated by Darpan Portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/sby"
+            }
+        ],
+        "tags": [
+            "Bhoj",
+            "Charitable Institutions",
+            "Free Food",
+            "Prasad",
+            "Religious Institutions",
+            "Seva"
+        ]
+    }
+}

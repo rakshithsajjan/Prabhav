@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Farm Pond (Khet Talai) Nirman Karyakram",
+        "state": "Rajasthan",
+        "department": "Agriculture Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Farmer",
+        "details": "The Farm Pond Construction Program, initiated on April 1, 2020, by the Rajasthan Agriculture Department, offers a solution to addressing a critical challenge of water scarcity for Rajasthan's farmers. This program allows farmers to establish farm ponds, essentially rainwater collection structures, for irrigation purposes. Recognizing the program's significance, the state government provides subsidies to facilitate farm pond construction. This enables farmers to effectively utilize rainwater and irrigate their fields.",
+        "benefits": [
+            "Subsidy breakdown:",
+            "1. Raw farm pond: 50% of the construction cost (capped at \u20b952,500)",
+            "2. Plastic lined farm pond: 50% of the construction cost with lining (capped at \u20b975,000)",
+            "Additional subsidy:",
+            "1. Raw farm pond: Up to 60% of the total cost (capped at \u20b963,000)",
+            "2. Plastic lined farm pond: Up to 60% of the total cost (capped at \u20b990,000)"
+        ],
+        "eligibility": [
+            "The applicant should be a native of Rajasthan.",
+            "All categories of farmers are eligible.",
+            "The applicant farmer should have a minimum cultivable land of 0.5 hectares at one place on his name."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card",
+            "Bank Passbook",
+            "Land Proof"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective is to help the farmers of Rajasthan to collect rain water and use it for irrigation purposes so that the farmers can get sufficient water for irrigation in their fields."
+            },
+            {
+                "question": "Is there a Caste-related Eligibility Criteria in this scheme?",
+                "answer": "No, there is no caste-related criteria."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "The application form is free for this scheme."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers will get the benefits."
+            },
+            {
+                "question": "What is I.F.S.C?",
+                "answer": "IFSC stands for Indian Financial System Code. It is an alphanumeric code used to uniquely identify bank branches within the National Electronic Funds Transfer (NEFT) and Real-Time Gross Settlement (RTGS) systems in India."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer subsidies and welfare payments directly to the bank accounts of beneficiaries."
+            },
+            {
+                "question": "Under which department does this scheme come?",
+                "answer": "Agriculture Department."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "Fields marked with an asterisk (*) are mandatory."
+            },
+            {
+                "question": "What is the Supporting Documents in this scheme?",
+                "answer": "Aadhar Card Copy, Bank Passbook Copy, Passport Size Photo, Jamabandi Copy."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/AGRI_/PMKSY/DOC_208_6afd23b6-69ec-497e-9da1-7add5f37e0df.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/208"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Development",
+            "Water Shortage"
+        ]
+    }
+}

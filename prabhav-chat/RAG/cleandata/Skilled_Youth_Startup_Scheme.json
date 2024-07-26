@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "Skilled Youth Startup Scheme",
+        "state": "Sikkim",
+        "department": "Commerce & Industries Department",
+        "type": "Subsidy",
+        "beneficiary": "Educated unemployed youth",
+        "details": "The 'Skilled Youth Start-Up Scheme (SYSS)' was launched with effect on 15th August 2020 by the Commerce & Industries Department of the Government of Sikkim, with the vision to reduce unemployment and create adequate self-employment opportunities in the long run. SYSS is intended to generate equitable entrepreneurial opportunities in rural as well as urban areas of Sikkim, particularly among the educated unemployed youth to become self-employed by setting up Manufacturing / Service / Business / Co-Operative / Agriculture & Allied Activities by availing loans (category wise) with back ended subsidy assistance from the State Government @ 50% for Below Poverty Line (BPL) and @ 35% for rest on financially viable/ bankable Projects cost.",
+        "benefits": [
+            "Back-ended subsidy assistance from the State Government @ 50% for BPL and @ 35% for the rest on financially viable/ bankable Project costs.",
+            "Three-day Entrepreneur Development Training Programme conducted by RSETI or any competent Government Training Institute."
+        ],
+        "eligibility": [
+            "The applicant should possess a Certificate of Identification (COI) of self or his/her father possessing Sikkim Subject Certificate / Certificate of Identification / Residential Certificate for urban areas.",
+            "The applicant should be unemployed possessing a minimum educational qualification of class 5th from any recognized school.",
+            "Applicant should be in the age group between 18 years to 45 years of age on the date of filing the application.",
+            "Only one member of a family shall be eligible to avail of the benefits under the Scheme.",
+            "The family income shall not exceed \u20b9 8,00,000 per annum.",
+            "The scheme comprises of subsidy and contribution of the beneficiary at 5% of the project cost.",
+            "The beneficiary should not be a defaulter to any nationalized bank / financial institution / Cooperative bank.",
+            "A person who has already availed of subsidy under CMSS/ PMEGP shall not be eligible under the scheme.",
+            "Trade License is mandatory for all kinds of projects/businesses.",
+            "The applicant falling under the Persons with Disabilities (PWD) category will be given priority and can avail 50% loan subsidy."
+        ],
+        "exclusions": [
+            "A person who has already availed of subsidy under CMSS/ PMEGP shall not be eligible under the scheme."
+        ],
+        "application_process": "Offline. The applicant shall submit their applications in the prescribed format along with the Detailed Project Report and the Mandatory Documents addressed to: General Manager, DIC (E/N)/(S/W), Govt. of Sikkim, Gangtok/Jorethang.",
+        "documents_required": [
+            "Two Recent Passport Size Photographs.",
+            "Attested Sikkim Subject Certificate / Certificate of Identification / Residential Certificate for Urban Areas.",
+            "Attested Copy of Mark Sheet and Certificate Issued by Board.",
+            "Attested Copy of Birth Certificate/ Certified by the Local Panchayat.",
+            "Two Sets of Proposals with Project Reports Prepared and Certified by the Concerned Line Department.",
+            "Copy of Electoral Voter Card as Address Proof.",
+            "Copy of Valid Unemployment Card Issued by Respective BAC.",
+            "Land Parcha & Land Lease Agreement, if necessary in the project.",
+            "Relevant Permits / License at the Time of Sanction of Bank Loan.",
+            "BPL Certificate from DESME.",
+            "Income Certificate issued by the Concerned BDO / SDM Office.",
+            "NOC from SABCO / SIDICO.",
+            "PwD Certificate from the Social Welfare Department of Sikkim."
+        ],
+        "faqs": [
+            {
+                "question": "What is the amount of subsidy provided through SYSS?",
+                "answer": "Beneficiaries intending to become self employed by setting up Manufacturing/Service/Business/Cooperative/Agriculture & allied activities are entitled to back ended subsidy assistance from the State Government @ 50% for BPL and @ 35% for rest on financially viable/ bankable Projects cost."
+            },
+            {
+                "question": "Who can apply for SYSS?",
+                "answer": "All the educated unemployed youth having COI, Sikkim subject certificate with at least class 5 pass certificate / Technical certificate for technical / manufacturing projects can apply."
+            },
+            {
+                "question": "What is the maximum criteria for annual income to avail this scheme?",
+                "answer": "The family income shall not exceed 8 lakhs per annum."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://industries.sikkim.gov.in/wp-content/uploads/2021/03/Youth-Skilled-Start-Up-Scheme-converted.pdf"
+            },
+            {
+                "type": "Brochure",
+                "url": "https://industries.sikkim.gov.in/wp-content/uploads/2021/03/SYSS-Pamphlet-.pdf"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Employment",
+            "Entrepreneurship",
+            "StartUp",
+            "Youth"
+        ]
+    }
+}

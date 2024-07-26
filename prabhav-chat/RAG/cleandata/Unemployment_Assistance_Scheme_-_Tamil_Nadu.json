@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Unemployment Assistance Scheme - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Assistance",
+        "beneficiary": "Unemployed youth and Differently-Abled job seekers",
+        "details": "The Unemployment Assistance was launched with a view to help the youth who have registered with the District Employment and Career Guidance Centre and waiting in the live register for five years or more to secure an employment. Unemployment Assistance is also provided to Differently-Abled job seekers. The criteria with regard to the Differently-Abled person to get this assistance is that they should have been on the live register for one year. However, there is no restriction on parental income and age.",
+        "benefits": [
+            "Financial assistance based on educational qualifications",
+            "Job assistance"
+        ],
+        "eligibility": [
+            "Resident of Tamil Nadu",
+            "Family Annual Income should not be more than Rs. 72,000/- per annum for General Candidates",
+            "Maximum Age Limit: 40 Years for General Candidates, 45 Years for Schedule Caste/Tribe Candidates",
+            "Should be registered in Employment Exchange for 5 years or more for General Candidates",
+            "Should not be a regular student of any school or college",
+            "Should not be in any type of employment",
+            "Differently Abled Candidates should have Physical Disability and be registered in Employment Exchange for 1 year or more with no Maximum Age or Income Limit"
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online. Applicants can obtain the Application Form from the Employment Exchange Center of their district or download it from the official website.",
+        "documents_required": [
+            "Any one of the Identification Proof: Aadhar Card, Pan Card, Voter ID, Passport, Driving License, Ration Card",
+            "Domicile of Tamil Nadu",
+            "Passport Size Photo",
+            "Email ID",
+            "Mobile Number",
+            "Bank Account Details",
+            "Caste Certificate",
+            "Self Affidavit",
+            "Medical Certificate (For Disability Proof)",
+            "Qualification Documents (If Literate)"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "In 2006, Tamil Nadu Government started Unemployment Assistance Scheme for the welfare of unemployed youth of the state."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Financial and job Assistance."
+            },
+            {
+                "question": "Who can get the benefits of the scheme?",
+                "answer": "All unemployed youth who fulfill the eligibility criteria."
+            },
+            {
+                "question": "What is the financial eligibility for applicants?",
+                "answer": "For General Candidates: Family Annual Income should not be more than Rs. 72,000/- per annum. Differently Abled Candidates: No Income Limit."
+            },
+            {
+                "question": "What Is The Education Qualification For The Scheme?",
+                "answer": "Minimum 9th to Graduation."
+            },
+            {
+                "question": "What is the maximum age eligibility?",
+                "answer": "General Candidate: 40 Years for General Candidates, 45 Years for Schedule Caste/Tribe Candidates. Differently Abled Candidates: No Maximum Age Limit."
+            },
+            {
+                "question": "How To Apply offline For The Scheme?",
+                "answer": "Step-1: The Applicant can obtain the Application Form from the Employment Exchange Center of their district or can download it from the official website. Step-2: Fill out the application in prescribed manner. Step-3: Attach required documents. Step-4: Submit the Application Form and the attached documents to the Employment Exchange Center of their district."
+            },
+            {
+                "question": "How To Apply online For The Scheme?",
+                "answer": "Step-1: Applicant have to visit the official website. Step-2: Click on login and select Government/Public Sector or Private Sector. Step-3: Select registration/create new account option. Step-4: Fill out the required details. Step-5: Attach required documents. Step-6: Submit."
+            },
+            {
+                "question": "What Documents Are Needed?",
+                "answer": "Identification Proof, Domicile of Tamil Nadu, Passport Size Photo, Email ID, Mobile Number, Bank Account Details, Caste Certificate, Self Affidavit, Medical Certificate, Qualification Documents."
+            },
+            {
+                "question": "What is the official web portal to apply?",
+                "answer": "https://tnvelaivaaippu.gov.in/index.html#"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://tnvelaivaaippu.gov.in/schemes.html"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://tnvelaivaaippu.gov.in/download.html"
+            }
+        ],
+        "tags": [
+            "Unemployment",
+            "Assistance",
+            "Tamil Nadu",
+            "Government Scheme"
+        ]
+    }
+}

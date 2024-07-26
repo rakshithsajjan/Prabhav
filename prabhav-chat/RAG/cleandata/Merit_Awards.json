@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Merit Awards",
+        "state": "Maharashtra",
+        "department": "Department of Social Justice & Special Assistance",
+        "type": "Award",
+        "beneficiary": "Students with Disabilities (SwDs)",
+        "details": "The objective of this scheme is to award the students with disability who rank 1st, 2nd, and 3rd among disabled students in the Secondary School Certificate (S.S.C.) and Higher Secondary Certificate (H.S.C.) in their respective divisional boards of education.",
+        "benefits": [
+            "Cash award of \u20b91,000/-",
+            "Certificate of merit",
+            "Travel expenses up to \u20b9100/- per student to attend the award ceremony"
+        ],
+        "eligibility": [
+            "Must rank 1st, 2nd, or 3rd among disabled students in S.S.C. or H.S.C.",
+            "Percentage of disability should be 40% and above",
+            "Orthopedically Handicapped Persons are also covered",
+            "Permanent residents of the state of Maharashtra"
+        ],
+        "exclusions": [
+            "Cannot reapply if already availed benefits",
+            "Applicants from neighboring states are not eligible"
+        ],
+        "application_process": "The application process is entirely free of cost.",
+        "documents_required": [
+            "Residential Certificate / Domicile Certificate of the State of Maharashtra"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum amount of financial assistance that one can receive through this scheme?",
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b91,000/- along with a certificate."
+            },
+            {
+                "question": "Is there any application fee?",
+                "answer": "No, the entire application process is entirely free of cost."
+            },
+            {
+                "question": "Is there any compensation for the delay in the disbursal of the scheme benefits?",
+                "answer": "No, there is no such mention in the scheme guidelines."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "The mandatory fields have an asterisk (*) mark at the end."
+            },
+            {
+                "question": "What is the full form of SJSA?",
+                "answer": "The full form of SJSA is 'Social Justice & Special Assistance'."
+            },
+            {
+                "question": "Is this a state funded or a centrally funded scheme?",
+                "answer": "This is a 100% State Funded scheme."
+            },
+            {
+                "question": "Can I reapply to this scheme if I am already availing the benefits of this scheme?",
+                "answer": "No, you cannot reapply to this scheme if you already have availed of its benefits."
+            },
+            {
+                "question": "Where can I find the format of the application form? Is it available online?",
+                "answer": "You need to visit the District Social Welfare Office and request a hard copy of the format of the application form for the scheme from the concerned authority."
+            },
+            {
+                "question": "Where can I post my grievances related to this scheme?",
+                "answer": "You can post your grievances at the Grievance Redressal Portal by the Govt. of Maharashtra: https://grievances.maharashtra.gov.in/en"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/ma-maha"
+            },
+            {
+                "type": "Department Website",
+                "url": "https://sjsa.maharashtra.gov.in/"
+            },
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+            },
+            {
+                "type": "District Social Welfare Offices",
+                "url": "https://sjsa.maharashtra.gov.in/en/contacts"
+            }
+        ],
+        "tags": [
+            "Merit Awards",
+            "Disability Welfare",
+            "Financial Assistance",
+            "Maharashtra"
+        ]
+    }
+}

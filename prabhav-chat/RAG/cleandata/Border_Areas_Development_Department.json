@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Border Areas Development Department",
+        "state": "Meghalaya",
+        "department": "Ministry of Home Affairs",
+        "type": "Centrally Sponsored Scheme",
+        "beneficiary": "People living in remote and inaccessible areas near the International Boundary",
+        "details": "The main objective of the BADP is to meet the special developmental needs and well-being of the people living in remote and inaccessible areas situated near the International Boundary (IB) and to provide the border areas with essential infrastructure by convergence of BADS/other Central/State/UT/Local Schemes and through a participatory approach especially in six thematic areas - Basic Infrastructure, Health Infrastructure, Education, Agriculture & Water Resources, Financial Inclusion and Skill Development.",
+        "benefits": [
+            "Construction and up-gradation of roads",
+            "Construction of bridges and culverts",
+            "Construction of Foot Suspension Bridges",
+            "Construction of retaining walls to protect the roads in hilly areas",
+            "Construction of houses for Government doctors and paramedics",
+            "Building infrastructure including SHC/PHC/CHC",
+            "Setting up of Government mobile dispensaries/ambulances",
+            "Purchase of medical equipment in Government Hospitals",
+            "Construction of Primary/Middle/Secondary/Higher secondary school buildings",
+            "Construction of hostels/dormitories in Secondary/Higher Secondary school",
+            "Construction of minor irrigation works",
+            "Water conservation programs",
+            "Construction of play fields and mini stadiums",
+            "Drinking Water Supply projects in Government schools",
+            "Construction of anganwadi centers and community centers",
+            "Development of Model villages",
+            "Construction of infrastructure for Small Scale Industries"
+        ],
+        "eligibility": [
+            "Covers 396 Blocks of 111 border Districts in 16 States and 2 Union Territories abutting the International Boundary",
+            "Includes all census villages/towns within 0-10 Km distance from the International Boundary",
+            "Strategic villages/towns identified by Border Guarding Forces will be prioritized"
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [],
+        "faqs": [
+            {
+                "question": "Is the scheme covering all the border districts of mentioned states?",
+                "answer": "Yes"
+            },
+            {
+                "question": "What is BADP OMS?",
+                "answer": "System used for mapping of the villages/towns through the BADP Online Management System."
+            },
+            {
+                "question": "Who will review the implementation details of the scheme?",
+                "answer": "The Empowered Committee will review the implementation of all the individual/family/community benefit schemes of Government of India in the border areas."
+            },
+            {
+                "question": "What will be the major benefits of the scheme?",
+                "answer": "Road development, Drinking water supply, Health infrastructures and so on."
+            },
+            {
+                "question": "What are strategic villages/towns?",
+                "answer": "Census villages, semi-urban and urban areas identified by BGFs as 'strategic villages/towns' within the 0-10 km area."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://meghalaya.gov.in/schemes/content/37481"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://meghalaya.gov.in/dept/4"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://megbad.gov.in/scheme_badp.html"
+            }
+        ],
+        "tags": [
+            "Border Development",
+            "Infrastructure",
+            "Health",
+            "Education",
+            "Agriculture",
+            "Skill Development"
+        ]
+    }
+}

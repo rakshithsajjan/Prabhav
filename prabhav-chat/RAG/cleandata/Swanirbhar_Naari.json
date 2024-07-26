@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Swanirbhar Naari",
+        "state": "Assam",
+        "department": "Directorate of Handloom & Textiles",
+        "type": "Procurement",
+        "beneficiary": "Indigenous weavers",
+        "details": "Swanirbhar Naari is a state flagship scheme implemented by the Directorate of Handloom & Textiles, Assam, to support indigenous weavers and promote their traditional hand-woven items. The scheme ensures direct procurement from weavers without the involvement of middlemen, thereby providing them fair market access and improved remuneration for their craftsmanship. Under the scheme, a dedicated online portal (swanirbharnaari.assam.gov.in) is used for the registration of eligible weavers. The weavers are required to undergo physical field verification by departmental officials, and their registration is mapped with their Aadhaar number. The scheme encourages the weavers to acquire various certifications and provides quality training to upgrade their skills through Handloom Training Centres and Institutes. To enhance productivity and quality, modern technology is integrated into the traditional weaving process.",
+        "benefits": [
+            "Empowerment of indigenous weavers by eliminating middlemen and ensuring fair market access.",
+            "Improved remuneration for the weavers through direct procurement and online payments.",
+            "Skill upgradation and training opportunities through Handloom Training Centres and Institutes.",
+            "Integration of modern technology to enhance the pattern, quality, and productivity of hand-woven items.",
+            "Facilitation of certifications to validate the craftsmanship of the weavers.",
+            "Increased market visibility and sales opportunities through showrooms and e-marketing platforms.",
+            "Preservation and promotion of traditional hand-woven heritage of Assam."
+        ],
+        "eligibility": [
+            "The weaver must be a resident of Assam.",
+            "The weaver must have at least one handloom in their household.",
+            "The weaver must have a valid bank account with Core Banking Solution (CBS).",
+            "The weaver should possess a valid yarn passbook issued by the Directorate of Handloom & Textiles, Assam (if available).",
+            "Indigenous weavers from Assam and intended weavers are allowed to register, subject to physical verification by concerned Inspectors of Handloom and Textile, Assam."
+        ],
+        "exclusions": [
+            "Non-residents of Assam are not eligible for the scheme.",
+            "Weavers without at least one handloom in their household are not eligible.",
+            "Weavers without a valid bank account with Core Banking Solution (CBS) are not eligible."
+        ],
+        "application_process": "Offline. Weavers need to visit the 'Swanirbhar Naari' portal (swanirbharnaari.assam.gov.in) and register as a beneficiary. The registration process requires providing the necessary details and uploading the required documents. The registration will be accepted subject to physical field verification by departmental officials.",
+        "documents_required": [
+            "Proof of residence in Assam",
+            "Proof of owning at least one handloom",
+            "Valid bank account details with Core Banking Solution (CBS)",
+            "Valid yarn passbook issued by the Directorate of Handloom & Textiles, Assam (if available)"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for the Swanirbhar Naari scheme?",
+                "answer": "Any resident of Assam who is a weaver and possesses at least one handloom in their household can apply."
+            },
+            {
+                "question": "How can I register for the scheme?",
+                "answer": "You need to visit the 'Swanirbhar Naari' portal (swanirbharnaari.assam.gov.in) and complete the registration process by providing the required details and uploading the necessary documents."
+            },
+            {
+                "question": "Is physical verification necessary for registration?",
+                "answer": "Yes, physical field verification of the weavers by departmental officials is mandatory for the registration to be accepted."
+            },
+            {
+                "question": "How long does it take to receive payment after product procurement?",
+                "answer": "Payments are made online to the weavers within four days of the procurement of their products."
+            },
+            {
+                "question": "Can non-residents of Assam participate in the scheme?",
+                "answer": "No, the scheme is only open to residents of Assam."
+            },
+            {
+                "question": "What is the role of ARTFED and AGMC Ltd. in the scheme?",
+                "answer": "ARTFED and AGMC Ltd. will assist in the procurement and sales process, operating showrooms and e-marketing platforms for the hand-woven items."
+            },
+            {
+                "question": "Can weavers without a yarn passbook register for the scheme?",
+                "answer": "Yes, indigenous weavers and intended weavers can register, but physical verification by concerned inspectors is required."
+            },
+            {
+                "question": "Is there a limit to the number of products a weaver can sell?",
+                "answer": "Each eligible registered weaver can sell a maximum of up to 100 benchmarked products."
+            },
+            {
+                "question": "Are there any charges for registration or participation in the scheme?",
+                "answer": "No, there are no charges for registration or participation in the Swanirbhar Naari scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines And Notification",
+                "url": "https://swanirbharnaari.assam.gov.in/assets/Swanirbhar_naari_English_guidelines.pdf"
+            }
+        ],
+        "tags": [
+            "Handloom",
+            "Indigenous",
+            "Procurement",
+            "Weavers"
+        ]
+    }
+}

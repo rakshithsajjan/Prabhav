@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Deen Dayal Disabled Rehabilitation Scheme",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Grant",
+        "beneficiary": "Persons with disabilities",
+        "details": "The Deen Dayal Disabled Rehabilitation Scheme (DDRS) is a Central Sector Scheme of the Government of India that provides financial assistance to voluntary organizations working for the education and rehabilitation of persons with disabilities. The scheme was launched in 1999 and was revised and renamed in 2003.",
+        "benefits": [
+            "Early intervention programs for children with disabilities",
+            "Development of daily living skills",
+            "Educational programs for children and adults with disabilities",
+            "Skill development oriented towards employability",
+            "Training and awareness generation for staff and caregivers",
+            "Construction and upgradation of infrastructure facilities for persons with disabilities"
+        ],
+        "eligibility": [
+            "Organizations registered under the Societies Registration Act, 1860, or relevant Act of the State/Union Territory",
+            "A public trust that is registered under the law temporarily",
+            "A charitable company that is licensed under Section 25 of the Companies Act 1958",
+            "The organization must have been in existence for at least two years",
+            "The organization must have a properly constituted governing body with its power, duties, and responsibilities mentioned in writing",
+            "The organization must have the resources, facilities, and experience to undertake the proposed project",
+            "The organization should not be run for the profit of any individual or a body of individuals",
+            "The organization should not discriminate against any individual or a group with respect to their sex, religion, caste, or creed"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Application",
+            "Registration Certificate under Registration of Societies Act",
+            "Registration Certificate under PWD Act 1995/RPwD Act, 2016",
+            "Details of the Managing/Executive Committee",
+            "Attested copy of Rent Agreement indicating validity period and details of accommodation available",
+            "Location of the project",
+            "Staff List",
+            "Certificate of Special Education",
+            "List of Beneficiaries",
+            "Total Budget Estimate",
+            "List of Assets (moveable & immovable)",
+            "Annual Report/Progress Report",
+            "Statement of Accounts (Consolidated and for the project being funded under the scheme) - Balance Sheet, Receipt & Payment Statement and Income & Expenditure Statement",
+            "Item-wise breakup of expenditure",
+            "Utilization Certificate",
+            "Resolution",
+            "Indemnity Bond",
+            "Authorization letter for sending grants-in-aid directly into the Bank Account"
+        ],
+        "faqs": [
+            {
+                "question": "What is DDRS?",
+                "answer": "DDRS stands for Deendayal Disabled Rehabilitation Scheme under which, the Central Government has been providing grant-in-aid to non-governmental organizations (NGOs) for projects relating to rehabilitation of persons with disabilities aimed at enabling them to reach and maintain their optimal, physical, sensory, intellectual, physic- social functional levels."
+            },
+            {
+                "question": "What is/are the Objectives of DDRS?",
+                "answer": "To create an enabling environment to ensure equal opportunities, equity, social justice and empowerment of persons with disabilities. To encourage voluntary action for ensuring effective implementation of the Revised Persons with Disabilities Act, 2016 (RPwD Act, 2016)."
+            },
+            {
+                "question": "What are the activities/components admissible for grant under DDRS?",
+                "answer": "Recurring expenditure and Non-recurring expenditure such as furniture, equipment, books etc."
+            },
+            {
+                "question": "What are the model projects under the DDRS?",
+                "answer": "Pre-School, Early Intervention and Training, Special Schools, Project for Cerebral Palsied Children, Project for Rehabilitation of Leprosy Cured Persons, Half Way Home for Psycho-Social Rehabilitation of Treated and Controlled people with mental Illness, Home Based Rehabilitation Programme/Home Management Programme, Project for Community Based Rehabilitation, Project for Low Vision Centers, Projects for Human Resource Development."
+            },
+            {
+                "question": "How to apply for grant-in-aid?",
+                "answer": "All applications by NGOs seeking Grant-in-aid (GIA) under Deendayal Disabled Rehabilitation Scheme (DDRS) should have register themselves on NGO Darpan portal of NITI Aayog first and to get Unique ID. Thereafter, they have to apply through on-line process on the online E-Anudaan portal of the Ministry."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://disabilityaffairs.gov.in/upload/uploadfiles/files/revised%20DDRS%20Scheme-1-149_compressed.pdf"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://disabilityaffairs.gov.in/content/page/ddrs.php"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Rehabilitation",
+            "Government Scheme",
+            "Financial Assistance"
+        ]
+    }
+}

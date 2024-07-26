@@ -1,0 +1,112 @@
+{
+    "content": {
+        "title": "Home for Mentally Challenged Children",
+        "state": "Puducherry",
+        "department": "Department of Social Welfare",
+        "type": "Care Scheme",
+        "beneficiary": "Children facing mental challenges",
+        "details": "The scheme 'Home for Mentally Challenged Children' by the Department of Social Welfare, Government of Puducherry, aims to provide care for children facing mental challenges, i.e. low Intelligence Quotient (IQ). The scheme offers free boarding and lodging, uniform sets, daily living needs, and medical check-ups for the inmates. Additionally, it includes educational and recreational activities to enhance their overall well-being.",
+        "benefits": [
+            "Free boarding and lodging for all the inmates.",
+            "Free supply of 4 uniform sets to the inmates per year.",
+            "Free supply of all daily living needs for the inmates.",
+            "Free medical check-ups, including paediatric and psychiatric services, for all the inmates.",
+            "Annual tours and local picnic trips to places of interest for the inmates.",
+            "Annual Day for prize distribution to winners in sports events and cultural programmes.",
+            "Non-formal education to assist and develop inmates in their day-to-day activities.",
+            "Training in habits of discipline, cleanliness, good health, drawing, painting, yoga, and other extracurricular activities."
+        ],
+        "eligibility": [
+            "Boys in the age group of 7 to 17 years.",
+            "Mild Mental Retardedness with an IQ level between 50-70.",
+            "Moderate Mental Retardedness with an IQ level between 35-49.",
+            "Severe Mental Retardedness with an IQ level between 20-34.",
+            "Profound Mental Retardedness with an IQ level under 20.",
+            "Unspecified Mental Retardedness with mental efficiency and sub-normality."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhaar Card",
+            "Voter ID",
+            "Address Proof",
+            "Ration Card",
+            "Age Proof",
+            "Disability Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is the significance of the Annual Day in the scheme?",
+                "answer": "The Annual Day serves as a platform for prize distribution to winners in sports events and cultural programmes, fostering a sense of achievement and recognition among the inmates."
+            },
+            {
+                "question": "Can you elaborate on the eligibility criteria for moderate mental retardation?",
+                "answer": "Moderate mental retardation eligibility requires an IQ level between 35-49, ensuring that those falling within this range receive tailored support under the scheme."
+            },
+            {
+                "question": "What are the key educational components of the scheme?",
+                "answer": "The scheme includes non-formal education aimed at assisting and developing inmates in their daily activities, ensuring a well-rounded approach to their educational needs."
+            },
+            {
+                "question": "How does the scheme contribute to the recreational aspect of the inmates' lives?",
+                "answer": "Annual tours and local picnic trips are organized to places of interest, providing recreational opportunities and fostering a positive environment for the inmates."
+            },
+            {
+                "question": "Besides medical services, what other forms of assistance are provided to the inmates?",
+                "answer": "In addition to medical care, the scheme offers non-formal education to assist and develop inmates in their day-to-day activities, fostering their overall growth."
+            },
+            {
+                "question": "What is the frequency of uniform distribution under the scheme?",
+                "answer": "Inmates receive four uniform sets annually, ensuring they have an adequate and regular supply for their daily needs."
+            },
+            {
+                "question": "What age group does the scheme target?",
+                "answer": "The scheme is designed for boys aged 7 to 17 years who face varying levels of mental challenges, providing tailored support for their specific needs."
+            },
+            {
+                "question": "How does the scheme support inmates with unspecified mental retardation?",
+                "answer": "The scheme caters to those with unspecified mental retardation by addressing mental efficiency and sub-normality, ensuring inclusive care for a diverse range of challenges."
+            },
+            {
+                "question": "Are there any cultural events included in the scheme?",
+                "answer": "Yes, the scheme organizes an Annual Day for prize distribution to winners in sports events and cultural programmes, enhancing the cultural aspect of the inmates' lives."
+            },
+            {
+                "question": "What activities contribute to the overall well-being of the inmates?",
+                "answer": "Apart from education, the scheme includes training in discipline, cleanliness, good health habits, as well as activities such as drawing, painting, and yoga for the inmates' holistic development."
+            },
+            {
+                "question": "What services are provided during the medical check-ups for the inmates?",
+                "answer": "The medical check-ups encompass paediatric and psychiatric services to ensure comprehensive healthcare for mentally challenged children."
+            },
+            {
+                "question": "What are the specific benefits covered under the scheme?",
+                "answer": "The benefits include free boarding, 4 sets of uniforms annually, daily living essentials, medical check-ups, annual tours, local trips, and non-formal education for overall development."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://socwelfare.py.gov.in/contact-us"
+            },
+            {
+                "type": "Sub Offices",
+                "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://pgportal.gov.in/"
+            }
+        ],
+        "tags": [
+            "Mental Health",
+            "Child Welfare",
+            "Social Welfare",
+            "Puducherry"
+        ]
+    }
+}

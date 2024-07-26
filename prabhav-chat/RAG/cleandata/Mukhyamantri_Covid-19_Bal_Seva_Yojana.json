@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Mukhyamantri Covid-19 Bal Seva Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Women and Child Development Department",
+        "type": "Financial Support",
+        "beneficiary": "Children who have lost parents or guardians due to COVID-19",
+        "details": "The Madhya Pradesh government launched the Mukhyamantri Covid-19 Bal Seva Yojana under the Women and Child Development Department. Under this scheme, a pension on monthly basis will be provided to all those children whose parents or guardians have died due to coronavirus infection. This pension will be provided till the child attains the age of 21 years. Apart from this, education and ration facilities will also be provided. All those children whose parents or guardians have died between March 1, 2020, and July 31 will be able to avail the benefits of this scheme. Only the natives of the state can avail the benefit of this scheme.",
+        "benefits": [
+            "Financial Assistance: Each child beneficiary receives \u20b95,000/- per month deposited in a joint account until they turn 18.",
+            "Guardian and child receive free monthly ration under National Food Security Act.",
+            "Free education in government schools.",
+            "Fees paid for RTE provision private schools.",
+            "RTE reimbursement limit for other private schools.",
+            "Free education in government schools for Class 9 to 12.",
+            "\u20b910,000/- per year for private school students.",
+            "Full fee assistance in government/aided universities for general courses.",
+            "Up to \u20b915,000/- fee reimbursement in private universities.",
+            "Full fee assistance in government/aided colleges for technical education.",
+            "Up to \u20b91,50,000/- per year or actual fee in private colleges for technical education.",
+            "Full fee assistance in government/private colleges for medical education based on NEET score."
+        ],
+        "eligibility": [
+            "The affected family should be a local resident of Madhya Pradesh.",
+            "The family should not be eligible to avail the benefits of Chief Minister Covid-19 Yodha Kalyan Yojana.",
+            "The deceased parents of the child beneficiary should not have been government servants or employees of a government undertaking who were eligible to receive pension under the old pension scheme.",
+            "Such boys/girls whose age is 21 years or less, but till the prescribed duration of graduation course, whichever is less and whose parent has died from COVID-19 or parents have died earlier and their legal guardian has died due to Covid-19."
+        ],
+        "exclusions": [
+            "Families eligible for Chief Minister Covid-19 Yodha Kalyan Yojana.",
+            "Parents who died outside the specified date range (01 March 2021 to 30 June 2021)."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Death certificate of the deceased person.",
+            "Birth/age certificate of beneficiary children.",
+            "Bank Details (Passbook/cancelled cheque).",
+            "Photograph in max 700 KB and only JPG/JPEG/PNG/PDF format.",
+            "Copy of guardian's identity card (Driving license, PAN card, Ration card, Voter ID or copy of any other identity card)."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Mukhyamantri COVID-19 Bal Seva Yojana?",
+                "answer": "The Mukhyamantri COVID-19 Bal Seva Yojana is a government scheme aimed at providing support and assistance to children who have lost their parents or guardians due to the COVID-19 pandemic."
+            },
+            {
+                "question": "Who is eligible to benefit from the Mukhyamantri COVID-19 Bal Seva Yojana?",
+                "answer": "Children who have lost one or both parents or legal guardians due to COVID-19 are eligible to receive support under this scheme."
+            },
+            {
+                "question": "What kind of support does the Mukhyamantri COVID-19 Bal Seva Yojana provide?",
+                "answer": "The scheme may provide financial assistance, education support, healthcare benefits, counseling services, and other forms of assistance to eligible children."
+            },
+            {
+                "question": "What documents are required to apply for support under the Mukhyamantri COVID-19 Bal Seva Yojana?",
+                "answer": "Commonly required documents may include death certificates of parents or guardians due to COVID-19, proof of identity, proof of guardianship, and any other relevant documents specified by the authorities."
+            },
+            {
+                "question": "Is there any financial assistance provided to eligible children under this scheme?",
+                "answer": "Yes, financial assistance may be provided to eligible children to meet their immediate needs and support their education, healthcare, and overall well-being."
+            },
+            {
+                "question": "If the parent's died in the year 2022, would the child still be eligible for benefits?",
+                "answer": "No, benefits will only be provided if the death of parent happened during 01 March'21 to 30 June'21."
+            },
+            {
+                "question": "Can beneficiary get the other scheme (Chief Minister Covid-19 Yodha Kalyan Yojana) benefits?",
+                "answer": "No, The family should not be eligible to avail the benefits of Chief Minister Covid-19 Yodha Kalyan Yojana."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Death certificate of the deceased person. 2. Birth/age certificate of beneficiary children. 3. Bank Details (Passbook/cancelled cheque). 4. Photograph. 5. Copy of guardian's identity card."
+            },
+            {
+                "question": "What documents can be considered under the guardian's identity card?",
+                "answer": "1. Driving license. 2. PAN card. 3. Ration card. 4. Voter ID or copy of any other identity card."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://mpwcdmis.gov.in/Downloads/CM%20covid%2019%20Baal%20kalyan%20yojna.pdf"
+            },
+            {
+                "type": "Documents",
+                "url": "https://services.mp.gov.in/main/balseva"
+            },
+            {
+                "type": "Register & Apply",
+                "url": "http://covidbalkalyan.mp.gov.in/"
+            }
+        ],
+        "tags": [
+            "Children Care",
+            "Education",
+            "Financial Support"
+        ]
+    }
+}

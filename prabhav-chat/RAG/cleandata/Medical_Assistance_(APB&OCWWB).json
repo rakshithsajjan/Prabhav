@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Medical Assistance (APB&OCWWB)",
+        "state": "Arunachal Pradesh",
+        "department": "Department of Labour and Employment",
+        "type": "Financial Assistance",
+        "beneficiary": "Registered workers of the Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB)",
+        "details": "The scheme \u201cMedical Assistance\u201d was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of the Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The state government has proposed and implemented this scheme through the APB&OCWWB for providing medical assistance to registered workers who are hospitalized for five or more than five days due to accident or disease.",
+        "benefits": [
+            "\u20b9 2000/- only for the first five days.",
+            "\u20b9100/- each for the remaining days subject to a maximum of \u20b915,000/- if disability occurs due to accident.",
+            "Additional benefits up to a maximum of \u20b925,000/- depending upon the percentage of disability."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Arunachal Pradesh.",
+            "The applicant must be employed in the Building and Other Construction works.",
+            "The applicant should be registered with Labour Welfare Board (APB&OCWWB).",
+            "The applicant\u2019s membership must be active at the time of application.",
+            "The applicant must have a disease or had an accident for which he/she should be hospitalised or put in plaster at his/her residence."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Identity proof i.e. Aadhaar Card, Voter ID card, etc.",
+            "Original copy of registration card /membership card of the board",
+            "Application form",
+            "Bank Account number/ front page of the passbook",
+            "Passport-size photographs",
+            "Address proof"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of this scheme is to provide medical assistance to registered workers who are hospitalized for five or more than five days due to an accident or disease."
+            },
+            {
+                "question": "By which department was this scheme launched?",
+                "answer": "Department of Labour and Employment, Government of Arunachal Pradesh."
+            },
+            {
+                "question": "What is the full form of APB&OCWWB?",
+                "answer": "Arunachal Pradesh Building & Other Construction Workers Welfare Board."
+            },
+            {
+                "question": "How much cash assistance will be given to the eligible worker during his/her hospitalization?",
+                "answer": "Cash assistance of \u20b92000/- will be given to the worker for the first five days and \u20b9100/- each for the remaining days subject to a maximum of \u20b915,000/- during his/her hospitalization."
+            },
+            {
+                "question": "What is the addition benefit to be given to the worker?",
+                "answer": "The Additional benefit up to a maximum of \u20b925,000/- will be given to the eligible worker depending upon the percentage of disability."
+            },
+            {
+                "question": "Who is eligible under this scheme?",
+                "answer": "The worker who have a disease or had an accident for which he/she should be hospitalized or put in plaster at his/her residence is eligible to take benefit of the scheme."
+            },
+            {
+                "question": "Is this scheme only for a worker /labour of Arunachal Pradesh?",
+                "answer": "Yes, the applicant should be a permanent resident of Arunachal Pradesh."
+            },
+            {
+                "question": "Is it mandatory to have registered under Board?",
+                "answer": "Yes, the labour/worker must be a registered worker under the Board."
+            },
+            {
+                "question": "Can a worker also eligible to take the benefits of the scheme if membership has been expired?",
+                "answer": "No, the worker\u2019s membership shall be active to take the benefits of the scheme."
+            },
+            {
+                "question": "How can I avail the benefits of the scheme?",
+                "answer": "The applicant needs to contact Registering Officers, APB&OCWWB of the respective District."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://tawang.nic.in/labour-welfare-board/"
+            },
+            {
+                "type": "Guideline",
+                "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+            }
+        ],
+        "tags": [
+            "Medical Assistance",
+            "Financial Assistance",
+            "Construction Worker",
+            "Accident",
+            "Disease"
+        ]
+    }
+}

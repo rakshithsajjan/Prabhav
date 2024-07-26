@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Mai Bhago Vidya Scheme",
+        "state": "Punjab",
+        "department": "Education",
+        "type": "Grant",
+        "beneficiary": "Girl students",
+        "details": "Mai Bhago Vidya Scheme aims to ensure that the girl\u2019s students continue their education beyond the level of primary, to promote girl's enrollment, and reduce the dropout of the girl child in the senior secondary and higher secondary school level. The name Mai Bhago is one of the brave Sikh women soldiers who guided Sikh soldiers against the Mughals in 1705. She was the hero of that war because she killed a number of Mughals soldiers. In the State, most of the girls leave their education after 8th class because schools are far away from their homes. It is not easy for them to go to school without any vehicles and most families in Punjab villages cannot afford vehicles or bicycles for their girl\u2019s child. Mai Bhago Vidya Scheme helps those school-going girls who cannot afford the vehicles.",
+        "benefits": [
+            "Free bicycles are provided to all girl students of 9th to 12th classes."
+        ],
+        "eligibility": [
+            "Girl students should be residents of Punjab state.",
+            "Girl students should be studying in standards 9th, 10th, 11th, and 12th in the government school.",
+            "Girl students should belong to those below the poverty line (BPL)."
+        ],
+        "exclusions": [
+            "No, Girl students should be residents of Punjab state.",
+            "No, this scheme benefits will only be provided to girl students."
+        ],
+        "application_process": "Applicants can also contact the principal of their concerned school regarding the Scheme. The application form will be provided by the concerned person. Fill up the application form and submit all the required Documents. Verification of the details of the applicant will be done by the concerned authority. After successful verification, the applicant can avail the benefit of the scheme.",
+        "documents_required": [
+            "Identity card such as Aadhaar card",
+            "Resident proof",
+            "BPL card",
+            "Caste certificate if applicable",
+            "School certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Mai Bhago Vidya Scheme?",
+                "answer": "Mai Bhago Vidya Scheme helps those school-going girls who cannot afford vehicles."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Free bicycles are provided to all girl students."
+            },
+            {
+                "question": "Who can avail the benefits?",
+                "answer": "Girl students should be in the 9th to 12th standard in the government school."
+            },
+            {
+                "question": "What is the financial eligibility criteria?",
+                "answer": "Girl students should belong to those below the poverty line (BPL)."
+            },
+            {
+                "question": "May Other State Residents Apply For The Scheme?",
+                "answer": "No, Girl students should be residents of Punjab state."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Applicants can also contact the principal of their concerned school regarding the Scheme. The application form will be provided by the concerned person. Fill up the application form and submit all the required Documents. Verification of the details of the applicant will be done by the concerned authority. After successful verification, the applicant can avail the benefit of the scheme."
+            },
+            {
+                "question": "What documents are required for the scheme?",
+                "answer": "Identity card such as Aadhaar card, Resident proof, BPL card, Caste certificate if applicable, School certificate."
+            },
+            {
+                "question": "May students also apply prior to the 9th standard?",
+                "answer": "No, students should be in 9th to 12th standards."
+            },
+            {
+                "question": "May Male Students Also Apply for the scheme?",
+                "answer": "No, this scheme benefits will only be provided to girl students."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/mbvs"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Free Cycle",
+            "Girl Empowerment",
+            "Girl Welfare"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "content": {
+        "title": "Krishak Bakri Palan Yojnaa",
+        "state": "Himachal Pradesh",
+        "department": "Agriculture Department",
+        "type": "State Scheme",
+        "beneficiary": "Economically weaker segments of society (small and marginal farmers, mainly nomads and landless labourers)",
+        "details": "Goat farming is a traditional occupation of economically weaker segments of the society (small and marginal farmers, mainly nomads and landless labourers) in Himachal Pradesh. This species is considered to be major source of economic sustenance for these categories of people. Adaptability of goats to wide range of agro climatic conditions has rendered it suitable for poor farmers. Under this scheme it has been proposed to distribute units of 11 goats (10 females +1male), 5 goats (4 females +1 male) and 3 goats (2 females +1 male) of Beetal/Sirohi/Jamanapari/White Himalayan breeds on 60% subsidy.",
+        "benefits": [
+            "Increase income generation opportunities for economically weaker segments of society",
+            "Increase meat production"
+        ],
+        "eligibility": [
+            "Farmers belonging to all categories like general/SC/ST/BPL/Women and Landless persons of Himachal Pradesh are eligible.",
+            "Training/awareness in skills of goat husbandry is mandatory for all applicants.",
+            "Preference will be given to unemployed SC, ST, Women and General category persons.",
+            "Families where no member is in Government job.",
+            "Persons with annual income not exceeding 2 lakh per annum.",
+            "Persons/farmers who have built their own goat sheds or built under MGNREGA."
+        ],
+        "exclusions": [],
+        "application_process": "The applicant has to fill the online form on the website.",
+        "documents_required": [
+            "Bank Passbook",
+            "Income Certificate",
+            "Unemployment Certificate",
+            "BPL Certificate",
+            "Training Certificate",
+            "Cast Certificate (if SC, ST)"
+        ],
+        "faqs": [
+            {
+                "question": "What would be the area of implementation?",
+                "answer": "It can be implemented in the Entire State."
+            },
+            {
+                "question": "Is there any subsidy provided on Goats?",
+                "answer": "Goat Units Will Be Provided On 60% Subsidy."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/kbpyy"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Bakri Palan"
+        ]
+    }
+}

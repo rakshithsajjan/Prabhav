@@ -1,0 +1,106 @@
+{
+    "content": {
+        "title": "Nanaji Deshmukh Krishi Sanjivani Prakalp",
+        "state": "Maharashtra",
+        "department": "Department of Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Small and marginal farmers",
+        "details": "The Nanaji Deshmukh Krishi Sanjivani Prakalp (NDKSP) aims to provide financial assistance to small and marginal farmers for implementing climate-resilient agricultural practices.",
+        "benefits": [
+            "Financial assistance up to 80% for implementing climate-resilient activities",
+            "Training sessions for farmers on climate-resilient farming techniques",
+            "Access to agro-climatic advisories"
+        ],
+        "eligibility": [
+            "Small and marginal farmers with land holdings up to 5 Ha",
+            "Farmers from villages included in the NDKSP scheme"
+        ],
+        "exclusions": [
+            "Farmers with land holdings greater than 5 Ha are not eligible",
+            "Villages not included in the NDKSP scheme are not eligible for financial assistance"
+        ],
+        "application_process": "Farmers can apply through the NDKSP portal or mobile app after registering with their Aadhaar number.",
+        "documents_required": [
+            "Aadhaar card",
+            "Landless farmer certificate (if applicable)"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits to the farmers offered under NDKSP scheme?",
+                "answer": "Small and marginal farmers with land holding up to 5 Ha will get financial assistance up to 80% for implementing climate resilient activities such as drip, sprinklers, farm-pond, shade-net, poly-tunnels, etc on their farms."
+            },
+            {
+                "question": "If I have 2 Ha land in the project region and my village is included in the scheme, can I apply for 30x30x12 Mtr farm-pond on my farm?",
+                "answer": "Yes. You are eligible for applying for the given activity."
+            },
+            {
+                "question": "What is the mode of payment from NDKSP and when will I get paid?",
+                "answer": "The project has implemented back-ended financial assistance. You need to apply for the activity, and after completion and inspection, the financial assistance will be disbursed to your Aadhaar linked Bank account."
+            },
+            {
+                "question": "What can I do if my village is not included in NDKSP scheme?",
+                "answer": "If your village is not included, you are not eligible for financial assistance, but you may utilize agro-climatic advisories and attend training sessions."
+            },
+            {
+                "question": "Does NDKSP project provide handholding and training sessions of the farmers to adopt climate resilient farming techniques?",
+                "answer": "Yes, under the Farm Field School initiative, training sessions are conducted for farmers in demo plots."
+            },
+            {
+                "question": "I am a member of Farmer Producing Organization, are there any activities for which I can apply for?",
+                "answer": "Yes, Farmer Producing Organizations from the districts covered under NDKSP are eligible to apply for multiple activities designed for Agribusiness promotion."
+            },
+            {
+                "question": "I am a farmer with less than 1 Ha land in NDKSP region, am I eligible to apply for the scheme?",
+                "answer": "Yes, you are eligible for the application."
+            },
+            {
+                "question": "If I am having more than 5 Ha of the land in NDKSP region, am I eligible to apply for the scheme?",
+                "answer": "No, farmers with land holdings greater than 5 Ha are not eligible to apply."
+            },
+            {
+                "question": "I am a landless farmer however I want to apply for the activity which doesn\u2019t need land, am I eligible to apply and what additional document am I supposed to be produced?",
+                "answer": "Yes, you can apply for certain activities and need to provide a landless farmer certificate."
+            },
+            {
+                "question": "What is the eligibility for applying to shade-net?",
+                "answer": "Your land holding should be less than 5 Ha and you should have funds to implement the activity."
+            },
+            {
+                "question": "I am a farmer from NDKSP village and want to apply for the activity which is listed in the scheme, what is the process for application?",
+                "answer": "Visit the NDKSP portal or mobile app, register using your Aadhaar number, and apply for available activities."
+            },
+            {
+                "question": "Can I start the work on the activity which I have applied for post application on NDKSP portal?",
+                "answer": "You can start the work after receiving Pre-Sanction from the office of SDAO."
+            },
+            {
+                "question": "If my Aadhaar is not linked with any bank account, how will I get financial assistance from NDKSP scheme?",
+                "answer": "You need to link your Aadhaar card with your bank account to receive financial benefits."
+            },
+            {
+                "question": "I have received an SMS that disbursement is made on my account for the activity which I have completed, however, I haven\u2019t received the funds in my account. What should I do?",
+                "answer": "Visit Citizen Service Centre to activate your Aadhaar."
+            },
+            {
+                "question": "After activating my Aadhaar number, in how many days will I get the financial assistance for the activity which I have already completed?",
+                "answer": "Inform NDKSP officials about the activation, and they will process your funds as soon as available."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Portal",
+                "url": "https://www.myscheme.gov.in/schemes/pocra"
+            },
+            {
+                "type": "DBT Portal",
+                "url": "https://dbt.mahapocra.gov.in"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Financial Assistance",
+            "Climate Resilience",
+            "Farmers"
+        ]
+    }
+}

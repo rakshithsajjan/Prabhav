@@ -1,0 +1,40 @@
+{
+    "content": {
+        "title": "Odisha State Treatment Fund",
+        "state": "Odisha",
+        "department": "Health and Family Welfare Department",
+        "type": "Grant",
+        "beneficiary": "Patients requiring treatment assistance",
+        "details": "The Odisha State Treatment Fund (OSTF) provides financial assistance for treatment in government medical colleges and hospitals, as well as district hospitals and capital hospitals in Odisha.",
+        "benefits": [
+            "Free treatment for patients",
+            "Financial assistance up to Rs. 2.00 lakh",
+            "Support for necessary medical procedures"
+        ],
+        "eligibility": [
+            "Patients admitted to government medical colleges and hospitals",
+            "Patients requiring treatment assistance as per the guidelines"
+        ],
+        "exclusions": [],
+        "application_process": "Patients must submit an application in the prescribed format with necessary documents to the Nodal Officer of the concerned department.",
+        "documents_required": [
+            "Application form",
+            "Medical reports",
+            "Identity proof",
+            "Income certificate"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/ostf"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Financial Assistance",
+            "Odisha",
+            "Treatment Fund"
+        ]
+    }
+}

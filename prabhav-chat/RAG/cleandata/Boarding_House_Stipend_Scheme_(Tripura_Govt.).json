@@ -1,0 +1,43 @@
+{
+    "content": {
+        "title": "Boarding House Stipend Scheme (Tripura Govt.)",
+        "state": "Tripura",
+        "department": "Tribal Welfare Department, Directorate of Tribal Welfare",
+        "type": "Stipend",
+        "beneficiary": "Scheduled Tribes students",
+        "details": "The scheme of 'Boarding House Stipend' was introduced by the Tribal Welfare Department, Directorate of Tribal Welfare, Govt. of Tripura to improve educational scenario among Scheduled Tribes people. Objectives: i. To provide accommodation to the ST boys and girls in the hostels hailing from remote areas. ii. To provide residential facilities to the ST student whose resident is beyond 3km of the School. iii. To reduce the dropout rate.",
+        "benefits": [
+            "Boarding House Stipend @ Rs. 65/- per day per student (including LPG subsidy, sweeping, cleaning Rs.1/- per day per student) for 322 days (10 months) in an academic year.",
+            "Accommodation in Govt. run hostel and approved NGO run Boarding Houses."
+        ],
+        "eligibility": [
+            "ST boarders studying in Class 1st to 12th whose residence is beyond 3km from the school."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The concerned DM/SDM will collect the list of students from the Govt. run hostel and approved NGO-run Boarding Houses and send the list to the Directorate of Tribal Welfare.",
+        "documents_required": [
+            "Caste certificate",
+            "Ration Number",
+            "Aadhaar Number",
+            "Parent's Mobile Number",
+            "School admission Document / School ID Card",
+            "Income Certificate"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://twd.tripura.gov.in/scheme"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/bhsstg"
+            }
+        ],
+        "tags": [
+            "Shelter",
+            "Stipend",
+            "Student"
+        ]
+    }
+}

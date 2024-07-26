@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Awaas Yojana - Gramin",
+        "state": "India",
+        "department": "Ministry Of Rural Development",
+        "type": "Loan",
+        "beneficiary": "Houseless households and those living in kutcha and dilapidated houses",
+        "details": "Launch on 1st April 2016, Pradhan Mantri Awaas Yojana Gramin (PMAY-G) is centre's flagship mission by the Ministry of Rural Development (MoRD), implemented by the Ministry of Housing and Urban Affairs (MoHUA). PMAY-G aims at providing a pucca house, with basic amenities, to all houseless households and those households living in kutcha and dilapidated house. PMAY-G addresses the rural housing shortage and bridges the housing deficit in rural areas of India, contributing significantly to the mission of 'Housing for All'. The minimum size of the houses under PMAY-G is 25 sq m including a dedicated area for hygienic cooking. As of 27th Sept 2022, 2.00 crore houses have been constructed out of the total target of 2.72 crores. The beneficiaries are identified using the Socio-Economic and Caste Census (SECC) parameters and verified by the Gram Sabhas. The amount is transferred directly to the Aadhaar-Linked Bank Account / Post-Office Account of the beneficiary. PMAY-G has been extended for another two years, i.e. till 31st March 2024.",
+        "benefits": [
+            "Financial Assistance of \u20b9 1,20,000 per unit for plain areas; and \u20b9 1,30,000 per unit for hilly areas, difficult areas, and IAP districts.",
+            "A willing beneficiary can avail of institutional finance (loan) of up to \u20b9 70,000 at 3% lower interest rate, to build a permanent house.",
+            "The minimum size of the house shall be is 25 sq m including a dedicated area for hygienic cooking.",
+            "In convergence with Swachh Bharat Mission-Gramin (SBM-G), the beneficiaries get financial assistance of up to \u20b9 12,000 for the construction of toilets.",
+            "In convergence with MGNREGA, the beneficiary is entitled to employment as unskilled labor (Rural Mason Training) at \u20b9 90.95 per day for 95 days.",
+            "In convergence with Pradhan Mantri Ujjwala Yojana, one LPG connection per house is provided.",
+            "Convergence with different government programmes for piped drinking water, electricity connection, clean & efficient cooking fuel, treatment of social and liquid waste, etc.",
+            "Payments are made electronically directly to bank accounts or post office accounts that are linked to Aadhaar."
+        ],
+        "eligibility": [
+            "Households without shelter",
+            "Destitute/ living on alms",
+            "Manual scavengers",
+            "Primitive Tribal Groups",
+            "Legally released bonded laborer"
+        ],
+        "exclusions": [
+            "All households living in houses with pucca roofs and/or pucca walls and households living in houses with more than 2 rooms.",
+            "Households fulfilling any one of the 13 parameters listed for automatic exclusion."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar number and a self-attested copy of the Aadhaar Card.",
+            "Job Card (duly registered with MGNREGA).",
+            "Bank account details \u2013 both originals and duplicates.",
+            "Swachh Bharat Mission (SBM) number.",
+            "Affidavit stating the beneficiaries, or their family members do not own a pucca house."
+        ],
+        "faqs": [
+            {
+                "question": "What assistance in convergence with MGNREGA is provided under PMAY-G?",
+                "answer": "In convergence with MGNREGA, the beneficiaries get employment for 95 days. The beneficiaries are paid \u20b9 90.95 per day for unskilled labor."
+            },
+            {
+                "question": "What assistance in convergence with SBM-G is provided under PMAY-G?",
+                "answer": "In convergence with SBM-G, the beneficiaries get assistance for the construction of toilets of up to \u20b9 12,000."
+            },
+            {
+                "question": "How are the beneficiaries for PMAY-G identified?",
+                "answer": "The beneficiaries are identified using parameters from the Socio-Economic and Caste Census (SECC) and verified by the Gram Sabhas."
+            },
+            {
+                "question": "How the amount of loan or financial assistance provided to the beneficiary?",
+                "answer": "The amount is transferred directly to the Aadhaar-Linked Bank Account / Post-Office Account of the beneficiary."
+            },
+            {
+                "question": "What is the amount and the purpose of loan provided under PMAY-G?",
+                "answer": "A loan up to \u20b9 70,000/- is provided at 3% lower interest rates to the beneficiary to build a permanent dwelling."
+            },
+            {
+                "question": "Who is the Implementing Agency of PMAY-G?",
+                "answer": "PMAY-G is being implemented by the Ministry of Housing and Urban Affairs (MoHUA)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines (Hindi)",
+                "url": "https://pmayg.nic.in/netiayHome/Uploaded/Guidelines-Hindi_book_final.pdf"
+            },
+            {
+                "type": "Guidelines (ENGLISH)",
+                "url": "https://pmayg.nic.in/netiayHome/Uploaded/Guidelines-English_Book_Final.pdf"
+            },
+            {
+                "type": "PMAY-G Dashboard",
+                "url": "https://pmayg.nic.in/netiay/PBIDashboard/PMAYGDashboard.aspx"
+            },
+            {
+                "type": "Beneficiary Registration Manual",
+                "url": "https://pmayg.nic.in/netiayHome/Document/Document-PMAYG-Registratio-Manual.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Housing",
+            "Loan",
+            "Rural Development"
+        ]
+    }
+}
