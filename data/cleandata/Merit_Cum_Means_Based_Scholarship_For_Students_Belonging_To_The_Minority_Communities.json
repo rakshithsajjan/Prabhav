@@ -1,0 +1,116 @@
+{
+    "content": {
+        "title": "Merit Cum Means Based Scholarship For Students Belonging To The Minority Communities",
+        "state": "All States",
+        "department": "Ministry Of Minority Affairs",
+        "type": "Scholarship",
+        "beneficiary": "Students belonging to minority communities",
+        "details": "A scholarship scheme by the Ministry of Minority Affairs for students from minority communities pursuing technical and professional courses at undergraduate and postgraduate levels in a listed institute. The scholarship will be awarded to the students who have secured not less than 50% marks (or equivalent grade) in the previous final examination and the annual income of their parents/guardian from all sources does not exceed \u20b92.50 lakh. The scheme aims to encourage parents from minority communities to lighten their financial burden on education and sustain their efforts to support their children to complete their education. A total of 60,000 scholarships are targeted to be distributed as \u2018Fresh\u2019 Scholarships, besides, Renewal scholarships.",
+        "benefits": [
+            "Course Fee - \u20b920,000/- per annum subject to actuals whichever is less (for both Hosteller & Day Scholar)",
+            "Monthly Maintenance Allowance (for 10 months in an academic year) - \u20b91,000/- for Hosteller; \u20b9500/- for Day Scholar",
+            "Full course fee is reimbursed for the listed Institutes"
+        ],
+        "eligibility": [
+            "The applicant must be a student",
+            "The applicant must belong to a Minority Community",
+            "The applicant must be pursuing a technical or professional course at the undergraduate or postgraduate level",
+            "The applicant must have secured not less than 50% marks (or equivalent grade) in the previous final examination",
+            "The annual income of parents/guardians of the applicant (from all sources): Less than or equal to \u20b92.5 Lakhs per Annum"
+        ],
+        "exclusions": [
+            "If a student violates school discipline or any other terms and conditions of the scholarship, the scholarship may be suspended or canceled",
+            "The student availing any other scholarship out of all the available Scholarships of the Central Government meant for SC/ST/OBC/minority",
+            "If a student is found to have obtained a scholarship by false statement, his/her scholarship will be canceled forthwith and the amount of the scholarship paid will be recovered by the concerned State/UT Govt",
+            "The student obtaining benefits under this scheme shall not be allowed to avail of benefits under any other scheme for this purpose",
+            "Scholarships will not be given to more than two students from a family"
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Student\u2019s Photo",
+            "Verification Form by the Institution",
+            "Income Certificate, issued from a Competent Authority in the State/UT Govts is required in respect of parent/guardian of the student",
+            "Self-Certified Community Certificate (if the applicant is greater than or equal to 18 years) or Community Certificate certified by parent/guardian",
+            "Self-attested Mark Sheet of the last qualifying exam",
+            "Fee Receipt of \u2018Current Course Year\u2019",
+            "Bank Details (Account No., IFSC Code) of the applicant or Bank Details of the Parent/Guardian (if the student does not have his/her own bank account)",
+            "Residential/Domicile Certificate",
+            "Bonafide Student Certificate from the institute (if the institute is located in a State/UT different from domicile State/UT)",
+            "Aadhaar Number (or alternative identification documents)"
+        ],
+        "faqs": [
+            {
+                "question": "What if there are more than one student with equal marks for the last available slot?",
+                "answer": "In such cases, preference will be given to the student with lower family income."
+            },
+            {
+                "question": "Will I be eligible for the scholarship if I fail to get promoted to the next semester?",
+                "answer": "No. The scholarship will be terminated in that case."
+            },
+            {
+                "question": "Is there a percentage of slots reserved for girl students?",
+                "answer": "Yes, 30% of the total slots are reserved for girl students."
+            },
+            {
+                "question": "Can I apply offline for the scholarship?",
+                "answer": "No. You need to visit https://scholarships.gov.in/ to apply."
+            },
+            {
+                "question": "Is there any application fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "Will the scholarship also be paid for the period of internship / housemanship in the M.B.B.S. course?",
+                "answer": "No. The scholarship won\u2019t be provided for that period."
+            },
+            {
+                "question": "By when shall the scholarship become payable?",
+                "answer": "The scholarship will become payable after the student has secured admission and has started attending the classes."
+            },
+            {
+                "question": "Is there a validity to the scholarship?",
+                "answer": "The scholarship will be provided till the complete duration of the course."
+            },
+            {
+                "question": "What would be the mode of payment of the scholarship?",
+                "answer": "The payment of the scholarship will be through DBT."
+            },
+            {
+                "question": "Do I need to complete the application in one sitting?",
+                "answer": "No. You can save the application as draft and continue at a later time before the deadline."
+            },
+            {
+                "question": "How do I track the status of my application?",
+                "answer": "You can check the same anytime by visiting the Applicant Dashboard and clicking 'Track Status' in the left pane."
+            },
+            {
+                "question": "What should be the type and size of the documents to be uploaded?",
+                "answer": "The format should be .pdf or .jpeg. The size of each document should not be greater than 200 kb."
+            },
+            {
+                "question": "In what cases a Bonafide Certificate from the institute is needed?",
+                "answer": "It is needed if the institute is located in a State/UT different from domicile State/UT of the applicant."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "The mandatory fields have a red asterisk (*) mark at the end."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.minorityaffairs.gov.in/sites/default/files/MCM_4.pdf"
+            },
+            {
+                "type": "User Manual For OTR Number Generation",
+                "url": "https://scholarships.gov.in/public/FAQ/renewalstudentfaqs.pdf"
+            }
+        ],
+        "tags": [
+            "Higher Education",
+            "Minority",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Pratyaksh Hanstantrit Labh / Direct Benefits Transfer For LPG",
+        "state": "India",
+        "department": "Ministry Of Petroleum and Natural Gas",
+        "type": "Subsidy",
+        "beneficiary": "LPG Consumers",
+        "details": "PAHAL (DBTL) has been introduced to curb the diversion of subsidized LPG. Under the scheme, Consumers will pay the market price for the domestic cylinder and the subsidy will be transferred directly to their bank account. This removes the incentive to divert the domestic LPG cylinders, which moved in the supply chain at almost half of their real market price.",
+        "benefits": [
+            "Reduction in subsidy burden due to elimination of supply chain leakages and unauthorized usage.",
+            "LPG Consumers get LPG subsidies in cash directly in their bank account automatically.",
+            "Improved availability of new LPG connections in the market.",
+            "Reduction in back-log due to reduced diversion.",
+            "Reduction in administrative overheads for Oil Marketing Companies."
+        ],
+        "eligibility": [
+            "LPG users and their spouses who do not earn a taxable income above \u20b910,00,000 in the previous financial year according to the Income Tax Act of 1961."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Form 1 - Submit a copy of the Aadhaar letter to the LPG distributor or bank",
+            "Form 2 - Aadhaar letter, in addition to residential proof, to be submitted to the LPG distributor",
+            "Form 3 - A copy of a current refill slip consisting of a 17-digit LPG ID number",
+            "Form 4 - A copy of a bank passbook's front page and a canceled cheque"
+        ],
+        "faqs": [
+            {
+                "question": "What Will Have To Be Done By The LPG Consumer Who Had Already Joined The Scheme Earlier?",
+                "answer": "LPG consumers who had joined the scheme earlier by linking their Aadhaar number in LPG and Bank database do not need to do anything. Such consumers will get the cylinder at Market price w.e.f the date on which the scheme is launched and the cash will be transferred into their bank account."
+            },
+            {
+                "question": "What Does An LPG Consumer Do To Join PAHAL (DBTL) Scheme?",
+                "answer": "Option I (Primary): LPG consumers who have an Aadhaar number must provide their Aadhaar number to LPG distributor using Form 2 and to Bank using Form 1. Option II (Secondary): If the LPG consumer does not have an Aadhaar number, he/she can give Bank details to the LPG distributor in Form 4 or give a 17-digit LPG ID to the Bank using Form 3."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Handbook",
+                "url": "http://petroleum.nic.in/dbt/DBTL_Handbook.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pahal-dbtl"
+            }
+        ],
+        "tags": [
+            "LPG",
+            "Subsidy",
+            "Direct Benefits Transfer",
+            "PAHAL",
+            "DBTL"
+        ]
+    }
+}

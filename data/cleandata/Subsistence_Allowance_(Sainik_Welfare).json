@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Subsistence Allowance (Sainik Welfare)",
+        "state": "Puducherry",
+        "department": "Department of Sainik Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Ex-Servicemen and their Widows",
+        "details": "The scheme 'Subsistence Allowance' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. The objective of the scheme is to provide financial assistance to the Veterans of the Second World War (WWII), Non-pensioners ESM above 60 years under 'Below the Poverty Line (BPL)', and their widows. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+        "benefits": [
+            "\u20b910,000 per month for Second World War (WWII) Veterans, irrespective of financial status.",
+            "\u20b99,000 per month for Non-pensioners ESM above 60 years under 'Below Poverty Line (BPL)'.",
+            "\u20b99,000 per month for widows of the above two categories."
+        ],
+        "eligibility": [
+            "The applicant should be an Ex-Serviceman or the Widow of an Ex-Serviceman.",
+            "The applicant should be registered with the Department of Sainik Welfare, Puducherry."
+        ],
+        "exclusions": [
+            "The scope of this financial assistance will not apply to those ESM / living spouse/widows who are re-employed as regular / deemed to be regular in Government/PSU/Private Organizations and self-employed IT assesses."
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Identity Card of the ESM.",
+            "Recent passport-size photograph.",
+            "A 'Life Certificate' must be submitted by January every year to the respective bank for the continuation of the allowance."
+        ],
+        "faqs": [
+            {
+                "question": "Which Department of the UT of Puducherry administers this scheme?",
+                "answer": "The scheme is administered by the Department of Sainik Welfare, Union Territory of Puducherry."
+            },
+            {
+                "question": "Where can I find the URL of the Official Website of the Department of Sainik Welfare, Puducherry?",
+                "answer": "The URL of the Official Website of the Department of Sainik Welfare, Puducherry is: https://sainik.py.gov.in/."
+            },
+            {
+                "question": "Is self-attestation required for attaching documents with the application?",
+                "answer": "Yes, applicants need to self-attest the copies of mandatory documents while submitting the application."
+            },
+            {
+                "question": "Is this scheme also applicable to the Widows of Ex-servicemen?",
+                "answer": "Yes, all Schemes are applicable only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry."
+            },
+            {
+                "question": "Can individuals with disabilities apply for this scheme?",
+                "answer": "The scheme does not explicitly mention any restrictions, so individuals with disabilities can apply if they meet the general eligibility criteria specified."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sainik.py.gov.in/assistance-affd-fund"
+            },
+            {
+                "type": "Government Order",
+                "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://sainik.py.gov.in/sites/default/files/subsistence_allowance.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://sainik.py.gov.in/contact-us"
+            }
+        ],
+        "tags": [
+            "Allowance",
+            "Ex-Serviceman",
+            "Financial Assistance",
+            "Sainik",
+            "Widow"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "content": {
+        "title": "AICTE-Swanath Scholarship Scheme For Students",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Scholarship",
+        "beneficiary": "Orphans, wards of parents who died due to Covid-19, wards of Armed Forces and Central Paramilitary Forces martyred in action",
+        "details": "A scholarship scheme by the Student Development Cell (StDC) of All India Council for Technical Education (AICTE) to provide encouragement and support to orphans, wards of parents who died due to Covid-19, wards of Armed Forces, and Central Paramilitary Forces martyred in action (Shaheed) to pursue education. This is an attempt to give every such child, an opportunity to study further and prepare for a successful future through education in AICTE Approved institutions and courses. The family income from all sources should not be more than \u20b98,00,000 per annum during the financial year of the application. The candidate should be currently studying in the AICTE Approved institutions and courses at the Degree/Diploma level in regular mode (in 1st /2nd / 3rd /4th year). The candidate should NOT be a Recipient of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships. A maximum of 2000 scholarships (1000 for Degree Students and 1000 for Diploma Students) will be awarded every year to eligible candidates as above. \u20b950,000.00 per annum for every year of study i.e. maximum 4 years duration for first-year admitted Degree students and maximum 3 years for Diploma Students as lump sum amount towards payment of college fee, purchase of computer, stationeries, books, equipment, software, etc.",
+        "benefits": [
+            "A maximum of 2000 scholarships (1000 for Degree Students and 1000 for Diploma Students) will be awarded every year.",
+            "Rs. 50,000.00 per annum for every year of study.",
+            "Financial support for college fees, purchase of computer, stationeries, books, equipment, software, etc."
+        ],
+        "eligibility": [
+            "The candidate should be one of the following: (i) an orphan, OR (ii) whose either or both parents died due to Covid 19, OR (iii) Ward of Armed Forces and Central Paramilitary Forces martyred in action (Shaheed).",
+            "The family income from all sources should not be more than \u20b98,00,000 per annum during the financial year of the application.",
+            "The candidate should be currently studying in the AICTE Approved institutions and courses at the Degree/Diploma level in regular mode (in 1st /2nd / 3rd /4th year).",
+            "The candidate should NOT be Recipient of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships."
+        ],
+        "exclusions": [
+            "Candidates who are Recipients of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships, will be ineligible."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "For Orphan Candidates: Death Certificates of both Father & Mother (if available), Bonafide Certificate issued by the institution, 10+2 / equivalent and 10th Mark sheet for Degree Level, 10th /equivalent Mark sheet for Diploma Level, Category Certificate (SC/ST/OBC-NCL).",
+            "For Candidates whose either or both Parents Died due to Covid 19: Death Certificate of Father/Mother or both explicitly mentioning that the death was due to Covid-19, current year income certificate, Bonafide Certificate issued by the institution, 10+2/equivalent and 10th Mark sheet for Degree Level, 10th /equivalent Mark sheet for Diploma Level, Category Certificate (SC/ST/OBC-NCL).",
+            "For Wards of Armed Forces and Central Paramilitary Forces martyred in action (Shaheed): Death Certificate, Shaheed Certificate issued by the Armed Forces/ Central Paramilitary Forces, Bonafide Certificate issued by the institution, 10+2/equivalent and 10th Mark sheet for Degree Level, 10th /equivalent Mark sheet for Diploma Level, current year income certificate, Category Certificate (SC/ST/OBC-NCL)."
+        ],
+        "faqs": [
+            {
+                "question": "What shall be the maximum duration of the scholarship?",
+                "answer": "Maximum of 4 years duration for first year admitted Degree students and maximum of 3 years for Diploma Students."
+            },
+            {
+                "question": "Am I eligible to apply for SWANATH Scholarship if I am a recipient of one of the merit scholarships of Centre / State Government?",
+                "answer": "NO. Students who are already in receipt of any of the scholarships (Central Govt. / State Govt. / AICTE Sponsored), are not eligible to apply for SWANATH Scholarships."
+            },
+            {
+                "question": "Is AADHAAR Card a mandatory document for SWANATH Scholarship?",
+                "answer": "Yes. Aadhaar card and Aadhaar seeded bank account in the name of candidate is mandatory for submitting online application under SWANATH scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_G.pdf"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://www.aicte-india.org/sites/default/files/stdc/FAQs-Swanath%20Scheme.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Education",
+            "AICTE",
+            "Covid-19",
+            "Orphans"
+        ]
+    }
+}

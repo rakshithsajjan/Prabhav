@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Jagananna Vidya Kanuka",
+        "state": "Andhra Pradesh",
+        "department": "School Education Department, Govt. of Andhra Pradesh",
+        "type": "State Sponsored Scheme",
+        "beneficiary": "Students of Class 1st - Class 10th enrolled in various schools",
+        "details": "The scheme aims to minimize dropouts, improve the gross Enrolment ratio, improve students' participation in learning activities, and thereby improve the learning outcomes of the children.",
+        "benefits": [
+            "Three pairs of uniforms",
+            "A set of Notebooks",
+            "Textbooks",
+            "A pair of shoes",
+            "Two pairs of socks",
+            "A belt",
+            "A School bag"
+        ],
+        "eligibility": [
+            "Students enrolled in Government/MPP/Municipal/Residential Schools of Education & Welfare Departments/Ashram Schools/Aided Schools/Model Schools/KGBVs/Registered Madarsas",
+            "No income-related criteria",
+            "No age-related criteria"
+        ],
+        "exclusions": [
+            "Applicants must be residents/domiciles of Andhra Pradesh",
+            "No reservation of slots based on gender"
+        ],
+        "application_process": "Students need not apply to avail of the benefits; the schools will distribute the kits at the time of admission.",
+        "documents_required": [
+            "Student Identity Card"
+        ],
+        "faqs": [
+            {
+                "question": "Can I apply to this scheme if the annual income of my family (from all sources) is more than \u20b9 8,00,000?",
+                "answer": "There are no income-related criteria for this scheme. You can apply to this scheme irrespective of your family income, provided that you meet the eligibility criteria for this scheme."
+            },
+            {
+                "question": "Can I apply to this scheme if I am above 18 years of age?",
+                "answer": "There are no age-related criteria for this scheme. You can apply to this scheme irrespective of your age, provided that you meet the eligibility criteria for this scheme."
+            },
+            {
+                "question": "Can I apply to this scheme if I am studying in Class 7th?",
+                "answer": "Yes, you are eligible to apply to this scheme."
+            },
+            {
+                "question": "Is this scheme a 'One Family, One Benefit' scheme?",
+                "answer": "No, there is no such mention in the scheme guidelines."
+            },
+            {
+                "question": "Can a domicile of Telangana also apply to this scheme?",
+                "answer": "No, in order to be eligible to apply, the applicant should be a resident/domicile of the state of Andhra Pradesh."
+            },
+            {
+                "question": "Is the 'Student Identity Card' a mandatory document for this scheme?",
+                "answer": "Yes, the student must have a 'Student Identity Card' in order to apply to this scheme."
+            },
+            {
+                "question": "By when shall the student receive the scheme benefits?",
+                "answer": "The schools of Andhra Pradesh state will distribute the Jagananna Vidya Kanuka scheme kits to all school students at the time of admission."
+            },
+            {
+                "question": "What is the full form of KGBV?",
+                "answer": "The Full Form of KGBV is Kasturba Gandhi Balika Vidyalaya."
+            },
+            {
+                "question": "What is the full form of MPP School?",
+                "answer": "The Full Form of MPP School is 'Mandal Parishad Primary School'."
+            },
+            {
+                "question": "Is this scheme state sponsored or centrally sponsored?",
+                "answer": "This scheme is a 100% State Sponsored Scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://www.aputf.org/wp-content/uploads/2020/06/2020SE_MS12.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/jvk"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Government Scheme",
+            "Andhra Pradesh",
+            "School Kits"
+        ]
+    }
+}

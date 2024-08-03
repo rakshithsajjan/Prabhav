@@ -1,0 +1,66 @@
+{
+    "content": {
+        "title": "Boneej Scheme",
+        "state": "Assam",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Financial Assistance",
+        "beneficiary": "Young Entrepreneurs",
+        "details": "The 'Boneej Scheme' is a flagship program of the Government of Assam in India, aimed at promoting entrepreneurship and generating employment opportunities for the youth in the state. The scheme is focused on providing financial assistance and support to young entrepreneurs who are willing to start their own ventures. Under the Boneej Scheme, the government provides financial assistance in the form of seed money to selected entrepreneurs. The scheme also offers various support services such as training, mentoring, and networking opportunities to help entrepreneurs develop their skills, build their businesses, and access markets.",
+        "benefits": [
+            "It is proposed to provide Rs. 25,000 (Rupees twenty-Five thousand) as a grant to the industries located in Rural areas only where the annual turnover is less than Rs.5 lakh."
+        ],
+        "eligibility": [
+            "The industry should be located in rural areas of Assam.",
+            "This industry should be an existing one and have a continuous operation for a minimum of the last two years.",
+            "The unit should have its own workshed for production and process.",
+            "The age of the applicant should not be less than 18 years and more than the maximum of 50 years.",
+            "There is no bar to educational qualification.",
+            "The unit should have avail term loan/working capital loan to the extent to a minimum of one lakh."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "One Pass Port size photograph.",
+            "Copy of Industry registration.",
+            "Caste Certificate, as applicable.",
+            "Identity proof.",
+            "Address proof.",
+            "Training Certificate, if available.",
+            "Copy of the First page of the Bank Pass Book."
+        ],
+        "faqs": [
+            {
+                "question": "What is Boneej Scheme?",
+                "answer": "Boneej Scheme is a program launched by the Government of India to support the growth of micro, small, and medium enterprises (MSMEs) in the country. The scheme provides financial assistance to these enterprises for upgrading their technology and machinery, enhancing their marketing capabilities, and improving their quality standards."
+            },
+            {
+                "question": "Who is eligible for the Boneej Scheme?",
+                "answer": "The Boneej Scheme is available to all registered MSMEs in India. The scheme covers a wide range of industries, including manufacturing, services, and commerce. However, the eligibility criteria may vary depending on the specific objectives of the scheme."
+            },
+            {
+                "question": "How much financial assistance is provided under the Boneej Scheme?",
+                "answer": "It is proposed to provide Rs. 25000.00 (Rupees twenty five thousand) as a grant to the industries located in Rural areas only where the annual turnover is less than Rs.5 lakh. The amount of grant shall be utilized by the units for procurement of machinery/raw materials, as the case may be."
+            },
+            {
+                "question": "What are the objectives of the Boneej Scheme?",
+                "answer": "The Boneej Scheme has several objectives, including: Promoting the growth and development of MSMEs in India, upgrading the technology and machinery used by these enterprises, enhancing the marketing capabilities and competitiveness of these enterprises, encouraging the adoption of quality standards and certifications, and supporting the development of new and innovative products and services."
+            },
+            {
+                "question": "How can an enterprise apply for the Boneej Scheme?",
+                "answer": "To apply for the Boneej Scheme, an enterprise must first check the eligibility criteria and the specific objectives of the scheme. Once the enterprise has identified a suitable scheme, it can submit an application online or offline, depending on the guidelines provided by the scheme. The application must include details of the project, the funding required, and the repayment plan."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://industries.assam.gov.in/sites/default/files/Boneej.pdf"
+            }
+        ],
+        "tags": [
+            "Entrepreneurship",
+            "Financial Assistance",
+            "Assam",
+            "Youth Empowerment"
+        ]
+    }
+}

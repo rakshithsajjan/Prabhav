@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "Innovations for Defence Excellence",
+        "state": "India",
+        "department": "Ministry of Defence",
+        "type": "Grant",
+        "beneficiary": "Startups and individual innovators in Defence and Aerospace sector",
+        "details": "Innovations for Defence Excellence (iDEX) is the operational framework of the Defence Innovation Organization (DIO), launched in 2018 to support innovation for Indian Defence and create pathways for adoption of technologies in the Indian armed services.",
+        "benefits": [
+            "Funding up to Rs 1.5 crore for prototype development",
+            "Access to accelerator programs",
+            "Support in technology and business development",
+            "Access to defence testing facilities"
+        ],
+        "eligibility": [
+            "Startups recognized by DPIIT",
+            "Indian companies incorporated under the Companies Act 1956/2013",
+            "Micro, Small and Medium Enterprises (MSME) as defined in the MSME Act, 2006",
+            "Individual innovators"
+        ],
+        "exclusions": [],
+        "application_process": "Applicants must apply for challenges launched under the Defence India Startup Challenge (DISC) and fill in the application over the specified link.",
+        "documents_required": [
+            "Certificate of incorporation",
+            "Bank account statements for iDEX project",
+            "Proposal details including technical and financial details"
+        ],
+        "faqs": [
+            {
+                "question": "What is the purpose of IDeX, DIO?",
+                "answer": "To make the country self-reliant in Defence through innovation and technology development."
+            },
+            {
+                "question": "What are the objectives of iDEX?",
+                "answer": "To create corporate Venture Capital models for Defence needs and transform defence innovation in India."
+            },
+            {
+                "question": "How does iDEX select startups to support?",
+                "answer": "Through open and transparent processes under various programs including DISC."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/idex"
+            },
+            {
+                "type": "Financial FAQs",
+                "url": "https://idex.gov.in/financial_faq1"
+            }
+        ],
+        "tags": [
+            "Defence",
+            "Innovation",
+            "Startups",
+            "Technology Development"
+        ]
+    }
+}

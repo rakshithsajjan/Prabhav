@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Drip Sanyantr",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Drip Sanyantr under the Agriculture Department Rajasthan government gives subsidies to farmers. Proper utilization of every drop of water by drip plant, 75-80 percent saving of water and increase in quality production through efficient technology. For the successful operation of a drip irrigation system, it is necessary to calculate the correct water requirement because through this system only water is given equal to the requirement of the plants. The water requirement of plants varies seasonally and every month and the working hours of the system are balanced accordingly.",
+        "benefits": [
+            "70% subsidy is given to general farmers and 75% subsidy is given to small, marginal Scheduled Caste, Scheduled Tribe, and women farmers.",
+            "All categories of farmers are given subsidies on drip plants up to a maximum area of 5 hectares."
+        ],
+        "eligibility": [
+            "The applicant should be a farmer.",
+            "The applicant should be a native of Rajasthan.",
+            "The farmer should have at least 0.2 hectares of irrigated cultivable land."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Jamabandi copy (not older than 6 months)",
+            "Aadhar Card/Janadhar Card.",
+            "Irrigation Source Certificate.",
+            "Soil and Water Testing Report.",
+            "Supplier's Quotation."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Proper utilization of every drop of water by drip plant. 75-80 percent saving of water and increase in quality production through efficient technology."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, only Rajasthan people can apply for this scheme."
+            },
+            {
+                "question": "Is there any criteria for cultivable land?",
+                "answer": "Have at least 0.2 hectares of irrigated cultivable land."
+            },
+            {
+                "question": "What Is The Financial Eligibility For Applicant?",
+                "answer": "There are no financial eligibility criteria."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer is a system of transferring money from the government to the beneficiary's bank account."
+            },
+            {
+                "question": "Is this scheme only for Farmer?",
+                "answer": "Yes, this scheme is only for farmers."
+            },
+            {
+                "question": "How much subsidy is given to Scheduled Tribe farmers?",
+                "answer": "75 percent subsidy is given to small, marginal Scheduled Caste, Scheduled Tribe, and women farmers."
+            },
+            {
+                "question": "How much subsidy is given to General farmers?",
+                "answer": "70 percent subsidy is given to general farmers."
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Yes, Urban and Rural both can apply for this scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Farming",
+            "Irrigation",
+            "Subsidy",
+            "Rajasthan"
+        ]
+    }
+}

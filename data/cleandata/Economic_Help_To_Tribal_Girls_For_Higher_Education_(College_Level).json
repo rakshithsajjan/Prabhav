@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Economic Help To Tribal Girls For Higher Education (College Level)",
+        "state": "Rajasthan",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Educational Grant",
+        "beneficiary": "Student",
+        "details": "In order to encourage tribal girl students of Rajasthan state to study in higher education and to promote girl education, financial assistance is provided to tribal girl students for higher education (college level).",
+        "benefits": [
+            "Annual financial assistance of Rs. 5,000/- is provided for 10 months at the rate of Rs.500/- per month."
+        ],
+        "eligibility": [
+            "The girl student should belong to the tribal class of Rajasthan.",
+            "The girl student should be regularly studying general education in a private/government college.",
+            "The parent/guardian/guardian/husband of the student should not be an income taxpayer.",
+            "After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme.",
+            "The student who is studying by living in a hostel run by the government. They will not be entitled to benefit under the said scheme.",
+            "Must have Vaidya Bhamashah card and Aadhaar card.",
+            "The girl student should be a native of Rajasthan."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Annual Income Of The Parent / Guardian - Non-Tax Payee.",
+            "Janaadhaar Card Details Of Family And Student.",
+            "Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student.",
+            "Caste Certificate.",
+            "Birth Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Rajasthan Government started a scholarship for tribal girls higher education (College Level) In the year 1994-95."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Annual financial assistance of Rs. 5000/- is provided for 10 months at the rate of Rs.500/- per month."
+            },
+            {
+                "question": "Who can get the benefits of the scheme?",
+                "answer": "The girl student should belong to the tribal class of Rajasthan and fulfill the eligibility criteria."
+            },
+            {
+                "question": "Is this scheme only for girls students or boys may also apply?",
+                "answer": "Yes, this scheme is only for Girl students."
+            },
+            {
+                "question": "What Is The Education Qualification For The Scheme?",
+                "answer": "1. After passing the board examination, there should not be any gap in the continuous study of the student applying for the scheme. 2. The girl student should be regularly studying general education in a private/government college."
+            },
+            {
+                "question": "May other state girl students also apply?",
+                "answer": "The Girl student must be native of Rajasthan."
+            },
+            {
+                "question": "What is the financial eligibility for applicant?",
+                "answer": "The parent/guardian/guardian/husband of the student should not be an income taxpayer."
+            },
+            {
+                "question": "How To Apply For The Scheme?",
+                "answer": "1. Applicant to log in to RajSSO Portal using his/her SSOID. 2. If SSOID is not available then the applicant to first register on RajSSO Portal to create SSOID and update SSO Profile at first login. 3. After successful authentication/login and updation of the SSOID Profile and select the scheme name. 4. Select his/her name, the bank account and fill in personal details. 5. Upload the required document. 6. Click the \u201cSUBMIT\u201d button."
+            },
+            {
+                "question": "What Documents Are Needed?",
+                "answer": "1. Aadhaar Card. 2. Annual Income Of The Parent / Guardian - Non-Tax Payee. 3. Janaadhaar Card Details Of Family And Student. 4. Bank Details Linked With the Janaadhaar Card Of Either The Family Head Or Student. 5. Caste Certificate. 6. Birth Certificate."
+            },
+            {
+                "question": "What is the official web portal to apply?",
+                "answer": "Use the following link. URL : https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/451"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Higher Education",
+            "Student"
+        ]
+    }
+}

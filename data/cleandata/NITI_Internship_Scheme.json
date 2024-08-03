@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "NITI Internship Scheme",
+        "state": "India",
+        "department": "NITI Aayog (National Institution for Transforming India)",
+        "type": "Internship",
+        "beneficiary": "Students pursuing Under Graduate / Graduate / Post Graduate Degrees or Research Scholars",
+        "details": "An Internship Scheme named 'NITI Internship Scheme' seeks to engage students pursuing Under Graduate / Graduate / Post Graduate Degrees or are Research Scholars enrolled in recognized University/ Institution within India or abroad, as 'interns'. These 'interns' shall be given exposure to various Verticals/ Divisions/Units within NITI Aayog and would be expected to supplement the process of analysis within NITI Aayog through empirical collection and collation of in-house and other information. The internship will be on unpaid basis. This will allow short term exposure of 'selected candidates' with the different Verticals/Divisions/Units of NITI Aayog, Government of India as 'Interns'.",
+        "benefits": [
+            "Experience Certificate/Internship Completion Certificate: A certificate regarding successful completion of Internship shall be issued by the Adviser of the concerned Subject Division.",
+            "Allows young academic talent to be associated with the NITI Aayog's work for mutual benefit.",
+            "Opportunity to know about the Government functioning and Developmental Policy issues in Government of India and contribute to the Policy formulation by generating policy inputs such as empirical analysis, briefing reports, policy papers, etc."
+        ],
+        "eligibility": [
+            "Bonafide students of any recognized University/Institution within India or abroad.",
+            "Under-graduate students, having completed/appeared in the term end exams of second year/4th semester of the bachelor degree course and secured not less than 85% or equivalent marks in 12th class.",
+            "Graduate students having completed/appeared in the term end exams of first year/2nd semester of their post graduate programme or pursuing research/PhD and secured not less than 70% or equivalent marks in Graduation.",
+            "Students who have appeared in the final exam or just completed Graduation/PG and waiting for admission for higher studies may also be considered for internship provided that they have secured 70% or more cumulative marks in all the years/semesters of their graduation/post-graduation till the date of application."
+        ],
+        "application_process": "Online. Visit the official website i.e https://workforindia.niti.gov.in/intern/InternshipEntry/PCInternshipEntry.aspx and follow the instructions to fill the form.",
+        "documents_required": [
+            "Marksheets of class 10th and 12th.",
+            "Marksheets of all semesters/years of graduation, PG, along with the degree (as applicable).",
+            "NOC in a specific format as mentioned in the application guidelines."
+        ],
+        "tags": [
+            "Internship",
+            "NITI Aayog",
+            "Student Engagement",
+            "Government Internship"
+        ],
+        "faqs": [
+            {
+                "question": "Will I get a stipend for this internship?",
+                "answer": "No, it is an unpaid internship."
+            },
+            {
+                "question": "What is the minimum and maximum duration of the internship?",
+                "answer": "The minimum duration for the internship is 6 weeks and the maximum duration is 6 months."
+            },
+            {
+                "question": "Can I apply offline for the internship?",
+                "answer": "No, the application is only available online."
+            },
+            {
+                "question": "I want to apply for the internship in the month of April, when should I apply?",
+                "answer": "For starting the internship in April, you should apply before the month of February (2 months in advance), you can apply as early as October (6 months in advance)."
+            },
+            {
+                "question": "Can I apply in the first year of my graduation course?",
+                "answer": "No, you can apply only after you have appeared for the exams of 4th semester or 2nd year of your graduation programme."
+            },
+            {
+                "question": "Who can I contact if I face web-related problems during the application?",
+                "answer": "For any web-related issues while filling out the application, you can contact nic-niti@gov.in."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://workforindia.niti.gov.in/intern/PDF/NITI_Internship_Guidelines.pdf"
+            },
+            {
+                "type": "Instructions To Fill Online Application Form",
+                "url": "https://workforindia.niti.gov.in/intern/PDF/GENERAL%20INFORMATION_INTERNSHIP%20NITI%20SCHEME.pdf"
+            },
+            {
+                "type": "Internship Management System Website",
+                "url": "https://workforindia.niti.gov.in/intern/InternshipEntry/homepage.aspx"
+            }
+        ]
+    }
+}

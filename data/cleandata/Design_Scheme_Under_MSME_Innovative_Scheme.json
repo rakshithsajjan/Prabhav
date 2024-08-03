@@ -1,0 +1,72 @@
+{
+    "content": {
+        "title": "Design Scheme Under MSME Innovative Scheme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Financial Support",
+        "beneficiary": "Micro, Small and Medium Enterprises (MSMEs)",
+        "details": "Launched by the Ministry of Micro, Small & Medium Enterprises, the Design scheme will help MSMEs to avail advice on all aspects of design. It helps MSMEs realize and achieve their design-related objectives. This specialist advice will be provided by experienced designers for new product development as well as enhancing existing product portfolio. The Design scheme is divided into two major parts, viz., Design Projects and Design Awareness Programme.",
+        "benefits": [
+            "Financial assistance for engagement of design consultants for design interventions.",
+            "75% (Micro) and 60% (Small & Medium) of the total project cost contributed by Government of India.",
+            "Maximum grant of \u20b9 40,000,00/- for approved design projects.",
+            "Support for student design projects with financial assistance up to \u20b9 2,50,000/-."
+        ],
+        "eligibility": [
+            "The beneficiary unit(s) must typically be a registered micro, small or medium enterprises.",
+            "Should have a valid Udyog Aadhaar Memorandum (UAM) or Udyam Registration certificate."
+        ],
+        "exclusions": [],
+        "application_process": "Online registration through the website https://innovative.msme.gov.in/ by clicking on 'Design' and following the steps to validate Udyam Registration Number.",
+        "documents_required": [
+            "Udyog Aadhaar Memorandum (UAM) or Udyam Registration (UR) certificate.",
+            "UAM Registered mobile number."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objectives of Design Scheme?",
+                "answer": "The objective of this component is to bring Indian manufacturing sector and Design expertise/ Design fraternity on to a common platform. It aims to provide expert advice and cost-effective solution on real time design problems for new product development, its continuous improvement and value addition in existing/new products."
+            },
+            {
+                "question": "What are the broad activities of MSME Innovative scheme?",
+                "answer": "The Design scheme is divided into two major parts, viz., Design Projects and Design Awareness Programme."
+            },
+            {
+                "question": "What type of financial assistance provided under the scheme?",
+                "answer": "Two types of financial assistance provided under the scheme: Design Project and Student Project."
+            },
+            {
+                "question": "Who can take the benefit of the scheme?",
+                "answer": "The beneficiary unit(s) must typically be a registered micro, small or medium enterprises as per the definition in MSMED and should have a valid UAM or Udyam Registration."
+            },
+            {
+                "question": "Who will implement the scheme throughout the country?",
+                "answer": "The implementing agencies for the Scheme, presently, are: Indian Institute of Science (IISc), Bengaluru, IITs, NITs."
+            },
+            {
+                "question": "How the proposals may be submitted?",
+                "answer": "All the proposals/application will be uploaded on the Innovative portal under the respective scheme component of MSME Innovative scheme."
+            },
+            {
+                "question": "Who is the Apex Body of the scheme?",
+                "answer": "Project Monitoring and Advisory Committee (PMAC) is set-up at the office of AS&DC (MSME)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://innovative.msme.gov.in/Home/AboutUs"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://innovative.msme.gov.in/Documents/MSME_InnovativeFAQ.pdf"
+            }
+        ],
+        "tags": [
+            "Business & Entrepreneurship",
+            "Financial Support",
+            "Product Design",
+            "Product Development"
+        ]
+    }
+}

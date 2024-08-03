@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "One Family One Job Scheme",
+        "state": "Haryana",
+        "department": "Directorate of Employment, Government of Haryana",
+        "type": "Employment",
+        "beneficiary": "Unemployed individuals and families",
+        "details": "The scheme 'One Family One Job Scheme' is implemented by the Directorate of Employment, Government of Haryana on 1st December, 1992 in Haryana State. Eligible applicants can register their names under this scheme, making them eligible for all benefits provided by the Employment Department. A resident of Haryana State aged 18 to 35 years (with a relaxation of up to 5 years for SC or BC applicants) is eligible to apply under the scheme, provided no member of their family is employed in the public or private sector and no family member is an income tax or sales taxpayer.",
+        "benefits": [
+            "Candidates registered under this scheme are eligible for all benefits provided by the Employment Department."
+        ],
+        "eligibility": [
+            "The applicant must be between 18 and 35 years old (with a relaxation of up to 5 years for SC or BC applicants).",
+            "The applicant must be a resident of Haryana State.",
+            "No member of the applicant's family should be employed in the public or private sector.",
+            "No member of the applicant's family should be an income tax or sales taxpayer.",
+            "No member of the applicant's family should be a current or former MP/MLA or a chairman of any board, corporation, or undertaking."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Family ID (PPP document)",
+            "Eligibility Documents: Ration Card, Family History Sheet, Self-declaration form",
+            "Haryana Resident Certificate/Domicile Certificate",
+            "Address Proof (Any two of the following): Aadhaar Card, Voter ID, Attested copy of Haryana domicile certificate, Ration Card, Driving License",
+            "A self-declaration form containing the details of his/her adult family members"
+        ],
+        "faqs": [
+            {
+                "question": "What is the One Family One Job Scheme?",
+                "answer": "The One Family One Job Scheme is an initiative launched by the Employment Department, Government of Haryana, on 1st December 1992, aimed at providing employment opportunities to families with no employed members."
+            },
+            {
+                "question": "Who is eligible to apply for this scheme?",
+                "answer": "Residents of Haryana State aged 18 to 35 years, with a relaxation of up to 5 years for SC or BC applicants, are eligible. Additionally, no member of the applicant's family should be employed in the public or private sector or be an income tax or sales tax payer."
+            },
+            {
+                "question": "What are the benefits of registering under this scheme?",
+                "answer": "Candidates registered under this scheme are eligible for all benefits provided by the Employment Department, including various employment opportunities and support services."
+            },
+            {
+                "question": "How can one apply for the Scheme?",
+                "answer": "Eligible applicants can apply online through the Official Portal - Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+            },
+            {
+                "question": "Is there any age relaxation for SC or BC applicants?",
+                "answer": "Yes, SC or BC applicants receive an age relaxation of up to 5 years."
+            },
+            {
+                "question": "Can a family with an employed member in a private sector apply?",
+                "answer": "No, families with any member employed in the public or private sector are not eligible."
+            },
+            {
+                "question": "Are there any restrictions on political affiliations for eligibility?",
+                "answer": "Yes, no family member should be a current or former MP/MLA or a chairman of any board, corporation, or undertaking."
+            },
+            {
+                "question": "Is the scheme applicable to families who pay income or sales tax?",
+                "answer": "No, families where any member is an income tax or sales tax payer are not eligible."
+            },
+            {
+                "question": "Can someone from outside Haryana apply for this scheme?",
+                "answer": "No, only residents of Haryana State are eligible to apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://hrex.gov.in/api/downloadFile/pdf/ofoj.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=kPcdWFRjTQE0phQYgKiJwQ%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://hrex.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Employment",
+            "Family",
+            "Job",
+            "Unemployed"
+        ]
+    }
+}

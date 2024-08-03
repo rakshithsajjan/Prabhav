@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Farm Machinery Bank (FMB)/Farm Machinery Hub (FMH)",
+        "state": "West Bengal",
+        "department": "Department Of Agriculture, Government of West Bengal",
+        "type": "Subsidy",
+        "beneficiary": "Rural Youth Entrepreneurs and Groups approved by Government Institutions",
+        "details": "Farm Machinery Bank (FMB)/Farm Machinery Hub (FMH) under the Farm Mechanization Umbrella Scheme was introduced in the year 2023 for setting up Farm Machinery Bank(FMB) and will also be continued in 2024-25. The objective is to create employment opportunities among the rural youth/entrepreneurs for setting up of the Hub with special emphasis on the areas having low farm power availability.",
+        "benefits": [
+            "80% subsidy on Total Financial Outlay (TFO) subject to maximum Rs 8.00 lakh",
+            "Facilitates end-to-end use of farm machinery for small and marginal farmers",
+            "Promotes self-employment for rural youth and entrepreneurs",
+            "Supports primary processing units like dal mill, oil mill, etc."
+        ],
+        "eligibility": [
+            "Individual Rural Youth Entrepreneur registered under Krishak Bandhu (New) Scheme",
+            "Groups like SKUS/PACS/FPO/FPC/FIG/SHG approved by any Govt Institution",
+            "Minimum project cost of \u20b910,00,000/-",
+            "Sufficient land under possession for setting up FMB/FMH",
+            "Minimum age of 18 years at the time of application"
+        ],
+        "exclusions": [
+            "Individuals or their spouses who have availed benefits under FSSM/OTA-SFI/FMB/CHC",
+            "Employees/retired employees of State Government, Statutory Bodies, Government Undertakings, etc."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Proforma Application Form",
+            "Proof of Citizenship (EPIC)",
+            "Krishak Bandhu ID No",
+            "Copy of AADHAAR card",
+            "PAN Card",
+            "Proof of financial solvency",
+            "Title Deed/ROR/Lease Certificate/Rent Receipt of land",
+            "Detailed project report for AIF (if applicable)",
+            "Quotations",
+            "Vetted plan & estimate for shade of FMB/FMH",
+            "Resolution of the organization regarding authorization of signatory"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "To facilitate end-to-end use of farm machinery for small and marginal farmers at reasonable charges."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department Of Agriculture, Government of West Bengal."
+            },
+            {
+                "question": "Who is eligible to apply under this scheme?",
+                "answer": "Individual Rural Youth Entrepreneur registered under Krishak Bandhu (New) Scheme or approved groups."
+            },
+            {
+                "question": "How to avail the benefits of the scheme?",
+                "answer": "Bonafide farmers can apply online in Matirkatha/FMS portal after due advertisement."
+            },
+            {
+                "question": "What is the process for availing the subsidy?",
+                "answer": "Beneficiaries will purchase approved equipment through self-finance/Bank Loan and submit subsidy claims."
+            },
+            {
+                "question": "Is there any fee or charges for the scheme?",
+                "answer": "No, there are no charges to apply for this scheme."
+            },
+            {
+                "question": "Is there any age restriction?",
+                "answer": "The age of the beneficiary should be minimum 18 years at the time of application."
+            },
+            {
+                "question": "How will the subsidy be released to the beneficiary?",
+                "answer": "Payment of subsidy will be made by the DDA(Admn) to the beneficiary's Bank Account in DBT mode."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://matirkatha.net/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e05a52aaf58b7fbfa749a5d71be15309a5101ea/FMS_Operational%20Guidelines_2024_25.pdf?disposition=attachment"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Employment",
+            "Entrepreneurs",
+            "Farm Machinery",
+            "Farmers",
+            "Machinery Bank",
+            "Machinery Hub",
+            "Rural",
+            "Subsidy",
+            "Youth"
+        ]
+    }
+}

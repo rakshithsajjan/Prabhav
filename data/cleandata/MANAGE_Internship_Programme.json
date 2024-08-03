@@ -1,0 +1,67 @@
+{
+    "content": {
+        "title": "MANAGE Internship Programme",
+        "state": "India",
+        "department": "Ministry of Agriculture & Farmers Welfare",
+        "type": "Internship",
+        "beneficiary": "Students pursuing relevant academic disciplines",
+        "details": "The MANAGE Internship Programme offers students the opportunity to gain practical experience in research and extension within the agricultural sector.",
+        "benefits": [
+            "Capacity development in research and extension",
+            "Valuable experience working with MANAGE",
+            "Stipend of \u20b910,000 per month for a 3-month internship",
+            "Stipend of \u20b935,000 per month for a 6-month internship"
+        ],
+        "eligibility": [
+            "Students from Extension Education, Economics, Sociology, Psychology, MSW, Journalism, Communication, and Environmental Science",
+            "Minimum cumulative OGPA of 8 out of 10 (minimum 80%) for completed Ph.D. or M.Sc. degrees",
+            "Ongoing degree students must have a similar level of academic achievement",
+            "Fluency in English and good writing skills"
+        ],
+        "exclusions": [],
+        "application_process": "Interested candidates should email their CV, motivation letter, and recommendation letter to Dr. Saravanan Raj at saravananraj.manage@gmail.com.",
+        "documents_required": [
+            "CV (Curriculum Vitae)",
+            "Motivation letter",
+            "Recommendation letter from the Head of the Department or Chairman of the advisory committee"
+        ],
+        "faqs": [
+            {
+                "question": "What are the specific academic disciplines that students should be pursuing in order to be eligible for the MANAGE Internship Programme?",
+                "answer": "Students from the disciplines of Extension Education, Economics, Sociology, Psychology, MSW, Journalism, Communication, and Environmental Science are eligible. Applicants with research interests in rural studies are particularly encouraged to apply."
+            },
+            {
+                "question": "Is English fluency and good writing skills an absolute requirement for the internship?",
+                "answer": "Yes, English fluency and good writing skills are essential for the internship."
+            },
+            {
+                "question": "What is the flexibility in terms of internship duration?",
+                "answer": "The MANAGE Internship Programme offers flexibility in terms of duration, with internships ranging from 3 to 6 months."
+            },
+            {
+                "question": "Are internships available throughout the year?",
+                "answer": "Internships are available year-round, providing flexibility for students to apply according to their preferences."
+            },
+            {
+                "question": "What is the selection process for the MANAGE Internship Programme?",
+                "answer": "The selection is based on evaluation of the proposals received, including the assessment of the candidate's CV, motivation letter, and recommendation letter."
+            },
+            {
+                "question": "Is it mandatory to submit a recommendation letter?",
+                "answer": "Yes, a recommendation letter from the Head of the Department/Chairman of the advisory committee is required."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/mip"
+            }
+        ],
+        "tags": [
+            "Internship",
+            "Agriculture",
+            "Research",
+            "Extension Education"
+        ]
+    }
+}

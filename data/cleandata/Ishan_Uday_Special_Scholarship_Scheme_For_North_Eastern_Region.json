@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "Ishan Uday Special Scholarship Scheme For North Eastern Region",
+        "state": "North Eastern Region",
+        "department": "Ministry of Education",
+        "type": "Scholarship",
+        "beneficiary": "Students from economically weaker sections of the North Eastern Region",
+        "details": "A scholarship scheme by the Ministry of Education and the University Grants Commission aimed at promoting higher education in the North Eastern Region (NER) by providing financial assistance to students from economically weaker sections. The scheme was launched from the academic session 2014-15.",
+        "benefits": [
+            "UGC will award 10,000 (ten thousand) fresh scholarships per year.",
+            "\u20b95,400/- per month for general degree courses and \u20b97,800/- per month for technical/medical/professional/paramedical courses.",
+            "The scholar would be awarded from the date of joining the course as certified by the University/Institution/ College.",
+            "Scholarship will be paid to the selected students by the UGC through DBT (Direct Benefit Transfer) Mode."
+        ],
+        "eligibility": [
+            "The applicant must be a domicile of NER.",
+            "The parental annual income of the applicant should not exceed \u20b94,50,000 per annum from all sources.",
+            "The applicant should have passed Class 12th or equivalent in the preceding year of study.",
+            "The applicant should have secured admission in the first year of any degree course."
+        ],
+        "exclusions": [
+            "Students pursuing courses/programs through Open Universities.",
+            "Students already availing scholarship for pursuing the Undergraduate program under any other scheme(s).",
+            "Students gaining admission through 'management quota'.",
+            "Students pursuing courses, such as Diploma Courses, do not lead to the award of a Degree.",
+            "Students whose parent's income exceeds \u20b94,50,000 per annum."
+        ],
+        "application_process": "Visit the National Scholarships Portal to register and apply for the scholarship. Follow the guidelines provided on the portal for registration and application submission.",
+        "documents_required": [
+            "Domicile certificate issued by the competent authority.",
+            "Proof of annual income issued by the competent authority.",
+            "For renewals, the annual progress report and continuation of studies will be required."
+        ],
+        "faqs": [
+            {
+                "question": "What Would Be The Mode Of Payment Of The Scholarship?",
+                "answer": "The payment of the scholarship will be through DBT."
+            },
+            {
+                "question": "Do I Need To Complete The Application In One Sitting?",
+                "answer": "No. You can save the application as draft and continue at a later time before the deadline."
+            },
+            {
+                "question": "How Do I Track The Status Of My Application?",
+                "answer": "You can check the same anytime by visiting the Applicant Dashboard and clicking 'Track Status' in the left pane."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "Can I Apply Offline For The Scholarship?",
+                "answer": "No. You need to visit https://scholarships.gov.in/ to apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/iu-sss-ner"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Higher Education",
+            "North Eastern Region",
+            "Financial Assistance"
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Mukhyamantri Nischay Swayam Sahayata Bhatta Yojna",
+        "state": "Bihar",
+        "department": "Government of Bihar",
+        "type": "Financial Assistance",
+        "beneficiary": "Educated Unemployed Citizens",
+        "details": "Allowance is provided by the Government of Bihar to the educated unemployed citizens under the Chief Minister Self Help Allowance Scheme, so that the citizens of the state do not have to face financial crisis.",
+        "benefits": [
+            "The amount of self-help allowance will be paid to the eligible applicant at the rate of Rs.1000 per month for a maximum period of two years."
+        ],
+        "eligibility": [
+            "From the age group of 20 to 25 years, unemployed young men/women who are not studying and are looking for employment and whose educational qualification is inter (12th) passed from a government-recognized institution located in the state but have not received higher education.",
+            "The applicant should be a permanent resident of the district of Bihar state, where he is submitting the application in the district registration centre.",
+            "The applicant should not have received any kind of allowance/scholarship/student credit card/education loan or any kind of assistance from any other source.",
+            "The applicant should not get any type of government or non-government employment (contract/permanent/temporary).",
+            "The applicant should not be self-employed.",
+            "The day the applicant gets permanent/temporary employment or self-employment, his eligibility for allowance given under this scheme will end and accordingly, the payment of allowance will be stopped as soon as information is received from him.",
+            "Unemployed youth/women applying for the amount of self-help allowance will have to compulsorily get training in language communication and basic computer knowledge (skilled youth program) conducted by Labor Resources Department and they will get a total amount of self-help allowance for the last 5 months will not be released until they successfully surrender the certificate of the said training."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card",
+            "Xth Passing Certificate",
+            "XIIth passing Certificate",
+            "Resident Certificate",
+            "Filled Common Application form"
+        ],
+        "faqs": [
+            {
+                "question": "What is Student Credit Card Scheme?",
+                "answer": "The allowance will be provided by the Government of Bihar to the educated unemployed citizens under the Chief Minister Self Help Allowance Scheme. So that the citizens of the state do not have to face financial crisis."
+            },
+            {
+                "question": "Who may get the scheme benefits?",
+                "answer": "Educated Unemployed Citizens from Bihar State."
+            },
+            {
+                "question": "What are the benefits under MNSSBY scheme?",
+                "answer": "The amount of self-help allowance will be paid to the eligible applicant at the rate of Rs.1000 per month for a maximum period of two years."
+            },
+            {
+                "question": "Who may apply for MNSSBY scheme?",
+                "answer": "From the age group of 20 to 25 years, unemployed young men/women who are not studying and are looking for employment and whose educational qualification is inter (12th) passed from a government-recognized institution located in the state but have not received higher education."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Applicants may register their self. After authentication through OTP, Applicants may fill the application form and Submit."
+            },
+            {
+                "question": "What is the URL to apply online?",
+                "answer": "Click on the following link. URL : https://www.7nishchay-yuvaupmission.bihar.gov.in/addFtrUserPage"
+            },
+            {
+                "question": "What documents are required while submitting the online application?",
+                "answer": "Aadhar Card, Xth Passing Certificate, XIIth passing Certificate, Resident Certificate, Filled Common Application form."
+            },
+            {
+                "question": "What is the minimum education qualification required?",
+                "answer": "Whose Educational Qualification Is Inter (12th) Passed From A Government-Recognized Institution Located In The State But Have Not Received Higher Education."
+            },
+            {
+                "question": "Can other state students also apply for this scheme?",
+                "answer": "No, Students should be residents of Bihar."
+            },
+            {
+                "question": "What is the minimum and maximum age to avail the scheme benefits?",
+                "answer": "The applicant's age should be between 20 years to 25 years."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/resources/Swayam_Sahayata_Bhatta_Yojana.pdf"
+            },
+            {
+                "type": "Online Registration",
+                "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/addFtrUserPage"
+            },
+            {
+                "type": "Application Flow",
+                "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/resources/Process_Flow_for_SHA.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Skilled Youth Program",
+            "Social Welfare",
+            "Unemployment"
+        ]
+    }
+}

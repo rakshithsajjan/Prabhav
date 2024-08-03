@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Funeral Assistance (ANBOCWWB)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Labour, Employment & Training, Andaman & Nicobar Administration",
+        "type": "Financial Assistance",
+        "beneficiary": "Nominees or dependents of deceased registered workers",
+        "details": "The scheme \u201cFuneral Assistance\u201d was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, financial assistance shall be provided to the nominees or dependents of deceased workers who were registered under the A&N Islands Building and Other Construction Workers Welfare Board, towards their funeral expenses.",
+        "benefits": [
+            "An amount of \u20b95,000/- may be given to the nominees/dependents of deceased registered workers, towards funeral expenses."
+        ],
+        "eligibility": [
+            "The applicant should be a legal nominee or dependent of the deceased worker.",
+            "The deceased worker should have been a resident of the Union Territory of Andaman & Nicobar Islands.",
+            "The deceased worker should have been engaged in any building or other construction work.",
+            "The deceased worker should have been registered under the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board.",
+            "The deceased worker should have had an active membership with the Board."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Copy of the death certificate",
+            "Copy of the nomination/legal heir certificate",
+            "Registration ID Card of deceased worker",
+            "Identity proof of nominee or dependent i.e. Aadhaar Card",
+            "Latest Subscription Receipt",
+            "Caste certificate, if any",
+            "Address proof",
+            "Bank Details of Nominee",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "How much financial assistance is provided under this scheme?",
+                "answer": "Under the scheme, an amount of \u20b95,000 may be given to the nominees or dependents of deceased registered workers towards funeral expenses."
+            },
+            {
+                "question": "Who is eligible to apply for Funeral Assistance?",
+                "answer": "A legal nominee or dependent of the deceased registered worker is eligible to apply under the scheme."
+            },
+            {
+                "question": "Can anyone apply for Funeral Assistance regardless of their relation to the deceased worker?",
+                "answer": "Only legal nominees or dependents of the deceased worker are eligible to apply for Funeral Assistance."
+            },
+            {
+                "question": "What types of work qualify the deceased worker?",
+                "answer": "The deceased worker should have been engaged in any building or other construction work."
+            },
+            {
+                "question": "Is it necessary for the deceased worker to have been registered with ANBOCWWB?",
+                "answer": "Yes, the deceased worker must have been registered under the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board."
+            },
+            {
+                "question": "How can I apply for Funeral Assistance under this scheme?",
+                "answer": "The eligible applicant can visit and apply through online Portal: https://serviceonline.gov.in/login.do."
+            },
+            {
+                "question": "Are there any documents required to apply for Funeral Assistance?",
+                "answer": "Documents such as proof of relationship to the deceased worker, residency proof, proof of the deceased worker's registration with ANBOCWWB, and other relevant documents may be required for application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labour.and.nic.in/webPages/welfareboard.html#:~:text=Pension%20Benefit%3A%20%2D%20Registered%20construction%20worker,Rs%201000%2F%2Dper%20month.&text=MBBS%2FBE%2FProfessional%20Course%20the,a%20case%20to%20case%20basis."
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://labour.and.nic.in/webPages/forms/fur.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Death",
+            "Financial Assistance",
+            "Funeral"
+        ]
+    }
+}

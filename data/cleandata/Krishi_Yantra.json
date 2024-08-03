@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Krishi Yantra",
+        "state": "Rajasthan",
+        "department": "Agriculture Department",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Krishi Yantra Scheme under the Agriculture Department of the Rajasthan government has decided to start the Agricultural Machinery Subsidy Scheme for the convenience of farmers. In this scheme, if the farmer purchases farming equipment from an authorized dealer, then the state government gives a subsidy to the farmers which is 40% of the total price. Up to 50% subsidy is given to government farmers.",
+        "benefits": [
+            "Financial assistance for purchasing agricultural machinery",
+            "Subsidy of 40% for general farmers and up to 50% for government farmers",
+            "Online payment of grant directly into the farmer's bank account"
+        ],
+        "eligibility": [
+            "Own agricultural land in his/her own name",
+            "In case of undivided family, the applicant's name must be in the revenue record",
+            "For tractor-operated agricultural implements, the tractor must be registered in the applicant's name",
+            "Not have received a grant for the same type of agricultural implement in the last three years",
+            "Not have received a grant for more than 3 different types of agricultural implements in a financial year"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Jan Aadhar Card",
+            "Caste certificate",
+            "Copy of tractor registration certificate (R.C.) (mandatory for tractor-driven equipment)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Krishri Yantr Yojana is a government scheme aimed at providing financial assistance to farmers for the purchase of agricultural machinery and equipment."
+            },
+            {
+                "question": "Who is eligible to benefit from Krishri Yantr Yojana?",
+                "answer": "Small and marginal farmers, as well as other categories of farmers, may be eligible to benefit from this scheme."
+            },
+            {
+                "question": "What types of agricultural machinery are covered under Krishri Yantr Yojana?",
+                "answer": "In this scheme covers a wide range of agricultural machinery and equipment, including tractors, tillers, harvesters, pumps, sprayers, and other farm implements."
+            },
+            {
+                "question": "How does Krishri Yantr Yojana work?",
+                "answer": "Under the scheme, eligible farmers receive financial assistance or subsidies to purchase agricultural machinery. The amount of assistance provided and the application process may vary depending on the state or region."
+            },
+            {
+                "question": "What are the benefits to the farmers?",
+                "answer": "Farmers access modern agricultural technologies and equipment, leading to increased efficiency, productivity, and profitability in farming operations."
+            },
+            {
+                "question": "How can I apply for this scheme?",
+                "answer": "The farmer will be able to apply himself or by visiting the nearest e-Mitra centre."
+            },
+            {
+                "question": "Is there a subsidy provided under Krishri Yantr Yojana?",
+                "answer": "The subsidy amount may vary depending on the type of equipment and other factors."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Log In",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Development",
+            "Equipment",
+            "Farmer",
+            "Farming"
+        ]
+    }
+}

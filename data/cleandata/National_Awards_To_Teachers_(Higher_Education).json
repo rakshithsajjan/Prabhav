@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "National Awards To Teachers (Higher Education)",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Award",
+        "beneficiary": "Faculty members of colleges/universities/higher educational institutions",
+        "details": "The purpose of the National Award to Teachers under the Department of Higher Educational Institutions is to recognize the distinctive contributions of some of the finest faculty members in the country and honor them for their dedication and hard work, which have not only improved the quality of higher education but also enriched the lives of their students. The Award seeks to recognize and honor faculty members' unique and path-breaking achievements in teaching, research, institutional service, community outreach, and novelty of work in higher education.",
+        "benefits": [
+            "A medal",
+            "A certificate",
+            "Cash Prize of \u20b9 50,000/-"
+        ],
+        "eligibility": [
+            "Should be a regular faculty member",
+            "Should have at least five years of full-time teaching experience at the Undergraduate and/or Post-graduate level",
+            "Should not be above 55 years of age as of the last date of receiving an application for the awards",
+            "Vice-Chancellor/ Director/Principal (regular or officiating) are NOT eligible to apply"
+        ],
+        "exclusions": [
+            "Self-nomination is NOT allowed",
+            "Award Jury are NOT eligible to make a nomination for this award",
+            "Nominations received after the due date shall not be considered"
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Nomination Form",
+            "Curriculum Vitae (CV) of the nominee",
+            "Detailed description of the nominee's contribution",
+            "Supporting documents (research papers, patents, awards certificates, testimonials, letters of recommendation, etc., depending on the specific nomination)",
+            "Aadhaar Card",
+            "Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "What are the National Awards to Teachers?",
+                "answer": "The purpose of the National Award to Teachers in higher educational institution is to recognise the distinctive contributions of some of the finest faculty members in the country and honor them for their dedication and hard work, which have not only improved the quality of higher education but also enriched the lives of their students."
+            },
+            {
+                "question": "Who is NOT eligible to apply?",
+                "answer": "Vice-Chancellor/ Director/Principal (regular or officiating) are NOT eligible to apply."
+            },
+            {
+                "question": "Is there any cash prize?",
+                "answer": "Yes, Cash Prize of \u20b9 50,000/-."
+            },
+            {
+                "question": "Is there any age criteria?",
+                "answer": "The applicant is not above 55 years of age as of the last date of receiving the application for the awards."
+            },
+            {
+                "question": "Is the Award Jury eligible to make a nomination for this award?",
+                "answer": "Award Jury are NOT eligible to make a nomination for this award."
+            },
+            {
+                "question": "Can teachers self-nominate for the National Awards?",
+                "answer": "No, self-nominations are generally not accepted."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Nomination Form. 2. Curriculum Vitae (CV) of the nominee. 3. Detailed description of the nominee's contribution. 4. Supporting documents (research papers, patents, awards certificates, testimonials, letters of recommendation, etc., depending on the specific nomination). 5. Aadhaar Card. 6. Photograph."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://awards.gov.in/Home/AwardLibrary"
+            },
+            {
+                "type": "National Award To Teachers Portal",
+                "url": "https://nat.aicte-india.org/"
+            },
+            {
+                "type": "Registration",
+                "url": "https://awards.gov.in/Registration/SignUp"
+            }
+        ],
+        "tags": [
+            "Awards",
+            "Educational",
+            "National",
+            "Teacher"
+        ]
+    }
+}

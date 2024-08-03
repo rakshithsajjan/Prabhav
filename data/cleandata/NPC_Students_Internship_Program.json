@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "NPC Students Internship Program",
+        "state": "Delhi",
+        "department": "Ministry Of Commerce And Industry",
+        "type": "Internship",
+        "beneficiary": "Students pursuing graduation and post-graduation",
+        "details": "The National Productivity Council (NPC) of the Department of Industrial Policy & Promotion Ministry of Commerce & Industry provides internship training to students pursuing graduation and post-graduation. The interns shall be given exposure to related interventions being activities undertaken by NPC\u2019s which will provide opportunities to learn and implement new concepts as well as develop new skills and gain a deeper understanding of IT-enabled interventions through the hands-on application of the knowledge students learned during their course curriculum.",
+        "benefits": [
+            "Internship completion certificate upon successful completion and submission of the full project report.",
+            "Working space with internet facility and other necessities provided by NPC."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should not already have applied for the internship before in the current financial year.",
+            "The applicant should be a student pursuing graduation and post-graduation studies."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The eligible and interested students should submit the duly filled and signed application form as per the prescribed format, along with the required documents (self-attested) to the college/institution. The college/institution should send the applications of interested applicants to Director (HRM), National Productivity Council, New Delhi - 110003.",
+        "documents_required": [
+            "Curriculum Vitae (CV).",
+            "Letter from their Supervisor/ Head of Department/Principal, indicating their 'No Objection' Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What Is The Primary Objective Of The National Productivity Council (NPC)?",
+                "answer": "The primary objective of the National Productivity Council (NPC) is to generate productivity awareness and consciousness across the country, supporting organizations to improve their economic, environmental, and social outputs through advanced knowledge application."
+            },
+            {
+                "question": "What Services Does NPC Offer To Improve Productivity And Competitiveness?",
+                "answer": "NPC offers a range of services, including consultancy, training for capacity building, action research, and evaluation studies, customized to suit the client's needs for improving productivity and competitiveness."
+            },
+            {
+                "question": "What Is The Code Of Conduct Expected From Interns During Their Internship At NPC?",
+                "answer": "Interns are expected to demonstrate sincerity, punctuality, courtesy, cooperative attitude, willingness to learn, proper etiquette, and appropriate attire."
+            },
+            {
+                "question": "What Happens If An Intern Violates The Non-Disclosure Agreement?",
+                "answer": "If an intern violates the non-disclosure agreement, NPC may take necessary action to safeguard its interests and the interests of the Council."
+            },
+            {
+                "question": "Can NPC Terminate An Intern's Engagement Or Program During The Internship?",
+                "answer": "Yes, NPC has the authority to terminate an intern's engagement or program at any time, especially in cases of misconduct or discipline, without providing any reason."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.npcindia.gov.in/NPC/Uploads/pdf/notices/Notification%20for%20NPC%20Student%20Intership%20Form-dated%2007.04.202043380.pdf"
+            }
+        ],
+        "tags": [
+            "Internship",
+            "Students",
+            "NPC",
+            "Ministry of Commerce"
+        ]
+    }
+}

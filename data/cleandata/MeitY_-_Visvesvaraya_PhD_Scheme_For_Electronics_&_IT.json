@@ -1,0 +1,70 @@
+{
+    "content": {
+        "title": "MeitY - Visvesvaraya PhD Scheme For Electronics & IT",
+        "state": "National",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Scholarship",
+        "beneficiary": "PhD Candidates in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES)",
+        "details": "A scholarship scheme by the Ministry of Electronics and Information Technology with an objective to enhance the number of PhDs in Electronics System Design & Manufacturing (ESDM) and IT/IT Enabled Services (IT/ITES) sectors in the country. Cabinet Committee on Economic Affairs (CCEA) approved the scheme in 2014 for a period of nine years with a total estimated cost of \u20b9 466 crores. The duration of the scheme is five years for the purpose of selecting candidates for support under the scheme. However, the funding would be continued till the 9th year for the commitments already made during the scheme period.",
+        "benefits": [
+            "Fellowship: \u20b9 31,500/- per month (I & II years); \u20b9 35,000/-(III to V year); revised to \u20b9 38,750/- per month (I & II years); \u20b9 43,750/-(III to V year).",
+            "Annual Contingency Grant support of \u20b9 30,000/- per year.",
+            "Reimbursement of Rent for those Full-Time PhD candidates who are not provided accommodation.",
+            "Support for attending international conferences (Supports for 1000 conferences with an amount up to \u20b9 50,000/- per conference).",
+            "A one-time incentive of \u20b9 2,50,000/- for Part-Time Ph.D. candidates on successful completion of the Ph.D.",
+            "Financial support for Young Faculty Research Fellowships (YFRF) including a fellowship of \u20b9 20,000/- per month."
+        ],
+        "eligibility": [
+            "Minimum Grade Point Average of 6.5/10 or 60% (55% marks for SC/ST) in M.E./M.Tech/M.S. in relevant fields.",
+            "Bachelor's degree in relevant fields from IIT with a minimum CGPA of 8.0.",
+            "Institutions must comply with UGC\u2019s minimum standards for M.Phil./Ph.D. Degree."
+        ],
+        "exclusions": [],
+        "application_process": "Online application process varies with the institute. Applicants must print the application form from the institute's website, fill it, attach required documents, and email it to the Nodal Officer.",
+        "documents_required": [
+            "Date of Birth Certificate or High School Certificate with DOB",
+            "SC/ST/OBC(NCL) Certificate, if applicable",
+            "Certificate of Physical Disability, if applicable",
+            "Sponsorship certificate for sponsored candidates, if applicable",
+            "A valid GATE/CSIR/UGC score card",
+            "Copies of mark/grade sheets of qualifying degree or higher",
+            "No Objection Certificate from employer (for part-time/external)",
+            "Two letters of reference (for Ph.D. applicants only)"
+        ],
+        "faqs": [
+            {
+                "question": "What are the seven categories of institutions who are eligible to participate in the scheme?",
+                "answer": "Indian Institutes of Technologies (IITs), National Institutes of Technologies (NITs), Indian Institute of Science (IISc), Indian Institutes of Science Education and Research (IISERs), Central Universities, Deemed Universities under Central Government, Colleges/Institutions of National Importance."
+            },
+            {
+                "question": "What is the amount of the fellowship provided to the YFRFs?",
+                "answer": "Fellowship @ \u20b9 20,000/- per month in addition to the regular income."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://phd.dic.gov.in/salientfeatures.php#"
+            },
+            {
+                "type": "List Of Institutions Supported Under The Scheme",
+                "url": "https://phd.dic.gov.in/student_data.php"
+            },
+            {
+                "type": "List Of Conferences Supported Under The Scheme",
+                "url": "https://phd.dic.gov.in/international_conference.php"
+            },
+            {
+                "type": "Contact Details",
+                "url": "https://phd.dic.gov.in/contactus.php"
+            }
+        ],
+        "tags": [
+            "PhD",
+            "Scholarship",
+            "Electronics",
+            "IT",
+            "Research"
+        ]
+    }
+}

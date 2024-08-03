@@ -1,0 +1,48 @@
+{
+    "content": {
+        "title": "BSR Scheme",
+        "state": "Not specified",
+        "department": "Ministry of Education",
+        "type": "Fellowship",
+        "beneficiary": "Meritorious students pursuing PhD in Sciences",
+        "details": "The Research Fellowship in Sciences for meritorious students BSR scheme of the UGC is open to candidates who are selected for registering for the Ph.D. program of the university through a procedure outlined already in the UGC notification by a regular admission procedure. The registration for Ph.D. may follow after the admissions.",
+        "benefits": [
+            "JRF @ 24,800/-pm for 2 years; SRF@ Rs. 27,900 pm for the remaining period for GATE/NET Qualified candidates",
+            "JRF @ Rs. 21,700/- for 2 years; SRF @ Rs. 24,800/- pm for the remaining period for others",
+            "Contingency @ Rs. 12,000/- pa for JRF; @ Rs. 25,000/- pa for SRF",
+            "Hostel accommodation may be provided",
+            "HRA as per categorization of cities by the Govt. of India",
+            "Medical facilities available in the University/Institution/College",
+            "Leave for a maximum period of 30 days in a year"
+        ],
+        "eligibility": [
+            "Candidates selected for registering to the Ph.D. program of the university through a procedure outlined in the UGC notification",
+            "Universities with Potential for Excellence/Centres with Potential for Excellence/Centres of Advance Studies and Department of Special Assistance identified by UGC"
+        ],
+        "exclusions": [],
+        "application_process": "Online application for Research fellowships at the identified Universities/Institutions. Selections made by the concerned institution as per the provisions contained in the guidelines.",
+        "documents_required": [
+            "Continuation certificate (to be submitted at the end of every three months)",
+            "Yearly Progress Report (to be submitted after completion of one year of the fellowship)",
+            "Accounts of contingency grants",
+            "HRA certificate"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.ugc.gov.in/pdfnews/1621072_BSR-Faculty-Fellowship-new.pdf"
+            },
+            {
+                "type": "UMANG",
+                "url": "https://web.umang.gov.in/web_new/department?url=ugc_new%2Fservice%2F1620&dept_id=302&dept_name=Scheme%20Information"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "PhD",
+            "Research",
+            "Science"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Pension Scheme (HBOCWWB)",
+        "state": "Haryana",
+        "department": "Labour Department, Government of Haryana",
+        "type": "Pension",
+        "beneficiary": "Building Worker, Construction Worker, Labour",
+        "details": "The scheme 'Pension Scheme' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a member of the fund who has been working as a building worker for not less than three years shall on completion of sixty years of age be eligible for a pension. The pension will become payable from the first day of the succeeding month in which he completes sixty years of age.",
+        "benefits": [
+            "Under this scheme, a registered construction worker is given a pension of \u20b93,250/- per month after the age of 60 years."
+        ],
+        "eligibility": [
+            "Applicants should be registered with the Haryana Building & Other Construction Workers Welfare Board.",
+            "The registered worker must have a minimum of three years of regular membership before completing the age of 60 years.",
+            "The registered worker should not be availing the pension benefits from any other Department/Board/Corporation of the Haryana Government."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof i.e. Aadhaar Card, Voter Card",
+            "Passport-size photograph",
+            "Attested work experience document",
+            "Proof of Residence",
+            "Ration Card",
+            "Bank account details",
+            "Caste Certificate (If applicable)",
+            "Proof of age",
+            "Parivar Pehchan Patra (Family ID)",
+            "Disability certificate (If applicable)",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "At what age does a member become eligible for pension under the scheme?",
+                "answer": "A member becomes eligible for pension upon reaching the age of sixty, provided they have been working as a building worker for at least three years."
+            },
+            {
+                "question": "When does the pension become payable?",
+                "answer": "Pension becomes payable from the first day of the month succeeding the completion of sixty years of age."
+            },
+            {
+                "question": "What is the monthly pension amount provided under the scheme?",
+                "answer": "The monthly pension amount is \u20b93,250/- per month for registered construction workers who are sixty years or older."
+            },
+            {
+                "question": "What are the eligibility criteria for availing pension benefits?",
+                "answer": "Applicants must be registered with the Haryana Building & Other Construction Workers Welfare Board and have at least three years of regular membership before turning sixty."
+            },
+            {
+                "question": "Are there any restrictions regarding pension benefits from other government entities?",
+                "answer": "Yes, the registered worker should not be availing pension benefits from any other Department/Board/Corporation of the Haryana Government."
+            },
+            {
+                "question": "When should the life certificate be submitted?",
+                "answer": "A life certificate must be submitted every year in November; failure to do so may result in the inability to receive pension benefits."
+            },
+            {
+                "question": "How can a construction worker register under the HBOCWWB?",
+                "answer": "Construction workers can visit the Official Website of the Labour Department Haryana for registration."
+            },
+            {
+                "question": "Where can one apply for the scheme benefits?",
+                "answer": "To avail of the scheme benefits, applicants need to visit the Official Portal - Antyodaya-SARAL Portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/104"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=i0QmTFBMJaQv+nIh4qHxOg%3d%3d"
+            },
+            {
+                "type": "Registration",
+                "url": "https://hrylabour.gov.in/bocw/Basicinfo/bocw_terms"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Haryana",
+            "Building Worker",
+            "Construction Worker"
+        ]
+    }
+}

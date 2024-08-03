@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Free Medical Card for Media Persons",
+        "state": "Puducherry",
+        "department": "Department of Information & Publicity",
+        "type": "Medical Scheme",
+        "beneficiary": "Press Correspondents and their families",
+        "details": "The scheme 'Free Medical Card for Media Persons' by the Department of Information & Publicity, Union Territory of Puducherry, aims to provide free medical facilities to press correspondents and members of their families in Government hospitals/institutions under the control of the Administration. This will include free treatment in the Government hospitals/institutions of Puducherry with entitlement to A-Class Special Wards.",
+        "benefits": [
+            "Free medical facilities to the press correspondents and members of their families in Government hospitals/institutions under the control of the Administration.",
+            "Free treatment in the Government hospitals/institutions of Puducherry with entitlement of 'A-Class' Special Wards. In the absence of such wards, wards of the next lower category shall be provided.",
+            "The free medical facility will also include hospital stoppages, investigation charges, etc."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years.",
+            "The applicant should be a Press Correspondent."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The applicant should write a formal letter, attach copies of all the mandatory documents (self-attest, if required), and submit the same to The Director, Department of Information & Publicity, 18, Belcombe Street, Puducherry - 605 001.",
+        "documents_required": [
+            "Nativity and Nationality Certificate (Form-II), from an officer of the Revenue Department not below the rank of a Deputy Tahsildar.",
+            "Media Person's Identity Card, issued by the Directorate of Information and Publicity, Puducherry.",
+            "Two Passport Size Photographs."
+        ],
+        "faqs": [
+            {
+                "question": "What services are covered under the free medical facility?",
+                "answer": "The free medical facility includes not only treatment but also hospital stoppages, investigation charges, and other related services in government hospitals/institutions in Puducherry."
+            },
+            {
+                "question": "How can eligible media persons apply for the Medical Identity Card?",
+                "answer": "Eligible media persons need to send a formal letter to the Director of the Directorate of Information & Publicity. The letter should include a copy of the valid media persons' identity card issued by the Directorate and two passport-sized photographs."
+            },
+            {
+                "question": "What is the timeline for issuing the Free Medical Card?",
+                "answer": "Upon submission of the required documents, the Free Medical Card will be issued within one working day."
+            },
+            {
+                "question": "Can members of the media person's family also avail of the Free Medical Card benefits?",
+                "answer": "Yes, the scheme extends its benefits to the family members of press correspondents, allowing them to access free medical facilities in government hospitals/institutions."
+            },
+            {
+                "question": "Are there specific government hospitals/institutions designated for this scheme?",
+                "answer": "The scheme covers government hospitals/institutions under the control of the Administration in Puducherry."
+            },
+            {
+                "question": "How does the scheme handle the unavailability of A class Special Wards?",
+                "answer": "If A class Special Wards are unavailable, the scheme ensures that the eligible media persons receive the next lower category of wards."
+            },
+            {
+                "question": "Is the Free Medical Card valid for all types of medical treatments?",
+                "answer": "Yes, the Free Medical Card covers various medical treatments, ensuring comprehensive healthcare coverage for the media persons and their families."
+            },
+            {
+                "question": "Can media persons from other regions outside Puducherry apply for this scheme?",
+                "answer": "The scheme is specifically designed for press correspondents operating within Puducherry."
+            },
+            {
+                "question": "Are there any limitations on the number of hospital stoppages covered under the scheme?",
+                "answer": "The scheme encompasses hospital stoppages, and there are no specified limitations on the number of stoppages, ensuring flexibility for medical needs."
+            },
+            {
+                "question": "What documents are required to accompany the formal letter for the Medical Identity Card application?",
+                "answer": "The formal letter should be accompanied by a copy of the valid media persons' identity card issued by the Directorate and two passport-sized photographs."
+            },
+            {
+                "question": "Are investigative charges covered under the free medical facility?",
+                "answer": "Yes, investigative charges are covered under the free medical facility, ensuring that media persons receive comprehensive healthcare without additional financial burdens."
+            },
+            {
+                "question": "Can media persons choose any government hospital for treatment under this scheme?",
+                "answer": "Yes, media persons can choose any government hospital/institution under the control of the Administration in Puducherry for availing free medical facilities."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines & Application Form",
+                "url": "https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://info.py.gov.in/contact-us"
+            }
+        ],
+        "tags": [
+            "Hospital",
+            "Media",
+            "Medical",
+            "Press"
+        ]
+    }
+}

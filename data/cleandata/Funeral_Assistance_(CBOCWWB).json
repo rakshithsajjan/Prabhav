@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Funeral Assistance (CBOCWWB)",
+        "state": "Chandigarh",
+        "department": "Labour Department, Chandigarh",
+        "type": "Grant",
+        "beneficiary": "Legal Heirs of registered workers",
+        "details": "The scheme 'Funeral Assistance' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance shall be given to the legal heirs, in case of death of registered workers under the CBOCWWB.",
+        "benefits": [
+            "Financial assistance of \u20b95000/- shall be given to the legal heirs, in case of death of registered beneficiary."
+        ],
+        "eligibility": [
+            "The deceased worker should have been working at the establishment, registered under Punjab Labour Welfare Fund Act, 1965 and his contributions to the labour welfare fund should have been regularly received by the board.",
+            "Any legal heirs of the deceased worker would be eligible to avail the benefit of this scheme only if the deceased worker was a member of the Board for at least the last six months.",
+            "The financial assistance will be given on the production of the death certificate issued by the competent authority.",
+            "The applicant should apply for Funeral Assistance within three months from the date of death."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport-size photograph",
+            "Copy of the Aadhaar card of the deceased registered worker",
+            "Death Certificate issued by a Competent Authority",
+            "Copy of the BOCW Card of the deceased worker",
+            "Bank account details/Bank Passbook",
+            "A copy of the salary slip of the deceased registered worker",
+            "Any other relevant documents"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Funeral Assistance scheme?",
+                "answer": "The Funeral Assistance scheme is initiated by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), under the Labour Department, Chandigarh. It provides financial assistance to the legal heirs in the event of the death of the registered workers."
+            },
+            {
+                "question": "Who is eligible to receive the financial assistance?",
+                "answer": "Legal heirs of registered workers under the scheme are eligible to receive financial assistance in the event of the worker's death."
+            },
+            {
+                "question": "What is the financial assistance provided under the scheme?",
+                "answer": "The scheme offers financial assistance of \u20b95000/- to the legal heirs in the unfortunate event of the death of a registered beneficiary."
+            },
+            {
+                "question": "Who is eligible for the Funeral Assistance Scheme?",
+                "answer": "To be eligible for the scheme, the deceased worker must have been employed at an establishment registered under the Punjab Labour Welfare Fund Act, 1965. Additionally, their contributions to the labour welfare fund should have been regularly received by the board."
+            },
+            {
+                "question": "Is there a time limit for applying for Funeral Assistance?",
+                "answer": "Yes, applicants must apply for Funeral Assistance within three months from the date of the worker's death."
+            },
+            {
+                "question": "Can legal heirs apply if the deceased worker was not a member of the Board for the last six months?",
+                "answer": "No, eligibility for the scheme's benefits is contingent on the deceased worker being a member of the Board for at least the last six months preceding their death."
+            },
+            {
+                "question": "Can legal heirs apply for financial assistance without a death certificate?",
+                "answer": "No, the financial assistance is contingent upon the production of a death certificate issued by a competent authority."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme \u2018FUNERAL ASSISTANCE\u2019 under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://labour.chd.gov.in/PublicPages/funeral-assistance.aspx"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&newLink=N&%3Ccsrf:token%20uri=%27serviceLinkHome.html%27/%3E"
+            },
+            {
+                "type": "User Manual",
+                "url": "http://labour.chd.gov.in/pdf/LWB.pdf"
+            }
+        ],
+        "tags": [
+            "Funeral Assistance",
+            "CBOCWWB",
+            "Chandigarh",
+            "Labour",
+            "Financial Assistance"
+        ]
+    }
+}

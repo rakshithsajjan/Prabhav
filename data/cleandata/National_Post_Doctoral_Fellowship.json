@@ -1,0 +1,72 @@
+{
+    "content": {
+        "title": "National Post Doctoral Fellowship",
+        "state": "India",
+        "department": "Science and Engineering Research Board (SERB)",
+        "type": "Fellowship",
+        "beneficiary": "Post-Doctoral Researchers",
+        "details": "The National Post Doctoral Fellowship (NPDF) is designed to support researchers who have completed their Ph.D. and wish to pursue post-doctoral research in recognized academic institutions, national laboratories, and other recognized R&D institutions in India.",
+        "benefits": [
+            "Fellowship amount of \u20b955,000/- per month",
+            "Research Grant of \u20b92,00,000/- per annum",
+            "Overheads of \u20b91,00,000/- per annum"
+        ],
+        "eligibility": [
+            "Ph.D. degree in Science or Engineering or M.D/M.S degree in any area of medicine",
+            "Candidates who have submitted their Ph.D./M.D./M.S thesis and are awaiting the award of the degree are also eligible",
+            "Outstanding track record in research outputs and publications",
+            "Upper age limit of 35 years at the time of application submission, with age relaxation for SC/ST/OBC/Physically Challenged & Women candidates"
+        ],
+        "exclusions": [
+            "Fellowship cannot be availed at the same institution where the Ph.D. was obtained",
+            "Fellowship cannot be availed with the doctoral thesis supervisor or co-supervisor as a mentor",
+            "Fellows are not eligible to receive fellowship/salary from any other Government or Non-Governmental source during the tenure"
+        ],
+        "application_process": "Applications must be submitted through the SERB online portal www.serbonline.in, usually within a one-month window after the call for applications is announced.",
+        "documents_required": [
+            "Research proposal",
+            "Proof of Date of Birth (Class X certificate or Date of Birth Certificate)",
+            "Proof of Caste (only for cases seeking age relaxation)",
+            "Proof of Ph.D. Degree or proof of Ph.D. thesis submission certificate",
+            "Endorsement Certificate signed by Mentor and Head of the Host Institution",
+            "Undertaking Certificate by the applicant",
+            "Reprints of two best publications",
+            "CV of the Mentor"
+        ],
+        "faqs": [
+            {
+                "question": "What is the age limit for availing NPDF?",
+                "answer": "The upper age limit for the fellowship is 35 years at the time of the submission of application, with age relaxation of 5 years for SC/ST/OBC/Physically Challenged & Women candidates."
+            },
+            {
+                "question": "What is the tenure of the NPDF? Can it be extended?",
+                "answer": "The fellowship is tenable initially for a period of 2 years and can be extended for one more year in exceptional cases, but not beyond three years."
+            },
+            {
+                "question": "Can I recruit manpower under this scheme?",
+                "answer": "There is no provision for providing manpower under this scheme. The Fellow is expected to undertake research himself/herself during the entire duration of the fellowship."
+            },
+            {
+                "question": "What are the rules for availing leave?",
+                "answer": "The NPDF is entitled to leave as per the norms of the host institution. Participation in scientific workshops held in India or abroad will be treated as on duty."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/n-pdf"
+            },
+            {
+                "type": "SERB Online Portal",
+                "url": "http://www.serbonline.in"
+            }
+        ],
+        "tags": [
+            "Post-Doctoral Fellowship",
+            "Research",
+            "Science",
+            "Engineering",
+            "SERB"
+        ]
+    }
+}

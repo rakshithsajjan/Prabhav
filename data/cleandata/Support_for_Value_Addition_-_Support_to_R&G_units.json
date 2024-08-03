@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Support for Value Addition - Support to R&G units",
+        "state": "Agriculture",
+        "department": "Ministry Of Commerce And Industry",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The scheme 'Support for Value Addition - Support to R&G units' is a Sub-Component of the Scheme 'Integrated Coffee Development Project' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to enhance the quality of coffee products and achieve value addition through the introduction of improved technologies in roasting, grinding, and packaging which will result in boosting domestic coffee consumption and entrepreneurship in the coffee sector, especially in the non-traditional areas.",
+        "benefits": [
+            "Roasting Units, Gourmet roasting units 1Kg to <10Kg/batch, and small roasting units with a capacity of less than 25 kg capacity are eligible for subsidy support of 40% of the machinery cost with a ceiling of \u20b910,00,000.",
+            "For the SHGs, women entrepreneurs, SC/ ST, Minorities, and differently-abled beneficiaries, subsidy support is @50% of the machinery cost with a ceiling of \u20b910,00,000.",
+            "Support for gourmet roaster units would enable the roasting of specialized blends in smaller quantities."
+        ],
+        "eligibility": [
+            "The applicants should be individual units, Partnership firms, self-help groups (SHG)/ Growers\u2019 collectives interested in establishing coffee roasting units.",
+            "The Scheme is applicable only for the establishment of new R&G units.",
+            "The applicant\u2019s unit must hold a valid business license from the respective statutory authorities."
+        ],
+        "exclusions": [
+            "The applicants who have availed subsidy in the XI, XII, and MTF plan periods are not eligible.",
+            "The Scheme does NOT apply to R&G units/establishments installed and commissioned before the scheme notification date of 07-04-2022.",
+            "The scheme is not applicable for the up-gradation of existing facilities."
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Copy of the blueprint/layout plan for the proposed Research and Grant unit/facility.",
+            "Copy of the Photo identity like Aadhaar or Ration card or Permanent Account Number (PAN) card or Passport or Driving License or Election Photo Identity Card, etc.",
+            "Original copy of Tax Invoice / Cash Bill issued by the supplier.",
+            "Attested copies of Bills in support of freight/installation/commissioning charges and insurance (if included in the total cost).",
+            "Copy of warranty certificate.",
+            "Notarized Copy of the lease agreement/rent agreement/ownership document in respect of the shop/building premises.",
+            "Copy of license from municipal authorities.",
+            "Copy of the Bank passbook of the applicant containing the information such as: Name of the Bank and Branch address, Account Holder Name, Account No, Indian Financial System Code (IFSC) code.",
+            "Photographs of the new machinery installed for which subsidy is claimed.",
+            "In the case of Scheduled Caste (SC) /Scheduled Tribe (ST) and differently-abled category beneficiaries applying individually, caste/community/disability certificate (with a disability of 40% and above) issued by the competent authority."
+        ],
+        "faqs": [
+            {
+                "question": "Is there a subsidy limit for roasting units of specific capacities?",
+                "answer": "Yes, smaller roasting units (<25 kg capacity) can receive up to 40% subsidy, capped at \u20b910 lakhs."
+            },
+            {
+                "question": "Are there any special provisions for certain groups?",
+                "answer": "Yes, SHGs, women entrepreneurs, SC/ST, minorities, and differently-abled beneficiaries can receive a 50% subsidy, also capped at \u20b910 lakhs."
+            },
+            {
+                "question": "What machinery combinations are eligible for subsidy under this scheme?",
+                "answer": "Roasting machine, grinding machine, and packaging machine or various combinations thereof are eligible."
+            },
+            {
+                "question": "How are applications prioritized?",
+                "answer": "Applications are considered on a first-come, first-serve basis, subject to fund availability."
+            },
+            {
+                "question": "How is subsidy disbursed to the applicants?",
+                "answer": "Subsidies are released to the applicant\u2019s bank account after post-installation inspection approval through PFMS."
+            },
+            {
+                "question": "Can already existing units upgrade using this scheme?",
+                "answer": "No, the scheme is exclusively for the establishment of new R&G units, not for upgrading existing facilities."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines, And Application Form",
+                "url": "https://coffeeboard.gov.in/Schemes/Modalities%20R_G%20subsidy.pdf"
+            },
+            {
+                "type": "Grower's Registration (UMANG)",
+                "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+            },
+            {
+                "type": "Coffee Board - Contact Us",
+                "url": "https://coffeeboard.gov.in/contact-us.html"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Subsidy",
+            "Coffee",
+            "Entrepreneurship"
+        ]
+    }
+}

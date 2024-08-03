@@ -1,0 +1,36 @@
+{
+    "content": {
+        "title": "Students Ready",
+        "state": "Not specified",
+        "department": "Not specified",
+        "type": "Program",
+        "beneficiary": "Undergraduate students in agriculture and allied sciences",
+        "details": "The Student READY (Rural Entrepreneurship Awareness Development Yojana) program aims to provide rural entrepreneurship awareness, and practical experience in a real-life situation in rural agriculture, and create awareness to undergraduate students about practical agriculture and allied sciences. The program will help in building confidence, skills, and acquiring Indigenous Technical Knowledge (ITK) of the locality and thereby preparing the pass-out for self-employment.",
+        "benefits": [
+            "Building confidence and skills",
+            "Acquiring Indigenous Technical Knowledge (ITK)",
+            "Hands-on experience and entrepreneurial skills",
+            "Ensuring employability",
+            "Developing entrepreneurs for knowledge-intensive agriculture"
+        ],
+        "eligibility": [
+            "Undergraduate students in agriculture and allied sciences"
+        ],
+        "exclusions": [],
+        "application_process": "Not specified",
+        "documents_required": [],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/sr"
+            }
+        ],
+        "tags": [
+            "Rural Entrepreneurship",
+            "Agriculture",
+            "Education",
+            "Skill Development"
+        ]
+    }
+}

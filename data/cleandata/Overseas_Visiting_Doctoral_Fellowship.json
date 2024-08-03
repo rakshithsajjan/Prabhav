@@ -1,0 +1,72 @@
+{
+    "content": {
+        "title": "Overseas Visiting Doctoral Fellowship",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Fellowship",
+        "beneficiary": "PhD students",
+        "details": "The Overseas Visiting Doctoral Fellowship aims to build national capacity in frontier areas of Science and Engineering by providing research training to PhD students in overseas universities. The fellowship duration is up to twelve months, extendable under exceptional circumstances.",
+        "benefits": [
+            "Monthly fellowship amount equivalent to US $2000",
+            "One-time Contingency/Preparatory allowances of \u20b960,000",
+            "Economy class airfare for travel to and from the host institute",
+            "Travel provisions for Indian supervisors and overseas scientists"
+        ],
+        "eligibility": [
+            "Open to Indian nationals only",
+            "Must be registered for a full-time Ph.D. in recognized institutions in India",
+            "Part-time and sponsored students are not eligible",
+            "Students who have submitted their thesis for Ph.D. are not eligible"
+        ],
+        "exclusions": [],
+        "application_process": "Offline application process through designated universities with whom SERB has signed an MoU.",
+        "documents_required": [
+            "Identity proof of candidate",
+            "Passport size photograph",
+            "Passport",
+            "Certificates of Educational Qualifications",
+            "Details of Professional awards/recognition/fellowship",
+            "Bank Account Details",
+            "Any other document, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What are the objectives of the Scheme?",
+                "answer": "To build national capacity in frontier areas of Science and Engineering, provide research training to PhD students, and create opportunities for long-term R&D linkages."
+            },
+            {
+                "question": "Which is the implementing agency of this scheme?",
+                "answer": "Science and Engineering Research Board, Government of India."
+            },
+            {
+                "question": "What are the eligibility criteria for applying?",
+                "answer": "Open to Indian nationals registered for full-time Ph.D. in recognized institutions in Science, Technology, Engineering, and Mathematics disciplines."
+            },
+            {
+                "question": "What is the nature of support for the Fellow?",
+                "answer": "Selected fellows receive a monthly fellowship, contingency allowances, and travel support."
+            },
+            {
+                "question": "Can the Fellowship awardee claim their regular institute fellowship during OVDF?",
+                "answer": "No, selected fellows should not draw their regular research fellowship in India."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.serbonline.in/SERB/ovdf?HomePage=New"
+            },
+            {
+                "type": "SERB Website",
+                "url": "https://serb.gov.in/page/research_networking#Overseas%20Visiting%20Doctoral%20Fellowship"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "PhD",
+            "Research",
+            "Overseas",
+            "Science and Technology"
+        ]
+    }
+}

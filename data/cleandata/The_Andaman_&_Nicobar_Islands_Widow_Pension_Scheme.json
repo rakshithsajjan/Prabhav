@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "The Andaman & Nicobar Islands Widow Pension Scheme",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Directorate of Social Welfare",
+        "type": "Pension",
+        "beneficiary": "Poor widows",
+        "details": "The scheme 'The Andaman & Nicobar Islands Widow Pension Scheme' is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to poor and destitute widows in the Andaman and Nicobar Islands. The beneficiary shall cease to receive the assistance if she gets remarried or becomes financially independent afterward, which may be divulged by due enquiry or through records.",
+        "benefits": [
+            "The quantum of Widow Allowance shall be \u20b92500/- per month subject to eligibility.",
+            "Payment of allowance shall be made through the Bank Account on a monthly basis."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of the Union Territory of Andaman and Nicobar Islands or have resided in the Union Territory of Andaman and Nicobar Islands for more than 10 years at the time of making the application.",
+            "The applicant should be a poor widow.",
+            "The household income of the applicant does not exceed \u20b94000/- per month.",
+            "The applicant should not be availing of any other financial assistance or grant from the government or any other source.",
+            "The applicant shall cease to receive the assistance if she gets remarried or becomes financially independent afterward, which may be divulged by due enquiry or through records."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The application form shall be available free of cost at the Directorate of Social Welfare, Port Blair, and the sub-divisional offices of Child Development Project Officers (CDPOs). The application form can also be downloaded from the official website.",
+        "documents_required": [
+            "Passport-size photograph",
+            "Identity proof i.e. Aadhaar Card",
+            "Death certificate of the Husband",
+            "Local certificate/domicile certificate",
+            "Category/community certificate, if applicable",
+            "Bank account details/Copy of passbook",
+            "Proof of income issued by the competent authority",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the aim of the Scheme?",
+                "answer": "The scheme aims to provide financial assistance to poor and destitute widows in the Union Territory of Andaman and Nicobar Islands."
+            },
+            {
+                "question": "How much financial assistance does the scheme provide?",
+                "answer": "Eligible widows receive a monthly allowance of \u20b92500."
+            },
+            {
+                "question": "How is the allowance disbursed?",
+                "answer": "The allowance is paid directly into the beneficiary's bank account on a monthly basis."
+            },
+            {
+                "question": "Who is eligible to apply for the scheme?",
+                "answer": "Eligibility criteria include being a permanent resident of the Andaman and Nicobar Islands or having resided there for over 10 years, being a poor widow with a household income not exceeding \u20b94000 per month, and not availing any other financial assistance."
+            },
+            {
+                "question": "Where can one obtain the application form?",
+                "answer": "Application forms are available for free at the Directorate of Social Welfare, Port Blair, sub-divisional offices of Child Development Project Officers (CDPOs), and can also be downloaded from the official website."
+            },
+            {
+                "question": "Where should the completed application form be submitted?",
+                "answer": "Completed forms should be submitted to the office of the concerned Child Development Project Officer."
+            },
+            {
+                "question": "Is there a fee for applying to the scheme?",
+                "answer": "No, the application form is provided free of cost."
+            },
+            {
+                "question": "Can widows receiving assistance from other sources apply?",
+                "answer": "No, applicants should not be availing any other financial assistance or grant from the government or any other source."
+            },
+            {
+                "question": "What happens if the beneficiary remarries?",
+                "answer": "The assistance ceases if the beneficiary gets remarried or becomes financially independent, as confirmed through due enquiry or records."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://andssw1.and.nic.in/socialwelfare/"
+            },
+            {
+                "type": "Notification",
+                "url": "http://andssw1.and.nic.in/socialwelfare/pdf/widownotif.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "http://andssw1.and.nic.in/socialwelfare/pdf/allowances_form.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Pension",
+            "Poor",
+            "Widow",
+            "Woman"
+        ]
+    }
+}

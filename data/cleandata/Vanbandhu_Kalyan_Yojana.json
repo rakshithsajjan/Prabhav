@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Vanbandhu Kalyan Yojana",
+        "state": "Gujarat",
+        "department": "Kalyan",
+        "type": "Government Scheme",
+        "beneficiary": "Tribal Community",
+        "details": "Vanbandhu Kalyan Yojana focuses on integrated, holistic and inclusive development of tribal communities. It aims at creation of quality social and civil infrastructure, and sustainable livelihood, employment & entrepreneurship in tribal areas such that the income of every tribal family doubles. The approach is mission mode implementation of need-based outcome-oriented projects that improve the quality of life of tribal people and bring happiness and prosperity.",
+        "benefits": [
+            "Double the income of all tribal families, with a special focus on the migrant families and the Particularly Vulnerable Tribal Groups",
+            "Increase in animal husbandry and dairy based activities",
+            "Access to quality education for every eligible tribal child and increased emphasis on higher education.",
+            "Support the socio-economic development of all tribal families by providing access to necessary amenities for a healthy living.",
+            "Provide a house to each tribal family, including those from Particularly Vulnerable Tribal Groups",
+            "Provide access to safe drinking water to all tribal families",
+            "Assured income from agriculture to all tribal farmers",
+            "Ensure universal electrification for all Scheduled Tribe households and villages for improved quality of life and economic development.",
+            "Promote wealth creation in tribal areas and improve the quality of life of all tribal families.",
+            "Develop tribal towns as growth engines to augment the income of tribal families."
+        ],
+        "eligibility": [
+            "Beneficiary must be from Tribal Category.",
+            "Must belong to BPL group."
+        ],
+        "exclusions": [],
+        "application_process": "The citizen need not apply to the scheme.",
+        "documents_required": [
+            "Tribal Category document",
+            "BPL certificate",
+            "Land related document in case of availing benefit.",
+            "Aadhar Card"
+        ],
+        "faqs": [
+            {
+                "question": "Who can avail the Benefit of this scheme?",
+                "answer": "Tribal Community."
+            },
+            {
+                "question": "Who all are Beneficiary for this scheme?",
+                "answer": "Villagers, Students, Small scale farmers."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/vky"
+            }
+        ],
+        "tags": [
+            "Tribal Development",
+            "Government Scheme",
+            "Social Welfare"
+        ]
+    }
+}

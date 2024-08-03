@@ -1,0 +1,101 @@
+{
+    "content": {
+        "title": "Educational Assistance (ANBOCWWB)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Labour, Employment & Training, Andaman & Nicobar Administration",
+        "type": "Scholarship",
+        "beneficiary": "Son or daughter of registered construction workers",
+        "details": "The scheme 'Educational Assistance' was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, an educational allowance will be provided to the son or daughter of a registered construction worker who is studying in any class from Class I to Post Graduate Level/Professional Course.",
+        "benefits": [
+            "\u20b9300/- per month for Class 1 to 5",
+            "\u20b9400/- per month for Class 6 to 8",
+            "\u20b9700/- per month for Class 9 to 12",
+            "\u20b9900/- per month for Diploma/Graduate Studies",
+            "\u20b9900/- per month for Vocational Training through ITI",
+            "\u20b92,000/- per month for Post Graduate Studies",
+            "Entire cost of study for MBBS/BE for meritorious students, subject to approval"
+        ],
+        "eligibility": [
+            "The applicant should be a resident of the Union territory of Andaman & Nicobar Islands.",
+            "The applicant should be engaged in any building & other construction work.",
+            "The applicant should be registered under the A&N Islands Building and Other Construction Workers Welfare Board.",
+            "The applicant should have an active membership of the Board.",
+            "The son or daughter of the applicant/registered worker should be enrolled in any grade from Class I to Post Graduate Level/Professional Course."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Passport size photograph",
+            "Proof of age",
+            "Identity proof",
+            "Details of EPF, if any",
+            "Proof of address",
+            "90 Days Work Duration Certificate issued by the competent authority",
+            "Bank account details",
+            "Any other document as required",
+            "Registration ID Card of Worker",
+            "Identity proof of worker i.e. Aadhaar Card",
+            "Latest Subscription Receipt",
+            "Educational certificate of student",
+            "Address proof",
+            "Certificate from the school/institution",
+            "Bank account details of worker/Copy of passbook"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits provided under the Educational Assistance Scheme?",
+                "answer": "The benefits include monthly educational allowances ranging from \u20b9300/- to \u20b92000/- depending on the level of education or course pursued by the student."
+            },
+            {
+                "question": "Who is eligible to avail of the benefits of the Scheme?",
+                "answer": "To be eligible, the applicant must be a resident of the Union territory of Andaman & Nicobar Islands, engaged in construction work, registered under the A&N Islands Building and Other Construction Workers Welfare Board, and have active membership with the Board."
+            },
+            {
+                "question": "What grades or levels of education are covered under the scheme?",
+                "answer": "The scheme covers education from Class I to Post Graduate Level/Professional Course, including diploma, vocational training through ITI, postgraduate studies, and professional courses like MBBS/BE."
+            },
+            {
+                "question": "Is there any provision for meritorious students pursuing MBBS/BE or professional courses?",
+                "answer": "Yes, for meritorious students pursuing MBBS/BE or professional courses, the Board may incur the entire cost of study on a case-to-case basis, subject to approval."
+            },
+            {
+                "question": "How is the educational assistance disbursed to the beneficiaries?",
+                "answer": "The assistance is disbursed directly to the registered construction worker's bank account."
+            },
+            {
+                "question": "How can one apply for the Educational Assistance Scheme?",
+                "answer": "The applicant can visit and apply online through the Portal: https://serviceonline.gov.in/login.do."
+            },
+            {
+                "question": "What documents are required for applying to the scheme?",
+                "answer": "Documents such as proof of residency, proof of engagement in construction work, registration details with the Board, and educational documents of the student are typically required."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labour.and.nic.in/webPages/welfareboard.html#:~:text=Pension%20Benefit%3A%20%2D%20Registered%20construction%20worker,Rs%201000%2F%2Dper%20month.&text=MBBS%2FBE%2FProfessional%20Course%20the,a%20case%20to%20case%20basis."
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/"
+            },
+            {
+                "type": "Application Form For Educational Assistance",
+                "url": "https://labour.and.nic.in/webPages/forms/Edu.pdf"
+            },
+            {
+                "type": "Application Form For Registration As A Beneficiary",
+                "url": "https://labour.and.nic.in/webPages/forms/welfareboard.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Educational Assistance",
+            "Labour",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

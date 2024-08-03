@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Post Matric and Top Class Scholarship",
+        "state": "Madhya Pradesh",
+        "department": "Higher Education Department",
+        "type": "Scholarship",
+        "beneficiary": "Students from economically disadvantaged backgrounds",
+        "details": "The Post Matric and Top Class Scholarship under the Higher Education Department of the Madhya Pradesh government is to support students from economically disadvantaged backgrounds in pursuing higher education. Specifically, it aims to alleviate financial constraints by covering tuition fees, maintenance allowances, and other educational expenses. It aims to empower deserving students to excel academically and professionally, fostering their socio-economic development and contributing to the overall advancement of society.",
+        "benefits": [
+            "Hostel students receive a subsistence allowance of \u20b91,200 per month.",
+            "Non-hostel residents are provided with a subsistence allowance of \u20b9650 per month.",
+            "Reimbursement of mandatory and non-refundable fees."
+        ],
+        "eligibility": [
+            "The applicant should be studying in graduate/post-graduate courses.",
+            "The maximum annual income of the guardian should be \u20b92,50,000 for post-matric and \u20b96,00,000 for top class.",
+            "The applicant has 40 percent or more disability."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card.",
+            "Bank account statement.",
+            "Mark sheet.",
+            "Address proof.",
+            "Proof of income.",
+            "Proof of age.",
+            "Passport-size photograph.",
+            "Mobile number."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Post Matric and Top Class Scholarship?",
+                "answer": "It is a scholarship program aimed at supporting students in pursuing higher education."
+            },
+            {
+                "question": "What is the objective of this scholarship?",
+                "answer": "The objective is to provide financial assistance to students from economically disadvantaged backgrounds to pursue higher education."
+            },
+            {
+                "question": "What does the scholarship cover?",
+                "answer": "The scholarship covers subsistence allowances, reimbursement of mandatory fees, and non-refundable fees."
+            },
+            {
+                "question": "How much subsistence allowance do hostel students receive?",
+                "answer": "Hostel students receive \u20b91,200 per month as a subsistence allowance."
+            },
+            {
+                "question": "What is the subsistence allowance for non-hostel residents?",
+                "answer": "Non-hostel residents receive \u20b9650 per month as a subsistence allowance."
+            },
+            {
+                "question": "What expenses are reimbursed under this scholarship?",
+                "answer": "Mandatory and non-refundable fees are reimbursed as part of the scholarship."
+            },
+            {
+                "question": "How do students apply for this scholarship?",
+                "answer": "Students usually apply through designated online portals following the guidelines provided by the authorities."
+            },
+            {
+                "question": "Is this scheme only for students?",
+                "answer": "Yes, this scheme is only for students."
+            },
+            {
+                "question": "May other state persons also apply for this scheme?",
+                "answer": "No, this scheme is only for Madhya Pradesh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://highereducation.mp.gov.in/?page=PIK13eM0ZDUED%2BjPLO%2B%2Fog%3D%3D&leftid=ZnGWU%2BxYVl5%2BNBOUmwU4dg%3D%3D"
+            },
+            {
+                "type": "Registration",
+                "url": "https://scholarships.gov.in/registrations/#/"
+            },
+            {
+                "type": "Login",
+                "url": "https://scholarships.gov.in/fresh/loginPage"
+            }
+        ],
+        "tags": [
+            "Financial Support",
+            "Higher Education",
+            "Scholarships",
+            "Student"
+        ]
+    }
+}

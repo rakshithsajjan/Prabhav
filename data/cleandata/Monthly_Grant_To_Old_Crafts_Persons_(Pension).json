@@ -1,0 +1,108 @@
+{
+    "content": {
+        "title": "Monthly Grant To Old Crafts Persons (Pension)",
+        "state": "Puducherry",
+        "department": "Department of Industries and Commerce",
+        "type": "Pension",
+        "beneficiary": "Artisans aged 60 and above",
+        "details": "The scheme 'Monthly Grant To Old Crafts Persons (Pension)' Component of the 'Development of Handicrafts' Scheme aims to provide pension to artisans in their old age, recognizing their contribution to traditional crafts. Under this scheme, eligible craftspersons receive a monthly grant of \u20b92,000/-.",
+        "benefits": [
+            "A monthly grant of \u20b92,000/-. This financial assistance continues until the lifetime of the beneficiary, subject to renewal every year.",
+            "In the case of the craftsperson's death, the living spouse is entitled to receive \u20b91,000/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be an artisan who has attained the age of 60 years.",
+            "The artisan should be a native or resident of the Union Territory of Puducherry for at least 5 years.",
+            "The artisan should have practised the craft for at least 5 years in the Union Territory of Puducherry.",
+            "The family income from all sources should not exceed \u20b940,000 per annum.",
+            "The applicant should not be a recipient of similar financial assistance from any other source."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should take print of the prescribed format of the application form, fill in all mandatory fields, paste a passport-sized photograph, and attach copies of all mandatory documents. The applicant should visit the General Manager of the District Industries Centre and submit the application form and documents.",
+        "documents_required": [
+            "Proof of Age.",
+            "Residence Certificate of the Union Territory of Puducherry.",
+            "Evidence of Practising the Craft for at Least 5 Years in the Union Territory of Puducherry.",
+            "Income Certificate.",
+            "Declaration Stating the Non-receipt of Similar Financial Assistance From Any Other Source."
+        ],
+        "faqs": [
+            {
+                "question": "What is the primary objective of the 'Monthly Grant To Old Crafts Persons (Pension)' scheme?",
+                "answer": "The scheme aims to provide a monthly pension of \u20b92000 to artisans aged 60 and above, recognizing their contribution to traditional crafts."
+            },
+            {
+                "question": "What are the benefits provided under this scheme in case of the craftsperson's demise?",
+                "answer": "In the event of the craftsperson's death, the living spouse is entitled to receive \u20b91000 per month, continuing until their lifetime, subject to renewal every year."
+            },
+            {
+                "question": "Can a craftsperson's spouse continue to receive benefits after the beneficiary's demise?",
+                "answer": "Yes, the spouse continues to receive benefits after the beneficiary's demise, contingent upon meeting the income criteria."
+            },
+            {
+                "question": "What are the eligibility criteria for an artisan to qualify for this pension scheme?",
+                "answer": "The artisan should be aged 60 or above, a native or resident of the Union Territory of Puducherry for at least 5 years, and have practiced the craft for a minimum of 5 years in the Union Territory."
+            },
+            {
+                "question": "What is the family income limit for eligibility under this scheme?",
+                "answer": "The family income from all sources should not exceed \u20b940,000 per annum to qualify for the Monthly Grant To Old Crafts Persons (Pension)."
+            },
+            {
+                "question": "Can an artisan apply for the pension if they have not been a resident of Puducherry for the required duration?",
+                "answer": "No, the artisan should be a native or resident of the Union Territory of Puducherry for at least 5 years to be eligible for the pension scheme."
+            },
+            {
+                "question": "Is there a specific format for the income certificate required for this scheme?",
+                "answer": "The scheme doesn't specify a format, but the income certificate should accurately reflect the family's income from all sources, not exceeding \u20b940,000 per annum."
+            },
+            {
+                "question": "Can a craftsperson receive financial assistance from multiple sources simultaneously?",
+                "answer": "No, the applicant should not be a recipient of similar financial assistance from any other source to be eligible for this pension scheme."
+            },
+            {
+                "question": "How long does the financial assistance continue for the beneficiary under this scheme?",
+                "answer": "The financial assistance continues until the lifetime of the beneficiary, subject to renewal every year."
+            },
+            {
+                "question": "Is there a dedicated mechanism for addressing grievances related to this scheme?",
+                "answer": "Yes, for grievance redressal, individuals can use the mechanism provided at https://industry.py.gov.in/grievance-redressal-mechanism."
+            },
+            {
+                "question": "What is the renewal process for the pension scheme benefits?",
+                "answer": "The benefits are subject to renewal every year to ensure continued eligibility and relevance for the beneficiaries."
+            },
+            {
+                "question": "Can an artisan apply for the scheme if they have been practicing the craft outside Puducherry?",
+                "answer": "No, the artisan should have practiced the craft for at least 5 years in the Union Territory of Puducherry to qualify for the pension scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dic.py.gov.in/development-of-handicrafts"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://dic.py.gov.in/sites/default/files/citizencharter.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://dic.py.gov.in/contact-us"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://dic.py.gov.in/application-forms-download-area"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+            }
+        ],
+        "tags": [
+            "Death",
+            "Handicraft",
+            "Pension",
+            "Senior Citizen"
+        ]
+    }
+}

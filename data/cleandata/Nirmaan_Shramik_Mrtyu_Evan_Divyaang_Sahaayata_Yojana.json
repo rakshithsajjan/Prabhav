@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Nirmaan Shramik Mrtyu Evan Divyaang Sahaayata Yojana",
+        "state": "Chhattisgarh",
+        "department": "Labour Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Building and other construction workers",
+        "details": "In 2020, Chhattisgarh State Government started the 'Nirmaan Shramik Mrtyu Evan Divyaang Sahaayata Yojana' for Building and other construction workers. With this scheme, family will able to get the financial benefits after the death or disability of the construction worker.",
+        "benefits": [
+            "\u20b9 1,00,000/- on Normal Death",
+            "\u20b9 5,00,000/- on Death on work location",
+            "\u20b9 2,50,000/- on Permanent disability on work location"
+        ],
+        "eligibility": [
+            "Construction workers between 18 to 60 years of age will be eligible.",
+            "The construction worker should be registered as a beneficiary under Section 12 of the Building and Other Construction Workers (Regulation of Employment and Service Conditions) Act, 1996.",
+            "Death caused by suicide or consumption of drugs, substances or by committing a crime or death caused by physical violence committed with intent in violation of law and death due to riots, assistance amount was not provided.",
+            "The benefit of the scheme will be given only on the death of the registered worker and not on the death of the family member.",
+            "Beneficiaries benefited under the Financial Assistance and Rehabilitation Assistance Scheme for construction workers suffering from silicosis run by the Board will not be eligible for this scheme, because a separate scheme is run for them."
+        ],
+        "exclusions": [],
+        "application_process": "Step-1. Applicant have to visit the official labour website of Chhattisgarh State. Step-2. Click on apply now under the Building and other construction. Step-3. Now applicant have to provide the below detail: District, New registration number. Step-4. Now select the scheme name here. Step-5. Fill out the online form. Step-6. Upload required documents: Labor registration card, Daughter's Aadhaar card, Daughter's bank passbook photocopy, Age Certificate, Class 10th marksheet. Step-7. Click on submit. Step-8. Note the application number. Step-1. To trace the application status, visit the official labour website of Chhattisgarh State. Step-2. Click on 'Check the application status' under the Unorganized worker board option. Step-3. Select the scheme name. Step-4. Enter the application number. Step-5. Click on search.",
+        "documents_required": [
+            "Registration certificate",
+            "Aadhar card",
+            "Bank passbook",
+            "Nominee's Aadhar card",
+            "Address proof",
+            "Mobile number",
+            "Death certificate",
+            "In case of permanent disability, permanent disability certificate issued by the doctor"
+        ],
+        "faqs": [
+            {
+                "question": "May same beneficiary will get the benefits twice?",
+                "answer": "No."
+            },
+            {
+                "question": "Who will get the benefits?",
+                "answer": "Registered construction workers."
+            },
+            {
+                "question": "What is the eligible age to get the benefits?",
+                "answer": "Construction workers between 18 to 60 years of age will be eligible."
+            },
+            {
+                "question": "What is the benefit under the normal death?",
+                "answer": "\u20b9 1,00,000/-"
+            },
+            {
+                "question": "What is the benefit under the Death on work location?",
+                "answer": "\u20b9 5,00,000/-"
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "1. Applicant have to visit the official website. 2. Click on apply now under the Building and other construction. 3. Now applicant have to provide the few detail. 4. Now select the scheme name here. 5. Fill out the online form. 6. Upload required documents. 7. Click on submit."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Registration certificate, Aadhar card, Bank passbook, Nominee's Aadhar card and Address proof, Mobile number, Death certificate and In case of permanent disability, permanent disability certificate issued by the doctor."
+            },
+            {
+                "question": "What is the official website to apply?",
+                "answer": "URL: https://cglabour.nic.in/ShramAyuktHome.aspx"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/nsmedsy"
+            },
+            {
+                "type": "Chhattisgarh Labour Website",
+                "url": "https://cglabour.nic.in/ShramAyuktHome.aspx"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://cglabour.nic.in/NewOnlineScheme/Application.aspx"
+            },
+            {
+                "type": "Check Application Status",
+                "url": "https://cglabour.nic.in/Scheme/OnlineScheme/SearchAppNo.aspx"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Construction Workers",
+            "Chhattisgarh"
+        ]
+    }
+}

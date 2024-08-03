@@ -11,25 +11,25 @@ OPENAI_ASSISTANT_ID = os.getenv("OPENAI_ASSISTANT_ID")
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 
-def upload_file(path):
-    # Upload a file with an "assistants" purpose
-    file = client.files.create(
-        file=open("../../data/airbnb-faq.pdf", "rb"), purpose="assistants"
-    )
+# def upload_file(path):
+#     # Upload a file with an "assistants" purpose
+#     file = client.files.create(
+#         file=open("../../data/airbnb-faq.pdf", "rb"), purpose="assistants"
+#     )
 
 
-def create_assistant(file):
-    """
-    You currently cannot set the temperature for Assistant via the API.
-    """
-    assistant = client.beta.assistants.create(
-        name="WhatsApp AirBnb Assistant",
-        instructions="You're a helpful WhatsApp assistant that can assist guests that are staying in our Paris AirBnb. Use your knowledge base to best respond to customer queries. If you don't know the answer, say simply that you cannot help with question and advice to contact the host directly. Be friendly and funny.",
-        tools=[{"type": "retrieval"}],
-        model="gpt-4-1106-preview",
-        file_ids=[file.id],
-    )
-    return assistant
+# def create_assistant(file):
+#     """
+#     You currently cannot set the temperature for Assistant via the API.
+#     """
+#     assistant = client.beta.assistants.create(
+#         name="prabhav",
+#         instructions="You're a helpful WhatsApp assistant bot that helps users with information on indian government schemes to help with information. Use your knowledge base to best respond to queries. If you don't know the answer, say simply that you cannot help here. Be friendly.",
+#         tools=[{"type": "retrieval"}],
+#         model="gpt-4o-mini",
+#         file_ids=[file.id],
+#     )
+#     return assistant
 
 
 # Use context manager to ensure the shelf file is closed properly
@@ -64,7 +64,7 @@ def run_assistant(thread, name):
     # Retrieve the Messages
     messages = client.beta.threads.messages.list(thread_id=thread.id)
     new_message = messages.data[0].content[0].text.value
-    logging.info(f"Generated message: {new_message}")
+    # logging.info(f"Generated message: {new_message}")
     return new_message
 
 

@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Child Adoption - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Scheme",
+        "beneficiary": "Orphaned, abandoned, destitute and neglected children",
+        "details": "The scheme 'Child Adoption - Tamil Nadu' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to provide a family for orphaned, abandoned, destitute and neglected children. According to Central Adoption Resource Authority (CARA), 'adoption is a process by which a child who is abandoned / separated from biological parents, becomes the legitimate child of a new set of parents referred to as adoptive parents, with all the rights, privileges and responsibilities that are attached to this relationship'.",
+        "benefits": [
+            "Accommodation, food, and health care to the babies till they are given in adoption.",
+            "A family to the destitute child and a child to childless parents.",
+            "Special adoption leave of 270 days is extended to female government servants of the state government who adopt a child below one year."
+        ],
+        "eligibility": [
+            "The parents must have at least two years of a stable marital relationship.",
+            "The single prospective adoptive parents should be between 30-55 years of age.",
+            "An unmarried/single male persons are not eligible to adopt a girl child.",
+            "The parents should have adequate financial resources to upbring the child.",
+            "For a child up to 4 years old: Maximum composite age of the Prospective Adoptive Parents: 90 years.",
+            "For a single Prospective Adoptive Parent: Minimum age 25 years, maximum age 45 years.",
+            "For a child above 4 years up to 8 years old: Maximum composite age of the Prospective Adoptive Parents: 100 years.",
+            "For a single Prospective Adoptive Parent: Minimum age 25 years, maximum age 50 years.",
+            "For a child above 8 years up to 18 years old: Maximum composite age of the Prospective Adoptive Parents: 110 years.",
+            "For a single Prospective Adoptive Parent: Minimum age 25 years, maximum age 55 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The interested applicant should visit (during office hours) the office State Adoption Resource Agency/Directorate of Social Defence/Concerned Probation Officer and request a hard copy of the prescribed format of the application form from the concerned staff. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the State Adoption Resource Agency/Directorate of Social Defence/Concerned Probation Officer. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "documents_required": [
+            "PAN Card/Passport.",
+            "Proof of Residence (Aadhaar Card/Voter ID card/Passport/Driving License/Electricity Card).",
+            "Proof of Income of Last Year (Pay Bill/Income Tax Certificate).",
+            "Copy of Marriage Certificate & Photograph.",
+            "Copy of Birth Certificate of the Prospective Adoptive Parents.",
+            "Medical Certificate.",
+            "Letter of Identification (from their friends/relatives)."
+        ],
+        "faqs": [
+            {
+                "question": "What kind of assistance is provided to children under this scheme?",
+                "answer": "The scheme provides accommodation, food, and healthcare to the babies until they are adopted, and also facilitates the process of providing a family to the destitute child and a child to childless parents."
+            },
+            {
+                "question": "What are the eligibility criteria for prospective adoptive parents?",
+                "answer": "Prospective Adoptive Parents must have a stable marital relationship of at least two years. Age and marital status criteria vary depending on the age of the child to be adopted."
+            },
+            {
+                "question": "What is the definition of child adoption according to CARA?",
+                "answer": "According to the Central Adoption Resource Authority (CARA), adoption is a process by which a child who is abandoned or separated from biological parents becomes the legitimate child of a new set of parents (adoptive parents), with all the rights, privileges, and responsibilities attached to this relationship."
+            },
+            {
+                "question": "Which legal acts govern the process of adoption in India?",
+                "answer": "The Hindu Adoption and Maintenance Act, 1956 (HAMA) and the Juvenile Justice (Care and Protection of Children) Act, 2015 govern adoption."
+            },
+            {
+                "question": "How is the child adoption process regulated?",
+                "answer": "The adoption process is regulated by Non-Governmental Organisations and involves various authorities and agencies to ensure a thorough and legal process."
+            },
+            {
+                "question": "How many institutions are involved in implementing the adoption scheme?",
+                "answer": "There are 23 institutions involved in implementing the adoption scheme."
+            },
+            {
+                "question": "Who should be contacted for information about adoption?",
+                "answer": "Contact the State Adoption Resource Agency, the Directorate of Social Defence in Chennai, the concerned Probation Officer, or the 23 Licensed Specialized Adoption Agencies."
+            },
+            {
+                "question": "What documents need to be submitted for adoption?",
+                "answer": "Documents include PAN Card/Passport, Proof of Residence, Proof of Income, Marriage Certificate and Photograph, Birth Certificate of the Prospective Adoptive Parents, Medical Certificate, and a Letter of identification from friends or relatives."
+            },
+            {
+                "question": "What happens if a prospective adoptive parent is found ineligible after submission of documents?",
+                "answer": "If found ineligible, the prospective adoptive parent(s) will not be allowed to proceed with the adoption process and will be informed accordingly."
+            },
+            {
+                "question": "Are single males allowed to adopt a girl child?",
+                "answer": "No, an unmarried or single male person is not eligible to adopt a girl child."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Child Adoption",
+            "Tamil Nadu",
+            "Social Welfare",
+            "Women Empowerment"
+        ]
+    }
+}

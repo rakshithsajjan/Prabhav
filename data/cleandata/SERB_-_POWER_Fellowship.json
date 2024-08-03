@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "SERB - POWER Fellowship",
+        "state": "India",
+        "department": "Science and Technology",
+        "type": "Fellowship",
+        "beneficiary": "Outstanding women researchers and innovators",
+        "details": "The SERB Power Fellowship is designed for outstanding women researchers and innovators working in Indian academic institutions and R&D laboratories, holding Ph.D. degrees in any branch of science and engineering.",
+        "benefits": [
+            "Fellowship of \u20b915,000/- per month in addition to regular income",
+            "Research grant of \u20b910 lakhs per annum",
+            "Overhead for the institute"
+        ],
+        "eligibility": [
+            "Must hold a Ph.D. degree in any branch of science and engineering",
+            "Must be an active scientist with an excellent record of research performance",
+            "Must be in regular service throughout the duration of the Fellowship",
+            "Age limit: 35-55 years at the time of submission of proposal"
+        ],
+        "exclusions": [
+            "Cannot avail another fellowship from government sources at the same time",
+            "Successful POWER Fellows cannot be nominated for a second time"
+        ],
+        "application_process": "Nominations for the SERB Power Fellowship are accepted throughout the year through the online portal only (www.serbonline.in).",
+        "documents_required": [
+            "Application form",
+            "Nominations from Heads of Institutions or Fellows of National academies"
+        ],
+        "faqs": [
+            {
+                "question": "Is there any age limit for PI to be eligible for the award?",
+                "answer": "PI should be within 35-55 years at the time of submission of proposal."
+            },
+            {
+                "question": "I am already availing another Fellowship. Am I eligible for SERB Power Fellowship?",
+                "answer": "No, you can avail only one fellowship at a time from government source."
+            },
+            {
+                "question": "Is the Fellowship received under SERB Power Fellowship taxable?",
+                "answer": "Yes, the Fellowship received under SERB Power Fellowship is taxable as per I.T. rules."
+            },
+            {
+                "question": "What are the areas covered under SERB Power Fellowship?",
+                "answer": "All Areas of Science (in the broadest terms) are covered by this Fellowship."
+            },
+            {
+                "question": "What is the duration of the SERB Power Fellowship?",
+                "answer": "The SERB Power Fellowship duration is for 3 years only, without any possibility of extension."
+            },
+            {
+                "question": "How many times a person can avail SERB Power Fellowship?",
+                "answer": "A person can avail SERB Power Fellowship only once."
+            },
+            {
+                "question": "When can a person apply for the SERB Power Fellowship?",
+                "answer": "Nominations are accepted throughout the year through online portal only."
+            },
+            {
+                "question": "Who can nominate for SERB Power Fellowship?",
+                "answer": "Heads of Institutions or Fellows of National academies can send the nominations."
+            },
+            {
+                "question": "Can a fellow change the host institute during implementation of SERB Power Fellowship?",
+                "answer": "Yes, a SERB Power fellow can change the host institute during implementation."
+            },
+            {
+                "question": "What is the selection criteria of POWER Fellowship?",
+                "answer": "Selection of POWER Fellows will be made twice a year by a specially constituted Search-cum-Selection Committee."
+            },
+            {
+                "question": "What is the procedure to apply for a SERB Power Fellowship?",
+                "answer": "An applicant will fill the application form on the online portal, and the nominator will verify and forward the nomination."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/serbpowerf"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Women Researchers",
+            "Science and Technology"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Prime Minister\u2019s Fellowship for Doctoral Research",
+        "state": "India",
+        "department": "Department of Science & Technology",
+        "type": "Fellowship",
+        "beneficiary": "Full-time PhD scholars",
+        "details": "Prime Minister\u2019s Fellowship for Doctoral Research scheme is a prestigious initiative of Science and Engineering Research Board, Department of Science & Technology, Government of India towards the advancement of university research engagements in line with industry requirement. The scheme encourages full time PhD scholars to pursue research in \u201cfocus areas\u201d identified by industries as well as of national priorities.",
+        "benefits": [
+            "Attractive scholarship",
+            "National and international exposure",
+            "Mentoring through industry and academic experts",
+            "Annual review meetings",
+            "Periodic mentorship sessions"
+        ],
+        "eligibility": [
+            "Full-time PhD scholar in any recognized Indian university/institute/research laboratory",
+            "PhD registration date should not be more than 14 months from the date of submission of application",
+            "Valid industry partner ready to support the research project financially and provide guidance",
+            "Mutually agreed topic of research should be innovative and have practical relevance",
+            "Willingness to work with/in the supporting company during the project period",
+            "Should not draw any other fellowship after selection"
+        ],
+        "exclusions": [],
+        "application_process": "The applicant can apply for this fellowship through the website www.primeministerfellowshipscheme.in.",
+        "documents_required": [],
+        "faqs": [
+            {
+                "question": "Can I apply if I do not have an industry partner? Will CII help in finding one?",
+                "answer": "Applications without industry partners will not be accepted by the online system. Candidates have to find industry partners on their own. CII facilitates match-making between research scholars and industry through the portal www.primeministerfellowshipscheme.in."
+            },
+            {
+                "question": "If I apply this year and am not able to get the scholarship this time, will I be allowed to apply next year?",
+                "answer": "Yes, you can apply as a fresh candidate with updated information, provided you satisfy all the eligibility conditions."
+            },
+            {
+                "question": "Will applicants get automated response to submission? Will somebody call from CII to confirm the receipt of application?",
+                "answer": "Applicants will get an automatic response at the submission of applications. They will not receive any calls from CII."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pmfdr"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "PhD",
+            "Research",
+            "Scholarship",
+            "Industry Partnership"
+        ]
+    }
+}

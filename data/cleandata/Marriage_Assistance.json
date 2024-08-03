@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Marriage Assistance",
+        "state": "Tamil Nadu",
+        "department": "Government of Tamil Nadu",
+        "type": "Grant",
+        "beneficiary": "Employees and their Son/Daughter",
+        "details": "The Government of Tamil Nadu introduced 'Marriage Assistance' with a sum of Rs.10,000/- for both male and female is given as Marriage Assistance to employees or their Son/Daughter who legally attain the age of marriage.",
+        "benefits": [
+            "A sum of Rs.10,000/- for both male and female is given as Marriage Assistance."
+        ],
+        "eligibility": [
+            "Should have contributed to Labour Welfare Fund.",
+            "Employee\u2019s monthly salary not exceeding Rs.25,000/- (Basic pay + DA)."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Marriage Invitation Original.",
+            "School Transfer Certificate(TC) for both Bride and Groom attested by Government gazette officers.",
+            "The Receipt of the Marriage Hall / Temple / Register Marriage Certificate Xerox with Government gazette officers attestation.",
+            "Aadhar card and Ration card Xerox with Government gazette officers attestation.",
+            "Salary slip of the Employee.",
+            "Labour Welfare Fund contribution Receipt Xerox.",
+            "Name list of the paid Labour Welfare Fund.",
+            "Bank passbook front page \u2013 2 copies."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Marriage Assistance Scheme in Tamil Nadu?",
+                "answer": "The Marriage Assistance Scheme, also known as 'Thirumangalyam,' is a welfare program introduced by the Government of Tamil Nadu to provide financial assistance to economically disadvantaged women for their marriage expenses."
+            },
+            {
+                "question": "Who is eligible to apply for the Marriage Assistance Scheme?",
+                "answer": "To be eligible for the scheme, the applicant must be a resident of Tamil Nadu and belong to a low-income family. Other specific eligibility criteria, such as age limits and income thresholds, may apply and can be obtained from the official government sources."
+            },
+            {
+                "question": "How can I apply for the Marriage Assistance Scheme?",
+                "answer": "To apply for the scheme, eligible applicants can obtain the application form from the designated government offices or download it from the official government website. The completed form, along with the required documents, must be submitted to the relevant authorities."
+            },
+            {
+                "question": "What is the financial assistance provided under the scheme?",
+                "answer": "Under the Marriage Assistance Scheme, eligible women are provided a specified amount of financial assistance for their marriage expenses. The exact amount may vary based on government policies and can be obtained from the official sources."
+            },
+            {
+                "question": "Is there any income limit for availing the scheme?",
+                "answer": "Yes, there is usually an income limit defined by the government to determine the eligibility for the Marriage Assistance Scheme. Applicants from economically weaker sections are generally given priority."
+            },
+            {
+                "question": "How can I track the status of my application?",
+                "answer": "The government usually provides a mechanism to track the status of the application. Applicants can check the official government portal or contact the designated authorities for updates on their application status."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.lwb.tn.gov.in/schemes.php?Marriage_assistance"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://www.lwb.tn.gov.in/forms/Marriage_assistance.pdf"
+            }
+        ],
+        "tags": [
+            "Marriage Assistance",
+            "Tamil Nadu",
+            "Financial Assistance",
+            "Welfare Scheme"
+        ]
+    }
+}

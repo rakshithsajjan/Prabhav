@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Bhausaheb Fundkar Falbag Lagvad Scheme",
+        "state": "Maharashtra",
+        "department": "Agriculture Department",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The pattern of assistance under this scheme of total amount payable in three years. The subsidy amount will be directly credited to the Aadhaar link Bank Account every year. The beneficiary has to maintain the percentage survival of fruit plant shall be minimum 80% for first year and 90% for the second year. State Sponsored Bhausaheb Fundkar Falbag Lagvad Scheme was launched by Agriculture Department of Maharashtra from Kharif Season of the year 2018-19. This scheme includes 16 perennial fruit crops like Mango, Cashew, Guava, Sapota, Custered Apple, Pomegranate, Paper Lemon, Coconut, Tamarind, Fig, Amla, Kokum, Jackfruit, Jamun, Orange, Mosambi. Farmer from Konkan division can avail benefit of 0.10 Hector to 10.00 Hector and rest of Maharashtra 0.20 Ha. to 6.00 Ha. planting under the scheme.",
+        "benefits": [
+            "Subsidy through DBT is given to farmer for plantation of 16 perennial fruit crops like Mango, Cashew, Guava, Sapota, Custered Apple, Pomegranate, Paper Lemon, Coconut, Tamarind, Fig, Amla, Kokum, Jackfruit, Jamun, Orange, Mosambi, for below mentioned activities:",
+            "Pit Digging",
+            "Planting grafts/seedling",
+            "Application of chemical and organic fertilizers.",
+            "Crop Protection",
+            "Gap filling"
+        ],
+        "eligibility": [
+            "The beneficiary should be a permanent resident of Maharashtra State",
+            "Farmer should have Aadhaar Card.",
+            "Farmer should have 7/12 certificate and 8 \u2013A certificate."
+        ],
+        "exclusions": [
+            "Institutional beneficiaries cannot avail the benefit."
+        ],
+        "application_process": "Online. Application link: https://mahadbt.maharashtra.gov.in/. Go to the Aaple Sarkar DBT Portal, register as a new applicant, and complete the application form.",
+        "documents_required": [
+            "Aadhaar Card",
+            "7/12 Certificate",
+            "8-A Certificate",
+            "Caste Certificate for SC, ST beneficiaries",
+            "Self Declaration",
+            "Pre Sanction Letter",
+            "Invoice of Implement"
+        ],
+        "faqs": [
+            {
+                "question": "Which fruit crops are included in this scheme?",
+                "answer": "Under the scheme, 16 perennial fruit crops like Mango, Cashew, Guava, Sapota, Custered Apple, Pomegranate, Paper Lemon, Coconut, Tamarind, Fig, Amla, Kokum, Jackfruit, Jamun, Orange, Mosambi."
+            },
+            {
+                "question": "Can single farmer apply for more than two fruit crops?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What are the planting distances to get the benefits?",
+                "answer": "Mango 10 x 10m, Cashew nuts 7 x 7m, Guava 3 x 2m, Pomegranate 4.5 x 3m, etc."
+            },
+            {
+                "question": "Can women apply for this scheme?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What is the benefit amount for various fruit crops?",
+                "answer": "Varies by crop, e.g., Mango 67005/-, Guava 227517/-."
+            },
+            {
+                "question": "Is this a state-sponsored scheme?",
+                "answer": "Yes, 100% state-sponsored scheme."
+            },
+            {
+                "question": "Where can I apply for the scheme?",
+                "answer": "Online mode using website https://mahadbt.maharashtra.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Government Resolution",
+                "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201807061207371701...pdf"
+            }
+        ],
+        "tags": [
+            "Horticulture",
+            "Plantation",
+            "Direct Benefit Transfer",
+            "Farmer",
+            "General"
+        ]
+    }
+}

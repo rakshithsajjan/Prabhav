@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Feed The Seed",
+        "state": "Telangana",
+        "department": "State Seed Development Corporation",
+        "type": "Subsidy",
+        "beneficiary": "Farmers with livestock",
+        "details": "The 'Feed for Seed' program is an initiative launched by the Government of Telangana in India, aimed at promoting agriculture and supporting farmers in the state. The program is designed to encourage farmers to produce their own seeds by providing them with free, high-quality seeds of various crops. Under this program, farmers are provided with a seed kit containing seeds of various crops, including vegetables, pulses, cereals, and oilseeds. The kit also contains instructions on how to grow and harvest the crops, as well as guidelines on seed production and storage. The program is based on the concept of 'Seed Village' where farmers can produce high-quality seeds and sell them in the market. The program encourages the use of sustainable agricultural practices such as crop rotation, organic farming, and conservation of traditional crop varieties. The aim of the Feed for Seed program is to increase the availability of high-quality seeds at affordable prices, promote sustainable agriculture practices, and empower farmers to become self-sufficient in seed production.",
+        "benefits": [
+            "Access to high-quality seeds",
+            "Increased income for farmers",
+            "Promotion of sustainable agriculture",
+            "Empowerment of farmers",
+            "Boost to the agricultural sector"
+        ],
+        "eligibility": [
+            "Farmers with livestock farming are eligible for seed production.",
+            "Farmers must have their own land or leased land or public places to increase agricultural land with animal farming.",
+            "Cattle, buffalo, cows, and sheep farmers have the right to take grass seeds.",
+            "Grass seeds should be provided by the farmers in the area."
+        ],
+        "exclusions": [
+            "No livestock farmers are eligible for the scheme.",
+            "Owners of land/lease land and livestock are not eligible."
+        ],
+        "application_process": "Offline. To apply for the 'Feed for Seed' program in Telangana, farmers can follow these steps: 1. Visit the nearest agriculture office or Seed Development Corporation (SSDC) office in their district. 2. Obtain the application form for the program from the office or download it from the official website of the SSDC. 3. Fill in the application form with the required details, such as name, address, land details, and crop preferences. 4. Submit the application form along with any other necessary documents, such as land documents, bank account details, and Aadhaar card. 5. Upon verification of the application, the SSDC will provide the farmers with a seed kit containing seeds of various crops, along with instructions on how to grow and harvest the crops, as well as guidelines on seed production and storage. 6. The farmers can then grow the crops, produce their own seeds, and sell the surplus seeds in the market. It is important to note that the program is implemented on a first-come, first-served basis, and the availability of seed kits may vary depending on the demand in each district.",
+        "documents_required": [
+            "Copy of Aadhar Card.",
+            "Copy of the Pattadar passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Feed the Seed program in Telangana?",
+                "answer": "The Feed the Seed program in Telangana is a government-led initiative aimed at promoting sustainable farming practices by providing farmers with high-quality seeds and training on the latest farming techniques."
+            },
+            {
+                "question": "Who is eligible to participate in the program?",
+                "answer": "Farmers with livestock farming are eligible for seed production. In order to provide livestock seeds, farmers have to have their own land or lease land or public places to increase agricultural land with animal farming."
+            },
+            {
+                "question": "How can farmers enroll in the program?",
+                "answer": "Farmers can enroll in the program by visiting their nearest agriculture extension office or by contacting the program officials through the designated helpline number."
+            },
+            {
+                "question": "What are the documents required to apply for this program?",
+                "answer": "Copy of Aadhar Card and Copy of the Pattadar passbook (Land record)."
+            },
+            {
+                "question": "Who is not eligible for this program?",
+                "answer": "No livestock farmers are eligible for the scheme. Owners of land/lease land and livestock are not eligible."
+            },
+            {
+                "question": "What are the deliverables of the scheme?",
+                "answer": "Farmers with livestock provide livestock types such as PC-23, SSG, stylized, lucerne and African Tall, such as 75% subsidy."
+            }
+        ],
+        "sources": [
+            {
+                "type": "District Website",
+                "url": "https://hyderabad.telangana.gov.in/scheme/feed-the-seed/"
+            },
+            {
+                "type": "Veterinary Department",
+                "url": "https://vahd.telangana.gov.in/Content.aspx"
+            },
+            {
+                "type": "TSSDCL Web Site",
+                "url": "https://www.tssdcl.org/about.php"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Sustainable Farming",
+            "Seed Production",
+            "Telangana"
+        ]
+    }
+}

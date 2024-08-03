@@ -1,0 +1,61 @@
+{
+    "content": {
+        "title": "National Family Benefit Scheme - Uttar Pradesh",
+        "state": "Uttar Pradesh",
+        "department": "National Family Benefit",
+        "type": "Financial Assistance",
+        "beneficiary": "Families below poverty line who have lost their lead earners",
+        "details": "The NFBS, also known as Rashtriya Parivarik Labh Yojana, was started by the UP government in January 2016. Under this scheme, families who have lost their lead earners will receive a lump sum amount of money as compensation. To claim the compensation, one must apply to register under the scheme. The entire application process is available only online, with no provision for offline application.",
+        "benefits": [
+            "Compensation of Rs. 30,000/- per family",
+            "Support for families below the poverty line after the death of the lead earner"
+        ],
+        "eligibility": [
+            "Must be living below the poverty line",
+            "Age between 18 years to 60 years",
+            "Family income should not exceed Rs. 56,450/- in urban areas and Rs. 46,080/- in rural areas"
+        ],
+        "exclusions": [],
+        "application_process": "Applicants need to visit the official website, download the application form, submit the filled form at the District Magistrate's office, and enclose required documents.",
+        "documents_required": [
+            "Death certificate",
+            "Below poverty line card",
+            "Below poverty line ration card (blue card)",
+            "Residence proof"
+        ],
+        "faqs": [
+            {
+                "question": "Is this scheme applicable for those who are alive?",
+                "answer": "No, this is only for those below the poverty line who have lost their lead earner."
+            },
+            {
+                "question": "What are the age criteria?",
+                "answer": "The applicant should be aged between 18 years to 60 years."
+            },
+            {
+                "question": "How can I apply for the scheme?",
+                "answer": "Visit the official website and fill out the application form online."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://nfbs.upsdc.gov.in/"
+            },
+            {
+                "type": "Application Form",
+                "url": "http://samajkalyan.up.gov.in/pdf/scheme_form/4.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.myscheme.gov.in/schemes/nfbsup"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Government Scheme",
+            "Uttar Pradesh",
+            "Poverty Alleviation"
+        ]
+    }
+}

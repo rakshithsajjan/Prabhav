@@ -1,0 +1,108 @@
+{
+    "content": {
+        "title": "Insurance Scheme For Artisans",
+        "state": "Puducherry",
+        "department": "Department of Industries and Commerce",
+        "type": "Insurance",
+        "beneficiary": "Artisans",
+        "details": "The 'Insurance Scheme For Artisans' component of the 'Development of Handicrafts' scheme by the Department of Industries and Commerce, Government of Puducherry, was introduced to provide an important welfare measure for handicraft artisans. Under this scheme, artisans are covered under Jana Shree Bima Yojana LIC or any other suitable policy. The premium amount, as stipulated in the insurance policy, is shared, with 50% from the Social Security Fund and the remaining 50% from the Government through DIC.",
+        "benefits": [
+            "Assistance in the case of Natural Death: \u20b920,000/-",
+            "Assistance in the case of Death Due to Accident: \u20b950,000/-",
+            "Assistance in the case of Permanent Total Disability Due to Accident (Loss of Two Eyes or Two Limbs): \u20b950,000/-",
+            "Assistance in the case of Permanent Partial Disability (Loss of One Eye or One Limb Due to Accident): \u20b925,000/-"
+        ],
+        "eligibility": [
+            "The applicant should be a handicraft artisan.",
+            "The applicant should be a resident of the Union Territory of Puducherry.",
+            "The applicant should be aged between 18 to 60 years.",
+            "The applicant should comply with the conditions stipulated under the insurance policy."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The interested applicant should take print of the prescribed format of the application form. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: The interested applicant should visit (on a working day, and during office hours) the Project Manager of the District Industries Centre (Thattanchavady, Puducherry - 605 009), and submit the duly filled and signed application form and the documents to the concerned authority. Step 4: On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.",
+        "documents_required": [
+            "Residential Certificate",
+            "Age Proof",
+            "Occupation Proof",
+            "Conditions Compliance Document (as stipulated under the insurance policy)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the primary objective of the 'Insurance Scheme For Artisans' introduced by the Department of Industries and Commerce, Government of Puducherry?",
+                "answer": "The scheme aims to provide welfare measures for handicraft artisans by offering insurance coverage."
+            },
+            {
+                "question": "How is the premium amount shared under the Insurance Scheme For Artisans, and what are the funding sources?",
+                "answer": "The premium is shared, with 50% from the Social Security Fund and the remaining 50% from the Government through DIC."
+            },
+            {
+                "question": "What are the benefits provided under the scheme in the case of natural death?",
+                "answer": "The scheme provides \u20b920,000/- as assistance in the case of natural death."
+            },
+            {
+                "question": "In the event of death due to an accident, what assistance does the Insurance Scheme For Artisans offer?",
+                "answer": "The scheme provides \u20b950,000/- as assistance in the case of death due to an accident."
+            },
+            {
+                "question": "What is the assistance amount provided for permanent total disability due to an accident under the scheme?",
+                "answer": "\u20b950,000/- is provided in the case of permanent total disability due to an accident (loss of two eyes or two limbs)."
+            },
+            {
+                "question": "How much assistance is offered for permanent partial disability due to an accident under the Insurance Scheme For Artisans?",
+                "answer": "\u20b925,000/- is provided for permanent partial disability (loss of one eye or one limb due to an accident)."
+            },
+            {
+                "question": "Who is eligible to apply for the Insurance Scheme For Artisans?",
+                "answer": "Handicraft artisans residing in the Union Territory of Puducherry aged between 18 to 60 years are eligible."
+            },
+            {
+                "question": "Where can one find the Citizen's Charter for the Department of Industries and Commerce, Government of Puducherry?",
+                "answer": "The Citizen's Charter is available at https://dic.py.gov.in/sites/default/files/citizencharter.pdf."
+            },
+            {
+                "question": "How can individuals contact the Department of Industries and Commerce, Government of Puducherry?",
+                "answer": "Individuals can contact the department through the provided link: https://dic.py.gov.in/contact-us."
+            },
+            {
+                "question": "Where can applicants download the necessary application forms for the scheme?",
+                "answer": "Application forms can be downloaded from https://dic.py.gov.in/application-forms-download-area."
+            },
+            {
+                "question": "Is there a mechanism for grievance redressal related to the Insurance Scheme For Artisans?",
+                "answer": "Yes, there is a grievance redressal mechanism available at https://industry.py.gov.in/grievance-redressal-mechanism."
+            },
+            {
+                "question": "What is the age range for applicants eligible for the Insurance Scheme For Artisans?",
+                "answer": "Applicants should be aged between 18 to 60 years to be eligible for the scheme."
+            },
+            {
+                "question": "What does the assistance amount to in the case of death due to an accident under the Insurance Scheme For Artisans?",
+                "answer": "\u20b950,000/- is provided as assistance in the case of death due to an accident."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dic.py.gov.in/development-of-handicrafts"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://dic.py.gov.in/sites/default/files/citizencharter.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://dic.py.gov.in/contact-us"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+            }
+        ],
+        "tags": [
+            "Insurance",
+            "Artisans",
+            "Welfare",
+            "Handicrafts"
+        ]
+    }
+}

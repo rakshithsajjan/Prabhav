@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Financial Assistance To Women And Girl Acid Attack Victims",
+        "state": "Haryana",
+        "department": "Social Justice & Empowerment Department",
+        "type": "Social Security Scheme",
+        "beneficiary": "Women and Girls Acid Attack Victims",
+        "details": "Launched on 26th Feb 2019, the social security scheme 'Financial Assistance to Women and Girls Acid Attack Victims' by the Social Justice & Empowerment Department, Govt. of Haryana, provides financial assistance in the form of a monthly pension to the women/girls residing in Haryana who have suffered disfigurement of any part of the body or have become disabled due to acid attack or similar corrosive substance. The scheme aims to restore, to an extent the right to live with dignity for the woman/girl victims of acid attack.",
+        "benefits": [
+            "2.5 times the monthly Pension, if the Percentage of Disability is between 40% and 50%.",
+            "3.5 times the monthly Pension, if the Percentage of Disability is between 51% and 60%.",
+            "4.5 times the monthly Pension, if the Percentage of Disability is greater than 61%."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Haryana.",
+            "The applicant should be a woman/girl.",
+            "The applicant should have suffered disfigurement of a part of her body or should have become disabled due to an attack by acid or a similar corrosive substance.",
+            "The acid attack should have happened on or after 2nd May 2011.",
+            "The applicant should have been residing in Haryana for at least 3 years since the acid attack."
+        ],
+        "exclusions": [
+            "A girl/woman who has self-inflicted the acid injuries, made advertently or inadvertently."
+        ],
+        "application_process": "Offline. The interested applicant should visit the Office/Sub-Office of the District Social Welfare Officer (DSWO) and request the hard copy of the prescribed format of the application form. Fill in all mandatory fields, attach required documents, and submit the application.",
+        "documents_required": [
+            "Medical certificate issued by the Medical Board at the District level.",
+            "Copy of the FIR/Complaint.",
+            "Copy of application made to or benefit received from Women & Child Development Department."
+        ],
+        "faqs": [
+            {
+                "question": "Who Is Eligible For The Financial Assistance Scheme For Women And Girl Acid Attack Victims?",
+                "answer": "Women and girl acid attack victims who are residents of Haryana and have been attacked in the state are eligible for this scheme."
+            },
+            {
+                "question": "Is There Any Age Limit To Avail Of The Benefits Of This Scheme?",
+                "answer": "No, there is no age limit to avail of the benefits of this scheme."
+            },
+            {
+                "question": "What Are The Documents Required To Apply For This Scheme?",
+                "answer": "The following documents are required to apply for this scheme: Proof of residence in Haryana, Copy of FIR/Complaint, Medical report, Income certificate, Identity proof."
+            },
+            {
+                "question": "How Can An Acid Attack Victim Apply For This Scheme?",
+                "answer": "The acid attack victim can apply for this scheme by submitting the required documents to the District Social Welfare Officer of their district."
+            },
+            {
+                "question": "Is There Any Application Fee To Apply For This Scheme?",
+                "answer": "No, there is no application fee to apply for this scheme."
+            },
+            {
+                "question": "What Is The Purpose Of Providing Financial Assistance To The Acid Attack Victims Under This Scheme?",
+                "answer": "The purpose of providing financial assistance to the acid attack victims under this scheme is to help them in their rehabilitation and to provide them with financial support for their medical treatment and livelihood."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cdnbbsr.s3waas.gov.in/s392bbd31f8e0e43a7da8a6295b251725f/uploads/2021/03/2021032276-1.pdf"
+            }
+        ],
+        "tags": [
+            "Acid Attack",
+            "Financial Assistance",
+            "Girl",
+            "Social Welfare",
+            "Victim",
+            "Woman"
+        ]
+    }
+}

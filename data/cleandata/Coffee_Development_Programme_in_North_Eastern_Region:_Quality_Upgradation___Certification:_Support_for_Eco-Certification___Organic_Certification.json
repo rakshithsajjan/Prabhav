@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Support for Eco-Certification / Organic Certification",
+        "state": "North Eastern Region",
+        "department": "Ministry Of Commerce And Industry",
+        "type": "Subsidy",
+        "beneficiary": "Coffee growers, particularly SHGs/collectives of tribal growers",
+        "details": "The scheme aims to encourage coffee growers to improve quality for higher returns and improve access to high-value specialty markets through the production of eco-certified coffees. It also encourages small growers to form groups/collectives for eco-certification.",
+        "benefits": [
+            "75% of the certification cost for Organic Certification spread over 3 years or the conversion period, whichever is less.",
+            "75% of the certification cost for other eco-certifications for one year."
+        ],
+        "eligibility": [
+            "Applicants should be SHGs/collectives of tribal growers who obtain certification of their plantations for various sustainability and quality standards.",
+            "Support is available only for certification of estates as per Organic, Fair Trade, Rainforest Alliance, UTZ Certified, Bird friendly/Shade grown coffee standards, or equivalent programs.",
+            "Applicants must be certified as per the National Programme for Organic Production (NPOP) standards.",
+            "Certification must be obtained from accredited Certification Agencies."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The process includes certification completion, document submission to the Coffee Board, scrutiny, field inspection, review, and approval for subsidy disbursement.",
+        "documents_required": [
+            "Application in the prescribed format (in duplicate).",
+            "Certificate of incorporation/registration, memorandum of article of association/society as Grower Collective/SHG/Cooperative.",
+            "Copy of the certificate issued by the Accredited Certification Agency.",
+            "Original invoice towards the cost of certification.",
+            "Copy of the Bank Pass Book containing account details."
+        ],
+        "faqs": [
+            {
+                "question": "What specific eco-certifications are eligible for support under the scheme?",
+                "answer": "The scheme supports certifications such as Organic, Fair Trade, Rainforest Alliance, UTZ Certified, and equivalent programs."
+            },
+            {
+                "question": "Could a collective of tribal growers apply for this scheme individually?",
+                "answer": "The scheme necessitates tribal growers to form SHGs or collectives to access support."
+            },
+            {
+                "question": "What is the period over which the 75% subsidy for organic certification is distributed?",
+                "answer": "The subsidy is allocated over three years or the conversion period, whichever is shorter."
+            },
+            {
+                "question": "Are applicants obliged to adhere to specific national standards?",
+                "answer": "Yes, applicants must obtain certification in accordance with NPOP standards."
+            },
+            {
+                "question": "What are the steps involved in claiming the subsidy after certification?",
+                "answer": "Submission of requisite documents to the Coffee Board, followed by scrutiny, field inspection, review, and approval."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines, Application And Declaration Form",
+                "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+            },
+            {
+                "type": "Grower's Registration (UMANG)",
+                "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://coffeeboard.gov.in/contact-us.html"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "DBT",
+            "Farmer",
+            "Subsidy"
+        ]
+    }
+}

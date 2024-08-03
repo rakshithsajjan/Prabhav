@@ -1,0 +1,47 @@
+{
+    "content": {
+        "title": "Financial Assistance for Try Cycle to Workers and their Dependents - Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Labour Department Haryana",
+        "type": "Financial Assistance",
+        "beneficiary": "Workers and their Dependents",
+        "details": "This scheme provides financial assistance for the purchase of try cycles to workers and their dependents.",
+        "benefits": [
+            "Financial support for purchasing try cycles",
+            "Improved mobility for workers",
+            "Support for dependents of workers"
+        ],
+        "eligibility": [
+            "Must be a registered worker under the Haryana Labour Welfare Board",
+            "Dependents of registered workers are also eligible"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Labour Department Haryana website or Antyodaya-SARAL Portal.",
+        "documents_required": [
+            "Aadhaar Number",
+            "Parivar Pehchan Patra (PPP) number",
+            "Proof of registration as a worker"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/fatcwd-hlwb"
+            },
+            {
+                "type": "Labour Department Official Website",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Haryana",
+            "Labour Welfare",
+            "Try Cycle Scheme"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Price Support Scheme",
+        "state": "Assam",
+        "department": "Department of Agriculture & Cooperation",
+        "type": "Financial Assistance",
+        "beneficiary": "Farmer",
+        "details": "The Price Support Scheme (PSS) is being implemented by the Government of India in the state. Main crops of the state like Bajra, Jowar, Maize, Paddy, Cotton, Tur, Moong, Urad, Groundnut, Sesamum Wheat, Gram, Mustard, and Sugarcane etc. are covered. The Department of Agriculture & Cooperation implements the PSS for procurement of oil seeds, pulses and cotton, through NAFED which is the Central nodal agency, at the MSP declared by the government. NAFED undertakes procurement as and when prices fall below the MSP. Procurement under PSS is continued till prices stabilize at or above the MSP.",
+        "benefits": [
+            "When prices of commodities fall below the MSP, State and central notified procurement nodal agencies purchase commodities directly from the farmers at MSP, Under specified FAQ (fair Average Quality).",
+            "In this way prices of the main commodities are procured and protect the farmers against the economic loss in farming.",
+            "Price supports cause larger production and smaller consumption (since consumers will buy less of any good as its price rises), resulting in overproduction at the support price."
+        ],
+        "eligibility": [
+            "Farmers get the benefit of the scheme by selling their produce at support price in APMC centers opened by the Nodal procurement agency.",
+            "Farmers belong to Assam State.",
+            "Government employees are not allowed to apply to the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Offline: Download the application form for the Price Support Scheme official website. Fill in the required details accurately and completely. Attach supporting document. Submit the application by visiting the designated government office. After submitting the application, it's advisable to follow up with the concerned department or officials to track the progress of your application. They can provide information on the verification process, any additional requirements, or the status of your application. If your application is approved, you will be eligible to receive the price support as per the scheme's guidelines. The support may be provided through various means, such as direct bank transfers or procurement centers.",
+        "documents_required": [
+            "The State/UT Governments shall also notify all land revenue documents which are required to prove the genuineness of the farmers and required to produce before the procuring agencies.",
+            "Identification proof",
+            "Land documents",
+            "Bank account details",
+            "Agricultural documents",
+            "Income certificate",
+            "Photographs"
+        ],
+        "faqs": [
+            {
+                "question": "What Happens When Prices Of Commodities Fall Below The MSP?",
+                "answer": "When prices of commodities fall below the MSP, State and central notified procurement nodal agencies purchase commodities directly from the farmers at MSP, Under specified FAQ (fair Average Quality)."
+            },
+            {
+                "question": "How Does This Scheme Protect The Farmer?",
+                "answer": "Prices of the main commodities are procured and protect the farmers against the economical loss in farming."
+            },
+            {
+                "question": "Who Can Avail This Scheme?",
+                "answer": "Farmers of the Assam State."
+            },
+            {
+                "question": "Why Is Price Support Important?",
+                "answer": "Price supports cause larger production and smaller consumption (since consumers will buy less of any good as its price rises), resulting in overproduction at the support price."
+            },
+            {
+                "question": "How The Farmer Can Get This Scheme Benefit?",
+                "answer": "Farmers get benefit of the scheme by selling their produce at support price in APMC centers opened by Nodal procurement agency."
+            },
+            {
+                "question": "How To Apply For This Scheme?",
+                "answer": "Download the form from Price Support Scheme official website. Fill the details and submit the form."
+            },
+            {
+                "question": "Which documents are needed to apply for this scheme?",
+                "answer": "Identification proof, Land documents, Bank account details, Agricultural documents, Income certificate, Photographs."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "file:///C:/Users/Lenovo/Downloads/PRICE%20SUPPORT%20SCHEMES.pdf"
+            },
+            {
+                "type": "Govt. Website",
+                "url": "https://fcsca.assam.gov.in/schemes/price-support-scheme"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "DBT",
+            "Farmer",
+            "Financial Assistance",
+            "Seeds"
+        ]
+    }
+}

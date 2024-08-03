@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Bus Traveling Facility For Visually Impaired/Bus Concession",
+        "state": "Delhi",
+        "department": "Delhi Social Welfare Department",
+        "type": "Bus Concession",
+        "beneficiary": "Visually Impaired",
+        "details": "The scheme 'Bus Traveling Facility for Visually Impaired/Bus Concession' was started by Delhi Social Welfare Department for persons with disabilities. Under the scheme, Delhi Transport Corporation provides facility of free traveling in DTC Buses to the persons with vision impairment. Facility of concession to the escort is given to those who have not less than 100% blindness. Before applying to the concerned depot, applicant needs to get card from Sub Divisional Magistrate (SDM).",
+        "benefits": [
+            "Delhi Transport Corporation provides the facility of free traveling in DTC Buses to persons with vision impairment.",
+            "The applicant having 100% disability will get a 50% concession for their escort/attendant."
+        ],
+        "eligibility": [
+            "The applicant must be a resident of Delhi.",
+            "The applicant should have 40% and above disability.",
+            "Before applying to the concerned depot, the applicant needs to get the card from Sub Divisional Magistrate (SDM)."
+        ],
+        "exclusions": [],
+        "application_process": "The eligible applicant can obtain the application form from the respective depot by paying only rupees one. Filled form with all documents can be submitted at the same depot. After successful verification, the bus pass will be issued to the applicant. Note: Before applying to the concerned depot, the applicant needs to get the card from Sub Divisional Magistrate (SDM).",
+        "documents_required": [
+            "Identity card i.e. Aadhaar card etc.",
+            "Card issued by SDM",
+            "Residential proof",
+            "Passport-size photograph",
+            "Copy of the disability certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is the benefit of the scheme?",
+                "answer": "The facility of free traveling in DTC Buses is provided to persons with vision impairment."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Delhi Social Welfare Department"
+            },
+            {
+                "question": "Which is the implementing department of the scheme?",
+                "answer": "Delhi Transport Corporation"
+            },
+            {
+                "question": "Is the facility of concession also provided to the escort/attendant?",
+                "answer": "Yes, the applicant having 100% disability will get a 50% concession for their escort/attendant."
+            },
+            {
+                "question": "Who is eligible to get the benefits of the scheme?",
+                "answer": "The applicant having 40% and above disability is eligible to get the benefits of the scheme."
+            },
+            {
+                "question": "Is this scheme only for a resident of Delhi state?",
+                "answer": "Yes, the applicant must be a resident of Delhi."
+            },
+            {
+                "question": "Where can an applicant get the card?",
+                "answer": "The applicant needs to get a card from Sub Divisional Magistrate (SDM)."
+            },
+            {
+                "question": "How can an applicant avail the benefits of the scheme?",
+                "answer": "The applicant needs to visit the nearest depot and collect the application form. Further, the filled application form can be submitted at the same depot along with all the necessary documents."
+            },
+            {
+                "question": "How much does an applicant need to pay for the application form?",
+                "answer": "The applicant can be obtained the application form from the respective depot by paying only rupees one."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/btfvibc"
+            }
+        ],
+        "tags": [
+            "Blindness",
+            "Bus Concession",
+            "DTC Buses",
+            "Free Bus Traveling",
+            "Visually Impaired"
+        ]
+    }
+}

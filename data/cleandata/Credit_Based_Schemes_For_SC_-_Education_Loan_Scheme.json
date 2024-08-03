@@ -1,0 +1,60 @@
+{
+    "content": {
+        "title": "Credit Based Schemes For SC - Education Loan Scheme",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Loan",
+        "beneficiary": "Scheduled Caste Students",
+        "details": "Education loan scheme by the Ministry of Social Justice and Empowerment for Scheduled Caste students pursuing full-time Professional/Technical courses in India or abroad. This scheme is for providing financial assistance in pursuing full-time Professional/Technical courses.",
+        "benefits": [
+            "Financial Assistance up to 90% of the Course Fee or Rs.10.00 Lakhs for students within India.",
+            "Financial Assistance up to 90% of the Course Fee or Rs.20.00 Lakhs for students studying abroad.",
+            "Interest rate of 4% (3.5% for women beneficiaries).",
+            "Repayment period up to 10 years for loans up to Rs.7.50 lakh and up to 15 years for loans above Rs.7.50 lakh.",
+            "Moratorium period of 6 months after course completion or getting employment, whichever is earlier."
+        ],
+        "eligibility": [
+            "Students of the Scheduled Caste Category.",
+            "Annual family income up to Rs. 3.00 Lakhs."
+        ],
+        "exclusions": [],
+        "application_process": "The interested eligible person shall contact the nearest Channeling Agency.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Income certificate",
+            "Caste certificate",
+            "Bank account statement"
+        ],
+        "faqs": [
+            {
+                "question": "What is moratorium period?",
+                "answer": "A moratorium period refers to a particular period of a loan tenure during which the borrower does not have to repay anything. It can be described as a waiting period before the borrower will have to start paying the equated monthly installments (EMIs) for his or her loan."
+            },
+            {
+                "question": "Does the scheme provide loans to all Scheduled Castes persons?",
+                "answer": "No, NSFDC provides loans only to economically poor sections of Scheduled Castes whose annual family income is up to Rs. 3.00 lakh both in rural & urban areas."
+            },
+            {
+                "question": "How does the scheme provide assistance?",
+                "answer": "The applicants should contact the Channelizing Agencies if they wish to avail ELS loan."
+            },
+            {
+                "question": "For which Educational courses, the Educational Loan is provided?",
+                "answer": "The Educational Loan is provided for the courses run by the recognized Educational Institutions. Presently, it is provided for pursuing full-time professional/technical courses in various fields."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/cbssc-els"
+            }
+        ],
+        "tags": [
+            "Education Loan",
+            "Scheduled Caste",
+            "Financial Assistance",
+            "Professional Course",
+            "Technical Course"
+        ]
+    }
+}

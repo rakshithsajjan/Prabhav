@@ -1,0 +1,96 @@
+{
+    "content": {
+        "title": "Medical Assistance (ANBOCWWB)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Labour, Employment & Training, Andaman & Nicobar Administration",
+        "type": "Welfare Scheme",
+        "beneficiary": "Building & Other Construction Workers and their dependents",
+        "details": "The scheme 'Medical Assistance' was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, medical assistance shall be provided to the Building & Other Construction Workers, who are registered under the A&N Islands Building and Other Construction Workers Welfare Board, and his/her dependents' family members during hospitalization because of an accident or illness.",
+        "benefits": [
+            "Medical assistance will be provided to the beneficiaries @ \u20b9200/- per day for the first 5 days of hospitalization and \u20b9100 per day for the remaining days subject to a maximum of \u20b95,000/-.",
+            "The beneficiary shall be entitled to \u20b91,00,000/- in the event of medical referred cases to the Mainland of the beneficiary or his/her dependents to the Mainland by the Govt. Medical Authorities for treatment.",
+            "Subject to production of a referral letter from competent authority \u20b91,000/- for Beneficiary or their 'Family' in case of emergency treatment in a hospital operating in Andaman & Nicobar Islands (once in a year).",
+            "Subject to the production of referral remarks by Govt. Hospital/PHC in outer Islands \u20b9600/- per day for the period of their stay in Port Blair subject to a maximum of \u20b915,000/- (Medical referral cases from outer Islands of Andaman & Nicobar Islands to Port Blair)."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
+            "The beneficiary should be engaged in a building or other construction work.",
+            "The beneficiary should be registered under the A&N Islands Building and Other Construction Workers Welfare Board.",
+            "The beneficiary should have an active membership of the Board.",
+            "To avail medical assistance under the scheme, either the beneficiary or their dependent should be hospitalized due to an accident or illness."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Passport size photograph",
+            "Proof of age",
+            "Identity proof",
+            "Details of EPF, if any",
+            "Proof of address",
+            "90 Days Work Duration Certificate issued by the competent authority",
+            "Bank account details",
+            "Any other document as required",
+            "Registration ID Card",
+            "Medical certificate",
+            "Referral letter from the competent authority, if any",
+            "Treatment Bills (Originals)",
+            "Latest Subscription Receipt",
+            "Bank account details/Copy of passbook",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers the Medical Assistance scheme?",
+                "answer": "The scheme is administered by the Department of Labour, Employment & Training, Andaman & Nicobar Administration."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "The scheme offers medical assistance of \u20b9200/- per day for the first 5 days of hospitalization and \u20b9100 per day for the subsequent days, up to a maximum of \u20b95,000/-. In case of referral cases to the Mainland for treatment, beneficiaries are entitled to \u20b91,00,000/-."
+            },
+            {
+                "question": "Who is eligible to avail of these benefits?",
+                "answer": "To be eligible, beneficiaries must be engaged in building or other construction works and registered under the A&N Islands Building and Other Construction Workers Welfare Board."
+            },
+            {
+                "question": "What conditions apply for medical assistance under the scheme?",
+                "answer": "Medical assistance is provided if either the beneficiary or their dependent is hospitalized due to an accident or illness."
+            },
+            {
+                "question": "What documentation is required for availing medical assistance?",
+                "answer": "Beneficiaries need to produce a medical certificate or a referral letter from a competent authority as the case may be."
+            },
+            {
+                "question": "Can dependents of the beneficiary avail of the scheme's benefits?",
+                "answer": "Yes, the dependents of the registered beneficiary are eligible for medical assistance under the scheme."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "To avail the medical assistance under the scheme, the eligible applicant may visit and apply through the online Portal: https://serviceonline.gov.in/login.do"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labour.and.nic.in/webPages/welfareboard.html"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/citizenRegistration.html"
+            },
+            {
+                "type": "Application Form For Medical Assistance",
+                "url": "https://labour.and.nic.in/webPages/forms/med.pdf"
+            },
+            {
+                "type": "Application Form For Registration As A Beneficiary",
+                "url": "https://labour.and.nic.in/webPages/forms/welfareboard.pdf"
+            }
+        ],
+        "tags": [
+            "Medical Assistance",
+            "Welfare Scheme",
+            "Building Workers",
+            "Construction Workers"
+        ]
+    }
+}

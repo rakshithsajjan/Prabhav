@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Observation Home and Special School",
+        "state": "Puducherry",
+        "department": "Department of Social Welfare",
+        "type": "Social Welfare",
+        "beneficiary": "Children who are juvenile delinquents",
+        "details": "The scheme 'Observation Home and Special School' was launched by the Department of Social Welfare, Government of Puducherry. The objective of this scheme is to take care of the children who are juvenile delinquents by providing a Home to them where their basic needs are taken care of including general and vocational education and other facilities for enabling them to become useful citizens.",
+        "benefits": [
+            "Free Boarding and Lodging.",
+            "Recreations Like Library, Play Materials With Sufficient Playground Area (Indoor and Outdoor).",
+            "Once a Year, Various Competitions Are Conducted in Sports, Games, Drawing, Singing, Essay Writing, Etc., the Winners Are Given Prizes During the Annual Day Celebration.",
+            "Educational Tours to Places of Interest Once in a Year."
+        ],
+        "eligibility": [
+            "The child should be under 18 years of age.",
+            "The child should be in conflict with the law.",
+            "The child should have been admitted to the Juvenile Welfare Board."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit (during office hours) the Office/ Sub-Office of the Department of Social Welfare, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Address Proof",
+            "Age Proof"
+        ],
+        "faqs": [
+            {
+                "question": "What is the main objective of the 'Observation Home and Special School' scheme in Puducherry?",
+                "answer": "The scheme aims to provide care and education to juvenile delinquents, fostering their development into useful citizens."
+            },
+            {
+                "question": "What are the benefits offered under this scheme?",
+                "answer": "The benefits include free boarding and lodging, recreational facilities, and annual competitions in sports, games, drawing, singing, and essay writing."
+            },
+            {
+                "question": "How often are educational tours organized for the beneficiaries?",
+                "answer": "Educational tours to places of interest are conducted once a year for the children under the scheme."
+            },
+            {
+                "question": "In case of delayed benefit disbursal, where should one contact the authorities in Puducherry?",
+                "answer": "Contact the Director, Directorate of Social Welfare, Saradhambal Nagar, Ellaipillaichavadhy, Puducherry."
+            },
+            {
+                "question": "What documents are required for the application?",
+                "answer": "Aadhaar card, address proof, and age proof are the necessary documents for the application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socwelfare.py.gov.in/observation-home-and-special-school-ariyankuppam-puducherry"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://socwelfare.py.gov.in/contact-us"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://pgportal.gov.in/"
+            }
+        ],
+        "tags": [
+            "Children",
+            "School",
+            "Sports",
+            "Tour"
+        ]
+    }
+}

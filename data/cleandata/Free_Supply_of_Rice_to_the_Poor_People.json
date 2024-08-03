@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Free Supply of Rice to the Poor People",
+        "state": "Puducherry",
+        "department": "Department of Women & Child Development",
+        "type": "Food Supply",
+        "beneficiary": "Below Poverty Line (BPL) individuals",
+        "details": "The scheme 'Free Supply of Rice to the Poor People' by the Department of Women & Child Development, Government of Pondicherry, was introduced to provide 10 kg of free rice through fair-price shops during natural calamities and on two important festive occasions every year. The beneficiaries are identified based on the data from the Civil Supplies and Consumer Affairs Department in Puducherry, utilizing the cross-referencing functionality in UDH.",
+        "benefits": [
+            "10 kg of free rice is supplied through fair-price shops during natural calamities and on two important festive occasions every year."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 5 years.",
+            "The applicant should belong to the 'Below Poverty Line' category."
+        ],
+        "exclusions": [
+            "Fishermen are not eligible."
+        ],
+        "application_process": "Offline. No separate application is required. As a part of the proactive governance and timely benefits delivery, the beneficiaries are identified based on the data from the Civil Supplies and Consumer Affairs Department in Puducherry, utilizing the cross-referencing functionality in UDH. The supply will be made to the holders of red ration card who have registered with the area Anganwadi.",
+        "documents_required": [
+            "BPL Ration Card by the Civil Supplies Department, Pondicherry."
+        ],
+        "faqs": [
+            {
+                "question": "Which document is required for eligibility, issued by the Civil Supplies Department, Pondicherry?",
+                "answer": "Eligibility requires possession of the BPL Ration Card issued by the Civil Supplies Department, Pondicherry."
+            },
+            {
+                "question": "Are there any specific occasions mentioned for the distribution of free rice?",
+                "answer": "Free rice is distributed on two important festive occasions and during natural calamities."
+            },
+            {
+                "question": "How is the distribution of free rice managed during natural calamities?",
+                "answer": "Free rice distribution during natural calamities is facilitated through fair price shops."
+            },
+            {
+                "question": "What is the official website for tracking the application status of the rice supply scheme?",
+                "answer": "The official website is https://edistrict.py.gov.in/User/TrackApplication.aspx."
+            },
+            {
+                "question": "How can individuals contact the authorities for more information about the scheme?",
+                "answer": "Authorities can be contacted at https://wcd.py.gov.in/contact-us."
+            },
+            {
+                "question": "Where can individuals address their grievances related to the rice supply scheme?",
+                "answer": "Grievances can be addressed at https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system."
+            },
+            {
+                "question": "Which department issues the BPL Ration Card required for the scheme?",
+                "answer": "The Civil Supplies Department, Pondicherry, issues the BPL Ration Card for eligible beneficiaries."
+            },
+            {
+                "question": "Who is excluded from the eligibility criteria for the rice supply scheme?",
+                "answer": "Fishermen are not eligible to benefit from the 'Free Supply of Rice to the Poor People' scheme."
+            },
+            {
+                "question": "Can individuals with continuous residence in Pondicherry for less than 5 years apply for the scheme?",
+                "answer": "No, applicants must have continuous residence in Pondicherry for a minimum of 5 years to be eligible."
+            },
+            {
+                "question": "What eligibility criteria must an applicant meet to qualify for the rice supply scheme?",
+                "answer": "The applicant should be an Indian citizen, a native of Pondicherry, and belong to the 'Below Poverty Line' category."
+            },
+            {
+                "question": "Who is responsible for the cross-referencing functionality in UDH for beneficiary identification?",
+                "answer": "The Civil Supplies and Consumer Affairs Department in Puducherry handles the cross-referencing functionality in UDH."
+            },
+            {
+                "question": "During which occasions is the free rice distributed to beneficiaries under the scheme?",
+                "answer": "Free rice is supplied during natural calamities and on two important festive occasions annually."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://wcd.py.gov.in/contact-us"
+            },
+            {
+                "type": "Office Locations",
+                "url": "https://wcd.py.gov.in/office-locations"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Food",
+            "Ration",
+            "Social Welfare"
+        ]
+    }
+}

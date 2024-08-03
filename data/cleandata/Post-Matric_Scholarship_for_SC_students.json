@@ -1,0 +1,96 @@
+{
+    "content": {
+        "title": "Post-Matric Scholarship for SC students",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Scheduled Caste students",
+        "details": "The objective of the scheme is to appreciably increase the Gross Enrolment Ratio of SC students in higher education with a focus on those from the poorest households, by providing financial assistance at post-matriculation or post-secondary stage to enable them to complete their education. These scholarships are available for studies in India only and the awardees are selected by the State Government/Union Territory to which the applicant actually belongs.",
+        "benefits": [
+            "Financial assistance for various groups of courses",
+            "\u20b9 13,000/- for Group-1 hostellers, \u20b9 7,000/- for day scholars",
+            "\u20b9 9,500/- for Group-2 hostellers, \u20b9 6,500/- for day scholars",
+            "\u20b9 6,000/- for Group-3 hostellers, \u20b9 3,000/- for day scholars",
+            "\u20b9 4,000/- for Group-4 hostellers, \u20b9 2,500/- for day scholars",
+            "10% extra allowances for Divyang students"
+        ],
+        "eligibility": [
+            "Open to Indian nationals only",
+            "Candidates must belong to Scheduled Castes",
+            "Must have passed Matriculation, Higher Secondary, or a higher examination",
+            "Parents' or guardians' income must not exceed \u20b9 2,50,000/- per annum",
+            "Candidates studying in the same stage of education in a different subject are not eligible",
+            "Students pursuing studies through correspondence or online courses are eligible",
+            "All children of any parent or guardian are entitled to receive benefits",
+            "A scholarship holder will not hold any other scholarship or stipend"
+        ],
+        "exclusions": [],
+        "application_process": "Online registration through the official NSP website.",
+        "documents_required": [
+            "Photograph",
+            "Academic Certificate",
+            "Caste Certificate",
+            "Income proof",
+            "Domicile Certificate",
+            "Bank Account Details",
+            "Aadhaar Card"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "The Post-Matric Scholarship Scheme for Scheduled Caste (SC) Students is a Centrally Sponsored Scheme implemented by the Ministry of Social Justice and Empowerment, Government of India."
+            },
+            {
+                "question": "What are the main objectives of the scheme?",
+                "answer": "The objective of the scheme is to appreciably increase the Gross Enrolment Ratio of SC students in higher education with a focus on those from the poorest households."
+            },
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "Financial Benefits are provided."
+            },
+            {
+                "question": "What benefits are provided to the Disabled students?",
+                "answer": "A 10% extra allowance shall be given to Divyang (Disabled) students."
+            },
+            {
+                "question": "Who can get the benefits?",
+                "answer": "The scholarships are open to Indian nationals only."
+            },
+            {
+                "question": "What is the eligible income criteria?",
+                "answer": "Scholarships will be paid to students whose parents' or guardians' income from all sources does not exceed \u20b9 2,50,000/- per annum."
+            },
+            {
+                "question": "What is the procedure to apply?",
+                "answer": "Applicant must register themselves on the NSP portal and login with their credentials to apply."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Photograph, Academic Certificate, Caste Certificate, Income proof, Domicile Certificate, Bank Account Details, Aadhaar Card."
+            },
+            {
+                "question": "What is the NSP URL?",
+                "answer": "URL: https://scholarships.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialjustice.gov.in/writereaddata/UploadFile/PMS_for_SCs_Scheme_Guidelines.pdf"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://scholarships.gov.in/public/FAQ/FAQ_ASSAM.pdf"
+            },
+            {
+                "type": "NSP Website",
+                "url": "https://scholarships.gov.in/"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Scholarship",
+            "Student Finance"
+        ]
+    }
+}

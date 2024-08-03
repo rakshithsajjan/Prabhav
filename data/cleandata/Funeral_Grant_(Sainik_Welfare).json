@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Funeral Grant (Sainik Welfare)",
+        "state": "Puducherry",
+        "department": "Department of Sainik Welfare",
+        "type": "Grant",
+        "beneficiary": "Ex-Servicemen and their Widows",
+        "details": "Funeral Grant is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, funeral Assistance of \u20b912,000/- or \u20b910,000/- is provided in the event of death of the ex-Serviceman (ESM) or of the Widow of the ESM respectively. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+        "benefits": [
+            "In case of death of the ESM, \u20b912,000/- is provided to the ESM's Widow.",
+            "In the case of the death of the Widow of the ESM, \u20b910,000/- is provided to a member of the ESM's family.",
+            "The assistance is provided immediately on occurrence with permission for burial/cremation from the appropriate authority (Death Certificate not required).",
+            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+        ],
+        "eligibility": [
+            "In case of death of the ESM, the applicant should be the ESM's Widow.",
+            "In case of death of the Widow of the ESM, the applicant should be any other member of the ESM's family.",
+            "The deceased ESM/ deceased Widow of the ESM, in their lifetime, should have been registered with the Department of Sainik Welfare, Puducherry.",
+            "The scope of this scheme will also apply to those ESM / living spouse/widows who are re-employed as regular / deemed to be regular in Government/Public Sector Undertakings/Private Organizations and self-employed IT assesses."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should take print of the prescribed format of the application form for the concerned scheme from the Official Website of the Department of Sainik Welfare or visit the Rajya Sainik Board to request a hard copy.",
+        "documents_required": [
+            "ESM Identity Card.",
+            "Death Certificate of the ESM/ ESM's Widow (Optional).",
+            "Certificate to remove the Body, issued by the competent authority/Death certificate.",
+            "Consent Letter from the NOKs, for disbursement of death grant to the applicant (In case of death of widow or Ex-Servicemen whose wife predeceased).",
+            "Discharge Certificate (The address mentioned in the Discharge Certificate must be of Puducherry Union Territory)."
+        ],
+        "faqs": [
+            {
+                "question": "Which Department of the UT of Puducherry administers this scheme?",
+                "answer": "The scheme is administered by the Department of Sainik Welfare, Union Territory of Puducherry."
+            },
+            {
+                "question": "Where can I find the URL of the Official Website of the Department of Sainik Welfare, Puducherry?",
+                "answer": "The URL of the Official Website of the Department of Sainik Welfare, Puducherry is: https://sainik.py.gov.in/."
+            },
+            {
+                "question": "Is self-attestation required for attaching documents with the application?",
+                "answer": "Yes, applicants need to self-attest the copies of mandatory documents while submitting the application."
+            },
+            {
+                "question": "Is this scheme also applicable to the Widows of Ex-servicemen?",
+                "answer": "Yes, all Schemes are applicable only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry."
+            },
+            {
+                "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
+                "answer": "The definition of 'Ex-Servicemen' can be accessed through the following URL: https://sainik.py.gov.in/definition-ex-servicemen."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sainik.py.gov.in/assistance-affd-fund"
+            },
+            {
+                "type": "Government Order",
+                "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://sainik.py.gov.in/sites/default/files/funeral_grant.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://sainik.py.gov.in/contact-us"
+            }
+        ],
+        "tags": [
+            "Funeral Grant",
+            "Sainik Welfare",
+            "Ex-Servicemen",
+            "Puducherry"
+        ]
+    }
+}

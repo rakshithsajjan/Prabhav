@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Aam Aadmi Bima Yojana",
+        "state": "Assam",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Insurance",
+        "beneficiary": "Unorganized sector workers",
+        "details": "Aam Aadmi Bima Yojana (AABY) is a government-sponsored social security scheme that aims to provide affordable life insurance coverage to the unorganized sector of the population in India. The scheme was launched in 2007 and is administered by the Life Insurance Corporation of India (LIC). The primary objective of the scheme is to provide financial support to the economically weaker sections of the society in case of the death or disability of the earning member of the family.",
+        "benefits": [
+            "Financial assistance to family members in case of death or disability",
+            "Affordable premiums subsidized by the government",
+            "Coverage for natural calamities",
+            "Easy enrollment process",
+            "Special benefits for women, including maternity benefits"
+        ],
+        "eligibility": [
+            "Age Limit: 18 to 59 years",
+            "Income Limit: Household income not exceeding Rs. 1,00,000",
+            "Occupational Requirement: Employed in unorganized sectors such as agriculture, fishery, dairy, etc.",
+            "Not covered under any other social security scheme"
+        ],
+        "exclusions": [
+            "Individuals employed in the organized sector",
+            "Income taxpayers",
+            "Individuals already covered under other insurance schemes",
+            "Non-primary breadwinners of the family",
+            "Individuals above 59 years of age"
+        ],
+        "application_process": "Offline. Visit the nearest Aam Aadmi Bima Yojana center or insurance agent to obtain the application form, fill it out, attach necessary documents, and submit it.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Age Proof",
+            "Address Proof",
+            "Bank Account Details",
+            "Income Certificate",
+            "Occupation Proof"
+        ],
+        "faqs": [
+            {
+                "question": "Can I Apply If I Am 62 Years Old?",
+                "answer": "No, only people from the age group 18-59 can do so."
+            },
+            {
+                "question": "Can An Individual Who Is A Beneficiary Of Any Other Government Social Security Scheme Apply For AABY?",
+                "answer": "Yes, provided they meet the eligibility criteria and are engaged in any of the specified occupations."
+            },
+            {
+                "question": "Can An Individual Who Already Has Life Insurance Apply For AABY?",
+                "answer": "Yes, provided they meet the eligibility criteria."
+            },
+            {
+                "question": "Does The Application Process Require Your Government ID Proofs?",
+                "answer": "Yes."
+            },
+            {
+                "question": "How Can I Apply For Aam Aadmi Bima Yojana?",
+                "answer": "You can apply through your nearest LIC office or designated bank branches."
+            },
+            {
+                "question": "How Long Does It Take For The Application To Be Processed?",
+                "answer": "Generally, it takes about 15 days for the application to be processed."
+            },
+            {
+                "question": "How Is The Claim Process Initiated Under AABY?",
+                "answer": "The beneficiary or nominee can contact the respective insurance company or bank to initiate the claim process."
+            },
+            {
+                "question": "What Is The Sum Assured Under AABY?",
+                "answer": "The sum assured is Rs. 2 lakhs for natural death, accidental death, or permanent disability."
+            }
+        ],
+        "sources": [
+            {
+                "type": "User Manual",
+                "url": "https://labour.assam.gov.in/schemes/aam-aadmi-bima-yojana"
+            }
+        ],
+        "tags": [
+            "Bima Yojana",
+            "DBT",
+            "Incentive",
+            "Insurance",
+            "Labor Scheme"
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Labour Accident benefit Scheme- Gujarat Labour Welfare Board",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Financial Support",
+        "beneficiary": "Workers (Shramyogis)",
+        "details": "The \u201cLabour Accident Benefit Scheme\u201d was launched by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to workers who become disabled during their duty period due to an accident or any other reason at the working premises of the establishment.",
+        "benefits": [
+            "Workers with disabilities ranging from 40% to 70% will receive financial assistance of \u20b925,000/-.",
+            "Workers with disabilities exceeding 70% will receive financial assistance of \u20b950,000/-."
+        ],
+        "eligibility": [
+            "Workers who have become disabled during their duty period due to an accident or any other reason at the working premises of the establishment can avail of the benefits under the scheme.",
+            "Only those workers whose organization/unit has regularly paid their Labour Welfare Fund for the last one year will be eligible.",
+            "Application must be made within 2 years of the accident."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport-size Photograph",
+            "A copy of the identity card issued by the contractor to the worker/labour",
+            "Aadhaar Card of Labour",
+            "Labour Welfare Fund Account Number",
+            "Proof of payment of said amount by the organization",
+            "Disability certificate",
+            "Bonafide certificate",
+            "Bank account details/Bank Passbook",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers the Labour Accident Benefit Scheme?",
+                "answer": "The scheme is administered by the Gujarat Labour Welfare Board, under the Labour, Skill Development & Employment Department, Government of Gujarat."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Workers with disabilities ranging from 40% to 70% will receive financial assistance of \u20b925,000/-, while those with disabilities exceeding 70% will receive \u20b950,000/-."
+            },
+            {
+                "question": "What is the contribution required from the organization?",
+                "answer": "Organizations have to pay \u20b912,500/- for disabilities ranging from 40% to 70%, and \u20b925,000/- for disabilities exceeding 70%. Any additional amount required by law will be covered by the board."
+            },
+            {
+                "question": "Who is eligible for the benefits under the scheme?",
+                "answer": "Workers who become disabled during their duty period due to an accident or any other reason at the workplace are eligible. Additionally, only workers whose organization/unit has regularly paid their Labour Welfare Fund for the last one year are eligible."
+            },
+            {
+                "question": "Is there a time limit for applying for benefits after an accident?",
+                "answer": "Yes, applications must be made within 2 years of the accident. Applications received after this deadline will still be processed, but at the discretion of the office."
+            },
+            {
+                "question": "Who makes the final decision regarding the scheme?",
+                "answer": "The Welfare Commissioner's decision is final, with jurisdiction in Ahmedabad."
+            },
+            {
+                "question": "How can one apply for the scheme benefit?",
+                "answer": "Applicants may visit the Sanman Portal: https://sanman.gujarat.gov.in/ to apply for the scheme benefit."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://glwb.gujarat.gov.in/labour-acc-benifite-scheme.htm"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/Home/GLWBScheme#"
+            },
+            {
+                "type": "Scheme Details (Page No. 365)",
+                "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-22-23.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Disability",
+            "Financial Support",
+            "Industrial Worker",
+            "Labour",
+            "Organized Worker",
+            "Shramyogi"
+        ]
+    }
+}

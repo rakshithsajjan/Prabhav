@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "BPL Scholarship for College Students",
+        "state": "Chhattisgarh",
+        "department": "Department of Higher Education, Government of Chhattisgarh",
+        "type": "Scholarship",
+        "beneficiary": "Students from BPL category families",
+        "details": "The objective of the scheme is to provide financial assistance to meritorious students from BPL category families to meet a part of their day-to-day expenses while pursuing higher studies.",
+        "benefits": [
+            "\u20b9500/- per month for Post Graduate Level (PG) students",
+            "\u20b9300/- per month for Graduate Level (UG) students",
+            "Full scholarship for renewal applicants: \u20b93000 for UG Classes and \u20b95000 for PG Classes",
+            "Scholarship disbursed through Direct Benefit Transfer (DBT) mode"
+        ],
+        "eligibility": [
+            "Students of Graduate Level (UG) & Post Graduate Level (PG) studying in any Government college of Chhattisgarh",
+            "Guardian should have a BPL Card",
+            "Not receiving benefits from any other scholarship scheme",
+            "Must pass the annual examination in the first attempt",
+            "Attendance should not be shortened"
+        ],
+        "exclusions": [
+            "Only for BPL category students"
+        ],
+        "application_process": "Online submission of the application form through the National Scholarship Portal.",
+        "documents_required": [
+            "BPL Card",
+            "Bank Account details"
+        ],
+        "faqs": [
+            {
+                "question": "Can I edit the information already saved and up to what time?",
+                "answer": "Applicants can edit the information till the final submission of the online application. After final submission, information can only be edited if marked as defected at the verification level."
+            },
+            {
+                "question": "Do I have to fill up the online application in one sitting?",
+                "answer": "No. Applicants can fill out the online application in many settings until satisfied with the entries."
+            },
+            {
+                "question": "What should I do if I forget my Temporary ID/Permanent ID?",
+                "answer": "Use the process: 'Student login-->Forgot Registration Details?' and enter the basic fields to retrieve your ID."
+            },
+            {
+                "question": "How should I check the status of my application online?",
+                "answer": "Login under 'Student Login' with your Permanent ID and Password, then select 'Check Your Status'."
+            },
+            {
+                "question": "Where to lodge complaints/queries/grievances regarding scholarship application?",
+                "answer": "Technical complaints may be addressed to the Helpdesk of the National Scholarship Portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/bplscs"
+            },
+            {
+                "type": "National Scholarship Portal",
+                "url": "https://scholarships.gov.in/"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Scholarship",
+            "Higher Education",
+            "Chhattisgarh"
+        ]
+    }
+}

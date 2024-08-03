@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Uttarakhand Widow Pension Scheme",
+        "state": "Uttarakhand",
+        "department": "Social Welfare Department",
+        "type": "Pension",
+        "beneficiary": "Widows of BPL families",
+        "details": "The Uttarakhand Widow Pension Scheme was started by the Social Welfare Department (Government of Uttarakhand). With this scheme, the government provides financial assistance for widows (The beneficiary should be of the BPL category or his monthly income should be up to Rs.4000) from 18 to 60 years old.",
+        "benefits": [
+            "The financial assistance of Rs. 1500/- per month."
+        ],
+        "eligibility": [
+            "The age of the widow woman should be 18 years to 60 years.",
+            "The beneficiary should be of BPL category or his monthly income should be up to Rs.4000.",
+            "Any son/grandson of the candidate is not more than 20 years of age and If there is a son/grandson above the age of 20 years, then he is living below the poverty line, then such a candidate will not be denied pension.",
+            "Only permanent residents of Uttarakhand can apply."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhaar card.",
+            "Husband's Death Certificate.",
+            "Below Poverty Line (BPL) ration card or Income Certificate by TAHSILDAR.",
+            "Bank account details.",
+            "Attested Passport size photos by Gram Pradhan /Jila panchayat Adhyaksh /sabhasad nagar palika / gram vikas adhikari (panchayat).",
+            "Voter Id card."
+        ],
+        "faqs": [
+            {
+                "question": "To whom the widow pension can be approved?",
+                "answer": "Widows of BPL families in the age group of 18 years to 60 years or whose monthly income does not exceed Rs.4000/- per month, or who come under BPL category, can be sanctioned widow pension."
+            },
+            {
+                "question": "Who issues the income certificate for approval of widow pension?",
+                "answer": "The income certificate is issued by the Tehsildar of the concerned Tehsil."
+            },
+            {
+                "question": "Who has the right to accept a widow pension?",
+                "answer": "Right to sanction widow pension in rural area the eligible person is selected in the open meeting of Gram Panchayat and in urban area the sub-collector of concerned tehsil has the right to sanction pension."
+            },
+            {
+                "question": "What is the period of payment of widow pension?",
+                "answer": "The amount of pension is paid every 3 months."
+            },
+            {
+                "question": "Is it necessary to have an account in a nationalized bank for widow pension acceptance?",
+                "answer": "According to the instructions of the government, the accounts of all the beneficiaries coming under Ramnagar and Haldwani tehsil of Nainital district-Haridwar, Udham Singh Nagar, Dehradun (except the mountainous areas of Chakrata, Kalsi and Raipur blocks) should be compulsorily opened in nationalized banks."
+            },
+            {
+                "question": "When will the approval of the new pension be done?",
+                "answer": "Pension to new beneficiaries is sanctioned only twice in a year in January and July respectively."
+            },
+            {
+                "question": "Whether an income certificate is necessary for BPL number holders?",
+                "answer": "There is no need for income certificate for pension approval for BPL number holders."
+            },
+            {
+                "question": "Which documents are required while submitting the application form?",
+                "answer": "Aadhaar card, Husband's Death Certificate, Below Poverty Line (BPL) ration card or Income Certificate by TAHSILDAR, Bank account details, Attested Passport size photos by Gram Pradhan /Jila panchayat Adhyaksh /sabhasad nagar palika / gram vikas adhikari (panchayat), Voter Id card."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialwelfare.uk.gov.in/pages/display/95-widow-pension"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://socialwelfare.uk.gov.in/files/b-Widow_pension.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Pension",
+            "Uttarakhand",
+            "Widow"
+        ]
+    }
+}

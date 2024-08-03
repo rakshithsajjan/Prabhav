@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Transgender Pension Scheme",
+        "state": "Himachal Pradesh",
+        "department": "Department of Social Welfare",
+        "type": "Pension Scheme",
+        "beneficiary": "Transgender persons",
+        "details": "The Transgender Pension Scheme is a welfare initiative launched by the Government of Himachal Pradesh for the upliftment and support of transgender persons. The scheme provides a monthly pension of Rs. 650 to transgender persons who are above 18 years of age and belong to the BPL (Below Poverty Line) category. A monthly pension of Rs. 1200 is provided to transgender persons who are above 80 years or 70% disability. The main objective of this scheme is to provide financial assistance to transgender persons and ensure their social security and protection.",
+        "benefits": [
+            "The scheme provides a monthly pension of Rs. 650 to transgender persons who are above 18 years of age and belong to the BPL (Below the Poverty Line) category.",
+            "Monthly pension of Rs. 1200 to transgender persons who are above 80 years of age or 70% disabled and belong to the BPL (Below the Poverty Line) category."
+        ],
+        "eligibility": [
+            "The applicant must be a resident of Himachal Pradesh.",
+            "The applicant must be above 18 years of age.",
+            "The applicant must belong to the BPL category.",
+            "The applicant must have a transgender identity certificate issued by the District Magistrate or Sub-Divisional Magistrate."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The applicant can obtain the application form from the District Social Welfare Officer or the concerned Tehsil Welfare Officer. The application form must be duly filled with accurate information and submitted along with necessary documents such as a BPL card, bank account details, and a transgender identity certificate. The application is then verified and processed by the concerned authorities, and the pension amount is disbursed to the beneficiary's bank account.",
+        "documents_required": [
+            "Certificate from Medical board.",
+            "Applicant should not be serving in the government/semi-government sector.",
+            "Copy of the Parivar Register.",
+            "Aadhaar Card.",
+            "Bank Account.",
+            "Certificate from the applicant that he/she is not receiving any other pension."
+        ],
+        "faqs": [
+            {
+                "question": "What Is The Age Limit For Eligibility Under The Transgender Pension Scheme In Himachal Pradesh?",
+                "answer": "The applicant must be above 18 years of age."
+            },
+            {
+                "question": "Can Non-BPL Transgender Persons Apply For This Scheme?",
+                "answer": "No, only transgender persons belonging to the BPL category are eligible for this scheme."
+            },
+            {
+                "question": "What Documents Are Required To Apply For The Transgender Pension Scheme In Himachal Pradesh?",
+                "answer": "Certificate from Medical board. Applicant should not be serving in government/semi government sector. Copy of the Parivar Register Aadhaar Card. Bank Account. Certificate from the applicant that he/she is not receiving any other pension."
+            },
+            {
+                "question": "What Is The Pension Amount Provided Under This Scheme?",
+                "answer": "The pension amount is Rs. 650 per month."
+            },
+            {
+                "question": "Can Transgender Persons From Other States Apply For This Scheme In Himachal Pradesh?",
+                "answer": "No, only residents of Himachal Pradesh are eligible to apply for this scheme."
+            },
+            {
+                "question": "Is There Any Application Fee For This Scheme?",
+                "answer": "No, there is no application fee for the Transgender Pension Scheme in Himachal Pradesh."
+            },
+            {
+                "question": "What Is The Frequency Of Pension Disbursement Under This Scheme?",
+                "answer": "The pension amount is disbursed monthly."
+            },
+            {
+                "question": "What Is The Purpose Of This Scheme?",
+                "answer": "The main purpose of this scheme is to provide financial assistance to transgender persons and ensure their social security and protection."
+            },
+            {
+                "question": "How Is The Application Process For This Scheme?",
+                "answer": "The application process involves obtaining the application form, filling it with accurate information, and submitting it along with necessary documents to the concerned authorities."
+            },
+            {
+                "question": "Who Can I Contact For More Information About This Scheme?",
+                "answer": "You can contact the District Social Welfare Officer or the concerned Tehsil Welfare Officer for more information about the Transgender Pension Scheme in Himachal Pradesh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://esomsa.hp.gov.in/sites/default/files/UNotification_Trans-38786617-28258868_0.pdf"
+            }
+        ],
+        "tags": [
+            "DBT",
+            "Financial Assistance",
+            "Pension Scheme",
+            "Transgender"
+        ]
+    }
+}

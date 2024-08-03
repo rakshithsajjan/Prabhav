@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Incubation Scheme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Capital Support",
+        "beneficiary": "MSMEs and individuals with innovative ideas",
+        "details": "Launched by the Ministry of Micro, Small & Medium Enterprises, Incubation Scheme Under MSME Innovative Scheme aims to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level. The scheme also supports engagement with enablers who will advise such MSMEs in expanding the business by supporting them in design, strategy and execution.",
+        "benefits": [
+            "Up to maximum of \u20b9 15,000,00 /- per idea shall be provided to HI for developing and nurturing the ideas.",
+            "Up to \u20b9 1,00,000,00 /- (max) shall be provided to HI for procurement and installation of relevant plant and machines including hardware and software etc. in BI for R&D activities and common facilities for incubatees of BI."
+        ],
+        "eligibility": [
+            "Institutions such as Technical Colleges, Universities, other Professional Colleges/Institutes, R&D Institutes, NGOs involved in incubation activities, MSME-DIs/ Technology Centres or any Institute/Organization of Central/State Government."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "University Affiliation",
+            "All India Council for Technical Education (AICTE) Approval",
+            "National Accreditation Board for Testing and Calibration Laboratories (NABL) or Other Accreditation",
+            "Last two years audited annual accounts with auditor\u2019s report",
+            "Any other documents as required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of Incubation Scheme?",
+                "answer": "The main objective of this Scheme is to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level."
+            },
+            {
+                "question": "Who are eligible?",
+                "answer": "Any person as individual or MSME, having the innovative ideas are eligible to avail the benefits of this scheme. The person should have innovative sort of idea which can be converted into prototype and further in business activity."
+            },
+            {
+                "question": "Is there any qualification to become Incubatee?",
+                "answer": "There is no qualification bar to become incubatee. However, MSME should have valid Udyam Registration (UM) and individual should have Aadhar card number."
+            },
+            {
+                "question": "How to take benefit of scheme?",
+                "answer": "The person (incubatee) should get attached with any Host Institute (HI) for nurturing of their idea in Business incubator (BI) being set up by HI."
+            },
+            {
+                "question": "What is 'Host Institute & Business Incubator'?",
+                "answer": "Host Institute (HI): Institute which set up Business Incubator and provides the infrastructural and technical facilities for nurturing of new innovative ideas is called Host Institutes (HI). Business Incubator (BI): A specific place/workshop located in HI having facilities for nurturing of idea of Incubatee is called Business Incubator."
+            },
+            {
+                "question": "Who can become Host Institute(HI)?",
+                "answer": "Institutions such as Technical Colleges, Universities, other Professional Colleges/Institutes, R&D Institutes, NGOs involved in incubation activities, MSME-DIs/ Technology Centres or any Institute/Organization of Central/State Government may apply for HI and set up a Business Incubator (BI)."
+            },
+            {
+                "question": "What is the role of Host Institutes?",
+                "answer": "Host Institutes will set up Business Incubator (BI) and provides the space, equipments, lab and all the auxiliary support to the incubatee for nurture of his ideas for the business activities."
+            },
+            {
+                "question": "How to become HI?",
+                "answer": "Incubatees and eligible institutes of all states/UTs can take benefit of the scheme. However, Institutes in the North East Region will be given priority for supporting BIs."
+            },
+            {
+                "question": "How the financial assistance can be taken under the scheme?",
+                "answer": "The person (incubatee) should get attached with any Host Institute (HI) for nurturing of their idea in Business incubator (BI) being set up by HI."
+            },
+            {
+                "question": "Can funds be given to Incubatee directly?",
+                "answer": "Financial support for all activities will be given to HI only and no funds can be transferred to incubatee\u2019s account."
+            },
+            {
+                "question": "Which type of assistance /support incubate can get from BI?",
+                "answer": "Incubatee can get support from BI on all issues related to technology, innovation, mentor, plant & machinery required for nurturing of idea."
+            },
+            {
+                "question": "Can incubatee take any technical support outside the BI?",
+                "answer": "If any facilities of plant & machinery which are essential for nurturing of idea and same are not available in HI/BI, then incubatee can utilize the facilities of machines available in other places. Incubatee can utilize these facilities on pay as usage basis through HI/BI only."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://my.msme.gov.in/inc/AboutIncubation.aspx"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://innovative.msme.gov.in/Documents/MSME_InnovativeFAQ.pdf"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://my.msme.gov.in/inc/Download_Documents.aspx"
+            },
+            {
+                "type": "List Of Host Institute (HI)",
+                "url": "https://my.msme.gov.in/inc/HIList.aspx"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Entrepreneurship",
+            "Financial Support",
+            "MSME"
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "content": {
+        "title": "Self Employment Scheme",
+        "state": "Karnataka",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Subsidy",
+        "beneficiary": "Religious minority communities",
+        "details": "Under this scheme, Subsidies will be provided to the religious minority communities with the help of Nationalized / Scheduled banks to start or improve a small-scale handicraft industry, service sector, and agro-based activities. People belonging to State Religious Minority Communities are covered under this scheme. (State Religious Minority Communities consist of People belonging to Muslim, Christian, Sikh, Buddhist, and Jain Communities). Subsidy will be 33% of the unit cost or a maximum of Rs. 1.00 Lakh.",
+        "benefits": [
+            "Subsidy of 33% of the unit cost or a maximum of Rs. 1.00 Lakh will be given to persons belonging to religious minority communities"
+        ],
+        "eligibility": [
+            "Applicants must belong to the State Religious Minority Community.",
+            "The applicant must be a permanent resident of the State.",
+            "The age limit of the applicant is between 18 to 55 years.",
+            "Family annual income from all sources should not be more than Rs.81,000/- in rural areas and Rs. 1,03,000 in urban areas.",
+            "No member of the applicant's family shall be an employee of the State/Central/ Government PSU.",
+            "Applicants should not have availed of a loan in KMDC earlier."
+        ],
+        "exclusions": [
+            "No member of the applicant's family should be an employee of the State/Central/ Government Public Sector Units.",
+            "Applicants should not have availed of a loan in KMDC earlier."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Online application",
+            "Beneficiary's latest 2 passport size photos",
+            "Caste and income certificate",
+            "Copy of Aadhaar card",
+            "Project report of the industry activity"
+        ],
+        "faqs": [
+            {
+                "question": "Who will get the benefits?",
+                "answer": "People belonging to State Religious Minority Community."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "Under this scheme, a subsidy of 33% of the unit cost or maximum of Rs. 1.00 Lakh will be given to persons belonging to religious minority communities."
+            },
+            {
+                "question": "Is there any provision for training under this scheme?",
+                "answer": "No"
+            },
+            {
+                "question": "What is the main focus area of this scheme?",
+                "answer": "Small-scale Handicraft Industry, Service Sector, and Agro-based activities."
+            },
+            {
+                "question": "Is this a fully subsidized scheme?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Who should apply?",
+                "answer": "Only residents of Karnataka State."
+            },
+            {
+                "question": "What is the age limit required to apply for this scheme?",
+                "answer": "The age limit should be between 18 to 55 years."
+            },
+            {
+                "question": "Is this scheme only for persons belonging to State Religious Minority Communities?",
+                "answer": "Yes"
+            },
+            {
+                "question": "What should be the annual family income of the applicant?",
+                "answer": "It should not be more than Rs.81,000/- in rural area and Rs. 1,03,000 in urban areas."
+            },
+            {
+                "question": "Who should not apply?",
+                "answer": "A person whose family member is an employee of the State/Central/ Government Public Sector Units."
+            },
+            {
+                "question": "What is the link to apply for this scheme?",
+                "answer": "The link is- https://kmdconline.karnataka.gov.in/Portal/home"
+            },
+            {
+                "question": "What are the required documents?",
+                "answer": "Online application, Beneficiary's latest 2 passport size photos, Caste and income certificate, Copy of the Aadhaar Card, Copy of the Bank Passbook, Project report of the industry activity."
+            },
+            {
+                "question": "How to get Caste Certificate?",
+                "answer": "The link to get a Caste Certificate is \u2013 https://sevasindhu.karnataka.gov.in/Category/Caste%20Certificate.html"
+            },
+            {
+                "question": "What document is to be used for Permanent Residence Proof?",
+                "answer": "You can use Aadhaar Card for this purpose."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://kmdc.karnataka.gov.in/29/self-employment-scheme/en"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://kmdconline.karnataka.gov.in/Portal/home"
+            },
+            {
+                "type": "Caste Certificate",
+                "url": "https://sevasindhu.karnataka.gov.in/Category/Caste%20Certificate.html"
+            }
+        ],
+        "tags": [
+            "Empowerment",
+            "Minorities",
+            "Self Employment"
+        ]
+    }
+}

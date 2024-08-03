@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Bhagwan Budhdh Scholarship",
+        "state": "Gujarat",
+        "department": "Department of Social Defence",
+        "type": "Scholarship",
+        "beneficiary": "Scheduled Caste Girls Students",
+        "details": "An initiative of the Gujarat government helping many girls in the state to complete higher education. Under this scheme, girls are provided financial assistance as per their respective studies. The Scheduled Caste girls who are not eligible for Post-SSC Scholarship due to having more than two children of employed parents or income of the family is more, even such girls can get scholarships from State Government for post-SSC studies. All girl residents of Gujarat can avail benefits under this scheme.",
+        "benefits": [
+            "Group A: Hosteller - 13500, Day scholar - 7000",
+            "Group B: Hosteller - 9500, Day scholar - 6500",
+            "Group C: Hosteller - 6000, Day scholar - 3000",
+            "Group D: Hosteller - 4000, Day scholar - 2500",
+            "Approved tuition fees and Approved other fees are admissible",
+            "Disability allowance for disabled students"
+        ],
+        "eligibility": [
+            "Only Scheduled Caste Girls Students are eligible.",
+            "For Diploma level courses, In Std: 10 or 12 should have 50% or more percentile in the examination.",
+            "For Graduate level courses, In Std: 12 should have 50% or more percentile in the examination.",
+            "Must fulfill all conditions of the Government of India's Post Matric Scholarship Scheme Guidelines.",
+            "Income Limit: More than 2.50 Lakh."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof: Aadhar card, Voter ID, College ID, etc.",
+            "Residence proof: PAN card, Residence certificate, etc.",
+            "Income proof.",
+            "Aadhar card.",
+            "Passport-size photograph.",
+            "Academics certificates.",
+            "Bank details e.g. Account number, IFSC, MICR code.",
+            "Other documents may be required.",
+            "Caste certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is Digital Gujarat Scholarship?",
+                "answer": "Digital Gujarat scholarship is a broad term that comprises all the scholarships offered by different departments of Government of Gujarat."
+            },
+            {
+                "question": "What is Bhagwan Budhdh Scholarship?",
+                "answer": "An initiative of the Gujarat government helping many girls in the state to complete higher education."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "Girls are provided financial assistance as per their respective studies."
+            },
+            {
+                "question": "What is the eligibility?",
+                "answer": "Only Scheduled Caste Girls Students are eligible. For Diploma level courses, In Std: 10 or 12 should have 50% or more percentile in the examination. For Graduate level courses, In Std: 12 should have 50% or more percentile in the examination. Must fulfill all conditions of the Government of India's Post Matric Scholarship Scheme Guidelines. Income Limit: More than 2.50 Lakh."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Applicants need to visit the official website https://www.digitalgujarat.gov.in. New applicants have to register his/her self first. At the time of registration, applicants have to provide their mobile number, email & set password. Update his/her profile. Applying for the scholarship."
+            },
+            {
+                "question": "List of the required documents?",
+                "answer": "Identity proof: Aadhar card, Voter ID, College ID, etc. Residence proof: PAN card, Residence certificate, etc. Income proof. Aadhar card. Passport-size photograph. Academics certificates. Bank details e.g. Account number, IFSC, MICR code. Other documents may be required. Caste certificate."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/bbs"
+            },
+            {
+                "type": "Details",
+                "url": "https://sje.gujarat.gov.in/Dscw/schemes/1519?lang=English"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Gujarat",
+            "Financial Assistance",
+            "Welfare"
+        ]
+    }
+}

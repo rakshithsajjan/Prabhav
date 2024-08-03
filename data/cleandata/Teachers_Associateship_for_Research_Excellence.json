@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "Teachers Associateship for Research Excellence",
+        "state": "Not specified",
+        "department": "Department of Science and Technology (DST)",
+        "type": "Research Fellowship",
+        "beneficiary": "Researchers holding a regular academic/research position",
+        "details": "The TARE scheme provides a research fellowship and grant for researchers to conduct collaborative research work at host institutions.",
+        "benefits": [
+            "Research fellowship of \u20b960,000/- per year",
+            "Research grant of \u20b95 lakhs per annum",
+            "Overheads for project implementation"
+        ],
+        "eligibility": [
+            "Must hold a regular academic/research position in State Universities/Colleges and private Academic Institutions",
+            "Only candidates holding Ph.D. degree in Science/Engineering or MS/MD in Medicine are eligible to apply",
+            "Researchers having any funded projects are not eligible to apply"
+        ],
+        "exclusions": [
+            "Research Associates, Ad-hoc faculties, Guest Faculty, Visiting Scientist, consultant, Project Fellows and Faculty members whose contract is renewed every year are not eligible",
+            "Applicants holding ongoing research projects or fellowships at the time of submission are not eligible"
+        ],
+        "application_process": "Applications can be submitted through eligible Central institutes with relevant R&D infrastructure.",
+        "documents_required": [
+            "Application form",
+            "Proof of regular academic/research position",
+            "Research proposal"
+        ],
+        "faqs": [
+            {
+                "question": "Can I apply for TARE scheme if I am a Co-PI in another project?",
+                "answer": "Yes, researchers being part of another project as Co-PIs can apply."
+            },
+            {
+                "question": "Is it mandatory to divide the funding between host and parent institutions?",
+                "answer": "Yes, funding must be shared 50% each to host and parent institutions."
+            },
+            {
+                "question": "Can I choose Panjab University as Host institution for TARE?",
+                "answer": "Only central institutes/national research labs and Central Universities are eligible as host institutes."
+            },
+            {
+                "question": "What is the maximum distance between parent and host institute?",
+                "answer": "Distance is not fixed; justification for selection is required."
+            },
+            {
+                "question": "Is 90 days attendance compulsory to get the fellowship money sanctioned?",
+                "answer": "Yes, a minimum attendance of 90 days is mandatory."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/tare"
+            }
+        ],
+        "tags": [
+            "Research Fellowship",
+            "DST",
+            "TARE",
+            "Academic Research",
+            "Funding"
+        ]
+    }
+}

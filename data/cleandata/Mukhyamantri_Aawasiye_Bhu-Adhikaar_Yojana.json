@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Mukhyamantri Aawasiye Bhu-Adhikaar Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Revenue Department",
+        "type": "Housing",
+        "beneficiary": "Families without their own house",
+        "details": "Each family is entitled to live a dignified life with access to essential necessities. Those who are eligible for the housing schemes initiated by either the Central or State government can truly reap the benefits once they obtain a housing plot. Once the residential plot is secured, assistance can be availed for housing loans through government schemes and banks. In light of this, the state government is launching the 'Mukhyamantri Awasiya Bhu-Adhikar Yojana,' aimed at granting eligible families residential plots on the 'populated areas' within each gram panchayat region in rural areas.",
+        "benefits": [
+            "Plot will be provided to all those families who do not have their own house."
+        ],
+        "eligibility": [
+            "The applicant family does not have a residence to live independently.",
+            "The applicant family has less than 5 acres of land.",
+            "The applicant family holds the eligibility slip for obtaining ration from the Public Distribution System (PDS) shop.",
+            "No member of the applicant family is income tax payer.",
+            "No member of the applicant family is in government service.",
+            "The name of the applicant is registered in the voter list till January 01, 2021 in the village where he wants residential plot."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card.",
+            "Address proof.",
+            "Proof of income.",
+            "Proof of age.",
+            "Identity card.",
+            "Bank account statement.",
+            "Mobile number.",
+            "Passport size photograph."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Revenue Department of Madhya Pradesh State started this scheme to provide residential plots."
+            },
+            {
+                "question": "What Are The Benefits Under The Scheme?",
+                "answer": "Plot will be provided to all those families who do not have their own house."
+            },
+            {
+                "question": "What is land holding eligibility criteria?",
+                "answer": "The applicant family has less than 5 acres of land."
+            },
+            {
+                "question": "What If Any Family Member Is a income Tax payer?",
+                "answer": "In this situation, applicant is not eligible."
+            },
+            {
+                "question": "Is this scheme only for women?",
+                "answer": "No, any person who fulfills the eligibility Criteria can get the benefits of the scheme."
+            },
+            {
+                "question": "What if any family member is in government services?",
+                "answer": "In This Situation, Applicant Is Not Eligible."
+            },
+            {
+                "question": "May Other State Person Apply For The Scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "How To Apply For The Scheme?",
+                "answer": "1. Applicants have to visit official website. 2. Click on 'Apply' under the scheme name. 3. On the new page, click on the 'Avedan'. 4. Select the 'New Application' option. 5. Now fill out the application form and provide the required details. 6. Submit."
+            },
+            {
+                "question": "What Documents Are Needed?",
+                "answer": "1. Aadhar card. 2. Address proof. 3. Proof of income. 4. Proof of age. 5. Identity card. 6. Bank account statement. 7. Mobile number. 8. Passport size photograph."
+            },
+            {
+                "question": "What Is The Official Portal To Apply?",
+                "answer": "URL : https://saara.mp.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://revenue.mp.gov.in/upload/files/094344313693.pdf"
+            },
+            {
+                "type": "Details",
+                "url": "https://saara.mp.gov.in/saaraweb/BhuSwamiAdhikar/ruralplot.html"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Land",
+            "Plots",
+            "Shelter"
+        ]
+    }
+}

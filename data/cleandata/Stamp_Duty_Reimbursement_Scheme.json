@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Stamp Duty Reimbursement Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology, Electronics and Communications",
+        "type": "Reimbursement",
+        "beneficiary": "Startups, Incubators, Accelerators",
+        "details": "The scheme 'Stamp Duty Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, in case of land/ developed area purchased/ leased by Start-ups/ incubators/ accelerators, the stamp duty for land area lease/ sale transaction for start-ups/incubators/ accelerators will not exceed \u20b9 100/-, and the excess amount paid to the authorities concerned will be reimbursed.",
+        "benefits": [
+            "In case of land/ developed area purchased/ leased by Start-ups/ incubators/ accelerators, the stamp duty for land area lease/ sale transaction for start-ups/incubators/ accelerators will not exceed \u20b9 100/-, and the excess amount paid to the authorities concerned will be reimbursed.",
+            "A start-up is eligible only once to avail the benefits of this scheme.",
+            "In the case of an incubator/accelerator, this amount shall be paid after a period of three years of successful operation. This can be relaxed in the case of a company that is in the business of making incubators.",
+            "Up to 100 start-ups can avail the benefits of this scheme per year."
+        ],
+        "eligibility": [
+            "The applicant should be a Start-up certified by the Start-up Promotion Cell (SPC) and incubators/accelerators enlisted with the Start-up Promotion Cell (SPC).",
+            "The applicant can apply for this scheme only once in their lifetime.",
+            "The bank accounts of the Directors of the company should be linked to Aadhaar.",
+            "Only expenditures incurred from one year before the notification of Goa Start-up Policy 2017, being within the validity of this policy and paid for digitally would be considered for reimbursement. In case digital payments are not possible then it shall be up to the SPC as per its due diligence to admit the expenditure.",
+            "A start-up can avail of the benefits of this scheme only once."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: Visit the Official Website of Goa Startup Mission. Step 2: Verify your Email ID and Mobile Number using OTP. You will be redirected to the Registration Page. Step 3: On the Registration/Signup Page, fill in all the mandatory fields of the registration form (Country, Name, Date of Birth, Address, PIN Code, Gender, etc.). Step 4: Create a Login Name and a strong Password (Password can have special characters like @ # $ % ^ & + =). Step 5: Carefully read the Declaration and the Terms & Conditions, and tick the checkboxes. Step 6: Fill in the Captcha Code, and click 'Register/Signup'. Step 7: Login to the website using your Login Name and Password. Fill in the Captcha Code, and click 'Login'. Step 8: Navigate to the online application form for the relevant scheme. Step 9: In the application form, fill in all the mandatory fields and upload all the mandatory documents (self-attest if required). Step 10: Submit the application and note the application reference number for application tracking. OR Step 1: Take a print of the proforma of the application form. Fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest if required). Step 2: Submit the duly filled and signed application form along with the documents to SPC via Email at spc-dit.goa@gov.in. NOTE: The applicant can apply for this scheme at any time of the financial year but only within 6 months of incurring the relevant expenditure.",
+        "documents_required": [
+            "Copy of Transaction Deed",
+            "Original Proof of Payment of Stamp Duty",
+            "Copy of MoU (Only for Incubators/Accelerators)",
+            "Start-up Certificate Number (Only for Startups)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum stamp duty for land area lease/sale transactions under the Stamp Duty Reimbursement Scheme for Goa startups?",
+                "answer": "The stamp duty for such transactions will not exceed \u20b9100, with the excess amount reimbursed."
+            },
+            {
+                "question": "Can the three-year successful operation requirement be relaxed for a company making incubators under the Stamp Duty Reimbursement Scheme?",
+                "answer": "Yes, this requirement can be relaxed for such companies."
+            },
+            {
+                "question": "How many start-ups per year can benefit from the Stamp Duty Reimbursement Scheme in Goa?",
+                "answer": "Up to 100 start-ups can avail the scheme's benefits annually."
+            },
+            {
+                "question": "Is the benefit under the scheme considered an entitlement for eligible start-ups and incubators/accelerators?",
+                "answer": "No, the benefits under this scheme are not considered entitlements under any circumstances."
+            },
+            {
+                "question": "When can the stamp duty reimbursement amount be paid in the case of an incubator/accelerator under the Stamp Duty Reimbursement Scheme?",
+                "answer": "The amount shall be paid after three years of successful operation, with possible relaxation for companies engaged in making incubators."
+            },
+            {
+                "question": "Can a start-up apply more than once for the benefits under the Stamp Duty Reimbursement Scheme?",
+                "answer": "No, a start-up is eligible only once to avail of the benefits of this scheme."
+            },
+            {
+                "question": "What is the timeline considered for reimbursable expenditures under the Stamp Duty Reimbursement Scheme?",
+                "answer": "Only expenditures paid digitally from one year before the notification of Goa Start-up Policy 2017 until the policy's validity are considered for reimbursement."
+            },
+            {
+                "question": "In case digital payments are not possible, how are expenditures considered for reimbursement under the Stamp Duty Reimbursement Scheme?",
+                "answer": "If digital payments are not possible, it is up to the SPC, following due diligence, to admit the expenditure."
+            },
+            {
+                "question": "Can other documents be attached to the application for the Stamp Duty Reimbursement Scheme?",
+                "answer": "Yes, if attaching other documents, they should be mentioned, but the listed mandatory documents are essential."
+            },
+            {
+                "question": "What role does the SPC play in the Stamp Duty Reimbursement Scheme application process?",
+                "answer": "The SPC conducts due diligence, makes decisions on eligibility, and may prohibit individuals from availing scheme benefits in case of misrepresentation or fraudulent activity."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines & Application Form",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://www.startup.goa.gov.in/ContactUs"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Entrepreneurship",
+            "Incubator",
+            "Lease",
+            "Startup"
+        ]
+    }
+}

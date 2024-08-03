@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Swami Vivekananda Merit-cum-Means Scholarship",
+        "state": "West Bengal",
+        "department": "Higher Education Department",
+        "type": "Scholarship",
+        "beneficiary": "Students",
+        "details": "Swami Vivekananda Scholarship has been operated in the state of West Bengal by the Higher Education department, for students who are not able to afford their fees. The scheme benefits students studying at under Graduate level in Science/Arts/Commerce, Engineering, Medical and Technical / Professional courses, Post Graduate level students pursuing Science/Arts/Commerce & Technical/Management. These scholarships will be sanctioned to deserving students on merit-cum-means criteria.",
+        "benefits": [
+            "UG (Art): \u20b9 1000/-",
+            "UG (Commerce): \u20b9 1000/-",
+            "UG (Science): \u20b9 1500/-",
+            "UG (Other Professional Courses, UGC Approved): \u20b9 1500/-",
+            "PG (Arts): \u20b9 2000/-",
+            "PG (Commerce): \u20b9 2000/-",
+            "PG (Science): \u20b9 2500/-",
+            "PG (Other Professional Courses, UGC Approved): \u20b9 2500/-",
+            "Non NET M.Phil./Non NET Ph.D.: \u20b9 5000/- / \u20b9 8000/- respectively",
+            "HS: \u20b9 1000/-",
+            "D.El.Ed: \u20b9 1000/-",
+            "UG (Engg.), PG (Engg.) And Other Professional Courses (AICTE Approved): \u20b9 5000/-",
+            "Polytechnic (Diploma Courses): \u20b9 1500/-",
+            "UG (Medical-Degree) And Diploma Courses: \u20b9 5000/- and \u20b9 1500/- respectively"
+        ],
+        "eligibility": [
+            "Student must be a domicile of West Bengal.",
+            "Applicant family annual income must not more than \u20b9 2,50,000/-.",
+            "High School (HS): Minimum 60% marks in the Madhyamik Pariksha exam.",
+            "Diploma Courses: Minimum 60% marks in the qualifying exam (excluding optional subjects).",
+            "Undergraduate (UG): Minimum 60% marks in aggregate in the HS exam conducted by WBCHSE/Madrasha Siksha Parishad.",
+            "Postgraduate (PG): Minimum 53% marks in the Honours subject at the graduation level.",
+            "Research Level: Full-time M.Phil. or Ph.D. research scholars registered after April 1, 2017, are eligible."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Mark sheet of Madhyamik Examination or its equivalent (Both sides).",
+            "Mark sheet of last Board/Council/University/College examination (Both sides).",
+            "Admission receipt.",
+            "Income certificate of family (Not Applicable for Kanyashree).",
+            "Domicile certificate as Aadhaar ID/Voter ID/Ration card/Certificate Issued by concerned authority.",
+            "Scanned copy of Bank Passbook (1st Page, containing A/C No. and IFSC).",
+            "Declaration by Head of the Institution regarding the cause of Year Gap."
+        ],
+        "tags": [
+            "Scholarship",
+            "Financial Assistance",
+            "Education",
+            "West Bengal"
+        ],
+        "faqs": [
+            {
+                "question": "What is the SVMCM scholarship?",
+                "answer": "Swami Vivekananda Merit-cum-Means Scholarship started by the Higher Education Department of West Bengal State for the financial assistance to the student."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Financial assistance will be provided."
+            },
+            {
+                "question": "Who will get the scheme benefits?",
+                "answer": "All eligible students will get the scheme benefits."
+            },
+            {
+                "question": "What is the education eligibility criteria for the school and Under Graduate applicants?",
+                "answer": "Applicant must secure at least 60% marks in the last qualifying examination with no year gap."
+            },
+            {
+                "question": "What is the education eligibility criteria for PG applicants?",
+                "answer": "Applicant must secure at least 53% marks in Honor's subjects at the Graduation level in General Education and Graduation level and at least 55% marks in Engineering courses with no year gap."
+            },
+            {
+                "question": "What is the procedure to get the scheme benefits?",
+                "answer": "Applicant have to register themselves on the official portal, complete their profile with personal and education details, upload required documents, and submit the application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://svmcm.wbhed.gov.in/page/about.php"
+            },
+            {
+                "type": "Manual",
+                "url": "https://svmcm.wbhed.gov.in/readwrite/SVMCM_MANUAL.pdf"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://svmcm.wbhed.gov.in/page/faq.php"
+            }
+        ]
+    }
+}

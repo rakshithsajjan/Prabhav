@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Kisan Samman Nidhi",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Income Support",
+        "beneficiary": "Farmers",
+        "details": "The scheme aims to supplement the financial needs of all landholding farmers\u2019 families by procuring various inputs to ensure proper crop health and appropriate yields, commensurate with the anticipated farm income as well as for domestic needs. Under the scheme an amount of \u20b9 6000/- per year is released by the Central Government online directly into the bank accounts of the eligible farmers under Direct Benefit Transfer mode, subject to certain exclusions.",
+        "benefits": [
+            "Financial benefit of Rs. 6000 per annum per family payable in three equal installments of Rs 2000 each, every four months."
+        ],
+        "eligibility": [
+            "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme."
+        ],
+        "exclusions": [
+            "All Institutional Land holders.",
+            "Farmer families in which one or more of its members belong to following categories",
+            "Former and present holders of constitutional posts",
+            "Former and present Ministers/ State Ministers and former/present Members of LokSabha/ RajyaSabha/ State Legislative Assemblies/ State Legislative Councils, former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats.",
+            "All serving or retired officers and employees of Central/ State Government Ministries /Offices/Departments and its field units Central or State PSEs and Attached offices /Autonomous Institutions under Government as well as regular employees of the Local Bodies (Excluding Multi Tasking Staff /Class IV/Group D employees)",
+            "All superannuated/retired pensioners whose monthly pension is Rs.10,000/-or more (Excluding Multi Tasking Staff / Class IV/Group D employees) of above category",
+            "All Persons who paid Income Tax in last assessment year",
+            "Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with Professional bodies and carrying out profession by undertaking practices."
+        ],
+        "application_process": "Online - via CSCs. The process includes prerequisites like Aadhaar Card, Landholding paper, and Savings bank account. The VLE will fill in the complete details of farmer registration and upload supporting documents.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Landholding papers",
+            "Savings Bank Account."
+        ],
+        "faqs": [
+            {
+                "question": "Whether the benefits of the scheme are admissible to only Small & Marginal Farmers' (SMF) families?",
+                "answer": "No. The Scheme for all farmer families irrespective of the size of their landholdings."
+            },
+            {
+                "question": "Will any individual or farmer family owning more than 2 hectare of cultivable land get any benefit under the scheme?",
+                "answer": "Yes. The ambit of the scheme has been extended to cover all farmer families, irrespective of the size of their land holdings."
+            },
+            {
+                "question": "What are the benefit of the scheme?",
+                "answer": "Under the PM-KISAN scheme, all landholding farmers' families shall be provided the financial benefit of Rs.6000 per annum per family payable in three equal installments of Rs.2000 each, every four months."
+            },
+            {
+                "question": "How many times the benefit will be given in a year?",
+                "answer": "All landholding farmers' families shall be provided the financial benefit of Rs.6000/- per annum per family payable in three equal installments of Rs.2000/- each, every four months."
+            },
+            {
+                "question": "Who are eligible to get benefits under the Scheme?",
+                "answer": "All landholding farmers' families, which have cultivable land holding in their names are eligible to get benefit under the scheme."
+            },
+            {
+                "question": "I am a Professional, am I eligible for PM Kisan?",
+                "answer": "No, You are not eligible for the scheme."
+            },
+            {
+                "question": "What will happen if the beneficiary gives incorrect declaration for the implementation of the Scheme?",
+                "answer": "In case of incorrect declaration, the beneficiary shall be liable for recovery of transferred financial benefit and other penal actions as per law."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines/(English/).pdf"
+            },
+            {
+                "type": "Processes Of E-KYC",
+                "url": "https://pmkisan.gov.in/Documents/Note-on-Modes-and-processes-of-ekyc-13th-Nov-English.pdf"
+            },
+            {
+                "type": "New Farmer Registration Form",
+                "url": "https://pmkisan.gov.in/registrationformnew.aspx"
+            },
+            {
+                "type": "Know Your Registration",
+                "url": "https://www.pmkisan.gov.in/KnowYour_Registration.aspx"
+            }
+        ],
+        "tags": [
+            "Agricultural Inputs",
+            "Income Support",
+            "Farmers"
+        ]
+    }
+}

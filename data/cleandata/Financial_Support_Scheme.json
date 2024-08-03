@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Financial Support Scheme",
+        "state": "Delhi",
+        "department": "Ministry of Education",
+        "type": "Financial Assistance",
+        "beneficiary": "Economically weak students",
+        "details": "Financial Support Scheme implemented by the Delhi University aims to provide equity and access to quality education to the economically weak students. This scheme also provides financial support for such students which will include fee waiver of all components of fee paid by students (except examination fee & hostel fee).",
+        "benefits": [
+            "Up to 100% fee waiver for families with income less than or equal to \u20b9 4,00,000",
+            "Up to 50% fee waiver for families with income between \u20b9 4,00,000 and \u20b9 8,00,000"
+        ],
+        "eligibility": [
+            "Should be a bonafide student.",
+            "The student should be studying in any UG/ PG Degree program at a Department/ Institution/Centre of University of Delhi.",
+            "Family income of the student\u2019s should be less than \u20b9 8,00,000/-."
+        ],
+        "exclusions": [
+            "Students with Essential Repeat papers are not eligible for the fee waiver.",
+            "Students who have availed fee waiver during admission 2023-24 (B.Tech/Five-Year Integrated Law Programs) will not be eligible for this scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of EWS/OBC-NCL Certificate or Annual Family Income Certificate issued by competent authority.",
+            "Self-attested copies of latest income Tax Returns (2022-23) of family members.",
+            "Signed copy of the Undertaking Form.",
+            "Copy of Bonafide Certificate signed by the Head/Director of the Centre/Department/ Institute.",
+            "Copy of the mark sheet of the last exam passed.",
+            "Copy of the latest Fee Receipt.",
+            "Copy of Bank Pass Book showing the student's name, Account number and IFSC code or a cancelled cheque."
+        ],
+        "faqs": [
+            {
+                "question": "I am pursuing an Undergraduate Course in a Constituent College/ School of Open Learning/ Non Collegiate Women Education Board of UoD. Am I eligible to apply?",
+                "answer": "Students studying in any Constituent College/ School of Open Learning/ Non-Collegiate Women Education Board of UoD are NOT eligible to apply for the FSS."
+            },
+            {
+                "question": "I am a First Year/ Semester student. Can I apply?",
+                "answer": "Any student who is pursuing a regular Undergraduate/ Postgraduate Degree Program at a Department/ Institution/ Centre of University of Delhi (UoD), including First Year/ Semester students can apply."
+            },
+            {
+                "question": "I am doing a Certificate/Diploma/Advanced Diploma language course. Am I eligible for FSS?",
+                "answer": "Only full-time bonafide students pursuing a regular Undergraduate/ Postgraduate Degree at a Department/ Institution/ Centre of University of Delhi / are eligible for FSS."
+            },
+            {
+                "question": "I have an Essential Repeat (ER) paper in my previous examination. Can I still apply?",
+                "answer": "Students with Essential Repeat papers in the previous examination are NOT eligible to apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dsw.du.ac.in/?page_id=2219"
+            },
+            {
+                "type": "DU Notification For FSS 2023-24",
+                "url": "https://dsw.du.ac.in/wp-content/uploads/2023/12/DU-Notification-FSS-2023-24.pdf"
+            },
+            {
+                "type": "Notice On Document Submission For FSS-2023-24",
+                "url": "https://dsw.du.ac.in/wp-content/uploads/2024/01/Notice-on-Document-Submission-for-FSS-2023-24.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://dsw.du.ac.in/wp-content/uploads/2024/01/Updated_FAQs-on-FSS-2023-24.pdf"
+            }
+        ],
+        "tags": [
+            "EWS",
+            "Fee Waiver",
+            "Financial Assistance",
+            "OBC"
+        ]
+    }
+}

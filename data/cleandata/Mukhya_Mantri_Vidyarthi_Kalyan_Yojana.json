@@ -1,0 +1,97 @@
+{
+    "content": {
+        "title": "Mukhya Mantri Vidyarthi Kalyan Yojana",
+        "state": "Himachal Pradesh",
+        "department": "Department of Education",
+        "type": "Scholarship",
+        "beneficiary": "Students from IRDP/BPL Families",
+        "details": "The scheme 'Mukhya Mantri Vidyarthi Kalyan Yojana' is a Scholarship Scheme by the Department of Education, Government of Himachal Pradesh. The objective of the scheme is to provide financial assistance to school and college students in the form of scholarships. The scheme provides scholarships of upto \u20b9 2,400 per month to the students from IRDP/BPL Families bonafide in Himachal Pradesh, and pursuing their study in Government / Government Aided Institutions in Himachal Pradesh.",
+        "benefits": [
+            "Class 9th & 10th: Boys: \u20b9 300/-, Girls: \u20b9 600/-",
+            "Class 11th & 12th: Boys: \u20b9 800/-, Girls: \u20b9 800/-",
+            "College/University (Day Scholar): Boys: \u20b9 1,200/-, Girls: \u20b9 1,200/-",
+            "College/University (Hostelers): Boys: \u20b9 2,400/-, Girls: \u20b9 2,400/-"
+        ],
+        "eligibility": [
+            "The applicant should be a bonafide of Himachal Pradesh.",
+            "The applicant should be a Student.",
+            "The applicant should belong to an Integrated Rural Development Program (IRDP) Family.",
+            "The applicant should be studying at the 9th to University Level.",
+            "The applicant should be pursuing their study in Government / Government Aided Institutions in Himachal Pradesh.",
+            "The applicant should have a Bank Account."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport Size Photo",
+            "Aadhaar Card (Unique Identification Number / Enrolment Identification Number)",
+            "Himachali Bonafide Certificate",
+            "Previous Year(s) Result Card(s)",
+            "Latest Bank Statement of the Student's Bank Account",
+            "Integrated Rural Development Programme (IRDP) / Below Poverty Line (BPL) Certificate (Issued by an Officer not below the rank of Panchayat Secretary)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Mukhya Mantri Vidyarthi Kalyan Yojana?",
+                "answer": "The Mukhya Mantri Vidyarthi Kalyan Yojana is a scholarship scheme initiated by the Department of Education, Government of Himachal Pradesh. Its primary aim is to offer financial assistance to school and college students through scholarships."
+            },
+            {
+                "question": "Who is eligible for this scholarship scheme?",
+                "answer": "To be eligible, the applicant must be a bonafide resident of Himachal Pradesh, a student belonging to an Integrated Rural Development Program (IRDP) family, and studying at the 9th to University Level in Government or Government Aided Institutions in Himachal Pradesh."
+            },
+            {
+                "question": "What are the rates of scholarship under this scheme?",
+                "answer": "The rates vary based on the academic level. For Class 9th & 10th, boys receive \u20b9300, and girls receive \u20b9600. For Class 11th & 12th, both boys and girls receive \u20b9800. College/University day scholars receive \u20b91,200, while hostelers receive \u20b92,400."
+            },
+            {
+                "question": "How can one apply for the Mukhya Mantri Vidyarthi Kalyan Yojana?",
+                "answer": "Applicants can apply by submitting necessary documents, including a passport-size photo, Aadhaar card, Himachali bonafide certificate, previous year(s) result card(s), the latest bank statement, and an IRDP/BPL certificate issued by an officer, not below the rank of Panchayat Secretary."
+            },
+            {
+                "question": "Is having a bank account mandatory for applicants?",
+                "answer": "Yes, applicants must have a bank account to be eligible for the Mukhya Mantri Vidyarthi Kalyan Yojana."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The scheme's primary objective is to provide financial assistance to students from IRDP/BPL families in Himachal Pradesh pursuing their education in Government or Government Aided Institutions."
+            },
+            {
+                "question": "Are there different scholarship amounts for boys and girls?",
+                "answer": "Yes, the scholarship amounts vary based on gender and academic level. Class 9th & 10th, Class 11th & 12th, and College/University levels have different scholarship rates for boys and girls."
+            },
+            {
+                "question": "Can applicants from outside Himachal Pradesh apply for the scholarship?",
+                "answer": "No, only bonafide residents of Himachal Pradesh are eligible to apply for the Mukhya Mantri Vidyarthi Kalyan Yojana."
+            },
+            {
+                "question": "What type of institutions are covered under this scheme?",
+                "answer": "The scheme covers students pursuing their studies in Government or Government Aided Institutions in Himachal Pradesh."
+            },
+            {
+                "question": "How frequently are the scholarships disbursed?",
+                "answer": "Scholarships are disbursed monthly, and the amounts vary depending on the academic level and gender of the student. For hostelers, the disbursement is \u20b92,400 per month."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/IRDP_2324.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://scholarships.gov.in/public/FAQ/HP_Queries.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://hpepass.cgg.gov.in/NewHomePage.do?actionParameter=stateSchemes"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Financial Assistance",
+            "Scholarship",
+            "Skill Development",
+            "Student"
+        ]
+    }
+}

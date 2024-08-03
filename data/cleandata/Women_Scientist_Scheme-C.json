@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Women Scientist Scheme-C",
+        "state": "National",
+        "department": "Ministry Of Science And Technology",
+        "type": "Training Scheme",
+        "beneficiary": "Women Scientists",
+        "details": "A scheme by MoST for female candidates with a break in their career interested in addressing societal challenges through viable S&T interventions. 1-year training is provided in Intellectual Property Rights (IPRs), patent search, know-how, drafting, filing, trademarks, trade secrets, and copyright, in association with various Knowledge Partners (i.e. Law firms, Knowledge Processing Organizations (KPOs), Companies, Government agencies, and so on). The scheme is being implemented by the Patent Facilitating Centre of Technology Information Forecasting & Assessment Council (TIFAC). Minimum essential qualifications are Master of Science; Bachelors in Engineering/Technology or equivalent. Proficiency in handling computerized databases, collection, collation, analysis, and report preparation is desirable.",
+        "benefits": [
+            "\u20b9 35,000/- per month for Ph.D. in Basic or Applied Sciences/MD or equivalent degree.",
+            "\u20b9 30,000/- per month for M.Phil / M.Tech / M.Pharm / M.VSc or equivalent degree.",
+            "\u20b9 25,000/- per month for M.Sc in Basic or Applied Sciences / MBBS / B.Tech or equivalent degree."
+        ],
+        "eligibility": [
+            "The applicant must be a female.",
+            "The applicant must have a break in her career.",
+            "The age of the applicant must be between 27 and 45 years.",
+            "Minimum Educational Qualification must be either Master of Science or Bachelors in Engineering / Technology or equivalent."
+        ],
+        "exclusions": [
+            "Women in permanent position are not eligible to apply."
+        ],
+        "application_process": "Candidates should keep the required documents ready before filling the form online. Step 1: Register yourself and create Login/Password at: http://115.112.95.114/wosc/online/Control.do?_mXpa=100&54003&$sa. Note this data carefully as this will be required for future reference. Step 2: Follow the flow provided at the left pane to fill the details and complete the application: Login > Basic Details > Qualification > Employment > Publication > Photo / Signature > Final View / Submit. Select only one Coordination Centre, as the centre will be responsible for arranging hands-on-training. Select Examination Centre in order of your preference.",
+        "documents_required": [
+            "Photo",
+            "Sign",
+            "Proof of Date of Birth (Secondary School Leaving Certificate)",
+            "Papers Published",
+            "Details of papers published/accepted and Patents granted/applied, if any.",
+            "Details of any scholarships received from time to time.",
+            "Details of period of employment/unemployment."
+        ],
+        "faqs": [
+            {
+                "question": "How many slots are there in this scheme?",
+                "answer": "As of 2020-21, there are 120 slots in WOS-C scheme."
+            },
+            {
+                "question": "Is there a subject wise distribution of seats?",
+                "answer": "Yes, the (tentative) subject-wise Number of Seats is provided: Chemistry & Chemical Sciences - 20, Drugs, Food & Pharma - 14, Life Sciences & Biotechnology - 15, Mechanical, Production, Industrial Engineering, Civil Engg, Structural Engg, Construction Engg, Transportation Engg, Materials Science Engg. - 10, Electrical, Electronics & Communication, Instrumentation & Biomedical Engineering - 28, Computers & Information & Communication Technology - 18, Other Areas (Only Science Related Subjects) \u2013 15."
+            },
+            {
+                "question": "What would be the mode of payment of the scholarship?",
+                "answer": "The payment of the scholarship will be through DBT."
+            },
+            {
+                "question": "I have been residing in India since childhood but I do not hold a citizenship of India. Will it affect my application?",
+                "answer": "You need to be an Indian citizen in order to apply for this scheme."
+            },
+            {
+                "question": "I Am 24 Years In Age. Can I Apply For The Scheme?",
+                "answer": "Women scientists, less than 27 years of age are not eligible."
+            },
+            {
+                "question": "I Have Undergone Partial Training In 2016 Batch But I Need To Apply Again. Can I Do So?",
+                "answer": "Those who have already undergone training (partially or fully) in any of the earlier batches or those who are undergoing training in the ongoing batch are not eligible to apply."
+            },
+            {
+                "question": "Is there a minimum qualification in order to be eligible for this scheme?",
+                "answer": "Yes, the minimum essential qualification for applying to WOS-C is: Master of Science; Bachelors in Engineering / Technology or equivalent."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/wos-c"
+            }
+        ],
+        "tags": [
+            "Women",
+            "Science",
+            "Technology",
+            "Training",
+            "Scholarship"
+        ]
+    }
+}

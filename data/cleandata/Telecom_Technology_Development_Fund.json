@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Telecom Technology Development Fund",
+        "state": "India",
+        "department": "Ministry Of Communication",
+        "type": "Grant",
+        "beneficiary": "Domestic Companies, Startups, MSMEs, Academic Institutions",
+        "details": "Telecommunication technology products require significantly large funding and long gestation periods for R&D and commercialization including the additional efforts and resources for the products to move from prototype to commercial grade. The scheme aims to bridge the digital divide by developing and manufacturing state-of-the-art technologies for rural and remote areas.",
+        "benefits": [
+            "Technology Ownership and indigenous Manufacturing (Atmanirbhar Bharat)",
+            "Proliferation of next-generation Telecom technologies in Rural and Remote areas",
+            "Creating a culture of Technology co-creation and co-innovation",
+            "Promote the ecosystem for research, design, prototyping, development, proof of concept testing, IPR creation, field testing, security, certification, and manufacturing of telecom products",
+            "Promote rural-specific communication technology application/use case development",
+            "Create synergies among the Academia, Research Institutes, Start-ups, and Industry",
+            "Bridge the gap between R&D and commercialization of products and solutions",
+            "Enable proliferation of affordable broadband and mobile services",
+            "Enable technology demonstration, product integration, pilots, and field trials",
+            "Commercialize developed technologies under the scheme"
+        ],
+        "eligibility": [
+            "Domestic Company(ies) with focus on telecom R&D",
+            "Startups / MSMEs",
+            "Academic institutions",
+            "R&D institutions, Section 8 companies / Societies, Central & State government entities / PSUs / Autonomous Bodies / SPVs / Limited liability partnerships",
+            "Collaborative consortium of the above entities",
+            "For Pilots: The above entities may partner with PSUs, TSPs, Central/State Government entities"
+        ],
+        "exclusions": [
+            "When an Indian Company receives a grant under the scheme, it is envisaged to retain its status as a \u2018Domestic Company\u2019 for a minimum period of two (2) years after completion of the project.",
+            "If a foreign investor wishes to acquire a majority stake within the above two-year period, the company can do so by paying twice the grant principal amount received."
+        ],
+        "application_process": "Online submission of Proposal followed by screening, review, and final approval from Competent Authority.",
+        "documents_required": [
+            "Applicant and collaborator Resume",
+            "Registration certificate of the organization/Institute",
+            "Approval Certificate from your organisation/Institute",
+            "Annual report of last 3 years",
+            "TAN/ PAN/ CIN of primary applicant/organization",
+            "Applicant team resume",
+            "GANTT/ PERT chart",
+            "Detailed Technical Architecture diagram",
+            "Presentation of proposal",
+            "Declaration document"
+        ],
+        "faqs": [
+            {
+                "question": "In the application form there is a section for lead investors. Does it stand for founder/ head of the organisation?",
+                "answer": "In the application, the applicant should mention the details of Investors. In the case of a consortium, the primary applicant should be mentioned."
+            },
+            {
+                "question": "Is renting of workspaces an eligible activity for funding?",
+                "answer": "The land building etc. shall not be a part of eligible expenditure for the funding."
+            },
+            {
+                "question": "Is there any preference for proposal from applicant type like startup, MSME, Government Institute, PSU, Academia or other registered organisation?",
+                "answer": "No."
+            },
+            {
+                "question": "Is it allowed to have any executive summary document or any additional supporting document along with the application form?",
+                "answer": "Yes, there is an option to add additional document."
+            },
+            {
+                "question": "Is any domestic telecom R&D company eligible or only MSME and start-up?",
+                "answer": "Please refer to clause-6 of TTDF guidelines available on USOF website."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://usof.gov.in/web_assets/img/ttdf_guidelines.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://usof.gov.in/en/home"
+            }
+        ],
+        "tags": [
+            "Telecom",
+            "Technology Development",
+            "R&D",
+            "Grants",
+            "Digital India"
+        ]
+    }
+}

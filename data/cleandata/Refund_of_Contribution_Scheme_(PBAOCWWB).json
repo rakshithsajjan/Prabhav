@@ -1,0 +1,121 @@
+{
+    "content": {
+        "title": "Refund of Contribution Scheme (PBAOCWWB)",
+        "state": "Puducherry",
+        "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
+        "type": "DBT",
+        "beneficiary": "Nominee of the deceased Construction Worker",
+        "details": "The 'Refund of Contribution' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. As per Sub-Rule (1) of Rule 287 of the 'Puducherry Building and Other Construction Workers Rules 2001', the Board repays the amount of contribution paid by the deceased beneficiary to the nominee of the deceased member. The amount is credited within 7 days through Direct Benefit Transfer (DBT) into the bank account of the nominee.",
+        "benefits": [
+            "Repayment of the amount of contribution paid by the deceased beneficiary to the nominee of the deceased member.",
+            "The amount is credited within 7 days through Direct Benefit Transfer (DBT) into the bank account of the nominee."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be the nominee/dependent of the deceased Construction Worker.",
+            "The Construction Worker should have been a citizen of India.",
+            "The deceased, in his/her lifetime, should have been registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+            "The deceased, in his/her lifetime, should have completed the age of 18 years.",
+            "The deceased, in his/her lifetime, should not have completed the age of 60 years during the preceding 12 months in the construction work.",
+            "The deceased, in his/her lifetime, should have contributed regularly to the fund.",
+            "The deceased, in his/her lifetime, should not have defaulted in payment of contribution to the Board for a continuous period of more than one year."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The nominee of the deceased should visit the Office of the Puducherry Building and Other Construction Workers Welfare Board and obtain the prescribed format of the application form free of cost or take print of the prescribed format from the Citizen's Charter.",
+        "documents_required": [
+            "Duly Filled and Signed Application Form.",
+            "Birth Certificate/Transfer Certificate/Doctor Certificate for Age Verification.",
+            "Experience Certificate to Be Obtained From a Registered Engineer/contractor/association/trade Union, Serving as Evidence of Being a Construction Worker.",
+            "Details Related to Construction Work/worksite.",
+            "Proof of Blood Group (Medical Health Card or Laboratory Certificate).",
+            "Two Passport-size Photographs.",
+            "Ration Card.",
+            "Aadhaar Card.",
+            "Bank Details.",
+            "Family Particulars/status and Nomination Details of the Beneficiaries.",
+            "Certificate From the Revenue Department or Social Welfare Department or Anganwadi Officials of the Respective Area.",
+            "Original Last Subscription Bill.",
+            "Original Board ID Card.",
+            "Burial Permission Letter.",
+            "Death Certificate.",
+            "Nominee's Aadhaar.",
+            "Bank Pass Book.",
+            "Proof of Relationship of the Nominee for the Deceased Beneficiary."
+        ],
+        "faqs": [
+            {
+                "question": "Is there an age limit for eligibility under this scheme?",
+                "answer": "Yes, the deceased Construction Worker should have been between 18 and 60 years old during the preceding 12 months in the construction work."
+            },
+            {
+                "question": "Can the nominee be someone other than a family member?",
+                "answer": "No, the nominee has to be a family member or dependent of the deceased Construction Worker."
+            },
+            {
+                "question": "What is the primary benefit offered under the 'Refund of Contribution' scheme?",
+                "answer": "The scheme provides repayment of the amount of contribution paid by the deceased beneficiary to the nominee of the deceased member."
+            },
+            {
+                "question": "How long does it take to receive the benefit after application?",
+                "answer": "The amount is credited within 7 days through Direct Benefit Transfer (DBT) into the bank account of the nominee."
+            },
+            {
+                "question": "Are there any restrictions on how the benefit amount can be used?",
+                "answer": "The scheme does not specify restrictions on the use of the benefit amount, providing flexibility to the nominee in utilizing the funds for their needs."
+            },
+            {
+                "question": "Where can the application form be obtained?",
+                "answer": "The nominee can visit the Office of the Puducherry Building and Other Construction Workers Welfare Board or download the prescribed format from the Citizen's Charter."
+            },
+            {
+                "question": "Is there any cost associated with obtaining the application form?",
+                "answer": "No, the application form can be obtained free of cost from the concerned authority."
+            },
+            {
+                "question": "What is the time frame for submitting the application after the worker's demise?",
+                "answer": "The application should be submitted within two months from the date of death of the Construction Worker."
+            },
+            {
+                "question": "Can the application be submitted online?",
+                "answer": "As per the provided information, the application process involves physically submitting the form and documents to the concerned authority."
+            },
+            {
+                "question": "What support does the scheme offer if the nominee faces issues during the fund transfer process?",
+                "answer": "The Grievance Redressal mechanism can be utilized to address any concerns or issues during the benefit transfer."
+            },
+            {
+                "question": "Are there any relaxations in the eligibility criteria for workers with disabilities?",
+                "answer": "The provided information does not specify any relaxations for workers with disabilities."
+            },
+            {
+                "question": "Can the nominee choose the mode of benefit transfer, such as cheque or electronic transfer?",
+                "answer": "The benefit is credited through Direct Benefit Transfer (DBT) into the nominee's bank account."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Registration Process & Documents Required",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            }
+        ],
+        "tags": [
+            "Construction",
+            "DBT",
+            "Death",
+            "Refund",
+            "Worker"
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "Mukhyamantri Vishesh Yogyajan Sammaan Pension Yojana",
+        "state": "Rajasthan",
+        "department": "Department of Social Justice and Empowerment",
+        "type": "Pension",
+        "beneficiary": "Persons with disabilities (PwDs)",
+        "details": "The Mukhyamantri Vishesh Yogyajan Samman Pension Yojana (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities. Launched in 2013 under the auspices of the Department of Social Justice and Empowerment, this visionary scheme aims to extend crucial financial assistance to persons with disabilities (PwDs) across the state. It operates as a lifeline for individuals grappling with various disabilities, ensuring their financial security and enabling them to lead dignified lives. By providing a pension to eligible beneficiaries, MVSYS not only addresses the economic challenges faced by PwDs but also emphasizes inclusivity and equal opportunities. Through its implementation, the scheme not just disperses funds but fosters a culture of empathy and support, reaffirming the government's commitment to uplifting marginalized communities. In essence, MVSYS embodies the principles of social justice and empowerment, serving as a beacon of hope and resilience for individuals with disabilities in Rajasthan.",
+        "benefits": [
+            "\u20b91,000/- per Month for beneficiaries aged 75 years or less",
+            "\u20b91,250/- per Month for beneficiaries aged 75 years or more",
+            "\u20b92,500/- per Month for leprosy free patients",
+            "\u20b91,500/- per Month for silicosis disease patients"
+        ],
+        "eligibility": [
+            "Beneficiary must be permanent resident of Rajasthan State.",
+            "The beneficiary must have any one of the following disabilities: 40% or more disability (blindness, shortsightedness, locomotor disability, leprosy free, hearing loss, mental retardation, mental illness, dwarfism, eunuch), Dwarfism with height less than 3 feet 6 inches, Suffering from Eunuchism, Cured leprosy or Silicosis disease.",
+            "Annual family income must not exceed \u20b960,000/-"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card Copy",
+            "Jan Aadhar/Bhamashah Card Copy",
+            "Birth Certificate",
+            "Income Certificate",
+            "Disability Certificate",
+            "Medical Certificate",
+            "Bank Account Details"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme about?",
+                "answer": "The 'Mukhyamantri Vishesh Yogyajan Samman Pension Yojana' (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities."
+            },
+            {
+                "question": "Is there any Disability Percentage?",
+                "answer": "Applicant should be Disabled and Disability Percentage should be more than 40%."
+            },
+            {
+                "question": "Will the benefit of this scheme be provided to all the citizens of the state?",
+                "answer": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state."
+            },
+            {
+                "question": "Is there an income Criteria in this scheme?",
+                "answer": "The Annual Income of Beneficiary Family should not be more than \u20b960,000/-."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "Fees for Chief Minister Specially Abled Samman Pension Scheme is \u20b933/-. Payment of fees can be done through E-Mitra."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries."
+            },
+            {
+                "question": "What is Bhamashah Card?",
+                "answer": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+            },
+            {
+                "question": "Can applicants from outside Rajasthan apply for the scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "What is IFSC code?",
+                "answer": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India."
+            },
+            {
+                "question": "Is there a Payment Frequency?",
+                "answer": "Pension will be provided on monthly basis."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/113"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Financial",
+            "Old Age",
+            "Pension"
+        ]
+    }
+}

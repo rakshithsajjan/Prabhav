@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Kaushal Vikas Yojana - Recognition Of Prior Learning",
+        "state": "India",
+        "department": "Ministry of Skill Development and Entrepreneurship",
+        "type": "Skill Development",
+        "beneficiary": "Candidates of Indian nationality aged 18-45 years",
+        "details": "The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) aims to enhance the employability of youth by providing skill training and certification through various modes of Recognition of Prior Learning (RPL).",
+        "benefits": [
+            "Skill certification for prior experience",
+            "Access to various training modes",
+            "Support for candidates through financial assistance"
+        ],
+        "eligibility": [
+            "Candidates must be of Indian nationality",
+            "Age between 18-45 years",
+            "Prior experience in the job role for which they seek certification",
+            "Possession of an Aadhaar card and Aadhaar-linked bank account",
+            "Fulfillment of other criteria as defined by the Sector Skill Councils (SSCs)"
+        ],
+        "exclusions": [],
+        "application_process": "Candidates or Project Implementing Agencies (PIAs) must register on the online RFP portal for application.",
+        "documents_required": [
+            "Aadhaar card",
+            "Aadhaar-linked bank account details",
+            "Proof of prior experience"
+        ],
+        "faqs": [
+            {
+                "question": "How can I apply for RPL program as a Project Implementing Agency (PIA)?",
+                "answer": "PIAs need to register on the online RFP portal and submit applications for approval."
+            },
+            {
+                "question": "What is the fee for registration for candidates under RPL Type 5?",
+                "answer": "There is no fee for registration, assessment, and certification under RPL Type 5."
+            },
+            {
+                "question": "How is the total project cost calculated?",
+                "answer": "The total project cost includes pay-outs to PIAs, SSCs, Kaushal Bima, and candidates."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.msde.gov.in/sites/default/files/2021-01/PMKVY%20Guideline%20report_(06-01-2021)_V5.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pmkvy-rpl"
+            }
+        ],
+        "tags": [
+            "Skill Development",
+            "RPL",
+            "PMKVY",
+            "Government Scheme"
+        ]
+    }
+}

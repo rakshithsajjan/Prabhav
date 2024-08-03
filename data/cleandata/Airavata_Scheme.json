@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Airavata Scheme",
+        "state": "Karnataka",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Subsidy",
+        "beneficiary": "Unemployed youth",
+        "details": "This scheme envisages partnership with corporate aggregators like OLA and UBER to facilitate self-employment of rural youth through Radio Taxi and other successful cab transport ventures. Rural youth from SC/ST communities will be provided training, mentoring and other financial assistance to ensure secure and enhanced livelihoods. A subsidy of Rs. 5,00,000 will be offered to beneficiary to purchase a light motor vehicle through which not only will the beneficiary generate revenue but also it reduces the burden of EMI on the beneficiary.",
+        "benefits": [
+            "The beneficiaries will get up to rupees 5 lakh subsidy and financial help from the government side.",
+            "The Karnataka government will cover around 1000 SC/ST Taxi drivers.",
+            "This will help people to become self-dependent and provide the opportunity of employment.",
+            "Due to covid-19 who have lost their jobs can now become an entrepreneur.",
+            "The government will invest around 225 crore rupees in this Yojana.",
+            "The beneficiaries will get a 50% subsidy on the scheme."
+        ],
+        "eligibility": [
+            "The applicant should belong to the Scheduled caste community.",
+            "The applicant should be a resident of Karnataka.",
+            "The applicant should be above 21 years of age.",
+            "The applicant must hold a valid driving license and a cab badge.",
+            "The applicant\u2019s family annual income should not exceed Rs. 5,00,000/-.",
+            "Applicant will be considered ineligible if they/their family member has earlier availed a subsidy from the Corporation/Government of Karnataka exceeding Rs.1,00,000.",
+            "The selection of applicants will be based on merit."
+        ],
+        "exclusions": [
+            "The applicant is expected to drive on Ola or Uber platforms in cities where they operate.",
+            "The beneficiary is expected to undergo training by Ola or Uber before being onboarded."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card",
+            "Bonafide certificate",
+            "PAN card",
+            "Rashan card",
+            "Passport size photograph",
+            "Driving License",
+            "Category certificate",
+            "Age proof certificate",
+            "Valid mobile number"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Karnataka Airavata scheme for?",
+                "answer": "This scheme has been started for the ST/ SC category of the state. This government will provide them with opportunities for self-improvement."
+            },
+            {
+                "question": "What is the implementation plot of the Airavata Scheme?",
+                "answer": "In this scheme, the government helps you to buy a vehicle, and you can collaborate with companies like UBER, OLA, and MERU etc."
+            },
+            {
+                "question": "Which type of help the government provides in the Airavata Scheme?",
+                "answer": "Karnataka Government provides you subsidy up to 500000 rupees in this scheme."
+            },
+            {
+                "question": "What is the budget released for the Airavata Scheme?",
+                "answer": "Karnataka Government is going to invest rupees 225 Crore in this scheme."
+            },
+            {
+                "question": "Who should apply?",
+                "answer": "The applicants must be a resident of the Karnataka state."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://adcl.karnataka.gov.in/en/airavatha_scheme.html"
+            },
+            {
+                "type": "Application Form",
+                "url": "http://adcl.karnataka.gov.in/pdf/Schemes/Airavatha_Scheme/airavatha_en.pdf"
+            }
+        ],
+        "tags": [
+            "Self-employment",
+            "Rural Development",
+            "SC/ST Welfare",
+            "Transport",
+            "Subsidy"
+        ]
+    }
+}

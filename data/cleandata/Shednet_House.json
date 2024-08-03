@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Shednet House",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Shednet House scheme under the Agriculture Department Rajasthan Government provided subsidies to farmers so they could earn more income by cultivating horticultural crops like vegetables, flowers, fruits, etc. by controlling the agro-climatic factors, temperature, humidity, and sunlight. A shednet house or other woven material is a structure that has openings for the necessary sunlight, moisture, and air to enter from the open spaces. It creates a suitable microenvironment conducive to the growth of the plant. It is also called shednet house or net house.",
+        "benefits": [
+            "50 percent subsidy is given to general-category farmers for a maximum area of 4000 square meters.",
+            "70 percent subsidy is given to small, marginal, scheduled caste, and scheduled tribe farmers.",
+            "25 percent additional grant is being given to all the small and marginal category farmers of the state along with the farmers of the Scheduled Tribe areas."
+        ],
+        "eligibility": [
+            "The applicant should be a farmer.",
+            "The applicant should be a native of Rajasthan.",
+            "The applicant must have agricultural land ownership and irrigation sources."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card",
+            "Copy of Jamabandi (not more than six months old)",
+            "Soil and water test report",
+            "Quotation from approved firm and proof of irrigation source.",
+            "Certificate related to grant to small, marginal, scheduled caste, and scheduled tribe farmers"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective is to provide subsidies and earn more income by cultivating horticultural crops like vegetables, flowers or fruits, etc. by controlling the agro-climatic factors, temperature, humidity, and sunlight."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers can get the benefits of this scheme."
+            },
+            {
+                "question": "What Is The Financial Eligibility For Applicant?",
+                "answer": "There are no financial eligibility criteria."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, only Rajasthan people can apply for this scheme."
+            },
+            {
+                "question": "What is the limit of fencing per farmer?",
+                "answer": "Maximum area 4000 square meters."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer is a system of transferring money from the government to the beneficiary's bank account."
+            },
+            {
+                "question": "How much subsidy is given to Scheduled Tribe farmers?",
+                "answer": "25 percent additional grant is payable to all the small and marginal category farmers of the state along with the farmers of Scheduled Tribe areas."
+            },
+            {
+                "question": "How can applicant apply online?",
+                "answer": "One can apply by visiting the e-Mitra center."
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Yes, Urban and Rural area people can apply for the scheme."
+            },
+            {
+                "question": "Is The Education Qualification For The Scheme?",
+                "answer": "No, there is no education qualification required for the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Farming",
+            "Shednet House"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "KCR Nutrition Kit",
+        "state": "Telangana",
+        "department": "Department of Women Development and Child Welfare, Government of Telangana",
+        "type": "Welfare Initiative",
+        "beneficiary": "Pregnant Women",
+        "details": "The KCR Nutrition Kit Scheme is aimed at reducing Anemia and improving hemoglobin levels in pregnant women. Each kit contains a kg of Nutritional Mix Powder, a kg of Dates (Khajoor), three bottles of Iron Syrup, 500 grams of Ghee, and a Cup. The kits were distributed to pregnant women in nine districts of Telangana where the prevalence of anemia was high. The programme was launched by Health Minister T Harish Rao at Kamareddy on 21st December 2022.",
+        "benefits": [
+            "To provide quality nutrition throughout pregnancy and post-delivery.",
+            "To reduce Anaemia and improve hemoglobin levels in pregnant women.",
+            "To reduce Maternal Mortality Rate and Infant Mortality Rate.",
+            "Improved Nutritional Status.",
+            "Reduced Malnutrition.",
+            "Improved Health.",
+            "Increased Awareness.",
+            "Empowerment of Women."
+        ],
+        "eligibility": [
+            "Pregnant women are eligible to receive the nutrition kit under the scheme.",
+            "Minimum age of 18.",
+            "Gender: Female.",
+            "Resident of Telangana.",
+            "Families with a monthly income of less than Rs. 10,000."
+        ],
+        "exclusions": [
+            "If beneficiaries have more than two live children.",
+            "If the beneficiary has taken treatment from non-government hospitals (e.g., private hospitals).",
+            "If the beneficiary\u2019s Aadhaar card does not belong to the Telangana state.",
+            "Non-residents of Telangana.",
+            "Families with higher income."
+        ],
+        "application_process": "Offline. Identification may be done by Anganwadi Workers.",
+        "documents_required": [
+            "Aadhaar Card"
+        ],
+        "faqs": [
+            {
+                "question": "What is the KCR Nutrition Kit Scheme?",
+                "answer": "The KCR Nutrition Kit Scheme is a welfare initiative launched by the Government of Telangana in India to provide nutritional support to pregnant women, who belong to economically weaker sections of society."
+            },
+            {
+                "question": "What does the nutrition kit contain?",
+                "answer": "Each kit contains a kg of Nutritional Mix Powder, a kg of Dates (Khajoor), three bottles of Iron Syrup, 500 grams of Ghee, and a Cup."
+            },
+            {
+                "question": "Who is eligible to receive the nutrition kit?",
+                "answer": "Pregnant women, who belong to economically weaker sections of society and are residents of Telangana are eligible to receive the nutrition kit."
+            },
+            {
+                "question": "How often is the nutrition kit distributed?",
+                "answer": "The nutrition kit is distributed on a monthly basis to the eligible beneficiaries."
+            },
+            {
+                "question": "Is there any cost associated with the scheme?",
+                "answer": "No, the scheme is free of cost for eligible beneficiaries."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/kcr-nutrition-kit"
+            },
+            {
+                "type": "Kcr-nutrition-kit",
+                "url": "https://cm.telangana.gov.in/2022/12/kcr-nutrition-kit/"
+            },
+            {
+                "type": "Commissionerate Of Women Development & Child Welfare.",
+                "url": "https://wdcw.tg.nic.in/"
+            }
+        ],
+        "tags": [
+            "Nutrition",
+            "Pregnancy",
+            "Welfare",
+            "Telangana"
+        ]
+    }
+}

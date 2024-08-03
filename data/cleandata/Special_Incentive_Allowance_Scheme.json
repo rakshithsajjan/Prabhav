@@ -1,0 +1,112 @@
+{
+    "content": {
+        "title": "Special Incentive Allowance Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology",
+        "type": "Allowance",
+        "beneficiary": "New and Existing Units",
+        "details": "Launched in 2018, the 'Special Incentive Allowance Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. New and Existing Units would be provided with the allowance once at the end of every three year period. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
+        "benefits": [
+            "Smaller Business Units: \u20b9 50,00,000",
+            "Other Business Units: \u20b9 1,00,00,000",
+            "Mega Business Units: \u20b9 2,00,00,000"
+        ],
+        "eligibility": [
+            "The applicant should be a New/Existing Unit.",
+            "The applicant should have their operations in Goa.",
+            "The applicant should be one of the following: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, Limited Liability Partnership.",
+            "The bank accounts of the unit and/or its partner(s)/director(s) should be linked to Aadhaar.",
+            "The number of employees would be calculated based on the number of employees on the rolls (for more than 12 months) during the year.",
+            "In case of expansion, new employees should be on the rolls for at least one year prior to the date of application.",
+            "The minimum criteria to be met by the units to avail this special incentive allowance is as follows: Annual Growth >= 20% pa for a period of 3 years, Employee Head Count (Goans or Goan Graduates) >= 75% of the total employees, Female Employees >= 60%, Employee Certification 100% of the Goans, Quality Certification by the company at least one during the Policy period."
+        ],
+        "exclusions": [
+            "The units availing similar financial incentives under any other policy of the Government of Goa are not eligible for availing benefits under this scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Incorporation Certificate.",
+            "Copy of new unit registration document/certificate.",
+            "Copies of PAN, Aadhaar, and GST TIN.",
+            "Memorandum and Articles of Association.",
+            "Copy of the first bill generated showing the date of commencement of operations or other relevant document.",
+            "Details of employees, including the percentage of employees of Goan origin and the number of female employees.",
+            "Income Tax Returns of the Unit for all years covered in the period claimed in this application showing net income and annual growth rate.",
+            "Certified copy from the auditor verifying the reported income for the period claimed in this application.",
+            "Copies of employee certifications clearly showing the name of the employee, name of the issuing authority, type of certification, date obtained, and validity period if any.",
+            "Copies of quality certification(s) completed by the unit clearly showing the name of the unit, name of the issuing authority, name/level of certification, date obtained, and validity period if any.",
+            "Udyog Aadhaar."
+        ],
+        "faqs": [
+            {
+                "question": "How is the number of employees calculated for the eligibility assessment, and what is the time frame considered?",
+                "answer": "The number of employees is based on those on the rolls for more than 12 months during the year. In case of expansion, new employees should be on the rolls for at least one year before the application date."
+            },
+            {
+                "question": "What is the minimum annual growth criterion for units to avail the special incentive allowance, and for what duration?",
+                "answer": "Units need to demonstrate an annual growth of at least 20% for a period of three years to qualify for the special incentive allowance."
+            },
+            {
+                "question": "What percentage of total employees must be Goans or Goan Graduates to meet the eligibility criteria?",
+                "answer": "To meet the eligibility criteria, units should have at least 75% of the total employees as Goans or Goan Graduates."
+            },
+            {
+                "question": "What is the minimum percentage of female employees required for units to qualify for the incentive allowance?",
+                "answer": "Units need to have a minimum of 60% female employees to meet the eligibility criteria for the incentive allowance."
+            },
+            {
+                "question": "How often will units be evaluated to verify their eligibility for continuing to receive the subsidy under this scheme?",
+                "answer": "Units will be subject to evaluation at the end of each Fiscal Year to verify their eligibility for continuing to receive the subsidy under this scheme."
+            },
+            {
+                "question": "What is the special incentive allowance provided to Smaller Business Units at the end of every three-year period?",
+                "answer": "Smaller Business Units receive \u20b950,00,000 as a special incentive allowance at the end of every three-year period."
+            },
+            {
+                "question": "What is the special incentive allowance for Other Business Units at the end of every three-year period?",
+                "answer": "Other Business Units receive \u20b91,00,00,000 as a special incentive allowance at the end of every three-year period."
+            },
+            {
+                "question": "What is the special incentive allowance for Mega Business Units at the end of every three-year period?",
+                "answer": "Mega Business Units receive \u20b92,00,00,000 as a special incentive allowance at the end of every three-year period."
+            },
+            {
+                "question": "Is there any condition related to budgetary allocation for the benefits under this scheme?",
+                "answer": "Yes, the benefits under this scheme are subject to budgetary allocation, and no Promissory Estoppel is applicable if benefits are discontinued due to exceeding the allocation."
+            },
+            {
+                "question": "What type of expenditures will be considered for the incentive allowance, according to the policy?",
+                "answer": "Only expenditures incurred during the operation of the policy will be considered for the incentive allowance."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2020/08/ITPolicySchemes2018.pdf"
+            },
+            {
+                "type": "Official Gazette",
+                "url": "https://ditc.goa.gov.in/sites/default/files/Target-Schemes.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://www.goa.gov.in/contact/"
+            },
+            {
+                "type": "User Manual For Business Entity",
+                "url": "https://services.goaonline.gov.in/Downloads/Organization/BusinessProfile_UserManual.pdf"
+            },
+            {
+                "type": "Track Application Status",
+                "url": "https://goaonline.gov.in/StatusTrack"
+            }
+        ],
+        "tags": [
+            "Allowance",
+            "Business",
+            "Company",
+            "Employee",
+            "Incentive"
+        ]
+    }
+}

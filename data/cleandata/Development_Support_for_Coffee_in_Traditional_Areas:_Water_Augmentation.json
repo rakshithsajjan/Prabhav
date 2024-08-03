@@ -1,0 +1,63 @@
+{
+    "content": {
+        "title": "Development Support for Coffee in Traditional Areas: Water Augmentation",
+        "state": "Karnataka",
+        "department": "Ministry of Commerce and Industry",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The scheme 'Development Support for Coffee in Traditional Areas: Water Augmentation' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging water augmentation in traditional areas.",
+        "benefits": [
+            "40% of the unit cost, with a ceiling of \u20b92,50,000 per beneficiary for all components under the water augmentation scheme.",
+            "Additional 10% subsidy for SC/ST coffee growers with holdings up to 4 hectares.",
+            "Subsidy for water harvesting structures and irrigation equipment."
+        ],
+        "eligibility": [
+            "Individual growers, joint owners, or family members applying jointly (limited to mother, father, wife, and children).",
+            "Coffee holdings of up to 10 hectares."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Application and Self Declaration Duly Filled and Signed by the Applicant/s (in Duplicate) in the Prescribed Format.",
+            "Aadhaar Card (UIDAI).",
+            "Proof of Land Ownership.",
+            "Self-prepared rough Sketch of the Estate.",
+            "Quotation for Purchase of Machinery/Equipment.",
+            "Self-Prepared Plan and Estimation for Water Storage Tank / Open Well / Ring Well.",
+            "Attested Copy of Registered GPA (if applicable).",
+            "Caste Certificate (if applicable).",
+            "Copy of Bank Pass Book."
+        ],
+        "faqs": [
+            {
+                "question": "What is the minimum depth recommended for an open well/ring well with or without a pump?",
+                "answer": "The recommended depth is 30 feet."
+            },
+            {
+                "question": "What is the unit cost for open well/ring well activities?",
+                "answer": "The unit cost for open well/ring well activities is \u20b975,000 per unit."
+            },
+            {
+                "question": "Can growers choose to execute water storage structures of any dimension?",
+                "answer": "Yes, growers can execute structures of any dimension based on their requirements."
+            },
+            {
+                "question": "What is the procedure for claiming the subsidy?",
+                "answer": "Applicants should submit the subsidy claim to the jurisdictional Coffee Board office, which involves document scrutiny, field inspection, and approval by the Deputy Director (Extn)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines And Application Form",
+                "url": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf"
+            }
+        ],
+        "tags": [
+            "Coffee",
+            "DBT",
+            "Farmer",
+            "Subsidy",
+            "Water"
+        ]
+    }
+}

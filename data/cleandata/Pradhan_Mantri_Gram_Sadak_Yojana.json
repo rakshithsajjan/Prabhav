@@ -1,0 +1,104 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Gram Sadak Yojana",
+        "state": "All States",
+        "department": "Ministry of Rural Development",
+        "type": "Government Scheme",
+        "beneficiary": "Rural Population",
+        "details": "The Pradhan Mantri Gram Sadak Yojana (PMGSY) aims to provide all-weather road connectivity to unconnected habitations in rural areas, ensuring that eligible populations have access to essential services and infrastructure.",
+        "benefits": [
+            "Improved road connectivity",
+            "Access to essential services",
+            "Economic development in rural areas"
+        ],
+        "eligibility": [
+            "Unconnected habitations with a population of 500 persons and above in plain areas",
+            "Unconnected habitations with a population of 250 persons and above in Special Category States"
+        ],
+        "exclusions": [],
+        "application_process": "Applications are processed through the District Panchayat based on priority and available funds.",
+        "documents_required": [],
+        "faqs": [
+            {
+                "question": "Does The Programme Provide Connectivity To Only Revenue Villages? Are Hamlets Eligible To Be Connected?",
+                "answer": "The programme provides connectivity to eligible unconnected habitations, which include hamlets and clusters of population, not just revenue villages."
+            },
+            {
+                "question": "How Are Habitations Selected For Coverage? Who Decides Which Habitations Will Be Covered In A Year?",
+                "answer": "Unconnected habitations are prioritized based on population size and available funds, with the District Panchayat finalizing the list each year."
+            },
+            {
+                "question": "Can An Individual Apply For Road Connectivity?",
+                "answer": "No, the programme is designed to provide connectivity to unconnected habitations, not for individual applications."
+            },
+            {
+                "question": "How Is Alignment Selected? Are Local Villagers Associated With This Process?",
+                "answer": "Alignment is selected through a transect walk involving local villagers and officials to determine the most suitable route."
+            },
+            {
+                "question": "What Does All-Weather Connectivity Mean? Does It Mean Only Black- Topped Or Cement Concrete Roads?",
+                "answer": "All-weather connectivity means roads that are negotiable in all seasons, which can include gravel roads, not just paved surfaces."
+            },
+            {
+                "question": "How Is The Problem Of Drainage Tackled In The Portion Of Roads Passing Through Built-Up Residential Areas?",
+                "answer": "Guidelines provide for the construction of pavements and side drains to manage wastewater and prevent damage."
+            },
+            {
+                "question": "Is There Adequate Provision For Culverts Or Cross-Drainage Works?",
+                "answer": "Yes, the programme includes necessary culverts and cross-drainage structures to ensure operability throughout the year."
+            },
+            {
+                "question": "What About Bridges On Rivers/Streams?",
+                "answer": "Bridges on rivers/streams are included in the programme along with road proposals, with specific guidelines for funding."
+            },
+            {
+                "question": "Whether Compensation For Land Acquisition Is Paid In The Program?",
+                "answer": "Generally, land is provided voluntarily by villagers, but compensation is paid if land acquisition is necessary."
+            },
+            {
+                "question": "How Are Executants Selected For The Construction Of Roads?",
+                "answer": "Executants are selected through open competitive bidding, following established tendering procedures."
+            },
+            {
+                "question": "If Defects Are Noticed After Completion Of The Road, How Are They Rectified?",
+                "answer": "Contractors are liable for defects for five years post-completion, and the Project Implementation Unit can rectify defects if necessary."
+            },
+            {
+                "question": "How Is The Quality Of Work Checked And Monitored?",
+                "answer": "Quality is monitored through field laboratories, departmental checks, and independent monitors deployed by the government."
+            },
+            {
+                "question": "Is There A Provision For The Display Of Project-Related Information At Project Sites?",
+                "answer": "Yes, Citizen Information Boards are provided at project sites with detailed information about the work."
+            },
+            {
+                "question": "What Is The Role Of Public Representatives In Checking The Quality Of Implementation Of The Programme?",
+                "answer": "Public representatives are involved in regular inspections of road works to ensure transparency and accountability."
+            },
+            {
+                "question": "Whether Information About The Programme Is Available On Any Website?",
+                "answer": "Yes, information is available on the programme's official websites."
+            },
+            {
+                "question": "How Are The Roads Maintained?",
+                "answer": "Routine maintenance is included in the tendering process for five years after completion, with a transfer of maintenance to PRIs thereafter."
+            },
+            {
+                "question": "What Should Be The Population Of Habitations To Be Covered Under PMGSY-I For Providing Connectivity?",
+                "answer": "Habitations with a population of 500 or more in plain areas and 250 or more in Special Category States are eligible."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pmgsy"
+            }
+        ],
+        "tags": [
+            "Rural Development",
+            "Infrastructure",
+            "Connectivity",
+            "Government Scheme"
+        ]
+    }
+}

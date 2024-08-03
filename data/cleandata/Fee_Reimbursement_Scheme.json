@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "Fee Reimbursement Scheme",
+        "state": "Uttar Pradesh",
+        "department": "Department of Backward Classes Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Students of Other Backward Classes",
+        "details": "Education is top-seeded to uplift the backward classes, Because of the lack of education, a social category remains backward. In spite of the long duration passed since the independence of the country, no expected improvement seen in the educational status of Other Backward Classes. Many efforts have been made to improve the educational status. At present, the Fee Reimbursement scheme is being operated in online mode by the Department of Backward Classes Welfare with the objective of developing backward classes and uplifting their educational status. Under this scheme, students of Other Backward Classes studying in all government schools, and aided and recognized educational institutes are being provided with a scholarship each year. Department of Backward Classes Welfare is continuously working to uplift the educational status of backward classes.",
+        "benefits": [
+            "In Group -1, the maximum payable annual fee reimbursement is Rs. 50,000/- for Degree and Master Degree Courses, M. Fil.-Ph.D., Courses of all medical therapies, Technology, Engineering, Planning, Architecture, Design, Fashion Technology, Agriculture, Animal Husbandry, Allied Sciences, Business Finance, Management Administration, Computer Science etc.",
+            "In Group -2, the Maximum payable annual fee reimbursement is Rs. 30,000/- for Graduate/Post Graduate level Degree Diploma, certificate courses like Pharmacy, Nursing, LL.B., B.F.S., Para-Medical like rehabilitation, Diagnosis etc.",
+            "In Group -3, the Maximum payable annual fee reimbursement is Rs. 20,000/- for all graduate level courses which are not included in Group-I and II.",
+            "In Group -4, the Maximum payable annual fee reimbursement is Rs. 10,000/- for all non-degree level courses."
+        ],
+        "eligibility": [
+            "Native and under study in Uttar Pradesh.",
+            "The annual income of the parents/guardians of the student is up to Rs. 2 Lakh.",
+            "Students belonging to Other Backward Classes studying in all the government schools, aided and recognized educational institutes of the state, based on the Cut-Off merit of marks percentage of last year (up to the budget availability), are eligible."
+        ],
+        "exclusions": [],
+        "application_process": "Online: Visit the official website https://scholarship.up.gov.in, click on the Option available in Student Section (by OBC students), start the registration by providing the Aadhaar number, fill out the application form, take the printout of the filled application form, and deposit prints out along with all enclosures in the educational institute.",
+        "documents_required": [
+            "Aadhaar",
+            "Caste Certificate",
+            "Previous course certificate",
+            "Applicant photograph",
+            "Annual Income certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is Fee reimbursement Scheme?",
+                "answer": "The Uttar Pradesh government has decided to launch UP Fee Reimbursement Scheme to reimburse fees and give scholarships to students from backward classes."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Course group-wise maximum amount payable for fee reimbursement."
+            },
+            {
+                "question": "Who are the beneficiaries?",
+                "answer": "All students who are Native and study under study in Uttar Pradesh."
+            },
+            {
+                "question": "What Is The annual income eligibility Criteria?",
+                "answer": "The annual income of the parents/guardians of the student is up to Rs. 2 Lakh."
+            },
+            {
+                "question": "May other state student apply for this scheme?",
+                "answer": "No, the Student's native place and study place should be Uttar Pradesh."
+            },
+            {
+                "question": "What is the Application process?",
+                "answer": "1. Visit the official website. 2. click on the Option available in Student Section (by OBC students). 3. Complete the registration process. 4. Then, Fill out the application form 5. Take the printout of the filled application form. 6. Deposit prints out along with all enclosures in the educational institute."
+            },
+            {
+                "question": "What is the official portal to register?",
+                "answer": "Click on the following link to register. URL: Https://Scholarship.Up.Gov.In"
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Aadhaar 2. Caste Certificate 3. Previous course certificate 4. Applicant photograph 5. Annual Income certificate."
+            },
+            {
+                "question": "Can only girls apply for this scholarship?",
+                "answer": "No, All the students can apply for the scholarship."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.backwardwelfareup.gov.in/en/page/prematric"
+            },
+            {
+                "type": "Registration",
+                "url": "https://scholarship.up.gov.in/"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Higher Education",
+            "Student Welfare"
+        ]
+    }
+}

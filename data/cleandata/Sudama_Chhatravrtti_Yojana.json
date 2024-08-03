@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "Sudama Chhatravrtti Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Madhya Pradesh State Government",
+        "type": "Scholarship",
+        "beneficiary": "Students of Madhya Pradesh",
+        "details": "Madhya Pradesh State Government Started Pre-Matric Scholarships for state students. Under this scheme, financial assistance is provided to 300 boys students and 400 girls students of Madhya Pradesh State.",
+        "benefits": [
+            "The scholarship amount for male students: Rs. 5000/- annually.",
+            "The Scholarship amount for female students: Rs. 5250/- annually."
+        ],
+        "eligibility": [
+            "The parent's annual Income should not be more than Rs. 1 Lakhs.",
+            "Family Should belong to BPL category.",
+            "Students should secure above 60% marks in 10th class and currently studying in 11th & 12th class and living in the hostel.",
+            "Students should belong to the General Category."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Residence proof Certificate from residence authority (electricity bill, water connection bill, etc.).",
+            "Aadhar card.",
+            "Bank Account Details.",
+            "Income certificate of parents.",
+            "class 9th and 10th mark sheet.",
+            "Minimum 2 passport-size photographs."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Madhya Pradesh State Government started a scheme 'Sudama Chhatravriti Yojana' for students."
+            },
+            {
+                "question": "What Are The Benefits?",
+                "answer": "Financial Assistance is provided."
+            },
+            {
+                "question": "What is the financial benefit amount?",
+                "answer": "The Scholarship Amount For Male Students: Rs. 5000/- Annually. The Scholarship Amount For Female Students: Rs. 5250/- Annually."
+            },
+            {
+                "question": "Is the scholarship amount given every year?",
+                "answer": "No, the scholarship amount will be given only at once."
+            },
+            {
+                "question": "Who can get the benefits?",
+                "answer": "Madhya Pradesh State Students who passed the 10th class with 60% marks."
+            },
+            {
+                "question": "How many students will get the benefit of the scheme?",
+                "answer": "300 boys students and 400 girls students."
+            },
+            {
+                "question": "What is the Financial Eligibility criteria?",
+                "answer": "The parent's annual Income should not be more than Rs. 1 Lakhs and Family Should belong to BPL category."
+            },
+            {
+                "question": "How to apply?",
+                "answer": "Applicant students have to contact their educational institution."
+            },
+            {
+                "question": "What documents are required while submitting the application form?",
+                "answer": "1. Residence proof Certificate from residence authority (electricity bill, water connection bill, etc.). 2. Aadhar card. 3. Bank Account Details. 4. Income certificate of parents. 5. class 9th and 10th mark sheet. 6. Minimum 2 passport-size photographs."
+            },
+            {
+                "question": "Can all category students apply?",
+                "answer": "No, this scheme is only for general category students."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cmhelpline.mp.gov.in/Schmedetail.aspx?Schemeid=422"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://www.shikshaportal.mp.gov.in"
+            }
+        ],
+        "tags": [
+            "Empowerment",
+            "Financial Assistance",
+            "Scholarship"
+        ]
+    }
+}

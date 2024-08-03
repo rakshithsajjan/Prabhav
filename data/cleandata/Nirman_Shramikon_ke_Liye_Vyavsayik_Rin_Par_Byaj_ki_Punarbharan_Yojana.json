@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana",
+        "state": "Rajasthan",
+        "department": "Financial Support",
+        "type": "Loan",
+        "beneficiary": "Construction Worker",
+        "details": "The 'Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana' is a scheme designed to alleviate financial burdens for construction workers by assisting in the repayment of interest on commercial loans. Recognizing the challenges faced by individuals in the construction sector, especially during economic downturns, the scheme aims to ease the burden of high-interest rates, which often weigh heavily on the shoulders of laborers. By providing support with interest repayments, the government not only relieves immediate financial pressure but also fosters an environment conducive to entrepreneurship and economic stability among the construction workforce. This initiative underscores the government's commitment to the welfare and prosperity of construction workers, recognizing their invaluable contributions to the nation's infrastructure and development. Through this scheme, the government aims to enhance the financial resilience of construction laborers, enabling them to pursue their entrepreneurial aspirations and secure a brighter future for themselves and their families.",
+        "benefits": [
+            "The board will reimburse the interest payable on business loans up to \u20b95,00,000/-"
+        ],
+        "eligibility": [
+            "Applicant must be construction worker and registered with the board are regularly depositing contributions.",
+            "Applicant can utilities the loan amount only for own business work.",
+            "Application can not use loan amount for purchase of shop/plot/vehicle or household goods.",
+            "Applicant have to submit a certificate of intention to repay interest to the financial institution every year.",
+            "This scheme will be applicable only on the loan taken by one of the registered beneficiary's wife/husband at a time.",
+            "If any information provided in the application for assistance under the scheme by the beneficiary is found to be false, the responsibility of depositing the entire sanctioned assistance amount along with interest in lump sum will be of the concerned beneficiary."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of the duly filled and complete application form along with self-attested certificates of beneficiary and his/her spouse.",
+            "Certificate of loan sanction from Financial Institution/Bank.",
+            "Proof of interest paid on loan during the year.",
+            "Copy of Aadhar Card and Jan Aadhar Card of the beneficiary.",
+            "Copy of the first page of the beneficiary's saving bank account passbook (showing beneficiary's name, bank account number and IFSC code).",
+            "Self-declaration certificate by spouse of the beneficiary stating that no loan is outstanding from any other institution at present."
+        ],
+        "tags": [
+            "Nirman Shramik",
+            "Loan",
+            "Financial Support",
+            "Rajasthan"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The 'Nirman Shramik Rin Punarbharan Yojana' helps construction workers by reimbursing interest on their business loans. This program aims to ease the financial burden of construction workers by reducing their loan interest payments."
+            },
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "The board will reimburse the interest payable on business loans up to \u20b95,00,000/-"
+            },
+            {
+                "question": "Can beneficiary buy a shop with the loan amount?",
+                "answer": "Beneficiary can not use loan amount for purchase of shop/plot/vehicle or household goods."
+            },
+            {
+                "question": "How much reimbursement of interest amount on the loan is possible?",
+                "answer": "It will be maximum of \u20b95,00,000/-"
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "No"
+            },
+            {
+                "question": "Can applicants from outside Rajasthan apply for the scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "How many times benefits will be provided?",
+                "answer": "This scheme will be applicable only on the loan taken by one of the registered beneficiary's wife/husband at a time."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Copy of the duly filled and complete application form along with self-attested certificates of beneficiary and his/her spouse. 2. Certificate of loan sanction from Financial Institution/Bank. 3. Proof of interest paid on loan during the year. 4. Copy of Aadhar Card and Jan Aadhar Card of the beneficiary. 5. Copy of the first page of the beneficiary's saving bank account passbook (showing beneficiary's name, bank account number and IFSC code). 6. Self-declaration certificate by spouse of the beneficiary stating that no loan is outstanding from any other institution at present."
+            },
+            {
+                "question": "What will happen if any information given by the beneficiary is found incorrect?",
+                "answer": "If any information provided in the application for assistance under the scheme by the beneficiary is found to be false, the responsibility of depositing the entire sanctioned assistance amount along with interest in lump sum will be of the concerned beneficiary."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/LAB_/IRSBC/DOC_818_c4aede25-82a2-42dc-b0d1-489d29f2d5d3.pdf"
+            },
+            {
+                "type": "Details",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/818"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ]
+    }
+}

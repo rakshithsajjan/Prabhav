@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "Funeral Assistance (A.B.O.C.W.W.B)",
+        "state": "Assam",
+        "department": "Labour Welfare Department, Government of Assam",
+        "type": "Financial Assistance",
+        "beneficiary": "Nominees/Dependents of deceased registered workers",
+        "details": "The scheme 'Funeral Assistance' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the nominees/dependents of a deceased registered worker, towards funeral expenses.",
+        "benefits": [
+            "The financial assistance of \u20b95,000/- shall be given to the nominees/dependents of a deceased registered worker, towards funeral expenses."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Assam.",
+            "The applicant should be a nominee/dependent of deceased worker.",
+            "The deceased worker should have been engaged in any building and other construction work.",
+            "The deceased worker should have been registered with the Assam Building and Other Construction Workers Welfare Board.",
+            "The deceased worker should have had an active membership with the Board."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs",
+        "documents_required": [
+            "ABOCWWB ID Card of the deceased worker",
+            "Applicant's Photo",
+            "Signature of the Applicant",
+            "Attested Copy of ID Card of the Deceased Worker",
+            "Death Certificate Issued by Government Doctor/Appropriate Authority",
+            "Succession Certificate",
+            "Certificate of Guardianship with consent from the other family members and minor nominee",
+            "Copy of Payslip of Account Paybook",
+            "Caste Certificate (Other than General category)",
+            "Applicant's Identification Certificate from the Government Gaonburah and Village Panchayat Officer",
+            "Loan Recovery Documents, if any",
+            "Age Proof Certificate for minor",
+            "Bank account details",
+            "Any other related documents"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Funeral Assistance Scheme?",
+                "answer": "The Funeral Assistance Scheme was introduced by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), which operates under the Labour Welfare Department, Government of Assam. The scheme aims to provide financial assistance to the nominees or dependents of a deceased registered worker to cover funeral expenses."
+            },
+            {
+                "question": "What are the benefits provided under the Scheme?",
+                "answer": "The scheme offers a financial assistance amounting to \u20b95,000 to the nominees or dependents of a deceased registered worker."
+            },
+            {
+                "question": "What is the requirement for relationship with the deceased worker?",
+                "answer": "The applicant should be a nominee or dependent of the deceased worker."
+            },
+            {
+                "question": "Who is eligible to apply for Funeral Assistance under this scheme?",
+                "answer": "To be eligible for Funeral Assistance, the applicant must fulfill the following criteria: a. The applicant should be a permanent resident of Assam. b. The applicant should be a nominee or dependent of the deceased worker."
+            },
+            {
+                "question": "What type of work should the deceased worker have been engaged in?",
+                "answer": "The deceased worker should have been involved in building and other construction work."
+            },
+            {
+                "question": "Can an applicant residing outside Assam apply for assistance?",
+                "answer": "No, applicants must be permanent residents of Assam to be eligible for assistance."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "The eligible applicant may apply through the portal. https://abocwwb.assam.gov.in/"
+            },
+            {
+                "question": "Can an applicant also apply through CSC?",
+                "answer": "Yes, the eligible applicants can approach the nearest CSC (VLE) for required assistance."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labourcommissioner.assam.gov.in/portlet-innerpage/various-welfare-benefits-for-registered-construction-workers"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://abocwwb.assam.gov.in/"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://labourcommissioner.assam.gov.in/sites/default/files/swf_utility_folder/departments/coi_labour_uneecopscloud_com_oid_14/portlet/level_2/sop_bocw_online_mode_for_uploading.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Death",
+            "Financial Assistance",
+            "Funeral",
+            "Labour"
+        ]
+    }
+}

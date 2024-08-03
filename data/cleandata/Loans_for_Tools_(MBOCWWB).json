@@ -1,0 +1,109 @@
+{
+    "content": {
+        "title": "Loans for Tools (MBOCWWB)",
+        "state": "Meghalaya",
+        "department": "Labour Department, Government of Meghalaya",
+        "type": "Loan",
+        "beneficiary": "Building and construction workers",
+        "details": "The 'Loans for Tools' scheme is implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB). Under the scheme, a one-time grant will be granted to all members of the fund for the purchase of tools subject to the conditions. The members of the fund who have completed 3 years of membership in the fund and those who remit contributions regularly will be eligible for this loan.",
+        "benefits": [
+            "Registered building and construction workers will receive a one-time grant of up to \u20b910,000/- for the purchase of tools."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of Meghalaya.",
+            "The beneficiary should be engaged in any building or other construction work.",
+            "The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.",
+            "The beneficiary who has completed 3 years of membership in the fund will be eligible for this loan.",
+            "The beneficiary who remits contributions regularly will be eligible for this loan.",
+            "The beneficiary should have completed 55 years."
+        ],
+        "exclusions": [
+            "Operation and maintenance of the tool shall be the sole responsibility of the beneficiary.",
+            "The Board shall not be responsible for any after-sales service, parts, or accessories.",
+            "A beneficiary is prohibited from selling the tools purchased and shall not be entitled to a second grant."
+        ],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)",
+            "Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)",
+            "Bank Passbook of the worker",
+            "eShram ID card, if any",
+            "Age proof of concerned building worker/applicant",
+            "Nomination Form duly signed by the applicant",
+            "Self-declaration towards non-enrolment as a member of any other welfare fund/board",
+            "SC/ST Certificate (if applicable)",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for the Loans for Tools scheme?",
+                "answer": "The registered building and construction workers who have completed 3 years of membership in the fund and those who remit contributions regularly will be eligible for this loan."
+            },
+            {
+                "question": "What is the maximum grant amount under this scheme?",
+                "answer": "Beneficiaries can receive a one-time grant of up to \u20b910,000/- for the purchase of tools."
+            },
+            {
+                "question": "Is there an age requirement for eligibility?",
+                "answer": "Yes, beneficiaries should have completed 55 years of age to be eligible for this loan."
+            },
+            {
+                "question": "How is the grant amount sanctioned?",
+                "answer": "The grant is sanctioned upon the production of a valid cash memo or voucher from an authorized dealer."
+            },
+            {
+                "question": "Can the beneficiary sell the tools purchased under this scheme?",
+                "answer": "No, beneficiaries are prohibited from selling the tools purchased under this scheme and are not entitled to a second grant."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megbocwwb.gov.in/enrollment"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://megbocwwb.gov.in/schemes_loans"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+            },
+            {
+                "type": "Application Form For Instrumental Loan",
+                "url": "https://megbocwwb.gov.in/forms/benefit/Instrumental%20Loan.pdf"
+            },
+            {
+                "type": "Registration Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+            },
+            {
+                "type": "Nomination Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+            },
+            {
+                "type": "Family Members Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+            },
+            {
+                "type": "SDO Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+            },
+            {
+                "type": "Employer Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+            },
+            {
+                "type": "Amendment Notification",
+                "url": "https://meglc.gov.in/acts/Amendment%20-rules-bocw-2018.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Loan",
+            "Tool"
+        ]
+    }
+}

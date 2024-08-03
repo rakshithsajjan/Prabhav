@@ -1,0 +1,67 @@
+{
+    "content": {
+        "title": "Old Age Samman Allowance",
+        "state": "Haryana",
+        "department": "Department of Social Justice and Empowerment",
+        "type": "Pension",
+        "beneficiary": "Senior Citizens",
+        "details": "The scheme 'Old Age Samman Allowance' is a social security scheme implemented by the Department of Social Justice and Empowerment, Government of Haryana. The scheme provides pension of \u20b92,500/- per month to the senior citizens (60 years or above) who are unable to sustain themselves with their own resources. The scheme targets the needy and poorer sections of society, such as agricultural labourers, rural artisans, SCs/BCs, and small/marginal farmers. The scheme is implemented through the Zila Parishads. The pension is disbursed through the Panchayati Raj Institutions.",
+        "benefits": [
+            "Pension of \u20b92,500/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be 60 years or above in age.",
+            "The applicant should be domicile and resident of Haryana.",
+            "The income of the applicant, from all sources, including that of their spouse should not exceed \u20b93,00,000/- per annum."
+        ],
+        "exclusions": [
+            "In case the person is receiving pension from any Government or Local/Statutory Body or any organization substantially financed by any Government or Local/Statutory body will not be eligible."
+        ],
+        "application_process": "Online and Offline. Visit the official website of the 'Antyodaya SARAL' Portal to register and apply.",
+        "documents_required": [
+            "Age Proof (any one of the following): Birth Certificate, School Certificate, Voter Card.",
+            "Residential Proof (any one of the following self-attested documents): Ration Card, Voter Card.",
+            "Other Documents: Aadhaar Card (optional), Saving Bank account details of the applicant."
+        ],
+        "faqs": [
+            {
+                "question": "How can one apply online for the Old Age Samman Allowance?",
+                "answer": "To apply online, download the form from https://pension.socialjusticehry.gov.in/form_and_proc, fill in all the necessary details, create a login on the Saral website to receive a CIDR ID, and submit the filled application form at block or DSWO offices following the given instructions."
+            },
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "Senior citizens of age 60 years and above are eligible for this scheme."
+            },
+            {
+                "question": "How much allowance is provided under this scheme?",
+                "answer": "The allowance provided under this scheme is Rs. 2500 per month (w.e.f 01-04-2021)."
+            },
+            {
+                "question": "How can one check the status of their application?",
+                "answer": "To check the status, click on the link https://pension.socialjusticehry.gov.in/Ben_Inf and enter the beneficiary ID and security code."
+            },
+            {
+                "question": "Can one apply offline for the allowance amount?",
+                "answer": "Yes, one can visit the Atal Seva Kendra, provide all necessary documents to the operating personnel, and the service centre person will forward the application to the concerned authority for verification."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines And Application Form",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=XCDibLe1++nfWHho+uQ+iw%3d%3d"
+            },
+            {
+                "type": "Online Application",
+                "url": "https://pension.socialjusticehry.gov.in/Online_Application"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Old Age",
+            "Pension",
+            "Senior Citizen",
+            "Social Security",
+            "Social Welfare"
+        ]
+    }
+}

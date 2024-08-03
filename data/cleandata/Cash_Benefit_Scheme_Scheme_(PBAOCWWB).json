@@ -1,0 +1,102 @@
+{
+    "content": {
+        "title": "Cash Benefit Scheme Scheme (PBAOCWWB)",
+        "state": "Puducherry",
+        "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Wards of Construction Workers",
+        "details": "The 'Cash Benefit Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. The objective of this scheme is to provide educational financial assistance to the wards of construction workers who have secured the top three ranks at the State Level and Regional Level in the Higher Secondary course or its equivalent examinations. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/ dependent. The applications are accepted offline.",
+        "benefits": [
+            "State-Level Cash Benefit (Onetime Payment): First Prize: \u20b91,00,000, Second Prize: \u20b980,000, Third Prize: \u20b960,000.",
+            "Region Wise Cash Benefit (Onetime Payment): First Prize: \u20b960,000, Second Prize: \u20b940,000, Third Prize: \u20b920,000.",
+            "Annual Educational Assistance: Degree Courses: \u20b92,000, Post Graduate Courses: \u20b94,000, Diploma courses: \u20b92,000, Postgraduate Diploma: \u20b93,000.",
+            "Mode of Disbursal: Direct Benefit Transfer (DBT) into the bank account."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a Student.",
+            "The applicant should be a ward of a Construction Worker.",
+            "The Construction Worker should be registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+            "The applicant should have secured 1st/2nd/3rd Rank at the State/Regional Level in the Higher Secondary course or its equivalent examination."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The ward of the construction worker should visit the Office of the Puducherry Building and Other Construction Workers Welfare Board and obtain the prescribed format of the application form free of cost. OR The ward of the construction worker should take print of the prescribed format of the application form provided in the section 'Application for Welfare Benefits' on Page No. 94 of the Citizen's Charter. Step 2: Fill in all mandatory fields, paste the passport-sized photograph, and attach copies of all mandatory documents. Step 3: Submit the duly filled application form and documents to the concerned authority. Step 4: Request a receipt or acknowledgement from the concerned authority.",
+        "documents_required": [
+            "Last Subscription Bill",
+            "Board ID Card",
+            "Aadhaar Card",
+            "Ration Card",
+            "Bank Pass Book",
+            "Caste Certificate",
+            "Birth Certificate of the Student",
+            "Higher Secondary or equivalent Public Examination Mark Certificate attested by the Principal/Head of the Institution"
+        ],
+        "faqs": [
+            {
+                "question": "Can any student apply for the scheme, or do they specifically need to be a construction worker's ward?",
+                "answer": "The applicant should specifically be a ward of a Construction Worker to be eligible for the scheme."
+            },
+            {
+                "question": "What are the different categories and amounts of Annual Educational Assistance provided by the scheme?",
+                "answer": "Degree Courses: \u20b92,000, Post Graduate Courses: \u20b94,000, Diploma courses: \u20b92,000, Postgraduate Diploma: \u20b93,000."
+            },
+            {
+                "question": "How is the Annual Educational Assistance disbursed to the eligible candidates?",
+                "answer": "The assistance is disbursed through Direct Benefit Transfer (DBT) into the bank account of the beneficiary."
+            },
+            {
+                "question": "Is the disbursal of the cash benefits a one-time payment?",
+                "answer": "Yes, the cash benefits are provided as a one-time payment under the scheme."
+            },
+            {
+                "question": "What are the cash benefits for the Regional Level under the 'Cash Benefit Scheme'?",
+                "answer": "Regional Level Cash Benefits include: First Prize: \u20b960,000, Second Prize: \u20b940,000, Third Prize: \u20b920,000."
+            },
+            {
+                "question": "How are the cash benefits distributed for the State Level under the scheme?",
+                "answer": "State Level Cash Benefits include: First Prize: \u20b91,00,000, Second Prize: \u20b980,000, Third Prize: \u20b960,000."
+            },
+            {
+                "question": "Which government entity administers the 'Cash Benefit Scheme' in Puducherry?",
+                "answer": "The 'Cash Benefit Scheme' is a Welfare Scheme managed by the Puducherry Building and Other Construction Workers Welfare Board, a part of the Labour Department in the Union Territory of Puducherry."
+            },
+            {
+                "question": "What documents are necessary for applying for the 'Cash Benefit Scheme'?",
+                "answer": "Required documents include the Last Subscription Bill, Board ID Card, Aadhaar Card, Ration Card, Bank Pass Book, and a Certificate from the Educational Institute."
+            },
+            {
+                "question": "Is there a specific timeframe within which the financial assistance is disbursed to the beneficiary's bank account?",
+                "answer": "The document does not specify a specific timeframe. However, the use of Direct Benefit Transfer (DBT) suggests that the disbursement process aims for a timely and direct transfer to the beneficiary's bank account."
+            },
+            {
+                "question": "Can individuals with disabilities apply for this scheme?",
+                "answer": "The scheme does not explicitly mention any restrictions, so individuals with disabilities can apply if they meet the general eligibility criteria specified."
+            },
+            {
+                "question": "Are self-attestation of documents required during the application process?",
+                "answer": "Yes, the self-attestation of the mandatory documents is required if it is specified in the scheme guidelines."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Registration Process & Documents Required",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            }
+        ],
+        "tags": [
+            "Cash Benefit",
+            "Welfare Scheme",
+            "Puducherry",
+            "Education",
+            "Construction Workers"
+        ]
+    }
+}

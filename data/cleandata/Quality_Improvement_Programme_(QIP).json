@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Quality Improvement Programme (QIP)",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Scholarship",
+        "beneficiary": "Faculty Members of AICTE-approved Institutions",
+        "details": "The scheme 'Quality Improvement Programme' was launched by the All India Council for Technical Education (AICTE) in the year 1970. One of its primary objectives is to enhance the expertise and capabilities of faculty members in degree and diploma-level institutions across the country. The program is overseen by the All India Council for Technical Education. In the 'Quality Improvement Programme,' only sponsored teachers are eligible for admission to both Master's and Doctoral Degree Programs.",
+        "benefits": [
+            "Scholarship for Master's Degree: \u20b99,000 per month",
+            "Annual Contingency for Master's Degree: \u20b95,000",
+            "Scholarship for Ph.D. Programme: \u20b915,000 per month",
+            "Annual Contingency for Ph.D. Programme: \u20b915,000",
+            "Pre-Ph.D. Expenses: One-time lump sum amount",
+            "Travel Allowance (TA): \u20b915,000",
+            "Daily Allowance (DA): \u20b930,000 for a Pre-Ph.D. duration of 60 days"
+        ],
+        "eligibility": [
+            "Full-time regular/permanent faculty members of AICTE-approved Polytechnic (Diploma) institutes with one year of teaching experience and a Bachelor's degree in the appropriate branch for Master's Degree Program.",
+            "Full-time regular/permanent faculty members of AICTE approved Degree Level institutes with three years of teaching experience and a Master's degree in the appropriate branch for Ph.D. Program."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Official Website of QIP.",
+        "documents_required": [
+            "Photograph: JPEG/PNG, 2 MB",
+            "Signature: JPEG/PNG, 2 MB",
+            "Aadhaar Card: PDF, 2 MB",
+            "Experience Certificate: Single PDF of current as well as previous experiences, 10 MB",
+            "10th Marksheet: PDF, 2 MB",
+            "10th Certificate: PDF, 2 MB",
+            "12th Marksheet: PDF, 2 MB",
+            "12th Certificate: PDF, 2 MB",
+            "Bachelor's Marksheet (Consolidated): PDF, 2 MB",
+            "Bachelor's Degree: PDF, 2 MB",
+            "Master's Marksheet (Compulsory only for Ph.D Applicants): PDF, 2 MB",
+            "Master's Degree (Compulsory only for Ph.D Applicants): PDF, 2 MB",
+            "GATE Certificate (if any): PDF, 2 MB",
+            "NET UGC/CSIR (if any) Certificate: PDF, 2 MB",
+            "JRF UGC/CSIR (if any) Certificate: PDF, 2 MB",
+            "Category Certificate (Mandatory for SC/ST/OBC/EWS): PDF, 2 MB",
+            "Non-Objection Certificate (NOC): PDF, 2 MB"
+        ],
+        "faqs": [
+            {
+                "question": "Are maternity and paternity leaves available to scholars, and under what conditions?",
+                "answer": "Maternity/paternity leaves are granted as per Government of India norms issued from time to time at full rates of scholarship, but only once during the tenure of the award."
+            },
+            {
+                "question": "What is the scholarship amount for the Master of Engineering (ME) or Master of Technology (M.Tech) Programs?",
+                "answer": "The scholarship for ME/M.Tech Programs is \u20b99,000 per month, along with an annual contingency of \u20b95,000."
+            },
+            {
+                "question": "What happens if a scholar does not complete the course or leaves midway?",
+                "answer": "Leaving midway or failing to complete the course will require repayment of the scholarship received."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://qip.aicte-india.org/assets/manuals/QIP_Scheme_Guidelines.pdf"
+            },
+            {
+                "type": "Brochure",
+                "url": "https://qip.aicte-india.org/assets/manuals/QIP_Admission_Brochure_2023_new.pdf"
+            }
+        ],
+        "tags": [
+            "Quality Improvement",
+            "Scholarship",
+            "Faculty Development",
+            "Education"
+        ]
+    }
+}

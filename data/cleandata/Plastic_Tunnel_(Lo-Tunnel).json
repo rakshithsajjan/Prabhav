@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Plastic Tunnel (Lo-Tunnel)",
+        "state": "Rajasthan",
+        "department": "Agriculture Department",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Agriculture Department of the Rajasthan government implemented the Plastic Tunnel (Lo-Tunnel) scheme, providing subsidies to farmers. A low plastic tunnel is a protected structure created by covering each crop bed with plastic sheeting at a low height after planting. It is made to protect crops from damage caused by low temperatures. This technique is very useful for off-season cultivation of vegetables in the plains of North India where the night temperature remains below 8 degrees Celsius for about 40 to 60 days during the winter season. This technique allows off-season vegetable cultivation. Vegetable seedlings are prepared using the plastic tray technique specifically in December and January.",
+        "benefits": [
+            "50 percent subsidy is available for a maximum of 1000 square meters.",
+            "Small/marginal category farmers are given a 75 percent subsidy for a maximum of 4000 square meters."
+        ],
+        "eligibility": [
+            "The applicant should be a native of Rajasthan.",
+            "The applicant should be a farmer.",
+            "The applicant must have agricultural land ownership and irrigation sources."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card",
+            "Copy of Jamabandi (not more than six months old)",
+            "Quotation from approved firm"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The main objective of Plastic Tunnel (Lo-Tunnel) is to grow vegetable crops by protecting them from major biotic or abiotic factors."
+            },
+            {
+                "question": "Who is eligible to benefit from the scheme?",
+                "answer": "Farmers are eligible for the scheme."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, this scheme is only for Rajasthan."
+            },
+            {
+                "question": "What is the purpose of installing plastic tunnels?",
+                "answer": "Plastic tunnels create a controlled environment for crops, protecting them from adverse weather conditions such as wind, rain, and extreme temperatures."
+            },
+            {
+                "question": "What are the benefits of using plastic tunnels in agriculture?",
+                "answer": "Plastic tunnels provide a cost-effective means of protected cultivation, allowing farmers to grow a wider variety of crops throughout the year."
+            },
+            {
+                "question": "How do a applicant know if a field in the application form is mandatory?",
+                "answer": "A distinctive sign (\u201c*\u201d symbol, \u201cmandatory\u201d mention, etc.)"
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer (DBT) was launched by the Government of India in January 2013."
+            },
+            {
+                "question": "Can applicant fill the application form in a language other than English?",
+                "answer": "No, applicants can fill only in the English language."
+            },
+            {
+                "question": "How can applicant apply online?",
+                "answer": "One can apply by visiting the e-Mitra centre."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Aadhar Card / Janadhar Card, Copy of Jamabandi (not more than six months old), Quotation from approved firm."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Farming Structure",
+                "url": "https://kvk.icar.gov.in/API/Content/PPupload/k0422_73.pdf"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Plastic Tunnel",
+            "Agriculture",
+            "Subsidy",
+            "Rajasthan"
+        ]
+    }
+}

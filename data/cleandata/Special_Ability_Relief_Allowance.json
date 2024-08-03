@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Special Ability Relief Allowance",
+        "state": "Himachal Pradesh",
+        "department": "Department of Social Justice and Empowerment",
+        "type": "Financial Assistance",
+        "beneficiary": "Persons with disabilities",
+        "details": "Special Ability Relief Allowance of Rs. 700 per month is being given to those special abled persons who are having at least 40 percent of special ability and whose annual income does not exceed Rs. 35,000 per year. For those with above 70 percent special ability, Rs. 1,250 per month is provided without any income criteria, subject to the condition that the applicant should not be in Government Service/Semi-Government Service/Board/Corporation and should not be in possession of any kind of pension. The aim of the scheme is to provide financial support to persons with disabilities to enable them to lead a life of dignity and self-reliance.",
+        "benefits": [
+            "Special Ability Relief Allowance of Rs. 700 per month for those with at least 40% disability.",
+            "Rs. 1,250 per month for those with above 70% disability without any income criteria.",
+            "The allowance can be used for any purpose that will improve the standard of living, such as medical treatment, education, and daily expenses."
+        ],
+        "eligibility": [
+            "The applicant must be a resident of Himachal Pradesh.",
+            "The applicant must have a minimum of 40% disability.",
+            "The applicant must not be receiving any other pension or allowance from the state or central government."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Eligible candidates can apply for the scheme by visiting the nearest block development office or district welfare office. The application form can also be downloaded from the official website of the Department of Social Justice and Empowerment, Himachal Pradesh.",
+        "documents_required": [
+            "Disability Certificate",
+            "Income Certificate",
+            "Recommendation from the concerned Gram Panchayat.",
+            "Copy of the Parivar Register",
+            "Aadhaar Card.",
+            "Bank Account."
+        ],
+        "faqs": [
+            {
+                "question": "Who Is Eligible For The Disability Relief Allowance Scheme?",
+                "answer": "Persons with disabilities with a minimum of 40% disability who are residents of Himachal Pradesh and are not receiving any other pension or allowance from the state or central government are eligible for the scheme."
+            },
+            {
+                "question": "What is the amount of financial assistance provided under the scheme?",
+                "answer": "Special Ability Relief Allowance Rs. 700 per month is being given to those special abled persons who are having at least 40% of special ability and whose annual income does not exceed Rs. 35,000 per year. For those with above 70% special ability, Rs. 1,250 per month is provided without any income criteria."
+            },
+            {
+                "question": "Can Both Male And Female Beneficiaries Apply For The Scheme?",
+                "answer": "Yes, both male and female beneficiaries can apply for the scheme."
+            },
+            {
+                "question": "How Can One Apply For The Disability Relief Allowance Scheme?",
+                "answer": "Eligible candidates can apply for the scheme by visiting the nearest block development office or district welfare office or by downloading the application form from the official website."
+            },
+            {
+                "question": "Is There Any Minimum Disability Percentage Required To Apply For The Scheme?",
+                "answer": "Yes, the applicant must have a minimum of 40% disability to be eligible for the scheme."
+            },
+            {
+                "question": "Can The Allowance Be Used For Any Purpose?",
+                "answer": "Yes, the beneficiaries can use the allowance for any purpose that will improve their standard of living."
+            },
+            {
+                "question": "Can An Applicant Receive Any Other Pension Or Allowance From The Government And Still Be Eligible For The Scheme?",
+                "answer": "No, the applicant must not be receiving any other pension or allowance from the state or central government to be eligible for the scheme."
+            },
+            {
+                "question": "What documents are required to apply for the scheme?",
+                "answer": "Disability Certificate, Income Certificate, Recommendation from the concerned Gram Panchayat, Copy of the Parivar Register, Aadhaar Card, and Bank Account."
+            },
+            {
+                "question": "Is There Any Age Limit To Apply For The Scheme?",
+                "answer": "No, there is no age limit to apply for the Disability Relief Allowance scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://himachalservices.nic.in/economics/ecosurvey/en/social_welfare_program.html"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Financial Assistance",
+            "Himachal Pradesh",
+            "Special Ability"
+        ]
+    }
+}

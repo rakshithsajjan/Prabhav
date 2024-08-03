@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Personal Accident Relief for Differently Abled Persons",
+        "state": "Tamil Nadu",
+        "department": "Dept. for the Welfare of Differently Abled Persons",
+        "type": "Financial Assistance",
+        "beneficiary": "Differently Abled Persons",
+        "details": "The scheme 'Personal Accident Relief for Differently Abled Persons' was launched by the Dept. for the Welfare of Differently Abled Persons, Government of Tamil Nadu. In this scheme, accident relief is provided to differently-abled persons up to \u20b91,00,000/-. The scheme covers cases such as death, loss of both legs/both hands/one hand/one leg, and loss of sight in one eye/both eyes.",
+        "benefits": [
+            "Relief to the Legal Heir in the event of death of the differently-abled person: \u20b91,00,000/-",
+            "Relief in the case of Loss of both legs & both hands/ one leg & one hand/ loss of sight in both eyes: Upto \u20b91,00,000/-",
+            "Relief in the case of Loss of one hand/ one leg/ loss of sight in one eye: \u20b950,000/-",
+            "Relief in the case of Total disablement not covered in Sl. no.2 and 3 above: \u20b925,000/-"
+        ],
+        "eligibility": [
+            "The person should have died or should have become differently-abled in an accident.",
+            "The disability should be one of the following: Loss of Both Legs and Both Hands, Loss of One Hand and One Leg, Loss of Sight in Both Eyes, Loss of One Hand, Loss of One Leg, Loss of Sight in One Eye.",
+            "The person should be/ should have been a registered member of the 'Welfare Board for the Differently-Abled'."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit (during office hours) the District Differently Abled Welfare Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer. Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted.",
+        "documents_required": [
+            "Medical Certificate",
+            "Original National Identity Card of the Differently Abled Person, issued by the Welfare Board for the Differently-abled"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum amount of accident relief provided for differently abled persons in case of death?",
+                "answer": "The maximum amount of accident relief provided for differently abled persons in case of death is up to Rs. 1,00,000."
+            },
+            {
+                "question": "What is the compensation amount for total disablement not covered under specific categories?",
+                "answer": "Total disablement not covered under specific categories is compensated with Rs. 25,000."
+            },
+            {
+                "question": "Who is eligible to receive accident relief under this scheme?",
+                "answer": "Any differently abled person holding a National Identity Card for differently abled and registered as a member in the welfare board for the differently abled is eligible."
+            },
+            {
+                "question": "Is there a specific medical certificate required for applying for accident relief?",
+                "answer": "Yes, a specific medical certificate indicating the disability is required for applying for accident relief."
+            },
+            {
+                "question": "Can individuals with temporary disabilities apply for this relief?",
+                "answer": "Yes, individuals with temporary disabilities can apply for this relief if they meet the eligibility criteria."
+            },
+            {
+                "question": "Is there an age limit for applying for accident relief?",
+                "answer": "There is no explicit age limit mentioned for applying for accident relief."
+            },
+            {
+                "question": "Are there any income criteria for eligibility to receive accident relief?",
+                "answer": "No specific income criteria are mentioned for eligibility to receive accident relief."
+            },
+            {
+                "question": "Can accident relief be claimed for disabilities caused by non-accidental events?",
+                "answer": "Accident relief can only be claimed for disabilities caused by accidents as specified under the scheme."
+            },
+            {
+                "question": "Can legal heirs of the differently abled person claim accident relief in case of death?",
+                "answer": "Yes, legal heirs of the differently abled person can claim accident relief in case of death."
+            },
+            {
+                "question": "Is there assistance available for transportation or medical expenses related to the accident?",
+                "answer": "No, the scheme provides financial assistance for disability from accidents, other assistance does not include transportation or medical expenses, etc."
+            },
+            {
+                "question": "Can accident relief be availed multiple times for separate accidents?",
+                "answer": "Accident relief is a one-time assistance, but individuals may be eligible for multiple claims if they meet the criteria for each incident."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Death",
+            "Disability",
+            "Financial Assistance"
+        ]
+    }
+}

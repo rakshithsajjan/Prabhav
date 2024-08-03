@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "Concession in Railway Travel",
+        "state": "Tamil Nadu",
+        "department": "Department of Art and Culture",
+        "type": "Subsidy",
+        "beneficiary": "Individual artists and troupes consisting of more than three artists",
+        "details": "The scheme 'Concession in Railway Travel' was launched by the Department of Art and Culture, Tamil Nadu. Under the scheme, individual artists and troupes consisting of more than three artists are allowed to travel in the train on concession by the Railways. A concession certificate will be issued by the Mandram.",
+        "benefits": [
+            "75% concession in Second Class Fare.",
+            "50% concession in First Class Fare."
+        ],
+        "eligibility": [
+            "The applicant should be an individual artist or a troupe consisting of more than three artists.",
+            "The applicant should undertake the journey by train.",
+            "The purpose of the journey should be to deliver a cultural performance (public programme) in the outstation.",
+            "The distance between the place from which the cultural troupe is to start and the place of performance should be beyond 300 km as fixed by the Indian Railways."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The advertisement is published in the newspapers, calling for applications by the Tamil Nadu Eyal Isai Nataka Mandram. Interested applicants should visit the office of the Mandram during office hours and request a hard copy of the prescribed application form from the designated staff.",
+        "documents_required": [
+            "Bio-Data of the Artist.",
+            "Proof of Identity.",
+            "Train Ticket.",
+            "Confirmation letter obtained from the programme organizer or advertisement details.",
+            "Any other document, required by the Department."
+        ],
+        "faqs": [
+            {
+                "question": "Can the concession be availed for any type of cultural performance?",
+                "answer": "Yes, the concession can be availed for delivering any cultural performance (public program) in an outstation location."
+            },
+            {
+                "question": "How is the concession certificate obtained?",
+                "answer": "A concession certificate will be issued by the Tamil Nadu Eyal Isai Nataka Mandram upon successful application."
+            },
+            {
+                "question": "Is there a limit on the number of artists eligible for the concession in a troupe?",
+                "answer": "No specific limit is mentioned. However, troupes should consist of more than three artists to qualify for the concession."
+            },
+            {
+                "question": "What is the extent of concession provided in the fare for railway travel?",
+                "answer": "The concession provided is 75% in Second Class Fare and 50% in First Class Fare for individual artists and troupes."
+            },
+            {
+                "question": "Is there a specific timeframe within which applications must be submitted?",
+                "answer": "There is no timeframe for application submission. However, applicants should ensure timely submission during office hours."
+            },
+            {
+                "question": "Where should the completed application form and documents be submitted?",
+                "answer": "The duly filled and signed application form along with the required documents should be submitted to the Tamil Nadu Eyal Isai Nataka Mandram."
+            },
+            {
+                "question": "Are there any specific documents required to be submitted along with the application form?",
+                "answer": "Yes, applicants should submit documents such as bio-data of the artist, proof of identity, train ticket, confirmation letter from the program organizer or advertisement details, and any other document required by the department."
+            },
+            {
+                "question": "What is the process for obtaining the application form for availing the concession in railway travel?",
+                "answer": "Interested applicants should visit the office of the Tamil Nadu Eyal Isai Nataka Mandram during office hours and request a hard copy of the prescribed application form from the designated staff."
+            },
+            {
+                "question": "Is there a distance criterion for availing of the concession?",
+                "answer": "Yes, the distance between the place from which the cultural troupe starts its journey and the place of performance should be beyond 300 km as fixed by the Indian Railways."
+            },
+            {
+                "question": "What type of journey is eligible for the concession?",
+                "answer": "The journey should be undertaken by train to qualify for the concession in railway travel."
+            },
+            {
+                "question": "Who is eligible to avail of the concession in railway travel under the scheme?",
+                "answer": "Individual artists or troupes consisting of more than three artists are eligible to avail of the concession in railway travel."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.tn.gov.in/rti/proactive/inftour/handbook_artculture.pdf"
+            }
+        ],
+        "tags": [
+            "Artist",
+            "Culture",
+            "Railway",
+            "Travel"
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "School Sanitation Reward Scheme",
+        "state": "Himachal Pradesh",
+        "department": "Department of Rural Development",
+        "type": "Reward",
+        "beneficiary": "Primary, Middle, and High/Sr. Secondary Schools in rural areas",
+        "details": "The Government of Himachal Pradesh has implemented a comprehensive strategy, known as the Total Sanitation Campaign (TSC), to address the sanitation challenges in rural areas. This strategy has led to significant progress, with the state achieving almost universal sanitation coverage and all Panchayats claiming Open Defecation Free (ODF) status. To further incentivize and acknowledge exceptional efforts in the field of sanitation, the government introduced the Nirmal Gram Puraskar (NGP), Maharishi Valmiki Sampoorna Swachata Puraskar (MVSSP), and the School Sanitation Reward Scheme. The School Sanitation Reward Scheme aims to enhance sanitation facilities and promote hygiene education in schools. Schools that meet the eligibility criteria, including the availability of toilets, urinals, hand washing facilities, safe drinking water, and waste management systems, can participate in the scheme. Assessment committees are formed at the block and district levels to evaluate schools based on specific criteria, and winners are selected accordingly. The scheme provides cash awards and certificates of appreciation to the cleanest primary, middle, and high/senior secondary schools at both block and district levels. The prize money is intended to be utilized for further improving sanitation facilities within the winning schools.",
+        "benefits": [
+            "Improved Sanitation Facilities",
+            "Hygiene Education",
+            "Behavioral Change",
+            "Healthy Learning Environment",
+            "Community Engagement",
+            "Recognition and Motivation",
+            "Sustainable Sanitation Practices"
+        ],
+        "eligibility": [
+            "Co-educational schools with 40 or fewer students should have at least one toilet unit with two toilet seats designated for both boys and girls.",
+            "Co-educational schools with more than 40 but less than 80 students should have at least one toilet unit with two toilet seats and one urinal each for boys and girls.",
+            "Schools with 80 to 120 students should have at least one urinal for every 20 to 40 students, in addition to separate toilets and urinals for girls and boys.",
+            "Handwashing facilities must be available near the toilets in adequate numbers.",
+            "The school should have a water storage facility for handwashing and use in toilets.",
+            "Provision must be made for safe drinking water for children.",
+            "The school should have a system in place for solid and liquid waste management."
+        ],
+        "exclusions": [
+            "Urban Schools: The scheme primarily focuses on rural schools and may exclude schools located in urban areas.",
+            "Non-Coeducational Schools: The scheme primarily targets coeducational schools, which may exclude single-gender schools from participating.",
+            "Schools with Insufficient Student Enrollment: The scheme may have specific requirements regarding student enrollment to participate."
+        ],
+        "application_process": "Offline. Schools interested in participating in the scheme should prepare the necessary documents and meet the eligibility criteria mentioned earlier. The school administration should ensure that all required sanitation facilities and infrastructure are in place. The school should submit its application to the Block Development Officer (BDO) by the specified deadline, which is typically 6th February. The concerned Block Development Officer (BDO) will scrutinize the received applications and verify the fulfillment of eligibility criteria. After scrutiny, the BDO will compile the final list of eligible schools from their respective block. The District Rural Development Agency (DRDA) will receive the compiled list of eligible schools from the BDO. Assessment teams will visit all schools that have applied for the scheme within the block and select the cleanest school in the block based on the scores achieved. The block-level winners will participate in the district-level competition.",
+        "documents_required": [
+            "Application Form",
+            "School Registration Documents",
+            "School Infrastructure Details",
+            "Toilet and Sanitation Facility Details",
+            "Proof of Handwashing Facilities",
+            "Safe Drinking Water Provision",
+            "Supporting Photographs",
+            "Any Additional Supporting Documents"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible to participate in the School Sanitation Reward Scheme?",
+                "answer": "Primary, Middle, and High/Sr. Secondary Schools in rural areas of Himachal Pradesh are eligible to participate if they meet the specified criteria regarding sanitation facilities and hygiene education."
+            },
+            {
+                "question": "Is the scheme open to both government and private schools?",
+                "answer": "Yes, both government and private schools in rural areas are eligible to participate in the School Sanitation Reward Scheme."
+            },
+            {
+                "question": "What are the key criteria for a school to be considered for the scheme?",
+                "answer": "Schools should meet specific requirements, including having adequate toilet units, urinals, handwashing facilities, safe drinking water, and a solid and liquid waste management system, as outlined in the eligibility criteria."
+            },
+            {
+                "question": "How can a school apply for the scheme?",
+                "answer": "Schools need to fill out the application form provided by the authorities and submit it to their Block Development Officer (BDO) within the specified deadline."
+            },
+            {
+                "question": "How is the assessment process conducted for the scheme?",
+                "answer": "Assessment committees are formed at both the block and district levels. The block-level assessment is conducted first, followed by the district-level assessment."
+            },
+            {
+                "question": "What happens if a school wins at the block level?",
+                "answer": "Block-level winners proceed to compete at the district level. They are not eligible to receive prizes at the block level, but they have the opportunity to win prizes and recognition at the district level competition."
+            },
+            {
+                "question": "How are the winners rewarded under the School Sanitation Reward Scheme?",
+                "answer": "Winners receive certificates of appreciation and cash awards. The prize amount varies based on the level of competition (district or block) and the category of the school."
+            },
+            {
+                "question": "Can a school participate in the scheme every year?",
+                "answer": "Yes, schools can participate in the scheme every year as long as they meet the eligibility criteria and submit their applications within the specified timeframe."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification",
+                "url": "https://hptsc.nic.in/scrs.pdf"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/ssrs"
+            }
+        ],
+        "tags": [
+            "Cleanliness",
+            "Hygiene",
+            "Reward",
+            "Sanitation",
+            "School"
+        ]
+    }
+}

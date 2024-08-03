@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Viklang Bharan Poshan Anudaan",
+        "state": "Uttarakhand",
+        "department": "Department Of Social Welfare Uttarakhand State",
+        "type": "Financial Assistance",
+        "beneficiary": "Differently Abled",
+        "details": "In the state, blind, deaf, and physically handicapped destitute persons who neither have any means of their own to live nor can they do any kind of hard work, so that they can be maintained, for this purpose. Under the government's welfare scheme, the scheme of giving destitute disabled maintenance grants was implemented for destitute disabled people to live under social security, which is also commonly known as disabled pension.",
+        "benefits": [
+            "To divyangs Rs.1500/- per month pension",
+            "To the divyangs who are free from leprosy Rs. 1500/- per month",
+            "Monthly allowance to the parents of disabled children from the age of 0-18 years of Rs. 700/-",
+            "To mentally handicapped wife/husband monthly pension of Rs.1500/-"
+        ],
+        "eligibility": [
+            "The certificate that the disability of the candidate is at least 40 percent has been provided by the Chief Medical Officer.",
+            "Candidate should not have any source of income or belong to BPL selected family or monthly income should be up to Rs.4000/-",
+            "If the son/grandson of the candidate is above 20 years of age but is living below the poverty line, then such a candidate will be eligible for a maintenance grant."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar card",
+            "Below Poverty Line (BPL) ration card or Income Certificate by TAHSILDAR",
+            "Bank account details",
+            "Attested Passport size photos by Gram Pradhan /Jila panchayat Adhyaksh /sabhasad nagar palika / gram vikas adhikari (panchayat)",
+            "Voter Id card",
+            "Mobile Number",
+            "A minimum 40 percent disability of the candidate should have been provided by the Chief Medical Officer"
+        ],
+        "faqs": [
+            {
+                "question": "What percentage of disability is mandatory for the acceptance of Uttarakhand Viklang Bharan Poshan Anudaan Scheme and by which authority is this certificate issued?",
+                "answer": "It is mandatory to have more than 40 percent disability issued by the medical officer of the government hospital for the acceptance of disabled pension."
+            },
+            {
+                "question": "What should be the eligibility for acceptance of disabled pension and what is the rate of pension?",
+                "answer": "BPL in the age group of 0 to 18 years, who are suffering from more than 40 percent severe or multiple disabilities, are given pension at the rate of Rs.700/- per month."
+            },
+            {
+                "question": "Who issues the income certificate for the acceptance of Uttarakhand Viklang Bharan Poshan Anudaan Scheme?",
+                "answer": "Income certificate is issued by Tehsildar of concerned Tehsil."
+            },
+            {
+                "question": "Who has the right to accept disabled pension?",
+                "answer": "The person holding more than 40 percent disability certificate issued by the medical officer has the right to accept disability pension. In the rural area, the eligible person is selected in the open meeting of the Gram Panchayat and in the urban area, the sub-collector of the concerned tehsil has the right to accept the pension."
+            },
+            {
+                "question": "What is the period of payment of disabled pension?",
+                "answer": "The amount of disabled pension is paid every 3 months."
+            },
+            {
+                "question": "Is it necessary to have an account in a nationalized bank for the acceptance of Divyang Pension?",
+                "answer": "According to the instructions of the government, the accounts of all the beneficiaries coming under Ramnagar and Haldwani tehsil of Nainital district-Haridwar, Udham Singh Nagar, Dehradun (except the mountainous areas of Chakrata, Kalsi and Raipur blocks) should be compulsorily opened in nationalized banks."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "Financial Assistance to divyangs, divyangs who are free from leprosy, Monthly allowance to the parents of disabled children and to mentally handicapped wife/husband."
+            },
+            {
+                "question": "What should be the maximum monthly income criteria?",
+                "answer": "Monthly income should be up to Rs.4000/-."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "1. Visit the official site. 2. Download the application form. 3. Fill out the application form 4. Attach the required document. 5. Submit the application form with the required document."
+            },
+            {
+                "question": "How to download the application form?",
+                "answer": "Click on the below link to download the application form. URL : https://socialwelfare.uk.gov.in/files/c-Handicapped.pdf"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialwelfare.uk.gov.in/pages/display/96-disability-pension"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://socialwelfare.uk.gov.in/files/HandicapFormat0-18_1.pdf"
+            }
+        ],
+        "tags": [
+            "Differently Abled",
+            "Financial Assistance",
+            "Pension"
+        ]
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "content": {
+        "title": "Mukhyamantri Vriddhjan Samman Pension Yojana",
+        "state": "Rajasthan",
+        "department": "Labour Department",
+        "type": "Pension",
+        "beneficiary": "Senior Citizens",
+        "details": "In 2 October 2021, The 'Mukhyamantri Vriddhjan Samman Pension Yojana' was started by the Labour department of Rajasthan. It will provide the benefits to old age people. By offering financial assistance, the program not only eases the burden of financial worries but also honors the lifelong contributions of seniors to the state's social fabric. It recognizes their wisdom, experience, and resilience, affirming their rightful place in society and ensuring they can live out their golden years with dignity and respect.",
+        "benefits": [
+            "Pension amount: \u20b91,000/- per month"
+        ],
+        "eligibility": [
+            "The applicant should be a native of Rajasthan and living in Rajasthan.",
+            "The female applicant should be 55 years or older.",
+            "The male applicant should be aged 58 years or older.",
+            "The total annual income of the wife/husband from all sources should be less than \u20b948,000/-.",
+            "People belonging to BPL/Antyodaya/Aastha Card holding families/Sahariya/Kathauri, Khairwa castes have been exempted from the income-related condition."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card Copy",
+            "Jan Aadhar/Bhamashah Card Copy",
+            "Bank passbook front page copy (Account holder name, Account No, IFSC code).",
+            "Passport size photo.",
+            "Income Certificate.",
+            "Disability Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The Rajasthan government's Social Justice and Empowerment Department launched the 'Mukhyamantri Vriddhjan Samman Pension Yojana' program, a social welfare initiative that aims to improve the lives of senior citizens residing in the state by providing them with monthly financial assistance."
+            },
+            {
+                "question": "How much financial benefits are provided under the scheme?",
+                "answer": "Monthly pension of \u20b91,000/- will be provided."
+            },
+            {
+                "question": "Who can get the benefits of the scheme?",
+                "answer": "Native of the Rajasthan state who fulfills the eligibility criteria."
+            },
+            {
+                "question": "What is the minimum eligible age to the scheme benefits?",
+                "answer": "Women aged 55 years or more and men aged 58 years or more."
+            },
+            {
+                "question": "Can Other state person also apply for this scheme?",
+                "answer": "A native of the Rajasthan state only."
+            },
+            {
+                "question": "What is the financial eligibility for applicant?",
+                "answer": "Annual income from all sources should be less than \u20b948,000/-."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "Fees for Chief Minister Old Age Samman Pension Scheme is Rs. 33/-. Payment of fees can be done through E-Mitra."
+            },
+            {
+                "question": "What DBT?",
+                "answer": "DBT stands for Direct Benefit Transfer. It is a mechanism used by governments to transfer financial assistance or subsidies directly to the bank accounts of beneficiaries."
+            },
+            {
+                "question": "What is IFSC code?",
+                "answer": "The IFSC code uniquely identifies a specific bank branch participating in electronic fund transfer systems in India."
+            },
+            {
+                "question": "What is Bhamashah Card?",
+                "answer": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/111"
+            },
+            {
+                "type": "Pension Portal",
+                "url": "https://ssp.rajasthan.gov.in/HtmlPages/Schemes/DisablityDetail.aspx"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Financial",
+            "Old Age",
+            "Pension",
+            "Senior Citizens"
+        ]
+    }
+}

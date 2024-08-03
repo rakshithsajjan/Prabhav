@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "Vanchit Ikai Samooh Aur Vargon Ko Aarthik Sahayata Yojana",
+        "state": "OBC",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Loan",
+        "beneficiary": "Self Help Groups (SHGs) and individuals from OBC/SC",
+        "details": "The VISVAS (Vanchit Ikai Samooh aur Vargon ko Aarthik Sahayata) Scheme aims to provide interest subvention to OBC/SC Self Help Groups (SHGs) or individuals. It is being implemented by the Ministry of Social Justice and Empowerment. The objective of the scheme is to provide the direct benefit of a lower rate of interest to the eligible beneficiaries who have availed loans through Public Sector Banks (PSBs), Regional Rural Banks (RRBs) and similar financial institutions. In December 2020, the VISVAS scheme got a major boost after the National Backward Classes Finance & Development Corporation (NBCFDC) and National Scheduled Castes Finance and Development Corporation (NSFDC) signed a Memorandum of Agreement (MoA) with the Central Bank of India and Punjab National Bank.",
+        "benefits": [
+            "Maximum loan limit (for SHG): \u20b9 4,00,000",
+            "Maximum loan limit (for individual): \u20b9 2,00,000",
+            "Maximum Subvention Amount: @5% per annum",
+            "Mode of payment of Subvention: Through Direct Transfer of Subvention Amount into operating account of SHG or Individual"
+        ],
+        "eligibility": [
+            "Members of Backward Classes, as notified by Central Government/State Governments",
+            "All OBC Antyodaya Anna Yojana (AAY) cardholders, and OBC individuals facing three or more Deprivations in terms of SECC-2011",
+            "All OBC beneficiaries involved in Agricultural activities and getting coverage under the PM KISAN",
+            "SHGs must be registered with NRLM/NULM/NABARD with more than two years of credit history",
+            "NSFDC recognized Self-Help Groups (SHGs) registered with NRLM/NULM and NABARD",
+            "The definition of Scheduled Castes includes all castes notified in the State and/or Central Government lists of SCs",
+            "Valid Annual Income Certificate issued by the competent authority of the State Government",
+            "AAY cardholders, and other individuals facing three or more Deprivations in terms of SECC-2011",
+            "All beneficiaries involved in Agricultural activities and getting coverage under the PM KISAN"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Eligible applicant needs to visit the nearest SCA office, and apply on the prescribed form for VISVAS Scheme. Enter the necessary details in the application form and mention the needs and choice of vocation and training requirements, if any. Submit your application form and the required documents to the same SCA office. After reviewing the application, the loan will be sanctioned by SCA.",
+        "documents_required": [
+            "Proof of Identity (Aadhaar card)",
+            "Proof of membership in an SHG",
+            "Proof of registration of the SHG with NRLM/NULM/NABARD",
+            "Proof reg. Credit History of the SHG",
+            "Ration Card",
+            "Income Certificate (issued by the competent authority of the State Government)",
+            "Caste Certificate",
+            "Antyoday Anna Yojana (AAY) card (if applicable)",
+            "Proof of being a beneficiary of PM Kisan Scheme (if applicable)",
+            "Passport size Photograph of the applicant"
+        ],
+        "faqs": [
+            {
+                "question": "Are SHGs That Are Availing Subsidy Under Any Other Scheme Eligible Under This Scheme?",
+                "answer": "No, the Self Help Groups availing interest subvention under this scheme are not eligible for interest subversion under any other scheme."
+            },
+            {
+                "question": "Are All SHGs Eligible For Interest Subvention Under VISVAS Scheme?",
+                "answer": "Only SHGs with 100% SC/OBC members with Standard Accounts are eligible to benefit under this interest subvention scheme."
+            },
+            {
+                "question": "What Are The Key Features Under The VISVAS Scheme?",
+                "answer": "All SC/OBC individuals and Self Help Groups with annual family income up to Rs. 3.00 Lakh will be eligible for interest subvention @ 5% on loans up to Rs lakhs."
+            },
+            {
+                "question": "What Does VISVAS In The Scheme Stand For?",
+                "answer": "VISVAS in the scheme name stands for Vanchit Ikai Samooh aur Vargon ko Aarthik Sahayata."
+            },
+            {
+                "question": "What is the Maximum Loan Limit for SHGs?",
+                "answer": "The Maximum loan limit for SHGs is \u20b9 4,00,000."
+            },
+            {
+                "question": "What Is The Maximum Loan Limit For individual?",
+                "answer": "The Maximum Loan Limit For an Individual Is \u20b9 2,00,000."
+            },
+            {
+                "question": "What is the Maximum Subvention Amount for this scheme?",
+                "answer": "The Maximum Subvention Amount For This Scheme is @5% P.A."
+            },
+            {
+                "question": "What shall be the Mode Of Payment Of the Subvention?",
+                "answer": "The Mode of payment of the Subvention shall be Through Direct Transfer of Subvention Amount into operating account of SHG or Individual."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://nbcfdc.gov.in/visvas-yojana/en"
+            }
+        ],
+        "tags": [
+            "Loan",
+            "OBC",
+            "SHG",
+            "Social Welfare"
+        ]
+    }
+}

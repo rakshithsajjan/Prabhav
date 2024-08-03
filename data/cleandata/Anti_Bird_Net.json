@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Anti Bird Net",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Anti-Bird Net Scheme, an initiative by the Agriculture Department of the Rajasthan government, promotes protected cultivation practices among farmers by providing subsidies for installing low-cost plastic tunnels. The subsidy amount may be capped for each farmer, depending on the scheme's provisions and available funds.",
+        "benefits": [
+            "50 percent subsidy is payable for a maximum area of 5000 square meters."
+        ],
+        "eligibility": [
+            "The applicant should be a native of Rajasthan.",
+            "The applicant must have ownership of cultivable land, his own fruit orchard, and an irrigation source."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card",
+            "Copy of Jamabandi (not more than six months old)",
+            "Quotation from approved firm"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "To protect horticultural crops from damage caused by birds."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, this scheme is only for Rajasthan."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers get benefits from the scheme."
+            },
+            {
+                "question": "How much subsidy give in this scheme?",
+                "answer": "50 percent subsidy is payable for a maximum area of 5000 square meters."
+            },
+            {
+                "question": "Is there any Requirement ownership of cultivable land?",
+                "answer": "Yes, The applicant must have ownership of cultivable land."
+            },
+            {
+                "question": "What is Janadhar card?",
+                "answer": "Jan Aadhaar is 'one number, one card, one identity' scheme, Its main objective is to prepare a database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members."
+            },
+            {
+                "question": "How do a applicant know if a field in the application form is mandatory?",
+                "answer": "A distinctive sign ('*' symbol, 'mandatory' mention, etc.)"
+            },
+            {
+                "question": "How can i apply online?",
+                "answer": "One can apply by visiting the e-Mitra centre."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Aadhar Card / Jan Aadhar Card, copy of Jamabandi (not older than six months), quotation from an approved firm."
+            },
+            {
+                "question": "Is there any educational qualification required for the scheme?",
+                "answer": "No, there is no educational qualification required."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Farming",
+            "Subsidy",
+            "Agriculture"
+        ]
+    }
+}

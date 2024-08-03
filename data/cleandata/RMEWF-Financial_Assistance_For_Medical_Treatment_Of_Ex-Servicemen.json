@@ -1,0 +1,60 @@
+{
+    "content": {
+        "title": "RMEWF-Financial Assistance For Medical Treatment Of Ex-Servicemen",
+        "state": "India",
+        "department": "Ministry Of Defence",
+        "type": "Financial Assistance",
+        "beneficiary": "Ex-Servicemen and widows of Ex-Servicemen",
+        "details": "A scheme to provide financial assistance to a non-pensioner Ex-Servicemen/widows of ranks up to Havildar/equivalent to meet routine medical expenses. With ever increasing costs of health care, it becomes extremely difficult for non-pensioner ESM to combat diseases especially in old age. At such age, medical expenses push such ESM into a state of poverty and loss of dignity. The scheme to provide financial assistance to non-pensioners, who are without any other sources of income and in state of penury.",
+        "benefits": [
+            "Financial assistance up to a maximum of Rs.30,000/- per year per eligible Ex-Servicemen/widow."
+        ],
+        "eligibility": [
+            "Applicant must be a non-pensioner ESM or his widow.",
+            "Should be of rank Havildar/equivalent and below.",
+            "Should be recommended by respective Zila Sainik Board (ZSB).",
+            "Expenditure must be incurred at recognized government hospitals at rates approved under CGHS/ ECHS."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Discharge book/documents.",
+            "I-Card issued by ZSB is must both for ESM & widows.",
+            "Original medical bills countersigned by the attending doctor.",
+            "Hospital discharge summary countersigned by attending doctor.",
+            "A certificate from the applicant stating that he/she has not taken any money/grant from the State or present employer in the form of reimbursement or medical allowance.",
+            "Details of Bank A/c No (in PNB/SBI only) and IFS Code."
+        ],
+        "faqs": [
+            {
+                "question": "Can I Take The Benefit Of This Scheme For Treatment In Any Private Or Government Hospital?",
+                "answer": "No. the financial assistance will be provided for expenditure incurred at recognized government hospitals at rates approved under CGHS/ ECHS."
+            },
+            {
+                "question": "Can I Give Bank Details Of Any Bank?",
+                "answer": "No. Account details of only State Bank of India (SBI) or Punjab National Bank (PNB) is valid for application."
+            },
+            {
+                "question": "Whose Account Details Can Be Filled In The Registration Form?",
+                "answer": "The applicant has to fill his/her Aadhaar linked bank account number."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://ksb.gov.in/medical-treatment-of-esm.htm"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/rmewf"
+            }
+        ],
+        "tags": [
+            "Ex-Servicemen",
+            "Health Checkup",
+            "Health Treatment",
+            "Medical Expenses",
+            "Widow Of Ex-Servicemen"
+        ]
+    }
+}

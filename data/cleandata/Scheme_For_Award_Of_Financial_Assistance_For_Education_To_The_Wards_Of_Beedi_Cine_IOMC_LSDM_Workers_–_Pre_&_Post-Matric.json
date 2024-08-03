@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers \u2013 Pre & Post-Matric",
+        "state": "India",
+        "department": "Ministry Of Labour and Employment",
+        "type": "Scholarship",
+        "beneficiary": "Wards of Beedi/Cine/IOMC/LSDM Workers",
+        "details": "A scholarship scheme by the Directorate of Social Welfare, Ministry of Labour and Employment wherein financial assistance for education is provided to the Wards of Beedi/Iron Ore Mines, Manganese Ore & Chrome Ore Mines (IOMC)/Limestone Mines, Dolomite Mines (LSDM)/Mica Mines and Cine Workers, varying from \u20b91,000/- to \u20b925,000/- per student per annum. The benefits under the scheme are being transferred through the DBT system and the applications under this scheme are invited and processed through the National Scholarship Portal. The Applicant must have passed the last qualifying examination on the first attempt. However, Students promoted to the next class are also eligible to apply for the above scholarships. Candidates for the award of scholarships should have taken regular admission for studies at recognized institutions in India in any course of general or technical education, including medical, engineering, and agricultural studies.",
+        "benefits": [
+            "Class 1st to 4th: \u20b91,000",
+            "Class 5th to 8th: \u20b91,500",
+            "Class 9th & 10th: \u20b92,000",
+            "Class 11th & 12th: \u20b93,000",
+            "Industrial Training Institute (ITI): \u20b96,000",
+            "Polytechnic: \u20b96,000",
+            "Degree Courses (including B.Sc. Agriculture): \u20b96,000",
+            "Professional Courses: \u20b925,000"
+        ],
+        "eligibility": [
+            "Candidates for the award of scholarships should have taken regular admission for studies at recognized institutions in India in any course of general or technical education, including medical, engineering, and agricultural studies.",
+            "The total monthly Income of the Worker\u2019s family from all sources should not exceed \u20b910,000/- for Beedi Workers and \u20b98,000/- for Cine Workers.",
+            "The Applicant must have passed the last qualifying examination on the first attempt.",
+            "Either of the parents of the students should be Beedi, Iron Ore Manganese & Chrome Ore Mines, Limestone & Dolomite Mines, and Cine workers with at least six months of service.",
+            "The Educational Institute must be Government/Government Recognized Institute.",
+            "Students who receive scholarships or stipends from any other source will not be granted under this Scheme.",
+            "The Scholar should have a separate bank account."
+        ],
+        "exclusions": [
+            "If the scholar is found to have obtained a scholarship by false statements.",
+            "If the scholarship discontinues his/her studies.",
+            "If the scholar changes the subject of the course of study without prior approval.",
+            "If the scholar fails to make satisfactory progress in studies or is guilty of misconduct.",
+            "If the parent(s) of the scholar ceases to be a Beedi/Mine/Cine worker.",
+            "Students pursuing studies through Correspondence are not eligible."
+        ],
+        "application_process": "Online. Applicants must register on the National Scholarship Portal and follow the steps to complete their application.",
+        "documents_required": [
+            "Photo",
+            "Identity card of the worker (Form B Register Number in case of Mine workers)",
+            "Front page of Bank Pass Book or Cancelled Cheque",
+            "Passing Certificate/Mark Sheet of previous Academic Year",
+            "Income Certificate issued by the Revenue Authority"
+        ],
+        "faqs": [
+            {
+                "question": "Can I Apply Offline For The Scholarship?",
+                "answer": "No. You need to visit https://scholarships.gov.in/ to apply."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "Do I Need To Complete The Application In One Sitting?",
+                "answer": "No. You can save the application as draft and continue at a later time before the deadline."
+            },
+            {
+                "question": "How Do I Track The Status Of My Application?",
+                "answer": "You can check the same anytime by visiting the Applicant Dashboard and clicking 'Track Status'."
+            },
+            {
+                "question": "What Should Be The Type And Size Of The Documents To Be Uploaded?",
+                "answer": "The format should be .pdf or .jpeg. The size of each document should not be greater than 200 kb."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/Labour_Ministry_Guidelines_of_scholarhsips%20schemes.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Scholarship",
+            "Education",
+            "Beedi Workers",
+            "Cine Workers",
+            "IOMC",
+            "LSDM"
+        ]
+    }
+}

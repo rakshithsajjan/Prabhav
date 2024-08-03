@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Widow Daughter Marriage Scheme",
+        "state": "Delhi",
+        "department": "Department of Women and Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Poor widows and orphan girls",
+        "details": "Financial Assistance for the marriage of daughters of poor widows and orphan girls is the welfare scheme of Govt. of NCT of Delhi to provide financial assistance to the poor widows for performing the marriage of their daughters (up to two daughters) and to provide financial assistance to the guardians including Homes/Institutions or foster parents of an orphan girl or an orphan girl for her marriage. The quantum of Assistance is one time Rs. 30,000 (Rs. Thirty Thousand only per application) up to two daughters only.",
+        "benefits": [
+            "One-time financial assistance of Rs. 30,000 for marriage",
+            "Support for poor widows and orphan girls"
+        ],
+        "eligibility": [
+            "Applicant must be a resident of Delhi for the last 5 years",
+            "Annual income should be less than Rs. 1,00,000 from all sources"
+        ],
+        "exclusions": [
+            "Non-residents of Delhi",
+            "Applicants with income exceeding Rs. 1,00,000 per year"
+        ],
+        "application_process": "Application can be submitted online on e-district portal or offline to the District WCD Officer concerned.",
+        "documents_required": [
+            "Application form",
+            "Recommendation from MLA or MP",
+            "Death certificate of husband (for widow applicants)",
+            "Proof of residence (Ration card, voter ID, etc.)",
+            "Self-declaration of income",
+            "Age proof of girl (school leaving certificate or birth certificate)",
+            "Affidavit for orphan girls",
+            "Marriage invitation card",
+            "Self-declaration of no other financial assistance received",
+            "Aadhar Card",
+            "Residence proof for last 5 years",
+            "Bank account details",
+            "Bank passbook/statement for last one year",
+            "Caste certificate (if applicable)",
+            "Passport size photo of applicant",
+            "Photograph of marriage ceremony"
+        ],
+        "faqs": [
+            {
+                "question": "Is Aadhaar number necessary for applying for WDM?",
+                "answer": "Single operated Aadhar linked bank account of any bank in Delhi only."
+            },
+            {
+                "question": "Can an applicant apply for financial assistance under WDM who is not resident of Delhi?",
+                "answer": "No, the scheme is only for the residents of Delhi, residing from last 5 years."
+            },
+            {
+                "question": "What is the quantum of financial assistance under WDM Scheme?",
+                "answer": "Rs 30,000/- One time."
+            },
+            {
+                "question": "Is any recommendation or attestation required?",
+                "answer": "Yes, the application should be attested from Gazetted Officer or area MP/MLA."
+            },
+            {
+                "question": "What is the procedure to change address?",
+                "answer": "Application has to be given along with documentary proof of changed address to the concerned District W&CD Office."
+            },
+            {
+                "question": "Is there any verification required before getting WDM scheme benefits?",
+                "answer": "Yes, the District Officer, WCD will verify the documents and if required home visit will be done before sanction of assistance."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/fawdsddaw"
+            }
+        ],
+        "tags": [
+            "Widow Assistance",
+            "Marriage Scheme",
+            "Financial Aid",
+            "Delhi Government"
+        ]
+    }
+}

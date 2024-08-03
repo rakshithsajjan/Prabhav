@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "State Rice Mission Scheme",
+        "state": "Meghalaya",
+        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The \u201cState Rice Mission Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is to increase productivity and production of rice through improved technologies and extension methods and, to supply the quality/certified seeds/organic fertilizers at 50% subsidy.",
+        "benefits": [
+            "Training, Awareness program, extension, Technology support, Subsidy on inputs.",
+            "50 % Subsidy for quality paddy seeds to farmers.",
+            "Minor irrigation (Check dam, shallow tube well, etc.)",
+            "50 % sale of Power Tillers SRI Tools for demonstration.",
+            "Trainings"
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Meghalaya.",
+            "The applicant should be a bonafide farmer engaged in agriculture."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The eligible bonafide farmer can apply/write an application on plain paper. Along with the application, attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle.",
+        "documents_required": [
+            "Passport-size photograph",
+            "Identity Proof",
+            "Documents proof of having sufficient available cultivable land",
+            "Bank account detail",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The key objective of the scheme is to increase productivity and production of rice through improved technologies and extension methods and through supply of Quality/ Certified seeds, Organic fertilizers, Bio-fertilizers & Bio-pesticides including Training, awareness program & Technology Support to the farmers."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+            },
+            {
+                "question": "Who can apply for the scheme?",
+                "answer": "The bonafide farmers having cultivable land engage in agriculture can apply under the scheme."
+            },
+            {
+                "question": "What is the pattern of assistance?",
+                "answer": "Training, Awareness program, extension, Technology support and Subsidy on inputs."
+            },
+            {
+                "question": "What is the type of assistance/entitlement?",
+                "answer": "50 % Subsidy for quality paddy seeds, Minor irrigation (Check dam, shallow tube well, etc), 50 % sale of Power Tillers SRI Tools for demonstration, Trainings."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/ Agriculture Circle."
+            },
+            {
+                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first serve basis."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=6"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Rice",
+            "Subsidy",
+            "Training"
+        ]
+    }
+}

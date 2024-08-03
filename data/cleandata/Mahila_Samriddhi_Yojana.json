@@ -1,0 +1,60 @@
+{
+    "content": {
+        "title": "Mahila Samriddhi Yojana",
+        "state": "Not specified",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Loan",
+        "beneficiary": "Women Enterpreneur",
+        "details": "Mahila Samridhi Yojana (MSY) is a scheme aimed to benefit the women entrepreneurs from backward backgrounds or poor backgrounds. The scheme was launched as part of the National Backward Classes Finance and Development Corporation (NBCFDC) under the Ministry of Social Justice and Empowerment. Under this scheme, the Government provides micro-finance to the women entrepreneurs either directly or through Self-Help Groups (SHGs). This scheme is being implemented by a wide range of channel partners nationwide. Targeted women beneficiaries are identified and given loans either directly or in the form of Self-Help Groups (SHGs).",
+        "benefits": [
+            "Financial Assistance up to cost of \u20b91,40,000/- is provided.",
+            "The repayment period is within 3.5 years, in quarterly installments from date of each disbursement including moratorium period.",
+            "On repayment of loans under MSY, through the concerned State Channelizing Agencies (SCA), the eligible beneficiaries can avail any loan under NSFDC scheme."
+        ],
+        "eligibility": [
+            "Applicant must be between 18 to 55 years of age.",
+            "Applicable to Women belonging to economically and socially backward classes (targeted groups) as notified time to time by the Central/State Government."
+        ],
+        "exclusions": [],
+        "application_process": "Visit the official website of NSFDC or your state government portal to apply. Download the Mahila Samridhi Yojana application form. Fill up the application form carefully and provide the necessary details, such as your age, name, contact information, required amount, etc. Submit the form along with the required documents.",
+        "documents_required": [
+            "Address Proof",
+            "Identity Proof",
+            "SHG membership ID",
+            "Caste certificate (if applicable)",
+            "Income Certificate from a competent authority",
+            "Aadhaar Card",
+            "Bank Account details",
+            "Recent Passport Size Photographs"
+        ],
+        "faqs": [
+            {
+                "question": "What is Mahila Samriddhi Yojana?",
+                "answer": "Mahila Samriddhi Yojana is a microfinance scheme offering loans under NBCFDC to women entrepreneurs from below poverty line (BPL) section of the society or backward classes."
+            },
+            {
+                "question": "Interest Rate per annum chargeable to SCAs and Beneficiaries?",
+                "answer": "In the case of State Channelizing Agencies (SCAs) it is 1% whereas in case of beneficiaries it is 4%."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/cbssc-msy"
+            },
+            {
+                "type": "NSFDC",
+                "url": "https://nsfdc.nic.in/en/mahila-samriddhi-yojana"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://nskfdc.nic.in/en/node/add/loan-application"
+            }
+        ],
+        "tags": [
+            "Loan",
+            "Micro-Finance",
+            "Women Enterpreneur"
+        ]
+    }
+}

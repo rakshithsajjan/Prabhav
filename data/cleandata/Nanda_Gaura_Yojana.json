@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Nanda Gaura Yojana",
+        "state": "Uttarakhand",
+        "department": "Women Empowerment and Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Girl Child",
+        "details": "The state government will give money to the girl child from birth till her marriage so that she can get the best education and be independent. The main objective is to stop female feticide, stop child marriage, remove lagging inequality in the society, and make them self-reliant by providing higher education. Benefits will be given to the girl's eligible families who are permanent residents of Uttarakhand state.",
+        "benefits": [
+            "Rs. 11,000/- at the time of Birth",
+            "Rs. 51,000/- on passing Class 12th",
+            "Total benefit of Rs. 62,000/-"
+        ],
+        "eligibility": [
+            "This scheme is valid only for native/permanent girls of Uttarakhand state.",
+            "No more than two girls (living girls) in a family will be benefited.",
+            "It is mandatory to apply for the first phase within 06 months of the birth of the girl child.",
+            "The birth of a girl child should be done in a government hospital / private hospital / ANM center only.",
+            "It will be mandatory to attach a copy of the institutional delivery certificate for the birth certificate of the girl child.",
+            "November 30 has been fixed as the last date for applying for the benefit of the second phase in every financial year.",
+            "The applicant should ensure that the bank account provided by him is active.",
+            "The annual income of the girl child's family should be up to a maximum of Rs. 72,000/-."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Permanent residence certificate.",
+            "Income certificate of guardian issued by concerned Tehsildar.",
+            "Certificate of institutional delivery.",
+            "Birth Certificate of the girl child.",
+            "Aadhaar card of mother/father/guardian.",
+            "Copy of the first page of bank passbook of mother/guardian.",
+            "Certificate provided by the concerned Anganwadi worker in the prescribed format."
+        ],
+        "faqs": [
+            {
+                "question": "To take advantage of the first phase, it is mandatory to apply within how much time after the birth of a girl child?",
+                "answer": "It is mandatory to apply within 06 months of the birth of a girl child."
+            },
+            {
+                "question": "Is there any upper income limit prescribed for applying?",
+                "answer": "Yes, the prescribed maximum income limit is Rs.6000/- per month."
+            },
+            {
+                "question": "If the girl child is born at home, can her parent apply for Phase I?",
+                "answer": "No, it is necessary to have an institutional delivery certificate."
+            },
+            {
+                "question": "If someone has three daughters, can they take benefit for all three daughters?",
+                "answer": "No, they can avail the benefit only for any two girl children."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Financial Assistance in two phases."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines-2017",
+                "url": "https://wecd.uk.gov.in/files/nanda_gaura_yojana_2017-18_1.pdf"
+            },
+            {
+                "type": "Guidelines-2019",
+                "url": "https://wecd.uk.gov.in/files/nanda_gaura_Go-1003.pdf"
+            },
+            {
+                "type": "Official Web Portal",
+                "url": "https://nandagaura.uk.gov.in/"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Empowerment",
+            "Financial Assistance",
+            "Women"
+        ]
+    }
+}

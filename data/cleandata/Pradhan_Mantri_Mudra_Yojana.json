@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Mudra Yojana",
+        "state": "India",
+        "department": "Ministry Of Finance",
+        "type": "Loan",
+        "beneficiary": "Micro enterprises in the non-farm sector",
+        "details": "Pradhan Mantri Mudra Yojana (PMMY) is a flagship scheme of Government of India. The scheme facilitates micro credit/Loan up to Rs. 10 lakhs to income generating micro enterprises engaged in the non-farm sector in manufacturing, trading or service sectors including activities allied to agriculture such as poultry, dairy, beekeeping, etc. The Scheme provides financial assistance extended by Member Lending Institutions to the non-corporate, non-farm sector income generating activities of micro and small entities.",
+        "benefits": [
+            "Loans classified under three categories: 'SHISHU', 'KISHORE', and 'TARUN'",
+            "Shishu: Covering loans up to Rs.50,000/-",
+            "Kishore: Covering loans above Rs.50,000/- and up to Rs. 5 lakhs",
+            "Tarun: Covering loans above Rs. 5 lakhs and up to Rs. 10 lakhs"
+        ],
+        "eligibility": [
+            "Individuals",
+            "Proprietary concern",
+            "Partnership Firm",
+            "Private Ltd. Company",
+            "Public Company",
+            "Any other legal forms",
+            "Applicant should not be a defaulter to any bank or financial institution",
+            "Necessary skills/experience/knowledge to undertake the proposed activity"
+        ],
+        "exclusions": [],
+        "application_process": "The application process includes prerequisites such as ID Proof, Address Proof, Passport size photograph, Applicant Signature, and Proof of Identity/Address of Business Enterprises. Applicants must fill in personal and professional details, select the category of loan required, and attach all required documents.",
+        "documents_required": [
+            "Proof of Identity \u2013 Self-attested copy of Voter\u2019s ID Card / Driving Licence / PAN Card / Aadhaar Card / Passport",
+            "Proof of Residence: Recent telephone bill / electricity bill / property tax receipt (not older than 2 months)",
+            "Applicant\u2019s recent coloured Photograph (2 copies) not older than 6 months",
+            "Quotation of Machinery / other items to be purchased",
+            "Proof of Identity / Address of the Business Enterprise \u2013 Copies of relevant Licences / Registration Certificates"
+        ],
+        "faqs": [
+            {
+                "question": "Is Khadi Activity Eligible Under PMMY Loans?",
+                "answer": "Yes. MUDRA loans are applicable for any activity which results in income generation."
+            },
+            {
+                "question": "Are MUDRA Loans Available For Purchase Of CNG Tempo/Taxi?",
+                "answer": "MUDRA loans would be available for purchase of CNG Tempo/Taxi, in case the applicant intends to use the vehicle for commercial purposes."
+            },
+            {
+                "question": "I Have A Savings Bank Account With the Bank, Would Loan Under MUDRA Be Available Based On The SB Account?",
+                "answer": "Yes. The applicant can approach the branch and apply for the loan in the format being provided by the said lending institution."
+            },
+            {
+                "question": "Under PMMY-Shishu Loans, What Is The Turn Around Time For Processing The Loan Proposal?",
+                "answer": "As per Banking Codes and Standard Board of India (BCSBI), loan applications should be disposed off for credit limit up to Rs.5 lakh within 2 weeks."
+            },
+            {
+                "question": "Is It Required To Submit Income Tax Returns For The Preceding 2 Years For Availing Loan Of Rs. 10 Lakh Under PMMY?",
+                "answer": "Generally, IT returns are not insisted for small value loans. However, the requirement of documents will be advised by the concerned lending institutions."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pmmy"
+            }
+        ],
+        "tags": [
+            "Loan",
+            "Micro Finance",
+            "Government Scheme",
+            "Entrepreneurship"
+        ]
+    }
+}

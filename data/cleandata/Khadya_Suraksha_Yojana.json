@@ -1,0 +1,47 @@
+{
+    "content": {
+        "title": "Khadya Suraksha Yojana",
+        "state": "Rajasthan",
+        "department": "Food and Civil Supplies Department",
+        "type": "Subsidy",
+        "beneficiary": "BPL Families",
+        "details": "The 'Rashtriya Khadya Suraksha Yojana' started on 02-10-2013 by the Food and Civil Supplies Department of Rajasthan. This scheme aim is to provide adequate quality food grains at reasonable prices to the people so that they can lead a dignified life. The Act provides for coverage of 75% of the rural population and 50% of the urban population to receive subsidized food grains under the Targeted Public Distribution System (TPDS) which covers about two-thirds of the population.",
+        "benefits": [
+            "Antyodaya families are provided with 35 kg of wheat per family.",
+            "Other eligible beneficiaries receive 5 kg of wheat per unit per month.",
+            "Ration card holders categorized under Antyodaya and Below Poverty Line (BPL) in the state are entitled to wheat at a subsidized rate of \u20b91 per kg.",
+            "Other eligible families categorized as Priority Household receive food security at \u20b92 per kg per month."
+        ],
+        "eligibility": [
+            "The applicant should be a native of Rajasthan.",
+            "The applicant should be of Antyodaya/ BPL families/Annapurna.",
+            "The applicant should have a ration card."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Ration Card",
+            "Aadhaar Card",
+            "Bhamashah Card",
+            "Cast Certificate",
+            "BPL Card (If applicable)",
+            "Affidavit (available in the document page no. 6)"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyanfile.rajasthan.gov.in//Content/UploadFolder/Scheme/FOOD/NFSA/DOC_203_2cf8164c-98b5-43a0-958e-fdecd2ee7a68.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/203"
+            }
+        ],
+        "tags": [
+            "Food Security",
+            "Development",
+            "Families"
+        ]
+    }
+}

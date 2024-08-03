@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "West Bengal Migrant Workers\u2019 Welfare Scheme: Accidental Disability",
+        "state": "West Bengal",
+        "department": "Labour Department, Government of West Bengal",
+        "type": "Social Welfare Scheme",
+        "beneficiary": "Registered Migrant Workers",
+        "details": "Launched on 25th April 2023, 'West Bengal Migrant Workers\u2019 Welfare Scheme: Accidental Disability' is a social welfare scheme by the West Bengal Migrant Workers\u2019 Welfare Board. Under this scheme, one-time assistance is provided to the registered Migrant Worker in case of disability arising out of accidents during work.",
+        "benefits": [
+            "\u20b9 50,000/- in case of 40% to 80% disability.",
+            "\u20b9 1,00,000/- in case of more than 80% disability."
+        ],
+        "eligibility": [
+            "The applicant must be a resident of West Bengal.",
+            "The applicant\u2019s age should be between 18 and 60 years.",
+            "The applicant must be ordinarily a worker who is employed/likely to be employed in any State/Union Territories other than the state of West Bengal/Outside India.",
+            "The applicant should be a migrant worker.",
+            "The applicant should be registered with the West Bengal Migrant Workers\u2019 Welfare Board.",
+            "The migrant worker should have a disability of 40%.",
+            "The disability should have been caused due to an accident during work.",
+            "The disability should be certified by a Government Hospital."
+        ],
+        "exclusions": [
+            "The applicant should not be in receipt of any other financial assistance of a similar nature from the Government of West Bengal."
+        ],
+        "application_process": "Online application through the 'KARMASATHI (PARIJAYEE SHRAMIK)' app.",
+        "documents_required": [
+            "Photo (max Size 50 KB, jpg or jpeg file only).",
+            "Aadhaar Card (both sides of the document to be uploaded as a single file) (max size 150 KB, pdf file only).",
+            "First page of bank account particulars (max size 150 KB, pdf file only).",
+            "Employment Certificate.",
+            "Disability Certificate issued by any Government Hospital.",
+            "Any other documents as required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the definition of a Migrant Worker?",
+                "answer": "Migrant Worker means a person of the age in between 18 to 60 years who is, by origin, a resident of West Bengal and employed in a remunerated activity in any State/Union Territories in India other than West Bengal."
+            },
+            {
+                "question": "Which department is the management authority for this scheme?",
+                "answer": "The Scheme will be implemented and monitored by the Labour Department through Labour Commissionerate."
+            },
+            {
+                "question": "What process will be followed by the department for the administration of the Welfare Assistance?",
+                "answer": "All Assistant Labour Commissioners are authorised to verify, administer and sanction claims for assistance under this Scheme within their respective jurisdiction on the basis of criteria as decided by the Board."
+            },
+            {
+                "question": "What measures are in place to prevent misuse of the Welfare Assistance?",
+                "answer": "In case of any misrepresentation of facts or furnishing false information by a Migrant Worker, the registration obtained may subsequently be cancelled by the registering authority with the approval of the Board."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "'West Bengal Migrant Workers\u2019 Welfare Scheme: Accidental Disability' provides one-time assistance to the registered migrant worker in case of disability arising out of accidents during work."
+            },
+            {
+                "question": "When was this scheme launched?",
+                "answer": "This scheme was launched on 25th April, 2023."
+            },
+            {
+                "question": "Who are the targeted beneficiaries under this scheme?",
+                "answer": "The registered migrant workers of the state are the targeted beneficiaries under this scheme."
+            },
+            {
+                "question": "What kind of assistance can be availed through this scheme?",
+                "answer": "Under this scheme, \u20b9 50,000/- in case of 40% to 80% disability and \u20b9 1,00,000/- in case of more than 80% disability is provided."
+            },
+            {
+                "question": "How can the benefits be availed?",
+                "answer": "The applicant needs to apply through 'KARMASATHI (PARIJAYEE SHRAMIK)' app with all the mandatory documents."
+            },
+            {
+                "question": "Is there any income criteria to be eligible for the scheme?",
+                "answer": "No, there is no specific income criteria for the applicant to be eligible for the scheme."
+            },
+            {
+                "question": "What is the frequency of the assistance?",
+                "answer": "The assistance will be provided one time to the beneficiaries."
+            },
+            {
+                "question": "Is there any provision of renewal of registration as a beneficiary?",
+                "answer": "Yes, Migrant Worker, registered as beneficiary, will have to renew his/her registration on yearly basis."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://karmasathips.wblabour.gov.in/sites/default/files/static/migrant_worker_scheme.pdf"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://karmasathips.wblabour.gov.in/sites/default/files/static/user_manual_for_karmasathi.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Disability",
+            "Financial Assistance",
+            "Labour",
+            "Migrant",
+            "Social Welfare",
+            "Worker"
+        ]
+    }
+}

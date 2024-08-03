@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Mukhyamantri Kanyadaan Yojana",
+        "state": "Rajasthan",
+        "department": "Social Welfare",
+        "type": "DBT Scheme",
+        "beneficiary": "Girls from economically weaker sections of society",
+        "details": "Mukhyamantri Kanyadaan Yojna is a scheme launched by the Rajasthan Government to promote the marriage of girls from economically weaker sections of society. Under this scheme, the government provides financial assistance to eligible families for the marriage of their daughters. The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of \u20b940,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses.",
+        "benefits": [
+            "The implementation of this scheme will be reviewed at the district level and a committee meeting will be held every 3 months.",
+            "The state government will provide financial assistance of \u20b9 31,000 to \u20b9 41,000 to the eligible beneficiaries at the time of the girl's marriage.",
+            "Under this scheme, a provision of savings of about \u20b924 crore has been approved.",
+            "If the girls of the state pass 10th then the government will provide an amount of \u20b941 thousand at the time of their marriage.",
+            "If the girls of the state pass 12th then the government will provide an amount of \u20b951 thousand at the time of their marriage."
+        ],
+        "eligibility": [
+            "BPL family belonging to the Scheduled Tribe category",
+            "Minority category BPL families",
+            "Specially Qualified Individuals (Not Income Tax Payers)",
+            "A female player (if self-married) who fulfills the prescribed criteria as per the circulars issued by the Personnel Department. Self or parents are not income taxpayers.",
+            "Beneficiary in Palanhar Yojana"
+        ],
+        "exclusions": [],
+        "application_process": "Registration: Click on the option 'Register'. Then you will be redirected to the SSO registration page. Choose either Jan Aadhaar or Google to process further. Apply: After login, dashboard will open. Click on 'IFMS-RAJSSP' option. In 'IFMS-RAJSSP', click on 'Application Entry Request'. Enter the 'Bhamashah Family ID' and search. Select the person name and scheme name. Complete the Aadhaar Authentication and click on get details. Provide the required details and submit.",
+        "documents_required": [
+            "Caste Certificate Copy",
+            "Aadhar Card Copy",
+            "Address Proof Copy",
+            "Bank Passbook Copy",
+            "Birth Certificate Copy: Age proof",
+            "Death Certificate Copy: In case of widow women",
+            "Income Certificate Copy: In case of widow/Palanhar/Divyang",
+            "Education Qualification Marksheet / Certificate Copy",
+            "Marriage Certificate Copy",
+            "Jan Aadhar/Bhamashah Card Copy",
+            "Passport Size Photo",
+            "Ration Card Copy",
+            "Voter ID Copy"
+        ],
+        "faqs": [
+            {
+                "question": "Who Can Apply For This Scheme?",
+                "answer": "Divyang and Women belongs to SC, ST, Minority, Women Player from Below Poverty level of the society can apply for this scheme."
+            },
+            {
+                "question": "What Are The Benefits Of This Scheme?",
+                "answer": "The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden."
+            },
+            {
+                "question": "What is eligibility criteria?",
+                "answer": "Scheduled Caste category BPL families, BPL family belonging to Scheduled Tribe category, Minority category BPL families, Specially Qualified Individuals (Not Income Tax Payers), A female player (if self-married) who fulfills the prescribed criteria as per the circulars issued by the Personnel Department."
+            },
+            {
+                "question": "What Documents Are Needed To Apply For This Scheme?",
+                "answer": "Caste Certificate Copy, Aadhar Card Copy, Address Proof Copy, Bank Passbook Copy, Birth Certificate Copy, Death Certificate Copy, Income Certificate Copy, Education Qualification Marksheet / Certificate Copy, Marriage Certificate Copy, Jan Aadhar/Bhamashah Card Copy, Passport Size Photo, Ration Card Copy, Voter ID Copy."
+            },
+            {
+                "question": "How to apply for this scheme?",
+                "answer": "Visit the official website of the Rajasthan government's Women Empowerment Department, click on the 'Schemes' tab, select 'Mukhyamantri Kanyadaan Yojana', read the eligibility criteria, download the application form, fill it and submit it along with the required documents."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/mky"
+            }
+        ],
+        "tags": [
+            "Female Scheme",
+            "Girls Scheme Rajasthan",
+            "Kanyadaan Yojana",
+            "Social Welfare"
+        ]
+    }
+}

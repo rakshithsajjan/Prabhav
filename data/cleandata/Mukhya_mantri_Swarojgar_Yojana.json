@@ -1,0 +1,103 @@
+{
+    "content": {
+        "title": "Mukhya mantri Swarojgar Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Department of Micro, Small & Medium Enterprises",
+        "type": "Loan",
+        "beneficiary": "Citizens of Madhya Pradesh",
+        "details": "The Mukhya Mantri Swarojgar Yojana was launched on 1 August 2014 under The Department of Micro, Small & Medium Enterprises, Madhya Pradesh government gives loans up to \u20b950,000 to \u20b910,00,000 to the state's citizens to establish employment so that all the citizens can start employment. Under Madhya Pradesh Mukhya Mantri Swarozgar Yojana, the government provides the benefit of money margin, interest subsidy, loan guarantee, and training to the beneficiaries. It provides a minimum period of 6 months and a maximum of 7 years to repay the loan payable by the bank.",
+        "benefits": [
+            "Financial help",
+            "Margin money assistance: 15% of the project cost (maximum \u20b91,00,000 for the general category), 30% of the cost (maximum \u20b92,00,000) for Below Poverty Line (BPL), Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC) (except creamy layer)/ Women/ Minority/ Disabled project.",
+            "Additional provisions: 30% of the project cost (maximum \u20b93,00,000 lakh) to the liberated nomadic and semi-nomadic tribes. Bhopal gas victim family members are eligible for an additional 20% (maximum \u20b91,00,000 on the project cost).",
+            "Interest subsidy: At the rate of 5% per annum of the project cost and for women entrepreneurs at the rate of 6% per annum, for a maximum of 7 years. (Maximum \u20b925,000 per annum). Guarantee Fee (CGTMSE/: CGFMU) Up to a maximum of 7 years at the prevailing rate."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Madhya Pradesh.",
+            "The applicant should have passed in the 5th class.",
+            "The applicant\u2019s age should be between 18 to 45 years.",
+            "The applicant\u2019s family should not be an income taxpayer.",
+            "The applicant should not be a defaulter of any bank."
+        ],
+        "exclusions": [
+            "The applicant is getting assistance under any other self-employment scheme, then he cannot avail of benefits under the scheme.",
+            "The benefit of this scheme can be availed only once."
+        ],
+        "application_process": "Online. Step 1: Visit the official website using the provided link. Step 2: The homepage will appear, and you need to click on the application link for the Mukhya Mantri Swarozgar Yojana. Step 3: Various departments associated with the scheme will be displayed. Choose the department that interests you. Step 4: Choose the option for registration or sign-up if you are a new application. Click the submit button after entering your name, mobile number, password, and captcha code. Step 5: After submitting, you will be registered on the portal. Step 6: Now, you can log in to the portal and apply for the scheme.",
+        "documents_required": [
+            "Aadhar Card",
+            "Pan Card",
+            "Income certificate",
+            "Address proof",
+            "Passport size photo",
+            "Mobile number",
+            "5th class mark sheet"
+        ],
+        "faqs": [
+            {
+                "question": "What is Mukhya Mantri Swarojgar Yojana (MMSY)?",
+                "answer": "Mukhya Mantri Swarojgar Yojana is a government scheme aimed at promoting self-employment and entrepreneurship among the youth and economically weaker sections of society."
+            },
+            {
+                "question": "Is there any age limit for applicants of Mukhya Mantri Swarojgar Yojana?",
+                "answer": "The age limit may vary depending on the state government's guidelines, but generally, individuals above 18 to 45 years of age are eligible to apply."
+            },
+            {
+                "question": "May other state persons also apply for this scheme?",
+                "answer": "No, only from Madhya Pradesh native persons."
+            },
+            {
+                "question": "What is the minimum educational qualification required for the scheme?",
+                "answer": "Applicant must have passed minimum 5th class."
+            },
+            {
+                "question": "Is there any subsidy or financial assistance provided under the scheme?",
+                "answer": "Yes, the scheme provides financial assistance in the form of subsidies, loans, or grants, depending on the nature of the business and the applicant's eligibility."
+            },
+            {
+                "question": "What are the documents required for applying to Mukhya Mantri Swarojgar Yojana?",
+                "answer": "Commonly required documents include proof of identity, address proof, income certificate, caste certificate (if applicable), educational qualifications, business plan, and bank account details."
+            },
+            {
+                "question": "What types of assistance are provided under Mukhya Mantri Swarojgar Yojana?",
+                "answer": "The scheme provides financial assistance, skill development training, guidance, and support for setting up micro-enterprises and small businesses."
+            },
+            {
+                "question": "Which is the official website of the Chief Minister Self Employment Scheme Madhya Pradesh?",
+                "answer": "This is the official website for the Chief Minister Self Employment Scheme in Madhya Pradesh, https://msme.mponline.gov.in/"
+            },
+            {
+                "question": "How many times can the applicant avail of the benefits of the scheme?",
+                "answer": "The applicant will be eligible for assistance under this scheme only once."
+            },
+            {
+                "question": "How to apply Online?",
+                "answer": "Visit the official website using the provided link https://msme.mponline.gov.in/Portal/Services/msme2019/landing.html"
+            },
+            {
+                "question": "Can I apply offline?",
+                "answer": "No, you can apply online."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://msme.mponline.gov.in/Quick%20Links/DCIE/DCIDocs/MSY_Scheme.pdf"
+            },
+            {
+                "type": "Clarification",
+                "url": "https://mpmsme.gov.in:8080/mpmsmecms/Uploaded%20Document/Documents/Clarification%20on%20SES%20new%20Circular.pdf"
+            },
+            {
+                "type": "Amendment",
+                "url": "https://mpmsme.gov.in:8080/mpmsmecms/Uploaded%20Document/Documents/SES%20order.pdf"
+            }
+        ],
+        "tags": [
+            "Self Employment",
+            "Financial Assistance",
+            "Loan",
+            "Madhya Pradesh"
+        ]
+    }
+}

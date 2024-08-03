@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Mukhyamantri Bal Poshan Yojana",
+        "state": "Uttarakhand",
+        "department": "Department of Women Empowerment and Child Development",
+        "type": "Social Security Initiative",
+        "beneficiary": "Children aged 3 to 6 years",
+        "details": "In an effort to combat childhood malnutrition, the state of Uttarakhand's Department of Women Empowerment and Child Development has launched the 'Mukhyamantri Bal Poshan Yojana' program. This social security initiative targets children between the ages of 3 and 6, aiming to improve their nutritional health by providing them with essential food supplies. By addressing dietary deficiencies in this crucial age group, the program seeks to ensure a healthier and stronger foundation for the future generation of Uttarakhand.",
+        "benefits": [
+            "Egg (2 Days/Week)",
+            "Banana Chips (2 Days/Week)"
+        ],
+        "eligibility": [
+            "Beneficiary should be a permanent resident of Uttarakhand",
+            "Beneficiary should be a child",
+            "Beneficiaries should be between 3 years to 6 years"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step-1: Concerned parents should take their children to the nearby Anganwadi Centre. Step-2: Provide all the necessary documents as directed (attested, if required). Step-3: After the completion of the procedure benefits can be availed from the Anganwadi Centre.",
+        "documents_required": [
+            "Proof of Child Birth"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Mukhyamantri Bal Poshan Yojana is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand, that aims to reduce malnutrition among the children of the state through providing nutritional food."
+            },
+            {
+                "question": "Which department has launched this Scheme?",
+                "answer": "This scheme has been launched by the Department of Women Empowerment and Child Development, Government of Uttarakhand."
+            },
+            {
+                "question": "Who are the targeted beneficiaries under this scheme?",
+                "answer": "Benefits are provided only to the Children."
+            },
+            {
+                "question": "What kind of assistance can be availed through this scheme?",
+                "answer": "This scheme provides nutritional food."
+            },
+            {
+                "question": "What should be the age criteria for the beneficiaries?",
+                "answer": "Beneficiary\u2019s age must be between 3-6 years."
+            },
+            {
+                "question": "How can the benefits be availed?",
+                "answer": "Concerned parents should take their children to the nearby Anganwadi Centre with all the necessary documents as directed."
+            },
+            {
+                "question": "What documents are provided?",
+                "answer": "Only, Birth proof is required."
+            },
+            {
+                "question": "Can other state person get the scheme benefits?",
+                "answer": "Beneficiary must be a permanent resident of Uttarakhand only."
+            },
+            {
+                "question": "Is benefits only provided to the girl child?",
+                "answer": "No, benefit will be provided to all the children."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+            }
+        ],
+        "tags": [
+            "Child",
+            "Health",
+            "Nutrition"
+        ]
+    }
+}

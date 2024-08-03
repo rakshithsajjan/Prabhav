@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Free Coaching Scheme for SC and OBC Students",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Coaching",
+        "beneficiary": "Scheduled Castes (SC) and Other Backward Classes (OBC) students",
+        "details": "'Free Coaching Scheme for SC and OBC Students' is an Education Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. The objective of the Scheme is to provide coaching of good quality for economically disadvantaged Scheduled Castes (SCs) and Other Backward Classes (OBCs) candidates to enable them to appear in competitive examinations for obtaining appropriate jobs in the Public/Private Sector and/or for securing admission in reputed technical and professional higher education institutions.",
+        "benefits": [
+            "Stipend @ \u20b9 4000 per month for the full duration of the course not exceeding 12 months.",
+            "\u20b9 15,000 as an incentive to the successful students for coaching for interviews for all the students clearing the mains stage of Central Civil Services / State Civil Services Exams for Class 1 and Class 2 posts."
+        ],
+        "eligibility": [
+            "The applicant should be a student.",
+            "The applicant should be from Scheduled Caste or Other Backward Class.",
+            "The total annual family income of the applicant (from all sources) should be \u20b9 8,00,000 or less.",
+            "For the competitive exams for which the qualifying exam is class 12th, the candidate should have passed class 12th or be studying in class 12th as of the date of receiving the benefit under the scheme.",
+            "Further, in case of competitive exams for which the qualifying exam is Undergraduate level, the candidate should have completed the undergraduate level course or studying in the final year of the undergraduate course concerned at the time of receiving the benefit under the scheme shall be eligible.",
+            "Benefits under the Scheme can be availed by a particular student not more than twice, irrespective of the number of chances he/she may be entitled to take in a particular competitive examination and irrespective of the number of stages in the exam.",
+            "The applicant should not already be availing of the benefits of any other coaching scheme."
+        ],
+        "exclusions": [
+            "For the competitive exams for which the qualifying exam is class 12th, students having less than 50% marks in their class 10th exam, shall not be considered under the scheme.",
+            "Further, in case of competitive exams for which the qualifying exam is Under Graduate level, students having less than 50% marks in their class XII exam, shall not be considered under the scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport Size Photograph",
+            "Aadhaar card",
+            "Income Certificate",
+            "Caste Certificate",
+            "Residence Proof",
+            "Age Proof",
+            "ID Card",
+            "Details of the Aadhaar-linked Bank Account",
+            "Marksheet of Class 10th, for the competitive exams for which the qualifying exam is class 12th.",
+            "Marksheet of Class 12th, for the competitive exams for which the qualifying exam is Under Graduate level",
+            "Declaration that he/she has not taken benefit more than twice under the Scheme or any other similar coaching scheme run by the Central or State Government.",
+            "Declaration that he/she is not availing benefits under any other coaching scheme of the Centre or State Government."
+        ],
+        "tags": [
+            "Coaching",
+            "Examination",
+            "Scheduled Caste",
+            "Other Backward Class",
+            "Stipend"
+        ],
+        "faqs": [
+            {
+                "question": "How is the scheme monitored and coordinated?",
+                "answer": "The Ministry, in association with DAF, monitors the scheme by obtaining periodic reports from Central Universities and conducting physical verifications."
+            },
+            {
+                "question": "What is the income limit for students to be eligible for this scheme?",
+                "answer": "Students belonging to SCs and OBCs with a total family income of Rs. 8.00 lakh or less per annum from all sources are eligible."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialjustice.gov.in/public/ckeditor/upload/69491687240203.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://coaching.dosje.gov.in//(S/(ko10mm0fy0l10kmimlosr0gp/)/)/docs/faq.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://coaching.dosje.gov.in//(S/(i4vtneavtdrl35rgj4ecwvfc/)/)/contact.aspx"
+            }
+        ]
+    }
+}

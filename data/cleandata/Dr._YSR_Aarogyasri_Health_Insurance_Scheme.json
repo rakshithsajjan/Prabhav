@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Dr. YSR Aarogyasri Health Insurance Scheme",
+        "state": "Andhra Pradesh",
+        "department": "Health",
+        "type": "Insurance",
+        "beneficiary": "Low-income families",
+        "details": "The 'Dr. YSR Aarogyasri Health Insurance Scheme' was launched in 2007 by the Govt. of Andhra Pradesh to provide financial aid to low-income families in Andhra Pradesh. The scheme is a unique PPP model in the field of Health Insurance, tailor made to the health needs of poor patients and provides end-to-end cashless services for identified diseases under secondary and tertiary care through a network of service providers from Government and private sector.",
+        "benefits": [
+            "Hospital Care: Covers in-patient treatment for identified illnesses.",
+            "Out-Patient Care: Cashless services provided by health camps and network hospitals.",
+            "Cashless Services: Annual coverage of \u20b95,00,000 per family.",
+            "Pre-Existing Disease Coverage: Covers ailments existing before enrollment.",
+            "Follow-Up: Covers post-hospitalization operations.",
+            "Affordable Family Health Insurance: Coverage for the entire family without separate policies."
+        ],
+        "eligibility": [
+            "All Rice Card Holders are eligible.",
+            "Families eligible for YSR Pension Kanuka Card and Jagananna Vidya and Vasathi Deevena Card are also eligible.",
+            "Landowners holding less than 12.00 Acres of wet land or 35.00 Acres of dry land.",
+            "Annual income of households less than or up to Rs.5.00 Lakhs.",
+            "Employees with annual income less than or up to Rs.5.00 Lakhs.",
+            "Households paying Municipal Property Tax for the area less than 3000 SFT.",
+            "Families not having more than one personal car."
+        ],
+        "exclusions": [
+            "Knee replacement surgeries",
+            "Gamma-knife procedures in neurosurgery",
+            "Medical treatment related to bone marrow",
+            "Leprosy",
+            "Filaria",
+            "Assisted devices for cardiac failures",
+            "Cardiac and liver transplantations",
+            "Malaria",
+            "HIV/AIDS",
+            "Tuberculosis",
+            "Infectious diseases",
+            "Gastroenteritis",
+            "Jaundice"
+        ],
+        "application_process": "Online. There is no separate enrollment; all BPL families holding valid white ration card are automatically covered from the day of implementation of the scheme.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Address Proof",
+            "Income Certificate",
+            "BPL Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What Is Dr.YSR Aarogyasri Scheme?",
+                "answer": "Dr.YSR Aarogyasri Scheme is a unique health scheme being implemented by State Government of Andhra Pradesh through Dr.YSR Aarogyasri Health Care Trust. The scheme provides financial assistance to BPL families to meet the catastrophic health needs."
+            },
+            {
+                "question": "How Much Of Financial Coverage Is Provided Under The Scheme?",
+                "answer": "The scheme provides coverage up to 5 lakhs for each family per year."
+            },
+            {
+                "question": "Who Are The Beneficiaries Under The Scheme?",
+                "answer": "All the BPL families identified by BPL ration card issued by Civil Supplies Department are eligible."
+            },
+            {
+                "question": "What Are The Ailments Identified For Which I Can Get Treatment Under Dr.YSR Aarogyasri Scheme?",
+                "answer": "Serious diseases affecting Heart, Kidney, Cancer, Brain, Burns and accident cases etc., are covered under the scheme."
+            },
+            {
+                "question": "How Can I Avail The Benefits Under The Scheme?",
+                "answer": "You can avail the benefits of the scheme by approaching any PHC / CHC / Area Hospital / District Hospital or any of the government hospitals nearer to you."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.ysraarogyasri.ap.gov.in/asri"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/dysrhis"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Insurance",
+            "Andhra Pradesh",
+            "Financial Aid",
+            "BPL Families"
+        ]
+    }
+}

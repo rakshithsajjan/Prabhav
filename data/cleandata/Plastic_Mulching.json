@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Plastic Mulching",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The plastic Mulching scheme under the Agriculture Department of the Rajasthan government provided subsidies to farmers. Using plastic mulch helps prevent soil compaction and compaction. This material blocks moisture and heat and limits the loss of plant nutrients. Plastic mulch is the most restrictive of all the mulching materials available on the market, so it is well-suited for drip irrigation. Additionally, the plastic layer prevents people and pets from walking in the area, further strengthening the soil structure.",
+        "benefits": [
+            "Small/marginal farmers can get a 25% subsidy on up to 2 hectares of land.",
+            "Other farmers can get a 50% subsidy on up to 2 hectares of land."
+        ],
+        "eligibility": [
+            "The applicant should be a farmer.",
+            "The applicant should be a native of Rajasthan.",
+            "The applicant must have agricultural land ownership and irrigation sources."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card.",
+            "Copy of Jamabandi (not more than six months old)",
+            "Quotation from approved firm."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of this scheme provide subsidies to farmers, Use for weed control in horticultural crops, efficient use of water, and increase the quality of crop produce."
+            },
+            {
+                "question": "How much Subsidy give to the farmers of Rajasthan?",
+                "answer": "50 percent subsidy is available for a maximum area of 2 hectares."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers can get the benefits."
+            },
+            {
+                "question": "Are there any area criteria?",
+                "answer": "Yes, the applicant has a maximum area of 2 hectares."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes."
+            },
+            {
+                "question": "What is Janadhar card?",
+                "answer": "Jan Aadhaar is a 'one number, one card, one identity' scheme, Its main objective is to prepare a database of demographic and socio-economic information of the resident families of the state, and through the Jan Aadhaar card, the identity of the family and its members."
+            },
+            {
+                "question": "How do a applicant know if a field in the application form is mandatory?",
+                "answer": "A distinctive sign ('*' symbol, 'mandatory' mention, etc.)"
+            },
+            {
+                "question": "How can applicant apply online?",
+                "answer": "One can apply by visiting the e-Mitra center."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, this scheme only for Rajasthan."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Aadhar Card / Janadhar Card 2. Copy of Jamabandi (not more than six months old) 3. Quotation from approved firm"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Plastic Mulching",
+            "Agriculture",
+            "Farmer",
+            "Farming"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Rashtriya Vigyan Puraskar",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Award",
+        "beneficiary": "Scientists, technologists, and innovators",
+        "details": "The Rashtriya Vigyan Puraskar (RVP) recognizes notable contributions made by scientists, technologists, and innovators in various fields of science and technology. It aims to inspire others by acknowledging the exemplary work of these individuals.",
+        "benefits": [
+            "Awardees receive a Sanad (certificate) signed by the President of India and a medallion.",
+            "A commemorative brochure containing the citation and photograph of the awardees is released on the day of the ceremony.",
+            "In case of posthumous awards, the decoration is received by the next of kin."
+        ],
+        "eligibility": [
+            "Scientists, technologists, and innovators working in any field of science in government or private organizations.",
+            "Individuals of Indian origin abroad with exceptional contributions benefiting Indian communities."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Nomination Form",
+            "Curriculum Vitae (CV) of the nominee",
+            "Detailed description of the nominee's contribution",
+            "Supporting documents (research papers, patents, awards certificates, testimonials, letters of recommendation, etc.)",
+            "Aadhaar Card",
+            "Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "What is Rashtriya Vigyan Puraskar (RVP)?",
+                "answer": "Rashtriya Vigyan Puraskar is a prestigious national-level award in India, recognizing outstanding contributions in the field of science and technology."
+            },
+            {
+                "question": "Who organizes Rashtriya Vigyan Puraskar?",
+                "answer": "The award is organized and presented by the Ministry of Science and Technology, Government of India."
+            },
+            {
+                "question": "What are the categories for Rashtriya Vigyan Puraskar?",
+                "answer": "RVP is awarded in various categories such as Physical Sciences, Chemical Sciences, Biological Sciences, Mathematical Sciences, Earth & Atmospheric Sciences, and Engineering Sciences."
+            },
+            {
+                "question": "Who is eligible for Rashtriya Vigyan Puraskar?",
+                "answer": "Scientists, researchers, and individuals who have made significant contributions to their respective fields in science and technology are eligible for the award."
+            },
+            {
+                "question": "Is Rashtriya Vigyan Puraskar only for Indian citizens?",
+                "answer": "Yes, the award is specifically designed for Indian citizens who have excelled in the domain of science and technology."
+            },
+            {
+                "question": "How does one nominate a candidate for Rashtriya Vigyan Puraskar?",
+                "answer": "Nominations for RVP are invited through a formal process, and individuals or organizations interested in proposing a candidate need to follow the guidelines provided by the Ministry of Science and Technology."
+            },
+            {
+                "question": "Can the public attend the Rashtriya Vigyan Puraskar ceremony?",
+                "answer": "The award ceremony is usually attended by invitees, including scientists, government officials, and dignitaries. While it is not open to the general public, the event is often covered by the media."
+            },
+            {
+                "question": "How does Rashtriya Vigyan Puraskar contribute to promoting scientific research in India?",
+                "answer": "RVP plays a crucial role in promoting a culture of excellence in scientific research by recognizing and rewarding outstanding achievements, thus encouraging further innovation."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://awards.gov.in/Home/AwardLibrary"
+            }
+        ],
+        "tags": [
+            "Awards",
+            "Science",
+            "Technology",
+            "Innovation"
+        ]
+    }
+}

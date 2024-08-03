@@ -1,0 +1,96 @@
+{
+    "content": {
+        "title": "Pension to Indigent Sportspersons of Odisha",
+        "state": "Odisha",
+        "department": "Department of Sports & Youth Services Department, Government of Odisha",
+        "type": "Pension",
+        "beneficiary": "Indigent Sportspersons",
+        "details": "The Scheme relating to 'Pension to Indigent Sportspersons of Odisha' was launched by the Department of Sports & Youth Services Department, Government of Odisha to provide financial support to sportspersons of yesteryears who are living in indigent conditions.",
+        "benefits": [
+            "The eligible sportsperson will get \u20b93,000/- per month as a pension.",
+            "Pension in favour of the surviving spouse of a deceased pensioner shall be sanctioned on a priority on receipt of application duly supported by death certificate, legal heir certificate, etc.",
+            "The pension will be drawn from the Treasury & credited to the beneficiary's bank account every month through e-Transfer."
+        ],
+        "eligibility": [
+            "Applicant should be a permanent resident of the State of Odisha.",
+            "Applicant should be at least 50 years of age if a male and at least 40 years of age if a female, with a maximum relaxation of 10 years for incapacitated sportspersons.",
+            "Applicant should have represented the State of Odisha in recognized sporting disciplines.",
+            "Applicant should not have income exceeding \u20b950,000/- per annum.",
+            "Applicant should be free from conviction in any criminal offence."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Aadhaar Card",
+            "Birth Certificate",
+            "Photographs",
+            "Photocopy of Bank Passbook",
+            "Disability Certificate (if applicable)",
+            "Proof of income",
+            "Sports/achievements Certificates",
+            "Any other documents, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of this pension scheme?",
+                "answer": "The objective of the scheme is to provide financial support to sportspersons of yesteryears who are living in indigent conditions."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department of Sports & Youth Services Department, Government of Odisha."
+            },
+            {
+                "question": "Who is eligible for this pension?",
+                "answer": "To qualify, individuals must be permanent residents of Odisha, aged at least 50 for males and 40 for females."
+            },
+            {
+                "question": "Is there an income limit for eligibility?",
+                "answer": "Yes, the annual income of the applicant should not exceed \u20b950,000/-."
+            },
+            {
+                "question": "What is the quantum of pension provided under the scheme?",
+                "answer": "Each pensioner receives \u20b93,000/- per month."
+            },
+            {
+                "question": "What are the conditions for Cessation of Pension?",
+                "answer": "Pension shall cease on the death of the pensioner, or if the pensioner is found to be leading a comfortable life."
+            },
+            {
+                "question": "Is Surviving Spouse of a Deceased Pensioner eligible for the Pension?",
+                "answer": "Yes, the surviving spouse may apply for the pension."
+            },
+            {
+                "question": "What will be the mode of payment?",
+                "answer": "The pension will be credited to the beneficiary's bank account every month through e-Transfer."
+            },
+            {
+                "question": "How can I apply for the sports pension?",
+                "answer": "To apply online, visit the official web portal at https://portal.sportsodisha.gov.in/Citizen/Registration."
+            },
+            {
+                "question": "What if I fail to submit the Life Certificate by the deadline?",
+                "answer": "Failure to submit the Life Certificate will result in the non-renewal of the pension."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sports.odisha.gov.in/sites/default/files/2021-11/guidelinesforsportspension.PDF"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://department.sportsodisha.gov.in/swpScheme"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://portal.sportsodisha.gov.in/Citizen/Landing"
+            }
+        ],
+        "tags": [
+            "Indigent",
+            "Pension",
+            "Sports",
+            "Sportspersons"
+        ]
+    }
+}

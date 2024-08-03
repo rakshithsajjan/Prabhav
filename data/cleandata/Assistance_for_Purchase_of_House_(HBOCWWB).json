@@ -1,0 +1,108 @@
+{
+    "content": {
+        "title": "Assistance for Purchase of House (HBOCWWB)",
+        "state": "Haryana",
+        "department": "Labour Department, Government of Haryana",
+        "type": "Loan",
+        "beneficiary": "Registered construction workers",
+        "details": "The scheme 'Assistance for Purchase of House' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, interest free loan is provided to registered construction workers, who have minimum five year\u2019s regular membership, for purchase or construction of their houses. This facility is available once in a lifetime.",
+        "benefits": [
+            "Interest-free loan of up to \u20b92,00,000/- for the purchase or construction of houses.",
+            "Financial assistance in the shape of interest compensation up to \u20b91,00,000/- through banks for beneficiaries of Pradhan Mantri Awaas Yojana."
+        ],
+        "eligibility": [
+            "The applicant should be registered under the Haryana Building & Other Construction Workers Welfare Board.",
+            "The registered worker should have regular membership for at least 5 years and 8 years are left to attain the age of 60 years.",
+            "The maximum age of the worker should be 52 years.",
+            "This facility will be available once in a lifetime.",
+            "The application frequency is limited to once."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof i.e. Aadhaar Card, Voter Card",
+            "Passport-size photograph",
+            "Attested work experience document",
+            "Proof of residence",
+            "Ration Card",
+            "Bank account details",
+            "Caste Certificate (If applicable)",
+            "Proof of age",
+            "Parivar Pehchan Patra (Family ID)",
+            "Disability certificate (If applicable)",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Registered construction workers can avail of interest-free loans of up to \u20b92,00,000/- for the purchase or construction of their houses."
+            },
+            {
+                "question": "Is there any additional financial assistance available for beneficiaries of the Pradhan Mantri Awaas Yojana (PMAY)?",
+                "answer": "Yes, beneficiaries of PMAY can receive additional financial assistance in the form of interest compensation of up to \u20b91,00,000/- through banks for house construction."
+            },
+            {
+                "question": "Who is eligible to apply for this scheme?",
+                "answer": "Applicants must be registered under the Haryana Building & Other Construction Workers Welfare Board and have regular membership for at least 5 years with 8 years left to attain the age of 60 years."
+            },
+            {
+                "question": "What is the maximum age limit for eligibility?",
+                "answer": "The maximum age of the worker should be 52 years to ensure repayment of the loan within the next 8 years."
+            },
+            {
+                "question": "How many times can a worker avail of this facility?",
+                "answer": "This facility is available once in a lifetime to registered construction workers."
+            },
+            {
+                "question": "How can a construction worker register under HBOCWWB?",
+                "answer": "Construction workers can register by visiting the Official Website of the Labour Department Haryana."
+            },
+            {
+                "question": "Where can applicants apply for the scheme?",
+                "answer": "Applicants can apply for the scheme through the Official Portal - Antyodaya-SARAL Portal."
+            },
+            {
+                "question": "What is the repayment period for the loan?",
+                "answer": "The loan must be repaid within 8 years from the date of disbursement."
+            },
+            {
+                "question": "Can applicants apply for the scheme multiple times?",
+                "answer": "No, the application frequency is limited to once per registered worker's lifetime."
+            },
+            {
+                "question": "Is there any provision for continuation of the loan after the death of the applicant?",
+                "answer": "No continuation after death."
+            },
+            {
+                "question": "Is there any registration fee required when registering under HBOCWWB?",
+                "answer": "Registration fee \u20b925/- once in a life-time and \u20b95/- per month (\u20b960/- P.A.) as subscription fee shall be paid to the Board by the beneficiary."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/103"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=71oM2xcBr9sPSlmvJbl70Q%3d%3d"
+            },
+            {
+                "type": "Registration",
+                "url": "https://hrylabour.gov.in/bocw/Basicinfo/bocw_terms"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "House",
+            "Interest Free",
+            "Labour",
+            "Loan"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Prasuti Sahayata Yojana",
+        "state": "Rajasthan",
+        "department": "Department of Labour",
+        "type": "Financial Assistance",
+        "beneficiary": "Pregnant women from registered construction worker families",
+        "details": "The Rajasthan Prasuti Sahayata Yojana offers a lifeline to pregnant women from registered construction worker families in the state. Launched by the government, the scheme provides crucial financial support at a critical juncture, aiming to improve the well-being of both mother and child. This assistance empowers women to prioritize their health throughout pregnancy and ensure proper care for their newborns.",
+        "benefits": [
+            "The birth of a daughter: \u20b9 21,000/-",
+            "The birth of a son: \u20b9 20,000/-",
+            "In case of not receiving cash benefits under Janani Suraksha Yojana, \u20b91,000/- additional assistance will be payable."
+        ],
+        "eligibility": [
+            "The female worker must be holding a beneficiary identity card under Section 13 of the Maternity Benefit Act.",
+            "The age of the female beneficiary should not be less than 20 years at the time of delivery.",
+            "Maternity benefits will be payable for a maximum of two deliveries only. If the beneficiary has two or more children before registration, assistance will not be provided. In case of having one child before registration, assistance will be provided for only one delivery.",
+            "Construction worker beneficiaries who fail to make their monthly contributions to the Board's fund will not be eligible for the Maternity Assistance Scheme.",
+            "If the beneficiary rectifies the default by making the required monthly payments, they will become eligible for the Maternity Assistance Scheme.",
+            "Maternity benefits under the scheme will be provided only for institutional deliveries."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card copy.",
+            "Jan Aadhar/Bhamashah card copy.",
+            "Birth certificate copy: Proof of age of the beneficiary.",
+            "Certificate of institutional delivery.",
+            "Other documents: Declaration form regarding the number of living children."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of the scheme is to enable the construction worker woman to take proper care of herself and the child after delivery."
+            },
+            {
+                "question": "What is the assistance amount of birth of a daughter?",
+                "answer": "Assistance amount of Rs 21,000/-"
+            },
+            {
+                "question": "What will be the age criteria?",
+                "answer": "Applicants whose age is less than 20 years are not eligible for the scheme."
+            },
+            {
+                "question": "Is there a Caste-related Eligibility Criteria in this scheme?",
+                "answer": "No"
+            },
+            {
+                "question": "Are there any specific documents required for the application?",
+                "answer": "The age certificate of the beneficiary Certificate of Institutional Delivery (Hospital Discharge Ticket) Declaration regarding the number of living children"
+            },
+            {
+                "question": "Will the benefit of this scheme be provided to all the citizens of the state?",
+                "answer": "No, the benefit of this scheme will be provided only to unmarried daughters of the labor family of Rajasthan state."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "No"
+            },
+            {
+                "question": "What is the assistance amount of birth of a Son?",
+                "answer": "Assistance amount of Rs 20,000/-"
+            },
+            {
+                "question": "How many times the applicant can avail of the benefits of the scheme?",
+                "answer": "Only two times."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "file:///C:/Users/ruchi/Downloads/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A4%BF%E0%A4%B8%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%A4%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%9A%E0%A4%A8%E0%A4%BE.pdf"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Care",
+            "Children",
+            "Delivery",
+            "Pregnancy",
+            "Women"
+        ]
+    }
+}

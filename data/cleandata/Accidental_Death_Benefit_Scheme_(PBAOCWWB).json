@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Accidental Death Benefit Scheme (PBAOCWWB)",
+        "state": "Puducherry",
+        "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Nominees/Dependents of deceased Construction Workers",
+        "details": "The 'Accidental Death Benefit Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. This scheme extends financial assistance of \u20b92,25,000/- to the nominees/dependents of the deceased Construction Worker, apart from the \u20b92,00,000/- extended through the Life Insurance Corporation (LIC). The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/dependent. The applications are accepted offline.",
+        "benefits": [
+            "Financial Assistance: \u20b92,25,000/-",
+            "Time of Disbursal: Within 15 days of the application",
+            "Mode of Disbursal: Direct Benefit Transfer (DBT) into the bank account"
+        ],
+        "eligibility": [
+            "The applicant should be the nominee/dependent of the deceased Construction Worker.",
+            "The Construction Worker should have been a citizen of India.",
+            "The Construction Worker should have died in an accident caused due to the harness.",
+            "The deceased, in his/her lifetime, should have been registered as a Construction Worker with the Puducherry Building and Other Construction Workers Welfare Board.",
+            "The deceased, in his/her lifetime, should have completed the age of 18 years.",
+            "The deceased, in his/her lifetime, should not have completed the age of 60 years during the preceding 12 months in the construction work.",
+            "The deceased, in his/her lifetime, should have contributed regularly to the fund.",
+            "The deceased, in his/her lifetime, should not have defaulted in payment of contribution to the Board for a continuous period of more than one year."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The nominee of the deceased should visit the Office of the Puducherry Building and Other Construction Workers Welfare Board and obtain the prescribed format of the application form free of cost or take print of the prescribed format from the Citizen's Charter. The application should be submitted within two months from the date of death of the Construction Worker.",
+        "documents_required": [
+            "Original Board Identity Card",
+            "Last Subscription Renewal Copy",
+            "Death Certificate",
+            "FIR",
+            "Accident Report",
+            "Proof of Relationship of the Nominee for the Deceased",
+            "Ration Card",
+            "Bank Details",
+            "Aadhaar Card",
+            "Medical Report from the Competent Authority (RMO)"
+        ],
+        "faqs": [
+            {
+                "question": "In case of any grievances or concerns, how does the Grievance Redressal mechanism function within the Accidental Death Benefit Scheme?",
+                "answer": "Details on Grievance Redressal can be found on page 131 of the official document."
+            },
+            {
+                "question": "Where can interested applicants access the application form and information on the registration process?",
+                "answer": "The application form is available on page 57, and details on the registration process can be found on page 87 in the official document."
+            },
+            {
+                "question": "What is the mode of disbursal for the financial assistance under the 'Accidental Death Benefit Scheme'?",
+                "answer": "The financial assistance is disbursed through Direct Benefit Transfer (DBT) into the bank account of the nominee/dependent."
+            },
+            {
+                "question": "Can the financial assistance provided under the scheme be used for any specific purposes?",
+                "answer": "The scheme documentation does not specify restrictions on the purposes for which the financial assistance can be utilized."
+            },
+            {
+                "question": "What is the total financial support available to the nominees/dependents under the 'Accidental Death Benefit Scheme'?",
+                "answer": "The total financial support amounts to \u20b94,25,000, combining the \u20b92,25,000 from the scheme and \u20b92,00,000 from the Life Insurance Corporation (LIC)."
+            },
+            {
+                "question": "Is there a specific timeframe for the disbursal of financial assistance under the 'Accidental Death Benefit Scheme'?",
+                "answer": "Yes, the financial assistance is disbursed within 15 days of the application being submitted."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            },
+            {
+                "type": "Registration Process & Documents Required",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Construction",
+            "Death",
+            "Financial Assistance",
+            "Worker"
+        ]
+    }
+}

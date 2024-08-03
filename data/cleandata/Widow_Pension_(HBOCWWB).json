@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Widow Pension (HBOCWWB)",
+        "state": "Haryana",
+        "department": "Labour Department, Government of Haryana",
+        "type": "Pension",
+        "beneficiary": "Widows of registered construction workers",
+        "details": "The scheme 'Widow Pension' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a monthly pension of \u20b93,000/- is given to the widow of a registered construction worker who is not receiving a similar benefit from any other Government/ Department/ Board/Corporation/PSU.",
+        "benefits": [
+            "\u20b93,000/- per month as a widow pension"
+        ],
+        "eligibility": [
+            "The applicant should be the widow of a deceased construction worker.",
+            "The deceased worker should have been registered with the Haryana Building & Other Construction Workers Welfare Board.",
+            "The deceased worker should have been a regular member of HBOCWWB for at least three years.",
+            "The widow should reside in Haryana.",
+            "The widow should not be employed by the Haryana Government, any board, corporation, or PSU.",
+            "The widow will not be eligible for the monthly pension if she remarries.",
+            "The widow should not be receiving a similar benefit from any other government entity, department, board, corporation, or PSU."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof i.e. Aadhaar Card, Voter Card",
+            "Passport-size photograph",
+            "Proof of Residence",
+            "Ration Card",
+            "Bank account details",
+            "Proof of age",
+            "Parivar Pehchan Patra (Family ID)",
+            "Death Certificate of the male worker",
+            "Proof of Spouse",
+            "Proof of a three-year regular contribution fee",
+            "Undertaking",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for the widow pension?",
+                "answer": "The widow of a deceased construction worker who was registered with HBOCWWB and held regular membership for three years is eligible."
+            },
+            {
+                "question": "How much pension is provided under this scheme?",
+                "answer": "A monthly pension of \u20b93,000/- is provided."
+            },
+            {
+                "question": "Can the widow receive this pension if she remarries?",
+                "answer": "No, the widow is not eligible for the pension if she remarries."
+            },
+            {
+                "question": "What if the widow is employed by the Haryana Government or a PSU?",
+                "answer": "The widow will not be eligible if she is employed by the Haryana Government, any board, corporation, or PSU."
+            },
+            {
+                "question": "What if the widow is already receiving a similar benefit from another source?",
+                "answer": "The widow is not eligible for this pension if she is receiving a similar benefit from any other government entity, department, board, corporation, or PSU."
+            },
+            {
+                "question": "Does the widow need to reside in Haryana to receive the pension?",
+                "answer": "Yes, the widow must reside in Haryana to be eligible."
+            },
+            {
+                "question": "How long must the deceased worker have been registered with HBOCWWB?",
+                "answer": "The deceased worker must have been a regular member of HBOCWWB for at least three years."
+            },
+            {
+                "question": "How can the widow apply for the pension?",
+                "answer": "The widow needs to visit the Official Website of the Labour Department Haryana to apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/146"
+            },
+            {
+                "type": "Registration Link",
+                "url": "https://hrylabour.gov.in/bocw/Basicinfo/bocw_terms"
+            },
+            {
+                "type": "Application Tracking",
+                "url": "https://hrylabour.gov.in/login/bocw"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Labour",
+            "Pension",
+            "Widow"
+        ]
+    }
+}

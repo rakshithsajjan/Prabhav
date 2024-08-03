@@ -1,0 +1,104 @@
+{
+    "content": {
+        "title": "Education Assistance/Ph.D Scheme (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Education Assistance",
+        "beneficiary": "Children of construction workers",
+        "details": "The \u201cEducation Assistance/Ph.D Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under this scheme, financial assistance is provided once a year to any two children of a construction worker for the career development of bright and needy construction worker students seeking admission in higher education courses.",
+        "benefits": [
+            "Financial assistance for students from Standard 1 to 12, as well as for those pursuing Graduation and Postgraduate studies.",
+            "Hostel assistance of \u20b91,200/- per month for 10 months for children studying outside their taluk.",
+            "Book assistance for first-year admitted students ranging from \u20b93,000/- to \u20b910,000/- depending on the course."
+        ],
+        "eligibility": [
+            "Children of construction workers registered with the Gujarat Building and other Construction Workers Welfare Board.",
+            "The child must be enrolled in any grade from Class I up to higher education or professional course.",
+            "Financial assistance is provided once a year to two children of a construction worker."
+        ],
+        "exclusions": [
+            "Assistance is not provided if the child is admitted through Right to Education or studying in an Open University.",
+            "Assistance is limited to the first attempt in each academic year."
+        ],
+        "application_process": "Online and Offline applications are accepted. Applicants must register on the e-Nirman Portal and follow the steps to submit their application.",
+        "documents_required": [
+            "Photograph of the worker",
+            "Aadhaar Card",
+            "Ration Card",
+            "Caste Category certificate, if applicable",
+            "Proof of age (Birth certificate/Driving Licence/PAN Card/Voter ID Card)",
+            "Self-declaration certificate",
+            "Employer Certificate",
+            "Bank Passbook/cancelled Cheque",
+            "e-Nirman Card of the worker",
+            "Original Bonafide Certificate of the Beneficiary's ongoing course",
+            "Passport-size photographs of beneficiary and child",
+            "Copy of child's Aadhaar card",
+            "Copy of the child's previous year's result",
+            "Fee payment receipt",
+            "Certificate from the registered hostel/school/college/institute if applicable",
+            "Hostel fee payment receipt",
+            "Original bill of purchase of books for book aid",
+            "Gazette/Affidavit from Beneficiary if Surname and Name are different",
+            "Front page of Bank passbook",
+            "Affidavit or letter of consent for assistance of \u20b95000/- or more"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits provided under this scheme?",
+                "answer": "Benefits include financial assistance for various education levels, hostel assistance, and book assistance."
+            },
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "Children of construction workers registered with the Gujarat Building and Other Construction Workers Welfare Board are eligible."
+            },
+            {
+                "question": "Is there any restriction on the educational level for eligibility?",
+                "answer": "No, the scheme covers children enrolled in any grade from Class I up to higher education."
+            },
+            {
+                "question": "How often is financial assistance provided?",
+                "answer": "Financial assistance is provided once a year to two children of a construction worker."
+            },
+            {
+                "question": "Is there an age limit for eligibility?",
+                "answer": "The age limit is a maximum of 30 years, but there is no limit for handicapped children."
+            },
+            {
+                "question": "What is the criteria for hostel assistance?",
+                "answer": "Hostel assistance is provided to children studying outside their taluk and not in government/subsidized hostels."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://sanman.gujarat.gov.in/Home/BOCWScheme#"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_378_1_Ph.D._Scheme.pdf"
+            },
+            {
+                "type": "E-Nirman Portal",
+                "url": "https://enirmanbocw.gujarat.gov.in/Index.aspx"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/#"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://sanman.gujarat.gov.in/ApplicationForm/BOCW/SSY/ApplicationForm.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Education Assistance",
+            "Labour",
+            "PhD",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

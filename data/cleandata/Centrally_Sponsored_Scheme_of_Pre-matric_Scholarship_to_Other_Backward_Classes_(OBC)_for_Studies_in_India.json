@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Other Backward Class (OBC) students",
+        "details": "Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India is a Scholarship Scheme by the Department of Social Justice and Empowerment. The objective is to award scholarships to school-going children of poorer OBC parents whose annual income is below double the poverty line. The scholarships may be given to the students enrolled in class 1st or any subsequent class of the pre-matric stage in the case of day scholars, and class 3rd or any subsequent class of the pre-matric stage in the case of hostlers. The scholarship will terminate at the end of class 10th. The duration of the scholarship in an academic year will be 10 months.",
+        "benefits": [
+            "Hostellers: Class 3rd to 10th: \u20b9 500/- per month for 10 months.",
+            "Day Scholars: Class 1st to 10th: \u20b9 100/- per month for 10 months.",
+            "An ad-hoc grant of \u20b9 500/- per student per annum to all students."
+        ],
+        "eligibility": [
+            "Parents/guardians' income from all sources does not exceed \u20b9 2,50,000/- per annum.",
+            "The scholarship is tenable only in recognized institutions and pre-matriculation courses.",
+            "Regular attendance records of not less than 60% in the previous year.",
+            "Scholar recipients cannot avail benefits under any other pre-matric scholarship scheme.",
+            "30% of the beneficiaries should be reserved for girl students.",
+            "At least 5% of students with disabilities should be covered by grants or scholarships."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the National Scholarship Portal.",
+        "documents_required": [
+            "Passport Sized Photograph",
+            "Aadhaar Number",
+            "Proof of Educational Qualification",
+            "Bonafide Certificate",
+            "OBC Caste Certificate",
+            "Income Certificate",
+            "Details of the Aadhaar-linked Bank Account."
+        ],
+        "faqs": [
+            {
+                "question": "What is the main objective of the Pre-Matric Scholarship for OBCs?",
+                "answer": "The primary objective of the scheme is to address the low literacy levels, particularly among backward classes, by providing education and economic support to children belonging to OBCs."
+            },
+            {
+                "question": "How is the income of the parents or guardians calculated for scholarship eligibility?",
+                "answer": "The income of either of the parents (or husband in the case of a married unemployed girl student) is considered, and no other family members' income is taken into account unless both parents (or husband) have passed away."
+            },
+            {
+                "question": "What happens if a student's parent's income is affected due to the death of one earning parent?",
+                "answer": "In such cases, if a student's family income falls within the income ceiling, the student becomes eligible for the scholarship from the month in which the unfortunate death occurred."
+            },
+            {
+                "question": "Are there any exemptions for specific sources of income in the calculation of scholarship eligibility?",
+                "answer": "House Rent Allowance received by parents is exempted from income calculations for scholarship eligibility if permitted for Income-Tax purposes."
+            },
+            {
+                "question": "How often is the income certificate required for scholarship eligibility?",
+                "answer": "An income certificate is required only once, at the time of admission to courses that last for more than one year."
+            },
+            {
+                "question": "At which academic levels are the scholarships available, and for how long?",
+                "answer": "Scholarships are available for students enrolled in pre-matric classes, specifically from class I to class X. The scholarship covers a duration of 10 months in an academic year."
+            },
+            {
+                "question": "In which institutions is the scholarship tenable?",
+                "answer": "The scholarship is tenable only in institutions and pre-matriculation courses recognized by the respective State Governments and Union Territory Administrations."
+            },
+            {
+                "question": "Can scholarship recipients avail benefits from other pre-matric scholarship schemes?",
+                "answer": "No, scholarship recipients under this scheme are not allowed to avail benefits under any other pre-matric scholarship scheme."
+            },
+            {
+                "question": "What is the reserved quota for students with disabilities under this scheme?",
+                "answer": "At least 5% of the beneficiaries should be students with disabilities."
+            },
+            {
+                "question": "Is Aadhar seeding of bank accounts necessary for beneficiaries?",
+                "answer": "Yes, to avoid duplication, bank accounts of the target beneficiaries should be Aadhar seeded."
+            },
+            {
+                "question": "What percentage of the scholarship beneficiaries are reserved for girl students?",
+                "answer": "30% of the beneficiaries are reserved for girl students."
+            },
+            {
+                "question": "How is the scholarship renewed for the next academic year?",
+                "answer": "The scholarship may be renewed for the next academic year by the concerned State Government or Union Territory Administration, unless the competent school authority recommends discontinuation."
+            },
+            {
+                "question": "Is the Pre-Matric Scholarship Scheme a 'funds-limited' scheme?",
+                "answer": "Yes, the scheme is 'funds-limited,' and the budget allocated is apportioned to States on a pro-rata basis."
+            },
+            {
+                "question": "What is the role of States/UTs in managing the financial aspects of the scheme?",
+                "answer": "States/UTs are expected to incur expenditure under the scheme to at least the sum total of 'Central Assistance or NA and matching State share' and should limit the number of scholarships accordingly."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/dadra_Pre-Matric%20Scholarship%20for%20OBC%20students.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "OBC",
+            "Pre-Matric",
+            "Education",
+            "Government Scheme"
+        ]
+    }
+}

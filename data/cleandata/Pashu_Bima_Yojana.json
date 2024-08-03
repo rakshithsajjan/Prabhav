@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Pashu Bima Yojana",
+        "state": "Bihar",
+        "department": "Directorate of Dairy Development",
+        "type": "Insurance",
+        "beneficiary": "Farmers",
+        "details": "The scheme 'Pashu Bima Yojna' was launched by the Directorate of Dairy Development, Government of Bihar. The scheme aims to insure the milch cattle of all categories of cattle owners against serious diseases like chronic skin disease, HSBQ. In case of death for other reasons providing financial security to the livestock farmers against the financial loss caused by livestock insurance and improve the rural economy. The implementation of the scheme will be done by the District Rural Development Officer in all the districts of the state.",
+        "benefits": [
+            "The maximum price per milch cattle has been fixed at \u20b960,000/-",
+            "The total amount of insurance at the rate of 3.5 percent will be \u20b92,100/-",
+            "The insurance company will insure milch cattle for 01 year",
+            "The insurance company will fit the data ear tags in the milch cattle",
+            "75% amount of \u20b91,575/- will be paid by the state government as a grant and the remaining 25% amount of \u20b9525/- will be paid by the cattle farmers to the insurance company",
+            "The responsibility for the safety of milch cattle will be on the beneficiary"
+        ],
+        "eligibility": [
+            "The beneficiary should be a farmer of milch cattle",
+            "The beneficiary should be a member of the Milk Producer Cooperation Committee",
+            "The milch cattle should be healthy at the time of insurance"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card",
+            "Milk Producer Society Membership Receipt",
+            "Proposer's Photo"
+        ],
+        "faqs": [
+            {
+                "question": "What are the main diseases covered under the livestock insurance scheme?",
+                "answer": "The main objective of the scheme is to provide financial security to livestock farmers against the economic loss caused by the death of milch animals due to serious diseases such as chronic skin disease, HSBQ, and other reasons."
+            },
+            {
+                "question": "What is the maximum value per milch animal under this scheme?",
+                "answer": "The maximum value per milch animal under this scheme is \u20b960,000."
+            },
+            {
+                "question": "Is there a preference given to members of milk producer cooperatives?",
+                "answer": "Yes, preference is given to members of milk producer cooperatives for insuring their milch animals."
+            },
+            {
+                "question": "Are only healthy animals eligible for insurance under this scheme?",
+                "answer": "Only healthy animals with a health certificate issued by a veterinarian are eligible for insurance under this scheme."
+            },
+            {
+                "question": "Who is responsible for implementing the scheme at the district level?",
+                "answer": "The implementation of the scheme is done at the district level by the District Livestock Development Officer."
+            },
+            {
+                "question": "How can interested applicants apply for livestock insurance?",
+                "answer": "Interested applicants can apply for livestock insurance online through the website of the Livestock Development Directorate."
+            },
+            {
+                "question": "Can farmers insure animals other than milch animals?",
+                "answer": "No, this scheme specifically covers only milch animals."
+            },
+            {
+                "question": "Is there any penalty for late application submission?",
+                "answer": "Penalties for late application submission may vary depending on the guidelines of the scheme and the discretion of the implementing authority."
+            },
+            {
+                "question": "Are there any specific long-term goals aimed at through this scheme?",
+                "answer": "Long-term goals aimed at through this scheme include sustainable livestock rearing practices and rural economic development."
+            },
+            {
+                "question": "How long is the insurance period for milch animals?",
+                "answer": "Milch animals are insured for a period of 1 year under this scheme."
+            },
+            {
+                "question": "Are there any exemptions or discounts for certain categories of farmers?",
+                "answer": "Exemptions or discounts for certain categories of farmers may be provided based on the specific guidelines of the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dairy.bihar.gov.in/Scheme.aspx"
+            }
+        ],
+        "tags": [
+            "Animal",
+            "Disease",
+            "Farmers",
+            "Insurance"
+        ]
+    }
+}

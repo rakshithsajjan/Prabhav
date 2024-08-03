@@ -1,0 +1,60 @@
+{
+    "content": {
+        "title": "Hostel Assistance Scheme for Children of Migrant Construction Workers (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Subsidy",
+        "beneficiary": "Children of migrant construction workers",
+        "details": "The 'Hostel Assistance Scheme for Children of Migrant Construction Workers' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under the scheme, hostel facilities for free accommodation and meals shall be provided to the children of migrant construction workers in primary school. The objective of the scheme is to provide primary, secondary and higher education to the children of migrant construction workers.",
+        "benefits": [
+            "Free accommodation in primary school hostels"
+        ],
+        "eligibility": [
+            "Children of registered construction workers studying in government primary and secondary schools of the district",
+            "Construction workers must be registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board"
+        ],
+        "exclusions": [],
+        "application_process": "Applicants need to visit the nearest office of the District Development Officer.",
+        "documents_required": [
+            "E-Nirman Card",
+            "Child's Aadhaar Card",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who implements the Hostel Assistance Scheme?",
+                "answer": "The scheme is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB), under the Labour, Skill Development & Employment Department, Government of Gujarat."
+            },
+            {
+                "question": "What is the purpose of the objectives of the scheme?",
+                "answer": "The scheme aims to provide primary, secondary, and higher education to the children of migrant construction workers by offering free hostel facilities for accommodation and meals."
+            },
+            {
+                "question": "Who is eligible for the Hostel Assistance Scheme?",
+                "answer": "Children of registered construction workers studying in government primary and secondary schools of the district are eligible. Additionally, the construction workers themselves must be registered with the GBOCWWB."
+            },
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "Under the scheme, children of migrant construction workers receive free accommodation in primary school hostels."
+            },
+            {
+                "question": "Where can applicants apply for the Hostel Assistance Scheme?",
+                "answer": "Applicants need to visit the nearest office of the District Development Officer to avail the benefits under the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/hascmcwgbocwwb"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Free Accommodation",
+            "Hostel",
+            "Labour",
+            "School"
+        ]
+    }
+}

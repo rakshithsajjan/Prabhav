@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "National Apprenticeship Promotion Scheme-2",
+        "state": "India",
+        "department": "Ministry Of Skill Development And Entrepreneurship",
+        "type": "Central Sector Scheme",
+        "beneficiary": "Apprentices",
+        "details": "The Ministry of Skill Development and Entrepreneurship (MSDE) launched the National Apprenticeship Promotion Scheme (NAPS) on 19th August 2016 to provide financial incentives to the establishments engaging apprentice under the Apprentices Act, 1961. National Apprenticeship Promotion Scheme-2 (NAPS-2) aims to promote apprenticeship training in the country, by providing partial stipend support to the apprentices engaged under the Apprentice Act, 1961, undertaking capacity building of the apprenticeship ecosystem, and providing advocacy assistance to the stakeholders. It aims at improving ease of doing business by simplifying processes of apprenticeship engagement. NAPS-2 is a Central Sector Scheme (100% funded by the Central Government) and is one of the sub-components under the umbrella scheme of 'Skill India Programme'.",
+        "benefits": [
+            "Partial stipend support by GoI under NAPS-2 will be limited to 25% of stipend paid, up to a maximum of Rs.1,500 per month, per apprentice during the training period through DBT to the apprentices' bank account.",
+            "Training will be imparted in Designated Trades (DT) and Optional Trades (OT).",
+            "Encouragement for establishments to enroll apprentices by sharing partial stipend support."
+        ],
+        "eligibility": [
+            "Minimum age for an apprentice is 14 years, and 18 years for designated trades related to hazardous industries.",
+            "At the time of registration, the upper age limit should be 35 years.",
+            "Candidates from skill development programmes will be encouraged to take up apprenticeship training."
+        ],
+        "exclusions": [
+            "No reimbursement of basic training cost will be provided under NAPS-2.",
+            "No stipend support will be available under NAPS-2 to the Central and State Government Departments and Central and State Public Sector Undertakings."
+        ],
+        "application_process": "Online application through the Apprenticeship Portal.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Documents required as per selected Trade"
+        ],
+        "faqs": [
+            {
+                "question": "What does Basic Training mean?",
+                "answer": "Basic training is a kind of training that is provided to those persons who have not taken any kind of training before taking up on the job training."
+            },
+            {
+                "question": "What does On the job Training mean?",
+                "answer": "On the job training or practical training is a kind of training that is provided in the establishments."
+            },
+            {
+                "question": "I am apprentice under NATS administered by MHRD? Am I eligible?",
+                "answer": "No, You are not eligible for the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://naps-cdn.s3.ap-south-1.amazonaws.com/NAPS+2.0_Guidelines_25-08-2023.pdf"
+            },
+            {
+                "type": "DBT Under NAPS-2 Aadhar Seeding",
+                "url": "https://naps-prod.s3.ap-south-1.amazonaws.com/documents/naps/jVqKWKw7w1QJaZZrcXmMk94rZqcni6pNhKP3vfXLqUQ8mUicm8G7AxZ9lZKw.pdf"
+            }
+        ],
+        "tags": [
+            "Apprenticeship Training",
+            "Skill India Programme",
+            "Skilled Workforce",
+            "Up-skilling Opportunities"
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "NSAP - Indira Gandhi National Old Age Pension Scheme",
+        "state": "India",
+        "department": "Ministry Of Rural Development",
+        "type": "Pension",
+        "beneficiary": "Senior Citizen",
+        "details": "The scheme 'Indira Gandhi National Old Age Pension Scheme (IGNOAPS)' is one of the five sub-schemes of the National Social Assistance Programme (NSAP). Under IGNOAPS, citizens living Below Poverty Line and 60 years or above in age are eligible to apply. A monthly pension of \u20b9 200 up to 79 years and \u20b9 500 thereafter. The Government of India, on 15th August 1995, introduced the National Social Assistance Programme (NSAP) as a fully funded Centrally Sponsored Scheme targeting the destitute, defined as any person who has little or no regular means of subsistence from his / her own source of income or through financial support from family members or other sources, to be identified by the States and UTs, with the objective of providing a basic level of financial aid. NSAP is being administered by the Ministry of Rural Development. This program is being implemented in rural areas as well as urban areas.",
+        "benefits": [
+            "Monthly pension of \u20b9 200 up to 79 years",
+            "Monthly pension of \u20b9 500 for 80 years and above"
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be living Below Poverty Line.",
+            "The applicant should be at least 60 years of age."
+        ],
+        "exclusions": [],
+        "application_process": "Online. One can download UMANG App or visit website https://web.umang.gov.in/web_new/home. The citizen can login using mobile number and OTP. Once logged In, citizen can search for NSAP. Click on 'Apply Online', fill the basic details, choose the mode of payment of pension, upload photo and click on 'Submit'.",
+        "documents_required": [
+            "Duly filled and self-attested Application Form (proforma given the annexures of the scheme guidelines).",
+            "Domicile Certificate",
+            "Residential Proof (Voter card/ Electricity Bill/Aadhar Card)",
+            "Age Proof (Birth Certificate issued by the School last attended or Municipal authority or SHO or through Medical Board)",
+            "Aadhar Number",
+            "Bank Passbook",
+            "Ration Card",
+            "Affidavit duly attested by Judicial Magistrate/Executive Magistrate that she/he is not in receipt of any pension/ financial assistance from any other source"
+        ],
+        "faqs": [
+            {
+                "question": "What Does NSAP Stand For And When Was It Launched?",
+                "answer": "NSAP stands for National Social Assistance Programme. NSAP was launched on 15th August 1995."
+            },
+            {
+                "question": "What Is The Objective Of NSAP?",
+                "answer": "In providing social assistance benefits to poor households in the case of old age, death of the breadwinner, and maternity, the NSAP aims at ensuring minimum national standards, in addition to the benefits that the States are currently providing or might provide in future."
+            },
+            {
+                "question": "What Are The Components Of NSAP?",
+                "answer": "The NSAP at present includes five sub-schemes: (1) Indira Gandhi National Old Age Pension Scheme (IGNOAPS), (2) Indira Gandhi National Widow Pension Scheme (IGNWPS), (3) Indira Gandhi National Disability Pension Scheme (IGNDPS), (4) National Family Benefit Scheme (NFBS), and (5) Annapurna Scheme."
+            },
+            {
+                "question": "What Is The Basic Eligibility Criterion Under NSAP?",
+                "answer": "For getting benefits under NSAP the applicant must belong to a Below Poverty Line (BPL) family according to the criteria prescribed by the Govt. of India."
+            },
+            {
+                "question": "What Is The Pension Amount Under Indira Gandhi National Old Age Pension Scheme?",
+                "answer": "The central contribution of pension under the Indira Gandhi National Old Age Pension Scheme (IGNOAPS) is Rs. 200/- per month per beneficiary up to 79 years and Rs.500/- per month per beneficiary from 80 year onwards."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://nsap.nic.in/Guidelines/nsap_guidelines_oct2014.pdf"
+            },
+            {
+                "type": "Dashboard",
+                "url": "https://nsap.nic.in/"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://nsap.nic.in/circular.do?method=faq#collapse1"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Pension",
+            "Senior Citizen",
+            "Social Welfare"
+        ]
+    }
+}

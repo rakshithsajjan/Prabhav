@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Kushal Yuva Program",
+        "state": "Bihar",
+        "department": "Bihar Skill Development Mission",
+        "type": "Skill Training",
+        "beneficiary": "Youth aged 15-28 years",
+        "details": "The scheme 'Kushal Yuva Program (KYP)' is a skill training programme launched by the Bihar Skill Development Mission (BSDM). It is a part of one of the '7 Nishchay' schemes of the Government of Bihar. The objective of KYP is to enhance the employability skills of all aspirants who are permanent residents of Bihar and have passed at least Class 10th. The Soft Skills Training comprises Life skills, Communications Skills (English & Hindi), and Basic Computer Literacy.",
+        "benefits": [
+            "The course curriculum includes Life skills, Communications Skills (English & Hindi), and Basic computer literacy, covering a total of 240 hours.",
+            "E-Learning mode shall be used for training delivery.",
+            "Assessment of Trainers followed by certification will be carried out to ensure quality.",
+            "Central monitoring of step by step progress of each candidate through the web portal.",
+            "Inbuilt online Assessment & Certification process."
+        ],
+        "eligibility": [
+            "The applicant must be a resident of the state of Bihar.",
+            "The applicant must be in the age group of 15-28 years (Relaxation: SC/ST: 33 years; OBC: 31 years; PwD: 33 years).",
+            "The applicant must have passed Class 10th."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Number / Aadhaar Enrolment ID",
+            "Domicile Certificate / Residential Proof of the state of Bihar",
+            "Passing Certificate of Class 10th",
+            "Proof of Identity (Ration Card / Election Voter ID Card)",
+            "Proof of Age/DOB (Birth Certificate)",
+            "Details of the Aadhaar Linked Bank Account",
+            "Passport Sized Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "What Is Kushal Yuva Program?",
+                "answer": "Kushal Yuva Programme (KYP) is a part of one of the '7 commitments' namely 'Aarthik Hal, Yuvaon ko Bal'. This has been launched as a flagship programme of Bihar Skill Development Mission."
+            },
+            {
+                "question": "Who Are The Intended Trainees / Beneficiaries For Kushal Yuva Program (KYP)?",
+                "answer": "The Kushal Yuva Program (KYP) is targeted at all aspirants in the age group of 15-28 years who have passed 10th Class."
+            },
+            {
+                "question": "How Will The Trainees / Beneficiaries Be Registered For KYP?",
+                "answer": "The trainees will be registered online on the 7 nishachay portal through respective SDC\u2019s."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://skillmissionbihar.org/kushal-yuva-program"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://skillmissionbihar.org/images/docs/KYP-Output-Form_10th-Pass-Candidates.pdf"
+            },
+            {
+                "type": "Process Flow For Application",
+                "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/resources/Process_Flow_for_KYP.pdf"
+            },
+            {
+                "type": "User Manual For Online Application",
+                "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/resources/User_Manual_for_KYPpdf1.PDF"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://skillmissionbihar.org/kushal-yuva-program/kyp-resources/faqs"
+            },
+            {
+                "type": "Check Application Status",
+                "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in/addapplicationStatus"
+            }
+        ],
+        "tags": [
+            "Skill Development",
+            "Youth Empowerment",
+            "Bihar Government Schemes"
+        ]
+    }
+}

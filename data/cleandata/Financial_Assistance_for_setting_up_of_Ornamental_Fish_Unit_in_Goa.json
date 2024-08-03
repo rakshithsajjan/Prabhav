@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Financial Assistance for setting up of Ornamental Fish Unit in Goa",
+        "state": "Goa",
+        "department": "Fisheries Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Individuals or entities setting up Ornamental Fish Units",
+        "details": "The scheme provides financial assistance for setting up Ornamental Fish Units in Goa, including Breeding and Rearing Units.",
+        "benefits": [
+            "Financial assistance of 50% of the actual cost, limited to \u20b92,50,000",
+            "Support for training programs organized by relevant authorities"
+        ],
+        "eligibility": [
+            "Applicants must have undergone a training program organized by the Fisheries Department/ MPEDA/ ICAR",
+            "Land ownership can be either freehold or on lease"
+        ],
+        "exclusions": [],
+        "application_process": "The application is accepted only in offline mode. Applicants must submit a duly filled and signed hard copy of the application form along with the required documents.",
+        "documents_required": [
+            "Copy of the land deed and Form 1 & XIV for landowners",
+            "NOC from the landowner and a registered lease agreement for lessees",
+            "Detailed plan/layout of the proposed construction work",
+            "Mandate form for bank account details"
+        ],
+        "faqs": [
+            {
+                "question": "What is the duration of the training program on Ornamental Fish Farming, and is it conducted by the Department?",
+                "answer": "The duration of the training program on Ornamental Fish Farming is not specified. However, applicants should have undergone a training program organized by the Fisheries Department/ MPEDA/ ICAR to fulfill the eligibility criteria."
+            },
+            {
+                "question": "Is there a specific format for the estimate of the proposed construction work, and who approves it?",
+                "answer": "The estimate of the proposed construction work should be in a detailed plan/layout format and approved by the engineer attached to V.P/ Municipality/ BDO/ PWD."
+            },
+            {
+                "question": "What are the specific criteria for ownership of land, and how does it affect the eligibility for the scheme?",
+                "answer": "Land ownership can be either freehold or on lease. For owners, a copy of the land deed and Form 1 & XIV are required. For lessees, an NOC from the landowner and a registered lease agreement are necessary."
+            },
+            {
+                "question": "Can the application form be submitted electronically, or is it only accepted in hard copy?",
+                "answer": "The application for the 'Financial Assistance for setting up of Ornamental Fish Unit in Goa' scheme is accepted only in offline mode."
+            },
+            {
+                "question": "What is the process for submitting a complaint about the service or its standards to the Grievance Redressal Officer?",
+                "answer": "Complaints can be registered with the Department's Grievance Redressal Officer via dir-fish.goa@nic.in."
+            },
+            {
+                "question": "Is there a specific format for the design/layout of the Ornamental Unit that applicants need to follow?",
+                "answer": "Yes, the design/layout of the Ornamental Unit should be submitted with the application."
+            },
+            {
+                "question": "How does the Department handle grievances, and what is the expected timeline for grievance resolution?",
+                "answer": "Grievances can be registered with the Department's Grievance Redressal Officer via dir-fish.goa@nic.in. The Department acknowledges all complaints and communicates the final action within 30 days."
+            },
+            {
+                "question": "What are the repercussions if the information furnished in the application is found to be false?",
+                "answer": "If the information is found to be false or if there is any deviation or violation of the conditions, the application is liable to be rejected."
+            },
+            {
+                "question": "Can an applicant propose multiple Ornamental Units at different locations in a single application?",
+                "answer": "The application form allows providing details for a single Ornamental Unit. Separate applications should be submitted for each unit."
+            },
+            {
+                "question": "How does the Department verify the documents submitted with the application?",
+                "answer": "The documents submitted with the application are verified by a Gazetted Officer or through self-attestation."
+            },
+            {
+                "question": "What is the significance of the mandate form in the application process?",
+                "answer": "The mandate form is essential for providing bank account details and should be enclosed with the application."
+            },
+            {
+                "question": "What is the maximum financial assistance limit for setting up both a Breeding Unit and a Rearing Unit under the scheme?",
+                "answer": "The financial assistance limit for setting up both a Breeding Unit and a Rearing Unit is 50% of the actual cost, limited to \u20b92,50,000."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/fasuofug"
+            }
+        ],
+        "tags": [
+            "Ornamental Fish Farming",
+            "Financial Assistance",
+            "Goa",
+            "Fisheries"
+        ]
+    }
+}

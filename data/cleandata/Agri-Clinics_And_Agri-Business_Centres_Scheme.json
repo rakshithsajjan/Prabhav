@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Agri-Clinics And Agri-Business Centres Scheme",
+        "state": "Not specified",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Welfare Scheme",
+        "beneficiary": "Unemployed agricultural graduates, agricultural diploma holders, intermediate in agriculture, and biological science graduates with PG in agri-related courses",
+        "details": "A welfare scheme by the Ministry of Agriculture and Farmers' Welfare was launched in 2002. AC&ABC aims at agricultural development by supplementing the efforts of public extension by providing extension and other services to farmers either on a payment basis or free of cost as per the business model of agri-preneur, local needs, and affordability of the target group of farmers. AC&ABC creates gainful self-employment opportunities for unemployed agricultural graduates, agricultural diploma holders, intermediate in agriculture, and biological science graduates with PG in agri-related courses. NABARD is acting as a subsidy channelizing agency for this scheme.",
+        "benefits": [
+            "Expert advice and services to farmers on various aspects to enhance productivity",
+            "Support in soil health, cropping practices, plant protection, crop insurance, and post-harvest technology",
+            "Full financial support for training and handholding",
+            "Provision of loans and credit-linked back-end composite subsidy"
+        ],
+        "eligibility": [
+            "Age of the applicant must be between 18 and 60 years",
+            "Graduates in agriculture and allied subjects from recognized universities",
+            "Diploma holders in Agriculture and allied subjects",
+            "Biological Science Graduates with Post Graduation in Agriculture & allied subjects",
+            "Agriculture-related courses at intermediate level with at least 55% marks"
+        ],
+        "exclusions": [
+            "Retired Employees Getting Pensionary Benefits Are Not Eligible For Subsidy"
+        ],
+        "application_process": "Online. Visit the Official Website, fill in the mandatory fields, upload required documents, and click 'Submit' to complete the application process.",
+        "documents_required": [
+            "Applicant Aadhaar Number",
+            "Email ID",
+            "Latest Educational Qualification",
+            "Applicant's Bank Account Details",
+            "Applicant photo"
+        ],
+        "faqs": [
+            {
+                "question": "How much is a crop loan per acre?",
+                "answer": "DBT will be given at the rate of Rs 4,000 per acre per season for cropping while zero-interest loan will be at the rate of Rs 50,000 per hectare to be capped at Rs 1 lakh per farmer."
+            },
+            {
+                "question": "What is the lock in period for bank loans?",
+                "answer": "A beneficiary cannot close the bank loans within three years from the date of availing loans."
+            },
+            {
+                "question": "What is the subsidy pattern?",
+                "answer": "The subsidy is 36% of the Total Financial Outlay (TFO) for General Category candidates and 44% for Women, SC/ST/NE and Hilly State Candidates."
+            },
+            {
+                "question": "Is there any other condition for eligibility?",
+                "answer": "Yes, retired employees getting pensionary benefits are not eligible for subsidy."
+            },
+            {
+                "question": "What is the duration of the training?",
+                "answer": "45 days of residential training for the students who are desirous of setting up agri-clinics and agri-business centers."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://agricoop.nic.in/sites/default/files/ACABC.pdf"
+            },
+            {
+                "type": "Scheme Brief By NABARD",
+                "url": "https://www.nabard.org/auth/writereaddata/File/ACABC%20-%20Revised%20guidelines.pdf"
+            },
+            {
+                "type": "List Of Nodal Institutes",
+                "url": "https://acabcmis.gov.in/Institute.aspx"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Business",
+            "Employment",
+            "Entrepreneur",
+            "Student",
+            "Training"
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Mukhyamantri Vridhjan Pension Yojna",
+        "state": "Bihar",
+        "department": "Department of Social Welfare",
+        "type": "Pension",
+        "beneficiary": "Senior Citizens",
+        "details": "The scheme 'Mukhyamantri Vridhjan Pension Yojna' is an old-age pension scheme implemented by the Department of Social Welfare, Government of Bihar to provide financial assistance to elderly citizens. Under the scheme, a monthly pension is given to individuals who are aged 60 years or above.",
+        "benefits": [
+            "A monthly pension of \u20b9400/- will be provided to individuals who are in the age group of 60-79 years.",
+            "A monthly pension of \u20b9500/- will be provided to the individuals whose age is 80 years and above."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Bihar.",
+            "The age of the applicant should be 60 years or above.",
+            "The applicant should not be a retired government employee, in order to avail of the benefits of the scheme.",
+            "The applicant should not be receiving any pension from government service, family pension or social security pension from any other source for this purpose."
+        ],
+        "exclusions": [],
+        "application_process": "Online. To avail of the benefits of the scheme, the eligible applicant may visit the state official Portal: Social Security Pension Management Information System Website (SSPMIS).",
+        "documents_required": [
+            "EPIC Card",
+            "Aadhaar Card",
+            "Bank Account details with consent to use for DBT are mandatory",
+            "Proof of Age",
+            "Passport size photograph",
+            "Proof of residence",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is Mukhyamantri Vridhjan Pension Yojna?",
+                "answer": "Mukhyamantri Vridhjan Pension Yojna is an old age pension scheme initiated by the Department of Social Welfare, Government of Bihar. It aims to provide financial assistance to elderly citizens aged 60 years and above."
+            },
+            {
+                "question": "Who is eligible for the pension under this scheme?",
+                "answer": "Individuals who are 60 years or above are eligible for the pension under the scheme."
+            },
+            {
+                "question": "What are the benefits offered under this scheme?",
+                "answer": "For individuals aged 60-79 years, a monthly pension of \u20b9400/- will be provided. Individuals aged 80 years and above will receive a monthly pension of \u20b9500/-."
+            },
+            {
+                "question": "How is the pension amount distributed?",
+                "answer": "The pension amount is directly transferred to the beneficiary's bank account using the Direct Benefit Transfer (DBT) method."
+            },
+            {
+                "question": "How frequently is the pension disbursed?",
+                "answer": "The pension is disbursed on a monthly basis."
+            },
+            {
+                "question": "Can retired government employees apply for this pension scheme?",
+                "answer": "No, individuals who are retired government employees are not eligible to avail the benefits of the scheme."
+            },
+            {
+                "question": "Is there any restriction on receiving pensions from other sources?",
+                "answer": "Yes, applicants should not be receiving any pension from government service, family pension, or social security pension from any other source to be eligible for this scheme."
+            },
+            {
+                "question": "Can non-residents of Bihar apply for this pension scheme?",
+                "answer": "No, the scheme is designed for permanent residents of Bihar. Non-residents may not be eligible."
+            },
+            {
+                "question": "How can I apply under the scheme?",
+                "answer": "Visit the official SSPMIS Bihar website: https://www.sspmis.bihar.gov.in/HomePage"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://state.bihar.gov.in/socialwelfare/CitizenHome.html"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://www.sspmis.bihar.gov.in/HomePage"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Old Age",
+            "Pension",
+            "Senior Citizen"
+        ]
+    }
+}

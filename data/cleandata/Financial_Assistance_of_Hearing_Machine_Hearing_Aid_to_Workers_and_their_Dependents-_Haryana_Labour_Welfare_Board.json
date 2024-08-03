@@ -1,0 +1,46 @@
+{
+    "content": {
+        "title": "Financial Assistance of Hearing Machine/Hearing Aid to Workers and their Dependents- Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Labour Department Haryana",
+        "type": "Financial Assistance",
+        "beneficiary": "Workers and their Dependents",
+        "details": "This scheme provides financial assistance for hearing machines/hearing aids to workers and their dependents under the Haryana Labour Welfare Board.",
+        "benefits": [
+            "Financial assistance for purchasing hearing machines/hearing aids",
+            "Support for workers and their dependents"
+        ],
+        "eligibility": [
+            "Must be a registered worker under the Haryana Labour Welfare Board",
+            "Dependents of registered workers are also eligible"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Labour Department Haryana website or Antyodaya-SARAL Portal.",
+        "documents_required": [
+            "Aadhaar Number",
+            "Parivar Pehchan Patra (PPP) number",
+            "Proof of employment"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/fahmhawd-hlwb"
+            },
+            {
+                "type": "Labour Department Official Website",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Haryana",
+            "Labour Welfare",
+            "Financial Assistance",
+            "Hearing Aid"
+        ]
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Khet Talai",
+        "state": "Rajasthan",
+        "department": "Agriculture Department",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "Khet Talai Yojana under the Agriculture Department of Rajasthan Government, The biggest problem for farmers in Rajasthan is water for irrigation. One solution to this problem is a farm pond or in other words, a farm pond, by which the farmer can collect rainwater and use it for irrigation, but all the farmers get it constructed. Therefore, the state government gives a subsidy to the farmers on the construction of farm ponds so that the farmers can collect rainwater and irrigate their fields by making farm ponds in their fields.",
+        "benefits": [
+            "Scheduled Caste (SC) and Scheduled Tribes (ST), small, and marginal farmers will get 70 percent of the unit cost or a maximum of \u20b973,500/- on raw form pounds and 90 percent or \u20b91,35,000/- on plastic lining form pounds and other category farmers.",
+            "The subsidy is available on 60 percent of the cost or a maximum of \u20b963,000/- on raw form pounds and 80 percent or \u20b91,20,000/- on plastic lining form pounds, whichever is less.",
+            "The subsidy is payable only on farm ponds of a minimum 400 cubic meter capacity."
+        ],
+        "eligibility": [
+            "The applicant should be a Farmer.",
+            "The applicant should be a native of Rajasthan.",
+            "The applicant farmer should have a minimum cultivable land of 0.3 hectares at one place in his name.",
+            "In the case of the joint account holder, the minimum land in one place should be 0.5 hectares."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Bank Passbook",
+            "Land Proof",
+            "Jan Aadhar card",
+            "Mobile Number"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The state government gives subsidy to the farmers on the construction of farm ponds so that the farmers can irrigate their fields by collecting rain water by making farm ponds in their fields."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers will get the benefits."
+            },
+            {
+                "question": "Under which department does this scheme come?",
+                "answer": "Agriculture Department."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "Fields marked with an asterisk (*) are mandatory."
+            },
+            {
+                "question": "Is there any cubic meters criteria in this scheme?",
+                "answer": "The minimum size of the farm pond should be 400 cubic meters."
+            },
+            {
+                "question": "What is Bhamashah Card?",
+                "answer": "The Bhamashah card provided by this yojana is linked to a bank account in the name of the housewife. The card also provides women with biometric identification and core banking functions, as well as a variety of cash benefits that are directly transferred to their bank account."
+            },
+            {
+                "question": "How can I apply online?",
+                "answer": "The farmer will be able to apply himself or by visiting the nearest e-Mitra online centre."
+            },
+            {
+                "question": "Can applicants from outside Rajasthan apply for the scheme?",
+                "answer": "No, this scheme only for Rajasthan people."
+            },
+            {
+                "question": "What is the Supporting Documents in this scheme?",
+                "answer": "Janaadhar Card, Bank Passbook, Land Proof."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Log In",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Development",
+            "Farmer",
+            "Farming"
+        ]
+    }
+}

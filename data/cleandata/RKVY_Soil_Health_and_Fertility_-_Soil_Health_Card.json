@@ -1,0 +1,66 @@
+{
+    "content": {
+        "title": "RKVY Soil Health and Fertility - Soil Health Card",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Government Scheme",
+        "beneficiary": "Farmer",
+        "details": "SHC can be downloaded by the farmers from the SHC portal or through SMS link received on mobile. It will contain the status of his soil with respect to 12 parameters, namely N,P,K, S (Macro-nutrients); Zn, Fe, Cu, Mn, Bo (Micro - nutrients); and pH, EC, OC. Based on this, the SHC will also indicate fertilizer recommendations and soil amendment required for the farm.",
+        "benefits": [
+            "Provide free / affordable access to soil test",
+            "Provide farmers with timely and accurate soil analysis results",
+            "Facilitate customized soil nutrient recommendations based on test results",
+            "Enable farmers to optimize their fertiliser use and minimise input costs, and hence avoid under- or over- application of fertiliser"
+        ],
+        "eligibility": [
+            "The scheme is applicable for all farmers in India."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 01: Farmer approaches a District Agriculture Officer / Block Agriculture Officer for soil testing and generation of a SHC. Step 02: The concerned officer shall initiate the process for the concerned farmer wherein they assess whether the applicant\u2019s district / village falls under State Annual Action Plan for generation of SHC. Step 03: Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and takes a sample of the soil for testing. Step 04: The soil is tested on set parameters and a Soil Health report is generated for the farmer\u2019s land. Step 05: The report contains results as well as recommendations on suitable crops for the soil type, and the quantity and type of fertiliser to be used.",
+        "documents_required": [
+            "The documents may vary for each state. It is recommended to consult with the relevant authorities for detailed information."
+        ],
+        "faqs": [
+            {
+                "question": "Is there a fee for getting the soil tested?",
+                "answer": "No. The entire application process is completely free of cost under this scheme."
+            },
+            {
+                "question": "Can I get my soil tested for other parameters than mentioned in the scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "How are the recommendations arrived at?",
+                "answer": "Recommendations are based on GFR developed by State Agriculture Universities."
+            },
+            {
+                "question": "Can any farmer apply for a soil health card?",
+                "answer": "Yes, any farmer can apply for a soil health card for his/her land, through District Agriculture Office."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "For generation of SHC, farmer should reach out to the District / State Nodal officer if he/she wants to get soil testing done for free. Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and generates a QR code (which carries information on farmer and land). The soil is taken to a STL where it is tested on 12 parameters. The SHC is generated after soil test on portal. The SHC gives crop recommendations and fertiliser recommendations (which crop should be grown on this soil type and how much and which fertiliser is best suited)."
+            },
+            {
+                "question": "What are the documents required for the scheme?",
+                "answer": "The documents may vary for each state. It is recommended to consult with the relevant authorities for detailed information."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.soilhealth.dac.gov.in/assets/Circular%20of%20implementation%20of%20Soil%20Health%20Card.pdf"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://www.soilhealth.dac.gov.in/assets/Circular%20of%20implementation%20of%20Soil%20Health%20Card.pdf"
+            }
+        ],
+        "tags": [
+            "RKVY",
+            "Soil Health",
+            "Soil Testing",
+            "Farmer"
+        ]
+    }
+}

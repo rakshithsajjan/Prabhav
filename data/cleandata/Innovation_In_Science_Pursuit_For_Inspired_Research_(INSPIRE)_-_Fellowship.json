@@ -1,0 +1,72 @@
+{
+    "content": {
+        "title": "Innovation In Science Pursuit For Inspired Research (INSPIRE) - Fellowship",
+        "state": "India",
+        "department": "Department of Science and Technology",
+        "type": "Fellowship",
+        "beneficiary": "Students pursuing doctoral degrees in basic and applied sciences",
+        "details": "INSPIRE Fellowship is one of the components of INSPIRE scheme implemented by the Department of Science and Technology (DST), Government of India to strengthen the Science and Technology base of the country. This Component focusses on attracting students to pursue doctoral degree in basic and applied sciences including engineering, medicine, agriculture, veterinary, pharmacy etc. after either master\u2019s degree in science/engineering or bachelor/ master\u2019s degree in Medicine.",
+        "benefits": [
+            "Financial support for pursuing doctoral degrees",
+            "Access to research opportunities",
+            "Designation as Junior Research Fellow (JRF)"
+        ],
+        "eligibility": [
+            "Students with a master\u2019s degree in science/engineering",
+            "Students with a bachelor/master\u2019s degree in Medicine"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the INSPIRE Web-portal during the announced call for applications.",
+        "documents_required": [
+            "Rank certificate in the prescribed INSPIRE Fellowship Format",
+            "Ph.D. admission documents"
+        ],
+        "faqs": [
+            {
+                "question": "When can we apply for INSPIRE Fellowship?",
+                "answer": "Call for INSPIRE Fellowship applications is announced during the 3rd/4th quarter of each financial year."
+            },
+            {
+                "question": "Is it mandatory to produce the rank certificate in the INSPIRE Fellowship format?",
+                "answer": "Yes, it is mandatory to produce a Rank certificate in the prescribed INSPIRE Fellowship Format only."
+            },
+            {
+                "question": "What is the tenure of this Fellowship?",
+                "answer": "Fellowship shall be tenable for a maximum period of five years from INSPIRE Fellowship 'Effective Date' or completion of the Ph.D. program."
+            },
+            {
+                "question": "What is the amount of Fellowship?",
+                "answer": "The Fellowship shall be governed through the Office Memorandum of this Ministry and HRA to the Fellows shall also be applicable as per GoI norms."
+            },
+            {
+                "question": "Is it mandatory that the host institute should be registered under PFMS for receiving the Fellowship grant?",
+                "answer": "Yes, it is mandatory. Else Fellowship fund transfer shall not be done."
+            },
+            {
+                "question": "What should be done for getting the next installment of my fellowship?",
+                "answer": "INSPIRE Fellow needs to upload a Utilization Certificate, Statement of Expenditure, Claim Bill, and Annual Progress Report in the prescribed formats."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/inspire-f"
+            },
+            {
+                "type": "INSPIRE Web-portal",
+                "url": "https://www.online-inspire.gov.in"
+            },
+            {
+                "type": "Public Financial Management System",
+                "url": "https://pfms.nic.in"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Research",
+            "Science",
+            "Technology",
+            "PhD"
+        ]
+    }
+}

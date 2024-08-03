@@ -1,0 +1,66 @@
+{
+    "content": {
+        "title": "Financial Support To The Students Of N.E.R For Higher Professional Courses (NEC Merit Scholarship)",
+        "state": "North Eastern Region",
+        "department": "Ministry Of Development Of North Eastern Region",
+        "type": "Scholarship",
+        "beneficiary": "Students of North Eastern States",
+        "details": "A scholarship scheme by the North Eastern Council (NEC), Ministry of Development of North Eastern Region for the students of the North Eastern States undergoing studies in different disciplines at different levels in Institutions inside as well as outside the North-East but within the country. The scholarship under this scheme shall be disbursed only through National Scholarship Portal (NSP). The scholarship shall be admissible to students who get admission in Diploma, Degree, Post-graduate or registration in M.Phil. / Ph.D. courses of any institute recognized by the Government. The grant of scholarship for M.Phil and Ph.D. would be after the registration of the students with the University. The scholarship shall be admissible to the students whose parent/guardian\u2019s annual income from all sources shall not exceed \u20b98,00,000.",
+        "benefits": [
+            "Diploma: 20,000/-",
+            "Degree: 22,000/-",
+            "Postgraduate: 25,000/-",
+            "M.Phil./Ph.D.: 30,000/-"
+        ],
+        "eligibility": [
+            "The applicant must be a permanent resident of any of the North Eastern States.",
+            "The applicant must be admitted in Diploma, Degree, Post-graduate or registered in M.Phil. / Ph.D. courses of any institute recognized by the Government.",
+            "The total annual income of the applicant's parents/guardian (from all sources) shall not exceed \u20b98,00,000.",
+            "The applicant must fulfill the following eligibility criteria in the previous qualifying examination: Diploma - 60% marks; Degree - 60% marks; Post Graduate - 60% marks; M.Phil. / Ph.D. - 60% marks."
+        ],
+        "exclusions": [
+            "A sponsored candidate under full employment during the period of study or working/in-service candidates shall not be eligible to receive the scholarship.",
+            "The Scholarship will not be available for an internship or any practical training.",
+            "A request for renewal of students who have changed their subject of study will not be entertained for renewal if the students have availed of the scholarship for the previous course or part of it.",
+            "A request for renewal of scholarship of such student beneficiaries who have changed their Institution of study will not be entertained for renewal."
+        ],
+        "application_process": "Online. The applicants are required to fill up the application form on National Scholarship Portal (NSP) (www.scholarships.in), within the prescribed date for receipt of the application, following due procedure/guidelines mentioned thereon.",
+        "documents_required": [
+            "Permanent Residential Certificate (PRC) issued by the Dy. Commissioner /Addl. Dy. Commissioners/ Sub-divisional officers of civil sub-divisions in the NE States.",
+            "Income Certificate issued by the Competent Authority.",
+            "Bank Account Pass Book \u2013 The account must be in the name of the applicant (Optional).",
+            "Details of qualifying examination.",
+            "Synopsis signed by the project guide / Director (Research) or any official authorized by the Institute/University in the case of M.Phil/Ph.D. candidates."
+        ],
+        "faqs": [
+            {
+                "question": "Is There Is Any Reservation / Quota Under The Scheme?",
+                "answer": "There will not be any reservation/quota on the basis of category/religion/gender."
+            },
+            {
+                "question": "Is There Any Income Criteria Under The Scheme?",
+                "answer": "Yes, the scholarship shall be admissible to the students whose parent / guardian\u2019s annual income from all sources shall not exceed \u20b98,00,000."
+            },
+            {
+                "question": "What Is The Criterion For Selection Of Students For Scholarships?",
+                "answer": "The scholarship is purely on merit basis. The merit list will be prepared exclusively on the basis of marks obtained by the candidate in the qualifying exams."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/NEC_1234_G.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/NEC_1234_F.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "North Eastern Region",
+            "Education",
+            "Financial Support"
+        ]
+    }
+}

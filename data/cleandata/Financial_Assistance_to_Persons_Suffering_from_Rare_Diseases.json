@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Financial Assistance to Persons Suffering from Rare Diseases",
+        "state": "Haryana",
+        "department": "Social Justice and Empowerment Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Persons suffering from Rare Diseases",
+        "details": "The scheme 'Financial Assistance to Persons Suffering from Rare Diseases' was launched by the Social Justice and Empowerment Department, Government of Haryana. This scheme shall be applicable for all the persons of Haryana domicile, who are suffering from Rare Diseases; and also to extend the benefit of the Scheme to such persons, whose family income should be less than \u20b93,00,000/-. Under this scheme, \u20b93000/- per month will be provided starting from 01.01.2024. The financial assistance will be provided in addition to any benefits received by the applicant under other social security pension schemes.",
+        "benefits": [
+            "Financial assistance of \u20b93,000/- per month starting from 01.01.2024."
+        ],
+        "eligibility": [
+            "The applicant must be a domicile and bonafide resident of Haryana.",
+            "There are no age restrictions for applicants.",
+            "The applicant's annual family income should be less than \u20b93,00,000/-.",
+            "The applicant must possess a Parivar Pehchan Patra.",
+            "The applicant should be suffering from any of the Rare Diseases mentioned in the National Policy for Rare Diseases, 2021, and diagnosed at any of the notified 'Centres of Excellence'."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Age Proof (Any one of the following): Date of Birth Certificate, School Certificate, Voter Card, Voter list showing the name of the applicant with photograph.",
+            "Residential Proof (Any one of the following self-attested documents issued prior to 15 years): Ration Card, Voter Card, Voter list showing the name of the applicant with photograph.",
+            "Other Documents: Aadhaar Card, Saving Bank account details of the applicant with a photocopy of the passbook."
+        ],
+        "faqs": [
+            {
+                "question": "Who implements this scheme?",
+                "answer": "Directorate of Social Justice and Empowerment, Government of Haryana."
+            },
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "Applicants must be Haryana domiciles, possess a Parivar Pehchan Patra (PPP), have a family income less than \u20b93,00,000/- per year, and be diagnosed with a rare disease by a designated Centre of Excellence."
+            },
+            {
+                "question": "Is there an age limit for applicants?",
+                "answer": "No, there are no age restrictions for applicants."
+            },
+            {
+                "question": "How much financial assistance is provided under the scheme?",
+                "answer": "Eligible individuals receive \u20b93,000/- per month."
+            },
+            {
+                "question": "When does the financial assistance start?",
+                "answer": "The financial assistance begins on 01.01.2024."
+            },
+            {
+                "question": "Can beneficiaries receive assistance from other social security schemes in addition to this one?",
+                "answer": "Yes, the financial assistance is provided in addition to any benefits received under other social security pension schemes."
+            },
+            {
+                "question": "Where can applicants find the list of rare diseases covered under this scheme?",
+                "answer": "The list is available on the official website of the Health Department, Haryana."
+            },
+            {
+                "question": "How can applicants apply for the scheme?",
+                "answer": "Applicants can apply through the Antyodaya-SARAL Portal."
+            },
+            {
+                "question": "What is the maximum family income allowed for eligibility?",
+                "answer": "The family income must be less than \u20b93,00,000/- per year."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://socialjusticehry.gov.in/financial-assistance-to-persons-suffering-from-rare-diseases/"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=K2Jru3MTGRRXhnKClFxvrA%3d%3d"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/login.do"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Rare Diseases",
+            "Haryana"
+        ]
+    }
+}

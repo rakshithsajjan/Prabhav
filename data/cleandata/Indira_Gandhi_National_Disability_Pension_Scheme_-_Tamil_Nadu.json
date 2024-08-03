@@ -1,0 +1,104 @@
+{
+    "content": {
+        "title": "Indira Gandhi National Disability Pension Scheme - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Pension",
+        "beneficiary": "Individuals aged 18 and above belonging to households below the poverty line",
+        "details": "The 'Indira Gandhi National Disability Pension Scheme' is a state initiative by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. Its goal is to offer a \u20b91,000 pension to individuals aged 18 and above, who belong to households below the poverty line. Eligibility criteria include a disability percentage of 80% or above, or severe/multiple disabilities.",
+        "benefits": [
+            "\u20b91,000/- per month pension",
+            "One free dhoti to a male pensioner during Pongal and Deepavali",
+            "One free saree to a female pensioner during Pongal and Deepavali",
+            "2kg/month of free rice in Anganwadi Centres for those taking nutritious meals",
+            "4kg/month of free rice in Anganwadi Centres for those not taking nutritious meals"
+        ],
+        "eligibility": [
+            "The applicant should belong to the 'Below Poverty Line' category.",
+            "The applicant's age should be 18 years and above.",
+            "The applicant should have a disability of 80% or above, or should have multiple disabilities."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via Common Service Centers (CSCs). The applicant should gather necessary documents, visit the nearest CSC for biometric verification, fill in the application form, and request a receipt or acknowledgment.",
+        "documents_required": [
+            "Applicant's Photo",
+            "Aadhaar Card",
+            "Proof of age",
+            "Aadhaar Consent Form",
+            "Smart Ration Card or Any Address Proof",
+            "Self\u2013declaration of Applicant",
+            "Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License (Optional))",
+            "Bank Passbook",
+            "BPL Card Number",
+            "Differently Abled ID card"
+        ],
+        "faqs": [
+            {
+                "question": "I am a person with a disability, but the percentage is 75%. Am I eligible for the scheme?",
+                "answer": "Unfortunately, no. The scheme requires a minimum disability of 80% or above to be eligible for the pension and other benefits."
+            },
+            {
+                "question": "I am a senior citizen with a disability, but my income is slightly above the BPL limit. Can I still apply?",
+                "answer": "No, exceeding the Below Poverty Line (BPL) limit automatically disqualifies you from the scheme."
+            },
+            {
+                "question": "I have a child with a disability. Can they apply for the scheme?",
+                "answer": "Yes, as long as the child is 18 years old or above and meets the other eligibility criteria (80% or above disability and BPL category), they can apply for the scheme independently."
+            },
+            {
+                "question": "Can I apply for the scheme online without visiting the CSC?",
+                "answer": "Currently, no. Applying for the scheme requires visiting the nearest Common Service Center (CSC)."
+            },
+            {
+                "question": "I live in a rural area with limited internet access. How can I apply?",
+                "answer": "You can still apply by visiting the nearest CSC. They have the necessary facilities to complete the application process on your behalf."
+            },
+            {
+                "question": "What happens if I cannot attend the distribution event for the free clothes?",
+                "answer": "In most cases, the sarees and dhotis can be collected later from designated distribution centers."
+            },
+            {
+                "question": "Do I need a medical certificate proving my disability during the application process?",
+                "answer": "Yes, you will need to submit a Differently Abled ID card as proof of your disability."
+            },
+            {
+                "question": "Do I need to renew my application every year to continue receiving the benefits?",
+                "answer": "No, once approved, you don't need to reapply every year."
+            },
+            {
+                "question": "I am a person with a visual impairment. How can I navigate the application process at the CSC?",
+                "answer": "The CSC staff is trained to assist individuals with disabilities."
+            },
+            {
+                "question": "I am concerned about the privacy of my disability information during the application process.",
+                "answer": "The application process adheres to strict data privacy regulations."
+            },
+            {
+                "question": "Can I choose the color or design of the free dhoti or saree?",
+                "answer": "No, the scheme typically provides pre-selected colors and designs."
+            },
+            {
+                "question": "I am unable to collect the free rice due to my disability. Can someone else collect it on my behalf?",
+                "answer": "Yes, you can authorize a family member or trusted individual to collect the rice on your behalf."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://tnlegalservices.tn.gov.in/swwe/Annexure_English.pdf"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Clothes",
+            "Disability",
+            "Meal",
+            "Pension",
+            "PwD"
+        ]
+    }
+}
