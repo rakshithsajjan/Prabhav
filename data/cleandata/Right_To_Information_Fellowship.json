@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "Right To Information Fellowship",
+        "state": "Delhi",
+        "department": "Ministry of Information and Broadcasting",
+        "type": "Fellowship",
+        "beneficiary": "Indian Nationals",
+        "details": "The Right To Information Fellowship aims to promote research and innovative approaches to enhance the functioning of the RTI regime in India.",
+        "benefits": [
+            "Opportunity to conduct research on RTI-related issues",
+            "Access to government resources and support",
+            "Publication of research output by the Government of India"
+        ],
+        "eligibility": [
+            "Only Indian nationals are eligible to apply",
+            "Individuals working under Central/State Government or Public Sector Undertakings can apply through proper channel"
+        ],
+        "exclusions": [],
+        "application_process": "Applications must be submitted through the proper channel, with an advance copy sent along with required enclosures.",
+        "documents_required": [
+            "Completed application form",
+            "Research proposal",
+            "Proof of eligibility (if applicable)"
+        ],
+        "faqs": [
+            {
+                "question": "Will short-listed candidates be required to attend an interview or presentation?",
+                "answer": "Yes, short-listed candidates may be called for an interview or presentation in Delhi as part of the final selection process."
+            },
+            {
+                "question": "What happens if an application is incomplete?",
+                "answer": "Incomplete applications are liable to be rejected, so it is important to ensure that all the required information and documents are included."
+            },
+            {
+                "question": "Will any form of canvassing affect the selection process?",
+                "answer": "Yes, canvassing in any form will lead to disqualification from the selection process."
+            },
+            {
+                "question": "What should the research proposal indicate?",
+                "answer": "The research proposal should clearly indicate the deliverable or output that will be produced at the end of the fellowship."
+            },
+            {
+                "question": "Who will own the copyright of the research output?",
+                "answer": "The copyright of the research output will vest in the Government of India."
+            },
+            {
+                "question": "Can fellows propose innovative approaches or methodologies for their research?",
+                "answer": "Yes, fellows are encouraged to propose innovative approaches or methodologies that can add value to their research."
+            },
+            {
+                "question": "What happens if a fellow is unable to deliver the proposed research output?",
+                "answer": "Fellows are expected to fulfill their commitment and deliver the proposed research output, but should communicate with authorities in exceptional circumstances."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/rtif"
+            }
+        ],
+        "tags": [
+            "RTI",
+            "Fellowship",
+            "Research",
+            "Government Scheme"
+        ]
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "content": {
+        "title": "Banishree Scholarship",
+        "state": "Odisha",
+        "department": "Education & Learning",
+        "type": "Scholarship",
+        "beneficiary": "Students with special needs",
+        "details": "The main objective of the scholarship is to assist and encourage students with special needs to study as well as acquire technical/professional/vocational training to enable them to earn a living and become useful members of society.",
+        "benefits": [
+            "Primary (Standard I to V): Rs.200/-",
+            "Middle and High School (Standard VI to VIII and IX to XI): Rs. 250/-",
+            "College (+2 & +3): Rs. 300/-",
+            "College (P.G.): Rs. 350/-",
+            "Technical and vocational training: Rs. 350/-",
+            "Reader\u2019s Allowance for visually challenged candidates",
+            "Additional monthly allowance for orthopaedically handicapped students"
+        ],
+        "eligibility": [
+            "The applicant must be a bona fide resident of Orissa.",
+            "The applicant should be a regular student of an educational institution.",
+            "The parental/family income of the applicant is not more than Rs.60,000 per annum.",
+            "The applicant is not receiving any financial assistance/stipend/scholarship from State Govt./Central Govt. under any other scheme.",
+            "The student will continue to get the scholarship if he enrols and regularly attends any recognised institution irrespective of whether he has passed or not in a particular year."
+        ],
+        "exclusions": [],
+        "application_process": "Choose the option 'New Application'. Provide the required details in Student Details, Institute Details, Other Details, Bank Account Details. Submit.",
+        "documents_required": [
+            "Disability Certificate issued by Medical Board",
+            "Income Certificate issued by Revenue Officer, not below the rank of Tahasildar or any other officer of equivalent status.",
+            "Mark sheets of the last examination passed duly attested by a Gazetted Officer or the Head of the Institution concerned."
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Primary (Standard I to V): Rs.200/-, Middle and High School (Standard VI to VIII and IX to XI): Rs. 250/-, College (+2 & +3): Rs. 300/-, College (P.G.): Rs. 350/-, Technical and vocational training: Rs. 350/-."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "The applicant must be a bona fide resident of Orissa, should be a regular student of an educational institution, with a family income not more than Rs.60,000 per annum, and not receiving any financial assistance from other schemes."
+            },
+            {
+                "question": "What is the application process?",
+                "answer": "Follow the official website, choose 'New Application', provide required details, and submit."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Disability Certificate, Income Certificate, and Mark sheets of the last examination passed."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/bs"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Student Finance",
+            "Education",
+            "Special Needs"
+        ]
+    }
+}

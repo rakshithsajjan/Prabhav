@@ -1,0 +1,46 @@
+{
+    "content": {
+        "title": "Dental Care Scheme- Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Workers registered under the Haryana Labour Welfare Board",
+        "details": "The Dental Care Scheme aims to provide dental care services to workers registered under the Haryana Labour Welfare Board.",
+        "benefits": [
+            "Access to dental care services",
+            "Financial assistance for dental treatments"
+        ],
+        "eligibility": [
+            "Must be a registered worker under the Haryana Labour Welfare Board",
+            "Must possess a valid Parivar Pehchan Patra (PPP) ID"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Labour Department Haryana website or Antyodaya-SARAL Portal.",
+        "documents_required": [
+            "Parivar Pehchan Patra number",
+            "Aadhaar Number (if applicable)",
+            "Photo of the applicant"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/dcs-hlwb"
+            },
+            {
+                "type": "Labour Department Haryana",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Dental Care",
+            "Welfare Scheme",
+            "Haryana",
+            "Labour Welfare"
+        ]
+    }
+}

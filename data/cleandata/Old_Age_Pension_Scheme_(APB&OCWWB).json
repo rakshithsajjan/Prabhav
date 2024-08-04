@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Old Age Pension Scheme (APB&OCWWB)",
+        "state": "Arunachal Pradesh",
+        "department": "Department of Labour and Employment",
+        "type": "Pension",
+        "beneficiary": "Construction Worker",
+        "details": "The scheme 'Old Age Pension Scheme' was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The government of Arunachal Pradesh has introduced the pension scheme through the board and the aim of the scheme is to secure the economic dependency of a worker after retirement or at an old age period.",
+        "benefits": [
+            "Cash assistance of \u20b9500/- per month, to the old age beneficiaries with an increase in \u20b910/- on completion of every 5 years."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Arunachal Pradesh.",
+            "The applicant must be employed in the Building and Other Construction works.",
+            "The applicant should be registered with Labour Welfare Board (APB&OCWWB).",
+            "The applicant with a membership for at least 1 year after the age of 60 years is eligible to apply under the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 01: For taking benefit of this scheme, the applicant needs to contact Registering Officers, APB&OCWWB of the respective District. Step 02: Application in the prescribed format may be received from the concerned office. Step 03: The applicant needs to fill the application form completely and attach all the relevant documents. Thereafter, the applicant may submit the application form to the concerned office. Step 04: After successful verification, the applicant can avail the benefit of the scheme.",
+        "documents_required": [
+            "Identity proof i.e. Aadhaar Card, Voter ID card, etc.",
+            "Xerox copy of the registration card of the worker",
+            "Bank Account details/ front page of the passbook",
+            "Passport-size photographs"
+        ],
+        "faqs": [
+            {
+                "question": "What is the aim of the scheme?",
+                "answer": "The aim of this scheme is to secure the economic dependency of a worker after retirement or at an old age period."
+            },
+            {
+                "question": "By which department was this scheme launched?",
+                "answer": "Department of Labour and Employment, Government of Arunachal Pradesh."
+            },
+            {
+                "question": "What is the full form of APB&OCWWB?",
+                "answer": "Arunachal Pradesh Building & Other Construction Workers Welfare Board."
+            },
+            {
+                "question": "What is the amount of pension to be given to the eligible worker?",
+                "answer": "A monthly pension of \u20b9500/- will be given to old-age beneficiaries."
+            },
+            {
+                "question": "What should be the minimum age to take the benefit of the scheme?",
+                "answer": "The minimum age of the applicant should be 60 years."
+            },
+            {
+                "question": "How much will be the increment in pension?",
+                "answer": "The pension will increase by \u20b910/- on completion every 5 years."
+            },
+            {
+                "question": "Is it mandatory to be registered under Board for a worker?",
+                "answer": "Yes, the labour/worker must be a registered worker under the Board."
+            },
+            {
+                "question": "Who is eligible under this scheme?",
+                "answer": "A registered worker with a membership for at least 1 year after the age of 60 years is eligible for the scheme."
+            },
+            {
+                "question": "Is this scheme only for a worker/labour of Arunachal Pradesh?",
+                "answer": "Yes, the applicant should be a permanent resident of Arunachal Pradesh."
+            },
+            {
+                "question": "How can I avail the benefits of the scheme?",
+                "answer": "The applicant needs to contact Registering Officers, APB&OCWWB of the respective District."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification",
+                "url": "https://www.arunachalpwd.org/pdf/AP%20BUILDING%20AND%20OTHER%20CONSTRUCTION%20WORKERS%20welfare%20board.pdf"
+            },
+            {
+                "type": "Guideline",
+                "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+            }
+        ],
+        "tags": [
+            "Old Age",
+            "Pension",
+            "Labour",
+            "Construction Worker"
+        ]
+    }
+}

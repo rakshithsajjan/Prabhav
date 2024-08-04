@@ -1,0 +1,112 @@
+{
+    "content": {
+        "title": "Financial Assistance to Brackish Water Aquaculture Farms",
+        "state": "Goa",
+        "department": "Department of Fisheries",
+        "type": "Subsidy",
+        "beneficiary": "Fishermen",
+        "details": "Financial Assistance to Brackish Water Aquaculture Farms is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme. The applications are accepted only in offline mode.",
+        "benefits": [
+            "25% subsidy, limited to \u20b92,00,000 per hectare for Construction & Renovation of Farm",
+            "50% subsidy, limited to \u20b91,00,000 per hectare for Purchase of Farming Equipment",
+            "25% subsidy of the cost of feed, limited to \u20b930,000 per crop per hectare for 2 crops in a year"
+        ],
+        "eligibility": [
+            "The applicant should be a farmer having a water spread area of 2 hectares or less.",
+            "The farms owned by the applicant should be licensed by the Coastal Aquaculture Authority."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The interested applicant should take print of the prescribed format of the application form. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
+        "documents_required": [
+            "Joint Photograph of Applicant With Spouse",
+            "Aadhaar Card/ration Card",
+            "CAA License Copy",
+            "Mandate Form",
+            "Copy of Estimate of Work",
+            "Work Completion Certificate of the Farm"
+        ],
+        "faqs": [
+            {
+                "question": "Can the Financial Assistance for Purchase of Feed be availed for more than two crops in a year?",
+                "answer": "No, the assistance is limited to \u20b930,000 per crop per hectare for 2 crops in a year."
+            },
+            {
+                "question": "What is the contact information for the Grievance Redressal Officer, and is there a dedicated email for lodging grievances?",
+                "answer": "The Grievance Redressal Officer can be contacted at dir-fish.goa@nic.in."
+            },
+            {
+                "question": "Can applicants submit applications at any time, or are there specific windows for submission?",
+                "answer": "The guidelines do not specify specific windows; applications can presumably be submitted at any time."
+            },
+            {
+                "question": "What documents are required for the application, and are self-attested copies acceptable?",
+                "answer": "Required documents include a joint photograph, Aadhar Card, CAA License Copy, Mandate Form, Estimate of Work, and Work Completion Certificate, all of which should be self-attested if required."
+            },
+            {
+                "question": "Is the submission of applications limited to offline mode, and where should the filled application forms be submitted?",
+                "answer": "Yes, applications are accepted only in offline mode, and forms should be submitted to the Directorate of Fisheries in Panaji Goa or BDO Office/Sub-Offices."
+            },
+            {
+                "question": "How is the subsidy for the Financial Assistance for Purchase of Farming Equipment calculated, and what is the maximum limit per hectare?",
+                "answer": "The subsidy is 50%, limited to \u20b91,00,000 per hectare."
+            },
+            {
+                "question": "What is the maximum subsidy limit for the Financial Assistance for Construction & Renovation of Farm under this scheme?",
+                "answer": "The subsidy limit is 25%, capped at \u20b92,00,000 per hectare."
+            },
+            {
+                "question": "Are there any fees associated with the application process for this scheme, considering the department's website does not mention an application fee?",
+                "answer": "No, the application fee is nil."
+            },
+            {
+                "question": "Could you provide details on the eligibility criteria, specifically regarding the water spread area for farmers to apply to this scheme?",
+                "answer": "Farmers with a water spread area of 2 hectares or less are eligible to apply."
+            },
+            {
+                "question": "Is there a specific timeframe within which farmers must utilize the financial assistance provided for the purchase of feed?",
+                "answer": "The guidelines do not specify a timeframe for utilizing the financial assistance for feed purchase."
+            },
+            {
+                "question": "Can farmers apply for financial assistance for both construction and renovation of farms and the purchase of farming equipment simultaneously?",
+                "answer": "Yes, eligible farmers can apply for assistance in both categories simultaneously."
+            },
+            {
+                "question": "Is the financial assistance provided under this scheme subject to taxation, and are there any deductions or exemptions mentioned?",
+                "answer": "The guidelines do not provide information on the taxation status of the financial assistance, and any related deductions or exemptions are not specified."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://fisheries.goa.gov.in/schemes-services/"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+            },
+            {
+                "type": "Application Form For Construction And Renovation Of Farm",
+                "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Const-1.pdf"
+            },
+            {
+                "type": "Application Form For Purchase Of Feed",
+                "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Feed-1.pdf"
+            },
+            {
+                "type": "Application Form For Purchase Of Farming Equipment",
+                "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Equip-1.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+            }
+        ],
+        "tags": [
+            "Aquaculture",
+            "Farming",
+            "Fish",
+            "Fishermen",
+            "Subsidy"
+        ]
+    }
+}

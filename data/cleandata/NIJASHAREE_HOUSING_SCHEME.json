@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "NIJASHAREE HOUSING SCHEME",
+        "state": "West Bengal",
+        "department": "Housing Department",
+        "type": "Housing Scheme",
+        "beneficiary": "Lower Income Group (LIG) and Middle Income Group (MIG)",
+        "details": "The Government of West Bengal is determined to provide a 'Basha' (house) to all the people belonging to the Lower Income Group (LIG) and the Middle Income Group (MIG). There is a growing demand for housing amongst families belonging to the low and middle-income categories. In order to cater to the housing needs of the Lower Income Group and the Middle Income Group, the Housing Department felt the need to make provisions for affordable housing, and decided to introduce a new Housing Scheme, namely 'NIJASHREE HOUSING SCHEME'.",
+        "benefits": [
+            "Under this scheme, a 'Basha' (house) will be allotted to all the people belonging to the Lower Income Group (LIG) and the Middle Income Group (MIG) by lottery on ownership basis.",
+            "Credit-linked subsidies to the eligible beneficiaries will be facilitated by the Housing Department, as per the existing scheme."
+        ],
+        "eligibility": [
+            "Monthly family income should be \u20b915,000 or less for the Lower Income Group (LIG).",
+            "Monthly family income should be \u20b930,000 or less for the Middle Income Group (MIG).",
+            "The beneficiary should not have any pucca house/flat in his/her name, or in the name of any family member in the state.",
+            "The applicant must be an inhabitant of the same district in which the project is to be implemented.",
+            "One applicant can apply for one flat only for his/her family."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Passport Size photo",
+            "Original Income Certificate",
+            "Original Affidavit / Declaration",
+            "Copy of Voter Card",
+            "Copy of Ration card",
+            "Copy of PAN Card",
+            "Copy of Aadhar Card",
+            "Bank Details",
+            "Any other specified documents for proof of address"
+        ],
+        "faqs": [
+            {
+                "question": "What is the aim of the scheme 'NIJASHREE Housing Scheme'?",
+                "answer": "Under this scheme, a 'Basha' (house) will be allotted to all the people belonging to the Lower Income Group (LIG) and the Middle Income Group (MIG) by lottery on an ownership basis."
+            },
+            {
+                "question": "How are flats allotted to the beneficiaries under the 'NIJASHREE Housing Scheme'?",
+                "answer": "The selection of beneficiaries and allotment of flats will be done through a transparent lottery in the respective district/sub-division."
+            },
+            {
+                "question": "Who is eligible under this scheme?",
+                "answer": "The person who belongs to the Lower Income Group (LIG) and the Middle Income Group (MIG) is eligible for the scheme."
+            },
+            {
+                "question": "What should be the monthly family income of the person belonging to LIG?",
+                "answer": "The monthly family income should be \u20b915,000 or less."
+            },
+            {
+                "question": "What should be the monthly family income of the person belonging to MIG?",
+                "answer": "The monthly family income should be \u20b930,000."
+            },
+            {
+                "question": "Is a beneficiary having any pucca house/flat in his/her name eligible under this scheme?",
+                "answer": "No, the beneficiary should not have any pucca house/flat in his/her name, or in the name of any family member in the state."
+            },
+            {
+                "question": "Is it mandatory for an applicant to be an inhabitant of the same district in which the project is to be implemented for availing of the benefits of the scheme?",
+                "answer": "Yes, the applicant must be an inhabitant of the same district in which the project is to be implemented."
+            },
+            {
+                "question": "Where can I get application form?",
+                "answer": "A sample application form and a soft copy of the brochure will be available at the website www.wbhousing.gov.in (NIJASHAREE Housing) and at the concerned District Magistrate/ Sub-Divisional Officer's office."
+            },
+            {
+                "question": "Can one applicant apply for more than one flat for his/her family?",
+                "answer": "No, one applicant can apply for one flat only for his/her family."
+            },
+            {
+                "question": "What is the application fee?",
+                "answer": "Application fee, at the rate of 2500 for 1BHK and 25000 for 2BHK, will be charged from the beneficiary at the time of application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Website",
+                "url": "http://wbhousing.gov.in/nijashree"
+            },
+            {
+                "type": "Application Form",
+                "url": "http://wbhousing.gov.in/templetes/templete1/pdf/Nijashree/Sample-Application-format.pdf"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "West Bengal",
+            "Affordable Housing",
+            "LIG",
+            "MIG"
+        ]
+    }
+}

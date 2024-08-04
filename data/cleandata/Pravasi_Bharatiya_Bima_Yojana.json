@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Pravasi Bharatiya Bima Yojana",
+        "state": "Not specified",
+        "department": "Ministry Of External Affairs",
+        "type": "Insurance",
+        "beneficiary": "Overseas Indian workers",
+        "details": "A mandatory insurance scheme by Ministry of External Affairs (MEA) for safeguarding the interests of Indian emigrant workers falling under Emigration Check Required (ECR) category going for overseas employment to ECR countries. PBBY also includes global insurance coverage irrespective of employer and location, has facility for online renewal and a simplified process for certification of accidental death / permanent disability. The scheme is now more beneficial for emigrant workers and is aimed at ensuring an expeditious settlement of claims.",
+        "benefits": [
+            "The Insured person shall be covered for a sum of \u20b910 Lakh in the event of accidental death or permanent disability leading to loss of employment while in employment abroad, irrespective of change of employer/location of insured person.",
+            "Certification of accidental death or permanent disability by Indian Missions and Posts abroad shall be accepted by the insurance companies.",
+            "Medical insurance cover including injuries / sickness / ailment / diseases available up to \u20b91,00,000/- (up to \u20b950,000 per hospitalization).",
+            "Repatriation cover for medically unfit/premature termination of employment: Actual one-way economy class air fare to the nearest international airport in India.",
+            "Family Hospitalization in India is available up to \u20b950,000/- for Spouse and first two children up to 21 years of age.",
+            "Maternity expenses benefit to women emigrants available up to \u20b950,000/-.",
+            "Reimbursement of return economy class air fare to the nearest international airport to one attendant in case of emigrant\u2019s accidental death or permanent disability.",
+            "Legal expenses on litigation related to emigrant\u2019s overseas employment admissible up to \u20b945,000/-.",
+            "Provision for online renewal of PBBY policy."
+        ],
+        "eligibility": [
+            "The applicant must be an Overseas Indian (cleared emigration)",
+            "The age of the applicant must be between 18 - 65 Years (Maximum entry age is subject to emigration clearance)."
+        ],
+        "exclusions": [
+            "NA"
+        ],
+        "application_process": "Online (The purchase of PBBY can be done online. Entities such as IFFCO-TOKIO General Insurance and Oriental Insurance offer multiple online channels from where you can buy the PBBY policy.)",
+        "documents_required": [
+            "In case of death due to accident: Police Report confirming accidental death, Post Mortem Report, Certificate / Report from concerned Indian Embassy, Duly attested copy of passport (all pages).",
+            "Permanent Total Disability: Medical records pertaining to treatment following the accident, Disability certificate issued by the competent medical authority.",
+            "In case of permanent total disability, documents depending on the nature of claim as may be sought by the Company, inter alia \u2013 Original insurance certificate / policy, Application form for compensation duly filled in all respects and signed by the claimant, Copy of passport (all pages) duly attested, if death occurs outside India."
+        ],
+        "faqs": [
+            {
+                "question": "Is hospitalization benefit also available for children?",
+                "answer": "Yes, the family hospitalization (in India) is available for the first two children up to 21 years of age."
+            },
+            {
+                "question": "Do I need to visit the Indian Mission in order to renew the insurance policy?",
+                "answer": "No, the scheme has provision for online renewal of the PBBY policy."
+            },
+            {
+                "question": "Are there any facilities for pregnant woman emigrant?",
+                "answer": "Yes, maternity expenses benefit up to \u20b950,000/- is available for women emigrants."
+            },
+            {
+                "question": "What benefits can a PwD emigrant avail under PBBY?",
+                "answer": "A PwD emigrant can avail the following benefits under PBBY: Reimbursement of return economy class air fare to the nearest international airport to one attendant in case of emigrant\u2019s permanent disability. The Insured person shall be covered for a sum of \u20b910 Lakh in the event of permanent disability leading to loss of employment while in employment abroad, irrespective of change of employer/location of insured person."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.mea.gov.in/pbby.htm"
+            },
+            {
+                "type": "Oriental Insurance Policy Document",
+                "url": "https://orientalinsurance.org.in/documents/10182/70975/PBBY_Policy_06052015.pdf/a43fc710-b975-48d1-a209-de076d81c6ec"
+            },
+            {
+                "type": "BAJAJ Allianz Policy Document",
+                "url": "https://www.irdai.gov.in/ADMINCMS/cms/Uploadedfiles/HealthProducts/2021-22/BAJTIOP22122V022122.pdf"
+            }
+        ],
+        "tags": [
+            "Employment",
+            "Financial Assistance",
+            "Insurance",
+            "Medical Insurance",
+            "Non Resident Indian",
+            "Person With Disability"
+        ]
+    }
+}

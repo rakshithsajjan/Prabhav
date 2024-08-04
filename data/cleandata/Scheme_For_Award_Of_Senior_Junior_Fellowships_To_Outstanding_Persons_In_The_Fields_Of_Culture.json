@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Scheme For Award Of Senior/Junior Fellowships To Outstanding Persons In The Fields Of Culture",
+        "state": "India",
+        "department": "Ministry Of Culture",
+        "type": "Fellowship",
+        "beneficiary": "Artists in the fields of creative arts",
+        "details": "The scheme 'Scheme for Award of Senior/Junior Fellowships to Outstanding Persons in the Fields of Culture' was launched by the Ministry of Culture, Government of India. The objective of the scheme is to provide facilities and opportunities to the artists in the fields of creative arts or for the revival of some of our traditional forms of art. The scheme would also cover artistes in rural/tribal areas. The fellowships are awarded for undertaking research oriented projects. Under this Scheme, a maximum of 200 Junior and Senior Fellows are selected every year. Awardees are paid grant money @ \u20b910,000/- and \u20b920,000/- per month respectively for a period of two years.",
+        "benefits": [
+            "200 Junior and Senior Fellows selected every year.",
+            "Stipend of \u20b920,000/- per month for Senior Fellows for a period of two years.",
+            "Stipend of \u20b910,000/- per month for Junior Fellows for a period of two years.",
+            "One-time grant up to a maximum of \u20b920,000/- or 50% of the cost of publication for selected Project documents."
+        ],
+        "eligibility": [
+            "Age above 40 years for Senior Fellowships.",
+            "Age between 25-40 years for Junior Fellowships.",
+            "Graduation is the minimum educational qualification.",
+            "Applicants for senior fellowship should not be recipients of pension from the Ministry of Culture.",
+            "Applicants should not have availed of the same fellowship earlier."
+        ],
+        "exclusions": [
+            "Fellowships are not intended for providing training, conducting workshops, seminars, documenting memoirs/or writing autobiographies, fiction, etc."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof",
+            "Passport size photographs",
+            "Proof of age (Birth Certificate etc.)",
+            "Documents of educational qualifications",
+            "Bank account details",
+            "Caste certificate",
+            "NOC/consent letter of employer (if employed)",
+            "Written assurance from Head of Department for employed applicants",
+            "An undertaking regarding employment status and previous fellowship availed."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of the scheme is to encourage the analytical application of new research techniques, technological and management principles to contemporary issues in areas related to art and culture."
+            },
+            {
+                "question": "Which ministry has started the scheme?",
+                "answer": "Ministry of Culture, Government of India."
+            },
+            {
+                "question": "Is this a Central Sector Scheme?",
+                "answer": "Yes, this is a Central Sector Scheme."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "The junior & senior fellows are paid grant money @ \u20b910,000/- and \u20b920,000/- per month respectively for a period of two years."
+            },
+            {
+                "question": "What should the minimum educational qualification be required for applying under the scheme?",
+                "answer": "Graduation is the minimum educational qualification required for applicants applying under the scheme."
+            },
+            {
+                "question": "Can an applicant who had been awarded a Junior Fellowship apply for a Senior Fellowship?",
+                "answer": "Yes, an applicant who had been awarded a Junior Fellowship can apply for a Senior Fellowship, provided 5 years have elapsed after the closure of the earlier project."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://indiaculture.gov.in/award-seniorjunior-fellowships-outstanding-persons-fields-culture"
+            },
+            {
+                "type": "Guideline",
+                "url": "https://ccrtindia.gov.in/activities/fellowship-scheme/"
+            }
+        ],
+        "tags": [
+            "Arts",
+            "Culture",
+            "Fellowship",
+            "Junior Fellows",
+            "Senior Fellows"
+        ]
+    }
+}

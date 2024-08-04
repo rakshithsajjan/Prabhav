@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Indira Gandhi National Widow Pension Scheme - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Pension Scheme",
+        "beneficiary": "Destitute widows aged 40 years and above",
+        "details": "The 'Indira Gandhi National Widow Pension Scheme' is a state scheme launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to provide a pension of \u20b91,000/- to the destitute widows who are 40 years and above in age and belong to households below the poverty line. The widow is also provided with one free saree during Pongal and Deepavali, and free rice in the Anganwadi Centres.",
+        "benefits": [
+            "\u20b91,000/- per month pension",
+            "One free saree during Pongal and Deepavali",
+            "2kg/month of free rice for those taking nutritious meals",
+            "4kg/month of free rice for those not taking nutritious meals"
+        ],
+        "eligibility": [
+            "The applicant should be a widow.",
+            "The applicant should be destitute.",
+            "The applicant should belong to the 'Below Poverty Line' category.",
+            "The applicant's age should be 40 years and above."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via Common Service Centers (CSCs). The applicant should gather necessary documents, visit the nearest CSC, complete the Biometric Verification Process, fill in the application form, and request a receipt.",
+        "documents_required": [
+            "Applicant's Photo",
+            "Aadhaar Card",
+            "Proof of age",
+            "Aadhaar Consent Form",
+            "Smart Ration Card or Any Address Proof",
+            "Husband Death Certificate",
+            "Self\u2013declaration of Applicant",
+            "Widow Certificate",
+            "Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License)",
+            "Bank Passbook",
+            "BPL Card Number"
+        ],
+        "faqs": [
+            {
+                "question": "Is the pension amount credited directly to my bank account, or can I receive it another way?",
+                "answer": "The pension is typically deposited directly into your bank account. You'll provide your bank details during the application process."
+            },
+            {
+                "question": "Can I use the free rice benefit even if I am not taking nutritious meals at the Anganwadi center?",
+                "answer": "Yes, you are still eligible to receive 2kg of free rice per month from the Anganwadi center, regardless of whether you participate in their meal program."
+            },
+            {
+                "question": "What is the quality of the free saree distributed under the scheme?",
+                "answer": "The sarees are procured by the government and adhere to basic quality standards for fabric and wearability."
+            },
+            {
+                "question": "Can I sell or exchange the free saree for cash or other goods?",
+                "answer": "No, the free saree is meant for your personal use and cannot be sold or exchanged for any form of financial gain."
+            },
+            {
+                "question": "What happens if the free saree is damaged or lost after receiving it?",
+                "answer": "Unfortunately, the scheme doesn't provide replacements for damaged or lost sarees."
+            },
+            {
+                "question": "Can I choose a specific collection date for the free rice?",
+                "answer": "No, the Anganwadi centers typically have designated distribution days and timings."
+            },
+            {
+                "question": "Is there a limit on how long I can receive the benefits under this scheme?",
+                "answer": "No, as long as you meet the eligibility criteria and remain a widow, you can continue receiving the benefits."
+            },
+            {
+                "question": "What happens if I remarry? Will I still be eligible for the benefits?",
+                "answer": "No, remarrying would disqualify you from continuing to receive the benefits under the scheme."
+            },
+            {
+                "question": "I am a differently-abled widow. Are there any additional benefits or support available?",
+                "answer": "You might be eligible for additional support based on your specific needs and the availability of government programs."
+            },
+            {
+                "question": "I am physically unable to collect the free rice from the Anganwadi center. Can someone else collect it on my behalf?",
+                "answer": "Yes, you can authorize a family member or trusted individual to collect the rice on your behalf."
+            },
+            {
+                "question": "Can I choose the color or design of the free saree?",
+                "answer": "No, the scheme typically provides pre-selected colors and designs for the free sarees."
+            },
+            {
+                "question": "I live in a remote area. Are there mobile camps or alternative ways to apply besides visiting the CSC?",
+                "answer": "You can inquire with the Social Welfare Department about potential mobile camps or designated application centers closer to your location."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://tnlegalservices.tn.gov.in/swwe/Annexure_English.pdf"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Clothes",
+            "Meal",
+            "Pension",
+            "Widow",
+            "Women"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Amar Fasal Amar Gola",
+        "state": "West Bengal",
+        "department": "Department of Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Marginal Farmers",
+        "details": "The West Bengal Government had announced a pilot project to provide financial assistance to marginal farmers of the State so that they can have their own storehouses and vending carts. A subsidy varying between Rs. 5,000 and Rs. 25,000 will be provided for the warehouses. Though there are 24 lakh small and marginal farmers in the State, only around 10,000 such farmers would be covered initially under two schemes. Chief Minister Mamata Banerjee has named the schemes as Amar Fasal, Amar Gola (My Crop, My Storehouse) and Amar Fasal Amar Gari (My crop, my vehicle). In the case of the AmarFasal Amar Gari project, the rate of subsidy would be Rs. 10,000 flat. This project will facilitate those farmers who wish to directly sell their products to end users. The subsidies would be directly credited to the bank accounts of those farmers who own Kisan Credit Cards.",
+        "benefits": [
+            "Improved crop quality",
+            "Increased agricultural productivity",
+            "Reduced financial burden",
+            "Increased profitability"
+        ],
+        "eligibility": [
+            "Farmers must be residents of West Bengal",
+            "Farmers must own agricultural land in West Bengal",
+            "The scheme may only be available for certain types of crops",
+            "Specific requirements for the size of landholding",
+            "Conditions regarding previous participation in other agricultural schemes",
+            "Farmers may need to meet certain income criteria"
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Proof and details of land holding",
+            "Aadhar Card",
+            "Voter ID Card",
+            "Ration Card",
+            "Passport Size Photo",
+            "Residential Certificate",
+            "Kisan Credit Card",
+            "Bank Account Details linked with Kisan Credit Card"
+        ],
+        "faqs": [
+            {
+                "question": "What does the scheme provide for?",
+                "answer": "In order to avoid fruits and vegetables from getting perished, this scheme has been introduced to provide monetary assistance for construction of warehouses and storage facilities."
+            },
+            {
+                "question": "What kind of benefits can be availed through this scheme?",
+                "answer": "This scheme can provide monetary benefit through usage of Kisan Credit Card."
+            },
+            {
+                "question": "What are the objectives of the scheme?",
+                "answer": "To empower farmers in the state. To improve the livelihood of marginal farmers in the state. To increase farmers\u2019 income. To provide storage facilities to the farmers. To provide vending carts so that the fruits and vegetables can be directly sold to the consumers."
+            },
+            {
+                "question": "What exact benefits does this scheme provide?",
+                "answer": "Subsidy for purchase of a vending cart, Subsidy for constructing storage, A subsidy of \u20b9 10,000 flat will be provided for the purchase of a vending cart, A subsidy of \u20b95,000 \u2013 \u20b925,000 will be provided for constructing storage warehouses."
+            },
+            {
+                "question": "Can this scheme be availed by everyone?",
+                "answer": "No. There are two criteria to avail the scheme: 1. Marginal Farmers in the state 2. Farmers only from West Bengal."
+            },
+            {
+                "question": "Can the scheme be applied in online mode?",
+                "answer": "No. It can be applied only through offline mode."
+            },
+            {
+                "question": "Where do you get the form to fill up?",
+                "answer": "Application forms can be collected from the Panchayat office or block office."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://www.wbgov.org/amar-fasal-amar-gola-scheme/"
+            },
+            {
+                "type": "Guideline",
+                "url": "https://cdn.s3waas.gov.in/s3aff1621254f7c1be92f64550478c56e6/uploads/2022/08/2022083081.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Financial Assistance",
+            "West Bengal",
+            "Farmers"
+        ]
+    }
+}

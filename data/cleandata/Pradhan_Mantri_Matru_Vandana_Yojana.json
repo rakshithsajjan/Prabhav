@@ -1,0 +1,109 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Matru Vandana Yojana",
+        "state": "India",
+        "department": "Ministry of Women and Child Development",
+        "type": "Cash Incentive",
+        "beneficiary": "Pregnant Women",
+        "details": "The Pradhan Mantri Matru Vandana Yojana (PMMVY) is a Centrally Sponsored flagship scheme by the Ministry of Women and Child Development, Government of India, designed to support pregnant women and lactating mothers. The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. The maternity benefit is to be provided to a woman for the first two living children provided the second child is a girl. For the first child the maternity benefit of \u20b95,000/- is provided in two instalments under PMMVY and the beneficiary is also entitled to receive the cash incentive as per approved norms towards Maternity Benefit under Janani Suraksha Yojana (JSY) after institutional delivery so that on an average, a women gets \u20b96,000/-. For the second child, the benefit of \u20b96,000/- is to be provided subject to second child is a girl child, in one installment after the birth.",
+        "benefits": [
+            "Cash Incentive",
+            "Financial Assistance",
+            "Good Nutrition",
+            "Maternity Benefit Programme"
+        ],
+        "eligibility": [
+            "The applicant should be of at least 19 years old and a pregnant women.",
+            "The applicant should be employed and experiencing wage-loss due to the pregnancy.",
+            "The scheme is applicable only for the first live birth.",
+            "Eligible beneficiary can apply for the benefit under PMMVY scheme within 270 days from the child birth.",
+            "If a beneficiary delivers twins/ triplets/ quadruplets in her second pregnancy, with one or more children being girl, she will receive incentive for second girl child as per the PMMVY 2.0 norms."
+        ],
+        "exclusions": [
+            "The beneficiary's husband\u2019s Aadhaar is not mandatory for availing the benefits under the Scheme.",
+            "All pregnant women and lactating mothers in regular employment with the Central Government or State Government or Public Sector Undertaking or those who are in receipt of similar benefits under any law for the time being in force shall not be entitled to benefits under PMMVY."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar card",
+            "Aadhaar mapped bank/post office",
+            "Bank account details",
+            "Eligibility proof",
+            "MCP/RCHI card",
+            "LMP date",
+            "ANC date",
+            "Child birth certificate",
+            "Child immunization details"
+        ],
+        "faqs": [
+            {
+                "question": "By When Can I Claim The Second Installment Of The Cash Incentive?",
+                "answer": "The 2nd installment can be claimed 180 days after the Last Menstrual Period (LMP) of the applicant."
+            },
+            {
+                "question": "Does this scheme provides any additional coverages?",
+                "answer": "Apart from the three installments to be claimed within 150 days, 180 days, and at childbirth, the scheme does not offer additional coverages."
+            },
+            {
+                "question": "Does the benefit under PMMVY continue in case of death?",
+                "answer": "No, in an unfortunate event that the child does not survive, the beneficiary is not eligible for benefits under PMMVY for further pregnancies as she has already claimed the installments."
+            },
+            {
+                "question": "Will the beneficiary get the benefit in case of miscarriage or stillbirth?",
+                "answer": "The beneficiary will receive the installments until the pregnancy is active. Since the benefit is paid out in three installments depending upon the pregnancy milestones, the beneficiary will receive at least two installments in case of stillbirth."
+            },
+            {
+                "question": "I have received only the first installment under an old \u201cMaternity Benefit Program (MBP) called Indira Gandhi Matritva Sahyog Yojana (IGMSY). Can I claim the remaining installments under the PMMVY?",
+                "answer": "Beneficiaries who have received only the first installment under the old MBP (IGMSY) scheme can claim only third installment under the PMMVY scheme, subject to meeting the criteria of PMMVY."
+            },
+            {
+                "question": "I Am Expecting Twins, Am I Also Eligible For This Scheme?",
+                "answer": "Yes, you are eligible to avail the benefits under this scheme."
+            },
+            {
+                "question": "I Am Already Availing A Paid Maternity Leave From My Employer. Am I Eligible For This Scheme?",
+                "answer": "No, if you are already availing any paid maternity scheme or a paid maternity leave from your employer, then in that case you won\u2019t be eligible for this scheme."
+            },
+            {
+                "question": "Is Last Menstrual Period (LMP) Date Mandatory To Be Provided To Claim Benefits Under The Scheme?",
+                "answer": "Yes. The LMP Date, as found in the Mother Child Protection (MCP) Card is mandatory to claim the 1st and 2nd installment."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://wcd.nic.in/sites/default/files/PMMVY%20Scheme%20Implemetation%20Guidelines%20._0.pdf"
+            },
+            {
+                "type": "Guidelines Of PMMVY 2.0",
+                "url": "https://wcd.nic.in/sites/default/files/PMMVY%20Portal%202.0_User%20Manual%20%281%29_compressed%20%281%29.pdf"
+            },
+            {
+                "type": "Enrolments Under PMMVY",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1846142"
+            },
+            {
+                "type": "Mission Shakti Guidelines",
+                "url": "https://pmmvy.wcd.gov.in/Content/assets/PDF/MissionShaktiGuidelines.pdf"
+            },
+            {
+                "type": "Mobile App Link",
+                "url": "https://pmmvy.wcd.gov.in/apk/PMMVYsoft.apk"
+            },
+            {
+                "type": "Citizen Training Video",
+                "url": "https://pmmvy.wcd.gov.in/Home/TrainingVideo"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://wcd.nic.in/sites/default/files/FAQ_PMMVY%202.0-2.pdf"
+            }
+        ],
+        "tags": [
+            "Maternity Benefit",
+            "Women Empowerment",
+            "Health",
+            "Social Welfare"
+        ]
+    }
+}

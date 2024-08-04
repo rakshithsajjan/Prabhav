@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "National Means-Cum-Merit Scholarship Scheme",
+        "state": "All States/UTs",
+        "department": "Ministry of Education",
+        "type": "Scholarship",
+        "beneficiary": "Economically Weaker Sections",
+        "details": "A scholarship scheme by the Department of School Education & Literacy, Ministry of Education wherein 1,00,000 scholarships is offered to the gifted or meritorious students whose parental income is not more than \u20b93,50,000/- per annum from all sources at the time of selection of awardees for a scholarship. Each State /UT has a fixed quota of scholarships for the concerned age group of class 7th and 8th. The scheme will provide reservations to different categories of students as per the State/UT norms; as different States/UTs have their own norms of reservation. The scholarship is being implemented since 2008 with an objective to award scholarships to meritorious students of economically weaker sections to arrest their drop out at class 8th and encourage them to continue their studies at the secondary stage. The scheme has been approved for continuation for another 5 years during the period of the 15th Finance Commission cycle from 2021-22 to 2025-26.",
+        "benefits": [
+            "Under this scheme, 1,00,000 fresh scholarships @ Rs. 12,000/- per annum (\u20b91,000 per month) are awarded to meritorious students every year at the Class IX level, which can be continued up to Class 12th.",
+            "The sanction of funds will be done from the Annual Budget Provision for releasing them to SBI, the implementing bank for the scheme for disbursal of scholarships, to students directly into their bank accounts by electronic transfer through Direct Benefit Transfer (DBT).",
+            "The awardees will be required to open bank accounts preferably in SBI, any public sector bank, or any scheduled bank which has a core banking facility."
+        ],
+        "eligibility": [
+            "The parental income of the applicant (from all sources) should be \u20b93,50,000 per annum.",
+            "The applicant must be studying as a regular student and entering class 9th in a government, Government-aided, local body school.",
+            "A separate examination shall be conducted by the State Governments/UT Administrations for the selection of students for the award of the National Means-cum-Merit Scholarships in the States/UTs. The students shall have a minimum of 55 % marks or equivalent grade in Class 7th examination for appearing in selection test conducted during class 8th for the award of scholarship (relaxable by 5% for SC/ST students)."
+        ],
+        "exclusions": [
+            "The students studying in 'Kendriya Vidyalayas and Jawahar Navodaya Vidyalayas' are not entitled to get scholarships under this scheme.",
+            "Those students studying in Residential Schools run by the Centre/ State Government Institutions, where facilities like boarding, lodging, and education are provided and students studying in private schools are also not eligible for the scholarship under the scheme.",
+            "No scholarship shall be available for studies abroad for any course.",
+            "No scholarship at this stage is payable for studying diploma/certificate level courses."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Class 7th mark sheet (only from government schools) (compulsory)",
+            "Caste Certificate",
+            "Income Certificate of Parents (compulsory)",
+            "Disability Certificate",
+            "Domicile Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "Can I Apply Offline For The Scholarship?",
+                "answer": "No. You need to visit https://scholarships.gov.in/ to apply."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "I Am A Renewal Applicant. Am I Allowed To Migrate To Another School During The Period Of The Academic Course?",
+                "answer": "No. Doing so may result in suspension or cancellation of the scholarship."
+            },
+            {
+                "question": "Do I Need To Complete The Application In One Sitting?",
+                "answer": "No. You can save the application as draft and continue at a later time before the deadline."
+            },
+            {
+                "question": "How Do I Track The Status Of My Application?",
+                "answer": "You can check the same anytime by visiting the Applicant Dashboard and clicking 'Track Status' in the left pane."
+            },
+            {
+                "question": "What Should Be The Type And Size Of The Documents To Be Uploaded?",
+                "answer": "The format should be .pdf or .jpeg. The size of each document should not be greater than 200 kb."
+            },
+            {
+                "question": "How Do I Know If A Field In The Application Form Is Mandatory?",
+                "answer": "The mandatory fields have a red asterisk (*) mark at the end."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/NMMSSGuidelines.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Education",
+            "Economically Weaker Sections"
+        ]
+    }
+}

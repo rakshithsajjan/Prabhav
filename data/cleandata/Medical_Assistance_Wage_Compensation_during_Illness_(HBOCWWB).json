@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Medical Assistance/Wage Compensation during Illness (HBOCWWB)",
+        "state": "Haryana",
+        "department": "Labour Department, Government of Haryana",
+        "type": "Financial Assistance",
+        "beneficiary": "Building Worker, Construction Worker",
+        "details": "The scheme 'Medical Assistance/Wage Compensation during Illness' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, wage compensation/financial assistance is provided to registered construction workers as per the prevailing minimum wages in the state in case of an accident or illness. This assistance applies if the registered worker is admitted to a government or government-approved private hospital for treatment for a period ranging from 4 to 30 days.",
+        "benefits": [
+            "Wage compensation or financial assistance is provided to registered workers if they are admitted to any government or empanelled private hospital for treatment for a minimum of 4 days and a maximum of 30 days."
+        ],
+        "eligibility": [
+            "The applicant should be engaged in any building or construction work.",
+            "The applicant should be registered with the Haryana Building & Other Construction Workers Welfare Board.",
+            "The registered worker must have a minimum of one year of regular membership.",
+            "The worker must have an active membership with the Board.",
+            "A worker who is admitted to a government or government-approved private hospital for treatment for 4 to 30 days due to an accident or illness is eligible for assistance.",
+            "The assistance shall be for a period not exceeding one month in a year."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof i.e. Aadhaar Card, Voter Card",
+            "Passport-size photograph",
+            "Attested work experience document",
+            "Proof of Residence",
+            "Ration Card",
+            "Bank account details",
+            "Caste Certificate (If applicable)",
+            "Proof of age",
+            "Parivar Pehchan Patra (Family ID)",
+            "Disability certificate (If applicable)",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What benefits does the scheme provide?",
+                "answer": "The scheme provides wage compensation or financial assistance to eligible registered workers during their hospitalization period, covering a minimum of 4 days and a maximum of 30 days."
+            },
+            {
+                "question": "How is the amount of wage compensation determined?",
+                "answer": "The wage compensation is provided as per the prevailing minimum wages in the state of Haryana."
+            },
+            {
+                "question": "Can a worker receive assistance for hospitalization lasting more than 30 days?",
+                "answer": "No, the assistance is only provided for a maximum of 30 days in a year."
+            },
+            {
+                "question": "What type of hospitals are eligible for treatment under the scheme?",
+                "answer": "The scheme covers treatment in government hospitals and government-approved private hospitals."
+            },
+            {
+                "question": "Can the scheme be availed for illnesses and accidents?",
+                "answer": "Yes, the scheme covers both accidents and illnesses that require hospitalization."
+            },
+            {
+                "question": "Who is eligible for the scheme?",
+                "answer": "Eligibility criteria include: 1. Engagement in building or construction work. 2. Registration with the Haryana Building & Other Construction Workers Welfare Board. 3. A minimum of one year of regular membership with the Board. 4. Active membership at the time of application. 5. Hospitalization in a government or government-approved private hospital for 4 to 30 days due to an accident or illness."
+            },
+            {
+                "question": "How can a construction worker register with the HBOCWWB?",
+                "answer": "A construction worker can register by visiting the Official Website of the Labour Department Haryana at https://hrylabour.gov.in/."
+            },
+            {
+                "question": "How can a worker apply for the scheme benefits?",
+                "answer": "To apply for the scheme benefits, the worker needs to visit the Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/116"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=UtGKRIZtnfmp6SOGU3CeiA%3d%3d"
+            },
+            {
+                "type": "Registration Link",
+                "url": "https://hrylabour.gov.in/bocw/Basicinfo/bocw_terms"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Medical Assistance",
+            "Wage Compensation",
+            "Illness",
+            "Labour",
+            "Financial Assistance"
+        ]
+    }
+}

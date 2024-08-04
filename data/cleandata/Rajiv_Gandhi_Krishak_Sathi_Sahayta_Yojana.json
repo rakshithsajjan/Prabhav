@@ -1,0 +1,96 @@
+{
+    "content": {
+        "title": "Rajiv Gandhi Krishak Sathi Sahayta Yojana",
+        "state": "Rajasthan",
+        "department": "Department of Agriculture",
+        "type": "Financial Support",
+        "beneficiary": "Farmers and agricultural laborers",
+        "details": "The Rajasthan government's Rajiv Gandhi Krishak Sathi Sahayta Yojana is a critical safety net for those who keep our food system running smoothly. Farmers, farmworkers, and market staff face inherent risks in their daily activities. This program acknowledges those risks and provides much-needed financial assistance in times of crisis. If an accident occurs while they're tending to crops, raising livestock, or selling their produce at market, the Yojana can help soften the financial blow. This can mean the difference between a family being able to afford medical care and essential needs, or facing devastating hardship.",
+        "benefits": [
+            "In case of death in an accident: \u20b92,00,000/-",
+            "By cutting off any part of both hands, both legs, or both eyes separately: \u20b950,000/-",
+            "In case of coma due to spinal cord fracture and head injury: \u20b950,000/-",
+            "De-scalping of hair on the head of a man or woman: \u20b940,000/-",
+            "In case of partial de-scalping (small part) of hair on the head of a man or a woman: \u20b925,000/-",
+            "In case of amputation of a body part like a hand, leg, eye, paw, arm etc.: \u20b925,000/-",
+            "Having four fingers amputated (completely or partially): \u20b920,000/-",
+            "Three fingers cut: \u20b915,000/-",
+            "Two fingers were cut off: \u20b910,000/-",
+            "Having a finger cut: \u20b95,000/-",
+            "Hammal/Paledar/Laborer working in the market premises gets fractured in an accident while doing agricultural/marketing work in the market premises: \u20b910,000/-",
+            "One testicle is severed: \u20b925,000/-",
+            "When two testicles are separated: \u20b940,000/-"
+        ],
+        "eligibility": [
+            "The Farmers/agricultural laborers of the state.",
+            "The workers hold licenses from the market committee."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "A medical officer's certificate required",
+            "FIR Report",
+            "Death Report",
+            "Post-mortem report",
+            "Certificate from the government doctor in case of a poisonous animal bite or camel bite.",
+            "Provision for payment to be made on the Panchnama also under the signature of the Government Doctor."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Rajiv Gandhi Krishak Sathi Sahayta Yojana?",
+                "answer": "The Rajiv Gandhi Krishak Sathi Sahayta Yojana is a scheme initiated by the Rajasthan Government to provide financial assistance to farmers and agricultural workers in case of accidental dismemberment or death while engaged in agricultural activities."
+            },
+            {
+                "question": "Who is eligible to benefit from this scheme?",
+                "answer": "Farmers, agricultural laborers, and market workers in Rajasthan are eligible beneficiaries under this scheme."
+            },
+            {
+                "question": "What type of incidents does the scheme cover?",
+                "answer": "The scheme covers accidental dismemberment or death that occurs while individuals are involved in agricultural or agricultural marketing work."
+            },
+            {
+                "question": "Are there any documentation requirements to avail of the benefits?",
+                "answer": "A medical officer's certificate required FIR Report Death Report post-mortem report Certificate from the government doctor in case of a poisonous animal bite or camel bite. Provision for payment to be made on the Panchnama also under the signature of the Government Doctor."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "Farmers/agricultural laborers of the state and workers holding licenses from the market committee."
+            },
+            {
+                "question": "What is official website for registration and apply?",
+                "answer": "Applicants need to visit the following link. URL : https://sso.rajasthan.gov.in/signin"
+            },
+            {
+                "question": "How much benefit will be given to the dependent on death?",
+                "answer": "\u20b9 2,00,000/-"
+            },
+            {
+                "question": "Can only people of Rajasthan avail the benefits of this scheme?",
+                "answer": "Yes, only the people of Rajasthan avail the benefits."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://rlsa.gov.in/povertyScheme/10.PDF"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Farmer",
+            "Financial Support"
+        ]
+    }
+}

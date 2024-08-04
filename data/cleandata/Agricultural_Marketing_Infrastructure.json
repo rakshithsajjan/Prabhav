@@ -1,0 +1,116 @@
+{
+    "content": {
+        "title": "Agricultural Marketing Infrastructure",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Subsidy",
+        "beneficiary": "Farmer, Promoter",
+        "details": "The scheme envisages value addition and processing at farmers level so as to enhance their income by selling more marketable and processed produce in the market. For creation of Agricultural Marketing Infrastructure including scientific Storage capacity, the Ministry of Agriculture & Farmers Welfare, Govt. of India is implementing capital subsidy sub-scheme \u201cAgricultural Marketing Infrastructure (AMI)\u201d of Integrated Scheme for Agricultural Marketing (ISAM) across the country and is continued till 31.03.2026. Projects for creation of storage infrastructure (50-5000 MT for Private & Cooperatives and 50-10,000 MT for State agencies) and other marketing infrastructure projects (other than storage) are eligible for assistance under the scheme. AMI is an open ended, demand driven, credit linked, back ended subsidy scheme. Beneficiaries viz, Individuals, Agri-preneurs, farmers, FPOs, Cooperatives, and state agencies etc. are eligible for assistance. Under the scheme, the subsidy @ 25% for plain areas and 33.33% for NER, hilly area, Women/SC/ST promoters & FPOs etc is available for development of Agricultural Marketing Infrastructure Projects including storage infrastructure, Infrastructure for development/Upgradation of Rural Haats as Grameen Agricultural Market (GrAMs), Common Facilitation Centre for FPOs, Marketing infrastructures in market yards, Infrastructure for direct marketing, Mobile infrastructure for post-harvest operations including reefer vans, Stand-alone cold storages up to 1000 MTs, Integrated Value Chain (IVC) Projects up to primary processing stage etc.",
+        "benefits": [
+            "Ensure remunerative prices to the farmers for their produce",
+            "Alternative & competitive marketing channels",
+            "Promotion of small size processing units",
+            "Reduce post-harvest & handling losses",
+            "Promote pledge financing and market access",
+            "Farmer-consumer market linkages and also to assist in integration GrAMs with e-NAM portal"
+        ],
+        "eligibility": [
+            "Anyone can apply for the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 01: Promoter applies for Term Loan (TL) to Financial Institution (FI). Step 02: Term loan sanctioned by FIs. Step 03: FI applies for Advance Subsidy within 90 days of disbursal of First instalment of TL through ENSURE portal of NABARD. Step 04: NABARD sanctions and releases the Advance Subsidy to the FI. Step 05: After completion of the project, FI will submit final subsidy claim to NABARD and requests for Joint Monitoring Inspection (JMI). Step 06: NABARD will initiate action for conduct of JMI and Geo-tagged photograph taken during JMI is uploaded to the Ensure Portal. Step 07: NABARD sanctions and releases final subsidy to the FI.",
+        "documents_required": [
+            "Forwarding letter of Controlling / nodal Office of the financing branch.",
+            "Advance subsidy claim application as per format in Annexure-V",
+            "Copy of project report with item-wise details of costs, total outlay, loan and margin submitted by the promoter with a copy of the technical and financial appraisal report from the FI",
+            "Copy of the approved plan/ map and civil drawings clearly indicating the dimensions and capacity.",
+            "Copy of the loan sanction letter of the FI along with copies of invoices for purchase of machinery/equipment of infrastructure project if any. Copy of Term Loan Account Statement of the borrower indicating all transactions including disbursement of first instalment of loan",
+            "Copy of land documents where the project is going to be established.",
+            "FI\u2019s certificate on category of the Promoter. In case of SC/ST entrepreneur and Cooperative, certification by the Competent Authority should be obtained.",
+            "Notarized Affidavit in Original executed by the promoter on a non-judicial stamp paper as per Annexure XV.",
+            "Copy of duly registered partnership deed, if it is a partnership firm, Memorandum & Articles of Association and certificate of incorporation, in case of Private Limited Company etc."
+        ],
+        "faqs": [
+            {
+                "question": "How much subsidy is given under AMI?",
+                "answer": "25% under General category and 33.33% under special category."
+            },
+            {
+                "question": "Is there higher subsidy for women?",
+                "answer": "Yes @ 33.33%."
+            },
+            {
+                "question": "Can promoters of AMI avail interest subvention under AIF?",
+                "answer": "Yes."
+            },
+            {
+                "question": "Whether Cold Storage is permitted under AMI?",
+                "answer": "Yes, upto 1000 MT."
+            },
+            {
+                "question": "Are transport vehicles allowed under AMI?",
+                "answer": "No, however, only Reefer Vans are permitted."
+            },
+            {
+                "question": "Is there any restriction on eligibility of promoters?",
+                "answer": "No."
+            },
+            {
+                "question": "Can projects under AMI be created in any area?",
+                "answer": "Yes, however, storage infrastructure projects should be created outside municipal corporation area."
+            },
+            {
+                "question": "Can Projects under AMI be created in Partnership?",
+                "answer": "Yes."
+            },
+            {
+                "question": "Can projects under AMI be promoted on lease land?",
+                "answer": "Yes."
+            },
+            {
+                "question": "Can projects of AMI be created with own funds by private entrepreneurs?",
+                "answer": "No."
+            },
+            {
+                "question": "What is the minimum promoter\u2019s contribution in the project?",
+                "answer": "20%."
+            },
+            {
+                "question": "Is local authorities\u2019 permission required for projects under AMI?",
+                "answer": "Yes."
+            },
+            {
+                "question": "Within how many days of sanction of loan, subsidy can be applied?",
+                "answer": "Subsidy can be applied within 90 days of disbursement of 1st instalment of Term Loan."
+            },
+            {
+                "question": "What is the time limit for submission of documents after completion of project for final subsidy?",
+                "answer": "18 months from the date of disbursement of the first instalment of loan, however, extension of time limit by 6 months will be allowed subject to penalty."
+            },
+            {
+                "question": "Is WDRA accreditation mandatory for the Storage Infrastructure?",
+                "answer": "Above, 1000 MT Storage infrastructure it is mandatory."
+            },
+            {
+                "question": "Are FPOs eligible under AMI?",
+                "answer": "Yes."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dmi.gov.in/Documents/AMI_OG_Scheme.pdf"
+            },
+            {
+                "type": "Amendments",
+                "url": "https://dmi.gov.in/Documents/ContinuationofAMISub-schemeofISAM.pdf"
+            }
+        ],
+        "tags": [
+            "Agricultural Marketing",
+            "Infrastructure",
+            "Subsidy",
+            "Farmers"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "GITANJALI HOUSING SCHEME",
+        "state": "West Bengal",
+        "department": "West Bengal Housing Department",
+        "type": "Residential Scheme",
+        "beneficiary": "Low-income Families",
+        "details": "The Gitanjali Housing Scheme aims to provide housing for homeless people in West Bengal, focusing on the Economically Weaker Section (EWS) of society. The scheme is implemented in rural and non-Municipal urban areas in coordination with several government departments.",
+        "benefits": [
+            "Provides proper shelter to the economically weaker section of society",
+            "Creates additional employment opportunities for construction workers",
+            "Assists homeless individuals in building shelters",
+            "Supports rural people who are homeless due to financial weakness",
+            "Helps those affected by natural disasters to build houses",
+            "Returns lost land to farmers for cultivation"
+        ],
+        "eligibility": [
+            "Homeless individuals who are citizens of West Bengal",
+            "People who have become homeless due to floods or other natural calamities",
+            "Poor people in rural and urban areas",
+            "Individuals with a family income of Rs. 6000/- per month or less"
+        ],
+        "exclusions": [
+            "Not everyone may be eligible to apply, as restrictions may apply to specific income groups",
+            "Limited number of residential units available under the scheme",
+            "Location restrictions may apply"
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Identity proof (Aadhaar card, voter ID, PAN card, passport, or driving license)",
+            "Address proof (Aadhaar card, voter ID, electricity bill, water bill, or telephone bill)",
+            "Income certificate issued by a competent authority",
+            "Bank account details",
+            "Photographs of the applicant",
+            "Proof of age (birth certificate, school leaving certificate, or passport)",
+            "Any other document specified by the government or housing development authority"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Gitanjali Housing Scheme?",
+                "answer": "The Gitanjali Housing Scheme is a residential scheme launched by the West Bengal Government to provide affordable housing to the people of the state."
+            },
+            {
+                "question": "Who is eligible to apply for the Gitanjali Housing Scheme?",
+                "answer": "Applicants must be citizens of India, residents of West Bengal, at least 18 years of age, and belong to the economically weaker section (EWS) or low-income group (LIG) category as defined by the government of West Bengal."
+            },
+            {
+                "question": "How can I apply for the Gitanjali Housing Scheme?",
+                "answer": "Interested applicants can complete their registration online through the official website of the West Bengal Housing Infrastructure Development Corporation (WBHIDCO) or through the offline mode by collecting and submitting the application form at the designated offices."
+            },
+            {
+                "question": "What are the documents required to apply for the Gitanjali Housing Scheme?",
+                "answer": "The documents required to apply for the Gitanjali Housing Scheme generally include identity proof, address proof, income certificate, bank account details, photographs, proof of age, and any other document specified by the government or the housing development authority."
+            },
+            {
+                "question": "Can I apply for the Gitanjali Housing Scheme if I already own a house?",
+                "answer": "No, applicants who already own a pucca house in their name or in the name of their family members in West Bengal are not eligible to apply for the Gitanjali Housing Scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official website",
+                "url": "https://wbhousing.gov.in/pages/display/399-gitanjali-housing-scheme"
+            },
+            {
+                "type": "Memorandum",
+                "url": "https://www.wbhousing.gov.in/files/GITANJALI%20HOUSING%20SCHEME.pdf"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "West Bengal",
+            "Government Scheme",
+            "Affordable Housing",
+            "Economically Weaker Section"
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Awas Yojana - Urban",
+        "state": "India",
+        "department": "Ministry Of Housing & Urban Affairs",
+        "type": "Loan",
+        "beneficiary": "Economically Weaker Section (EWS), Low Income Group (LIG), Middle Income Group (MIG)",
+        "details": "A flagship mission implemented by MoHUA, addressing urban housing shortage. The beneficiaries include Economically Weaker Section (EWS) / Low Income Group (LIG) and Middle Income Group (MIG) categories, including slum dwellers, by ensuring a pucca house to all eligible urban households by 2022. All eligible beneficiaries under all components of the scheme should have an Aadhaar/ Aadhaar Virtual ID. The Mission, as per Census 2011, covers the entire urban area consisting of Statutory Towns, Notified Planning Areas, Development Authorities, Special Area Development Authorities, Industrial Development Authorities or any such authority under State legislation which is entrusted with the functions of urban planning & regulations.",
+        "benefits": [
+            "Slum rehabilitation of eligible Slum Dwellers with participation of private developers using land as a resource.",
+            "Promotion of Affordable Housing through Credit Linked Subsidy Scheme (CLSS). EWS: Annual Household Income up to Rs.3,00,000; house sizes upto 30 sq.m; LIG: Annual Household Income from Rs.3,00,001 to Rs.6,00,000; house sizes upto 60 sq.m; MIG I: Annual Household Income from Rs. 6,00,001 to Rs. 12,00,000; house sizes upto 160 sq.m; MIG II: Annual Household Income from Rs.12,00,001 and 18,00,000; house sizes upto 200 sq.m",
+            "Affordable Housing in Partnership with Public & Private sectors: Central Assistance per EWS house in projects where 35% of houses are for EWSs",
+            "Subsidy for Beneficiary-Led individual house construction/enhancement: For individuals of EWS category requiring individual house (separate project for such beneficiaries)"
+        ],
+        "eligibility": [
+            "The family identifies as one of the following - Economically Weaker Section (EWS): households with annual income up to \u20b9 3,00,000; Low Income Group (LIG): households with annual income between \u20b9 3,00,001 and \u20b9 6,00,000; Middle Income Group-1 (MIG-1): households with annual income between \u20b9 6,00,001 and \u20b9 12,00,000; Middle Income Group-2 (MIG-2): households with annual income between \u20b9 12,00,001 and \u20b9 18,00,000.",
+            "The applicant or his/her family members must not be owning a pucca house in any part of the country.",
+            "The family must comprise of husband/wife and unmarried children.",
+            "The town/city in which the family resides must be covered under the scheme.",
+            "The family MUST NOT have previously availed the benefits of any housing-related schemes set up by the Government of India."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline. Step 1: Visit the Official Website of PMAY-Urban. Step 2: Select the \u2018Citizen Assessment\u2019 option and click on the applicable choice: 'For Slum Dwellers' or 'Benefits under other three components'. Step 3: Enter your Aadhaar Card details. This will redirect you to the online application form. In the form, fill in all the mandatory details, and upload the required documents. Step 4: At the bottom of the form, click \u2018Save\u2019 and enter the Captcha code. The application is now complete and a print can be taken at this stage for future reference.",
+        "documents_required": [
+            "Aadhaar Number (or Aadhaar/ Aadhaar Enrolment ID)",
+            "Self-Certificate / Affidavit as Proof of Income.",
+            "Identity and Residential Proof (PAN card, Voter ID, Driving License)",
+            "Proof of Minority Community (if the applicant belongs to a Minority Community)",
+            "Proof of Nationality",
+            "EWS Certificate / LIG Certificate / MIG Certificate (as applicable)",
+            "Salary Slips",
+            "IT Return Statements",
+            "Property Valuation Certificate",
+            "Bank Details and Account Statement",
+            "Affidavit / Proof that the applicant does not own a \u2018pucca\u2019 house",
+            "Affidavit / Proof that the applicant is constructing a home under the scheme"
+        ],
+        "faqs": [
+            {
+                "question": "Is the entire mission implemented as Centrally Sponsored Scheme (CSS)?",
+                "answer": "Except for the component of Credit Linked Subsidy which is implemented as a Central Sector Scheme, the rest of the mission is implemented as Centrally Sponsored Scheme (CSS)."
+            },
+            {
+                "question": "I need to know the technical specifications, construction standards of the houses/slums that will be built under this scheme?",
+                "answer": "The houses must conform to the standards provided in National Building Code (NBC) and Bureau of Indian Standards (BIS). For a detailed description of the houses/slums, please refer Section-2 of the scheme guidelines."
+            },
+            {
+                "question": "Are there any sections that would be given preference while providing the benefits?",
+                "answer": "Preference will be given to differently-abled persons, senior citizens, SCs, STs, OBCs, Minority, single women, transgender and other weaker & vulnerable sections of the society."
+            },
+            {
+                "question": "Will I still be eligible to apply for government\u2019s ongoing or upcoming schemes if I apply for PMAY-U?",
+                "answer": "The benefits of all existing and future rural schemes will not be denied to a beneficiary solely on the grounds that she/he has availed a house under PMAY(U)."
+            },
+            {
+                "question": "How do I know if my town is covered under the scheme?",
+                "answer": "You can visit the official PMAY-Urban website to check the same."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://pmay-urban.gov.in/uploads/guidelines/62381c744c188-Updated-guidelines-of-PMAY-U.pdf"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Loan",
+            "Rehabilitation",
+            "Sanitation",
+            "Urban"
+        ]
+    }
+}

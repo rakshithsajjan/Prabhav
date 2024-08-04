@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahaayata Yojana",
+        "state": "Uttar Pradesh",
+        "department": "Government of Uttar Pradesh",
+        "type": "Financial Assistance",
+        "beneficiary": "Children of registered workers",
+        "details": "The Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahayata Yojana (DAKSPSSY) is a scheme launched by the Government of Uttar Pradesh to provide financial assistance to the children of registered workers for pursuing technical education. The scheme aims to promote technical education among the children of workers and help them build a better future.",
+        "benefits": [
+            "Degree Course - \u20b925,000/-",
+            "Diploma Course - \u20b915,000/-",
+            "Certificate Course - \u20b910,000/-"
+        ],
+        "eligibility": [
+            "The worker must be working in an establishment registered under the Shops and Commercial Establishments Act, 1962 or the Factories Act, 1948 in Uttar Pradesh.",
+            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-.",
+            "Benefits will be provided for below courses: Degree Courses: B.Tech., M.Tech., BCA, MCA, BBA, MBA, MBBS, Other technical degree courses. Diploma Courses: Polytechnic, PG Diploma (Post Graduate Diploma), Other diploma courses. Certificate Courses: Polytechnic, PG Diploma (Post Graduate Diploma), Other diploma courses."
+        ],
+        "application_process": "Online. Access the official website of the Uttar Pradesh Labour Welfare Board at https://skpuplabour.in/. Select the 'Shramik Application' option from the homepage. For new users, proceed with the 'Register New User' option. Fill out the registration form accurately and submit it. The system will generate a unique user ID and password, which will be sent to the registered mobile number. Utilize the provided credentials to log in to the portal. Choose the relevant scholarship scheme from the available options. Diligently complete the application form, ensuring all details are accurate and complete. Upload a recent photograph of the applicant. Finally, submit the application form for further processing. Obtain a printed copy of the duly submitted application form for future reference. Present the application form at the concerned educational institution and the factory/establishment for verification and endorsement. Log in again using the registered user ID and password. Access the 'Scheme Application Details' section and upload a scanned copy of the verified application form along with the required supporting documents. Save the information for successful submission. Upon successful verification and validation of the application, the scholarship amount will be disbursed to the beneficiary's bank account. The beneficiary will be notified through an SMS on the registered mobile number. Applicants can track the status of their application by selecting the 'Application Status' option on the portal.",
+        "documents_required": [
+            "Verified copy of the online filled application form related to the scheme.",
+            "Photocopy of the passbook of the son/daughter or the worker (with the IFSC code of the bank).",
+            "Photocopy of the certificate of admission or studying in technical education (fee receipt or other)."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme all about?",
+                "answer": "The Government of Uttar Pradesh initiated a scheme 'Dr. APJ Abdul Kalam Shramik Pravidhik Shiksha Sahaayata Yojana' to encourage the children towards the education."
+            },
+            {
+                "question": "What benefits are provided?",
+                "answer": "Financial Assistance will be provided."
+            },
+            {
+                "question": "How much financial benefits are provided under the scheme?",
+                "answer": "Financial benefits under following courses: Degree Course - \u20b925,000/-, Diploma Course - \u20b915,000/-, Certificate Course - \u20b910,000/-."
+            },
+            {
+                "question": "For which courses or classes are these scholarship awards provided?",
+                "answer": "Benefits will be provided for below courses: Degree Courses: B.Tech., M.Tech., BCA, MCA, BBA, MBA, MBBS, Other technical degree courses. Diploma Courses: Polytechnic, PG Diploma (Post Graduate Diploma), Other diploma courses. Certificate Courses: Polytechnic, PG Diploma (Post Graduate Diploma), Other diploma courses."
+            },
+            {
+                "question": "What the financial eligibility criteria?",
+                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-."
+            },
+            {
+                "question": "What is procedure to get the scheme benefits?",
+                "answer": "Applicant need to do the registration. Fill out the application form and apply."
+            },
+            {
+                "question": "What is official website to get register and apply?",
+                "answer": "Follow the below URL. Link: https://skpuplabour.in/"
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Attested photocopy of the online filled application form related to the scheme. 2. Read photocopy of bank passbook of son/daughter or worker (with IFS code of the bank). 3. Marksheet of High School / Intermediate / Graduation / Masters (Arts, Science, Commerce and Agriculture) (Final year in Graduation / Masters)."
+            },
+            {
+                "question": "Who can get the scheme benefits?",
+                "answer": "All eligible students whose parents are employed in a registered factory, commercial establishment, or shop in Uttar Pradesh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/dapjsss"
+            },
+            {
+                "type": "Labour Welfare Board",
+                "url": "https://skpuplabour.in/"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Financial Assistance",
+            "Student Finance"
+        ]
+    }
+}

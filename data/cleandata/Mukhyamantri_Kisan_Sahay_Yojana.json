@@ -1,0 +1,117 @@
+{
+    "content": {
+        "title": "Mukhyamantri Kisan Sahay Yojana",
+        "state": "Gujarat",
+        "department": "Revenue Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Farmers",
+        "details": "The Mukhyamantri Kisan Sahay Yojana provides financial assistance to farmers who have suffered crop loss due to natural calamities such as drought, flood, or earthquake.",
+        "benefits": [
+            "Financial assistance of Rs. 20,000 per hectare, subject to a maximum of four hectares per farmer.",
+            "Coverage for all types of crops, including horticultural crops.",
+            "No income criterion for availing financial assistance."
+        ],
+        "eligibility": [
+            "Farmers must have suffered crop loss due to natural calamities.",
+            "Farmers must have legal ownership or a record of rights for the land used for agricultural purposes.",
+            "No minimum landholding size is required."
+        ],
+        "exclusions": [
+            "Farmers who have already received compensation from another government scheme for the same crop loss are not eligible.",
+            "Farmers who have not suffered crop loss due to natural calamities are not eligible."
+        ],
+        "application_process": "Farmers can apply for this scheme by visiting the official website of the Revenue Department of Gujarat, downloading the application form, and submitting it along with the required documents to the nearest agricultural office or bank branch.",
+        "documents_required": [
+            "Proof of land ownership",
+            "Crop loss certificate",
+            "Bank loan documents",
+            "Other relevant documents as specified in the application form"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum amount of financial assistance that a farmer can receive under this scheme?",
+                "answer": "The maximum amount of financial assistance that a farmer can receive under the scheme is Rs. 20,000 per hectare, subject to a maximum of four hectares per farmer."
+            },
+            {
+                "question": "How is the financial assistance calculated under this scheme?",
+                "answer": "The financial assistance is calculated based on the extent of crop damage suffered by the farmer, assessed by a team of officials."
+            },
+            {
+                "question": "What types of crops are covered under this scheme?",
+                "answer": "All crops, including horticultural crops, are covered under this scheme."
+            },
+            {
+                "question": "Is there any income criterion for availing of the financial assistance under this scheme?",
+                "answer": "No, there is no income criterion for availing of the financial assistance under this scheme."
+            },
+            {
+                "question": "How long does it take to receive the financial assistance under this scheme?",
+                "answer": "The government aims to disburse the financial assistance within 30 days from the date of submission of the application."
+            },
+            {
+                "question": "Can a farmer apply for financial assistance under this scheme for crop loss suffered in the previous year?",
+                "answer": "No, financial assistance can only be availed for crop loss suffered in the current year."
+            },
+            {
+                "question": "What is the age limit for availing of the benefits of this scheme?",
+                "answer": "There is no age limit for availing of the benefits of this scheme."
+            },
+            {
+                "question": "Can a farmer who has already received compensation from another government scheme for crop loss apply for this scheme?",
+                "answer": "No, a farmer who has already received compensation for the same crop loss is not eligible."
+            },
+            {
+                "question": "Is it mandatory for the farmer to have taken a loan for agricultural purposes to be eligible for this scheme?",
+                "answer": "No, it is not mandatory for the farmer to have taken a loan for agricultural purposes."
+            },
+            {
+                "question": "What is the minimum landholding size required for a farmer to be eligible for this scheme?",
+                "answer": "There is no minimum landholding size required for a farmer to be eligible for this scheme."
+            },
+            {
+                "question": "Can a farmer who has not insured their crops under any crop insurance scheme still apply for this scheme?",
+                "answer": "Yes, a farmer who has not insured their crops can still apply for this scheme."
+            },
+            {
+                "question": "Is it necessary for the farmer to have suffered crop loss due to natural calamities to be eligible for this scheme?",
+                "answer": "Yes, it is necessary for the farmer to have suffered crop loss due to natural calamities."
+            },
+            {
+                "question": "How can Farmer apply for Mukhya Mantri Kisan Sahay Yojana?",
+                "answer": "Farmers can apply by visiting the official website, downloading the application form, and submitting it to the nearest agricultural office or bank branch."
+            },
+            {
+                "question": "What are the required documents for applying to this scheme?",
+                "answer": "The required documents include proof of land ownership, crop loss certificate, bank loan documents, and other relevant documents."
+            },
+            {
+                "question": "Can Farmer apply for this scheme offline?",
+                "answer": "Yes, Farmers can apply offline by visiting the Taluka Mamlatdar's office or the District Collector's office."
+            },
+            {
+                "question": "Is there any application fee for this scheme?",
+                "answer": "No, there is no application fee for this scheme."
+            },
+            {
+                "question": "What is the timeline for processing the application?",
+                "answer": "The timeline for processing the application varies, but it generally takes a few weeks."
+            },
+            {
+                "question": "Can Farmers apply for this scheme if he have not suffered crop loss due to natural calamities?",
+                "answer": "No, this scheme is specifically designed for farmers who have suffered crop loss due to natural calamities."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/mksy"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Farmers",
+            "Crop Loss",
+            "Natural Calamities"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Quality Certification Reimbursement Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology",
+        "type": "Reimbursement",
+        "beneficiary": "Information Technology Units",
+        "details": "Launched in 2018, the 'Quality Certification Reimbursement Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Quality Certification Reimbursement to the eligible Information Technology Units in the State of Goa. Reimbursement of the cost of industry-standard quality certification, capped at \u20b9 5,00,000 per unit. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
+        "benefits": [
+            "Reimbursement of the cost of industry-standard quality certification.",
+            "The maximum amount that may be availed under this reimbursement is capped at \u20b9 5,00,000 per unit."
+        ],
+        "eligibility": [
+            "All the new and existing units must have their operations in Goa.",
+            "The applicant must be one of the below: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, Limited Liability Partnership.",
+            "The bank accounts of the unit and/or its partner(s)/director(s) should be linked to Aadhaar.",
+            "Units incurring expenditure for acquiring quality and/or product-specific certificates are entitled to avail of the benefits."
+        ],
+        "exclusions": [
+            "The units availing similar financial incentives under any other policy of the Government of Goa are not eligible for availing benefits under this scheme."
+        ],
+        "application_process": "Online. Visit the Official Web Portal of Goa Online, register, and follow the steps to apply for the scheme.",
+        "documents_required": [
+            "Copy of Incorporation Certificate.",
+            "Copy of new unit registration document/certificate.",
+            "Copies of PAN, Aadhaar and GST TIN.",
+            "Memorandum and Articles of Association.",
+            "Copy of first bill generated showing the date of commencement of operations or other relevant document.",
+            "Copies of Quality Certificate(s) for which the subsidy is being claimed.",
+            "Bills/invoices/receipts or other proof of payment for all expenses incurred in order to obtain said certification.",
+            "Udyog Aadhaar."
+        ],
+        "faqs": [
+            {
+                "question": "What are the specific quality and product certifications recognized under the eligibility criteria for availing benefits?",
+                "answer": "The eligibility criteria encompass certifications such as ISO, HACCP, BIS, WHO-GMP, ZED, TS, COPC, eSCM, and Hallmark."
+            },
+            {
+                "question": "Could you elaborate on the maximum reimbursement limit and the conditions associated with availing benefits under this scheme?",
+                "answer": "The maximum reimbursement limit under this scheme is capped at \u20b95,00,000 per unit, subject to budgetary allocation."
+            },
+            {
+                "question": "What is the frequency at which the incentive for reimbursement of industry-standard quality certification can be claimed?",
+                "answer": "The incentive may be claimed only once during the policy period for any number of certifications acquired."
+            },
+            {
+                "question": "Could you provide detailed insights into the documentation required for availing benefits under this scheme?",
+                "answer": "Required documentation includes a copy of the Incorporation Certificate, new unit registration document, PAN, Aadhaar, GST TIN copies, and others."
+            },
+            {
+                "question": "How is the relevance of the certificates assessed for eligibility?",
+                "answer": "The eligibility is determined based on the recognition of certificates listed in the criteria."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2020/08/ITPolicySchemes2018.pdf"
+            },
+            {
+                "type": "Official Gazette",
+                "url": "https://ditc.goa.gov.in/sites/default/files/Target-Schemes.pdf"
+            },
+            {
+                "type": "User Manual For Business Entity",
+                "url": "https://services.goaonline.gov.in/Downloads/Organization/BusinessProfile_UserManual.pdf"
+            },
+            {
+                "type": "Track Application Status",
+                "url": "https://goaonline.gov.in/StatusTrack"
+            }
+        ],
+        "tags": [
+            "Quality Certification",
+            "Reimbursement",
+            "Information Technology",
+            "Goa"
+        ]
+    }
+}

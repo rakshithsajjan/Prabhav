@@ -1,0 +1,102 @@
+{
+    "content": {
+        "title": "Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen (All Ranks)",
+        "state": "India",
+        "department": "Ministry Of Defence",
+        "type": "Financial Assistance",
+        "beneficiary": "Disabled Ex-Servicemen",
+        "details": "The scheme 'Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen(All Ranks)' by the Department of Ex-Servicemen Welfare of the Ministry of Defence, provides financial assistance for the procurement of modified scooters for those Ex-Servicemen (ESM), who are disabled after their retirement from service with a disability of 50% or more. After their retirement, most of the ESMs continue to be engaged in physically challenging activities/work. Some of them unfortunately become handicapped due to accidents etc after their retirement and need mobility equipment such as modified scooters, crutches, and wheelchairs to carry on with their life. To procure mobility requirements, the Kendriya Sainik Board (KSB) provides financial assistance to disabled ESMs from the Armed Forces Flag Day Fund (AFFDF).",
+        "benefits": [
+            "A financial assistance of a maximum of \u20b9 1,00,000.",
+            "The beneficiary can re-apply for new mobility equipment after the lapse of 10 years from the date of purchase of the previous equipment."
+        ],
+        "eligibility": [
+            "The applicant should be an Ex-Serviceman.",
+            "The applicant should be disabled after retirement from the service.",
+            "The percentage of the disability should be 50% or more.",
+            "The applicant should not be covered under a similar scheme of the Army/Navy/Air Force.",
+            "The application of the applicant should be recommended by the respective Zila Sainik Board (ZSB).",
+            "The applicant should be capable of personally utilizing the mobility equipment provided."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: In the Registration Form, fill in all the mandatory fields and upload the required documents. Step 2: Fill in the verification code, and click 'Submit' to complete your registration. Step 3: Take a print of the submitted registration form, attach the self-attested copies of the required documents, and submit the same at the respective ZSB.",
+        "documents_required": [
+            "Complete Discharge Book/Document/Certificate.",
+            "ESM Identity Card.",
+            "Documentary evidence showing the nature of activity in which disabled.",
+            "Disability Certificate issued by Armed Forces Medical Authority, indicating nature of disability and recommended procurement of mobility equipment.",
+            "Financial estimate for a modified scooter from an authorized dealer indicating type, make and specifications of the mobility equipment.",
+            "Details of Bank A/c No (in PNB/SBI only) and IFS Code."
+        ],
+        "faqs": [
+            {
+                "question": "What is the process for reapplying for new mobility equipment after the initial 10-year period?",
+                "answer": "After the expiration of the 10-year lifespan of the mobility equipment, beneficiaries are eligible to reapply for new equipment. They would need to follow the same application process and provide updated documentation, including a new financial estimate for the equipment. The application is then reviewed and processed as before."
+            },
+            {
+                "question": "Are there any restrictions on the type of mobility equipment that can be procured with the financial assistance provided by the scheme?",
+                "answer": "The financial assistance can be used for any mobility equipment that aids the Ex-Serviceman's mobility needs. This can include wheelchairs, crutches, or other devices deemed necessary."
+            },
+            {
+                "question": "How can applicants track the status of their applications?",
+                "answer": "Applicants can check the status of their applications by visiting the official website of the Kendriya Sainik Board and clicking on the 'Status of Application' link. They need to enter their DAK ID and verification code to check the status."
+            },
+            {
+                "question": "How does the Kendriya Sainik Board (KSB) process the applications after receiving them?",
+                "answer": "The KSB Secretariat assigns applications to clerks for data entry and verification. The Section-in-Charge and JD(Welfare) verify and process the applications, and upon approval, they are processed for payment."
+            },
+            {
+                "question": "What role does the Zila Sainik Welfare Office (ZSWO) play in the application process?",
+                "answer": "The ZSWO plays a crucial role in scrutinizing the application. If the application is found correct in all respects, it is forwarded to the Kendriya Sainik Board (KSB) Secretariat for further processing."
+            },
+            {
+                "question": "What documents are required for the application?",
+                "answer": "Applicants need to submit several documents, including their complete Discharge Book/Document/Certificate, ESM Identity Card, Disability Certificate issued by Armed Forces Medical Authority, and financial estimates for the modified scooter, among others."
+            },
+            {
+                "question": "How much financial assistance is provided under this scheme?",
+                "answer": "The scheme provides a maximum financial assistance of \u20b91,00,000 to eligible disabled Ex-Servicemen."
+            },
+            {
+                "question": "What is the aim of the 'Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen' scheme?",
+                "answer": "The scheme aims to provide financial assistance to disabled Ex-Servicemen who have a disability of 50% or more after their retirement from service. This assistance is for the procurement of modified scooters and other mobility equipment to help them lead independent lives."
+            },
+            {
+                "question": "Who is eligible to apply for this scheme?",
+                "answer": "To be eligible, applicants must be Ex-Servicemen who have become disabled after their retirement from service, with a disability percentage of 50% or more. They should not be covered under a similar scheme by the Army, Navy, or Air Force."
+            },
+            {
+                "question": "What is the URL of the Official Website of the Kendriya Sainik Board (KSB)?",
+                "answer": "The URL is https://ksb.gov.in/"
+            },
+            {
+                "question": "Where can I find the URL of the Online Registration Form?",
+                "answer": "The URL is https://164.100.158.73/registration.htm"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://ksb.gov.in/procuring-mobility-equipment.htm"
+            },
+            {
+                "type": "Sample Application Form",
+                "url": "https://ksb.gov.in/writereaddata/DownLoad/M-1.pdf"
+            },
+            {
+                "type": "Application Authorization Flow",
+                "url": "https://ksb.gov.in/writereaddata/DownLoad/Welfare_Application_Authorization_Flow.pdf"
+            },
+            {
+                "type": "Check Application Status",
+                "url": "https://ksb.gov.in/status-of-application.htm"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Ex-Servicemen",
+            "Disability",
+            "Mobility Equipment"
+        ]
+    }
+}

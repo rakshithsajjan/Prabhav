@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Financial Assistance to Pensioners Suffering From HIV and AIDS",
+        "state": "Jharkhand",
+        "department": "Department of Women, Child Development & Social Security",
+        "type": "Direct Benefit Transfer",
+        "beneficiary": "Pensioners suffering from HIV/AIDS",
+        "details": "Launched by the Department of Women, Child Development & Social Security, Government of Jharkhand, \u201cFinancial Assistance to Pensioners Suffering From HIV/AIDS\u201d aims to provide a helping hand by way of monthly financial assistance to those who are suffering from Human Immunodeficiency Virus (HIV)/Acquired Immunodeficiency Syndrome (AIDS) to meet medical expenses. It is a Direct Benefit Transfer (DBT) scheme, so pension the amount will be directly transferred to the bank account of the beneficiary.",
+        "benefits": [
+            "Amount: \u20b9 1,000/- per month to the eligible beneficiary."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Jharkhand.",
+            "The applicant should be suffering from HIV/AIDS.",
+            "The applicant should receive Antiretroviral Therapy (ART)/Antiretroviral Drugs (ARD) and its benefits from the District AIDS Control Society.",
+            "The applicant should have a Voter ID card and Aadhar Card (For applicants aged 18 years and above).",
+            "The applicant or their spouse should not be a beneficiary under any other Social Security pension scheme.",
+            "The applicant or their spouse should not be retired or permanently employed in Central and State Government or in public sector undertakings.",
+            "The applicant or their spouse should not be a recipient of any family pension or pension from Central and State Government or from public sector undertakings.",
+            "Applicant\u2019s family is not an income tax payee."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 01: The interested applicant should request the prescribed format of the application from the office of Block Development Officer (BDO) / Sub Divisional Officer (SDO) / Circle Officer. Step 02: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required). Step 03: Submit the duly filled and signed application form along with the documents to the concerned authority at: Office of the BDO in rural areas. Office of the SDO or Circle Officer in Municipalities and notified areas.",
+        "documents_required": [
+            "Medical Proof of receiving Antiretroviral Therapy (ART)/Antiretroviral Drugs (ARD) and its benefits from the District AIDS Control Society.",
+            "Copy of Voter ID card (in case, applicant's age is 18 years or more).",
+            "Copy Aadhar Card (in case, the applicant does not have an Aadhar Card they need to submit a Self-declaration).",
+            "Copy of Bank Passbook.",
+            "Self-declaration regarding the eligibility."
+        ],
+        "faqs": [
+            {
+                "question": "What is Financial Assistance to Pensioners Suffering From HIV/AIDS Scheme?",
+                "answer": "Financial Assistance to Pensioners Suffering From HIV/AIDS Scheme provides social security through monthly financial assistance to those persons who are suffering from HIV/AIDS."
+            },
+            {
+                "question": "Which department has launched Financial Assistance to Pensioners Suffering From HIV/AIDS Scheme?",
+                "answer": "Financial Assistance to Pensioners Suffering From HIV/AIDS Scheme has been launched by the Department of Women, Child Development & Social Security, Government of Jharkhand."
+            },
+            {
+                "question": "What is the primary criteria to be eligible for Financial Assistance to Pensioners Suffering From HIV/AIDS Scheme?",
+                "answer": "Persons who are suffering from HIV/AIDS are eligible for this scheme along with other conditions."
+            },
+            {
+                "question": "What is the rate and periodicity of the pension?",
+                "answer": "The monthly pension is \u20b91000/-."
+            },
+            {
+                "question": "Is the pension provided in cash?",
+                "answer": "No, the pension amount is transferred directly to the individual's bank account."
+            },
+            {
+                "question": "What documents are required to apply for this scheme?",
+                "answer": "Medical Proof of receiving Antiretroviral Therapy (ART)/Antiretroviral Drugs (ARD) and its benefits from the District AIDS Control Society, Copy of Voter ID card, Aadhar card, Bank passbook are the necessary documents."
+            },
+            {
+                "question": "Is there an income criterion for eligibility?",
+                "answer": "No, income is not a criterion; however, not receiving any other pension is a prerequisite."
+            },
+            {
+                "question": "Can a widow avail Mukhyamantri Rajya Nirashrit Mahila Samman Pension Yojana?",
+                "answer": "Yes, as long as they meet the eligibility criteria and do not receive any other pension, widows are eligible."
+            },
+            {
+                "question": "Is there a provision for retroactive pension payment if the application is delayed?",
+                "answer": "No, pension payment starts from the date of approval; there is no provision for retroactive payments for delayed applications."
+            },
+            {
+                "question": "What if an applicant does not possess an Aadhar Card?",
+                "answer": "In case the applicant does not have an Aadhar Card they need to submit a Self-declaration stating that they do not have an Aadhar Card."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.jharkhand.gov.in/PDepartment/ViewDocument?id=D031DO00628062023124410458"
+            }
+        ],
+        "tags": [
+            "HIV & AIDS",
+            "Pension",
+            "Social Empowerment"
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Old Age Home (Sahara)",
+        "state": "Bihar",
+        "department": "Social Welfare",
+        "type": "Shelter Homes",
+        "beneficiary": "Destitute and poor elderly individuals",
+        "details": "Under this scheme construction and operation of the old age home 'Sahara' will be included in which destitute Housing, clothes, food, medical facilities, etc. are made available for qualitative improvement in the standard of living of poor and poor elders, for cooperation and proper care.",
+        "benefits": [
+            "Construction and operation of old age home 'Sahara'",
+            "These old age homes also include housing, clothes, food, medical facilities etc.",
+            "Facilities will be available for qualitative improvement in the standard of living, cooperation and proper care of destitute and poor old people of the state."
+        ],
+        "eligibility": [
+            "Applicants should come under the below poverty line (BPL) category",
+            "Annual Income should be below Rs. 60,000/-"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Applicants can apply through the application in plain paper to the District Social Security Cell. The committee constituted under the chairmanship of the District Magistrate will approve the proposal.",
+        "documents_required": [
+            "Age Proof",
+            "Income proof document",
+            "BPL Card (If applicable)",
+            "Two passport-size photographs"
+        ],
+        "faqs": [
+            {
+                "question": "What is old Age Home (Sahara) Scheme?",
+                "answer": "This scheme is to bring qualitative improvement in the living standards of old people of the state. Establishment and expansion of rehabilitation programs/services and capacity building for strengthening the delivery of rehabilitation programs and services."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "1. Construction and operation of old age home 'Sahara'. 2. These old age homes also include housing, clothes, food, medical facilities etc. 3. Facilities will be available for qualitative improvement in the standard of living, cooperation and proper care of destitute and poor old people of the state."
+            },
+            {
+                "question": "Who are the beneficiaries?",
+                "answer": "All state-domicile citizens who are fulfilling the eligibility criteria."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "Applicant must be eligible for any below condition. 1. Applicants should come under the below poverty line (BPL) category (or) 2. Annual Income should be below Rs. 60,000/-."
+            },
+            {
+                "question": "How to apply for scheme?",
+                "answer": "Applicants can apply through the application in plain paper to the District Social Security Cell."
+            },
+            {
+                "question": "What documents are required for the scheme?",
+                "answer": "1. Age Proof. 2. Income proof document. 3. BPL Card (If applicable). 4. Two passport-size photographs."
+            },
+            {
+                "question": "What Are The Facilities Being Provided In Old Age Homes?",
+                "answer": "These old age homes include housing, clothes, food, medical facilities etc."
+            },
+            {
+                "question": "What is the minimum age required for old home?",
+                "answer": "Minimum age must be 60 or above."
+            },
+            {
+                "question": "What is the maximum annual income?",
+                "answer": "Maximum annual income must be below Rs. 60,000/-."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://state.bihar.gov.in/cache/39/Chhatra%20Yojna/Mukhyamantri%20Vrihad%20Sahayata%20Chhatra%20Yojana/Old%20Age%20Home/(%20SAHARA/).pdf"
+            }
+        ],
+        "tags": [
+            "Old Age Home",
+            "Sahara",
+            "Social Welfare",
+            "Shelter Homes",
+            "Vrihad Sahayata"
+        ]
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Education Assistance - Folk Artist",
+        "state": "Tamil Nadu",
+        "department": "Art and Culture Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Student",
+        "details": "The 'Education Assistance - Folk Artist' scheme was launched by the Art and Culture Department, Government of Tamil Nadu. This scheme provides financial assistance for the education of the children of registered folk artists. The assistance aims to support the educational pursuits of their children from school to higher education, including vocational and professional courses.",
+        "benefits": [
+            "Girl and Boy children studying 10th - \u20b91,000/-",
+            "Girl children studying 11th - \u20b91,000/-",
+            "Girl and Boy children studying 12th - \u20b91,500/-",
+            "Regular Degree Course with Hostel facility - \u20b93,250/-",
+            "Regular Post Graduate Course with Hostel facility - \u20b95,000/-",
+            "Professional Degree Course with Hostel facility - \u20b96,000/-",
+            "Professional PG Course with Hostel facility - \u20b910,000/-",
+            "ITI or Polytechnic Course with Hostel Facility - \u20b92,200/-"
+        ],
+        "eligibility": [
+            "The registered folk artist's son or daughter.",
+            "The registered folk artist must have no dues payable to the Board.",
+            "The registered folk artist's son or daughter should be studying in a government or government-recognized institution.",
+            "Assistance is available for up to two children per family.",
+            "If both husband and wife are registered folk artists, only one of them is eligible for this assistance."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit the regional office and request the hard copy of the prescribed format of the application form. Fill in all mandatory fields, attach copies of all mandatory documents, and submit the application form to the Assistant Director/Deputy Director in the regional offices.",
+        "documents_required": [
+            "Registration Card of the Folk Artist.",
+            "Certificate from the Educational Institution Head or Officer.",
+            "Certificate from the Hostel Warden.",
+            "Proof of Studying."
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for education assistance under this scheme?",
+                "answer": "All registered folk artists are eligible for their children's education assistance."
+            },
+            {
+                "question": "How many children can receive assistance from one family?",
+                "answer": "Assistance is available for up to two children per family."
+            },
+            {
+                "question": "What conditions must be met to qualify for the assistance?",
+                "answer": "The registered folk artist must have no dues payable to the Board, and the children must be studying in a government or government-recognized institution."
+            },
+            {
+                "question": "Can both parents apply for the same child's education assistance?",
+                "answer": "No, if both parents are registered folk artists, only one can apply for the same child's education assistance."
+            },
+            {
+                "question": "What documents are required to apply for the assistance?",
+                "answer": "A certificate from the educational institution head or officer, a certificate from the hostel warden (if applicable), and proof of studying in a government or government-recognized institution are required."
+            },
+            {
+                "question": "Is a witness required for the application process?",
+                "answer": "No witness is required for this application process."
+            },
+            {
+                "question": "What type of certificate is required for hostel facility assistance?",
+                "answer": "A certificate from the hostel warden attested by the institution head or officer is required."
+            },
+            {
+                "question": "Who is the appellate authority for this assistance?",
+                "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamilnadu Folk Artist\u2019s Welfare Board."
+            },
+            {
+                "question": "What is the maximum amount of assistance provided for a professional postgraduate course with a hostel facility?",
+                "answer": "The maximum amount is \u20b96000 for a professional postgraduate course."
+            },
+            {
+                "question": "Are there any dues to the Board that affect eligibility?",
+                "answer": "No, the registered folk artist must have no dues payable to the Board to be eligible."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.tn.gov.in/rti/proactive/inftour/handbook_folkartistboard.pdf"
+            },
+            {
+                "type": "Regional Department",
+                "url": "https://www.tn.gov.in/rti/proactive/inftour/handbook_folkartistboard.pdf"
+            },
+            {
+                "type": "Application Form (X, XI, XII)",
+                "url": "https://cms.tn.gov.in/sites/default/files/gos/tour-e-3-2008.pdf"
+            }
+        ],
+        "tags": []
+    }
+}

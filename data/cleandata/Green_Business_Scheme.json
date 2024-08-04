@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "Green Business Scheme",
+        "state": "National",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Loan",
+        "beneficiary": "Safai Karamcharis, Scavengers, and their Dependents",
+        "details": "The Green Business Scheme has been launched by the National Safai Karamcharis Finance and Development Corporation (NSFDC) to provide financial assistance in the form of loans for activities that can tackle the impacts of climate change and also be income-generating. The income-generating activities that could mitigate the Green House effect or could be classified under adaptation initiatives, would be covered under the scheme.",
+        "benefits": [
+            "Need-based loans under the scheme as permissible under the NSFDC Term Loan Lending Policy",
+            "Maximum loan amount up to Rs. 30 lakh",
+            "Interest rates as low as 2% per annum for Scheduled Castes",
+            "Repayment tenure of 10 years including a 6-month moratorium period"
+        ],
+        "eligibility": [
+            "Safai Karamcharis",
+            "Scavengers",
+            "Dependents of Safai Karamcharis and Scavengers"
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online. The beneficiaries submit the loan applications to the District Offices of State Channelizing Agencies (SCAs) of NSKFDC, Branches of Regional Rural Banks (RRBs), and Nationalized Banks.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Driving License",
+            "Bank Details",
+            "Caste Certificate",
+            "Income Certificate",
+            "Domicile Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is the interest rate offered by the scheme?",
+                "answer": "The interest rate offered by Green Business Scheme is as low as 2% per annum, only for people falling under Scheduled Castes."
+            },
+            {
+                "question": "What is the loan amount offered under the scheme?",
+                "answer": "The maximum loan amount offered is up to Rs. 30 lakh."
+            },
+            {
+                "question": "What is the repayment tenure of the loan amount?",
+                "answer": "The repayment tenure of the loan amount is 10 years, including a 6-month moratorium period."
+            },
+            {
+                "question": "What are the activities for which a loan under the scheme are provided?",
+                "answer": "Battery-electric vehicle (E-rickshaw), Compressed air vehicle, Solar energy gadgets, Poly houses."
+            },
+            {
+                "question": "What is the purpose to avail the loan amount?",
+                "answer": "For purchasing electric and compressed air vehicles, polyhouses, and solar energy products."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://nskfdc.nic.in/en/content/home/green-business-scheme"
+            },
+            {
+                "type": "Guideline",
+                "url": "https://nsfdc.nic.in/en/green-business-scheme"
+            }
+        ],
+        "tags": [
+            "Green Business",
+            "Climate Change",
+            "Financial Assistance",
+            "Loan Scheme"
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "content": {
+        "title": "Ramanujan Fellowship",
+        "state": "India",
+        "department": "Science & Engineering Research Board (SERB)",
+        "type": "Fellowship",
+        "beneficiary": "Brilliant Indian scientists and engineers",
+        "details": "The Ramanujan Fellowship is meant for brilliant Indian scientists and engineers from all over the world to take up scientific positions in India and for those Indian scientists who want to return to India from abroad. The Fellowship is scientist-specific and very selective.",
+        "benefits": [
+            "Fellowship of \u20b91,35,000/- consolidated per month",
+            "Research grant of \u20b97.00 Lakh per annum",
+            "Overhead charges of \u20b960,000/- to the host institute"
+        ],
+        "eligibility": [
+            "Below the age of 40 years",
+            "Higher degree or equivalent, such as Ph.D. in Science/Engineering, Masters in Engineering or Technology/MD in Medicine",
+            "Adequate professional experience",
+            "Proven/outstanding track-record as evident from research publications and recognitions",
+            "Must be working abroad at the time of nomination"
+        ],
+        "exclusions": [
+            "In case a fellow is offered a permanent position, he/she will be ineligible for the fellowship",
+            "Nominations from the same institute where they opted their Ph.D. will not be considered"
+        ],
+        "application_process": "Individual Scientists and Technologists working abroad should approach the Institutions of their choice for hosting them for the fellowship and submit their application through the SERB online portal.",
+        "documents_required": [
+            "Application form",
+            "Nominations from Ph.D. guides",
+            "Acceptance Letter to the Host Institute"
+        ],
+        "faqs": [
+            {
+                "question": "Is the grants received under Ramanujan Fellowship taxable?",
+                "answer": "Yes, the Grant received under Ramanujan Fellowship is taxable as per I.T. rules."
+            },
+            {
+                "question": "How can a person apply for the Ramanujan Fellowship?",
+                "answer": "Individual Scientists and Technologists working abroad should approach the Institutions of his/her choice for hosting them for the fellowship."
+            },
+            {
+                "question": "What are the eligibility criteria for applying for Ramanujan Fellowship?",
+                "answer": "The fellowship is open to brilliant Indian scientists and engineers from all over the world who are below the age of 40 years."
+            },
+            {
+                "question": "What is the duration of the Ramanujan Fellowship?",
+                "answer": "The Ramanujan Fellowship duration is for 5 years only."
+            },
+            {
+                "question": "Can a person avail grants under Ramanujan Fellowship and Salary from the Institute at the same time?",
+                "answer": "No, A person can opt either to avail his/ her salary from the Institute or Fellowship amount under Ramanujan Fellowship."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/rf"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Research",
+            "Science",
+            "Engineering"
+        ]
+    }
+}

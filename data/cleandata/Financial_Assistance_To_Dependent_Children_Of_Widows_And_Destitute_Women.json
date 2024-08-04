@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Financial Assistance To Dependent Children Of Widows And Destitute Women",
+        "state": "Chandigarh",
+        "department": "Department of Social Welfare, Women & Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Dependent children of widows and destitute women",
+        "details": "The scheme 'Financial Assistance To Dependent Children of Widows And Destitute Women' is a Social Welfare scheme by the Department of Social Welfare, Women & Child Development, Govt. of Chandigarh. The objective of the scheme is to extend financial assistance to such children who are fatherless or whose parents (both mother and father) have died. The scheme is applicable to all the children of widow/destitute women under 18 years of age who have been deprived of parental support or care after their parent's death or continued absence from home. The applicant should be a resident of UT of Chandigarh for more than 3 years. \u20b9 1000/- per month per child is provided for up to two children in a family to meet the cost of maintenance and education.",
+        "benefits": [
+            "\u20b9 1000/- per month per child for up to two children in a family"
+        ],
+        "eligibility": [
+            "The applicant should be a widow/destitute woman or with a dependent child/children.",
+            "The age of the child/children should be less than or equal to 18 years.",
+            "If parents of the child/children have died, the assistance will be provided to the legal guardian.",
+            "The widow/destitute woman or the legal guardian should be a resident of the UT of Chandigarh for more than 3 years.",
+            "The child should not be in receipt of family pension from any State/Central Govt."
+        ],
+        "exclusions": [
+            "Children who have been given institutional care by government/NGO shall not be eligible for financial assistance."
+        ],
+        "application_process": "Online. Register on the ServicePlus portal, verify your Email ID and Mobile Number via OTP, login, select the state as 'Chandigarh', and fill in the application form.",
+        "documents_required": [
+            "Applicant's Photo",
+            "Birth Certificate of the Child (issued by the Registrar of Births & Deaths)",
+            "Bank Passbook",
+            "Death Certificate of Child's Father",
+            "Residence Proof of last three years (Voter Card, Ration Card, Electricity Bill etc.) of the Mother or the Legal Guardian (in case the child is an orphan)",
+            "Identity Proof (Voter Card/ Ration Card/Aadhar Card) of Widow Mother or Legal Guardian"
+        ],
+        "faqs": [
+            {
+                "question": "What Is The Age Limit For Children To Be Eligible For This Scheme?",
+                "answer": "The children of the applicant must be below 18 years of age or studying in school or college."
+            },
+            {
+                "question": "How Much Financial Assistance Is Provided Under This Scheme?",
+                "answer": "The scheme provides financial assistance of \u20b9 1000/- per month per child for up to two children of the parent."
+            },
+            {
+                "question": "Is There Any Application Fee For This Scheme?",
+                "answer": "No, there is no application fee for this scheme."
+            },
+            {
+                "question": "How Long Does It Take To Process The Application?",
+                "answer": "The application is usually processed within 15 days from the date of submission."
+            },
+            {
+                "question": "Can The Financial Assistance Be Transferred To The Bank Account Of The Applicant?",
+                "answer": "Yes, the financial assistance can be transferred to the bank account of the applicant."
+            },
+            {
+                "question": "How Frequently Is The Financial Assistance Provided?",
+                "answer": "The financial assistance is provided on a monthly basis."
+            },
+            {
+                "question": "Can An Applicant Apply For The Scheme For More Than One Child?",
+                "answer": "Yes, an applicant can apply for the scheme for up to two of their children."
+            },
+            {
+                "question": "Can An Applicant Cancel Their Application?",
+                "answer": "Yes, an applicant can cancel their application by informing the concerned department."
+            },
+            {
+                "question": "What Documents Are Accepted As A Residence Proof For The Purpose Of Application To This Scheme?",
+                "answer": "The following documents are accepted as a Residence Proof: Domicile Certificate, Voter Card, Ration Card, Electricity Bill."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://chdsw.gov.in/index.php/scheme/the-financial-assistance-to-dependent-children-of-widows-and-destitute-women"
+            },
+            {
+                "type": "Application Form (Offline)",
+                "url": "https://chdsw.gov.in/uploads/media/1604739785-THE_FINANCIAL_ASSISTANCE_TO_DEPENDENT_CHILDREN_OF_WIDOWS_AND_DESTITUTE_WOMEN.pdf"
+            },
+            {
+                "type": "Application Form (Online)",
+                "url": "https://serviceonline.gov.in/dbt/viewServiceApplicationForm.do?serviceId=14280002&tempId=4993&templStatus=243&state=4&backButtonUrl="
+            },
+            {
+                "type": "Guidelines (PDF)",
+                "url": "https://chdsw.gov.in/uploads/media/1604649291-Notification_regarding_THE_FINANCIAL_ASSISTANCE_TO_DEPENDENT_CHILDREN_OF_WIDOWS_AND_DESTITUTE_WOMEN_.pdf"
+            }
+        ],
+        "tags": [
+            "Destitute",
+            "Financial Assistance",
+            "Social Welfare",
+            "Widow",
+            "Women"
+        ]
+    }
+}

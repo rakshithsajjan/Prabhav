@@ -1,0 +1,57 @@
+{
+    "content": {
+        "title": "Skill Loan Scheme",
+        "state": "India",
+        "department": "Ministry Of Skill Development And Entrepreneurship",
+        "type": "Loan",
+        "beneficiary": "Students",
+        "details": "The Skill Loan Scheme was launched in July 2015 to provide institutional credit to individuals for skill development courses aligned to National Occupations Standards and Qualification Packs and leading to a certificate/diploma/degree by training institutes as per National Skill Qualification Framework (NSQF). This scheme is applicable to all member banks of the Indian Banks\u2019 Association (IBA) and any other banks and financial institutions as may be advised by the RBI. The scheme provides broad guidelines to the banks for operationalizing the skilling loan scheme.",
+        "benefits": [
+            "Courses aligned to NSQF",
+            "Quantum of Finance: Rs 5000-1,50,000",
+            "No minimum duration for courses",
+            "Interest Rate: Base rate (MCLR) + an add on typically up to 1.5%",
+            "Moratorium: Duration of the course",
+            "Repayment Period: Between 3 to 7 years based on the amount of loan",
+            "Coverage: Course Fees (directly to the training institute) along with expenses towards completion of the course (assessment, examination, study material, etc.)",
+            "No collateral required from the beneficiary",
+            "Credit Guarantee Fund for Skill Development (CGFSSD) for all skill loans sanctioned on or after 15 July 2015"
+        ],
+        "eligibility": [
+            "Any individual who has secured admission in a course run by Industrial Training Institutes (ITIs), Polytechnics or in a school recognized by Central or State education Boards or in a college affiliated to a recognized university, training partners affiliated to National Skill Development Corporation (NSDC) / Sector Skill Councils, State Skill Mission, State Skill Corporation"
+        ],
+        "exclusions": [],
+        "application_process": "Online. Interested candidates need to register on the Vidya Kaushal portal. Post successful registration, candidates can select their preferred sector/role/centre and visit the centre of their choice for counselling. They can raise a loan request through the centre, evaluate and accept/reject loan offers based on preference, and the loan will be disbursed directly to the partner/centre post-confirmation.",
+        "documents_required": [
+            "Proof of identity",
+            "Proof of address",
+            "Proof of income (of self or guardian, if available)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum loan one can avail in the scheme?",
+                "answer": "Student satisfying the eligibility can avail the loan amount upto Rs. 1,50,000."
+            },
+            {
+                "question": "What is MCLR under rate of interest?",
+                "answer": "Marginal Cost of Lending Rate (MCLR) is the minimum lending rate below which a bank is not permitted to lend. It varies from bank to bank."
+            },
+            {
+                "question": "What is moratorium period?",
+                "answer": "A moratorium period refers to a particular period of a loan tenure during which the borrower does not have to repay anything. It can be described as a waiting period before the borrower will have to start paying the equated monthly installments (EMIs) for his or her loan."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://msde.gov.in/en/schemes-initiatives/Other-Schemes-and-Initiatives/Skill-Loan-Scheme"
+            }
+        ],
+        "tags": [
+            "Skill Development",
+            "Loan",
+            "Education",
+            "Financial Assistance"
+        ]
+    }
+}

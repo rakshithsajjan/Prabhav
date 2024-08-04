@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Matsya Sampada Yojana",
+        "state": "All States and Union Territories",
+        "department": "Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Subsidy",
+        "beneficiary": "Fishers, Fish Farmers, Fish Workers, Fish Vendors, Fisheries Development Corporations, Self Help Groups, Fisheries Cooperatives, Entrepreneurs",
+        "details": "The scheme 'Pradhan Mantri Matsya Sampada Yojana (PMMSY)' was launched to bring about ecologically healthy, economically viable, and socially inclusive development of the fisheries sector of India. PMMSY shall bring about Blue Revolution through sustainable and responsible development of the fisheries sector in India at a total investment of \u20b9 20,050 crore for holistic development of the fisheries sector including the welfare of fishers.",
+        "benefits": [
+            "Financial assistance for fishing infrastructure",
+            "Financial assistance for fish farmers",
+            "Assistance for fisheries management",
+            "Credit-linked subsidy for fish farmers",
+            "Assistance for marketing and export of fish products"
+        ],
+        "eligibility": [
+            "Fishers",
+            "Fish Farmers",
+            "Fish Workers and Fish Vendors",
+            "Fisheries Development Corporations",
+            "Self Help Groups (SHGs)/joint Liability Groups (JLGs) in the Fisheries Sector",
+            "Fisheries Cooperatives",
+            "Fisheries Federations",
+            "Entrepreneurs and Private Firms",
+            "Fish Farmers Producer Organizations/companies (FFPOs/Cs)",
+            "SCs/STs/Women/Differently Abled Persons",
+            "State Governments/UTs and Their Entities",
+            "State Fisheries Development Boards (SFDB)",
+            "Central Government and Its Entities"
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Bank Account Details",
+            "Business Registration Certificate",
+            "Project Report",
+            "Land Documents",
+            "Partnership Deed or Memorandum of Association (MOA)"
+        ],
+        "faqs": [
+            {
+                "question": "What Is PMMSY?",
+                "answer": "The PMMSY is an umbrella scheme with two separate components namely (a) Central Sector Scheme (CS) and (b) Centrally Sponsored Scheme (CSS)."
+            },
+            {
+                "question": "What Is The Duration Of PMMSY Scheme?",
+                "answer": "PMMSY will be implemented in all the States and Union Territories for a period of 5(five) years from FY 2020-21 to FY 2024-25."
+            },
+            {
+                "question": "What Is The Funding Pattern For Central Sector Scheme?",
+                "answer": "(a) The entire project/unit cost will be borne by the Central government (i.e. 100% central funding)."
+            },
+            {
+                "question": "What Is The Funding Pattern For Non-Beneficiary Orientated Centrally Sponsored Scheme?",
+                "answer": "The Non-beneficiary orientated sub-components/activities under CSS component to be implemented by the States/UTs, the entire project/unit cost will be shared between Centre and State."
+            },
+            {
+                "question": "Which Are The End Implementing Agencies (EIAs) In PMMSY?",
+                "answer": "The PMMSY would be implemented through the Central Government and its entities, State/UT Governments and their entities, State Fisheries Development Boards, and any other End Implementing Agencies as decided by the Department of Fisheries."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://pmmsy.dof.gov.in/new-download"
+            }
+        ],
+        "tags": [
+            "Fisheries",
+            "Agriculture",
+            "Farming",
+            "Government Scheme"
+        ]
+    }
+}

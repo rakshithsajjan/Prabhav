@@ -1,0 +1,117 @@
+{
+    "content": {
+        "title": "Annual Tour to the Differently Abled Persons",
+        "state": "Puducherry",
+        "department": "Department of Social Welfare",
+        "type": "Tourism",
+        "beneficiary": "Differently Abled Persons",
+        "details": "The scheme 'Annual Tour to the Differently Abled Persons' was launched by the Department of Social Welfare, Government of Puducherry. The scheme is introduced to allow the differently abled persons, especially those who hail from weaker sections of society to see the places of cultural and historic importance and acquaint themselves with various aspects of our cultural heritage.",
+        "benefits": [
+            "One free tour to various places every year.",
+            "Drugs and alcoholic items are prohibited."
+        ],
+        "eligibility": [
+            "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
+            "The annual income of the applicant should not exceed \u20b9 75,000/-.",
+            "The applicant should have a disability of 40% or above.",
+            "The applicant should not have performed the tour for the past ten years.",
+            "The applicant should not be affected by any contagious diseases.",
+            "The applicants may apply to this scheme only after the issue of notification in the local newspapers.",
+            "The age of the applicant should be between 18 and 50 years.",
+            "The applicant should not be a Government Servant.",
+            "The parents of the applicant should not be a Government servant.",
+            "The applicant should have registered his/her name in the Anganwadi Centre."
+        ],
+        "application_process": "Offline. After the issue of notification regarding the scheme in the local newspapers, the interested applicant should visit the Office/ Sub-Office of the Department of Social Welfare, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Alternatively, the interested applicant should take print of the prescribed format of the application form.",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Ration Card.",
+            "Residence-cum-nativity Certificate, Issued by the Competent Authority.",
+            "Recent Passport-size Photograph.",
+            "Bank Passbook.",
+            "Caste Certificate.",
+            "Disability Certificate / Medical Certificate.",
+            "Financial Assistance Identity Card."
+        ],
+        "faqs": [
+            {
+                "question": "Can individuals above 50 years of age apply for the scheme?",
+                "answer": "No, the eligible age range for applicants is between 18 and 50 years."
+            },
+            {
+                "question": "What role does the Anganwadi Centre play in the application process?",
+                "answer": "Applicants must register their names in the Anganwadi Centre to be considered for the scheme."
+            },
+            {
+                "question": "Is there a specific period during which applications are accepted?",
+                "answer": "Applications are accepted after the scheme notification is published in local newspapers."
+            },
+            {
+                "question": "What platform can individuals use for grievance redressal?",
+                "answer": "For grievance redressal, visit https://pgportal.gov.in/."
+            },
+            {
+                "question": "Where can individuals find the contact information for inquiries?",
+                "answer": "For inquiries, refer to the Contact Us section at https://socwelfare.py.gov.in/contact-us."
+            },
+            {
+                "question": "Can government servants apply for this scheme?",
+                "answer": "No, both the applicant and their parents should not be government servants to be eligible."
+            },
+            {
+                "question": "What age range is eligible for this scheme?",
+                "answer": "Applicants must be between 18 and 50 years old to qualify."
+            },
+            {
+                "question": "What health condition disqualifies an applicant from participating in the scheme?",
+                "answer": "Individuals affected by any contagious diseases are not eligible."
+            },
+            {
+                "question": "How frequently can an individual apply for the tour?",
+                "answer": "Applicants should not have undertaken the tour in the past ten years."
+            },
+            {
+                "question": "What is the minimum percentage of disability required for eligibility?",
+                "answer": "Applicants must have a disability of 40% or above to be eligible for the scheme."
+            },
+            {
+                "question": "What is the maximum annual income allowed for eligibility?",
+                "answer": "To qualify, the applicant's annual income should not exceed \u20b975,000."
+            },
+            {
+                "question": "Are there any restrictions on the consumption of certain items during the tour?",
+                "answer": "Yes, the consumption of drugs and alcoholic items is strictly prohibited during the tour."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socwelfare.py.gov.in/annual-tour-differently-abled-persons"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://socwelfare.py.gov.in/contact-us"
+            },
+            {
+                "type": "Sub Offices",
+                "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://pgportal.gov.in/"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "PwD",
+            "Tour",
+            "Tourism",
+            "Transport",
+            "Travel"
+        ]
+    }
+}

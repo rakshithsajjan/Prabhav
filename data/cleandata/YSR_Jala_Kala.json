@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "YSR Jala Kala",
+        "state": "Andhra Pradesh",
+        "department": "Department of Rural Development",
+        "type": "Welfare Scheme",
+        "beneficiary": "Farmers",
+        "details": "The scheme 'YSR Jala Kala' is one of the 'NAVARATNALU' schemes by the Department of Rural Development, Govt. of Andhra Pradesh. In this program, bore wells are drilled free of cost to the needy and eligible farmers in all thirteen districts of the state. NAVARATNALU is a concept coined to improve the delivery systems and improve the living standards of the people, and the quality of the governance in the state. Of the welfare schemes under NAVARATNALU, 'YSR Jala Kala' is aimed at utilizing the available groundwater resources for the improvement of the livelihoods of the farmers and thereby improving the GSDP under the primary sector. This shall help in optimally utilizing groundwater resources for the purpose of irrigating every acre of arable land. These bore wells shall be drilled after conducting integrated Hydrogeological and Geophysical surveys in the field for identifying feasible sites before taking up the drilling activity.",
+        "benefits": [
+            "Drilling of the Borewells: A drilled borewell with a minimum yield of 1000 GPH (4500 liters per hour) by 900 \u2018V\u2019 notch method.",
+            "In case, the bore well fails, the drilling contractor shall drill the second bore well in the land of the same farmer, if feasible, and refill the failed bore well with soil and stone pieces before shifting the rig or utilizing that as a recharge well.",
+            "Construction of Recharge Pit / Water Harvesting Structure.",
+            "A social Audit will be conducted for all the borewells drilled.",
+            "The digital photograph with geo-tag (date, time, latitude, and longitude) shall be taken by the concerned authorities deputed along with the beneficiary in the presence of the drilling contractor after completion of borewell drilling."
+        ],
+        "eligibility": [
+            "The applicant should be a Farmer.",
+            "The applicant should be a resident of the state of Andhra Pradesh.",
+            "The applicant should be without an existing bore well/tube well OR having a failed bore well/tube well."
+        ],
+        "exclusions": [
+            "There are 1094 over-exploited revenue villages notified as per G.O.MS.No.548 dated 27-02-2020 of the PR&RD department. Lands falling in these villages are not eligible under the scheme, Government notifies the list of over-exploited revenue villages from time to time."
+        ],
+        "application_process": "Offline. The eligible beneficiary shall submit the filled-in application at the Village Secretariat along with a copy of the Required (Self-Attested) Documents. After submitting the application, the farmers can track the status of their application online at any point in time.",
+        "documents_required": [
+            "Aadhar card",
+            "White Ration Card",
+            "Application form",
+            "First and Second Page of the Land Passbook",
+            "Residential proof",
+            "Passport size photograph",
+            "Mobile number",
+            "Caste certificate"
+        ],
+        "faqs": [
+            {
+                "question": "Which Department Introduced The 'YSR Jala Kala' Scheme?",
+                "answer": "The 'YSR Jala Kala' scheme was introduced by the Department of Rural Development, Govt. of Andhra Pradesh."
+            },
+            {
+                "question": "What Are The Objectives Of The 'YSR Jala Kala' Scheme?",
+                "answer": "'YSR Jala Kala' is aimed at utilizing the available groundwater resources for the improvement of the livelihoods of the farmers and thereby improving the GSDP under the primary sector."
+            },
+            {
+                "question": "Are The Borewells Constructed Directly Or Is There Any Preliminary Survey Involved?",
+                "answer": "The bore wells shall be drilled after conducting integrated Hydrogeological and Geophysical surveys in the field for identifying feasible sites before taking up the drilling activity."
+            },
+            {
+                "question": "What Shall Be The Specifications Of The Borewells To Be Constructed Through This Scheme?",
+                "answer": "A drilled borewell with a minimum yield of 1000 GPH (4500 liters per hour) by 900 \u2018V\u2019 notch method shall be considered as successful borewell."
+            },
+            {
+                "question": "What Would Happen In Case The Borewell Fails?",
+                "answer": "In case, the bore well fails, the drilling contractor shall drill second bore well in the land of same farmer, if feasible, and refill the failed bore well with soil and stone pieces before shifting the rig or utilize that as a recharge well, if feasible."
+            },
+            {
+                "question": "Where Can I Find The Link To The Scheme Guidelines?",
+                "answer": "The link to the guidelines of 'YSR Jala Kala' scheme can be found at: http://ysrjalakala.ap.gov.in/YSRRB/UserInterface/Application/Rdlc/Templates/09102020PR_MS676.pdf"
+            },
+            {
+                "question": "Is The 'YSR Jala Kala' Only Applicable To A Selected Districts Of Andhra Pradesh?",
+                "answer": "The scope of the 'YSR Jala Kala' scheme extends to all the thirteen (13) districts of Andhra Pradesh."
+            },
+            {
+                "question": "Can A Farmer Who Already Has An Existing Borewell Apply To This Scheme?",
+                "answer": "No, only the farmer without an existing bore well/tube well OR having a failed bore well/tube well is eligible."
+            },
+            {
+                "question": "Does The Scope Of The 'YSR Jala Kala' Scheme Extend To The Over Exploited Revenue Villages?",
+                "answer": "There are 1094 over-exploited revenue villages notified as per G.O.MS.No.548 dated 27-02-2020 of the PR&RD department. Lands falling in these villages are not eligible under the scheme."
+            },
+            {
+                "question": "Who Shall Be Assigned The Task Of Locating The Feasible Sites For Drilling Of Borewells?",
+                "answer": "The drilling contractor shall engage Geologist/Geophysicist from the Ground Water and Water Audit department/any qualified Geologist/Geophysicist registered with the Ground Water and Water Audit Department for locating the feasible sites."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://ysrjalakala.ap.gov.in/YSRRB/UserInterface/Application/Rdlc/Templates/09102020PR_MS676.pdf"
+            },
+            {
+                "type": "Scheme Description On The Official Page",
+                "url": "https://ysrjalakala.ap.gov.in/YSRRB/WebHome.aspx#"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Groundwater",
+            "Welfare Scheme",
+            "Andhra Pradesh"
+        ]
+    }
+}

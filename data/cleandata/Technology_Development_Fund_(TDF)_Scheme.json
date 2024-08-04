@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "Technology Development Fund (TDF) Scheme",
+        "state": "India",
+        "department": "Ministry of Defence",
+        "type": "Grant",
+        "beneficiary": "MSMEs and Startups",
+        "details": "Technology Development Fund (TDF) has been established to promote self-reliance in Defence Technology as a part of the 'Make in India' initiative. It is a programme of the Ministry of Defence executed by the Defence Research & Development Organisation (DRDO) to meet the requirements of the Tri-Services, Defence Production and DRDO. The Scheme encourages participation of public/private industries, especially MSMEs and startups, to create an ecosystem for enhancing cutting-edge technology capability in the defence sector.",
+        "benefits": [
+            "Funding support of up to INR 50,00,00,000/-",
+            "Funding may be up to 90% of the total project cost",
+            "Collaboration with academia or research institutions",
+            "Funding linked to mutually agreed milestones",
+            "Funds released in advance against a bank guarantee or reimbursement based on milestones"
+        ],
+        "eligibility": [
+            "Public limited company, private limited company, partnership firm, limited liability partnership, one-person company, sole proprietorship registered in India",
+            "Startup must be recognized by Department for Promotion of Industry and Internal Trade (DPIIT)",
+            "Startup incorporated for less than 3 years from the date of submission of application",
+            "Nascent Startup should be incubated at a Central/State government assisted incubator",
+            "Startup should not have received any grants for a similar technology",
+            "Startup must be owned and controlled by a Resident Indian citizen with at least 51% shareholding"
+        ],
+        "exclusions": [],
+        "application_process": "Every interested Industry/Technology expert/Academia must first register on the TDF portal. After registration, they must log in and furnish all required details.",
+        "documents_required": [
+            "Detailed Project Update Report",
+            "Utilization Certificate & Statement of Expenses (UC & SE)",
+            "Certificate from Chartered Accountant"
+        ],
+        "faqs": [
+            {
+                "question": "What is Technology Development Fund (TDF) scheme?",
+                "answer": "Technology Development Fund (TDF) has been established to promote self-reliance in Defence Technology as a part of the 'Make in India' initiative."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Ministry of Defence has launched this scheme."
+            },
+            {
+                "question": "How is MSME defined for the purpose of the TDF Program?",
+                "answer": "MSME is defined as per the MSMED Act 2006 for the purpose of the Technology Development Fund Scheme."
+            },
+            {
+                "question": "Is this Scheme specific to any sector?",
+                "answer": "Yes (Defence and Aerospace)."
+            },
+            {
+                "question": "Can an organisation apply in multiple TDF Projects simultaneously?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What is the nature of the proposals to be supported under TDF Scheme?",
+                "answer": "Proposals for significant up-gradation/improvements in existing products/processes, technology readiness level upgradation, development of futuristic technologies, and import substitution of components."
+            },
+            {
+                "question": "Is MSME/Startup firm still eligible to compete for TDF award if it forms a 50-50 joint venture with a non-profit or foreign firm?",
+                "answer": "No, the Industry with excess of 49% foreign investment will not be eligible."
+            },
+            {
+                "question": "Can I empanel a consultant to apply on my behalf?",
+                "answer": "Yes."
+            },
+            {
+                "question": "Do I need to pay any service fee to DRDO/DTDF for applying for the scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "How can non-profit research institutions qualify to participate in the TDF program?",
+                "answer": "Non-profit research institutions can only apply in collaboration with an Indian Industry."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/tdfs"
+            }
+        ],
+        "tags": [
+            "Defence",
+            "Technology",
+            "Financial Assistance",
+            "MSMEs",
+            "Startups"
+        ]
+    }
+}

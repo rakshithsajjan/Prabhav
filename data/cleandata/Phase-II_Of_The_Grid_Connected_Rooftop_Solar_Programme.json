@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Phase-II Of The Grid Connected Rooftop Solar Programme",
+        "state": "Jammu & Kashmir",
+        "department": "Ministry Of New and Renewable Energy",
+        "type": "Subsidy",
+        "beneficiary": "Residential consumers and Group Housing Society",
+        "details": "Phase-II of the Grid Connected Rooftop Solar Programme, is introduced by Ministry of New & Renewable Energy (MNRE), Government of India with Jammu & Kashmir Energy Development Agency (JAKEDA) as a nodal agency in the U.T of Jammu & Kashmir for achieving cumulative capacity of 220MW under 20MW Residential Scheme and 200 MW Jammu Solar City 'Solar City Mission' respectively.",
+        "benefits": [
+            "A single platform to monitor various Solar PV based plants.",
+            "Consumer gets a subsidy of 40% for 1-3 KW and 20% for above 3Kw capacity.",
+            "Consumer can apply hassle free through 'National Portal For Rooftop Solar' on http://solarrooftop.gov.in.",
+            "Consumer has to pay only Beneficiary Share and CFA will be disbursed to Empaneled Vendor directly after proper inspection by Jammu & Kashmir Energy Development Agency (JAKEDA)."
+        ],
+        "eligibility": [
+            "Residential consumers and Group Housing Society can apply for the installation of a solar rooftop system.",
+            "If you have electricity connection in your name and you pay regularly the electricity bill in your own name and also you have the permission of use the roof for solar rooftop installation from the owner, you can install the RTS."
+        ],
+        "exclusions": [
+            "N/A"
+        ],
+        "application_process": "Online. The applicants willing to install rooftop solar system under simplified procedure will be required to apply through National Portal. In order to register at National Portal the applicant will require an active mobile number and an active e-mail id.",
+        "documents_required": [
+            "copy of the latest electricity bill"
+        ],
+        "faqs": [
+            {
+                "question": "What is a Grid Connected Rooftop Solar PV System?",
+                "answer": "In grid connected rooftop or small solar photovoltaic (SPV) system, the DC power generated from solar panel is converted to AC power using power conditioning unit/Inverter and is fed to the grid."
+            },
+            {
+                "question": "How much area is required for a 1 KWp Rooftop Solar PV System?",
+                "answer": "A 1 kW rooftop system generally requires 10 sq. metres of shadow-free area. However, actual area requirement may vary depending on the efficiency of solar module, and their placement etc."
+            },
+            {
+                "question": "What are the advantages of Grid-Connected Rooftop Solar System?",
+                "answer": "Saving on electricity bill by the consumer. Utilization of available vacant roof space, no additional land required. Low gestation period. No additional requirement of transmission and distribution (T&D) lines. Reduces T&D losses as power consumption and generation are collocated. Improvement in the tail-end grid voltages and reduction of system congestion. Long term energy and ecological security by reduction in carbon emission. Better management of daytime peak loads by DISCOM/ utility. Meeting of the Renewable Purchase Obligations (RPOs) of obligated entities."
+            },
+            {
+                "question": "What Is The Average Cost Of Grid Connected Rooftop Solar Systems?",
+                "answer": "The current benchmark cost of grid-connected rooftop solar systems can be seen in the notification section at https://solarrooftop.gov.in/notifications/view."
+            },
+            {
+                "question": "How can I apply for installation of Solar Rooftop System?",
+                "answer": "Residential consumers and Group Housing Society can apply for installation of solar rooftop system through the online portal of DISCOMs."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://solarrooftop.gov.in/notification/145_notification.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "http://solarrooftop.gov.in/"
+            },
+            {
+                "type": "Application Process",
+                "url": "https://solarrooftop.gov.in/pdf/np_application_process.pdf"
+            },
+            {
+                "type": "Statewise List Of DISCOM Portals",
+                "url": "https://solarrooftop.gov.in/grid_others/discomPortalLink"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://solarrooftop.gov.in/pdf/FAQ_np_revised.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://solarrooftop.gov.in/customer/apply/grievanceRedressal"
+            },
+            {
+                "type": "Consumer Registration Portal",
+                "url": "https://solarrooftop.gov.in/consumerRegistration"
+            }
+        ],
+        "tags": [
+            "Solar Energy",
+            "Rooftop Solar",
+            "Renewable Energy",
+            "Subsidy Scheme"
+        ]
+    }
+}

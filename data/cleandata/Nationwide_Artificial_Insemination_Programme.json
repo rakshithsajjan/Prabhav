@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "Nationwide Artificial Insemination Programme",
+        "state": "Madhya Pradesh",
+        "department": "Department of Animal Husbandry",
+        "type": "Government Scheme",
+        "beneficiary": "Dairy Farmers",
+        "details": "The Nationwide Artificial Insemination Programme aims to improve the quality of livestock in Madhya Pradesh by providing artificial insemination services to farmers, thereby increasing livestock productivity and farmers' incomes.",
+        "benefits": [
+            "Improved crop yields",
+            "Increased access to high-quality inputs",
+            "Improved access to finance",
+            "Access to improved technologies",
+            "Enhanced access to markets",
+            "Strengthened farmers' livelihoods",
+            "Increased income",
+            "Reduced vulnerability to weather-related risks"
+        ],
+        "eligibility": [
+            "Open to all dairy farmers in India",
+            "Minimum of five cows in the herd",
+            "Valid milk producers federation card",
+            "Access to quality semen",
+            "Trained technician to perform insemination"
+        ],
+        "exclusions": [],
+        "application_process": "Farmers can submit an application form to the Department of Animal Husbandry in their respective districts. The application form is available on the department\u2019s website.",
+        "documents_required": [
+            "Proof of identity",
+            "Proof of address",
+            "Proof of ownership of livestock"
+        ],
+        "faqs": [
+            {
+                "question": "What kind of financial assistance is available through the Nationwide Artificial Insemination Programme?",
+                "answer": "The programme provides access to improved financial services, including credit, insurance, and other financial products."
+            },
+            {
+                "question": "What kind of technologies are available through the Nationwide Artificial Insemination Programme?",
+                "answer": "The programme provides access to improved technologies such as precision agriculture, drought-resistant seed varieties, and advanced irrigation systems."
+            },
+            {
+                "question": "Is there an age limit to participate in the Nationwide Artificial Insemination Programme?",
+                "answer": "No, there is no age limit to participate."
+            },
+            {
+                "question": "Is there a cost associated with participating in the Nationwide Artificial Insemination Programme?",
+                "answer": "Yes, the cost of the semen and technician fees vary depending on the location and availability."
+            },
+            {
+                "question": "Are there any additional requirements to participate in the Nationwide Artificial Insemination Programme?",
+                "answer": "Yes, farmers must have a valid milk producers federation card and a trained technician to perform the insemination."
+            },
+            {
+                "question": "What support is available to farmers who participate in the Nationwide Artificial Insemination Programme?",
+                "answer": "Farmers may be eligible for financial assistance and receive training and technical support to improve milk production quality."
+            },
+            {
+                "question": "Who is eligible to apply for the programme?",
+                "answer": "The programme is open to all livestock farmers in Madhya Pradesh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/naip"
+            }
+        ],
+        "tags": [
+            "Artificial Insemination",
+            "Livestock Improvement",
+            "Dairy Farming",
+            "Government Assistance"
+        ]
+    }
+}

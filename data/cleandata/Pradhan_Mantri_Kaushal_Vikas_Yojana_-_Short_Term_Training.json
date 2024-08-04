@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Kaushal Vikas Yojana - Short Term Training",
+        "state": "India",
+        "department": "Ministry Of Skill Development And Entrepreneurship",
+        "type": "Training",
+        "beneficiary": "Candidates of Indian nationality who are school/college dropouts or unemployed",
+        "details": "The Short-Term Training (STT) component is expected to benefit candidates of Indian nationality who are either school/college dropouts or unemployed. It provides training according to the National Skills Qualification Framework (NSQF) and includes soft skills, entrepreneurship, financial and digital literacy. Upon successful completion, candidates receive placement assistance.",
+        "benefits": [
+            "Online Information / Counselling Platform",
+            "Counselling Helpline",
+            "District-level skill information centre",
+            "Digital Content",
+            "Training in Soft Skills, Entrepreneurship, Financial and Digital Literacy",
+            "Accidental Insurance",
+            "One-time incentive to all certified candidates",
+            "Boarding and lodging cost support",
+            "Conveyance cost",
+            "Post Placement Stipend",
+            "Additional support to PwD candidates",
+            "Induction kit and participant handbook",
+            "Yearly incentive to Training Provider",
+            "One-time placement travel cost",
+            "Career progression support",
+            "Special Incentive for foreign placements",
+            "Post Placement Tracking Allowance"
+        ],
+        "eligibility": [
+            "Aged between 15-45 years",
+            "Possesses an Aadhaar card and an Aadhaar linked bank account",
+            "Fulfils other criteria for the respective job role as defined by the awarding body"
+        ],
+        "exclusions": [],
+        "application_process": "Offline - Interested candidates can contact the nearest Training Center to apply.",
+        "documents_required": [
+            "As required for the job role"
+        ],
+        "faqs": [
+            {
+                "question": "What will be the coverage of Accidental Insurance?",
+                "answer": "Every certified candidate will be provided with three-year accidental insurance (Kaushal Bima) of Rs. 2 lakhs."
+            },
+            {
+                "question": "What are the job roles for which training are offered?",
+                "answer": "There are 332 job roles from various sectors under which training is offered for this scheme."
+            },
+            {
+                "question": "How can a training provider participate in short term training (central component) in PMKVY 3.0?",
+                "answer": "The target allocation under centrally sponsored centrally managed (CSCM) component of short-term training (STT) PMKVY 3.0 will be done in two phases."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://www.pmkvyofficial.org/photos/shares/guidlines/PMKY-Guideline_report_/(08-01-2021/)V3.pdf"
+            },
+            {
+                "type": "Training Center Information",
+                "url": "https://www.pmkvyofficial.org/trainingcenter"
+            },
+            {
+                "type": "Job Roles",
+                "url": "https://www.pmkvyofficial.org/jobrole"
+            }
+        ],
+        "tags": [
+            "Skill Development",
+            "Training",
+            "Employment",
+            "Entrepreneurship"
+        ]
+    }
+}

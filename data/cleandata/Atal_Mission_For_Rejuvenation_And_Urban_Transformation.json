@@ -1,0 +1,66 @@
+{
+    "content": {
+        "title": "Atal Mission For Rejuvenation And Urban Transformation",
+        "state": "India",
+        "department": "Ministry Of Housing & Urban Affairs",
+        "type": "Government Scheme",
+        "beneficiary": "Urban Local Bodies (ULBs) and citizens of selected cities",
+        "details": "The purpose of the Atal Mission for Rejuvenation and Urban Transformation (AMRUT) is to ensure that every household has access to a tap with the assured supply of water and a sewerage connection, increase the amenity value of cities by developing greenery and well-maintained open spaces, and reduce pollution by switching to public transport or constructing facilities for non-motorized transport.",
+        "benefits": [
+            "Water supply systems including augmentation of existing water supply",
+            "Rehabilitation of old water supply systems",
+            "Decentralised, networked underground sewerage systems",
+            "Recycling of water for beneficial purposes",
+            "Construction and improvement of drains and storm water drains",
+            "Development of green space and parks"
+        ],
+        "eligibility": [
+            "Open scheme with no specific eligibility requirements",
+            "Applicable to selected cities with a population of over one lakh"
+        ],
+        "exclusions": [
+            "Purchase of land for projects",
+            "Staff salaries of State Governments/ULBs",
+            "Power, Telecom, Health, Education expenses"
+        ],
+        "application_process": "The applicant need not apply for the scheme. Projects will be executed by Urban Local Bodies (ULBs).",
+        "documents_required": [
+            "No documents required for the scheme"
+        ],
+        "faqs": [
+            {
+                "question": "Is my city listed in the 500 cities selected for AMRUT Mission?",
+                "answer": "You can check the list of cities here: http://amrut.gov.in/content/citiescovered_map.php"
+            },
+            {
+                "question": "Can the ULB hire consultant for the SLIP preparation?",
+                "answer": "The MoHUA has simplified the process for SLIP preparation and is also hand-holding the cities."
+            },
+            {
+                "question": "Is there any limit to the project cost for each sector that the ULBs will propose for SLIP?",
+                "answer": "No, but the states/ULBs have to give consideration to the National Priorities of the Mission and the Guidelines."
+            },
+            {
+                "question": "How ULB Will Share 30% In AMRUT?",
+                "answer": "The contribution of State Govt is minimum 20%. There is no upper limit on State share in SAAP."
+            },
+            {
+                "question": "What shall be the general order of prioritization of projects in water and sewerage sector?",
+                "answer": "Universal coverage of water supply shall be given top priority."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/amrut"
+            }
+        ],
+        "tags": [
+            "Urban Development",
+            "Water Supply",
+            "Sewerage Management",
+            "Green Spaces",
+            "Public Transport"
+        ]
+    }
+}

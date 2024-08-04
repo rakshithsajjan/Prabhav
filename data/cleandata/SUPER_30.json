@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "SUPER 30",
+        "state": "Tripura",
+        "department": "Directorate of Secondary Education",
+        "type": "Coaching",
+        "beneficiary": "Students appearing for class 10th Board Final Examination",
+        "details": "The scheme 'Super 30' was launched by the Directorate of Secondary Education, Government of Tripura. The scheme aims to provide free coaching for JEE/ NEET to the students who are appearing in the class 10th Board Final Examination and want to pursue Science Stream in Class 11th & 12th with the aspiration to crack the JEE / NEET exam.",
+        "benefits": [
+            "Covers coaching fees (capped at \u20b91,00,000/-)",
+            "Covers accommodation fees of \u20b91,40,000/- per annum (with 5% extra in 2nd year)"
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Tripura.",
+            "The applicant should be a student.",
+            "The applicant should belong to the Scheduled Tribe (ST)/ Scheduled Caste (SC)/ Person with Disability (PH) community.",
+            "The student should have passed the class-10th Pre-Board/ Pre-Test Exam from the government-recognized school of Tripura with 50% marks.",
+            "The applicant should be appearing for the class 10th board final exam.",
+            "The annual income of the family of the applicant should not exceed \u20b91,00,000/-."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Original Income Certificate issued by the Sub-Divisional Magistrate (SDM)/ Deputy Commissioner of Magistrate (DCM).",
+            "Online generated Selection Test Admit Card.",
+            "Class X Board final mark sheet (60% and above marks applicable) including production of original marksheets.",
+            "SC/ ST/ PH Certificate (if any).",
+            "Permanent Resident Tripura Certificate (PRTC).",
+            "Any other document, as required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the benefit provided under the Super 30 Scheme?",
+                "answer": "Under the Super 30 Scheme, selected students may choose any nationally reputed Coaching Institution outside Tripura for a two-year coaching program for JEE/NEET, with capped coaching and accommodation fees."
+            },
+            {
+                "question": "Who is eligible to apply for the Super 30 Scheme?",
+                "answer": "Eligibility for the Super 30 Scheme includes being a resident of Tripura, a student from Scheduled Tribe (ST)/Scheduled Caste (SC)/Person with Disability (PH) community, passing the class 10th Pre-Board/Pre-Test Exam from recognized schools in Tripura with 50% marks, and the family's annual income not exceeding \u20b91,00,000."
+            },
+            {
+                "question": "What is the selection procedure for students under the Super 30 Scheme?",
+                "answer": "Selection for the Super 30 Scheme is based on the student's rank in the Selection Test and adherence to State Reservation Norms."
+            },
+            {
+                "question": "Are there any reserved seats for specially-abled students in the Super 30 Scheme?",
+                "answer": "Yes, one reserved seat is allocated for specially-abled (Divyang) students under the Super 30 Scheme."
+            },
+            {
+                "question": "Can students from other states apply for the Super 30 Scheme?",
+                "answer": "No, only students from Tripura are eligible to apply for the Super 30 Scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schooleducation.tripura.gov.in/sites/default/files/S%2030%20Notification%20%281%29.pdf"
+            }
+        ],
+        "tags": [
+            "Coaching",
+            "Education",
+            "JEE",
+            "NEET",
+            "School",
+            "Student"
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Rupashree Prakalpa",
+        "state": "West Bengal",
+        "department": "Department Of Women & Child Development And Social Welfare",
+        "type": "Grant",
+        "beneficiary": "Economically disadvantaged families",
+        "details": "The Rupashree Prakalpa Scheme is a social welfare scheme launched by the Government of West Bengal, India, in 2018. The scheme aims to provide one-time financial assistance to economically disadvantaged families of the state for the marriage of their daughters. The scheme is an important initiative that aims to provide financial assistance to girls' families who are economically weaker, so that they can celebrate their daughter's marriage with dignity and without financial burden.",
+        "benefits": [
+            "Financial Assistance of Rs. 25,000 for marriage expenses",
+            "Ensures dignity for economically weaker families",
+            "Encourages girls to continue their education",
+            "Easy application process",
+            "Timely assistance for wedding expenses"
+        ],
+        "eligibility": [
+            "The girl child must be a resident of West Bengal",
+            "Family's annual income should be less than or equal to Rs. 1.5 lakhs",
+            "The girl must be 18 years of age or above",
+            "The proposed marriage must be her first marriage",
+            "The girl must have completed at least 10th standard or equivalent education",
+            "The family can apply for the marriage of only two daughters"
+        ],
+        "exclusions": [
+            "Families with annual income above Rs. 1.5 lakhs",
+            "Families with more than two daughters",
+            "Marriages outside West Bengal",
+            "Non-compliance with educational mandate",
+            "Non-compliance with application requirements"
+        ],
+        "application_process": "The application can be submitted offline at designated offices or online. The application form must be submitted at least 30 days before the marriage date and up to one year after the marriage date.",
+        "documents_required": [
+            "Birth Certificate",
+            "Identity Proof",
+            "Income Certificate",
+            "Marriage Invitation Card or Declaration",
+            "Proof of Residence",
+            "Bank Account Details"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the Rupashree Prakalpa Scheme?",
+                "answer": "The Rupashree Prakalpa Scheme aims to provide financial assistance to economically disadvantaged families for the marriage of their daughters."
+            },
+            {
+                "question": "Who is eligible to apply for the scheme?",
+                "answer": "The scheme is open to unmarried girls from families with an annual income of up to Rs. 1.5 lakhs."
+            },
+            {
+                "question": "What is the financial assistance provided under the scheme?",
+                "answer": "The scheme provides a one-time grant of Rs. 25,000 to the beneficiary's family to support the expenses related to their daughter's marriage."
+            },
+            {
+                "question": "How can I apply for the scheme?",
+                "answer": "The application for the scheme can be completed online or offline. The application form can be obtained from the nearest office of the Block Development Officer or Municipality."
+            },
+            {
+                "question": "What documents are required to apply for the scheme?",
+                "answer": "The necessary documents required to apply for the scheme include a birth certificate, identity proof, income certificate, and marriage invitation card or declaration."
+            },
+            {
+                "question": "How is the financial assistance disbursed?",
+                "answer": "The financial assistance is directly transferred to the bank account of the beneficiary's family after the application is approved."
+            },
+            {
+                "question": "Is there any age limit for the beneficiary to avail of the scheme?",
+                "answer": "No, there is no age limit for the beneficiary to avail of the scheme. The minimum is 18 years."
+            },
+            {
+                "question": "Can a family apply for financial assistance for the marriage of more than one daughter?",
+                "answer": "Yes, a family can apply for financial assistance for the marriage of up to two daughters."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Website",
+                "url": "http://wbcdwdsw.gov.in/User/rupashree_prakalpa"
+            },
+            {
+                "type": "Rupashree form",
+                "url": "https://wbrupashree.gov.in/admin/searchapplicant_public/User_manual/rp_application_form"
+            },
+            {
+                "type": "FAQ : Rupashree Prakalpa",
+                "url": "https://wbrupashree.gov.in/admin/searchapplicant_public/User_manual/faq_eng"
+            },
+            {
+                "type": "SOP for Rupashree Prakalpa",
+                "url": "https://wbrupashree.gov.in/admin/searchapplicant_public/User_manual/sop_dsrp"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Marriage",
+            "Social Welfare",
+            "Women Empowerment",
+            "West Bengal"
+        ]
+    }
+}

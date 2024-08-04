@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Financial Assistance to Former Sports Person of UP",
+        "state": "Uttar Pradesh",
+        "department": "Department of Sports, Government of Uttar Pradesh",
+        "type": "Financial Assistance",
+        "beneficiary": "Former Sports Persons of Uttar Pradesh",
+        "details": "The scheme 'Financial Assistance to Former Sports Person of UP' was launched by the Department of Sports, Government of Uttar Pradesh to provide financial assistance to sports persons who are old, weak, or facing hardships, under a scheme for the welfare of sports person of the state. Financial assistance is provided to such old sports persons who had brought glory to the name of the state in their youth with their sports performance.",
+        "benefits": [
+            "State-level sports persons who have represented the official team of the state: \u20b92,000/- per month",
+            "National level sports persons who have represented the official national team: \u20b93,000/- per month",
+            "International level sports persons who were members of the official national team and represented the country in the Olympics, Commonwealth, Asian games, and World Cup tournaments: \u20b95,000/- per month",
+            "Sports persons awarded with the Arjun award, Dronacharya award, and Khel Ratna award or the sports persons awarded with Padma Shree and Padma Bhushan based on their achievements in the sports field: \u20b920,000/- per month"
+        ],
+        "eligibility": [
+            "The sportsperson should be a domicile of Uttar Pradesh.",
+            "The sports persons who are old, weak, or facing hardships and whose monthly income from all sources is not more than \u20b910,000/- are eligible to apply under the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. To avail of the benefit of this scheme, the applicant can download the application form from the official website of the Department of Sports, Government of Uttar Pradesh. The duly filled application form along with necessary supporting documents has to be submitted to the respective sports officer of the concerned district.",
+        "documents_required": [
+            "Identify proof",
+            "Proof of age i.e. Birth certificate",
+            "Income certificate",
+            "Domicile certificate",
+            "Disability Certificate, if applicable",
+            "Details of Sports competition/Championships of State, National & International importance covered by the applicant including profiles of Sports persons (Supporting documents)",
+            "Any other relevant documents, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of this scheme?",
+                "answer": "The objective of the scheme is to provide financial assistance to elderly, weak, or hardship-stricken sports persons who brought honor to the state in their youth, fostering their welfare and recognizing their past contributions."
+            },
+            {
+                "question": "Who is eligible to receive financial assistance under this scheme?",
+                "answer": "Former sports persons of Uttar Pradesh who are facing difficulties in their old age are eligible for financial assistance under this scheme."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "The financial assistance is categorized based on the level of representation and achievements of the sports person: 1. State-level sports persons who represented the official state team will receive \u20b92,000/- per month. 2. National level sports persons who represented the official national team will receive \u20b93,000/- per month. 3. International level sports persons who were part of the official national team and represented the country in events like Olympics, Commonwealth, Asian Games, and World Cup tournaments will receive \u20b95,000/- per month. 4. Sports persons honored with awards like Arjun Award, Dronacharya Award, and Khel Ratna Award or those awarded with Padma Shree and Padma Bhushan based on their sports achievements will receive \u20b920,000/- per month."
+            },
+            {
+                "question": "How often is the financial assistance disbursed?",
+                "answer": "The financial assistance is disbursed on a monthly basis."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department of Sports, Government of Uttar Pradesh."
+            },
+            {
+                "question": "Is there an income limit to apply under the scheme?",
+                "answer": "Yes, the monthly income of the sportsperson should not exceed \u20b910,000/-."
+            },
+            {
+                "question": "Can sports persons from other states apply for assistance under this scheme?",
+                "answer": "No, the scheme is exclusively for the domicile of Uttar Pradesh. Only sports persons who are residents of the state are eligible to apply for financial assistance."
+            },
+            {
+                "question": "How can I apply for the financial assistance?",
+                "answer": "To avail of the benefit of this scheme, the applicant can fill out the form and submit it to the respective sports officer of the district. The applicant can download the application form from the official website of the Department of Sports, Government of Uttar Pradesh."
+            },
+            {
+                "question": "Can I submit my application online?",
+                "answer": "No, the mode of application is offline."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://upsports.gov.in/pages/en/enmenu/e-citizen/policies/financial-aid/en-10-renowned-sportsperons"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://upsports.gov.in/site/writereaddata/siteContent/department/201608101230027577sports_2.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Sports",
+            "Uttar Pradesh",
+            "Welfare"
+        ]
+    }
+}

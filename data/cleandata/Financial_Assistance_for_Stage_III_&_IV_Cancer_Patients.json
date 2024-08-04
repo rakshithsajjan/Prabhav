@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Financial Assistance for Stage III & IV Cancer Patients",
+        "state": "Haryana",
+        "department": "Social Justice and Empowerment Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Cancer Patient",
+        "details": "The scheme 'Financial Assistance for Stage III & IV Cancer Patients' was launched by the Social Justice and Empowerment Department, Government of Haryana. Under this scheme, monthly financial assistance/pension of \u20b93,000/- will be provided to Stage III and IV cancer patients of Haryana from 01.01.2024. The scheme will be applicable for all age groups, Stage III, and IV cancer patients throughout the State of Haryana. The financial assistance provided under this scheme will be in addition to the benefits received by the applicant under any other social security pension scheme. This scheme shall come into operation from the date of its publication in the official Gazette.",
+        "benefits": [
+            "Financial assistance/pension of \u20b93,000/- per month will be provided to Stage III and IV cancer patients starting from 01.01.2024."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a bonafide resident of Haryana as per Government instructions issued from time to time.",
+            "The applicant should have Parivar Pehchan Patar (PPP) - Family ID.",
+            "All Stage III & IV cancer patients will be eligible under the scheme.",
+            "Cancer patients whose family income is less than \u20b93,00,000/- per annum, except the amount of other Social Security Pension Schemes will be eligible."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Age Proof (Any one of the following): Date of Birth Certificate, School Certificate, Voter Card, Voter list which shows the name of the applicant along with his/her photograph (issued by Election Department, Haryana)",
+            "Residential Proof (Any one of the following self-attested documents issued prior to 15 years): Ration Card, Voter Card, Voter list which shows the name of the applicant along with his/her Photograph",
+            "Other Documents: Aadhaar Card (Optional), Saving Bank account details of the applicant with a photocopy of the passbook."
+        ],
+        "faqs": [
+            {
+                "question": "Who implements this scheme?",
+                "answer": "Directorate of Social Justice and Empowerment, Government of Haryana"
+            },
+            {
+                "question": "When will the scheme start?",
+                "answer": "The scheme will commence on 1st January, 2024."
+            },
+            {
+                "question": "Who is eligible for the scheme?",
+                "answer": "Stage III and IV cancer patients who are bonafide residents of Haryana, with a family income of less than \u20b93,00,000/- per annum, and have a Parivar Pehchan Patar (PPP) - Family ID."
+            },
+            {
+                "question": "Is there an age limit for applicants?",
+                "answer": "No, the scheme is applicable to cancer patients of all age groups."
+            },
+            {
+                "question": "Can beneficiaries of other social security pensions apply for this scheme?",
+                "answer": "Yes, the financial assistance under this scheme is in addition to any other social security pension benefits."
+            },
+            {
+                "question": "What is the monthly financial assistance amount?",
+                "answer": "The monthly financial assistance amount is \u20b93,000/-."
+            },
+            {
+                "question": "What is the purpose of the scheme?",
+                "answer": "The scheme aims to provide financial support to Stage III and IV cancer patients in Haryana to help them manage their expenses."
+            },
+            {
+                "question": "How can one apply for the scheme?",
+                "answer": "Applicants need to visit the Antyodaya-SARAL Portal to apply."
+            },
+            {
+                "question": "Is the scheme applicable statewide?",
+                "answer": "Yes, the scheme is applicable throughout the State of Haryana."
+            },
+            {
+                "question": "Can non-residents of Haryana apply for this scheme?",
+                "answer": "No, only bonafide residents of Haryana can apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://socialjusticehry.gov.in/financial-assistance-for-stage-iii-iv-cancer-patients-2/"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=pfW1CDqAOkj8PajdyLECdw%3d%3d"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/login.do"
+            }
+        ],
+        "tags": [
+            "Cancer Patient",
+            "Financial Assistance",
+            "Pension",
+            "Stage III",
+            "Stage IV"
+        ]
+    }
+}

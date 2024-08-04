@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Persons With Disabilities Scheme In Colleges: Higher Education For Persons With Special Needs",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Grant",
+        "beneficiary": "Differently-abled persons",
+        "details": "The Higher Education for Persons with Special Needs (HEPSN) scheme is meant for creating an environment at higher education institutions to enrich the higher education learning experiences of differently-abled persons. Creating awareness about the capabilities of differently-abled persons, construction aimed at improving accessibility, purchase of equipment to enrich learning, etc., are the broad categories of assistance under this scheme.",
+        "benefits": [
+            "Establishment of Enabling Units for differently-abled Persons",
+            "Providing Access to Differently-abled Persons",
+            "Providing Special Equipment to Augment Educational Services for Differently-abled Persons"
+        ],
+        "eligibility": [
+            "The college applying for a grant should have enrolled disabled persons, including persons with visual impairment, hearing impairment, locomotor disability, etc.",
+            "Institutions applying for the scheme should have been approved by the UGC under Sections 2(f) and 12 B.",
+            "The college should have constituted an expert committee involving faculty members, experts in the field and differently-abled persons."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Application for specific projects should be sent in the prescribed Proforma for financial assistance under the scheme.",
+        "documents_required": [
+            "Aadhaar Card",
+            "2-Passport Sized Photograph (Signed Across)",
+            "Residential Certificate",
+            "Disability Certificate",
+            "Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc)",
+            "Proof of the Latest Educational Qualification (Passing Certificate or Marksheet)",
+            "Bonafide Certificate from the School/College",
+            "Any other document required by the College or the District Social Welfare Office"
+        ],
+        "faqs": [
+            {
+                "question": "What is Higher Education for Persons with Special Needs (HEPSN) scheme?",
+                "answer": "HEPSN stands for Higher Education for Persons with Special Needs. It is a scheme designed to provide inclusive higher education opportunities for individuals with disabilities."
+            },
+            {
+                "question": "Who is eligible for HEPSN?",
+                "answer": "The eligibility criteria for Higher Education For Persons With Special Needs (HEPSN) may vary depending on the country or region. Generally, individuals with recognized disabilities, such as physical disabilities, visual impairments, hearing impairments, learning disabilities, or intellectual disabilities, are eligible to apply for the scheme."
+            },
+            {
+                "question": "How can I apply for HEPSN?",
+                "answer": "The application process for HEPSN depends on the specific guidelines and procedures established by the implementing authority. Typically, you would need to fill out an application form and submit it along with the required documents."
+            },
+            {
+                "question": "What support services are provided under HEPSN?",
+                "answer": "HEPSN offers various support services, which may include accessible infrastructure, assistive technologies, academic accommodations, counseling and guidance, mentoring, and career support."
+            },
+            {
+                "question": "Are scholarships available under HEPSN?",
+                "answer": "In some cases, HEPSN schemes may provide scholarships or financial assistance to students with disabilities to help alleviate the financial burden of higher education."
+            },
+            {
+                "question": "Are there any reserved seats or quotas for students with disabilities under HEPSN?",
+                "answer": "Some HEPSN schemes may allocate reserved seats or quotas for students with disabilities in educational institutions."
+            },
+            {
+                "question": "Can I receive assistance in obtaining disability certificates or documentation?",
+                "answer": "Enabling units or support centers established under the HEPSN scheme often assist students with disabilities in obtaining the necessary disability certificates or documentation required for their application."
+            },
+            {
+                "question": "Are there any specific guidelines for inclusive curriculum and teaching practices under HEPSN?",
+                "answer": "HEPSN promotes inclusive curriculum and teaching practices to cater to the diverse learning needs of students with disabilities."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://www.ugc.gov.in/pdfnews/1112642_Person-with-Disability-guidelines.pdf"
+            }
+        ],
+        "tags": [
+            "Higher Education",
+            "Persons With Disabilities",
+            "Inclusion",
+            "Accessibility"
+        ]
+    }
+}

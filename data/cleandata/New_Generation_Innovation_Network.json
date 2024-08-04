@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "New Generation Innovation Network",
+        "state": "Tripura",
+        "department": "Directorate of Information Technology",
+        "type": "Grant",
+        "beneficiary": "Educational Institutions",
+        "details": "The Scheme \u201cNew Generation Innovation Network (NGIN)\u201d was launched by the Directorate of Information Technology, Government of Tripura with the vision to create an ecosystem to promote innovations in educational institutions and transform student ideas & concepts into successful business enterprises.",
+        "benefits": [
+            "One-time grant of \u20b910 lakhs to set up required infrastructure.",
+            "Funding of \u20b95 Lakhs per year for operational expenses.",
+            "Maximum funding of \u20b91.00 lakh for each project/team."
+        ],
+        "eligibility": [
+            "All Technical Institutes in Tripura are eligible.",
+            "Host institutes selected based on infrastructure, quality of faculty, and excellence in education."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Details of the Principal of the Institute",
+            "List/Details of Management Committee Members of the institute",
+            "Documents in support of Infrastructure details",
+            "List/Details of Faculty",
+            "List/details of Research Activities in the institute",
+            "Any other document, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the \u201cNew Generation Innovation Network (NGIN)\u201d Scheme?",
+                "answer": "NGIN is a scheme fostering innovation in Tripura's educational institutions, encouraging students and alumni to address local problems with frugal innovation."
+            },
+            {
+                "question": "Who can participate in NGIN?",
+                "answer": "The Tripura's educational institutions are eligible to participate."
+            },
+            {
+                "question": "What is the primary objective of the scheme?",
+                "answer": "To create an ecosystem promoting innovation, convert ideas into proof of concept, and guide teams towards establishing viable businesses."
+            },
+            {
+                "question": "How is this scheme implemented?",
+                "answer": "The scheme is implemented in phases, starting with Technical Degree colleges. Collaborative efforts with the Directorate of Information Technology are funded through the Tripura IT/ITeS Start-up Scheme."
+            },
+            {
+                "question": "How are institutions selected under the scheme?",
+                "answer": "Institutions are selected based on infrastructure, faculty quality, and educational excellence, reviewed by a State-level Committee."
+            },
+            {
+                "question": "What is the duration of the scheme?",
+                "answer": "The duration of the scheme will be the same as the duration of the Tripura IT/ITeS Start-up Scheme (3 years). After that, the institute will find other sources of funding."
+            },
+            {
+                "question": "What are the eligibility criteria for host institutes?",
+                "answer": "Institutes must meet infrastructure requirements and have a qualified Start-up coordinator. Selection is based on infrastructure, faculty quality, and educational excellence."
+            },
+            {
+                "question": "Can Polytechnic Institutes and Govt. Degree Colleges apply under the scheme?",
+                "answer": "Yes, Polytechnic Institute & General Govt. Degree Colleges will be selected based on the number of IT-related courses offered by the college and the strength of the student in those courses should be more than 100."
+            },
+            {
+                "question": "How can institutions apply for NGIN?",
+                "answer": "The application form will be collected with necessary documents from the Head of the Institution."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://dit.tripura.gov.in/search/node/GENERATION"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://startup.tripura.gov.in/sites/default/files/NGIN_Guidelines_Final.pdf"
+            },
+            {
+                "type": "Notification",
+                "url": "https://tripura.gov.in/sites/default/files/Notification_Innovation_13_07_2021.pdf"
+            }
+        ],
+        "tags": [
+            "Innovation",
+            "Grant",
+            "Infrastructure",
+            "Educational Institution"
+        ]
+    }
+}

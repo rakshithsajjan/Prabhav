@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Goa Welfare / Pension Scheme For Seafarers",
+        "state": "Goa",
+        "department": "Home Department, Government of Goa",
+        "type": "Pension",
+        "beneficiary": "Seafarers and their widows",
+        "details": "The 'Goa Welfare / Pension Scheme for Seafarers, 2021' provides financial assistance to eligible seafarers and their widows. The scheme came into effect on June 18, 2021, and was scheduled to remain in force until November 30, 2021.",
+        "benefits": [
+            "Gross Pension of \u20b92,500 per month"
+        ],
+        "eligibility": [
+            "Applicants must be bona fide residents of Goa by birth or have their birth registered in Goa.",
+            "At least one parent of the applicant should have been born in Goa.",
+            "Seamen invalidated from sea service on medical grounds before retirement are exempt from the 120-month service requirement.",
+            "Applicants must be Indian citizens."
+        ],
+        "exclusions": [
+            "Non-Indian citizens are not eligible for this pension.",
+            "Widows of deceased Seamen must have been residents of Goa for 15 years."
+        ],
+        "application_process": "Beneficiaries can communicate the savings bank account of the nationalized bank in which they want their pension to be credited to the Sanctioning Authority upon receiving the sanction letter.",
+        "documents_required": [
+            "Proof of residency in Goa",
+            "Birth certificate or registration proof",
+            "Service records for seafarers"
+        ],
+        "faqs": [
+            {
+                "question": "Can beneficiaries choose the nationalized bank in which they want their pension to be credited?",
+                "answer": "Yes, beneficiaries can communicate the savings bank account of the nationalized bank in which they want their pension to be credited to the Sanctioning Authority upon receiving the sanction letter."
+            },
+            {
+                "question": "Can applicants who have served less than 120 months of actual service on board a ship qualify for this pension if they were invalidated from sea service on medical grounds before retirement?",
+                "answer": "Yes, applicants who were invalidated from sea service on medical grounds before retirement are exempt from the 120-month service requirement."
+            },
+            {
+                "question": "What if an applicant's birth was not registered in Goa, and neither of their parents was born in Goa? Can they still be eligible?",
+                "answer": "To be eligible, the applicant should either be born in Goa or have their birth registered in Goa. Additionally, at least one of their parents should have been born in Goa."
+            },
+            {
+                "question": "Can applicants who are not Indian citizens qualify for this pension?",
+                "answer": "No, the scheme specifies that the applicant should be a citizen of India, so non-Indian citizens are not eligible for this pension."
+            },
+            {
+                "question": "Is there any flexibility regarding the 15-year residency requirement for widows?",
+                "answer": "There is no flexibility mentioned in the scheme regarding the 15-year residency requirement for widows. It appears to be a strict requirement."
+            },
+            {
+                "question": "Can widows of deceased Seamen who were not residents of Goa qualify for this pension?",
+                "answer": "No, widows of deceased Seamen must have been residents of Goa for 15 years to be eligible for this pension."
+            },
+            {
+                "question": "Is there a minimum number of years of sea service required for seamen invalidated from sea service on medical grounds before retirement to be eligible?",
+                "answer": "Unlike other retired seamen, there is no specified minimum number of years of sea service required for seamen invalidated from sea service on medical grounds before retirement to be eligible."
+            },
+            {
+                "question": "Can seamen who were invalidated from sea service on medical grounds before reaching the age of 60 still qualify for this pension?",
+                "answer": "Yes, seamen who were invalidated from sea service on medical grounds before retirement can qualify for this pension, provided they meet the other eligibility criteria."
+            },
+            {
+                "question": "Are there any specific criteria that seamen need to meet to be considered 'retired' for the purposes of this pension scheme?",
+                "answer": "To be considered 'retired' for this pension scheme, seamen must have completed their service on board a ship and officially retired from that employment."
+            },
+            {
+                "question": "Who has the final authority in decisions related to this scheme, and what is the role of the Commissioner?",
+                "answer": "The Commissioner for NRI Affairs appointed by the Government has the final authority in decisions related to this scheme. The Commissioner approves recommendations made by the sanctioning authority, and their decisions are final and binding."
+            },
+            {
+                "question": "How is the pension amount disbursed to beneficiaries, and what is the schedule for disbursement?",
+                "answer": "The pension amount is remitted directly into the savings bank account of the beneficiary on the last working day of every month."
+            },
+            {
+                "question": "Is there a minimum period of service on board a ship that retired seamen need to fulfill to be eligible for this pension?",
+                "answer": "Retired seamen should have rendered a total of 120 months (10 years) of actual service on board a ship. A break in service up to six months can be condoned while computing the total period of service."
+            },
+            {
+                "question": "What are the residency requirements for applicants, and are there any exceptions to these requirements?",
+                "answer": "Applicants should be bona fide residents of Goa by birth. If not, their birth should have been registered in Goa, or at least one of their parents should have been born in Goa."
+            },
+            {
+                "question": "What does this scheme offer to its beneficiaries, and what is the amount of the pension provided?",
+                "answer": "This scheme provides a Gross Pension of \u20b92,500 per month to eligible beneficiaries."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/gwpss"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Seafarers",
+            "Goa",
+            "Welfare Scheme"
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Uchchatar Shiksha Protsahan Yojana: Central Sector Interest Subsidy Scheme",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Interest Subsidy",
+        "beneficiary": "Economically Weaker Sections",
+        "details": "The scheme provides full interest subsidy during the moratorium period on loans availed under the Model Education Loan Scheme of the Indian Banks\u2019 Association (IBA) to students belonging to economically weaker sections whose annual parental income is up to \u20b94.5 Lakhs from all sources. The subsidy is allowed for pursuing higher education in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Centrally Funded Technical Institutions (CFTIs) in India.",
+        "benefits": [
+            "Interest subsidy on education loans for a maximum amount of \u20b910 lakhs.",
+            "No collateral security or third-party guarantee is required for Education Loans sanctioned up to \u20b97.5 lakhs.",
+            "Interest subsidy is allowed for pursuing higher education in professional/technical courses only from accredited institutions."
+        ],
+        "eligibility": [
+            "Education Loans taken under the IBA Model Education Loan Scheme.",
+            "Students belonging to economically weaker sections having gross parental/family income up to \u20b94.5 lakhs per annum.",
+            "Students enrolled in professional/technical courses from accredited institutions.",
+            "Admissible only once either for Undergraduate or Post Graduate degree courses."
+        ],
+        "exclusions": [
+            "Students availing any other Central/State Government Scholarship or Fee reimbursement.",
+            "Students who discontinue their course midstream or are expelled from the Institution on disciplinary or academic grounds."
+        ],
+        "application_process": "To apply under the scheme, the eligible student has to visit the nearest Bank branch office from where he/she has availed the facility of Education Loan for studying from a recognized institute in India.",
+        "documents_required": [
+            "Identity proof i.e Aadhaar Card",
+            "PAN Card",
+            "Income proof (Issued by Competent Authority)",
+            "Educational Certificates",
+            "Proof of admission to the course",
+            "Bank account details",
+            "Any other documents, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of 'Central Sector Interest Subsidy Scheme (CSIS)'?",
+                "answer": "CSIS is a unique scheme which pivots around the vision that no student desiring to pursue higher education is denied of the opportunity if he/she is financially poor."
+            },
+            {
+                "question": "Who is eligible for the scheme?",
+                "answer": "Students who want to pursue Technical/Professional higher education courses in recognized institutes in India."
+            },
+            {
+                "question": "Is it compulsory to avail education loan for getting interest subsidy benefit?",
+                "answer": "Yes, students who availed of education loans from scheduled commercial banks under the Model Education Loan Scheme of IBA are eligible for the interest subsidy."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/pmusp_csis.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.education.gov.in/scholarships-education-loan-4"
+            },
+            {
+                "type": "Guidelines- 2018",
+                "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/CSIS%20-%20NewGuidelines.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/IBAM.pdf"
+            },
+            {
+                "type": "Jan Samarth",
+                "url": "https://www.jansamarth.in/home"
+            },
+            {
+                "type": "Vidya Lakshmi Portal",
+                "url": "https://www.vidyalakshmi.co.in/Students/login#studentlogin"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Interest Subsidy",
+            "Economically Weaker Sections",
+            "Higher Education"
+        ]
+    }
+}

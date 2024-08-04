@@ -1,0 +1,107 @@
+{
+    "content": {
+        "title": "Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases",
+        "state": "Puducherry",
+        "department": "Adi Dravidar Welfare Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Poor Scheduled Caste People suffering from prolonged diseases",
+        "details": "The scheme 'Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide assistance to poor patients from Scheduled Castes who are suffering from prolonged illness and unable to earn their livelihood.",
+        "benefits": [
+            "Financial Assistance of \u20b9500/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should have resided continuously in the Union Territory of Puducherry for at least five years.",
+            "The applicant should be from Scheduled Caste.",
+            "The applicant should be at least 18 years of age.",
+            "The annual income of the applicant should not be more than \u20b92,00,000/-."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Residence-cum-nativity Certificate.",
+            "Aadhaar Card.",
+            "Voter Card.",
+            "Caste Certificate.",
+            "Recent Passport-Size Photograph.",
+            "Bank Passbook.",
+            "Income Certificate.",
+            "Medical Certificate.",
+            "Ration Card."
+        ],
+        "faqs": [
+            {
+                "question": "Where can one track the status of their application for financial assistance?",
+                "answer": "The status of the application can be tracked at https://edistrict.py.gov.in/User/TrackApplication.aspx."
+            },
+            {
+                "question": "In the absence of an Aadhaar Card, what alternative documents can be submitted for application?",
+                "answer": "If an Aadhaar Card is unavailable, applicants can submit Aadhaar Enrolment ID along with documents like Bank Passbook, PAN Card, Passport, Voter Identity Card, or others specified by the Department."
+            },
+            {
+                "question": "Is there a contact point for further inquiries or assistance regarding the scheme?",
+                "answer": "For any queries or assistance, individuals can visit https://adwelfare.py.gov.in/contact-us."
+            },
+            {
+                "question": "Can a person from a Scheduled Caste residing outside Puducherry apply for this scheme?",
+                "answer": "No, applicants must have continuous residence in the Union Territory of Puducherry for at least five years to be eligible."
+            },
+            {
+                "question": "What is the duration of financial assistance provided to eligible beneficiaries?",
+                "answer": "Eligible beneficiaries receive a monthly financial assistance of \u20b9500/- for the duration of their prolonged illness."
+            },
+            {
+                "question": "Are there any specific guidelines regarding the submission of photographs for the application?",
+                "answer": "Recent Passport-Size Photographs are required to be submitted along with the application."
+            },
+            {
+                "question": "Can a person above 60 years of age apply for financial assistance under this scheme?",
+                "answer": "Yes, as long as the applicant is at least 18 years old, there is no upper age limit specified for eligibility."
+            },
+            {
+                "question": "Is There Any Compensation For The Delay In The Disbursal Of The Scheme Benefits?",
+                "answer": "The guidelines do not mention any provision for compensation in the event of delayed disbursement of scheme benefits."
+            },
+            {
+                "question": "Are there any specific provisions for Transgenders under this scheme?",
+                "answer": "No provisions for Transgenders are mentioned in the guidelines of this scheme."
+            },
+            {
+                "question": "Can Applicants From The Neighboring States/UTs Also Apply To This Scheme?",
+                "answer": "Unfortunately, this scheme is exclusively available to permanent residents of the Puducherry."
+            },
+            {
+                "question": "Is there an application deadline for this scheme?",
+                "answer": "The scheme guidelines do not mention any opening date or closing date for applications."
+            },
+            {
+                "question": "Are there any specific provisions for persons with disabilities under this scheme?",
+                "answer": "No provisions for persons with disabilities are mentioned in the guidelines of this scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://py.gov.in/sites/default/files/adwfinancial-assistance-poor-s.c.people-suffering-prolonged-diseases.pdf"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://py.gov.in/sites/default/files/citizencharter-adidravidar.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://adwelfare.py.gov.in/contact-us"
+            },
+            {
+                "type": "Track Your Application",
+                "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Scheduled Caste",
+            "Health",
+            "Puducherry"
+        ]
+    }
+}

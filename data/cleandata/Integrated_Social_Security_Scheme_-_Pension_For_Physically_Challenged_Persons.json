@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Integrated Social Security Scheme - Pension For Physically Challenged Persons",
+        "state": "Jammu and Kashmir",
+        "department": "Social Welfare Department",
+        "type": "Pension",
+        "beneficiary": "Physically Challenged Persons",
+        "details": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. Under the 'Pension for Physically Challenged Person' component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Physically Challenged Pensioners who have meager support or no source of livelihood.",
+        "benefits": [
+            "A pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+        ],
+        "eligibility": [
+            "The age of applicant should be between 18 and 79 years.",
+            "The applicant should have severe or multiple disabilities with a disability percentage of at least 40%.",
+            "The income of the applicant should be less than \u20b9 75,000/- per annum or the applicant should be from the 'Below Poverty Line (BPL)' Category."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The application forms are available with DSWO/TSWO free of cost. The applicant shall submit the duly filled and signed application form along with the required documents regarding age, income, status, and address, to the concerned Tehsil Social Welfare Officer against proper receipt. Step 2: The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for the arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by the Director General, Social welfare Department, Kashmir. Step 3: The amount is disbursed to the beneficiaries through bank advice/money orders.",
+        "documents_required": [
+            "Proof of Residence (Ration Card / Voter Card, etc.)",
+            "Income Certificate (of less than \u20b9 75,000/- per annum or BPL Category)",
+            "Disability Certificate (40% and above) issued by Medical Board.",
+            "Copy of Aadhaar Card",
+            "Copy of Bank Passbook",
+            "Passport Sized Photograph",
+            "Personal Declaration"
+        ],
+        "faqs": [
+            {
+                "question": "Which Are The Components Of The ISSS (Integrated Social Security Scheme)?",
+                "answer": "The ISSS (Integrated Social Security Scheme) has the following components - a) Pension for Old Age Person b) Pension for Women in Distress c) Pension for Physically Challenged Person d) Pension to Transgenders"
+            },
+            {
+                "question": "What Benefits Are Provided Under The 'Pension For Physically Challenged Persons' Component Of ISSS?",
+                "answer": "Under the 'Pension for Physically Challenged Persons' component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+            },
+            {
+                "question": "What Is The Aim Of The 'Pension For Physically Challenged Persons' Component Of ISSS?",
+                "answer": "The aim of the scheme is to provide monthly financial assistance to Physically Challenged Pensioners who have meager support or no source of livelihood."
+            },
+            {
+                "question": "Is ISSS A Central Scheme Or A State Sponsored Scheme?",
+                "answer": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir."
+            },
+            {
+                "question": "Who Are The Beneficiaries Of ISSS?",
+                "answer": "The Beneficiaries Of ISSS can be Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons."
+            },
+            {
+                "question": "Is There An Income Criteria For ISSS 'Pension For Physically Challenged Persons'?",
+                "answer": "Yes, the income of the applicant should be less than Rs. 75,000/- per annum or the applicant should be from the 'Below Poverty Line (BPL)' Category."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines (PDF)",
+                "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+            },
+            {
+                "type": "Guidelines (Social Welfare Dept.)",
+                "url": "https://socialwelfarekashmir.jk.gov.in/PCP.html"
+            },
+            {
+                "type": "Application Form And Documents Required",
+                "url": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Pension",
+            "PwD",
+            "Social Welfare"
+        ]
+    }
+}

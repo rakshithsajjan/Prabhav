@@ -1,0 +1,128 @@
+{
+    "content": {
+        "title": "Bank Tie-Up Scheme",
+        "state": "Punjab",
+        "department": "Social Welfare",
+        "type": "Loan",
+        "beneficiary": "Scheduled Caste",
+        "details": "Through the 'Bank Tie-Up Scheme', the Punjab Scheduled Castes Land Development & Finance Corporation (PSCLDFC) arranges loans through banks, and subsidy is provided by PSCLDFC. The permanent residents of Punjab belonging to Scheduled Castes and living Below Poverty Line are eligible under this scheme. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Punjab can apply for this scheme.",
+        "benefits": [
+            "Subsidy: Capital subsidy upto 50% of the total amount subject to a maximum of \u20b9 10,000/-.",
+            "Sources of Funds: The subsidy is provided by Govt. of India out of SCA.",
+            "Loan: The loan amount is provided by various banks operating in the State.",
+            "Rate of Interest: Charged by the Banks as per RBI guidelines."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a domicile / permanent resident of the state of Punjab.",
+            "The applicant should be from Below Poverty Line (BPL).",
+            "The applicant should be from the Scheduled Caste category.",
+            "The annual income of the family of the applicant (from all sources) should be \u20b9 67,649/- per annum (for rural areas); \u20b9 88,756/- per annum (for urban areas).",
+            "The applicant should not already be availing the benefits of the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: Take a print of the format of the Application Form (Form-I, Form-II) from the official website of the Punjab Scheduled Castes Land Development & Finance Corporation (PSCLDFC). The format of the application form is also available free of cost at the District Offices. Step 2: Fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self-attested) mandatory documents. Step 3: Submit the duly filled and signed application form along with the documents to the District Office. Step 4: Acquire the receipt/acknowledgment of the successful submission of the application form from the District Office.",
+        "documents_required": [
+            "Application form duly attested by competent Authority.",
+            "Residential Certificate / Domicile Certificate of the State of Punjab.",
+            "Caste Certificate.",
+            "Valuation Certificate of property to be mortgaged.",
+            "Map of the Property.",
+            "Farad Zama Bandi.",
+            "A copy of the registry (if the property is self-purchased).",
+            "Affidavit regarding the loan.",
+            "3 Passport-Sized Photograph (Signed Across).",
+            "Employer Certificate, Salary Certificate, and Surety Bond (in the case of Service Surety).",
+            "Aadhaar Card.",
+            "Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc).",
+            "Income Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "How Much Shall Be The Capital Subsidy? Is There An Upper Ceiling?",
+                "answer": "Subsidy: Capital Subsidy upto 50% of the total amount subject to a maximum of \u20b9 10,000/-."
+            },
+            {
+                "question": "What Would Be The Sources Of Funds?",
+                "answer": "Sources of Funds: The subsidy is provided by Govt. of India out of SCA."
+            },
+            {
+                "question": "What Is The Full Form Of SCA?",
+                "answer": "The full form of SCA is 'Special Central Assistance'."
+            },
+            {
+                "question": "By Which Bank Will The Amount Of The Loan Be Provided?",
+                "answer": "The loan amount is provided by various banks operating in the State."
+            },
+            {
+                "question": "What Are The Income Criteria For This Scheme?",
+                "answer": "The annual income of the family of the applicant (from all sources) should be \u20b9 67,649/- per annum (for rural areas); \u20b9 88,756/- per annum (for urban areas)."
+            },
+            {
+                "question": "In Which Case Does The Copy Of The Registry Become A Mandatory Document?",
+                "answer": "The copy of the registry becomes a mandatory document if the property is self-purchased."
+            },
+            {
+                "question": "How Much Shall Be The Rate Of Interest On The Loan?",
+                "answer": "The rate of Interest will be charged by the Banks as per RBI guidelines."
+            },
+            {
+                "question": "Where Can I Find The Link To The Scheme Guidelines?",
+                "answer": "You can find the Scheme Guidelines at this link - https://pbscfc.punjab.gov.in/?q=node/25"
+            },
+            {
+                "question": "Where Can I Find The Link To The Loan Application Form?",
+                "answer": "The Loan Application Form can be found at this link - https://pbscfc.punjab.gov.in/sites/default/files/bank_tieup_scheme_form.pdf and https://pbscfc.punjab.gov.in/sites/default/files/CORPORATION-1-6%20PAGES.PDF"
+            },
+            {
+                "question": "What Is The Full Form Of BPL?",
+                "answer": "The full form of BPL is 'Below Poverty Line'."
+            },
+            {
+                "question": "Is The Residential Certificate / Domicile Certificate Of The State Of Punjab, A Mandatory Document For This Scheme?",
+                "answer": "Yes, the Residential Certificate / Domicile Certificate of the State of Punjab is a mandatory document for this scheme."
+            },
+            {
+                "question": "Can I Reapply To This Scheme If I Am Already Availing The Benefits Of This Scheme?",
+                "answer": "No, you can not reapply to this scheme if you already have availed of its benefits."
+            },
+            {
+                "question": "Is This A State Funded Or A Centrally Funded Scheme?",
+                "answer": "This is a 100% State Funded scheme."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No, the entire application process is entirely free of cost."
+            },
+            {
+                "question": "Is There Any Compensation For The Delay In The Disbursal Of The Scheme Benefits?",
+                "answer": "No, there is no such mention in the scheme guidelines."
+            },
+            {
+                "question": "How Do I Know If A Field In The Application Form Is Mandatory?",
+                "answer": "The mandatory fields have an asterisk (*) mark at the end."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://pbscfc.punjab.gov.in/?q=node/25"
+            },
+            {
+                "type": "Loan Application Form - I",
+                "url": "https://pbscfc.punjab.gov.in/sites/default/files/bank_tieup_scheme_form.pdf"
+            },
+            {
+                "type": "Loan Application Form - II",
+                "url": "https://pbscfc.punjab.gov.in/sites/default/files/CORPORATION-1-6%20PAGES.PDF"
+            }
+        ],
+        "tags": [
+            "Below Poverty Line",
+            "Loan",
+            "Scheduled Caste",
+            "Social Welfare",
+            "Subsidy"
+        ]
+    }
+}

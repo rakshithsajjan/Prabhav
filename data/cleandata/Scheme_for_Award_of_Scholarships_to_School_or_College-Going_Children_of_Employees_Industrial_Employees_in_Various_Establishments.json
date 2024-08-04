@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Scheme for Award of Scholarships to School or College-Going Children of Employees/Industrial Employees in Various Establishments",
+        "state": "Goa",
+        "department": "Department of Labour and Employment, Goa",
+        "type": "Scholarship",
+        "beneficiary": "Children of workers employed in establishments covered under the Goa, Daman & Diu Labour Welfare Fund Act, 1986",
+        "details": "The scheme aims to provide financial assistance to children of workers employed in establishments covered under the Goa, Daman & Diu Labour Welfare Fund Act, 1986. Through this scheme, scholarships are awarded to support the educational pursuits of these children.",
+        "benefits": [
+            "Group 1: \u20b92,000 for Class 5th & 6th",
+            "Group 2: \u20b92,800 for Class 7th, 8th, 9th & 10th",
+            "Group 3: \u20b93,600 for Class 11th, 12th, University Admission Index Supplementary Courses (UAI SC), etc.",
+            "Group 4: \u20b910,000 for Graduation and Post Graduation Degree Courses in Arts, Science, Commerce, and Lower Technical courses",
+            "Group 5: \u20b920,000 for Higher Technical courses, Research, and Doctorate Studies"
+        ],
+        "eligibility": [
+            "The applicant should be a regular worker.",
+            "The applicant should be employed in an industrial establishment for at least six months.",
+            "The industrial establishment should be covered under the Goa, Daman & Diu Labour Welfare Fund Act, 1986.",
+            "The applicant should be performing any skilled or unskilled, manual or clerical labour, other than in a position of supervision or management.",
+            "The total income of the applicant from the salary should not exceed \u20b920,000 per month, including all allowances and perks but exclusive of bonus.",
+            "The child of the applicant should be enrolled in a recognized institution in India.",
+            "The child of the applicant should be pursuing general or technical education, including medical, engineering and agricultural studies.",
+            "The child of the applicant should have qualified for promotion in the last annual examination with at least 45% marks."
+        ],
+        "exclusions": [
+            "Students who, after passing one stage of education are studying in the same stage of education in a different subject.",
+            "Students who after having completed their education career in one professional line continue education in a different professional line."
+        ],
+        "application_process": "The interested applicant should take print of the prescribed format of the application form for the scheme from the Official Website of the Department of Labour and Employment, Goa. Fill in all the mandatory fields, paste the passport-sized photograph (if required), and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form and the documents through their employers or through the Heads of Educational Institutions where their child is studying, to the Secretary, Goa Labour Welfare Board, 4th floor, Shram Shakti Bhavan, Patto Centre, Panaji, Goa - 403 001. The application should reach the Secretary on or before 30th Sept, every year.",
+        "documents_required": [
+            "Certificate from the Owner/Manager/Contractor/Director/Proprietor/Partner/Agent of the Industrial Establishment.",
+            "Certificate from the Head of Institution of the Student.",
+            "Signed Declaration and Undertaking."
+        ],
+        "faqs": [
+            {
+                "question": "What are the employment-related eligibility criteria for applicants?",
+                "answer": "Applicants should have a minimum of six months of continuous employment in the industrial establishment to qualify for the scholarship."
+            },
+            {
+                "question": "Is there any income criterion for applicants to meet?",
+                "answer": "Yes, the total income of the applicant from salary, including all allowances and perks but exclusive of bonus, should not exceed \u20b920,000 per month."
+            },
+            {
+                "question": "Are there any restrictions on the educational institutions where the child should be enrolled?",
+                "answer": "The child of the applicant should be enrolled in a recognized institution in India to be eligible for the scholarship."
+            },
+            {
+                "question": "Are there any academic criteria for the children to meet?",
+                "answer": "Yes, the child of the applicant should have qualified for promotion in the last annual examination with at least 45% marks."
+            },
+            {
+                "question": "What are the different groups and amounts of scholarships provided under the scheme?",
+                "answer": "Scholarships are categorized into five groups, ranging from \u20b92,000 to \u20b920,000, depending on the educational level and course pursued by the child."
+            },
+            {
+                "question": "How is the scholarship amount disbursed to the beneficiaries?",
+                "answer": "The scholarship amount is disbursed annually per student in one installment through the Electronic Clearing Service (ECS) facility directly into the parents' bank account by the Secretary."
+            },
+            {
+                "question": "Are there any reserved categories for the scholarship beneficiaries?",
+                "answer": "Yes, 10% of the total number of scholarships fixed for each group are reserved for specific categories, including children of workers with lower income, children belonging to other backward communities, and physically handicapped children."
+            },
+            {
+                "question": "Are there any exclusions or conditions regarding the continuation of the scholarship for certain students?",
+                "answer": "Yes, students pursuing education in the same stage or line of education may be excluded from receiving the scholarship under specific circumstances, as outlined in the scheme guidelines."
+            },
+            {
+                "question": "Is there any deadline for submitting applications for the scholarship?",
+                "answer": "Applications must reach the Secretary, Goa Labour Welfare Board, on or before 30th September every year to be considered for the scholarship."
+            },
+            {
+                "question": "What actions may result in the discontinuation of the scholarship?",
+                "answer": "If the scholar is found to have obtained the scholarship through false statements or discontinues their studies, the scholarship shall be stopped from the date of such discontinuance."
+            },
+            {
+                "question": "How does changing the subject of study or institution affect the scholarship?",
+                "answer": "If the scholar changes the subject of the course of study or the institution without prior approval from the Secretary, the scholarship may be cancelled."
+            },
+            {
+                "question": "What factors may lead to unsatisfactory progress or misconduct resulting in scholarship cancellation?",
+                "answer": "Failure to make satisfactory progress in studies, irregular attendance, or misconduct during the academic year for which the scholarship was granted may lead to its cancellation."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.myscheme.gov.in/schemes/sasseceie"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "School",
+            "College",
+            "Student",
+            "Worker"
+        ]
+    }
+}

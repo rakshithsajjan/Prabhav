@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Ex-gratia Payment for the Construction Workers",
+        "state": "Delhi",
+        "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Workers",
+        "details": "The 'Ex-gratia Payment for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, an ex-gratia amount of \u20b91,00,000/- is provided to the registered workers of the board in case of permanent disability.",
+        "benefits": [
+            "Ex-gratia payment of \u20b91,00,000/- in case of permanent disability."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Delhi.",
+            "The applicant should be a Building/Construction Worker.",
+            "The applicant should be between 18 and 60 years.",
+            "The applicant should have served the Board for at least 90 days in a given year.",
+            "The applicant should be permanently disabled."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Permanent Disability certificate issued by Govt. Doctor (medical Certificate by committee)."
+        ],
+        "faqs": [
+            {
+                "question": "Which Department of the NCT of Delhi administers this scheme?",
+                "answer": "This scheme is administered by the Labour Department, of the National Capital Territory of Delhi."
+            },
+            {
+                "question": "Where can I find the URL of the Delhi Building and Other Construction Workers Welfare Board?",
+                "answer": "The URL of the Official Website of the Delhi Building and Other Construction Workers Welfare Board is: https://bocw.delhi.gov.in/."
+            },
+            {
+                "question": "Is self-attestation required for attaching documents with the application?",
+                "answer": "Yes, applicants need to self-attest the copies of mandatory documents while submitting the application."
+            },
+            {
+                "question": "What is the URL for the registration of this scheme?",
+                "answer": "The applicants needs to register through clicking on the 'Register' button on DBoCWWB website: https://dbocwwb.delhi.gov.in/cwapp/MyLoginPage?ReturnUrl=%2Fcwapp%2F."
+            },
+            {
+                "question": "Can members in my family also register if they are all registered construction workers?",
+                "answer": "Yes, if there are more than one member in the family who are engaged in Construction Work, they can all register under the DBoCWWB."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://bocw.delhi.gov.in/bocw/welfare-schemes"
+            },
+            {
+                "type": "Latest Guidelines",
+                "url": "https://dbocwwb.delhi.gov.in/welfareschemedboc.html"
+            },
+            {
+                "type": "User Manual (Registration)",
+                "url": "https://drive.google.com/file/d/1nCDEvvl3saMAKnR__iYZNbc_MnuwQ0E1/view"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://dbocwwb.delhi.gov.in/faqdboc.html#faqm2q1"
+            },
+            {
+                "type": "Amendments",
+                "url": "https://bocw.delhi.gov.in/sites/default/files/bocw/circulars-orders/delhi_gazette_notification_of_delhi_building_and_other_construction_workers_welfare_board_on_04-03-2016.pdf"
+            }
+        ],
+        "tags": [
+            "Ex-gratia Payment",
+            "Financial Assistance",
+            "Labour",
+            "Permanently Disability"
+        ]
+    }
+}

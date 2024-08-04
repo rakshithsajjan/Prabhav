@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Jagananna Amma Vodi",
+        "state": "Andhra Pradesh",
+        "department": "School Education Department, Govt. of Andhra Pradesh",
+        "type": "Financial Assistance, Scholarship",
+        "beneficiary": "Student",
+        "details": "Launched on 9th January 2020 by Hon'ble Chief Minister of Andhra Pradesh Shri YSR Jagan Mohan Reddy, the scheme 'Jagananna Amma Vodi' provides poor mothers (or recognized guardian in the absence of mother) \u20b915,000/- per annum for sending their children to school. The objective of the scheme is to enhance access to schools, ensure equity, assuring quality education, improve attendance, and retention, achieve better learning outcomes, and for the overall development of the child from Classes 1st to 12th.",
+        "benefits": [
+            "The eligible mothers/guardians will be sanctioned \u20b9 14000/- which will be deposited directly into the beneficiaries\u2019 savings account of the Nationalized Bank / Post Office in January every year until the child passes Class 12th.",
+            "An amount of \u20b9 1000/- from each beneficiary shall be deducted at the source and released to School/College Committee as District Toilet Maintenance Fund (DTMF) under the control of the District Collector."
+        ],
+        "eligibility": [
+            "The mother/guardian should be a resident of the state of Andhra Pradesh.",
+            "The child/children of the mother should be studying in Class 1st to Class 12th.",
+            "The school/college in which the child is admitted/enrolled should be a recognized Government, Private Aided, and Private Unaided School/Jr. College or Residential School/Jr.College in the state of Andhra Pradesh.",
+            "The scheme is applicable from the Academic Year 2019-20.",
+            "The Total Family Income should be less than \u20b9 10,000/- per month in the case of Rural Areas; and \u20b9 12,000/- per month in the case of Urban Areas (BPL).",
+            "No family member of the child should be a Government Employee or Government Pensioner. (except in the case of families of sanitary workers).",
+            "The family of the applicant should not own a four-wheeler (except for Taxis, Tractors, and Autos).",
+            "The monthly electricity consumption of a family dwelling unit (owned/rented) of the applicant should be below 300 units (six months average).",
+            "No family member of the applicant should be an income tax payee.",
+            "The land under the municipal area should be less than 1000 sq. ft.",
+            "The attendance of the child should at least be 75%."
+        ],
+        "exclusions": [
+            "Those 10th-class students opting for IIT/Polytechnic/IIIT and other courses which make them eligible to access Jagananna Vidya Deevena / Jagananna Vasathi Deevena will be excluded."
+        ],
+        "application_process": "Offline. The application process involves several steps including submission of student details by the School Headmaster, cross-validation of details, social audit, preparation of eligible candidates list, and release of financial assistance to the beneficiaries' accounts.",
+        "documents_required": [
+            "Aadhaar Card",
+            "White Ration Card",
+            "Proof of Address such as the Aadhaar Card, Voter ID Card, Electricity Bill, etc.",
+            "Name of the school where the child is studying",
+            "Bank account details of the mother or the guardian",
+            "Passport size photo of the mother",
+            "School's identity card to confirm that the student studies in the said school"
+        ],
+        "faqs": [
+            {
+                "question": "When Was 'Jagananna Amma Vodi' Scheme Launched?",
+                "answer": "The 'Jagananna Amma Vodi' Scheme was launched on 9th January 2020 by Hon'ble Chief Minister of Andhra Pradesh Shri YSR Jagan Mohan Reddy."
+            },
+            {
+                "question": "What Is The Amount Of Financial Assistance Provided Under This Scheme?",
+                "answer": "The scheme provides poor mothers (or recognized guardian in the absence of mother) \u20b915,000/- per annum for sending their children to school."
+            },
+            {
+                "question": "Which Department Manages 'Jagananna Amma Vodi' Scheme?",
+                "answer": "The scheme is managed by the School Education Department, Govt. of Andhra Pradesh."
+            },
+            {
+                "question": "What Are The Objectives Of The Scheme?",
+                "answer": "The objective of the scheme is to enhance access to schools, ensure equity, assuring quality education, improve attendance, and retention, achieve better learning outcomes, and for the overall development of the child from Classes 1st to 12th."
+            },
+            {
+                "question": "What Is The Full-Form Of GER?",
+                "answer": "The full-form of GER is Gross Enrolment Ratio."
+            },
+            {
+                "question": "What Portion Of The Financial Assistance Should Go To The District Toilet Maintenance Fund?",
+                "answer": "An amount of \u20b9 1000/- from each beneficiary shall be deducted at the source and released to School/College Committee as District Toilet Maintenance Fund (DTMF) under the control of the District Collector."
+            },
+            {
+                "question": "Where Can I Find The Link To The Guidelines Of The Scheme?",
+                "answer": "The Guidelines of the Scheme can be found at - https://cse.ap.gov.in/RTE/download/JAGANANNA%20AMMA%20VODI%20under%20G.O%2063.pdf"
+            },
+            {
+                "question": "Can Residents Of The State Of Telangana Also Apply To This Scheme?",
+                "answer": "No, the mother/guardian should be a resident of the state of Andhra Pradesh."
+            },
+            {
+                "question": "What Is The Income Criteria For The Residents From Rural Areas?",
+                "answer": "The Total Family Income of the Applicant should be less than \u20b9 10,000/- per month in the case of Rural Areas."
+            },
+            {
+                "question": "What Is The Income Criteria For The Residents From Urban Areas?",
+                "answer": "The Total Family Income of the Applicant should be less than \u20b9 12,000/- per month in the case of Urban Areas."
+            },
+            {
+                "question": "Will A Person Be Eligible To Apply If One Of The Family Members Is A Government Pensioner?",
+                "answer": "No, the person won't be eligible to apply in that case."
+            },
+            {
+                "question": "What Is The Eligibility Criteria Reg. The School / College In Which The Student Is Admitted / Enrolled?",
+                "answer": "The school/college in which the child is admitted/enrolled should be a recognized Government, Private Aided, and Private Unaided School/Jr. College or Residential School/Jr.College in the state of Andhra Pradesh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cse.ap.gov.in/RTE/download/JAGANANNA%20AMMA%20VODI%20under%20G.O%2063.pdf"
+            },
+            {
+                "type": "Standard Operating Procedure (SOP)",
+                "url": "https://gramawardsachivalayam.ap.gov.in/GSWS/downloads/Schemes_SOP.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

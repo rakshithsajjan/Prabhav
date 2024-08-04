@@ -1,0 +1,45 @@
+{
+    "content": {
+        "title": "Babu Jagjivan Ram Chhatrawas Yojna",
+        "state": "Not specified",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Hostel",
+        "beneficiary": "Students belonging to Scheduled Castes (SC)",
+        "details": "This scheme for the construction of hostels is one of the means to enable and encourage students belonging to Scheduled Castes (SC) to attain quality education. Such hostels are immensely beneficial to the students hailing from rural and remote areas of the country. While the scheme of construction of hostels for SC girls is in operation from the Third Five Year Plan (1961-66), the same for boys was started with effect from the year 1989-90.",
+        "benefits": [
+            "100% central assistance for girls' hostels",
+            "50% central assistance for boys' hostels on a matching share basis",
+            "90% central assistance to Central Universities/Institutions",
+            "45% central assistance to State Universities/Institutions"
+        ],
+        "eligibility": [
+            "Priority to areas with a concentration of SC population of 15% and more",
+            "Preference for integrated hostels over stand-alone hostels",
+            "Priority to top-performing Government schools without hostels",
+            "Hostels for girls located in areas with low SC female literacy",
+            "Focus on middle and higher secondary levels of education"
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Utilization Certificate as per format mentioned in the sanction letter",
+            "Audit reports since 1st installment was released",
+            "Balance sheet since the 1st installment released",
+            "Income expenditure statement since the 1st installment released",
+            "Receipt of payment since the 1st installment released",
+            "Bank Statement since the release of 1st installment",
+            "Details of interest earned on 1st installment released for the project",
+            "Status of the utilization of matching share by the implementing agency, if any",
+            "Site inspection report",
+            "Colour Photographs of the project site"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialjustice.gov.in/writereaddata/UploadFile/BJRCY_revised2020_Eng.pdf"
+            }
+        ],
+        "tags": []
+    }
+}

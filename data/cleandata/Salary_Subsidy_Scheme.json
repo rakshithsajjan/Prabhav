@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "Salary Subsidy Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology",
+        "type": "Grant",
+        "beneficiary": "Fresher",
+        "details": "Launched in 2018, the 'Salary Subsidy Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide a Salary Subsidy to the eligible Information Technology Units in the State of Goa. The subsidy would be provided as a matching grant to the salary paid to Fresher up to \u20b910,000 per Fresher per month. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
+        "benefits": [
+            "The subsidy would be provided as a matching grant to the salary paid to Freshers up to \u20b910,000 per Fresher per month (\u20b912,500 for Female Freshers) for 2 continuous years of operation post the notification of this policy.",
+            "Benefits are subject to budgetary allocation."
+        ],
+        "eligibility": [
+            "All the new and existing units must have their operations in Goa.",
+            "The applicant must be one of the following: Proprietorship Firm, Private Limited Company, Public Limited Company, Registered Partnership Firm, Limited Liability Partnership.",
+            "The bank accounts of the unit and/or its partner(s)/director(s) should be linked to Aadhaar.",
+            "The bank accounts of Freshers should be linked to Aadhaar.",
+            "The subsidy is valid for Freshers who have been employed for a minimum period of one year.",
+            "Individuals who have worked for more than two years before pursuing post-graduation are not considered freshers."
+        ],
+        "exclusions": [
+            "The units availing similar financial incentives under any other policy of the Government of Goa are not eligible for availing benefits under this scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Incorporation Certificate",
+            "Copy of new unit registration document/certificate",
+            "Copies of PAN, Aadhaar and GST TIN",
+            "Memorandum and Articles of Association",
+            "Copy of first bill generated showing the date of commencement of operations or other relevant document",
+            "Proof of employment for the Freshers (copy of PF contribution or salary slip or other relevant document)",
+            "Copies of Aadhaar cards of Freshers being claimed under this subsidy",
+            "Other relevant documents (if any)",
+            "Udyog Aadhaar."
+        ],
+        "tags": [
+            "Salary",
+            "Subsidy",
+            "Fresher",
+            "Grant"
+        ],
+        "faqs": [
+            {
+                "question": "Can you elaborate on the prorate basis used for calculating the time duration of an individual as a fresher if they have less than two years of experience prior to post-graduation under the eligibility criteria?",
+                "answer": "The time duration for an individual with less than two years of experience before post-graduation is considered on a prorate basis, taking into account the specific duration of employment within the stipulated period."
+            },
+            {
+                "question": "How does the scheme handle units that are availing similar financial incentives under other Government of Goa policies?",
+                "answer": "Units currently availing similar financial incentives under any other policy of the Government of Goa are ineligible for benefits under this scheme."
+            },
+            {
+                "question": "Could you provide insights into the mechanism governing the subsidy's provision in cases where the budgetary allocation is exceeded?",
+                "answer": "The subsidy is subject to budgetary allocation, and in the event of exceeding the allocated budget, no Promissory Estoppel shall be applicable."
+            },
+            {
+                "question": "How is the subsidy calculated as a matching grant to the salary paid to Freshers?",
+                "answer": "The subsidy is provided as a matching grant to the salary paid to Freshers, up to \u20b910,000 per Fresher per month (\u20b912,500 for Female Freshers)."
+            },
+            {
+                "question": "Could you elaborate on the evaluation process conducted at the end of the fiscal year?",
+                "answer": "Units are subject to evaluation at the end of the fiscal year to determine their eligibility for continuing to receive benefits under the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2020/08/ITPolicySchemes2018.pdf"
+            },
+            {
+                "type": "Official Gazette",
+                "url": "https://ditc.goa.gov.in/sites/default/files/Target-Schemes.pdf"
+            },
+            {
+                "type": "User Manual For Business Entity",
+                "url": "https://services.goaonline.gov.in/Downloads/Organization/BusinessProfile_UserManual.pdf"
+            },
+            {
+                "type": "Track Application Status",
+                "url": "https://goaonline.gov.in/StatusTrack"
+            }
+        ]
+    }
+}

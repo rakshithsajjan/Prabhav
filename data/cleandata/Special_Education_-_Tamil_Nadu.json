@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Special Education - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Department for the Welfare of Differently Abled Persons",
+        "type": "Grant",
+        "beneficiary": "Differently Abled Persons",
+        "details": "The scheme 'Special Education by Welfare of Differently Abled Persons' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to provide free special education, vocational training, boarding and lodging to the visually impaired, hearing impaired, intellectual disability and locomotor differently-abled persons. Every year four sets of uniforms and textbooks are given free of cost.",
+        "benefits": [
+            "Free special education, vocational training, boarding and lodging.",
+            "Every year four sets of uniforms and textbooks are given free of cost."
+        ],
+        "eligibility": [
+            "The child should be a visually impaired, hearing impaired, intellectual disability, and locomotor differently abled person.",
+            "A child's age should be 5 years and above."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit (during office hours) the Head Masters/Principals of special schools and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Fill in all mandatory fields, attach copies of all mandatory documents, and submit the application form to the District Differently Abled Welfare Officer/Head Master of the Government special school for the differently abled concerned.",
+        "documents_required": [
+            "National Identity Card of the Differently Abled Person.",
+            "Birth Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for free special education under this scheme?",
+                "answer": "Visually impaired, hearing impaired, intellectually disabled, and locomotor differently abled persons are eligible for free special education, vocational training, boarding, and lodging under this scheme."
+            },
+            {
+                "question": "What types of services are provided under the scheme?",
+                "answer": "The scheme provides free special education, vocational training, boarding, lodging, four sets of uniforms, and textbooks annually."
+            },
+            {
+                "question": "What age group is eligible for the scheme?",
+                "answer": "The eligibility criteria include differently abled children aged 5 years and above."
+            },
+            {
+                "question": "Can children below the age of 5 access the scheme?",
+                "answer": "No, only differently abled children aged 5 years and above are eligible."
+            },
+            {
+                "question": "Are there any fees associated with the special education provided?",
+                "answer": "No, special education, vocational training, boarding, and lodging are provided free of cost."
+            },
+            {
+                "question": "How often are uniforms and textbooks provided?",
+                "answer": "Four sets of uniforms and textbooks are given free of cost annually."
+            },
+            {
+                "question": "Is there a limit on the number of uniforms provided per child?",
+                "answer": "The scheme provides four sets of uniforms and textbooks annually at no charge."
+            },
+            {
+                "question": "Can parents or guardians submit the application on behalf of the child?",
+                "answer": "Yes, parents or guardians can submit the application on behalf of the child."
+            },
+            {
+                "question": "What is the contact information for addressing grievances?",
+                "answer": "Grievances can be addressed to the Deputy Director (Schemes) at the Commissionerate for Welfare of the Differently Abled, Chennai."
+            },
+            {
+                "question": "Can children from outside the district apply for the scheme?",
+                "answer": "It is not specified whether children from outside the district can apply for the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Special Education",
+            "Differently Abled",
+            "Tamil Nadu"
+        ]
+    }
+}

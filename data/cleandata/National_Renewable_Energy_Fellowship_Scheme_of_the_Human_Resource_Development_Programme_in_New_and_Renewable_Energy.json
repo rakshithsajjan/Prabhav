@@ -1,0 +1,64 @@
+{
+    "content": {
+        "title": "National Renewable Energy Fellowship Scheme of the Human Resource Development Programme in New and Renewable Energy",
+        "state": "National",
+        "department": "Ministry Of New and Renewable Energy",
+        "type": "Fellowship",
+        "beneficiary": "Students pursuing higher studies in renewable energy",
+        "details": "The objective of the 'National Renewable Energy Fellowship Scheme' Component of the Human Resource Development Programme in New and Renewable Energy, Human Resources Development Division, Ministry of New and Renewable Energy, is to institutionalize renewable energy education and training to meet the requirement of qualified and trained manpower in the country. The HRD Programme has been with a total financial outlay of Rs. 200 crore for the period of FY 2021-22 to 2025-26.",
+        "benefits": [
+            "Fellowship for M.Tech: \u20b912,400 per month",
+            "Fellowship for M.Sc: \u20b94,000 per month",
+            "JRF: \u20b931,000 per month",
+            "SRF: \u20b935,000 per month",
+            "Post-Doctoral Fellow/Research Associate: \u20b947,000 to \u20b954,000 per month"
+        ],
+        "eligibility": [
+            "The applicant should be pursuing higher studies in renewable energy viz. M.Sc, M. Tech, PhD in Renewable Energy technologies.",
+            "The applicant should be a Research Associate or post-doctoral Fellow pursuing advanced research in MNRE institutions and other key institutions.",
+            "These Fellowships will exclusively be awarded for Courses on Renewable Energy related subjects only.",
+            "Institutes must be in the Top 100 under the National Institutional Ranking Framework (NIRF)."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Passport Sized Photograph",
+            "Curriculum Vitae (CV)",
+            "Proof of Indian Citizenship",
+            "Aadhaar Card",
+            "Academic Transcripts From All Undergraduate and Postgraduate Degrees",
+            "Research Proposal",
+            "Two Letters of Recommendation"
+        ],
+        "faqs": [
+            {
+                "question": "What role do the Direct Benefit Transfer (DBT) mode and beneficiary Bank Accounts play in disbursing fellowships?",
+                "answer": "DBT mode ensures direct, transparent, and efficient transfer of fellowship funds to beneficiaries' bank accounts, eliminating intermediaries and enhancing accountability."
+            },
+            {
+                "question": "Can you elaborate on the payment schedule and the importance of attendance from host institutions?",
+                "answer": "Payments begin from the Date of Joining, and the Ministry disburses fellowships monthly based on attendance and continuation reports provided by host institutions."
+            },
+            {
+                "question": "What is the selection process for the institutes applying for fellowship slots?",
+                "answer": "Institutes are selected by a committee chaired by eminent scientists/professors, and the selection committee includes experts from reputed academic institutions."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://hrd.mnre.gov.in/public/uploads/notification/1_Administrative_Approval_for_continuation_of_the_Human_Resource_Development_Programme_in_New_and_Renewable_Energy_for_the_period_of_FY_2021-22_to_2025-26_27-05-2022_4.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/nrefhrdnre"
+            }
+        ],
+        "tags": [
+            "Renewable Energy",
+            "Fellowship",
+            "Higher Studies",
+            "Research"
+        ]
+    }
+}

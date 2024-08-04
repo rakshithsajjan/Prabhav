@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Jal Hauj",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "A Jal Hauj scheme under the Agriculture Department of Rajasthan Provides the benefit of subsidy on Jal Hauj. According to this scheme, farmers have to construct a Jal Hauj on the elevated part of their land. Which can be filled with borewell water overnight and in the morning crops can be irrigated with the water collected in the Hauj. The department is providing financial assistance to the farmers. After filling the Jal Hauj with water, farmers can easily irrigate their crops through the pipeline.",
+        "benefits": [
+            "Grant for all farmers: 60% of the cost or max \u20b990,000/-"
+        ],
+        "eligibility": [
+            "The applicant must be a native of Rajasthan.",
+            "The applicant should be a Farmer.",
+            "The farmer should have a minimum cultivable land of half a hectare on his name.",
+            "The applicant should be a source and means of irrigation.",
+            "Water tank size should be 100 cubic meters or one lakh liter capacity."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Aadhar Card / Janadhar Card",
+            "Jamabandi",
+            "Bank Account Number",
+            "Identification Proof"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme about?",
+                "answer": "The objective of the Jal Hauj scheme is to promote sustainable water management practices and address water scarcity issues by facilitating the construction of water harvesting structures."
+            },
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "Financial benefits are provided under the scheme."
+            },
+            {
+                "question": "How much financial benefits/grant will be provided?",
+                "answer": "Grant of 60% of the total cost."
+            },
+            {
+                "question": "What is the minimum eligible size of the water tank?",
+                "answer": "Water tank size of 100 cubic meters or one lakh liter capacity."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "The farmer should have a minimum cultivable land of half a hectare on his name. The applicant should be a source and means of irrigation."
+            },
+            {
+                "question": "How to get the scheme benefits?",
+                "answer": "Applicant need to register them self on the official portal. Complete the profile and fill out the application form."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Copy of Aadhar Card / Janadhar Card, Jamabandi, Bank Account Number, Identification Proof."
+            },
+            {
+                "question": "What will be the maximum amount covered under 60%?",
+                "answer": "Maximum amount covered under will be \u20b990,000/-."
+            },
+            {
+                "question": "What is the official website for registration and apply?",
+                "answer": "Applicant need to visit the following link. URL : https://sso.rajasthan.gov.in/signin"
+            },
+            {
+                "question": "Can anyone other than farmers get the benefit of this scheme?",
+                "answer": "No, this is only for farmers."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farming",
+            "Jal Hauj",
+            "Tube Well"
+        ]
+    }
+}

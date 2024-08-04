@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Sub-mission On Agriculture Mechanization",
+        "state": "All Indian States",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Subsidy",
+        "beneficiary": "Farmers, Self Help Groups (SHGs), User Groups, Cooperative Societies, Farmer Producer Organizations (FPOs), Entrepreneurs",
+        "details": "Agricultural machines take an important role to increase productivity with timely and precise fieldwork. To promote the usage of farm mechanization and increase the ratio of farm power to cultivable unit area up to 2.5 kW/ha, the scheme will be implemented in all the Indian states. The SMAM scheme has both centrally sponsored and central sector scheme components.",
+        "benefits": [
+            "Provide agricultural machinery to poor and economically weak farmers.",
+            "Enhance the reach of farm mechanization to small & marginal farmers.",
+            "Promote 'Custom Hiring Centres' to mitigate adverse economies of scale.",
+            "Generate awareness among stakeholders through demonstration and capacity-building activities.",
+            "Develop hubs for hi-tech & high-value farm equipment.",
+            "Ensure performance testing and certification at designated testing centres.",
+            "Provide subsidies ranging from 50 to 80 percent for buying agricultural machinery.",
+            "Priority is given to women farmers."
+        ],
+        "eligibility": [
+            "All landholding farmers' families.",
+            "Self Help Groups (SHGs).",
+            "User Groups.",
+            "Cooperative Societies.",
+            "Farmer Producer Organizations (FPOs).",
+            "Entrepreneurs.",
+            "The farmer must be a native of India.",
+            "Women farmers can also take advantage of this scheme.",
+            "Financially weak farmers who have not taken benefits from any other central scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Visit https://agrimachinery.nic.in/Index/Index, select the appropriate option from the Registration dropdown option, fill out the form with the required information and register.",
+        "documents_required": [
+            "Aadhar card - To identify the beneficiary.",
+            "Passport size photo of Farmer.",
+            "Record of Right (RoR) of land.",
+            "Copy of first page of the bank pass book.",
+            "Copy of any ID Proof (Aadhar Card / Driving License / Voter ID Card / PAN Card / Passport).",
+            "Copy of Caste Category Certificate in case of SC / ST / OBC."
+        ],
+        "faqs": [
+            {
+                "question": "How many types of self registration?",
+                "answer": "Farmer, Society, Entrepreneur and Manufacturer."
+            },
+            {
+                "question": "What are the required documents for the farmer registration?",
+                "answer": "Aadhar card, Record-of-right of land, Passport Size Photograph, Copy of Bank Passbook, Copy of Id Proof (except Aadhar Card), Copy of cast category certificate (in case of SC/ST/OBC)."
+            },
+            {
+                "question": "Is Bank detail required for Farmer?",
+                "answer": "Yes, farmer is mandatory to add bank detail to get subsidy."
+            },
+            {
+                "question": "Is there any application fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "Do I need to complete the application in one sitting?",
+                "answer": "Yes."
+            },
+            {
+                "question": "How do I track the status of my application?",
+                "answer": "You can check the same anytime by visiting https://agrimachinery.nic.in/index/ApplicationTracking."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/smam"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Mechanization",
+            "SMAM",
+            "Sub-Mission"
+        ]
+    }
+}

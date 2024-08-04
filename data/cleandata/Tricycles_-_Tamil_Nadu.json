@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Tricycles - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare",
+        "type": "Grant",
+        "beneficiary": "Person With Disability",
+        "details": "The Department launched the 'Tricycles by Welfare of Differently Abled Persons' scheme for the Welfare of Differently Abled Persons, Govt. of Tamil Nadu. The scheme aims to distribute tricycles to deserving orthopedically differently-abled persons affected by both lower limbs and upper limbs that are normal for their easy mobility. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
+        "benefits": [
+            "Free distribution of tricycles."
+        ],
+        "eligibility": [
+            "The applicant should be affected by both lower limbs and upper limbs should be normal.",
+            "The applicant should be a resident of the district/area of Tamil Nadu.",
+            "The applicant's age should be 12 years or above."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit (during office hours) the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form along with the documents to the District Differently Abled Welfare Officer. Request a receipt or acknowledgment from the District Differently Abled Welfare Officer to whom the application has been submitted.",
+        "documents_required": [
+            "National Identity Card of the Differently Abled Person.",
+            "Any Other Documents If Required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the purpose of the tricycle scheme?",
+                "answer": "The tricycle scheme aims to provide orthopedically differently abled persons with tricycles for easy mobility."
+            },
+            {
+                "question": "Who is eligible to receive a tricycle?",
+                "answer": "Eligible candidates for the tricycle scheme are those affected with both lower limbs, while their upper limbs remain normal. They must also be residents of the district/area and aged over 12 years."
+            },
+            {
+                "question": "Where can individuals obtain the application form for the tricycle scheme?",
+                "answer": "Individuals can obtain the application form for the tricycle scheme from the concerned District Differently Abled Welfare Officer."
+            },
+            {
+                "question": "Are there any restrictions on the type of disabilities eligible for the tricycle scheme?",
+                "answer": "The tricycle scheme specifically targets individuals affected with both lower limbs while their upper limbs remain normal."
+            },
+            {
+                "question": "Is there a waiting period for receiving a tricycle after applying?",
+                "answer": "The waiting period for receiving a tricycle after applying may vary depending on factors such as demand and availability."
+            },
+            {
+                "question": "Can individuals from outside the district apply for the tricycle scheme?",
+                "answer": "Only residents of the district/area are eligible to apply for the tricycle scheme."
+            },
+            {
+                "question": "Are there any fees associated with obtaining a tricycle through the scheme?",
+                "answer": "No fees are associated with obtaining a tricycle through the scheme."
+            },
+            {
+                "question": "Are there specific models or types of tricycles provided through the scheme?",
+                "answer": "Specific models or types of tricycles may be provided based on individual needs and specifications."
+            },
+            {
+                "question": "Can individuals apply for a replacement tricycle if theirs is damaged or lost?",
+                "answer": "Individuals can apply for a replacement tricycle if theirs is damaged or lost, subject to the scheme's guidelines."
+            },
+            {
+                "question": "How can applicants address grievances related to the tricycle scheme?",
+                "answer": "Grievances related to the tricycle scheme can be addressed to the Technical Officer at the Commissionerate for Welfare of the Differently Abled in Chennai."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Tricycles",
+            "Differently Abled",
+            "Tamil Nadu",
+            "Social Welfare"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Devnarayan Gurukul Yojana",
+        "state": "Rajasthan",
+        "department": "Education",
+        "type": "Scholarship",
+        "beneficiary": "Student",
+        "details": "The Devnarayan Gurukul Yojana aims to provide educational opportunities to students belonging to economically disadvantaged backgrounds in Rajasthan, specifically those studying in grades 6 to 12. This program targets students from very backward classes whose parents are not income taxpayers. The prestigious schools identified by the Directorate of Secondary Education are eligible for admission under this scheme. Each year, 500 students are granted admission through the Gurukul scheme, which supports cooperation in fulfilling this objective.",
+        "benefits": [
+            "State's class 5 passed students are given admission to class 6 in private highly prestigious residential schools selected by the state government by selecting a prescribed number through the entrance test."
+        ],
+        "eligibility": [
+            "Student should be a native of Rajasthan state.",
+            "Students belong to the very backward classes (i). Banjara, Baldiya, Labana (ii). Gadiya-Lohar, Gadolia (iii). Gujar, Gurjar (iv). Raika, Rabari (Debasi) (v). Gadaria (Gadri), Gayari.",
+            "Self-declaration/certificate of parents not being income taxpayers.",
+            "It is necessary for the student to study regularly in a government/recognized non-government school.",
+            "It is necessary for the student to pass in class 5 examination.",
+            "Only maximum of two children of one parent will be eligible for admission and benefits."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar",
+            "Domicile Certificate",
+            "Caste Certificate",
+            "Income Certificate",
+            "Education Qualification Certificate",
+            "Class 5 mark sheet"
+        ],
+        "faqs": [
+            {
+                "question": "What is the scope of this scheme?",
+                "answer": "The Rajasthan State government started the 'Devnarayan Gurukul Yojana' scheme for very backward classes in 2011-12."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "State's class 5 passed students are given admission to class 6 in private highly prestigious residential schools selected by the state government by selecting a prescribed number through the entrance test."
+            },
+            {
+                "question": "Who can get the benefits of the scheme?",
+                "answer": "Very backward classes Students from Rajasthan state."
+            },
+            {
+                "question": "What is the subcategories of very Backward Class?",
+                "answer": "The subcategories of very backward classes: (i). Banjara, Baldiya, Labana (ii). Gadiya-Lohar, Gadolia (iii). Gujar, Gurjar (iv). Raika, Rabari (Debasi) (v). Gadaria (Gadri), Gayari."
+            },
+            {
+                "question": "What Is The Education Qualification For The Scheme?",
+                "answer": "It Is Necessary For The Student To Pass In Class 5 Examination."
+            },
+            {
+                "question": "How many children from One Parent can get the benefits of scheme?",
+                "answer": "Only a maximum of two children of one parent will be eligible for admission and benefits."
+            },
+            {
+                "question": "What is the financial eligibility for applicant?",
+                "answer": "Parents should not be income tax payers."
+            },
+            {
+                "question": "How To Apply For The Scheme?",
+                "answer": "1. Applicants have to visit the official portal. 2. Students can process further action only with Student NIC ID. 3. Student can find their NIC ID here. 4. Enter the NIC ID click on. Fill out the application form. Submit."
+            },
+            {
+                "question": "What Documents Are Needed?",
+                "answer": "1. Applicant Domicile Certificate Copy. 2. Collage Fee Receipt. 3. Caste Certificate Copy. 4. Income Certificate Copy. 5. Education Qualification Marksheet / Certificate Copy. 6. Bank Passbook Copy. 7. Aadhar Card Copy. 8. Jan Aadhar/Bhamashah Card Copy."
+            },
+            {
+                "question": "What is the official web portal to apply?",
+                "answer": "Https://sso.rajasthan.gov.in/signin."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schemes.rajasthan.gov.in/scheme/detail/341"
+            },
+            {
+                "type": "Apply Online",
+                "url": "https://rajshaladarpan.nic.in/SD3/VPMS/ScholarshipApply.aspx"
+            }
+        ],
+        "tags": []
+    }
+}

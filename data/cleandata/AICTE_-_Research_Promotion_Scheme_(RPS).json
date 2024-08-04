@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "AICTE - Research Promotion Scheme (RPS)",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Grant",
+        "beneficiary": "AICTE approved Technical Institutions/University Departments",
+        "details": "The scheme 'AICTE - Research Promotion Scheme (RPS)' was introduced by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE) in order to promote research in identified thrust areas of technical education. AICTE approved Technical Institutions/University Departments having the relevant PG programs and having full-time regular faculty with research experience and publications, are eligible to apply to this scheme. The maximum limit of funding is \u20b9 25,00,000. The duration of the project will be three years from the date of receipt of funds in the institute\u2019s account.",
+        "benefits": [
+            "Duration of the Project: Three years from the date of receipt of funds.",
+            "Maximum limit of funding: \u20b9 25,00,000.",
+            "Non-Recurring 75% and Recurring 25% of the total sanctioned grant.",
+            "100% Non-recurring and 50% of the recurring grant of the total sanctioned amount."
+        ],
+        "eligibility": [
+            "AICTE approved Technical Institutions/University Departments with relevant PG programs.",
+            "Full-time regular faculty with research experience and publications.",
+            "The preliminary research facilities should be available in the institute.",
+            "One proposal from one PI (Principal Investigator) will be sanctioned at any point in time within the duration of the project.",
+            "The maximum number of proposals acceptable per institute shall be five and three from Govt. institute and Pvt. Institute respectively."
+        ],
+        "exclusions": [
+            "The Principal Investigator already having ongoing RPS projects from AICTE shall not be considered unless the ongoing projects are completed."
+        ],
+        "application_process": "Online application process through the AICTE portal.",
+        "documents_required": [
+            "APR, AUC, R&P, Statement of Expenditure on completion of each financial year.",
+            "Copies of GFR-19, copies of bills & vouchers and stock entry register duly attested.",
+            "PCR with consolidated AUC & R&P.",
+            "Feedback Form."
+        ],
+        "faqs": [
+            {
+                "question": "What Will Be The Duration Of The Project?",
+                "answer": "The duration of the project will be three years from the date of receipt of funds in the institute\u2019s account."
+            },
+            {
+                "question": "What Is The Maximum Limit Of Funding?",
+                "answer": "The Maximum Limit of Funding is \u20b9 25,00,000."
+            },
+            {
+                "question": "What Percentage Of The Total Sanctioned Grant Shall Be 'Recurring'?",
+                "answer": "Non-Recurring 75% and Recurring 25% of the total sanctioned grant."
+            },
+            {
+                "question": "What Part Of The Total Sanctioned Recurring Grant Will Be Received Only Upon The Submission Of The Audited Utilization Certificate?",
+                "answer": "50% of the total sanctioned recurring grant only after submission of the Audited Utilization Certificate and all requisite documents."
+            },
+            {
+                "question": "Can The Grant Be Utilized For The Purpose Other Than The Ones Specified In The Sanction Letter?",
+                "answer": "No, the grant will be utilized strictly for the purpose as specified in the sanction letter."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.aicte-india.org/sites/default/files/fdc/RPS%20Scheme%20Document_Nov%202020.pdf"
+            },
+            {
+                "type": "Format Of Mandatory Documents",
+                "url": "https://www.aicte-india.org/sites/default/files/RPS%20formate%20of%20documents.pdf"
+            }
+        ],
+        "tags": [
+            "Research",
+            "AICTE",
+            "Education",
+            "Grant"
+        ]
+    }
+}

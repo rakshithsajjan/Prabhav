@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi (PM-DAKSH)",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Skill Development",
+        "beneficiary": "Marginalized target groups including SCs, OBCs, EBCs, DNTs, and Safai Karamcharis",
+        "details": "The scheme aims to economically empower marginalized groups through skill training, targeting to skill around 2,71,000 individuals over five years with a budget of \u20b9 450.25 crore.",
+        "benefits": [
+            "Free of-cost training through 100% government grants",
+            "Monthly stipend of \u20b9 1,000/- to \u20b9 1,500/- for eligible trainees",
+            "Wage compensation of \u20b9 3,000/- for eligible trainees",
+            "Certification upon successful completion of training",
+            "Placement assistance after assessment and certification"
+        ],
+        "eligibility": [
+            "Age group of 18-45 years",
+            "Scheduled Caste (SC)",
+            "Other Backward Class (OBC) with annual family income below \u20b9 3,00,000",
+            "Economically Backward Class (EBC) with annual family income below \u20b9 1,00,000",
+            "De-Notified, Nomadic, and Semi-Nomadic Tribe (DNT)",
+            "Transgender (TG) Community",
+            "Safai Karamcharis and their dependents"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the official website pmdaksh.dosje.gov.in.",
+        "documents_required": [
+            "Caste Certificate for SCs",
+            "OBC Certificate and Income Certificate for OBCs",
+            "Income Certificate for EBCs",
+            "Self-declaration for DNTs",
+            "Certificate and ID Card for TG Community",
+            "Occupation Certificate for Safai Karamcharis"
+        ],
+        "faqs": [
+            {
+                "question": "What Is PM-DAKSH Yojana?",
+                "answer": "PM-DAKSH was launched by the Ministry of Social Justice & Empowerment to skill marginalized persons covering SCs, OBCs, EBCs, DNTs, and sanitation workers."
+            },
+            {
+                "question": "What Is The Main Objective Of PM-DAKSH Yojana?",
+                "answer": "To increase the skill levels of the target youth by providing short-term and long-term skills, followed by assistance in wage/self-employment."
+            },
+            {
+                "question": "What Types Of Skill Development Training Programmes Are Available?",
+                "answer": "There are four types: Up-skilling/Re-skilling, Short Term Training, Long Term Training, and Entrepreneurship Development Programmes."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/pm-daksh"
+            },
+            {
+                "type": "Eligibility Criteria",
+                "url": "https://pmdaksh.dosje.gov.in/eligibility"
+            },
+            {
+                "type": "Application Process",
+                "url": "https://www.myscheme.gov.in/schemes/pm-daksh#application-process"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://www.myscheme.gov.in/schemes/pm-daksh#documents-required"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://www.myscheme.gov.in/schemes/pm-daksh#faqs"
+            }
+        ],
+        "tags": [
+            "Skill Development",
+            "Social Welfare",
+            "Citizen Empowerment"
+        ]
+    }
+}

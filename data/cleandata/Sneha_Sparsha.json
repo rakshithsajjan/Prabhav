@@ -1,0 +1,96 @@
+{
+    "content": {
+        "title": "Sneha Sparsha",
+        "state": "Assam",
+        "department": "Dept. of Health & Family Welfare, Govt. of Assam",
+        "type": "Financial Assistance",
+        "beneficiary": "Children below 12 years of age affected with serious ailments",
+        "details": "Launched on 30th December 2021, the 'Sneha Sparsha' is a healthcare scheme that provides financial assistance for specialized treatment of children below 12 years of age affected with serious ailments. Families with annual income less than \u20b9 2,50,000 shall be eligible for availing benefits under the scheme, while priority shall be given to Below Poverty Line (BPL) families.",
+        "benefits": [
+            "Bone Marrow Transplant: Financial assistance up to \u20b9 10,00,000 per case.",
+            "Cochlear Implant: Financial assistance of up to \u20b9 5,35,000 for BPL beneficiaries and \u20b9 3,00,000 for APL beneficiaries.",
+            "Liver Transplant: Financial assistance of up to \u20b9 16,00,000 for BPL beneficiaries and \u20b9 10,00,000 for APL beneficiaries.",
+            "Kidney Transplant: Financial assistance of up to \u20b9 3,00,000 for BPL beneficiaries and \u20b9 2,00,000 for APL beneficiaries.",
+            "Artificial Limb: Financial assistance of up to \u20b9 1,00,000 for Cosmetic Limbs and up to \u20b9 2,50,000 for Motorized Artificial Limb.",
+            "Blood Cancer: Financial assistance of up to \u20b9 1,00,000 per case.",
+            "Specialized Eye Surgery: Financial assistance of \u20b9 15,000.",
+            "Tumors: Financial assistance of up to \u20b9 25,000 for investigations and treatment, and up to \u20b9 50,000 for surgery.",
+            "Neurological Anomalies: Financial assistance of up to \u20b9 50,000.",
+            "Thalassemia: Financial assistance of \u20b9 1,00,000."
+        ],
+        "eligibility": [
+            "The beneficiary should be a child below 12 years of age.",
+            "The beneficiary should be a resident of the state of Assam.",
+            "The beneficiary should be affected by some serious ailment(s).",
+            "The annual income of the family of the beneficiary should be less than \u20b9 5,00,000, with priority given to Below Poverty Line (BPL) families."
+        ],
+        "exclusions": [],
+        "application_process": "Online applications must be submitted to the Office of the Mission Director and/or to the Sneha Sparsha Committee, Sneha Sparsha C/o Gauhati Medical College. Applicants must appear before the Sneha Sparsha Committee with the patient on an appointed date for document verification.",
+        "documents_required": [
+            "Aaadhaar Card",
+            "Birth Certificate of the Patient",
+            "Residential Proof / Domicile Certificate of Assam",
+            "Income Certificate",
+            "Photograph of the Patient (Attested by Doctor)",
+            "OPD Advice Slip / Discharge Summary / Prescription"
+        ],
+        "faqs": [
+            {
+                "question": "When Was The 'Sneha Sparsha' Scheme Announced?",
+                "answer": "The 'Sneha Sparsha' was announced on 30th December 2021."
+            },
+            {
+                "question": "Which Department Launched The 'Sneha Sparsha' Scheme?",
+                "answer": "The 'Sneha Sparsha' scheme was launched by the Dept. of Health & Family Welfare, Govt. of Assam."
+            },
+            {
+                "question": "Who Are The Target Beneficiaries Of This Scheme?",
+                "answer": "Financial assistance is provided for specialized treatment of children below 12 years of age affected with serious ailments."
+            },
+            {
+                "question": "Is There Any Reservation/Preference/Priority In The Selection Of The Beneficiary?",
+                "answer": "Families with annual income less than \u20b9 5,00,000 shall be eligible, with priority given to Below Poverty Line (BPL) families."
+            },
+            {
+                "question": "What Is The Maximum Amount Of Financial Assistance In The Case Of A Bone Marrow Transplant?",
+                "answer": "Financial assistance up to \u20b9 10,00,000 per case."
+            },
+            {
+                "question": "What Is The Maximum Amount Of Financial Assistance In The Case Of Blood Cancer?",
+                "answer": "Financial assistance of up to \u20b9 1,00,000 per case."
+            },
+            {
+                "question": "Will The Cost Of Travel And Stay For Obtaining Treatment Be Borne By The Scheme?",
+                "answer": "No, the cost of travel and stay will not be borne by the Scheme."
+            },
+            {
+                "question": "What Is The Maximum Amount Of Financial Assistance In The Case Of A Kidney Transplant?",
+                "answer": "Financial assistance up to \u20b9 3,00,000 for BPL beneficiaries and \u20b9 2,00,000 for APL beneficiaries."
+            },
+            {
+                "question": "To Whom Should The Application For The 'Sneha Sparsha' Scheme Be Submitted?",
+                "answer": "Applications should be submitted to the Office of the Mission Director and/or to the Sneha Sparsha Committee."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://nhm.assam.gov.in/sites/default/files/swf_utility_folder/departments/nhm_lipl_in_oid_6/do_u_want_2_know/adobe_scan_11_jan_2022.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://nhm.assam.gov.in/sites/default/files/swf_utility_folder/departments/nhm_lipl_in_oid_6/do_u_want_2_know/Sneha_Sparsha_Application_Form_2.pdf"
+            },
+            {
+                "type": "NHM Assam",
+                "url": "https://nhm.assam.gov.in/schemes/snehasparsh"
+            }
+        ],
+        "tags": [
+            "Healthcare",
+            "Financial Assistance",
+            "Children",
+            "Assam"
+        ]
+    }
+}

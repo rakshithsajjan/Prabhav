@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Integrated Social Security Scheme - Pension For Transgender",
+        "state": "Jammu and Kashmir",
+        "department": "Social Welfare",
+        "type": "Pension",
+        "beneficiary": "Transgender",
+        "details": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. Under the 'Pension to Transgenders' component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Transgender Pensioners who have meager support or no source of livelihood.",
+        "benefits": [
+            "A pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+        ],
+        "eligibility": [
+            "The applicant should be Transgender.",
+            "The income of the applicant should be less than Rs. 75,000/- per annum or the applicant should be from the 'Below Poverty Line (BPL)' Category."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The application forms are available with DSWO/TSWO free of cost. The applicant shall submit the duly filled and signed application form along with the required documents regarding age, income, status, and address, to the concerned Tehsil Social Welfare Officer against proper receipt.",
+        "documents_required": [
+            "Proof of Residence (Ration Card / Voter Card, etc.)",
+            "Income Certificate (of less than Rs. 75,000/- per annum or BPL Category)",
+            "Copy of Aadhaar Card",
+            "Copy of Bank Passbook",
+            "Certificate from District Magistrate on Gender",
+            "Passport Sized Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "Which are the components of the ISSS (Integrated Social Security Scheme)?",
+                "answer": "The ISSS (Integrated Social Security Scheme) has the following components - a) Pension for Old Age Person b) Pension for Women in Distress c) Pension for Physically Challenged Person d) Pension to Transgenders"
+            },
+            {
+                "question": "What benefits are provided under the 'Pension To Transgenders' Component Of ISSS?",
+                "answer": "Under the 'Pension to Transgenders' component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+            },
+            {
+                "question": "What is the aim of the 'Pension To Transgenders' Component Of ISSS?",
+                "answer": "The aim of the scheme is to provide monthly financial assistance to Transgender Pensioners who have meager support or no source of livelihood."
+            },
+            {
+                "question": "Is ISSS a Central Scheme or a State Sponsored Scheme?",
+                "answer": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir."
+            },
+            {
+                "question": "Who are the beneficiaries of ISSS?",
+                "answer": "The Beneficiaries Of ISSS can be Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons."
+            },
+            {
+                "question": "Is there an income criteria for ISSS 'Pension to Transgender'?",
+                "answer": "Yes, the income of the applicant should be less than Rs. 75,000/- per annum or the applicant should be from the 'Below Poverty Line (BPL)' Category."
+            },
+            {
+                "question": "To whom shall the application be addressed?",
+                "answer": "The applicant shall submit the duly filled and signed application form to the concerned Tehsil Social Welfare Officer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+            },
+            {
+                "type": "Amendments",
+                "url": "https://socialwelfarekashmir.jk.gov.in/Notice_Board/AMENDMENT%20IN%20ISSS-TRANSGENDER%20UNDER%20ISSS%20THEREOF.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+            }
+        ],
+        "tags": [
+            "Integrated Social Security Scheme",
+            "Pension",
+            "Transgender",
+            "Social Welfare"
+        ]
+    }
+}

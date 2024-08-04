@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Marriage Assistance Scheme- Gujarat Labour Welfare Board",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Financial Assistance",
+        "beneficiary": "Female workers in factories/organizations in Gujarat",
+        "details": "The 'Marriage Assistance Scheme' was launched by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to female workers who are working in a factory/organization in the state of Gujarat after their marriage.",
+        "benefits": [
+            "Female workers will be entitled to receive \u20b911,000/- after their marriage."
+        ],
+        "eligibility": [
+            "Only those women workers who are working in the factory/organization in the state of Gujarat and the Labour Welfare Fund of the concerned woman worker is paid by the organization at the office, will be eligible to get the benefit of this scheme.",
+            "The Labour Welfare Fund of the last one year of the concerned woman worker should be mandatorily filled by the Factory/Company/Organization.",
+            "Application should be made within one year from the date of marriage.",
+            "There should be a gap of one year between the date of employment and the date of marriage of the woman worker."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport-size Photograph",
+            "A copy of the identity card issued by the contractor to the worker/labour",
+            "Aadhaar Card of Labour",
+            "Labour Welfare Fund Account Number",
+            "Proof of marriage",
+            "Bonafide certificate",
+            "Bank account details/Bank Passbook",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who launched the Marriage Assistance Scheme?",
+                "answer": "The scheme was launched by the Gujarat Labour Welfare Board, under the Labour, Skill Development & Employment Department, Government of Gujarat."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Female workers are entitled to receive \u20b911,000/- after their marriage under the scheme."
+            },
+            {
+                "question": "Who is eligible to receive benefits under the scheme?",
+                "answer": "Only female workers employed in factories/organizations in the state of Gujarat are eligible for the scheme. Additionally, the Labour Welfare Fund of the concerned woman worker must be paid by the organization at the office."
+            },
+            {
+                "question": "Are there any specific requirements regarding the Labour Welfare Fund?",
+                "answer": "Yes, the Labour Welfare Fund of the concerned woman worker should be mandatorily filled by the Factory/Company/Organization for the last one year."
+            },
+            {
+                "question": "What is the time limit for applying for benefits after marriage?",
+                "answer": "Applications should be made within one year from the date of marriage to be eligible for the scheme."
+            },
+            {
+                "question": "Is there a requirement for the duration of employment before marriage?",
+                "answer": "Yes, there should be a gap of one year between the date of employment and the date of marriage of the woman worker to qualify for the scheme."
+            },
+            {
+                "question": "How can one apply for Scheme Benefit?",
+                "answer": "Applicants can visit the Sanman Portal at https://sanman.gujarat.gov.in/ to apply for the scheme benefit."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://glwb.gujarat.gov.in/fsmb-scheme-guj.htm"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/Home/GLWBScheme#"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Industrial Worker",
+            "Labour",
+            "Marriage",
+            "Organized Worker"
+        ]
+    }
+}

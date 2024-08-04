@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Dr. Ambedkar Medical Aid Scheme (Revised \u2013 2009)",
+        "state": "Haryana",
+        "department": "Directorate of Welfare of Scheduled Caste & Backward Classes, Government of Haryana",
+        "type": "Medical Aid",
+        "beneficiary": "Scheduled Caste and Scheduled Tribe persons",
+        "details": "The scheme is meant to provide medical treatment facilities to patients suffering from serious ailments requiring surgery of the Kidney, Heart, Liver, Cancer, and Brain or any other life-threatening diseases including Knee surgery and Spinal surgery to Scheduled Caste and Scheduled Tribe persons whose annual family income is less than \u20b9 1,00,000/- per annum.",
+        "benefits": [
+            "Medical treatment facilities for serious ailments.",
+            "Coverage for surgeries related to Kidney, Heart, Liver, Cancer, Knee, Spinal, and Brain."
+        ],
+        "eligibility": [
+            "Applicant must belong to Scheduled Caste and Scheduled Tribe Community.",
+            "Annual family income must not exceed \u20b9 1,00,000/- per annum.",
+            "Suffering from major ailments requiring surgery."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Original Estimated Cost certificate duly signed by the Medical Superintendent of the concerned hospital.",
+            "Original or attested photocopies of the income certificate, caste certificate, and ration card of the patient.",
+            "Recommendation from a local sitting Member of Parliament or District Magistrate.",
+            "Certificate from the Medical Superintendent regarding total estimated cost of treatment.",
+            "Estimated Cost Certificate containing the date fixed for the surgical operation.",
+            "An attested photograph of the patient."
+        ],
+        "faqs": [
+            {
+                "question": "What is the scope of this scheme?",
+                "answer": "The state government provides medical treatment facilities to patients suffering from serious ailments to Scheduled Caste and Scheduled Tribe persons whose annual family income is less than \u20b9 1,00,000/- per annum."
+            },
+            {
+                "question": "What are the types of medical treatments provided under this scheme?",
+                "answer": "Patients having serious ailments requiring surgery of the Kidney, Heart, Liver, Cancer, Knee, Spinal, and Brain, or any other life-threatening diseases may be provided treatment under this scheme."
+            },
+            {
+                "question": "How much amount of the treatment will be directly released to the concerned Hospital?",
+                "answer": "75% of the estimated cost of the treatment will be directly released to the concerned Hospital, with a maximum ceiling limit of \u20b91,00,000/- in each case."
+            },
+            {
+                "question": "How much amount of the total admissible medical aid will be paid, in advance to the concerned Hospital?",
+                "answer": "50% of the total admissible medical aid will be paid, in advance, directly to the Hospital before surgery as the first installment."
+            },
+            {
+                "question": "Is this scheme for all type of patient?",
+                "answer": "No, this scheme is only for the patient of Scheduled Caste and Scheduled Tribe communities."
+            },
+            {
+                "question": "What should be the family income to avail the benefit of this scheme?",
+                "answer": "The annual family income should be less than \u20b9 1,00,000/- per annum."
+            },
+            {
+                "question": "How I can apply for the medical aid?",
+                "answer": "The applicant shall apply for medical aid in the prescribed application form, duly certified by the Medical Superintendent of the concerned Hospital."
+            },
+            {
+                "question": "Can I apply only through offline mode for medical aid?",
+                "answer": "Yes, the duly filled-in form should reach the Director, Dr. Ambedkar Foundation, 15, Janpath, New Delhi, at least 15 days before the date of surgery."
+            },
+            {
+                "question": "Who will process the application?",
+                "answer": "All the applications received will be processed by Dr. Ambedkar Foundation."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Website",
+                "url": "http://haryanascbc.gov.in/dr-ambedkar-medical-aid-scheme-revised-2009"
+            },
+            {
+                "type": "Application Form",
+                "url": "http://haryanascbc.gov.in/sites/default/files/documents/application_form_for_medical_aid.pdf"
+            }
+        ],
+        "tags": [
+            "Medical Aid",
+            "Scheduled Caste",
+            "Scheduled Tribe",
+            "Health",
+            "Government Scheme"
+        ]
+    }
+}

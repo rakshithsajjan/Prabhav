@@ -1,0 +1,109 @@
+{
+    "content": {
+        "title": "Trademark Reimbursement Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology, Electronics and Communications",
+        "type": "Reimbursement",
+        "beneficiary": "Startups of Goa",
+        "details": "The scheme 'Trademark Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. For start-ups that have successfully entered the production/service delivery phase, and want to trademark their company name and logo, 50% of the cost of trade-mark registration of their company name and logo will be reimbursed up to \u20b9 25,000/-.",
+        "benefits": [
+            "50% reimbursement of trademark registration costs up to \u20b9 25,000/-",
+            "Up to 200 applicants can avail benefits per year",
+            "Disbursal within 60 days of application approval"
+        ],
+        "eligibility": [
+            "The applicant should be a startup certified by the Startup Promotion Cell (SPC)",
+            "The applicant should have a valid start-up certificate number",
+            "The startup must have successfully registered its trademark"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Trademark Certificate",
+            "The form and documents as mentioned in Annexure 1"
+        ],
+        "faqs": [
+            {
+                "question": "Can start-ups apply for this scheme if they have not yet entered the production/service delivery phase?",
+                "answer": "No, this scheme is specifically for start-ups that have successfully entered the production/service delivery phase."
+            },
+            {
+                "question": "Is there a limit to the number of times a start-up can reapply for this scheme if rejected?",
+                "answer": "There is no specific limit to reapplications, but each application should meet the scheme's criteria."
+            },
+            {
+                "question": "Is there a specific time window for submitting the application each year?",
+                "answer": "Applicants can apply at any time during the financial year but only within 6 months of incurring the relevant expenditure."
+            },
+            {
+                "question": "Can start-ups in any industry or sector apply for this scheme?",
+                "answer": "Start-ups from various industries or sectors can apply as long as they meet the scheme's eligibility criteria."
+            },
+            {
+                "question": "Can the reimbursement amount exceed the actual cost of trademark registration?",
+                "answer": "No, the reimbursement amount is capped at 50% of the actual cost or INR 25,000, whichever is lower."
+            },
+            {
+                "question": "Is there a specific authority responsible for trademark registration in Goa?",
+                "answer": "Trademark registration is typically handled by the Controller General of Patents, Designs, and Trademarks."
+            },
+            {
+                "question": "Can start-ups trademark their company name and logo independently, or must it be done together?",
+                "answer": "Start-ups can trademark their company name and logo independently under this scheme."
+            },
+            {
+                "question": "How does this scheme benefit start-ups in the long term?",
+                "answer": "By providing reimbursement for trademark registration, the scheme helps start-ups protect their brand identity, which is crucial for long-term success."
+            },
+            {
+                "question": "Can start-ups apply for trademark registration for products and services other than their company name and logo under this scheme?",
+                "answer": "This scheme specifically covers the trademark registration of the company name and logo, not other products or services."
+            },
+            {
+                "question": "Are there any fees associated with applying for this scheme?",
+                "answer": "No, there are no application fees associated with applying for this scheme."
+            },
+            {
+                "question": "Can start-ups apply for this scheme retroactively for trademark registration expenses?",
+                "answer": "No, only expenses incurred after the notification of Goa Start-up Policy 2017 are considered for reimbursement."
+            },
+            {
+                "question": "When can the approved amount be expected to be disbursed?",
+                "answer": "Approved amounts are disbursed within 60 days from the date of approval."
+            },
+            {
+                "question": "What is the timeframe for eligible expenditure to be considered for reimbursement?",
+                "answer": "Eligible expenditure must be incurred after the notification of Goa Start-up Policy 2017, within its validity, and paid digitally."
+            },
+            {
+                "question": "Are the benefits guaranteed for all eligible start-ups?",
+                "answer": "No, the benefits are not guaranteed; the SPC reserves the right to accept or reject applications."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.startup.goa.gov.in/Incentives/TrademarkReimbursementScheme.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
+            },
+            {
+                "type": "Startup Goa",
+                "url": "https://www.startup.goa.gov.in/StartupIncentives#GrantforIncubationCenterswithinEducationalInstitutesScheme"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://www.startup.goa.gov.in/ContactUs"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Entrepreneurship",
+            "Reimbursement",
+            "Startup",
+            "Trademark"
+        ]
+    }
+}

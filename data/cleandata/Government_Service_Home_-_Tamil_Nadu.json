@@ -1,0 +1,102 @@
+{
+    "content": {
+        "title": "Government Service Home - Tamil Nadu",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Institutional Care",
+        "beneficiary": "Widows, destitute women, deserted women, adolescent girls, and differently-abled women and their children",
+        "details": "The scheme 'Government Service Home' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. This scheme aims to provide institutional care to widows, destitute women, deserted women, adolescent girls and differently-abled women and their children who are economically and socially backward by giving them protection, education and vocational training.",
+        "benefits": [
+            "Accommodation",
+            "Food",
+            "Education",
+            "Vocational training",
+            "Free supply of textbooks, notebooks, uniforms, chappals, and sanitary napkins"
+        ],
+        "eligibility": [
+            "The applicant should be a female.",
+            "The applicant's annual income should not exceed \u20b9 72,000/- (not applicable for differently abled).",
+            "The age of the applicant should be between 14 to 45 years.",
+            "The applicant should qualify as one of the following: Widow, Destitute Woman, Deserted Woman, Adolescent Girl, Differently Abled Woman, Woman from Socially and Economically Backward Sections."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs; Offline - visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.",
+        "documents_required": [
+            "Age Certificate",
+            "Widow/Destitute/Deserted/Orphan Certificate",
+            "Income Certificate of the Applicant/Parent/Guardian",
+            "Certificate/Proof of Disability, in case of differently abled",
+            "Death Certificate of the Husband, in case of widows",
+            "Certificate showing Class Last Studied, if available"
+        ],
+        "faqs": [
+            {
+                "question": "What kind of assistance does the Scheme provide?",
+                "answer": "Assistance includes accommodation, food, education, vocational training, and free supplies such as textbooks, notebooks, uniforms, chapals, and sanitary napkins."
+            },
+            {
+                "question": "What are the income limits for eligibility?",
+                "answer": "The income limit for eligibility is not exceeding Rs. 72,000 per annum, except for differently abled individuals."
+            },
+            {
+                "question": "How long can women and their children stay in the Service Home?",
+                "answer": "Women and their children can stay in the Service Home, with male children up to 5th standard and girl children up to 12th standard."
+            },
+            {
+                "question": "How is eligibility determined for differently abled individuals?",
+                "answer": "Eligibility for differently abled individuals is determined based on certificates or proof of disability."
+            },
+            {
+                "question": "Who should be contacted for more information about the Scheme?",
+                "answer": "District Social Welfare Officers, Superintendents of other Service Homes, and Extension Officers (Social Welfare) can be contacted for more information."
+            },
+            {
+                "question": "How are grievances addressed at the district level?",
+                "answer": "Grievances at the district level are reported to District Collectors or District Social Welfare Officers."
+            },
+            {
+                "question": "Is there a specific location where the Service Homes are established?",
+                "answer": "Service Homes are established at various locations to accommodate beneficiaries."
+            },
+            {
+                "question": "What educational support is provided to children of eligible women under the Scheme?",
+                "answer": "Educational support includes free supply of textbooks, notebooks, uniforms, and provisions for continuing education for children of eligible women."
+            },
+            {
+                "question": "What recourse do applicants have if they encounter difficulties or have questions during the offline application process?",
+                "answer": "Applicants can seek assistance from the District Social Welfare Officer/Extension Officer (Social Welfare) or other designated authorities for guidance."
+            },
+            {
+                "question": "Are there any fees associated with applying for the scheme online via CSC?",
+                "answer": "Applicants should inquire about any applicable fees at the CSC where they complete the application process."
+            },
+            {
+                "question": "What are the different types of application forms for offline applications?",
+                "answer": "The different types of application forms mentioned are for Higher Secondary Course, Tailoring/Secretarial Course, General Course, New 10th std pattern, and for the issue of Free books and Notebooks to poor widow's school-going children."
+            },
+            {
+                "question": "What should applicants do after completing the Biometric Verification Process?",
+                "answer": "After verification, applicants should fill in all mandatory fields in the online application form and upload copies of all required documents."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Location Details Of GSH",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Deserted",
+            "Destitute",
+            "Education",
+            "Food",
+            "Girl",
+            "Home",
+            "Women"
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Old-Age Pension Scheme",
+        "state": "Himachal Pradesh",
+        "department": "Department of Social Justice & Empowerment",
+        "type": "Financial Assistance",
+        "beneficiary": "Elderly citizens",
+        "details": "The Government of Himachal Pradesh, Department of Social Justice & Empowerment has launched Old Age Pension Scheme with the aim to provide social security to destitute elderly people of the state. In this scheme, a financial assistance of \u20b9 850/- per month to pensioners aged between 60 years to 69 years and \u20b9 1500/- per month to pensioners aged 70 years and above is provided.",
+        "benefits": [
+            "\u20b9 850/- per month to pensioners aged between 60 years to 69 years.",
+            "\u20b9 1500/- per month to pensioners aged 70 years and above."
+        ],
+        "eligibility": [
+            "The applicants must be a resident of Himachal Pradesh state.",
+            "Such elderly persons whose age is 60 years or more and who do not have proper means of care/upbringing and who have minor children and whose family annual income from all sources does not exceed \u20b9 35,000/- Or;",
+            "Such elderly persons whose annual family income from all sources does not exceed \u20b9 35000/- are eligible for the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Passport Size Photographs",
+            "Age proof",
+            "Income Certificate",
+            "Aadhaar Card",
+            "Bank Account/passbook copy",
+            "Any other documents as asked during the application process."
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for the Old Age Pension scheme in Himachal Pradesh?",
+                "answer": "Elderly citizens with 60 years or above age with an annual income below Rs. 35,000 per year are eligible to apply for the scheme."
+            },
+            {
+                "question": "What is the monthly pension amount provided under the scheme?",
+                "answer": "The monthly pension amount of \u20b9 850/- per month to pensioners aged between 60 years to 69 years and \u20b9 1500/- per month to pensioners aged 70 years and above."
+            },
+            {
+                "question": "What documents are required to apply for the scheme?",
+                "answer": "ID proof, income certificate, and age proof are some of the required documents to apply for the scheme."
+            },
+            {
+                "question": "What is the frequency of pension payment under the scheme?",
+                "answer": "The pension amount is paid monthly to eligible citizens."
+            },
+            {
+                "question": "Can non-residents Of Himachal Pradesh apply for the scheme?",
+                "answer": "No, only residents of Himachal Pradesh are eligible to apply for the scheme."
+            },
+            {
+                "question": "How can applicants obtain the application form?",
+                "answer": "The interested applicants can download the application form from using URL:- http://esomsa.hp.gov.in/sites/default/files/scan0001-44250128_0.pdf"
+            },
+            {
+                "question": "What is the application process for the scheme?",
+                "answer": "The interested applicant should firstly download the prescribed application form, secondly, they need to fill it along with the required documents and lastly, submit the application form to the office of Panchayat or Tehsil Welfare Officer or District Welfare Officer."
+            },
+            {
+                "question": "Can an applicant apply for both old age and disability pension schemes simultaneously?",
+                "answer": "No, an applicant can only avail one of the two schemes at a time."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://esomsa.hp.gov.in/?q=hi/%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%AA%E0%A5%88%E0%A4%82%E0%A4%B8%E0%A4%A8"
+            },
+            {
+                "type": "Offline Application Form",
+                "url": "http://esomsa.hp.gov.in/sites/default/files/scan0001-44250128_0.pdf"
+            }
+        ],
+        "tags": [
+            "DBT",
+            "Financial Assistance",
+            "Retirement Pension",
+            "Social Security"
+        ]
+    }
+}

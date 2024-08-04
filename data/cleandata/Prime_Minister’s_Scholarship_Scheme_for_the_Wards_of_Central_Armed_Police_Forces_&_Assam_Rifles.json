@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Prime Minister\u2019s Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles",
+        "state": "Assam",
+        "department": "Ministry Of Home Affairs",
+        "type": "Scholarship",
+        "beneficiary": "Wards and widows of Central Armed Police Forces & Assam Rifles personnel",
+        "details": "The Prime Minister\u2019s Scholarship Scheme (PMSS) for the Wards of Central Armed Police Forces & Assam Rifles is a scholarship scheme introduced by the Ministry of Home Affairs, Government of India from the academic year 2006-07 to encourage higher technical & professional education for the dependent wards & widows of Central Armed Police Forces & Assam Rifles (CAPFs & AR) Personnel.",
+        "benefits": [
+            "\u20b93,000/- per month for girls",
+            "\u20b92,500/- per month for boys",
+            "Scholarship duration up to 5 years depending on the course"
+        ],
+        "eligibility": [
+            "Wards/widows of deceased CAPFs and Assam Rifles personnel who died in harness/election duty",
+            "Wards of personnel disabled due to causes attributable to Government service",
+            "Wards of Ex CAPFs & AR personnel in receipt of Gallantry Awards",
+            "Wards/widows of retired and serving CAPFs & AR Personnel (Personnel below Officer Rank)",
+            "Pursuing first professional degree programme in specified fields",
+            "Minimum of 60% marks in Minimum Entry Qualification (MEQ)"
+        ],
+        "exclusions": [
+            "Wards of civilian employees of CAPFs, AR, and States/UTs Police personnel",
+            "Applicants pursuing professional courses through correspondence/distance learning",
+            "Applicants availing the benefit of other scholarship schemes/getting stipend and financial assistance",
+            "Applicants already availed scholarship under PMSS",
+            "Applicants pursuing courses not leading to the award of a degree",
+            "Applicants studying Abroad",
+            "Change of course/college by the Selected Student"
+        ],
+        "application_process": "Online submission for the scholarship can be done through the website of the National Scholarship Portal.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Service Certificate for serving personnel",
+            "Duly attested scanned copy of the Mark sheet MEQ",
+            "PPO/Discharge Certificate/Book for categories A to F",
+            "Disability Certificate for categories B & D",
+            "Death Certificate for categories A & C",
+            "Certificate of Gallantry award for category E"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Prime Minister\u2019s Scholarship Scheme for the Wards of Central Armed Police Forces & Assam Rifles'?",
+                "answer": "It is a scholarship scheme introduced by the Ministry of Home Affairs, Government of India to encourage higher technical & professional education for the dependent wards & widows of CAPFs & AR Personnel."
+            },
+            {
+                "question": "How many scholarships are available under the scheme each year?",
+                "answer": "A total of 2000 scholarships are awarded annually under the PMSS, with an equal allocation for both girls and boys."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "The benefits include a monthly scholarship amount of \u20b93,000 for girls and \u20b92,500 for boys."
+            },
+            {
+                "question": "What is the duration of the scholarship?",
+                "answer": "The scholarship is applicable for up to 5 years, depending on the duration of the course pursued by the applicant."
+            },
+            {
+                "question": "What happens if there is a shortfall in fresh scholarship recipients?",
+                "answer": "If the number of fresh applicants selected is less than 1000, the shortfall will not be adjusted from the allocation for girls or boys."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/warb/G_1197_3001.pdf"
+            },
+            {
+                "type": "National Scholarship Portal",
+                "url": "https://scholarships.gov.in/"
+            }
+        ],
+        "tags": [
+            "CAPF",
+            "Scholarship",
+            "Student",
+            "Ward",
+            "Widow"
+        ]
+    }
+}

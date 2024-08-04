@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Assam Arogya Nidhi Scheme",
+        "state": "Assam",
+        "department": "Health & Family Welfare Department, Govt. of Assam",
+        "type": "Grant",
+        "beneficiary": "BPL families and families with an annual income of less than \u20b95.00 Lakhs",
+        "details": "The scheme 'Assam Arogya Nidhi (AAN)' was launched to provide financial assistance for general and specialized treatment of life-threatening diseases and injuries caused by natural and manmade disasters. Beneficiaries are selected by a Selection Committee notified by the Government of Assam. The Government of India contributes 50% of the funds sanctioned by the State Government.",
+        "benefits": [
+            "Financial assistance up to a maximum benefit of \u20b93.00 Lakh.",
+            "Coverage for serious diseases requiring surgery/implants/procedures.",
+            "Financial assistance admissible for treatment in all Government hospitals and reputed private hospitals registered under the Clinical Establishment Act."
+        ],
+        "eligibility": [
+            "All Indian citizens who are ordinarily resident of the State of Assam.",
+            "Family income of the applicant should be less than \u20b95.00 lakhs per annum.",
+            "No age limit for coverage under the scheme.",
+            "No Govt. employee or Govt. pensioners and their family members will be eligible."
+        ],
+        "exclusions": [
+            "Government employees and pensioners and their family members."
+        ],
+        "application_process": "Offline. The applicant should visit the official website and download the application form. The completed application should be submitted to NHM, Assam, or to the Joint Director of Health Services of the District.",
+        "documents_required": [
+            "Photograph of the patient (Attested by Doctor)",
+            "Attested photocopy of Income Certificate by Revenue Circle Officer.",
+            "Attested photocopy of Identity & Address Proof (Voter ID, ADHAAR CARD, Driving license).",
+            "Original bills, vouchers, receipts, etc.",
+            "Copy of the medical documents of treatment certified by treating Doctor/Hospital.",
+            "Discharge Summary/Prescription (Attested).",
+            "Attested Photocopy of the first page of the Bank Pass Book.",
+            "Attested Photocopy of PMJAY/AAA Card."
+        ],
+        "faqs": [
+            {
+                "question": "What is 'Assam Arogya Nidhi Scheme'?",
+                "answer": "A yearly Financial Assistance Scheme provided as reimbursement to families whose yearly income is less than \u20b95.00 lakhs for treatment of serious diseases including accident cases."
+            },
+            {
+                "question": "How much financial assistance will be provided under the scheme?",
+                "answer": "Financial assistance up to a maximum benefit of \u20b93.00 Lakh will be provided."
+            },
+            {
+                "question": "What type of diseases are to be covered under the scheme?",
+                "answer": "Any serious disease requiring surgery/implants/procedures like Bone Marrow Transplant or any other critical disease including serious accident cases."
+            },
+            {
+                "question": "In which hospital will the financial assistance be admissible for treatment?",
+                "answer": "All Government hospitals including Medical Colleges, Tertiary Health Care facilities, and reputed private hospitals registered under the Clinical Establishment Act."
+            },
+            {
+                "question": "Who will select the beneficiary?",
+                "answer": "Beneficiaries are selected by a Selection Committee notified by the Government of Assam."
+            },
+            {
+                "question": "Is it a 100% state-sponsored scheme?",
+                "answer": "No, the Government of India contributes 50% of the funds sanctioned by the State Government."
+            },
+            {
+                "question": "Who is eligible under the scheme?",
+                "answer": "Individuals whose family income is less than \u20b95.00 lakhs per annum."
+            },
+            {
+                "question": "Is this scheme only for residents of Assam State?",
+                "answer": "Yes, all Indian citizens who are ordinarily residents of the State of Assam are eligible."
+            },
+            {
+                "question": "What is the age limit to apply for the scheme?",
+                "answer": "There is no age limit for applying under the scheme."
+            },
+            {
+                "question": "Can a government employee or pensioner be eligible for the scheme?",
+                "answer": "No, government employees or pensioners and their family members are not eligible."
+            },
+            {
+                "question": "Where can I get the application form?",
+                "answer": "The applicant should visit the official website and download the application form."
+            },
+            {
+                "question": "How can I apply under the scheme?",
+                "answer": "The applicant must complete the application and submit it to NHM, Assam, or to the Joint Director of Health Services of the District."
+            },
+            {
+                "question": "How will the financial assistance be provided to eligible beneficiaries?",
+                "answer": "Financial assistance is provided to eligible beneficiaries preferably through Direct Bank Transfer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://nhm.assam.gov.in/schemes/assam-arogya-nidhi"
+            },
+            {
+                "type": "Website",
+                "url": "https://hfw.assam.gov.in/schemes/assam-arogya-nidhi-aan"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Financial Assistance",
+            "Assam",
+            "Government Scheme"
+        ]
+    }
+}

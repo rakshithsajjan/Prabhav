@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Balika Samrithi Yojana",
+        "state": "Puducherry",
+        "department": "Department of Women & Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Girl Child",
+        "details": "The scheme 'Balika Samrithi Yojana' by the Department of Women & Child Development, Government of Pondicherry was introduced to improve the status of the girl child and provide nutritious food to the girl child. Through this scheme, assistance of \u20b9500 in the form of a National Savings Certificate is provided to lactating mothers. The target beneficiaries are girl children born on or after 15-8-97.",
+        "benefits": [
+            "Assistance of \u20b9500 in the form of a National Savings Certificate."
+        ],
+        "eligibility": [
+            "The applicant should be a girl child born on or after 15-8-97.",
+            "The annual income of the family of the applicant should not exceed \u20b915,000.",
+            "The applicant should be a citizen of India.",
+            "The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 3 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online. The interested applicant should visit the Office/ Sub-Office of the Department of Women and Child Development, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications, or take print of the prescribed format of the application form.",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Residence Certificate from the Revenue Department.",
+            "Income Certificate from the Revenue Department.",
+            "Passport-sized Photograph.",
+            "Declaration/Undertaking (if any).",
+            "Birth Certificate from the Municipality/Commune.",
+            "In the absence of an Aadhaar Card; the applicant is required to provide his/her Aadhaar Enrolment ID along with ANY ONE of the following documents - Bank or Post Office Passbook with Photo, Permanent Account Number (PAN) Card, Passport, Ration Card, Voter Identity Card, MGNREGA Card, Kisan Photo Passbook, Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988, Certificate of identity having a photo of such person issued by a Gazetted Officer or a Tehsildar on an official letterhead, Any other document as specified by the Department."
+        ],
+        "faqs": [
+            {
+                "question": "Can an applicant use a driving license as an alternative to an Aadhaar Card?",
+                "answer": "Yes, a driving license issued by the Licensing Authority is accepted as an alternative document if an Aadhaar Card is not available."
+            },
+            {
+                "question": "What role does the Revenue Department play in the application process?",
+                "answer": "The Revenue Department issues necessary certificates such as residence and income certificates required for the application."
+            },
+            {
+                "question": "What does the scheme aim to provide to lactating mothers?",
+                "answer": "Lactating mothers receive assistance in the form of a \u20b9500 National Savings Certificate under the BALIKA SAMRITHI YOJANA."
+            },
+            {
+                "question": "How can individuals contact the authorities for further information about the scheme?",
+                "answer": "For additional information, individuals can visit https://wcd.py.gov.in/contact-us."
+            },
+            {
+                "question": "Can an applicant residing in Pondicherry for two years apply for the scheme?",
+                "answer": "No, continuous residence in Pondicherry for at least three years is a prerequisite for eligibility."
+            },
+            {
+                "question": "Are there any special provisions for applicants without an Aadhaar Card?",
+                "answer": "Yes, alternative documents such as bank passbook, PAN card, or ration card can be submitted in the absence of an Aadhaar Card."
+            },
+            {
+                "question": "Can a voter identity card be used as an alternative to an Aadhaar Card?",
+                "answer": "Yes, a voter identity card is accepted as an alternative document in the absence of an Aadhaar Card."
+            },
+            {
+                "question": "Is there a deadline for submitting applications to the BALIKA SAMRITHI YOJANA?",
+                "answer": "The scheme does not specify a deadline for application submission."
+            },
+            {
+                "question": "What actions can be taken through the provided Grievance Redressal link?",
+                "answer": "Grievances related to the scheme can be addressed through the Central Public Grievance Redressal and Monitoring System at https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system."
+            },
+            {
+                "question": "How can applicants track the status of their BALIKA SAMRITHI YOJANA application?",
+                "answer": "Application status can be tracked online at https://edistrict.py.gov.in/User/TrackApplication.aspx."
+            },
+            {
+                "question": "How is the financial assistance provided to eligible mothers?",
+                "answer": "Assistance is given in the form of a National Savings Certificate, valuing \u20b9500."
+            },
+            {
+                "question": "Who are the targeted beneficiaries under the scheme?",
+                "answer": "The beneficiaries are girl children born on or after 15-8-97."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://wcd.py.gov.in/contact-us"
+            },
+            {
+                "type": "Office Locations",
+                "url": "https://wcd.py.gov.in/office-locations"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+            }
+        ],
+        "tags": [
+            "Child",
+            "Financial Assistance",
+            "Girl",
+            "Mother",
+            "Women"
+        ]
+    }
+}

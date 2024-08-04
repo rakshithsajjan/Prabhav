@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "House Subsidy Scheme",
+        "state": "Himachal Pradesh",
+        "department": "Government of Himachal Pradesh",
+        "type": "Subsidy",
+        "beneficiary": "Individuals from marginalized sections including Scheduled Castes, Other Backward Classes, Minority Communities, Single Women, or handicapped",
+        "details": "The housing subsidy scheme was launched by the Government of Himachal Pradesh to provide financial assistance to individuals from marginalized sections for the construction of their own houses. Under this scheme, a subsidy of Rs. 1,30,000/- is provided to persons from Scheduled Castes, Other Backward Classes, Minority Communities, Single Women, or handicapped for the construction of their houses. This scheme aims to improve the living conditions and overall quality of life of individuals from these sections.",
+        "benefits": [
+            "The scheme provides a subsidy of Rs. 1,30,000/- for the construction of a house.",
+            "Individuals from marginalized sections, including Scheduled Castes, Other Backward Classes, Minority Community, Single Women, or handicapped, can apply for this scheme.",
+            "This scheme aims to improve the living conditions and overall quality of life of individuals from these sections."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Himachal Pradesh.",
+            "The applicant should belong to Scheduled Cast, Other Backward Classes, Minority Community, Single Women, or Handicapped.",
+            "The applicant's annual income should be less than Rs. 3.00 lakhs.",
+            "The applicant should not have availed of any such subsidy earlier.",
+            "The applicant should have a bonafide Himachali certificate of the couple.",
+            "The applicant should possess a Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate.",
+            "The applicant should have income and revenue papers (Record of Right \u2013 Parcha & Tatima).",
+            "The applicant should have a recommendation from the concerned Gram Panchayat.",
+            "Latest photographs of the present house are required."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Bonafide Himachali Certificate of the couple.",
+            "Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate.",
+            "Income Certificate.",
+            "Revenue Papers (Record of Right \u2013 Parcha & Tatima)",
+            "Recommendation from the concerned Gram Panchayat.",
+            "Certificate from the applicant that he/she is not availed any such subsidy earlier.",
+            "Latest Photographs of the present house."
+        ],
+        "faqs": [
+            {
+                "question": "Who Can Apply For The House Subsidy Scheme?",
+                "answer": "Individuals from Scheduled Cast, Other Backward Classes, Minority Community, Single Women, or handicapped, with an annual income of less than Rs. 3.00 lakhs, and who have not availed any such subsidy earlier, can apply for this scheme."
+            },
+            {
+                "question": "What Documents Are Required For The Application Process?",
+                "answer": "Documents required for the application process include a Bonafide Himachali Certificate of the couple, Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate, Income Certificate, Revenue Papers (Record of Right \u2013 Parcha & Tatima), Recommendation from the concerned Gram Panchayat, Certificate from the applicant that he/she is not availed any such subsidy earlier, and Latest Photographs of the present house."
+            },
+            {
+                "question": "What Is The Subsidy Amount Provided Under This Scheme?",
+                "answer": "The subsidy amount provided under this scheme is Rs. 1,30,000/- for the construction of a house."
+            },
+            {
+                "question": "Can Individuals From Other States Apply For This Scheme?",
+                "answer": "No, only residents of Himachal Pradesh can apply for this scheme."
+            },
+            {
+                "question": "What Is The Purpose Of The Scheme?",
+                "answer": "The scheme aims to provide financial assistance to individuals from marginalized sections for the construction of their own houses and improve their living conditions."
+            },
+            {
+                "question": "What Is The Maximum Income Limit For Eligibility Under This Scheme?",
+                "answer": "The maximum annual income limit for eligibility under this scheme is Rs. 3.00 lakhs."
+            },
+            {
+                "question": "Can A Person Avail Of This Subsidy More Than Once?",
+                "answer": "No, a person cannot avail of this subsidy more than once."
+            },
+            {
+                "question": "What Is A Bonafide Himachali Certificate?",
+                "answer": "A bonafide Himachali certificate is a document that certifies an individual's permanent residence in Himachal Pradesh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Govt Portal",
+                "url": "https://hpshimla.nic.in/dwo-shimla/"
+            }
+        ],
+        "tags": [
+            "Construction",
+            "Handicapped",
+            "Housing Scheme",
+            "Minority Scheme",
+            "SC/ST",
+            "Subsidy",
+            "Women"
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "content": {
+        "title": "Sewing Machine Scheme- Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Workers in Haryana",
+        "details": "The Sewing Machine Scheme aims to provide sewing machines to workers in Haryana to promote self-employment and enhance their livelihood.",
+        "benefits": [
+            "Provision of sewing machines",
+            "Support for self-employment",
+            "Skill development opportunities"
+        ],
+        "eligibility": [
+            "Must be a registered worker under the Haryana Labour Welfare Board",
+            "Must have a Family ID or Aadhaar Number"
+        ],
+        "exclusions": [],
+        "application_process": "Online through the Labour Department Haryana website or Antyodaya-SARAL Portal",
+        "documents_required": [
+            "Aadhaar Number",
+            "Family ID (if applicable)",
+            "Passport-sized photograph"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/sms-hlwb"
+            },
+            {
+                "type": "Labour Department Haryana",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Sewing Machine",
+            "Welfare Scheme",
+            "Haryana",
+            "Labour Department"
+        ]
+    }
+}

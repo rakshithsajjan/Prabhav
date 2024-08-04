@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Financial Assistance For Persons With Special Needs",
+        "state": "Delhi",
+        "department": "Delhi Social Welfare Department",
+        "type": "Subsidy",
+        "beneficiary": "Persons with Special Needs",
+        "details": "Delhi Social Welfare Department is implementing a disability pension which is fusion of State as well Central Government contribution. The scheme is known as Subsistence Allowance/Financial Allowance to person with special need. The grant is Rs 2500/- per month.",
+        "benefits": [
+            "The applicants get financial assistance of Rs 2500/- per month till the age of 60."
+        ],
+        "eligibility": [
+            "The age of Disabled persons should not be more than 60 years (0 to 60 years).",
+            "Family income should not be more than Rs. 75,000/- p.a. from all sources.",
+            "A resident of the National Capital Territory of Delhi for at least 5 years preceding the date of submission of application.",
+            "The disability of the applicant should not be less than 40%. The Medical Board of Govt. The hospital should issue the disability certificate.",
+            "Should have a 'single-operated' account in any Bank or Post Office for receiving the payment through an electronic clearing system."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "For applying, self-attested documentary proof for the following needs to be scanned and uploaded.",
+            "Age proof (any document as listed for Old Age Pension).",
+            "Residence proof.",
+            "Bank a/c number (Single a/c). This provision may be relaxed in the case of minors who can have a bank account under guardianship.",
+            "Disability Certificate issued by a Government Hospital as per norms.",
+            "One passport-size photo of the applicant.",
+            "Income self-declaration (format given on the portal can be used)."
+        ],
+        "faqs": [
+            {
+                "question": "What is financial assistance to persons with special needs scheme?",
+                "answer": "Financial Assistance for Persons with Special Needs (Disability Pension) is the welfare schemes of Delhi Govt of NCTD to provide assistance to Disabled Person."
+            },
+            {
+                "question": "What are the eligibility criteria to avail FAPSN benefits?",
+                "answer": "To persons with minimum 40% disability irrespective of age (i.e. from birth until death) and other criteria."
+            },
+            {
+                "question": "How many disabilities are included in scheme and what are these disabilities?",
+                "answer": "The disabilities include Blindness, Low vision, Leprosy-cured person, Deaf, Locomotor Disability, Cerebral Palsy, Autism Spectrum Disorder, Intellectual Disability, Mental Illness, Dwarfism, Muscular Dystrophy, Acid Attack Victims, Hard of hearing, Speech and language disability, Specific Learning Disabilities, Multiple Sclerosis, Parkinson\u2019s Disease, Hemophilia, Thalassemia, Sickle Cell Disease, Multiple Disabilities."
+            },
+            {
+                "question": "What are the documents required to avail FAPSN benefits?",
+                "answer": "Self-attested documentary proof for age, residence, bank account, disability certificate, passport-size photo, and income self-declaration."
+            },
+            {
+                "question": "What is the procedure for applying for FAPSN scheme?",
+                "answer": "Application to be made online on e-District portal www.edistrict.delhigovt.nic.in."
+            },
+            {
+                "question": "Is Aadhar necessary for applying for FAPSN scheme?",
+                "answer": "Yes, Aadhaar is mandatory for filling up the application."
+            },
+            {
+                "question": "What kind of Bank Account is required to avail FAPSN benefits?",
+                "answer": "Single Bank Account. This provision may be relaxed in the case of minors."
+            },
+            {
+                "question": "Can an applicant apply for financial assistance under FAPSN who is not resident of Delhi?",
+                "answer": "No, the scheme is only for the residents of Delhi, residing from last 5 years."
+            },
+            {
+                "question": "What is the quantum of financial assistance under FAPSN scheme?",
+                "answer": "Rs. 2500/- per month."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://discomm.delhi.gov.in/wps/wcm/connect/doit_ocpd/DoIT_OCPD/Home/Schemes+and+facilities+for+Persons+with+Disabilities"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://edistrict.delhigovt.nic.in/eDownload/FaqForm/Faq_2604.pdf"
+            },
+            {
+                "type": "Application Submission",
+                "url": "https://edistrict.delhigovt.nic.in/"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Financial Assistance",
+            "Delhi Government",
+            "Social Welfare"
+        ]
+    }
+}

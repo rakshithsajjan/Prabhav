@@ -1,0 +1,56 @@
+{
+    "content": {
+        "title": "Credit Based Schemes For SC - Term Loan (TL)",
+        "state": "Not specified",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Loan",
+        "beneficiary": "Entrepreneurs of Scheduled Caste Category",
+        "details": "A loan scheme by Ministry of Social Justice and Empowerment for Entrepreneur of Scheduled Caste Category. NSFDC provides term loan up to 95% of the cost of project, subject to the condition that the SCAs contribute their share of assistance as per their schemes and also provide the required subsidy besides tying up of the financial resources from other sources available. At least 50% of funding to the beneficiaries having annual family income up to Rs. 1.50 lakh and balance 50% funding to the beneficiaries having annual family income above Rs. 1.50 lakh and up to Rs. 3.00 lakh.",
+        "benefits": [
+            "Term loan up to 95% of the cost of project Upto Rs.5.00 lakh at Interest rates of 6%",
+            "Term loan up to 95% of the cost of project Above Rs. 5.00 lakh & upto Rs.10.00 lakh at Interest rates of 8%",
+            "Term loan up to 95% of the cost of project Above Rs. 10.00 lakh & upto Rs.50.00 lakh at Interest rates of 9%"
+        ],
+        "eligibility": [
+            "The scheme is for entrepreneurs of the Scheduled Caste Category."
+        ],
+        "exclusions": [],
+        "application_process": "The interested eligible person shall contact the nearest Channeling Agency.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Income certificate",
+            "Caste certificate",
+            "Bank account statement"
+        ],
+        "faqs": [
+            {
+                "question": "What is moratorium period?",
+                "answer": "A moratorium period refers to a particular period of a loan tenure during which the borrower does not have to repay anything."
+            },
+            {
+                "question": "Does the scheme provide loans to all Scheduled Castes persons?",
+                "answer": "No, NSFDC provides loans only to economically poor sections of Scheduled Castes whose annual family income is up to Rs. 3.00 lakh both in rural & urban areas."
+            },
+            {
+                "question": "How does the scheme provide assistance?",
+                "answer": "The applicants should contact the Channelizing Agencies if they wish to avail the scheme."
+            },
+            {
+                "question": "With what type of Projects can I avail this scheme?",
+                "answer": "These are indicative list of projects: Agricultural & Allied Sector, Small Industries Sector, Service & Transport Sector, etc."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/cbssc-tl"
+            }
+        ],
+        "tags": [
+            "Loan",
+            "Scheduled Caste",
+            "Entrepreneurship",
+            "Financial Assistance"
+        ]
+    }
+}

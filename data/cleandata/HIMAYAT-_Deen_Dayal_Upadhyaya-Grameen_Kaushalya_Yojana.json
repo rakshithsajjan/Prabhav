@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "HIMAYAT- Deen Dayal Upadhyaya-Grameen Kaushalya Yojana",
+        "state": "J&K",
+        "department": "Ministry of Rural Development",
+        "type": "Skill Development",
+        "beneficiary": "Youth aged 15-35 years",
+        "details": "The HIMAYAT scheme aims to provide skill development training to youth in Jammu and Kashmir to enhance their employability.",
+        "benefits": [
+            "Training courses ranging from 3 to 12 months",
+            "Post Placement Settlement Support",
+            "Travel and Food Allowance",
+            "Standardized Himayat ID Card"
+        ],
+        "eligibility": [
+            "Age between 15 to 35 years",
+            "Domicile of Jammu and Kashmir",
+            "Registered legal entity for PIAs"
+        ],
+        "exclusions": [],
+        "application_process": "Online registration through the official website.",
+        "documents_required": [
+            "Identity proof",
+            "Address proof",
+            "Educational certificates"
+        ],
+        "faqs": [
+            {
+                "question": "What Would Be The Duration Of The Training Course? Will The Duration Be The Same For All Courses?",
+                "answer": "The duration of training courses ranges from 3 months to 12 months (576 hours to 2304 hours)."
+            },
+            {
+                "question": "I Am A 24 Years Old Domicile Of The State Of J&K. Am I Eligible To Apply For Himayat Scheme?",
+                "answer": "Yes, since all applicants in the age group of 15-35 years are eligible, you are therefore eligible to apply to this scheme."
+            },
+            {
+                "question": "Will There Be A Post Placement Settlement Support?",
+                "answer": "Yes, the Post Placement Settlement Support will be as follows - Cash amount of Rs. 12000/- (@ Rs. 2000/- per month) for duration of six months payable to every trainee who has completed the 3 months training programme and has been successfully placed in a job."
+            },
+            {
+                "question": "What Is 'Himayat ID Card'?",
+                "answer": "Himayat ID Card refers to the standardized Identity Card that every trainee enrolled under the Himayat Scheme, must be provided by the PIA."
+            },
+            {
+                "question": "Will Travel And Food Allowance Be Provided To The Trainees?",
+                "answer": "Yes, Travel and Food Allowance of \u20b950 for every day of the training program attended."
+            },
+            {
+                "question": "Who Will Be Considered As A 'Dropout' For The Purpose Of This Scheme?",
+                "answer": "Anyone who does not have 80 % attendance at the end of the first month would be deemed \u2018dropout\u2019."
+            },
+            {
+                "question": "What Is The Eligibility Criteria For Becoming A PIA?",
+                "answer": "Any organization that is a registered legal entity under the relevant laws of India can partner with DDU-GKY as a PIA."
+            },
+            {
+                "question": "What Is The Expected Outcome Of The Training?",
+                "answer": "The expected outcome is to place a minimum of 70% of the trainees in entry-level service/ manufacturing sector jobs."
+            },
+            {
+                "question": "Where Can I Find The Link To The Registration Form?",
+                "answer": "Kindly visit the following link to apply for Himayat Scheme: https://www.himayat.org/CandidateRegistrationNew.aspx"
+            },
+            {
+                "question": "How Do I Contact The HMMU Team?",
+                "answer": "The link to the contact details of the HMMU Team are given below: https://www.himayat.org/Contacts.aspx"
+            },
+            {
+                "question": "I Wish To Register A Grivance. How Can I Do That?",
+                "answer": "You can register your grievances by visiting the link below: https://www.himayat.org/GrievanceRegistration.aspx"
+            },
+            {
+                "question": "Where Can I Find The Work Schedule For Agro-Allied Sector Under Himayat Scheme?",
+                "answer": "The link to the Work Schedule for Agro-Allied Sector under Himayat Scheme is given below: http://himayat.jkedi.org/uploads/training/agriallied.pdf"
+            },
+            {
+                "question": "Where Can I Find The Work Schedule For Manufacturing/Service/Handicrafts Under Himayat Scheme?",
+                "answer": "The link to the Work Schedule for Manufacturing/Service/Handicrafts under Himayat Scheme is given below: http://himayat.jkedi.org/uploads/training/services.pdf"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/himayat"
+            }
+        ],
+        "tags": [
+            "Skill Development",
+            "Youth Empowerment",
+            "HIMAYAT",
+            "Jammu and Kashmir"
+        ]
+    }
+}

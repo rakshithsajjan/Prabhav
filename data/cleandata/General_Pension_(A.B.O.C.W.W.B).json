@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "General Pension (A.B.O.C.W.W.B)",
+        "state": "Assam",
+        "department": "Labour Welfare Department, Government of Assam",
+        "type": "Pension",
+        "beneficiary": "Building Worker",
+        "details": "The scheme 'General Pension' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, a pension shall be given to a registered beneficiary working as a building worker for not less than one year after the commencement of the Rules on completion of sixty years of age. The pension will become payable from the first day of the succeeding to the month in which the worker completed 60 years of age.",
+        "benefits": [
+            "A pension of \u20b92,000/- plus \u20b9100/- shall be given to a registered beneficiary for every completed year of service from the year of his/her registration.",
+            "The pension will become payable from the first day of the succeeding to the month in which the registered worker completed 60 years of age."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Assam.",
+            "The applicant should be engaged in any building & other construction work.",
+            "The construction worker should be registered with the Assam Building and Other Construction Workers Welfare Board.",
+            "The registered worker who has completed 60 years of age shall be eligible for the pension.",
+            "A registered beneficiary who has worked as a building worker for at least one year upon reaching the age of sixty will be eligible for a pension."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs",
+        "documents_required": [
+            "Passport size photograph (Applicant and Nominee)",
+            "Proof of Age/DOB",
+            "Copy of Aadhaar Card",
+            "Copy of Voter ID Card",
+            "Bank passbook first page",
+            "Experience Certificate/Employers Certificate (90 days working record to check eligibility)",
+            "Completely filled Nomination Form",
+            "Completely filled Registration Form",
+            "Any other relevant documents"
+        ],
+        "faqs": [
+            {
+                "question": "What is the General Pension Scheme?",
+                "answer": "The General Pension Scheme is initiated by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), under the Labour Welfare Department, Government of Assam. It provides pension benefits to registered beneficiaries who have been actively engaged as building workers for not less than one year after the commencement of the Rules and have reached the age of sixty."
+            },
+            {
+                "question": "What are the key benefits of the Scheme?",
+                "answer": "A pension of \u20b92,000/- plus \u20b9100/- will be given to a registered beneficiary for every completed year of service from the year of his/her registration."
+            },
+            {
+                "question": "Is the pension amount fixed, or does it vary based on any factors?",
+                "answer": "The pension amount is fixed at \u20b92,000/- plus \u20b9100/- for every completed year of service from the year of registration. The total pension amount will depend on the number of years the individual has actively worked as a building worker."
+            },
+            {
+                "question": "Can non-residents of Assam apply for the Scheme?",
+                "answer": "No, only permanent residents of Assam are eligible to apply for the General Pension Scheme."
+            },
+            {
+                "question": "When does the pension become payable under this scheme?",
+                "answer": "The pension becomes payable from the first day of the month succeeding the month in which the registered worker completes 60 years of age."
+            },
+            {
+                "question": "Can a registered worker who has not completed one year of service after turning sixty avail the pension benefits?",
+                "answer": "No, a registered beneficiary must have worked as a building worker for at least one year upon reaching the age of sixty to be eligible for the pension benefits."
+            },
+            {
+                "question": "When does a registered worker become eligible for pension benefits under the General Pension Scheme?",
+                "answer": "A registered worker becomes eligible for pension benefits under the General Pension Scheme upon reaching the age of 60 years."
+            },
+            {
+                "question": "What is the additional eligibility criterion related to work experience for a registered beneficiary?",
+                "answer": "In addition to reaching the age of 60, a registered beneficiary must have worked as a building worker for at least one year after reaching the age of sixty to qualify for the pension benefits."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labourcommissioner.assam.gov.in/portlet-innerpage/various-welfare-benefits-for-registered-construction-workers"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://abocwwb.assam.gov.in/"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://labourcommissioner.assam.gov.in/sites/default/files/swf_utility_folder/departments/coi_labour_uneecopscloud_com_oid_14/portlet/level_2/sop_bocw_online_mode_for_uploading.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Labour",
+            "Pension"
+        ]
+    }
+}

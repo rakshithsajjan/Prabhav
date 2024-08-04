@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Coffee Development Programme in North Eastern Region: Consolidation of Coffee",
+        "state": "North Eastern Region",
+        "department": "Ministry of Commerce and Industry",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "The scheme 'Coffee Development Programme in North Eastern Region: Consolidation of Coffee' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to increase the productivity of the existing coffee holdings by gap filling or rejuvenation, followed by improved cultivation methods such as application of compost, bush management, shade management, pest and disease control, etc.",
+        "benefits": [
+            "Unit Cost: \u20b960,000 per hectare.",
+            "Scale of Subsidy: 50% of the Unit Cost, which is \u20b930,000 per hectare.",
+            "Release of Subsidy in two installments: 1st installment: 60% of the unit cost; 2nd installment: 40% of the unit cost.",
+            "Mode of Payment through EFT/RTGS/NEFT."
+        ],
+        "eligibility": [
+            "The applicant must be a tribal grower.",
+            "The applicant's area is ineligible for subsidy if it received consolidation subsidy during the XII Plan period.",
+            "The applicant's land records must be in their name.",
+            "The applicant should provide land records or a certified possession certificate.",
+            "The applicant must procure seed material for gap filling or consolidation exclusively from the Coffee Board."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Application and Self Declaration duly filled in and signed by the Applicant/s (in duplicate) in the prescribed format.",
+            "Proof of photo identity of the applicant/s, such as a copy of the Driving License, Ration Card, Election Photo Identity Card (EPIC), Aadhaar Card, Passport, or PAN Card.",
+            "Proof of Land Ownership.",
+            "Bank Account details, including account number, bank name, branch, and IFSC code."
+        ],
+        "faqs": [
+            {
+                "question": "What is the time frame for submitting the application to claim the 2nd installment of subsidy?",
+                "answer": "The application for the 2nd installment should be submitted during the 2nd year of vacancy filling."
+            },
+            {
+                "question": "How is the subsidy calculated for different coffee growers based on their land area?",
+                "answer": "The subsidy is calculated as 50% of the unit cost (\u20b930,000 per hectare) for each eligible grower."
+            },
+            {
+                "question": "What are the acceptable forms of photo identity for the subsidy application?",
+                "answer": "Acceptable forms include a copy of the Driving License, Ration Card, Election Photo Identity Card (EPIC), Aadhaar Card, Passport, or PAN Card."
+            },
+            {
+                "question": "Can you clarify the procedure for releasing the 1st and 2nd installments of subsidy to the grower's bank account?",
+                "answer": "The Joint Director (Extn.) / Deputy Director (Extn.) releases these installments through EFT/RTGS/NEFT after confirming claim admissibility."
+            },
+            {
+                "question": "How does the SLO/JLO Office contribute to the subsidy claim process?",
+                "answer": "SLO/JLO Offices conduct field inspections, provide inspection reports, and offer recommendations for subsidy claims."
+            },
+            {
+                "question": "What is the role of the Extension Office of the Coffee Board in the subsidy claim process?",
+                "answer": "The Extension Office handles document submission, scrutiny, and recommendation for subsidy claims."
+            },
+            {
+                "question": "What are the consequences for applicants providing incorrect information for subsidy benefits?",
+                "answer": "Applicants providing incorrect information may face legal action for recovery with applicable interest."
+            },
+            {
+                "question": "What happens if funds are not available in a particular year for eligible subsidy release?",
+                "answer": "The release of eligible subsidy is subject to fund availability during that specific year."
+            },
+            {
+                "question": "What documents are required to claim the 2nd installment of subsidy?",
+                "answer": "The same documents as for the 1st installment are needed, including an application, proof of identity, land ownership, and bank account details."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Grower's Registration",
+                "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "DBT",
+            "Farmer",
+            "Financial Assistance",
+            "Subsidy"
+        ]
+    }
+}

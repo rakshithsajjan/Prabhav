@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Children Education Assistance Fund",
+        "state": "Nagaland",
+        "department": "Department of School Education",
+        "type": "Scholarship",
+        "beneficiary": "Children from underprivileged backgrounds",
+        "details": "Under the CEAF scheme, eligible children are provided with financial assistance to cover the cost of tuition fees, textbooks, uniforms, and other educational expenses. The scheme is implemented by the Department of School Education in Nagaland. It aims to ensure that children from underprivileged backgrounds are not deprived of their right to education due to financial constraints.",
+        "benefits": [
+            "Financial Assistance: Covers tuition fees, textbooks, uniforms, and other educational expenses.",
+            "Promotes Education: Ensures no child is deprived of education due to financial constraints.",
+            "Inclusivity: Provides access to education for all children, regardless of socio-economic background.",
+            "Reduced Drop-Out Rates: Encourages children to continue their education by covering education-related expenses."
+        ],
+        "eligibility": [
+            "The scheme may not be applicable to students studying in private schools.",
+            "The scheme may not be applicable to students who are receiving financial assistance from other government schemes for education.",
+            "The scheme may not be applicable for students who have repeated classes or are over-age for their class.",
+            "The scheme may not be applicable to students who have poor academic performance.",
+            "The scheme may not be applicable to students who are absent from school for a significant period of time."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Residence proof of the child in Nagaland",
+            "Family income certificate",
+            "Aadhar card or any other government-approved identity proof of the child and the parent/guardian",
+            "School admission or enrollment certificate of the child in a government school",
+            "Bank account details of the parent/guardian where the financial assistance will be credited."
+        ],
+        "faqs": [
+            {
+                "question": "What is the age limit for availing benefits under the CEAF scheme?",
+                "answer": "The age limit for availing benefits under the CEAF scheme may vary depending on the guidelines set by the Department of School Education in Nagaland. Generally, the scheme is applicable for children studying in recognized schools up to the age of 18 years."
+            },
+            {
+                "question": "Can children studying in private schools apply for the CEAF scheme?",
+                "answer": "As per the guidelines set by the Department of School Education in Nagaland, the scheme is applicable for children studying in recognized schools only, which may include government schools, government-aided schools, and private schools recognized by the government."
+            },
+            {
+                "question": "Can parents or guardians apply for the CEAF scheme online?",
+                "answer": "The application process for the CEAF scheme may vary depending on the guidelines set by the Department of School Education in Nagaland. Generally, applicants need to submit the application form along with necessary documents in person at the designated office."
+            },
+            {
+                "question": "Is there any provision for renewal of the CEAF scheme?",
+                "answer": "The guidelines for renewal of the CEAF scheme may vary depending on the guidelines set by the Department of School Education in Nagaland. Generally, applicants need to reapply for the scheme every year and meet the eligibility criteria."
+            },
+            {
+                "question": "Can children studying in colleges or higher education institutions apply for the CEAF scheme?",
+                "answer": "The CEAF scheme is applicable for children studying in recognized schools only, and not for higher education institutions. However, the state government may have other schemes or initiatives to support the education of students pursuing higher education."
+            },
+            {
+                "question": "What is the eligibility criteria for availing benefits under the CEAF scheme?",
+                "answer": "The eligibility criteria for the CEAF scheme may vary depending on the guidelines set by the Department of School Education in Nagaland. Generally, the scheme is applicable for children from economically weaker sections of society who are studying in recognized schools."
+            },
+            {
+                "question": "What is the income limit for availing benefits under the CEAF scheme?",
+                "answer": "The income limit for availing benefits under the CEAF scheme may vary depending on the guidelines set by the Department of School Education in Nagaland. Generally, the scheme is applicable for children whose parents or guardians have an annual income below a certain threshold."
+            },
+            {
+                "question": "What is the process to apply for the CEAF scheme?",
+                "answer": "The application process for the CEAF scheme may vary depending on the guidelines set by the Department of School Education in Nagaland. Generally, eligible candidates can obtain the application form from the respective school authorities or from the District Education Office. The completed form along with the required documents should be submitted to the respective school authorities or to the District Education Office."
+            },
+            {
+                "question": "What documents are required to apply for the CEAF scheme?",
+                "answer": "The documents required to apply for the CEAF scheme may vary depending on the guidelines set by the Department of School Education in Nagaland. Generally, candidates may be required to submit documents such as income certificates, residential proofs, birth certificates, and school attendance records."
+            },
+            {
+                "question": "Can I apply for the CEAF scheme online?",
+                "answer": "The application process for the CEAF scheme may not be available online. Eligible candidates can obtain the application form from the respective school authorities or from the District Education Office."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://education.nagaland.gov.in/pre-matric-scholarship/"
+            }
+        ],
+        "tags": [
+            "Children Education",
+            "Scholarship",
+            "Student Finance"
+        ]
+    }
+}

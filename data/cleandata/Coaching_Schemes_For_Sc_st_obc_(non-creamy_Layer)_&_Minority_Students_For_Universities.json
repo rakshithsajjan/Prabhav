@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Coaching Schemes For Sc/st/obc (non-creamy Layer) & Minority Students For Universities",
+        "state": "Not specified",
+        "department": "Ministry Of Minority Affairs",
+        "type": "Coaching",
+        "beneficiary": "SC, ST, OBC (non-creamy layer), and minority community students",
+        "details": "Coaching schemes for students belonging to SC (Scheduled Caste), ST (Scheduled Tribe), OBC (Other Backward Classes) (non-creamy layer), and minority communities are implemented to provide them with equal opportunities and support in pursuing higher education. These schemes aim to bridge the educational gap and enhance the competitiveness of these students.",
+        "benefits": [
+            "Financial assistance for books and journals",
+            "Financial assistance for audio-visual and teaching/learning aid material",
+            "Financial assistance for computers with printer",
+            "Financial assistance for photocopier",
+            "Financial assistance for generator or inverter",
+            "Honorarium to the Coordinator of the schemes",
+            "Remuneration to teachers and scholars",
+            "Part-time staff with computer knowledge",
+            "Part-time Peon/Attendant",
+            "Contingency funds"
+        ],
+        "eligibility": [
+            "Universities and colleges under Section 2(f) and fit to receive central assistance under Section 12(B) of the UGC Act, 1956",
+            "Institutions with a sufficient number of SC, ST, and Minority Communities students",
+            "General candidates holding BPL Cards may also be allowed for coaching classes",
+            "Percentage of OBC (non-creamy layer) and poor general candidates may be increased up to 40% if necessary"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The applicant needs to contact the Registrar/Principal, submit applications in the prescribed format, ensure correctness of information, and after verification, avail the benefits.",
+        "documents_required": [
+            "Aadhaar card",
+            "Caste/Community Certificate",
+            "Academic Transcripts or Mark Sheets",
+            "Bank Account Details"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for coaching schemes for SC/ST/OBC (non-creamy layer) and minority students?",
+                "answer": "Eligibility criteria may vary for different schemes, but typically, these schemes target students belonging to SC, ST, OBC (non-creamy layer), and minority communities."
+            },
+            {
+                "question": "What benefits do coaching schemes provide?",
+                "answer": "Coaching schemes offer benefits such as specialized training, expert faculty, study materials, mentorship, financial assistance, and access to quality coaching."
+            },
+            {
+                "question": "How can I apply for coaching schemes for SC/ST/OBC (non-creamy layer) and minority students?",
+                "answer": "The application process may vary depending on the scheme. Generally, you need to research the available schemes, review eligibility criteria, gather required documents, and submit the application."
+            },
+            {
+                "question": "Are there any financial assistance or scholarships available for coaching?",
+                "answer": "Many coaching schemes provide financial assistance, scholarships, or subsidized coaching fees to support students from economically disadvantaged backgrounds."
+            },
+            {
+                "question": "How can I track the status of my application?",
+                "answer": "After submitting your application, you may receive a reference number or acknowledgment to track the status."
+            },
+            {
+                "question": "Are coaching schemes only available for competitive exams or also for university admissions?",
+                "answer": "Coaching schemes are often available for both competitive exams and university admissions."
+            },
+            {
+                "question": "Where can I find more information about coaching schemes for SC/ST/OBC (non-creamy layer) and minority students?",
+                "answer": "Official government websites and educational institution websites are good sources for detailed information."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://www.ugc.gov.in/pdfnews/1910509_Guidelines-for-Coaching-Schemes-university.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/csmsu"
+            }
+        ],
+        "tags": [
+            "Coaching",
+            "SC",
+            "ST",
+            "OBC",
+            "Minority",
+            "Higher Education"
+        ]
+    }
+}

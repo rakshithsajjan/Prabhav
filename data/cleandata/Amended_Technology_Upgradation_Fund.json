@@ -1,0 +1,44 @@
+{
+    "content": {
+        "title": "Amended Technology Upgradation Fund",
+        "state": "India",
+        "department": "Ministry Of Textiles",
+        "type": "Subsidy",
+        "beneficiary": "Textile industry entities",
+        "details": "The Ministry of Textiles introduced the Amended Technology Upgradation Fund Scheme (ATUFS). This scheme aims to facilitate investment, employment, productivity, quality, and import and export substitution in the textile industry. It also indirectly promotes investments in the manufacturing of machinery for textiles. It is a credit-linked subsidy scheme for capital investment in textile manufacturing under the Government of India\u2019s Make in India and Zero Defect and Zero Effect initiatives.",
+        "benefits": [
+            "CIS 10% for weaving using new looms that are shuttle-less processing silk, handloom, and jute (subject to upper limit of Rs.20 crore)",
+            "CIS 15% for technical textiles and garments (subject to upper limit of Rs.30 crore)",
+            "CIS 10% for multiple composite units/segments where capital investment for technical textiles and garments is less than 50% of project cost (subject to upper limit of Rs.20 crore)",
+            "CIS 15% for multiple composite units/segments where capital investment for technical textiles and garments exceeds 50% of project cost (subject to upper limit of Rs.30 crore)"
+        ],
+        "eligibility": [
+            "Handloom sector",
+            "Silk Sector",
+            "Jute Sector",
+            "Technical textiles",
+            "Madeup/garment manufacturing",
+            "Processing fibres, fabrics, made-up, garments and yarns",
+            "Weaving preparatory and knitting"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "No Documents required for this Scheme"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://texmin.gov.in/sites/default/files/Guidelines%20%20for%20ATUFS%20dated%2029.02.2016.pdf"
+            }
+        ],
+        "tags": [
+            "Employment",
+            "Export",
+            "Import",
+            "Investment",
+            "Productivity"
+        ]
+    }
+}

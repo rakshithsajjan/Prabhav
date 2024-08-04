@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "Entrepreneur Support Scheme",
+        "state": "Kerala",
+        "department": "Directorate of Industries and Commerce, Government of Kerala",
+        "type": "Subsidy",
+        "beneficiary": "Micro, Small, and Medium Enterprises",
+        "details": "Entrepreneur Support Scheme (ESS) is the most popular and attractive scheme operated by the Directorate of Industries and Commerce, Government of Kerala. The scheme is operational w.e.f. 01.04.2012. The scheme aims to provide financial assistance to Micro, Small, and Medium Enterprises engaged in manufacturing activities in the State, proportional to the capital investment made. Depending upon the category of the investor, sector, and the District of investment, the unit can avail subsidy from 15% to 45% of the fixed capital investment. For this scheme, a loan from a financial institution is not mandatory.",
+        "benefits": [
+            "Provides Subsidy for the investment in Land, Building, Plant and machinery, Electrification, Essential Office Equipment, Pollution Control Devices, and other fixed assets.",
+            "For the General Category, assistance is 15% of the capital investment limited to \u20b930 lakh.",
+            "For Young (18 to 45 years), Women, SC/ST, and Non-Resident Keralite (NRK) entrepreneurs, the assistance is 25% limited to \u20b940 lakh.",
+            "Enterprises in priority sectors are eligible for an additional assistance of 10% limited to \u20b910 lakh.",
+            "MSMEs started in the districts of Idukki, Wayanad, Kasargode and Pathanamthitta are eligible for an additional support of 10% limited to \u20b910 lakh.",
+            "Enterprises set up after acquiring new technology from approved research institutions are eligible for additional support of 10% limited to \u20b910 lakh.",
+            "The total eligible assistance for an enterprise is limited to \u20b940 lakh."
+        ],
+        "eligibility": [
+            "All Micro, Small, and Medium Enterprises engaged in manufacturing activities and set up in the State, which had filed Entrepreneurs Memorandum Part I/II with the respective General Manager; District Industries Centre shall be eligible for this assistance.",
+            "For the purpose of this scheme an industrial unit eligible for the Entrepreneur Support assistance shall be an independent legal entity."
+        ],
+        "exclusions": [
+            "The industries included in the Negative List and notified as such from time to time, government-controlled industries, public sector undertakings, units started by government-controlled agencies, and units financed by KVIC/KVIB, etc. shall not be eligible for any assistance under these rules."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport size photo",
+            "Proof of age- to be supported with any proof and mandatory only in case applying for assistance for young entrepreneurs",
+            "Acknowledgement receipt during filing the application online",
+            "Self-attested copy of Challan/receipt towards payment of fees",
+            "Copy of Voters ID/Passport/Ration Card/Driving license of the promoter/promoters (attested by Gazetted officer) (in case applying for assistance under young entrepreneurs the document furnished shall show the Date of birth of the applicant)",
+            "Self-attested copy of resolution towards applying for this assistance in case of units other than proprietary",
+            "Self-attested copy of Acknowledgement of EM (EM part I in case of an application for Start-up support and part II for other assistance)",
+            "Copy of Caste Certificate (attested by Gazetted officer) (in case applying for assistance under SC/ST entrepreneurs)",
+            "Copy of the Project Report (Self attested)",
+            "Bank account details"
+        ],
+        "tags": [
+            "Enterprise",
+            "Entrepreneur",
+            "Financial Assistance",
+            "MSME",
+            "Start-up",
+            "Subsidy"
+        ],
+        "faqs": [
+            {
+                "question": "What is the aim of the scheme?",
+                "answer": "The scheme aims to provide financial assistance to Micro, Small, and Medium Enterprises engaged in manufacturing activities in the State, proportional to the capital investment made."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of the scheme is to provide extensive support to micro, small and medium enterprises and give one-time support to entrepreneurs, with due regard to special categories by optimal utilization of funds and giving more flexibility of operation while implementing the Scheme."
+            },
+            {
+                "question": "When did this scheme become operational?",
+                "answer": "The scheme is operational w.e.f. 01.04.2012."
+            },
+            {
+                "question": "Which is the implementing department of this scheme?",
+                "answer": "Industries & Commerce Department, Government of Kerala."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://industry.kerala.gov.in/index.php/schemes-mainmenu/entrepreneur-support-scheme-schemes"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://industry.kerala.gov.in/images/pdf/ESSGuidelines_1.pdf"
+            },
+            {
+                "type": "K-Swift Portal",
+                "url": "https://kswift.kerala.gov.in/index/incentives.php"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://ess.kerala.gov.in/login"
+            }
+        ]
+    }
+}

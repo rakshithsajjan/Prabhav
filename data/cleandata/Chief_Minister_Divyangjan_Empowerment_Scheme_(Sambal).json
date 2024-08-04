@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Chief Minister Divyangjan Empowerment Scheme (Sambal)",
+        "state": "Bihar",
+        "department": "Department of Social Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Disabled persons",
+        "details": "The main objective of this scheme is to provide quick benefits for the welfare of the disabled to all the schemes of the disability sector run by the state government. To increase awareness towards the disabled, to ensure their rights while empowering them physically, socially, educationally and economically. For the operation of Sambal, a provision of 100 percent amount is made by the state government. Similarly, for the participation of the state in the schemes of the National Trust, the necessary supplementary grant amount is given by the state government under this scheme to the beneficiaries.",
+        "benefits": [
+            "A loan of up to Rs.2.00 lakh will be given for self-employment.",
+            "The scholarship will be given for teaching in special schools, the rate of which will be less than the rate given to non-disabled people.",
+            "In very special cases, the rate of grant and state grant in schemes of National Trust will be payable according to the needs of the scheme and the specific beneficiary."
+        ],
+        "eligibility": [
+            "The age limit will be 18-60 years for self-employment loans and more than 5 years for artificial limbs and equipment.",
+            "In very special cases, a grant will be payable in all cases covered by multiple disabilities and judgments and there will be no restriction on the limit of income, age etc.",
+            "The age limit of the student for the special school will be 6-18 years.",
+            "For shelter home (Ashiyana / Saket), the minimum age limit of the beneficiary (male/female) will be 18 years."
+        ],
+        "exclusions": [],
+        "application_process": "1. Visit the official website (https://online.bih.nic.in/). 2. Registration is mandatory for e-filling up the form. 3. Use login credentials to log in. 4. Only eligible candidates as per guidelines/advertisement should fill up the form with Personal Details. 5. Upload Photo & Signature. 6. Upload Documents. 7. Finalise and submit application.",
+        "documents_required": [
+            "Aadhar card.",
+            "Pan Card.",
+            "Permanent address proof.",
+            "Two passport-size photos.",
+            "Bank account proof.",
+            "Mobile registered with Aadhar card.",
+            "Caste Certificate if applicable.",
+            "Below poverty line certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is Chief Minister Divyangjan Empowerment Scheme?",
+                "answer": "The State government of Bihar launched the 'Chief Minister Divyangjan Empowerment Scheme' scheme with the aim of improving the lives of Disable persons. Financial assistance is provided by the government through these schemes."
+            },
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "A loan of up to Rs.2.00 lakh will be given for self-employment."
+            },
+            {
+                "question": "What is the minimum and maximum age to get the benefits under this scheme?",
+                "answer": "The age limit will be 18-60 years for self-employment loans."
+            },
+            {
+                "question": "What is the age limit for the students?",
+                "answer": "The age limit of the student for the special school will be 6-18 years."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "1. Do registration. 2. Fill out the application form with the required details. 3. Attach the required document. 4. And submit."
+            },
+            {
+                "question": "What is the official portal to register and apply for the scheme?",
+                "answer": "Click on the following URL to register and other process. URL: https://online.bih.nic.in/"
+            },
+            {
+                "question": "Which documents are required to attach with the application form?",
+                "answer": "1. Aadhar card. 2. Pan Card. 3. Permanent address proof. 4. Two passport-size photos. 5. Bank account proof. 6. Mobile registered with Aadhar card. 7. Caste Certificate if applicable. 8. Below poverty line certificate."
+            },
+            {
+                "question": "May other state person also apply for this scheme?",
+                "answer": "No, The applicant should be a permanent resident of the state of Bihar."
+            },
+            {
+                "question": "Is There Any Differentiation of benefits based on gender?",
+                "answer": "No, there is no Differentiation Of Benefits Based On Gender."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/cmdes"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Empowerment",
+            "Financial Assistance"
+        ]
+    }
+}

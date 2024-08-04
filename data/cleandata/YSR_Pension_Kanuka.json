@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "YSR Pension Kanuka",
+        "state": "Andhra Pradesh",
+        "department": "Panchayat Raj & Rural Development Department, Govt. of Andhra Pradesh",
+        "type": "Pension",
+        "beneficiary": "Person With Disability, Senior Citizen, Transgender, Widow",
+        "details": "'YSR Pension Kanuka' is a Social Security Scheme by the Panchayat Raj & Rural Development Department, Govt. of Andhra Pradesh. The objective of this scheme is to ameliorate the hardships of the poor and vulnerable sections of society particularly the old and infirm, widows, and persons with disability to secure a dignified life. In 2019, the department enhanced the pension amount of Old Age Pension (OAP), Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories to \u20b9 2,250/-, Disabled Pensions to \u20b9 3,000/-, CKDU/Dialysis Pensions to \u20b9 10,000/-, and also reduced the age for Old Age Pensioners (OAP) from 65 to 60 years. The Eligibility Criteria have been revised so that the benefit of pension shall be reached all sections of the needy people.",
+        "benefits": [
+            "Monthly Pension of \u20b9 2,250/- for Old Age, Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories.",
+            "Monthly Pension of \u20b9 3,000/- for Persons with Disability.",
+            "Monthly Pension of \u20b9 10,000/- for Persons on CKDU/Dialysis.",
+            "In the event of death of Old Age, Weaver, Fishermen, Toddy toppers, or Disabled category pensioners, the pension will be sanctioned to Spouse (wife) to support the family."
+        ],
+        "eligibility": [
+            "Total family income should be less than \u20b9 10,000/- per month in Rural areas and \u20b9 12,000/- per month in Urban Areas.",
+            "The total land holding of the family should be less than 3.00 acres of wet (or) 10.00 acres of dry (or) 10.00 acres of both wet and dry land together.",
+            "Family should not own a four-wheeler (Taxis, Tractors, and Autos are exempted).",
+            "No family member should be a Government employee or Pensioner.",
+            "The monthly electricity consumption of a family dwelling unit (own/rent) should be less than 300 units.",
+            "Family in municipal areas who owns less than 750 sq. ft. of built-up area.",
+            "No family member should be an income tax payee.",
+            "One pension will be allowed in the family except in the following conditions: Family having a disabled person with 80% and above degree of disability, Dialysis patients (CKDU) / Severe Mental Retardation/ PLHIV (ART)."
+        ],
+        "application_process": "Offline. The Village/Ward Volunteers will identify the persons eligible for social security pension under YSR Pension Kanuka. They will take up physical verification (Social Audit) with respect to eligibility conditions prescribed for each category of live pension and forward the application through various steps to the relevant authorities for review and finalization.",
+        "documents_required": [
+            "Aadhar Card",
+            "Death Certificates of Husband (in case of Widow Pension)",
+            "Certificate of Disability (SADAREM) (in case of Disabled Pension)",
+            "Toddy Tapper Certificate (from the Excise Department, Govt. of Andhra Pradesh)",
+            "Weavers Certificate (Occupation Certificate from the Handloom Department, Govt. of Andhra Pradesh)",
+            "Caste Certificate (if applicable)",
+            "Children Certificates (Study Certificate)",
+            "Proof of Age / Date of Birth",
+            "Marriage Certificate",
+            "Medical Board Certificate",
+            "Proof of Treatment in ART (Anti-Retroviral Therapy) Centre (in case of ART Pension)",
+            "Gender Identity Certificate (issued by the competent medical authority) (in case of Transgender applicant)",
+            "Certificate from the Department of Fisheries (in case of Fisherman applicant)"
+        ],
+        "tags": [
+            "Pension",
+            "Social Security",
+            "Andhra Pradesh",
+            "Government Scheme"
+        ],
+        "faqs": [
+            {
+                "question": "Which Department Manages The 'YSR Pension Kanuka' Scheme?",
+                "answer": "The 'YSR Pension Kanuka' scheme is managed by the Panchayat Raj & Rural Development Department, Govt. of Andhra Pradesh."
+            },
+            {
+                "question": "What Are The Objectives Of This Scheme?",
+                "answer": "The objective of this scheme is to ameliorate the hardships of the poor and vulnerable sections of society particularly the old and infirm, widows, and persons with disability to secure a dignified life."
+            },
+            {
+                "question": "What Were The Amendments Made To The Scheme In The Year 2019?",
+                "answer": "In 2019, the department enhanced the pension amount of Old Age Pension (OAP), Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories to \u20b9 2,250/-, Disabled Pensions to \u20b9 3,000/-, CKDU/Dialysis Pensions to \u20b9 10,000/-, and also reduced the age for Old Age Pensioners (OAP) from 65 to 60 years."
+            },
+            {
+                "question": "Where Can I Find The Link To The Scheme Guidelines?",
+                "answer": "The Scheme Guidelines can be found at - https://gramawardsachivalayam.ap.gov.in/GSWS/AdsandGos/assets/go/2019PR-MS174.PDF"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://gramawardsachivalayam.ap.gov.in/GSWS/AdsandGos/assets/go/2019PR-MS174.PDF"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/ysrpk"
+            }
+        ]
+    }
+}

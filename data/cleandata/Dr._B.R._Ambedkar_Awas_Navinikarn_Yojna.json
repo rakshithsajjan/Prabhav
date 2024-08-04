@@ -1,0 +1,67 @@
+{
+    "content": {
+        "title": "Dr. B.R. Ambedkar Awas Navinikarn Yojna",
+        "state": "Haryana",
+        "department": "Department of Welfare",
+        "type": "Grant",
+        "beneficiary": "Scheduled Castes, De-notified Tribes, and Tapriwas Caste",
+        "details": "The Haryana government launched the BR Ambedkar Awas Navinikaran Yojana to assist the backward classes of the State by providing funds for home repairs. Under this scheme, the government will sanction up to Rs 80,000 to the beneficiaries to repair their old houses. This is a G2C service. Only online applications on https://saralharyana.gov.in/ are accepted under this scheme.",
+        "benefits": [
+            "Financial assistance up to Rs 80,000 for home repairs",
+            "Minimum financial assistance of Rs 50,000"
+        ],
+        "eligibility": [
+            "The applicant should be a person amongst Scheduled Castes.",
+            "The applicant should have a plot of 50 sq.yard in rural areas and 35 sq.yard in urban areas.",
+            "The applicants should be a permanent resident of Haryana.",
+            "The applicants should be included under the Below Poverty Line family list.",
+            "The applicant must have a bank account to receive the money."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Ration Card",
+            "Voter ID",
+            "Aadhar Card",
+            "Caste Certificate",
+            "Land Certificate",
+            "Income Certificate",
+            "Estimated repair cost",
+            "Photocopy of bank\u2019s passbook"
+        ],
+        "faqs": [
+            {
+                "question": "How to apply online for Dr. BR Ambedkar Awas Navinikaran Yojna?",
+                "answer": "To apply online, you need to visit the official website of Haryana Government portal using this link http://www.haryanascbc.gov.in/."
+            },
+            {
+                "question": "How much amount is given under Dr. BR Ambedkar Awas Navinikaran Yojna?",
+                "answer": "An amount of Rs. 80,000/- is provided under this scheme."
+            },
+            {
+                "question": "Is this mandatory to have applicant's name listed in the Below Poverty Line (BPL) list?",
+                "answer": "Yes, the applicant should have his name listed in the Below Poverty Line (BPL) list."
+            },
+            {
+                "question": "Can I apply for the Dr Ambedkar Navinikaran Yojana offline?",
+                "answer": "Yes, applicants can apply for the Dr Ambedkar Navinikaran Yojana offline by attaining the application form from their Tehsil/Welfare Department."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Portal",
+                "url": "https://www.myscheme.gov.in/schemes/braany"
+            },
+            {
+                "type": "Notification Document",
+                "url": "http://www.haryanascbc.gov.in/sites/default/files/2020-08/Notification%20Dr.%20BR%20ambedkar%20Awas%20Navinikaran%20scheme.PDF"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Financial Assistance",
+            "Scheduled Castes",
+            "Haryana"
+        ]
+    }
+}

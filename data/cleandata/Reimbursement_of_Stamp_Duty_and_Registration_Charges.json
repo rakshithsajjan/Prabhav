@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Reimbursement of Stamp Duty and Registration Charges",
+        "state": "Tamil Nadu",
+        "department": "Micro Small and Medium Enterprises Department",
+        "type": "Reimbursement",
+        "beneficiary": "Manufacturing enterprises (micro or small scale)",
+        "details": "The scheme 'Reimbursement of Stamp Duty and Registration Charges' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective of reducing the stamp duty and registration charges incurred by MSEs investing in backward blocks, i.e. the charges paid to the Registration department on the purchase of land meant for industrial use.",
+        "benefits": [
+            "50% reimbursement of stamp duty and Registration charges paid to the Registration department on the purchase of land meant for industrial use."
+        ],
+        "eligibility": [
+            "The applicant should be a manufacturing enterprise (micro or small scale), set up in the declared backward blocks of the state of Tamil Nadu.",
+            "This incentive is admissible to eligible enterprises on the land area up to five times the plinth area of the factory building constructed.",
+            "However, in respect of enterprises where the open land requirements would be large, due to the peculiar nature of the industry, the sanctioning Authority may consider allowing land in excess of five times the plinth area on case to case basis."
+        ],
+        "exclusions": [
+            "Excluded activities include sugar, distilleries, mining, iron and steel smelting, firecrackers, and others."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of UDYAM Registration Certificate.",
+            "Copy of Registered Land Sale deed documents with receipt from Registrar regarding the payment of Stamp Duty/Registration Charges.",
+            "Copy of plan Approvals from the local body / Industrial Estate Authorities along with site plan."
+        ],
+        "faqs": [
+            {
+                "question": "How can applicants monitor the status of their application, and where can they find this information?",
+                "answer": "The status can be tracked at https://www.msmeonline.tn.gov.in/incentives/app_track.php?id=Track%20Your%20Status."
+            },
+            {
+                "question": "Is there a specific process or platform for enterprises to verify their eligibility for the scheme?",
+                "answer": "Yes, enterprises can verify their eligibility at https://www.msmeonline.tn.gov.in/incentives/know_your_eligibility.php."
+            },
+            {
+                "question": "What documents are necessary for the application process, and what specifications should these documents adhere to?",
+                "answer": "Required documents include UDYAM Registration Certificate, Land Sale deed with stamp duty payment proof, and plan approvals. Documents should be in PDF format and less than 200 kb."
+            },
+            {
+                "question": "What is the timeframe for eligible enterprises to submit their applications for this incentive?",
+                "answer": "The applicant enterprises should apply for this incentive within 6 months from the date of commencement of commercial production."
+            },
+            {
+                "question": "Where can I find the application link for the 'Reimbursement of Stamp Duty and Registration Charges' scheme?",
+                "answer": "The application link is https://www.msmeonline.tn.gov.in/incentives/stamp_duty.php."
+            },
+            {
+                "question": "Who is eligible to apply for the scheme, and what are the specific criteria that manufacturing enterprises need to meet?",
+                "answer": "Manufacturing enterprises (micro or small scale) in declared backward blocks of Tamil Nadu are eligible. The incentive covers land area up to five times the plinth area of the factory building."
+            },
+            {
+                "question": "What are the benefits offered under this scheme in terms of reimbursement for stamp duty and registration charges?",
+                "answer": "Eligible enterprises receive a 50% reimbursement of stamp duty and registration charges incurred on land purchases intended for industrial use."
+            },
+            {
+                "question": "Could you provide an overview of the 'Reimbursement of Stamp Duty and Registration Charges' scheme by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu?",
+                "answer": "The scheme, initiated by the Micro Small and Medium Enterprises Department, aims to reduce stamp duty and registration charges for MSEs investing in backward blocks in Tamil Nadu."
+            },
+            {
+                "question": "Is the size of the documents for application restricted?",
+                "answer": "Yes, the file size should be less than 200 kb, and the file type should be PDF (.pdf)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.msmeonline.tn.gov.in/incentives/html_cye_stamp.php"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://www.msmeonline.tn.gov.in/contactus_local.php"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://www.bizbuddy.tn.gov.in/#/home"
+            },
+            {
+                "type": "Application & Documents Required",
+                "url": "https://www.msmeonline.tn.gov.in/incentives/stamp_duty.php"
+            },
+            {
+                "type": "List Of Backward Blocks",
+                "url": "https://www.msmeonline.tn.gov.in/images/TN_Schemes_Booklet_Draft_09072022_v10.pdf"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Enterprise",
+            "MSME",
+            "Reimbursement"
+        ]
+    }
+}

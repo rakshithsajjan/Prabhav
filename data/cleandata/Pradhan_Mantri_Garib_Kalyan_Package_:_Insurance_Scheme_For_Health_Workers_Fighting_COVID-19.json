@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Garib Kalyan Package : Insurance Scheme For Health Workers Fighting COVID-19",
+        "state": "India",
+        "department": "Ministry Of Health & Family Welfare",
+        "type": "Insurance",
+        "beneficiary": "Health Workers",
+        "details": "An Insurance scheme from Ministry of Health and Family Welfare for health workers who lost their life due to COVID-19 or accidental death on account of COVID-19 related duty. This accident insurance scheme covers loss of life due to COVID-19 and accidental death on account of COVID-19 related duty.",
+        "benefits": [
+            "Health workers get an insurance coverage of Rs. 50 Lakhs. The complete amount shall be paid to the claimant of the insured person."
+        ],
+        "eligibility": [
+            "Public healthcare providers including community health workers, who may have to be in direct contact and care of COVID-19 cases and who may be at risk of being impacted by this.",
+            "Private hospital staff and retired/volunteer/local urban bodies/contracted/daily wage/ad-hoc/outsourced staff requisitioned by States/Central hospitals/autonomous hospitals of Central/States/UTs, AIIMS and INIs/hospitals of Central Ministries can also be drafted for COVID-19 related responsibilities.",
+            "There is no age limit for this scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Claim form duly filled and signed by the nominee/claimant.",
+            "Identity proof of Deceased (Certified copy)",
+            "Identity proof of the Claimant (Certified copy)",
+            "Proof of relationship between the Deceased and the Claimant (Certified copy)",
+            "Death summary by the Hospital where death occurred (in case death occurred in hospital)(Certified copy).",
+            "Death Certificate (in Original)",
+            "Post-mortem Report (Certified copy)",
+            "Cancelled Cheque (desirable) (in Original)",
+            "FIR (Certified copy)",
+            "Certificate by the Healthcare Institution/organization/office that the deceased was an employee of/engaged by the institution and had an accidental loss of life on account of COVID-19 related duty."
+        ],
+        "faqs": [
+            {
+                "question": "Who Can Be A Volunteer Under This Scheme?",
+                "answer": "Volunteers are those who are drafted by the Government Official authorized by Central/State/UT Government for care and may have come in direct contact of the COVID-19 patient."
+            },
+            {
+                "question": "Who Are \u2018Private Persons\u2019 Under This Scheme?",
+                "answer": "Private persons are those who are engaged by both public & private health care institutions/organization through an agency and were deployed/drafted for care and may have come in direct contact of the COVID-19 patient (with the proof that the service of the agencies were engaged by the institution/organization)."
+            },
+            {
+                "question": "Is Individual Enrolment Required?",
+                "answer": "Individual enrolment is not required."
+            },
+            {
+                "question": "Whether An Individual Is Required To Pay Any Premium To Be Eligible Under The Scheme?",
+                "answer": "The entire amount of premium for this scheme is being borne by the Ministry of Health and Family Welfare, Government of India."
+            },
+            {
+                "question": "Is COVID-19 Laboratory Test Mandatory For Claiming The Benefit?",
+                "answer": "Laboratory report certifying positive medical test is required for loss of life on account of COVID-19. However, it is not required in case of Accidental loss of life on account of COVID-19 related duty."
+            },
+            {
+                "question": "Whether Expenses Incurred On Treatment Or During Quarantine Are Covered Under The Scheme?",
+                "answer": "Any type of expenses related to treatment or quarantine is not covered."
+            },
+            {
+                "question": "If A Person Is Having Another Personal Accident Policy Or Life Insurance Policy, What Is The Effect Of The Same On Claim Under This Policy?",
+                "answer": "The benefit/claim under this policy is in addition to the amount payable under any other policies."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://www.mohfw.gov.in/pdf/PMInsuranceSchemePosterC.pdf"
+            },
+            {
+                "type": "Scheme FAQs",
+                "url": "https://www.mohfw.gov.in/pdf/FAQPradhanMantriGaribKalyanPackageInsuranceSchemeforHealthWorkersFightingCOVID19.pdf"
+            },
+            {
+                "type": "Scheme Official Communication",
+                "url": "https://www.mohfw.gov.in/pdf/pdfjoiner.pdf"
+            }
+        ],
+        "tags": [
+            "COVID-19",
+            "Health Workers",
+            "Life Insurance"
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "content": {
+        "title": "Interest Free Loan (CBOCWWB)",
+        "state": "Chandigarh",
+        "department": "Labour Department, Chandigarh",
+        "type": "Loan",
+        "beneficiary": "Construction Worker",
+        "details": "The scheme 'Interest Free Loan' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, interest free loan shall be granted to the registered construction workers of the Board for the purchase of items like Fridge, Television/ LCD, Motor Cycle/Scooter, Cooler, Fan & Bicycle.",
+        "benefits": [
+            "Interest Free Loan for the purchase of motorcycle/scooter (\u20b925000/- for 20 equal installments)",
+            "Interest Free Loan for the purchase of Fridge (\u20b915000/- for 15 equal installments)",
+            "Interest Free Loan for the purchase of television/LCD (\u20b915000/- for 15 equal installments)",
+            "Interest Free Loan for the purchase of cooler (\u20b97500/- for 10 equal installments)",
+            "Interest Free Loan for the purchase of Fan (\u20b92500/- for 10 equal installments)",
+            "Interest Free Loan for the purchase of bicycle (\u20b94000/- for 10 equal installments)"
+        ],
+        "eligibility": [
+            "The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contribution towards labour welfare fund should regularly been received by the Board.",
+            "The beneficiary can apply for the grant of loan for the purchase of one item at a time.",
+            "The installment of the loan will be recovered from the salary of the workers by the employer and said amount should be deposited through the payee A/c Cheque in favour of Chandigarh Labour Welfare Board by the Principal Employer.",
+            "Interest free loan amount will be recovered in equal monthly installments as per the rule.",
+            "The loan will not be granted to those beneficiaries who will be found defaulters in the earlier loan.",
+            "The Loan will be sanctioned subject to the standing guarantee of the employer.",
+            "Any beneficiary will be eligible to avail of benefits of the scheme only after 06 months of becoming the beneficiary member of the Board at least for the last six months."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport size photograph",
+            "Filled-in/signed form of CBOCW Board",
+            "A copy of Aadhaar Card of applicant",
+            "BOCW Card, if any",
+            "Copy of Aadhaar Card of nominee",
+            "Bank details",
+            "Receipt of payment file",
+            "Any other relevant documents"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Interest Free Loan Scheme introduced by the CBOCWWB?",
+                "answer": "The Interest Free Loan Scheme is an initiative launched by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), under the Labour Department, Chandigarh. This scheme aims to provide interest-free loans to registered construction workers for the purchase of specified items, including Fridge, Television/LCD, Motor Cycle/Scooter, Cooler, Fan, and Bicycle."
+            },
+            {
+                "question": "What items can be purchased using the Interest Free Loan?",
+                "answer": "The loan can be utilized for the purchase of essential items such as Fridge, Television/LCD, Motor Cycle/Scooter, Cooler, Fan, and Bicycle."
+            },
+            {
+                "question": "Is the loan entirely interest-free?",
+                "answer": "Yes, the Interest Free Loan provided under this scheme is entirely interest-free."
+            },
+            {
+                "question": "Who is eligible to apply for the loan under the Scheme?",
+                "answer": "To be eligible for the loan, the beneficiary must be employed in an establishment registered under the Punjab Labour Welfare Fund Act, 1965. Additionally, their contributions towards the labour welfare fund should be consistently received by the Board."
+            },
+            {
+                "question": "How many items can a beneficiary apply for at a time?",
+                "answer": "A beneficiary can apply for a loan for the purchase of one item at a time under the scheme."
+            },
+            {
+                "question": "How is the loan installment collected from the workers?",
+                "answer": "The installment of the loan will be deducted from the salary of the workers by the employer. The deducted amount should be deposited through a payee A/c Cheque in favor of the Chandigarh Labour Welfare Board by the Principal Employer."
+            },
+            {
+                "question": "Can a beneficiary who defaulted on an earlier loan apply for a new loan?",
+                "answer": "No, the loan will not be granted to beneficiaries who were found to be defaulters in repaying an earlier loan."
+            },
+            {
+                "question": "Is the employer required to provide a guarantee for the loan?",
+                "answer": "Yes, the loan will be sanctioned subject to the standing guarantee of the employer."
+            },
+            {
+                "question": "What is the eligibility criterion regarding membership duration for availing benefits under the Scheme?",
+                "answer": "To be eligible for the benefits of the scheme, a beneficiary must have been a member of the Board for a minimum period of 6 months."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme \u2018INTEREST FREE LOAN\u2019 under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://labour.chd.gov.in/PublicPages/interest-free-loan.aspx"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&newLink=N&%3Ccsrf:token%20uri=%27serviceLinkHome.html%27/%3E"
+            },
+            {
+                "type": "User Manual",
+                "url": "http://labour.chd.gov.in/pdf/LWB.pdf"
+            }
+        ],
+        "tags": [
+            "Interest Free",
+            "Loan",
+            "Labour",
+            "Construction Workers"
+        ]
+    }
+}

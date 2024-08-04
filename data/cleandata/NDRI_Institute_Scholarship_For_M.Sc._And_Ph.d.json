@@ -1,0 +1,52 @@
+{
+    "content": {
+        "title": "NDRI Institute Scholarship For M.Sc. And Ph.d",
+        "state": "India",
+        "department": "NDRI",
+        "type": "Scholarship",
+        "beneficiary": "Students of M.Sc. and Ph.D.",
+        "details": "The Scholarship will be admissible to students of Indian Nationality as defined in the Constitution of India or persons domiciled in India, irrespective of sex, race or religion. Only those students shall be eligible for the award of scholarships that are not in receipt of any other scholarship/fellowship stipend from any other source. The awardees shall be required to submit an undertaking to this effect in the prescribed form. However, students getting compensation during the course of 'Dairy Plant Operations and Management' In-plant Training shall be eligible for the award of a merit scholarship.",
+        "benefits": [
+            "Financial support for eligible master's and doctoral students",
+            "Contingency grant for genuine expenses connected with studies"
+        ],
+        "eligibility": [
+            "Students must be of Indian nationality or domiciled in India",
+            "Must not be receiving any other scholarship or fellowship",
+            "Must register for all prescribed courses each semester",
+            "Must obtain an aggregate of 65% marks or 6.5 GPA out of 10.0 in previous semester"
+        ],
+        "exclusions": [
+            "Students who are on conduct probation",
+            "Students who are struck off from the rolls of the University"
+        ],
+        "application_process": "Students must submit an undertaking and register for all prescribed courses each semester.",
+        "documents_required": [
+            "Undertaking form",
+            "Progress report"
+        ],
+        "faqs": [
+            {
+                "question": "What happens if I do not register for all courses?",
+                "answer": "You will not receive a scholarship for that period."
+            },
+            {
+                "question": "Can I receive the scholarship if I fail to obtain 65% marks?",
+                "answer": "You must improve your grades by re-appearing in courses to become eligible for renewal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/ndriis"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Education",
+            "NDRI",
+            "M.Sc.",
+            "Ph.D."
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Stand-Up India",
+        "state": "India",
+        "department": "Ministry Of Finance",
+        "type": "Loan",
+        "beneficiary": "SC/ST and Women Entrepreneurs",
+        "details": "A scheme by Ministry of Finance for financing SC/ST and/or Women Entrepreneurs by facilitating bank loans for setting up a greenfield project enterprise in manufacturing, services, trading sector and activities allied to agriculture. The objective of this scheme is to facilitate bank loans between Rs. 10 lakh and Rs. 1 Crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up a greenfield enterprise. In case of non-individual enterprises, at least 51% of the shareholding and controlling stake should be held by either an SC/ST or Woman entrepreneur.",
+        "benefits": [
+            "Facilitation of composite loan (inclusive of term loan and working capital) between \u20b910 Lakhs and \u20b9100 Lakhs. Rupay debit card to be issued for convenience of the borrower.",
+            "The web portal by SIDBI provides hand-holding support through a network of agencies engaged in training, skill development, mentoring, project report preparation, application filling, work shed / utility support services, subsidy schemes etc."
+        ],
+        "eligibility": [
+            "Finance is provided for Greenfield Enterprises.",
+            "If the applicant is a male, he must be from SC / ST category.",
+            "The age of the applicant must be at least 18 years.",
+            "The applicant must not be in default to any bank/financial institution."
+        ],
+        "exclusions": [],
+        "application_process": "Online. Either approach your nearest bank branch to apply or through the Lead District Manager (LDM) or apply through the portal: www.standupmitra.in.",
+        "documents_required": [
+            "Proof of Identity: Voter\u2019s ID Card / Passport / Driving License / PAN Card / Signature identification from present bankers of proprietor, partner of director (if a company)",
+            "Proof of Residence: Recent telephone bills, electricity bill, property tax receipt /Passport / voter\u2019s ID Card of Proprietor, partner of Director (if a company)",
+            "Proof of Business Address",
+            "Proof that the applicant is not a defaulter in any Bank / Financial Institution",
+            "Memorandum and articles of association of the Company / Partnership Deed of partners etc.",
+            "Assets and liabilities statement of promoters and guarantors along with latest income tax returns.",
+            "Rent Agreement (if business premises on rent) and clearance from pollution control board if applicable.",
+            "SSI / MSME registration (if applicable)",
+            "Projected balance sheets for the next two years in case of working capital limits and for the period of the loan in case of term loan.",
+            "Photocopies of lease deeds/ title deeds of all the properties being offered as primary and collateral securities.",
+            "Documents to establish whether the applicant belongs to SC/ST Category, wherever applicable.",
+            "Certificate of incorporation from ROC to establish whether majority stake holding in the company is in the hands of a person who belongs to SC/ST/Woman category."
+        ],
+        "faqs": [
+            {
+                "question": "What is the nature and size of the loan under the Stand-Up India Scheme?",
+                "answer": "Composite loan (inclusive of term loan and working capital) between 10 lakh and up to 100 lakh representing up to 85% of the project cost would be eligible."
+            },
+            {
+                "question": "How much will be the interest rate for the loan?",
+                "answer": "The rate of interest would be lowest applicable rate of the bank for that category (rating category) not to exceed (base rate (MCLR) + 3%+ tenor premium)."
+            },
+            {
+                "question": "By when am I expected to repay the loan?",
+                "answer": "The loan is repayable in 7 years with a maximum moratorium period of 18 months."
+            },
+            {
+                "question": "Who are the eligible lending institutions for extending loans under the Scheme?",
+                "answer": "All branches of Scheduled Commercial Banks located across the country."
+            },
+            {
+                "question": "What is Hand-holding Support?",
+                "answer": "Any new entrepreneur requires guidance in his endeavor to set up his or her business enterprise starting from training to filling up loan applications as per bank requirements."
+            },
+            {
+                "question": "What are the activities for which Stand-Up India loan is provided?",
+                "answer": "Stand-Up India loan may be provided to entrepreneurs for engaging in manufacturing, trading, services sectors including activities allied to agriculture."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.udyami.org.in/storage/schemes/file/t4CQkv4D2TsdhI3MK8KqFSnYPw6RTBBsmh7p449D.pdf"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Entrepreneur",
+            "Finance",
+            "Loan"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "content": {
+        "title": "National Agriculture Market",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Market",
+        "beneficiary": "Farmers and Traders",
+        "details": "e-National Agriculture Market (e-NAM) is a pan-India electronic trading portal that networks the existing APMC/Mandis to create a unified national market for agricultural commodities. Launched on 14th April 2016, it aims to facilitate pan-India trade in agricultural commodities.",
+        "benefits": [
+            "Transparent Online Trading",
+            "Real-Time Price Discovery",
+            "Better Price Realization For Farmers",
+            "Reduced Transaction Cost For Buyers",
+            "Stable Price and Availability to Consumers",
+            "Quality Certification, Warehousing and Logistics",
+            "More Efficient Supply Chain",
+            "Convenient e-Payment options",
+            "Error-Free Reporting of Transactions",
+            "Enhanced Accessibility to more APMCs"
+        ],
+        "eligibility": [
+            "States/UTs must undertake mandatory reforms in their APMC Acts including single trading license valid across the State, single point levy of market fee, and provision for e-auction/e-trading."
+        ],
+        "exclusions": [],
+        "application_process": "Online registration is required for farmers and traders through the e-NAM portal.",
+        "documents_required": [],
+        "faqs": [
+            {
+                "question": "What is the difference between e-NAM and the existing mandi system?",
+                "answer": "e-NAM is not a parallel marketing structure but rather a device to create a national network of physical mandis which can be accessed online."
+            },
+            {
+                "question": "How will e-NAM operate?",
+                "answer": "The e-NAM electronic trading platform has been created with an investment by the Government of India and offers a 'plug-in' to any market yard existing in a State."
+            },
+            {
+                "question": "Are there any conditions for joining e-NAM?",
+                "answer": "States interested to integrate their mandis with e-NAM are required to carry out three reforms in their APMC Act."
+            },
+            {
+                "question": "Will the APMC mandis lose out business due to e-NAM?",
+                "answer": "Mandis do not lose any business. e-NAM increases the choice of the farmer when selling produce."
+            },
+            {
+                "question": "Who will actually operate the e-NAM platform?",
+                "answer": "Ministry of Agriculture & Farmers' Welfare, Govt. of India has appointed Small Farmers' Agribusiness Consortium (SFAC) as the Lead Implementing Agency."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://enam.gov.in/web/docs/namguidelines.pdf"
+            },
+            {
+                "type": "Registration",
+                "url": "https://enam.gov.in/web/resources/registration-guideline"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Market",
+            "e-NAM",
+            "Farmers",
+            "Traders"
+        ]
+    }
+}

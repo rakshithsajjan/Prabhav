@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Bidya Lakshmi Loan",
+        "state": "Assam",
+        "department": "Government of Assam",
+        "type": "Loan",
+        "beneficiary": "Children of State Government Employees",
+        "details": "In pursuance of the announcement made in the Budget Speech, 2016-17, the Government of Assam has taken a decision to provide higher education loans for the children of State Government Employees of all categories. The Governor of Assam is pleased to formulate the following guidelines and procedures.",
+        "benefits": [
+            "The State Government Employees whose annual salary income exceeds Rs 4.5 lakh can avail of loans upto 10.00 lakh under Credit Linked Subsidy Scheme (CLSS)",
+            "The employees are free to take loans over and above Rs 10.00 lakh from the SBI.",
+            "An education loan can be availed to pay the course fee, and buy books, computers, educational equipment and any other items necessary for the completion of the course.",
+            "Educational loan for studies abroad and cost of travelling expenses.",
+            "The Education loan will be provided to parents, i.e., State Government employees and the students jointly and the loan will be released directly to the educational institutions."
+        ],
+        "eligibility": [
+            "Students must have secured admission to Professional/Technical courses.",
+            "Students who have failed in the last qualifying examination including class XII will not be considered.",
+            "Only the wards of employees of Govt. of Assam presently in-service will be eligible.",
+            "Parents must be employees of State Government of Assam with Check off facility.",
+            "Parents should have at least 5 years of residual pensionable service.",
+            "Parents must be ready to undertake to repay the loan amount even if a student fails to secure a job after completion of the course.",
+            "In case of retirement during the currency of the loan, parents will opt to draw Pension through SBI at least until the loan is liquidated."
+        ],
+        "exclusions": [
+            "Private employees are not allowed to apply to the scheme."
+        ],
+        "application_process": "Online. Steps to application: Open the official website or download the application form from the provided link. Click on Apply Now or click here. Fill out the required detail and submit. Login again and provide further details.",
+        "documents_required": [
+            "Passport Size Photograph (3 copies)",
+            "Copy of Pan Card (Identity Proof)",
+            "Electricity Bill/Landline Telephone Bill/Aadhar Card/Driving License/Passport (Address Proof)",
+            "Mark sheets and Pass Certificates up to the last qualifying examinations (Matric onwards)",
+            "Offer letter/Bonafide certificate from the institution",
+            "Prospectus of the course and Approval copy AICTE/UGC or Governing Body for the course",
+            "Detailed fee structure of the course on the letterhead of the institution",
+            "Score sheet of Entrance Tests like JEE/PMT",
+            "Any other documents if necessary",
+            "Additional Documents for Studies Abroad: Passport, Unconditional Offer Letter, Any other documents if necessary",
+            "Documents Required To Be Submitted By The Parents: Passport Size Photograph (3 copies), Copy of Pan Card (Identity Proof), Electricity Bill/Landline Telephone Bill/Aadhar Card/Driving License/Passport (Address Proof), Xerox copy of Bank Passbook or Bank account statement, Form 16/Income Tax Return/Income Certificate from the appropriate authority (Income Proof), Any other documents if necessary."
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits can be avail from this loan?",
+                "answer": "An education loan can be availed to pay the course fee, and buy books, computers, educational equipment and any other items necessary for the completion of the course."
+            },
+            {
+                "question": "Can students study abroad with this loan?",
+                "answer": "Students can avail of this Educational loan for studies abroad and the cost of travelling expenses."
+            },
+            {
+                "question": "How much loan can be taken?",
+                "answer": "The employees are free to take loan over and above Rs 10.00 lakh from the SBI."
+            },
+            {
+                "question": "How much loan can be taken under Credit Linked Subsidy Scheme (CLSS)?",
+                "answer": "The State Government Employees whose annual salary income exceeds Rs 4.5 lakh can avail loan upto 10.00 lakh under Credit Linked Subsidy Scheme (CLSS)."
+            },
+            {
+                "question": "What is the main purpose for this loan?",
+                "answer": "To support the financial hardship of the State Government Employees towards the cost of higher studies."
+            },
+            {
+                "question": "What should be the annual income to avail this loan?",
+                "answer": "The State Government Employee whose Annual Income exceeds Rs 4.5 lakh can avail loan upto 10.00 lakh under Credit Linked Subsidy Scheme (CLSS)."
+            },
+            {
+                "question": "Which courses/educational institutions can be covered under the loan scheme?",
+                "answer": "Courses conducted by Colleges/Universities approved by UGC/Government/AICTE in Assam and anywhere in India."
+            },
+            {
+                "question": "Who can avail this loan?",
+                "answer": "The educational loan will be provided to parents, i.e., State Government employees and students jointly."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://finance.assam.gov.in/documents-detail/bidya-lakshmi-loan-for-higher-education-of-the-children-of-regular-state-government"
+            },
+            {
+                "type": "Application Forms",
+                "url": "https://finance.assam.gov.in/sites/default/files/Application%20Form%20for%20Education%20Loan-ilovepdf-compressed.pdf"
+            }
+        ],
+        "tags": [
+            "Higher Education",
+            "Loan",
+            "Assam",
+            "State Government Employees"
+        ]
+    }
+}

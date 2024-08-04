@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Reimbursement of Expenses for Startups Operating from Leased/Privately Owned Premises Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology, Electronics and Communications",
+        "type": "Reimbursement",
+        "beneficiary": "Startups in Goa",
+        "details": "The scheme 'Reimbursement of Expenses for Startups Operating from Leased/Privately Owned Premises Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed.",
+        "benefits": [
+            "For start-ups that operate from privately owned premises: The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed subject to an upper limit of \u20b9 1,00,000 per quarter for a period of one year. This benefit can be availed by 20 start-ups each year which the SPC shall select as per its guidelines.",
+            "For start-ups that operate from rented premises: The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed subject to an upper limit of \u20b9 1,00,000 per quarter for a period of one year. This benefit can be availed by 20 start-ups each year which the SPC shall select as per its guidelines. For local start-ups that operate out of rented premises, a lease rental subsidy of up to \u20b9 20/- per square foot per month will be reimbursed quarterly for a period of up to two years. This incentive is subject to a cap of \u20b9 3,00,000 per annum and can be availed by 25 start-ups each year which shall be selected by the SPC as per its guidelines."
+        ],
+        "eligibility": [
+            "All Start-ups certified by the Start-up Promotion Cell (SPC) having a valid start-up certificate number that are not using any government-developed co-working spaces/ incubators/ accelerators for their operations are eligible.",
+            "Only expenditures incurred after notification of Goa Start-up Policy 2017, being within the validity of this policy and paid for digitally will be considered for reimbursements under this scheme."
+        ],
+        "exclusions": [
+            "Start-ups using any government-developed co-working spaces/incubators/accelerators for their operations are not eligible."
+        ],
+        "application_process": "Online. Visit the Official Website of Goa Startup Mission, verify your Email ID and Mobile Number using OTP, fill in the registration form, and submit the application.",
+        "documents_required": [
+            "Copy of the Aadhaar card of the Director/ CEO",
+            "Birth Certificate/ Domicile Certificate/ Marriage Certificate",
+            "Copy of valid registered Lease Deed",
+            "Original proof of payment towards lease",
+            "Copy of Income Tax filings showing the total rent amount",
+            "License details of software purchased",
+            "Copy of original bills from company-certified vendors",
+            "Original Proof of Payment for Software/ Internet/ Cloud",
+            "The form and documents as mentioned in Annexure 1"
+        ],
+        "faqs": [
+            {
+                "question": "Are there any restrictions on the types of expenses that can be reimbursed?",
+                "answer": "The scheme specifies reimbursement for internet connectivity, software license fees, and cloud services, subject to the defined limits."
+            },
+            {
+                "question": "Is there a specific application deadline within the financial year?",
+                "answer": "While applications can be made at any time during the financial year, they must be submitted within 6 months of incurring the relevant expenditure."
+            },
+            {
+                "question": "Can start-ups apply for this scheme retroactively for expenses incurred before the notification of Goa Start-up Policy 2017?",
+                "answer": "No, only expenses incurred after the notification of the policy are eligible for reimbursement."
+            },
+            {
+                "question": "What are the different conditions that qualify a person as 'Goan' for this scheme?",
+                "answer": "To be considered a 'Goan,' a person must meet specific conditions related to birth, domicile, or marriage, as outlined in the scheme."
+            },
+            {
+                "question": "What is the maximum duration for disbursement of the approved amount after SPC approval?",
+                "answer": "The approved amount will be disbursed within 60 days from the date of approval by the SPC."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://startup.goa.gov.in/Incentives/ExpensesforStartupsScheme.pdf"
+            },
+            {
+                "type": "Goa Startup Schemes",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
+            },
+            {
+                "type": "Startup Goa Website",
+                "url": "https://www.startup.goa.gov.in/StartupIncentives#GrantforIncubationCenterswithinEducationalInstitutesScheme"
+            }
+        ],
+        "tags": [
+            "Startup",
+            "Reimbursement",
+            "Goa",
+            "Government Scheme"
+        ]
+    }
+}

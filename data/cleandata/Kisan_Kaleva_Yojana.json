@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Kisan Kaleva Yojana",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Kisan Kaleva Scheme, initiated by the Rajasthan Government's Agriculture Department, provides food at concessional rates through coupons to farmers and their assistants selling crops in vegetable market premises. Registered farmers and their assistants can avail a plate of food for \u20b95/- under this provision. This initiative aims to alleviate the financial burden on farmers and their helpers while ensuring they have access to affordable and nutritious meals during their visits to the market. Through the Kisan Kaleva Scheme, the government demonstrates its commitment to supporting agricultural communities and promoting their well-being by offering practical assistance.",
+        "benefits": [
+            "The scheme aims to provide affordable and nutritious meals to farmers and their helpers at a subsidized rate of \u20b95/- per plate.",
+            "The meals will be provided in the mandi premises itself.",
+            "The menu for the meal includes: 8 chapatis (made from 250 grams of flour), 1 bowl of dal (125 grams), 1 bowl of vegetables (125 grams), 50 grams of jaggery (in winter, from October to March), 200 ml of buttermilk (in summer, from April to September)."
+        ],
+        "eligibility": [
+            "The applicant should be Hamal/Palledar/Tulara of the farmers coming to sell agricultural commodities.",
+            "The applicant should be a member of the market premises.",
+            "The applicant should be a license holder of the market."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identification Proof"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The Kisan Kaleva Yojana is a scheme introduced by the Rajasthan Government to provide subsidized meals to farmers and their assistants at vegetable market premises."
+            },
+            {
+                "question": "Who is eligible to benefit from the Kisan Kaleva Yojana?",
+                "answer": "Farmers and their assistants who come to sell crops at vegetable market premises are eligible to benefit from this scheme."
+            },
+            {
+                "question": "How does the scheme work?",
+                "answer": "The scheme offers food at concessional rates through coupons, allowing registered farmers and their assistants to avail a plate of food for a nominal price."
+            },
+            {
+                "question": "What is the maximum price for food under the Kisan Kaleva Yojana?",
+                "answer": "The maximum price for food is fixed at \u20b9 40, with \u20b935 subsidized by the market committee and \u20b9 5 contributed by the farmer and laborer."
+            },
+            {
+                "question": "Will farmers get different types of food in winter and summer?",
+                "answer": "Yes, vegetables and jaggery will be available as per season."
+            },
+            {
+                "question": "How long will the food coupon be valid?",
+                "answer": "The food coupon will be valid for 24 hours."
+            },
+            {
+                "question": "How has the Kisan Kaleva Yojana benefited agricultural communities in Rajasthan?",
+                "answer": "The scheme has provided significant relief to farmers and their assistants by reducing their expenses on meals and ensuring they have access to essential food items during their work hours."
+            },
+            {
+                "question": "Any education qualification required for the scheme?",
+                "answer": "There is no qualification requirement for this scheme."
+            },
+            {
+                "question": "Is there any criteria related to caste in this scheme?",
+                "answer": "No, there are no cast criteria in this scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rlsa.gov.in/povertyScheme/21.PDF"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Food"
+        ]
+    }
+}

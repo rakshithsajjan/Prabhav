@@ -1,0 +1,112 @@
+{
+    "content": {
+        "title": "National Action Plan for Skill Development of Persons with Disabilities",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Skill Development",
+        "beneficiary": "Persons with Disabilities (PwDs)",
+        "details": "The National Action Plan for Skill Development of Persons with Disabilities (NAP-SDP) is a dedicated skill development program aimed at providing high-quality vocational training with a focus on Persons with Disabilities (PwDs). Launched in March 2015 by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment, this Central Sector Scheme operates as part of the Umbrella Scheme SIPDA (Scheme for Implementation of the Rights of Persons with Disabilities Act). The primary objectives of this scheme are: 1. To enhance the skills of Persons with Disabilities by providing quality vocational skill training, enabling them to gain meaningful employment. 2. To empower PwDs to become self-reliant, productive, and contributing members of society.",
+        "benefits": [
+            "Vocational/skill training (both short-term and long-term) is provided through a network of skill training partners.",
+            "A cluster delivers partners' training nationwide, known for its successful track record in providing skill training with high employability rates.",
+            "A dedicated cross-cutting Sector Skill Council for PwDs (SCPwD) has been established under the Ministry of Skill Development & Entrepreneurship (MSDE) in collaboration with the National Skill Development Corporation (NSDC) and the private sector.",
+            "Mentorship projects to promote self-employment among PwDs are developed by DEPwD in collaboration with industrial confederations, sector-wise associations, domain experts, and other relevant organizations."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should have a disability of not less than 40%, as defined under the Rights of Persons with Disabilities Act, 2016.",
+            "The applicant should be between 15 and 59 years of age at the commencement of the course.",
+            "The applicant should not have undergone any other skill training course sponsored under the National Action Plan for Skill Development of PwDs during the one year preceding the last application date for the applied course.",
+            "The applicant should enroll in courses approved by NCVET and adhere to age, qualification, and disability type specified in the QP file."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "UDID Card Number or UDID Enrolment Number",
+            "Aadhar Number or Aadhar Enrolment Number",
+            "Disability Certificate",
+            "Proof of Age",
+            "Caste Certificate (if applicable)"
+        ],
+        "tags": [
+            "Citizen Empowerment",
+            "DBT",
+            "Employment",
+            "Person With Disability",
+            "PwD",
+            "Skill",
+            "Training"
+        ],
+        "faqs": [
+            {
+                "question": "Who is responsible for developing or customizing job roles for Persons with Disabilities (PwDs) under this scheme, and what types of courses are generally provided?",
+                "answer": "Sector Skill Councils for PwDs are responsible for job role development, and training is typically offered in NSQF-aligned courses developed by SCPwD and other Sector Skill Councils."
+            },
+            {
+                "question": "Can organizations enter into MOUs with specific companies to create special courses, and are assessment and certification based on specific criteria?",
+                "answer": "Yes, MOUs can lead to customized courses, and assessment and certification are conducted based on National Occupational Standards (NOS)."
+            },
+            {
+                "question": "What role do Employability Skills (E.S.) courses play in the training, and what are the minimum qualifications and experience required for Trainers?",
+                "answer": "E.S. courses are mandatory before Domain Skills, and Trainers must meet the qualifications and experience as specified in the Qualification Pack (QP)."
+            },
+            {
+                "question": "Who conducts the assessment, and what criteria are used, and what is the role of the NDFDC in monitoring training provided by training partners?",
+                "answer": "Assessment is done by SCPwD or authorized agencies based on QP criteria, and NDFDC monitors training quality."
+            },
+            {
+                "question": "Can the Department inspect the premises of Training Partners, and what is the budget allocation for administrative expenses?",
+                "answer": "Yes, the Department can inspect premises. Administrative expenses utilize 3% of the NAP-SDP budget."
+            },
+            {
+                "question": "What are the components covered under administrative expenses, and what norms apply to the funding of this scheme?",
+                "answer": "Administrative expenses include human resources, publicity, monitoring, software development, and more. The funding norms follow Common Norms for Skill Development Schemes."
+            },
+            {
+                "question": "What organizations are responsible for developing the training curriculum, and what are the requirements for linking trainee details?",
+                "answer": "Sector Skill Councils for PwDs develop the curriculum, and trainee details should be linked with UDID Card numbers or enrollment numbers and disability certificates if UDID cards are unavailable."
+            },
+            {
+                "question": "How can organizations prove placements, and when will projects be canceled if they don't commence?",
+                "answer": "Organizations must submit documents as proof of placements, and projects not commencing within two months from approval will be automatically canceled."
+            },
+            {
+                "question": "When does training commence, and how is the first installment of funding processed?",
+                "answer": "Training can start after 7 days of commencement, and the first installment is processed after 7 days of training with biometric attendance."
+            },
+            {
+                "question": "What are the criteria for trainers to be considered valid?",
+                "answer": "Trainers must be certified in the relevant domain SSC and SCPWD, as per the eligibility criteria mentioned in the course QP by NCVT."
+            },
+            {
+                "question": "Can empanelled training partners request to train new batches at validated centers?",
+                "answer": "Yes, they can request to train new batches at centers that have been previously validated."
+            },
+            {
+                "question": "What documents must NGOs provide when applying for this scheme?",
+                "answer": "NGOs must be registered with the NGO Portal of NITI Ayog and provide a Unique ID at the time of application for grants."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://disabilityaffairs.gov.in/upload/uploadfiles/files/NAP%20SDP%20Guidelines.pdf"
+            },
+            {
+                "type": "List Of Courses",
+                "url": "https://disabilityaffairs.gov.in/upload/uploadfiles/files/List%20of%20courses%2015Feb22.pdf"
+            },
+            {
+                "type": "List Of Job Roles",
+                "url": "https://disabilityaffairs.gov.in/upload/uploadfiles/files/Job%20Roles%2011Sep23.pdf"
+            },
+            {
+                "type": "PM-DAKSH Portal",
+                "url": "https://www.pmdaksh.dosje.gov.in/student"
+            },
+            {
+                "type": "NAP-SDP On UMANG",
+                "url": "https://web.umang.gov.in/landing/department/skill-council-for-persons-with-disability-scpwd-ministry-of-social-justice-and-empowerment.html"
+            }
+        ]
+    }
+}

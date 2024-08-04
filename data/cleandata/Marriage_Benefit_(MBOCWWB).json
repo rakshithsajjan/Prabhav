@@ -1,0 +1,114 @@
+{
+    "content": {
+        "title": "Marriage Benefit (MBOCWWB)",
+        "state": "Meghalaya",
+        "department": "Labour Department, Government of Meghalaya",
+        "type": "Financial Assistance",
+        "beneficiary": "Building Worker, Construction Worker",
+        "details": "The scheme 'Marriage Benefit' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to registered construction workers for their own marriage. This assistance shall also be sanctioned for the marriage of all adult children of a worker subject to the production of proper documentation such as Marriage Certificates etc.",
+        "benefits": [
+            "The financial assistance of \u20b95,000/- shall be given to the registered workers for their own marriage.",
+            "The financial assistance of \u20b95,000/- shall be provided to registered workers for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of Meghalaya.",
+            "The beneficiary should be engaged in a building or other construction work.",
+            "The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.",
+            "The workers having continuous membership for 3 years shall be eligible to get financial assistance under the scheme.",
+            "The registered workers can apply for financial assistance for their own marriage. A registered worker can avail of this assistance once only.",
+            "The registered workers can apply for financial assistance for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc."
+        ],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)",
+            "Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)",
+            "Bank Passbook of the worker",
+            "eShram ID card, if any",
+            "Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card",
+            "Nomination Form duly signed by the applicant",
+            "Self-declaration towards non-enrolment as a member of any other welfare fund/ board",
+            "SC/ST Certificate (if applicable)",
+            "Any other documents as required"
+        ],
+        "tags": [
+            "Marriage",
+            "Financial Assistance",
+            "Labour",
+            "Building Worker",
+            "Construction Worker"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Registered workers are eligible for a financial assistance of \u20b95,000/- for their own marriage, and the same amount for the marriage of each of their adult children, subject to proper documentation."
+            },
+            {
+                "question": "Who is eligible to avail of the benefits?",
+                "answer": "The registered workers having continuous membership for 3 years shall be eligible to get financial assistance under the scheme."
+            },
+            {
+                "question": "How often can a registered worker avail of the financial assistance for their own marriage?",
+                "answer": "A registered worker can avail of this assistance once only for their own marriage."
+            },
+            {
+                "question": "Can registered workers apply for financial assistance for the marriage of their adult children?",
+                "answer": "Yes, registered workers can apply for financial assistance for the marriage of all their adult children, provided proper documentation such as Marriage Certificates are provided."
+            },
+            {
+                "question": "Can a worker avail of financial assistance if he/she has been registered for less than 3 years?",
+                "answer": "No."
+            },
+            {
+                "question": "How can the application be submitted?",
+                "answer": "Applications can be made online at http://megbocwwb.gov.in/bocw_services"
+            },
+            {
+                "question": "Can the application be tracked?",
+                "answer": "Yes, applications can be tracked from the Dashboard after logging into http://megbocwwb.gov.in/bocw_services"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://megbocwwb.gov.in/schemes_marriage"
+            },
+            {
+                "type": "Amendment Notification",
+                "url": "https://meglc.gov.in/acts/Amendment%20-rules-bocw-2018.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://megbocwwb.gov.in/enrollment"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+            },
+            {
+                "type": "Registration Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+            },
+            {
+                "type": "Application Form For Marriage Assistance",
+                "url": "https://megbocwwb.gov.in/forms/benefit/marriageassistance.pdf"
+            },
+            {
+                "type": "Nomination Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+            },
+            {
+                "type": "Family Members Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+            },
+            {
+                "type": "SDO Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+            },
+            {
+                "type": "Employer Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+            }
+        ]
+    }
+}

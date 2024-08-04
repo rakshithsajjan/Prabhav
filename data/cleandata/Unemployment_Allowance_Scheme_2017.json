@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Unemployment Allowance Scheme 2017",
+        "state": "Himachal Pradesh",
+        "department": "Labour and Employment Department",
+        "type": "Allowance",
+        "beneficiary": "Educated unemployed youth",
+        "details": "Unemployment Allowance Scheme is a Scheme of Himachal Pradesh Government. This is a scheme for educated unemployed youth of Himachal Pradesh State. It was launched in the year 2017. Under this scheme, Himachal Pradesh Government provides unemployment allowance to the educated unemployed youth of the state. The amount of assistance under this scheme is Rs. 1,000/- per month for Post Graduate, Graduate, and 10+2 passed applicants, and Rs. 1,500/- per month for eligible Physically Challenged applicants. The objective of this scheme is to create stability in the lives of educated unemployed youth.",
+        "benefits": [
+            "Financial Support: The scheme provides a monthly unemployment allowance to educated unemployed youth, offering them a basic financial support system.",
+            "Empowerment of Educated Youth: The scheme specifically targets educated unemployed youth, empowering them by providing a means of sustenance while they search for employment opportunities.",
+            "Stability in Lives: The objective of the scheme is to create stability in the lives of educated unemployed youth by ensuring they have a regular income to meet their basic needs.",
+            "Inclusive Approach: The scheme also caters to the needs of physically challenged individuals by offering a higher amount of assistance, recognizing their additional challenges in securing employment.",
+            "Age-Appropriate Eligibility: The scheme focuses on the age group of 20 to 35 years, allowing young adults who have completed their education to avail themselves of the benefits."
+        ],
+        "eligibility": [
+            "Residence: The scheme is open to individuals who are residents of Himachal Pradesh.",
+            "Age Limit: Applicants must fall within the age range of 20 to 35 years.",
+            "Educational Qualification: Applicants must have completed their 10+2 or higher education.",
+            "Recognized Institutions: Only individuals who have completed their studies from schools, boards, or universities recognized by the Himachal Pradesh Government are eligible.",
+            "Unemployment Status: Eligibility is restricted to individuals who are unemployed and actively seeking employment."
+        ],
+        "exclusions": [
+            "Employed Individuals: Individuals who are already employed or engaged in any form of regular income-generating activity would be excluded.",
+            "Age Limit: Applicants who fall outside the age range of 20 to 35 would not be eligible.",
+            "Educational Qualification: Individuals who do not meet the educational qualification criteria would be excluded.",
+            "Non-Residents: Individuals who are not residents of Himachal Pradesh would be excluded."
+        ],
+        "application_process": "To apply online, applicant has to visit E Portal of Labour and Employment Department of Himachal Pradesh. Fill in the required details and submit the application form along with the necessary documents.",
+        "documents_required": [
+            "Attested Copy of Employment Registration Card",
+            "Attested Copy of Income Certificate (not more than 6 months old)",
+            "Himachal Pradesh Unemployment Allowance Scheme Self Certified Declaration Form C",
+            "Attested Copy of Domicile of Himachal Pradesh",
+            "Attested Copy of all Educational Qualification Certificates",
+            "Attested Copy of Aadhar Card"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible to apply for the Unemployment Allowance Scheme in Himachal Pradesh?",
+                "answer": "The scheme is open to educated unemployed youth who are residents of Himachal Pradesh and fall within the age range of 20 to 35 years."
+            },
+            {
+                "question": "Is there an online application process for the scheme?",
+                "answer": "Yes, applicants can apply online for the Unemployment Allowance Scheme."
+            },
+            {
+                "question": "What documents are required for the application?",
+                "answer": "The required documents include an attested copy of the employment registration card, income certificate, Form C, domicile certificate, educational qualification certificates, and Aadhar card."
+            },
+            {
+                "question": "Where should the application form and documents be submitted?",
+                "answer": "The filled application form, along with all the attached documents, should be submitted to the District/Sub Employment Exchange Office."
+            },
+            {
+                "question": "How long does it take for the selection and rejection of applications to be decided?",
+                "answer": "The selection and rejection of applications are typically decided within 45 days of submission."
+            },
+            {
+                "question": "Can physically challenged individuals apply for the scheme?",
+                "answer": "Yes, physically challenged individuals are eligible to apply for the Unemployment Allowance Scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.myscheme.gov.in/schemes/uas"
+            },
+            {
+                "type": "Labour & Employment Department",
+                "url": "https://himachal.nic.in/showfile.php?lang=1&dpt_id=14&level=2&lid=20820&sublinkid=20532"
+            }
+        ],
+        "tags": [
+            "Unemployment",
+            "Allowance",
+            "Youth",
+            "Himachal Pradesh"
+        ]
+    }
+}

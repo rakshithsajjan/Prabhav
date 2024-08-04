@@ -1,0 +1,112 @@
+{
+    "content": {
+        "title": "Dulari Scheme",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Health Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Girl Child",
+        "details": "The \u201cDulari Scheme\u201d was launched by the Health Department, Union Territory of Andaman and Nicobar Islands on 26th January, 2013 to give incentives to newborn baby girls and girl children on passing VIII, X & XII standards. As per the present scheme, the girl child born on or after 26.01.2013 will be eligible to get the benefit under the scheme for birth incentives and the girl children who are below 13 years of age not registered under the Planned family scheme (old scheme) will also get the benefit of this scheme.",
+        "benefits": [
+            "Benefits at Birth- Institution deliver: \u20b98,000/-",
+            "Benefits at Birth- Home delivery: \u20b95,000/-",
+            "Benefits on passing VIIIth Standard: \u20b95,000/-",
+            "Benefits on passing Xth Standard: \u20b910,000/-",
+            "Benefits on passing XIIth Standard: \u20b910,000/-",
+            "Benefits on getting married at the age of 21 years: \u20b95,000/-",
+            "Benefits on getting married after age of 25 years: \u20b910,000/-"
+        ],
+        "eligibility": [
+            "The applicant should be a domicile of the Union Territory of Andaman & Nicobar Islands.",
+            "The applicant should be a woman or girl child to avail the benefits under the scheme.",
+            "The incentive is being given to those who are born on or after 01.10.2013.",
+            "The girl children between 0-13 years born before the implementation of the Dulari Scheme and not covered under the Planned Family Scheme shall be given only the educational incentives after passing the VIII Standard which will be fixed in the bank."
+        ],
+        "exclusions": [
+            "The benefits will be ceased if the parent or beneficiary provides a false/concealing statement/certificate.",
+            "If the child gets married at an early age i.e. before 21 years of age no further benefit will be given.",
+            "The girl becomes a school dropout (for further benefits only given for education).",
+            "If the child dies due to any reason before attaining the required age of disbursal of incentive."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof of parent(s) i.e. Aadhaar Card",
+            "Passport-size photograph of parent(s)",
+            "Birth Certificate of child",
+            "Local certificate/domicile certificate/permanent resident certificate",
+            "Ration Card of Family",
+            "Address proof of the parent(s)",
+            "Mark sheet of Class XIII/X/XII, if applicable",
+            "Bonafide certificate from the school or school leaving certificate, if applicable",
+            "Marriage registration certificate, if applicable",
+            "Bank account details/Copy of passbook",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Dulari Scheme?",
+                "answer": "The 'Dulari Scheme' is a government initiative launched by the Health Department of the Union Territory of Andaman and Nicobar Islands on January 26, 2013, aimed at providing various benefits to women and their girl children."
+            },
+            {
+                "question": "Who is eligible for benefits under the Scheme?",
+                "answer": "Parents domiciled in Andaman & Nicobar Islands with girl children born on or after January 26, 2013, are eligible for benefits."
+            },
+            {
+                "question": "What are the benefits provided under the Scheme?",
+                "answer": "The scheme provides benefits at birth, educational milestones (VIII, X, and XII standards), and upon marriage at the ages of 21 and 25."
+            },
+            {
+                "question": "How much are the benefits for institutional delivery?",
+                "answer": "For institutional delivery, the benefit is \u20b98,000/-."
+            },
+            {
+                "question": "What is the benefit amount for home delivery?",
+                "answer": "For home delivery, the benefit is \u20b95,000/-."
+            },
+            {
+                "question": "How much is the benefit upon passing the VIII standard?",
+                "answer": "The benefit upon passing VIII standard is \u20b95,000/-."
+            },
+            {
+                "question": "What benefits are provided upon passing X and XII standards?",
+                "answer": "Upon passing X standard, the benefit is \u20b910,000/-, and upon passing XII standard, it is also \u20b910,000/-."
+            },
+            {
+                "question": "Are there benefits provided for marriage under the Scheme?",
+                "answer": "Yes, there are benefits upon marriage. \u20b95,000/- is given upon marriage at the age of 21, and \u20b910,000/- is given if married after the age of 25."
+            },
+            {
+                "question": "What are the eligibility criteria for availing benefits under the Scheme?",
+                "answer": "Eligibility includes having parents domiciled in Andaman & Nicobar Islands and being born on or after January 26, 2013."
+            },
+            {
+                "question": "What leads to the cessation of benefits under the Dulari Scheme?",
+                "answer": "Benefits will cease if false information is provided, if the child marries before the age of 21, if the child becomes a school dropout, or if the child passes away before reaching the age for benefit disbursal."
+            },
+            {
+                "question": "How can I apply for benefits under the Scheme?",
+                "answer": "The eligible applicant can register and apply under the scheme through the online Portal: https://serviceonline.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://dhs.andaman.gov.in/DulariSchemes.aspx"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://dhs.andaman.gov.in/RTI/Suo-moto%20disclosure%20under%20section%204%20of%20RTI%20Act%202005%20regarding%20Dulari%20Scheme.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Girl Child",
+            "New Born",
+            "Scholarship",
+            "Woman"
+        ]
+    }
+}

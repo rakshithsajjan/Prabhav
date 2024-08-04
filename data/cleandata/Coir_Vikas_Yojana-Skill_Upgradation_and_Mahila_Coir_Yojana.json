@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Coir Vikas Yojana-Skill Upgradation and Mahila Coir Yojana",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Skill Development",
+        "beneficiary": "Women artisans and coir workers",
+        "details": "The scheme 'Skill Upgradation and Mahila Coir Yojana' is a component of 'Coir Vikas Yojana (CVY)' launched by the Ministry of Micro, Small & Medium Enterprises, Government of India. It consists of two components: Skill Upgradation and Mahila Coir Yojana, aimed at creating skilled manpower for the coir industry through various training programs.",
+        "benefits": [
+            "Monthly stipend of \u20b93000 for trainees",
+            "Financial assistance for training sponsoring agencies",
+            "Subsidy of 75% for coir processing equipment under Mahila Coir Yojana",
+            "Training on modern technologies and management skills"
+        ],
+        "eligibility": [
+            "Self Help Groups (SHGs), NGOs registered in the Darpan Portal of NITI Aayog, and Government Organizations can apply",
+            "Adequate infrastructural facilities such as work sheds, power connections, equipment, and raw materials are required"
+        ],
+        "exclusions": [],
+        "application_process": "Offline application through Regional/Sub Regional Office of the Board.",
+        "documents_required": [
+            "Proof of NGOs registered in the Darpan Portal of NITI Aayog",
+            "Details of the source of raw material for training",
+            "Details of power connection",
+            "Details of availability of machinery for training",
+            "ID proof (Election ID Card/Ration Card/Aadhaar Card/PAN Card)",
+            "Proof of address",
+            "Bank account details",
+            "Recent passport-size photographs (two copies)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Skill Upgradation and Mahila Coir Yojana'?",
+                "answer": "The scheme conducts various programs like Entrepreneurship Development Programme, Awareness Programme, Workshop, Seminar, Exposure Tour, etc. to attract more entrepreneurs to start coir processing units."
+            },
+            {
+                "question": "What is the objective of this scheme?",
+                "answer": "To train personnel, transfer technology, provide self-employment to rural women artisans, and inculcate quality consciousness among coir workers."
+            },
+            {
+                "question": "Which is the implementing agency of this scheme?",
+                "answer": "Regional/Sub-regional offices/training centres of the Coir Board, Kochi."
+            },
+            {
+                "question": "What type of facilities should organizations have before applying under the scheme?",
+                "answer": "Adequate infrastructural facilities such as work sheds, power connections, equipment, and raw materials."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://msme.gov.in/sites/default/files/Revised_Operation_Guidelines_of_CVY.pdf"
+            },
+            {
+                "type": "Coir Board Website",
+                "url": "http://coirboard.gov.in/?page_id=221"
+            },
+            {
+                "type": "Coir Board",
+                "url": "http://coirboard.gov.in/?page_id=8452"
+            },
+            {
+                "type": "Guideline-1",
+                "url": "https://msme.gov.in/sites/default/files/Coir-Vikas-YojanaContents.pdf"
+            },
+            {
+                "type": "Guideline-2",
+                "url": "http://coirboard.gov.in/wp-content/uploads/2018/03/coir-final.pdf"
+            }
+        ],
+        "tags": [
+            "Coir",
+            "Skill Upgradation",
+            "Women Empowerment",
+            "Self-employment",
+            "MSME"
+        ]
+    }
+}

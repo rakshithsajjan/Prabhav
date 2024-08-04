@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "West Bengal Freeship Scheme",
+        "state": "West Bengal",
+        "department": "Department of Higher Education, Government of West Bengal",
+        "type": "Freeship",
+        "beneficiary": "Under Graduate students in Engineering & Technology/ Pharmacy/ Architecture",
+        "details": "The West Bengal Freeship Scheme (WBFS) has been introduced from the year 2011 by the Department of Higher Education, Government of West Bengal. WBFS is for the under Graduate students level in Engineering & Technology/ Pharmacy/ Architecture programmes conducted by the self financing private Engineering and Technical Institutions of the State. The waiver is limited to the tuition fee for all the institutions concerned. All other fees except tuition fees will have to be borne by the beneficiary.",
+        "benefits": [
+            "Waiver for tuition fee"
+        ],
+        "eligibility": [
+            "Candidate must be domicile of the West Bengal.",
+            "Merit rank in State Level/National Level Entrance Examination.",
+            "Annual family income of the candidate must not be more than \u20b9 2,50,000/-."
+        ],
+        "exclusions": [
+            "Candidates selected under Tuition Free Waiver (TFW) Scheme of All India Council for Technical Education (AICTE) or West Bengal Swami Vivekananda Merit-cum-Means Scholarship Scheme will not be eligible under this WBFS."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Photograph of Applicant (Image Size: 20KB-50KB, Image Format: JPG/JPEG)",
+            "Signature of Applicant (Signature Size: 10KB-20KB, Signature Format: JPG/JPEG)",
+            "Marksheet Of (10+2)th Std. Examination (File Size: 400KB, Image Format: PDF)",
+            "Merit Rank Card (File Size: 400KB, Image Format: PDF)",
+            "Domicile Certificate (File Size: 400KB, Image Format: PDF)",
+            "Income Certificate of Family (File Size: 400KB, Image Format: PDF)"
+        ],
+        "faqs": [
+            {
+                "question": "What is West Bengal Freeship Scheme?",
+                "answer": "West Bengal Free ship Scheme (WBFS) is for the under Graduate students level in Engineering & Technology/ Pharmacy/ Architecture programmes conducted by the self financing private Engineering and Technical Institutions of the State."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "West Bengal Free ship Scheme (WBFS) has been launched by the Department of Higher Education, Government of West Bengal."
+            },
+            {
+                "question": "When was this scheme introduced?",
+                "answer": "West Bengal Free ship Scheme (WBFS) has been introduced from the year 2011."
+            },
+            {
+                "question": "Is this scheme only for students?",
+                "answer": "Yes, this scheme is only for students."
+            },
+            {
+                "question": "In which level, students can apply for this scheme?",
+                "answer": "This scheme is particularly meant for the under Graduate students level in Engineering & Technology/ Pharmacy/ Architecture programmes conducted by the self financing private Engineering and Technical Institutions of the State."
+            },
+            {
+                "question": "Whether students from private Engineering institutions apply for WBFS?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What should be the residential criteria for the candidate?",
+                "answer": "Candidate must be domicile of the West Bengal."
+            },
+            {
+                "question": "What should be the income criteria for the candidate's family?",
+                "answer": "Annual family income of the candidate must not be more than \u20b9 2,50,000/-."
+            },
+            {
+                "question": "Whether the candidates selected under Tuition Free Waiver (TFW) Scheme of All India Council for Technical Education (AICTE) or West Bengal Swami Vivekananda Merit-cum-Means Scholarship Scheme are eligible under this scheme?",
+                "answer": "No, they are not eligible."
+            },
+            {
+                "question": "What are the documents required for the enrolment?",
+                "answer": "Photographs, Signature, Marksheet Of (10+2th) Std. Examination, Merit Rank Card, Domicile Certificate Income Certificate of Family are required for the enrolment."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://wbhed.gov.in/wbfs/index.php"
+            }
+        ],
+        "tags": [
+            "Architecture",
+            "Engineering & Technology",
+            "Financial Support",
+            "Freeship",
+            "Pharmacy",
+            "Tuition Fee Waiver"
+        ]
+    }
+}

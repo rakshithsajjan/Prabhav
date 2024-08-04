@@ -1,0 +1,54 @@
+{
+    "content": {
+        "title": "Garima Greh Shelter Homes For Transgender Persons",
+        "state": "Not specified",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Shelter Home",
+        "beneficiary": "Transgender persons",
+        "details": "Garima Greh aims to provide shelter to Destitute & abandoned Transgender persons with basic amenities like shelter, food, medical care and recreational facilities. Broader objectives of the schemes are: To provide shelter with basic amenities such as food, clothing, recreation, medical facilities and counseling; To safeguard the rights of Transgender persons; To confirm the prevalence of congenial atmosphere in the Garima Greh by adopting uniform rules and regulations suitable to be followed by all Transgender persons; To empower a TG person through skill-development and skill up-gradation programmes to lead a decent and dignified life, and protect them from atrocities and social stigma.",
+        "benefits": [
+            "Shelter",
+            "Food",
+            "Medical care",
+            "Recreational facilities"
+        ],
+        "eligibility": [
+            "Transgenders certified issued through National Portal for Transgender Persons and preferably living below the poverty line.",
+            "Transgenders who are abandoned, aged above 18 years and below 60 years.",
+            "Transgenders should not be engaged in sex work and beggary.",
+            "Transgenders must be unemployed and not engaged in productive commercial activities."
+        ],
+        "exclusions": [],
+        "application_process": "The Transgender person can visit the Garima Greh and register by filling the admission form and the personal affidavit.",
+        "documents_required": [
+            "Transgender certificate",
+            "Identity card"
+        ],
+        "faqs": [
+            {
+                "question": "Do I Get Any Monetary/Financial Assistance Under This Scheme?",
+                "answer": "No"
+            },
+            {
+                "question": "Do I Have To Pay For Staying In Garima Greh?",
+                "answer": "No, It Is Free Of Cost."
+            },
+            {
+                "question": "Can the application be filled online?",
+                "answer": "No. The application can be filled offline only."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/smile"
+            }
+        ],
+        "tags": [
+            "Accommodation",
+            "Rehabilitation",
+            "Shelter Home",
+            "Transgender"
+        ]
+    }
+}

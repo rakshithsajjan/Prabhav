@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Disability Assistance (ANBOCWWB)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Labour, Employment & Training, Andaman & Nicobar Administration",
+        "type": "Financial Assistance",
+        "beneficiary": "Building Workers, Construction Workers, Persons with Disabilities (PwD)",
+        "details": "The scheme 'Disability Assistance' was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, the Secretary of the Board may sanction an amount not exceeding 25% of the total amount of compensation due, as calculated under the Employees Compensation Act 1923 on the production of a certificate from competent medical authorities in respect of the percentage of disability along with application for grant of assistance along with last pay slip & age proof.",
+        "benefits": [
+            "Sanctioning of an amount not exceeding 25% of the total amount of compensation due under the Employees Compensation Act 1923."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
+            "The beneficiary should be engaged in any building & other construction work.",
+            "The beneficiary should be registered under the A&N Islands Building and Other Construction Workers Welfare Board.",
+            "The beneficiary should have an active membership of the Board.",
+            "Construction workers who become disabled due to an accident during the course of their employment are eligible to apply under the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Passport size photograph",
+            "Proof of age",
+            "Identity proof",
+            "Details of EPF, if any",
+            "Proof of address",
+            "90 Days Work Duration Certificate issued by the competent authority",
+            "Bank account details",
+            "Any other document as required",
+            "Registration ID Card of Worker",
+            "Identity proof of worker i.e. Aadhaar Card",
+            "Latest Subscription Receipt",
+            "Last pay slip",
+            "Proof of age proof",
+            "Medical certificate in respect of the percentage of disability from the competent medical authority",
+            "Address proof",
+            "Bank account details of worker/Copy of passbook",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What benefits does the Scheme provide?",
+                "answer": "The scheme allows for the sanctioning of an amount not exceeding 25% of the total compensation due under the Employees Compensation Act 1923, upon submission of a disability certificate from competent medical authorities."
+            },
+            {
+                "question": "Who is eligible to apply for the Disability Assistance Scheme?",
+                "answer": "Construction workers who become disabled due to an accident during the course of their employment are eligible to apply under the scheme."
+            },
+            {
+                "question": "How is the percentage of disability determined for eligibility?",
+                "answer": "The percentage of disability is determined by competent medical authorities in accordance with established protocols."
+            },
+            {
+                "question": "Is there a limit to the amount of assistance provided under the scheme?",
+                "answer": "Yes, the assistance provided cannot exceed 25% of the total compensation due under the Employees Compensation Act 1923."
+            },
+            {
+                "question": "What type of work must the beneficiary be engaged in to qualify for the scheme?",
+                "answer": "The beneficiary must be engaged in building and other construction work within the territory."
+            },
+            {
+                "question": "Is registration mandatory under the Board?",
+                "answer": "Yes, beneficiaries must be registered under the A&N Islands Building and Other Construction Workers Welfare Board."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "The eligible applicant may apply online through the Portal: https://serviceonline.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labour.and.nic.in/webPages/welfareboard.html"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/"
+            },
+            {
+                "type": "Application Form For Registration As A Beneficiary",
+                "url": "https://labour.and.nic.in/webPages/forms/welfareboard.pdf"
+            },
+            {
+                "type": "Application Form For Disability Assistance",
+                "url": "https://labour.and.nic.in/webPages/forms/disablity.pdf"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Financial Assistance",
+            "Labour",
+            "PwD"
+        ]
+    }
+}

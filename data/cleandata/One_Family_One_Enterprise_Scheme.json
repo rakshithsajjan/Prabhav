@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "One Family One Enterprise Scheme",
+        "state": "Kerala",
+        "department": "Industries & Commerce Department, Government of Kerala",
+        "type": "Loan",
+        "beneficiary": "Entrepreneurs, particularly women",
+        "details": "The Government of Kerala approved the scheme 'One Family One Enterprise' to encourage entrepreneurial activity in every household and empower women's entrepreneurship. This scheme aims to set up at least one MSME unit including trade activity in each family. The MSMEs primarily rely on bank finance for their operations. Providing assistance in the early stage of the establishment of the enterprise will enhance the competency of the MSME unit. The scheme intends to provide interest subvention on Term loans and/or Working capital loans availed by MSME units from financial institutions viz. Nationalized Banks, Scheduled Banks, KSIDC, KFC, KSFE and Kerala Bank. The units engaged in manufacturing, service, and trading are eligible for the assistance. 50% of the beneficiaries under the scheme shall be women entrepreneurs.",
+        "benefits": [
+            "The assistance provided under this scheme shall be in the form of an interest subvention on a reimbursement basis.",
+            "All new MSMEs engaged in manufacturing, service, and trading activities shall be eligible for interest subvention on the interest charged by the financial institution on an approved project for loan amounts up to \u20b910 lakhs (for Term loan and/or working capital loan) for a period of five years from the date of disbursement of the 1st installment of the loan by the financial institution.",
+            "In a case where the loan amount exceeds \u20b910 Lakhs, the interest subvention shall be considered for loans up to \u20b910 Lakhs only.",
+            "The rate of subvention will be up to a maximum of 6%. The subvention will be the difference in the rate of interest charged by the financial institution and 4 %."
+        ],
+        "eligibility": [
+            "All new micro, small, and medium enterprises in manufacturing, service, and trading activities, that availed of Term Loan and/or Working Capital Loan, shall be eligible for assistance under this scheme.",
+            "The MSME units, that commenced operation/production on or after 1/4/2022, are eligible for assistance under this scheme.",
+            "The unit shall have a valid Udyam Registration.",
+            "As of the date of submission of the claim, the loan accounts should not have been declared as NPA as per extant guidelines in force.",
+            "The unit shall be working as of the date of application.",
+            "The unit shall not have availed any grant assistance under any scheme of the Central Government/State Government/ Local Self Government Department.",
+            "Even though the scheme is for new units, an exemption is there for units supported by the PMFME scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Photo identity proof of the Promoter/ Promoters",
+            "Copy of Udyam Registration",
+            "Copy of Partnership deed/Memorandum and Articles of Association/ Bye-laws in case of units other than proprietary",
+            "Self-attested copy of registration certificate from Registrar of Company/Firm/Society, for units other than proprietary",
+            "Resolution towards applying for this assistance in case of units other than proprietary.",
+            "A copy of the loan sanction letter from the bank",
+            "Copy of recommendation letter from bank",
+            "Statement from the bank showing the disbursement details, loan repayment.",
+            "Project report ( Approved by Financial Institution)",
+            "In case units have availed/are availing assistance under the PMFME scheme, supporting documents to substantiate the same.",
+            "In the case of a belated application, request for condonation for the delay in filing the application.",
+            "Copy of title/ lease deed /Allotment order and remittance particulars in case of units in DA, DP, etc."
+        ],
+        "tags": [
+            "Enterprise",
+            "Entrepreneur",
+            "Family",
+            "Interest Subvention",
+            "Loan",
+            "MSME",
+            "OFOE"
+        ],
+        "faqs": [
+            {
+                "question": "What is the aim of the scheme?",
+                "answer": "This scheme aims to set up at least one MSME unit including trade activity in each family."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The scheme envisages encouraging entrepreneurial activity in every household and promoting upcoming entrepreneurs in setting up enterprises through providing interest subvention for loan amounts up to \u20b910 lakh."
+            },
+            {
+                "question": "Which is the implementing department of this scheme?",
+                "answer": "Industries & Commerce Department, Government of Kerala."
+            },
+            {
+                "question": "Which types of enterprises are eligible to get the benefits of the scheme?",
+                "answer": "All new micro, small and medium enterprises in manufacturing, service and trading activities, which availed Term Loan and/or Working Capital Loan, shall be eligible for assistance under this scheme."
+            },
+            {
+                "question": "What is the benefit of the scheme?",
+                "answer": "All new MSMEs engaged in manufacturing, service, and trading activities shall be eligible for interest subvention on the interest charged by the financial institution on an approved project for loan amounts up to \u20b910 lakhs."
+            },
+            {
+                "question": "What will be the maximum rate of subvention?",
+                "answer": "The rate of subvention will be up to a maximum of 6%."
+            },
+            {
+                "question": "Will a unit/enterprise be eligible if it has availed any grant assistance under any scheme?",
+                "answer": "No, the unit shall not have availed any grant assistance under any scheme of the Central Government/State Government/ Local Self Government Department."
+            },
+            {
+                "question": "Is there any exemption for the eligibility of the unit/enterprise?",
+                "answer": "Yes, even though the scheme is not eligible for units who have availed any grant assistance under any scheme, an exemption is there for units supported by PMFME scheme."
+            },
+            {
+                "question": "How can an applicant apply under the scheme?",
+                "answer": "Application can be submitted online through the Official website of the Directorate of Industries & Commerce, Government of Kerala."
+            },
+            {
+                "question": "What is the time duration to avail of the benefits of the scheme?",
+                "answer": "The applicant may avail the assistance for a period of 6 months or for 1 year."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://industry.kerala.gov.in/index.php/schemes-mainmenu/one-family-one-enterprises-oofe"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://industry.kerala.gov.in/images/Schemes/OFOE_GO_Rt_1232_22_ID_2.pdf"
+            },
+            {
+                "type": "Application Portal",
+                "url": "http://ofoe.industry.kerala.gov.in/public/index.php/family"
+            }
+        ]
+    }
+}

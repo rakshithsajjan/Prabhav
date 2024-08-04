@@ -1,0 +1,62 @@
+{
+    "content": {
+        "title": "Swachh Bharat Yojana \u2013 Grameen Phase II",
+        "state": "Grameen",
+        "department": "Ministry Of Jal Shakti",
+        "type": "Sanitation",
+        "beneficiary": "Rural households",
+        "details": "Phase II of the Swachh Bharat Mission (Grameen) [SBM(G)], will focus on sustainability of Open Defecation Free (ODF) status and Solid and Liquid Waste Management (SLWM) in rural India. The programme will work towards ensuring that no one is left behind and everyone uses a toilet. SBM(G) Phase-II will be implemented from 2020-21 to 2024-25 in a mission mode. Government of India launched Swachh Bharat Mission (Grameen) on 2nd October, 2014 to accelerate efforts to achieve universal sanitation coverage, improve cleanliness and eliminate open defecation in India by 2nd October 2019.",
+        "benefits": [
+            "Provision of access to toilets to any left-out households and newly emerged households by the construction of IHHLs and CSCs. Financial support of Rs - 12,000 for APL and BPL Rural households including storage for handwashing and cleaning of the toilet",
+            "Biodegradable waste management through composting and biogas plants (GOBAR-DHAN)",
+            "Collection, segregation and storage facilities and setting up of plastic waste management units/material recovery centres for plastic waste management",
+            "Construction of soak pits, waste stabilisation ponds, DEWATS, etc. for greywater management",
+            "Faecal sludge management through co-treatment in existing Sewage Treatment Plants/Faecal Sludge Treatment Plants (STPs/FSTPs) in nearby urban areas and setting up of FSTPs under the programme",
+            "Decentralised operation and maintenance of community sanitation assets in rural areas by Gram Panchayats"
+        ],
+        "eligibility": [
+            "This scheme is for any rural household that does not have access to an individual household toilet."
+        ],
+        "exclusions": [],
+        "application_process": "The construction of household toilets may be undertaken by the individual beneficiaries themselves with support from agencies. Community Model through agencies in the village. States may also decide to give the incentive to the individuals, or to communities where the model is adopted to trigger the demand in GPs/Blocks/Districts, or to the Gram Panchayats on the achievement of community objectives.",
+        "documents_required": [
+            "Aadhar Number",
+            "Bank Account Detail - Passbook",
+            "Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "How will I receive my financial support under the Scheme?",
+                "answer": "Payment of incentives may be in cash or in the form of construction materials or credit vouchers for such materials."
+            },
+            {
+                "question": "Where do I find the technological details to build a latrine?",
+                "answer": "All the details are available in the Scheme Guidelines."
+            },
+            {
+                "question": "What changes have been made in SBM(G) Phase-II as compared to SBM(G)?",
+                "answer": "New eligible households will be provided incentive @ Rs.12000 per household for construction of IHHL, which is the existing norm of financial incentive. Only new eligible households will be provided the incentive money."
+            },
+            {
+                "question": "What are the objectives of SBM(G) Phase-II?",
+                "answer": "The main objectives of SBM(G) Phase-II are: Maintaining the ODF status of the villages, Gram Panchayats, Blocks, Districts and States over a continued period of time."
+            },
+            {
+                "question": "What are the main activities carried out under the SBM(G) Phase-II?",
+                "answer": "The main activities are: (i) Construction of Individual Household Latrines (IHHL) (ii) Construction of Community Managed Sanitation Complexes (CMSCs) (iii) Solid and Liquid Waste Management (SLWM) activities."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/sbm-g-ii"
+            }
+        ],
+        "tags": [
+            "Swachh Bharat",
+            "Sanitation",
+            "Rural",
+            "Toilet"
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "content": {
+        "title": "NIRMAN SHRAMIK PUCCA GHAR YOJANA",
+        "state": "Odisha",
+        "department": "Labour & ESI Department of Govt. of Odisha",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Worker",
+        "details": "The state government launched the 'Nirman Shramik Pucca Ghar Yojana (NSPGY)' scheme to meet the housing needs of the building and other construction workers in rural areas, registered under the Odisha Building & Other Construction Workers Welfare Board (OB&OCWWB), who play a pivotal role in the construction of individual and community assets and do not have their own pucca house.",
+        "benefits": [
+            "Unit cost for new construction of dwelling houses is \u20b91,20,000/- for Non-IAP districts and \u20b91,30,000/- for IAP districts.",
+            "Beneficiaries will get a wage component for 90 person days in Non-IAP and 95 person days in IAP districts under MGNREGS.",
+            "Beneficiaries will avail \u20b912,000 for IHHL under MGNREGS/SBM(G).",
+            "Entitled to convergence for potable drinking water supply system, electrification under DDU GJY/BGJY, wages for land development under MGNREGS, social security under AABY/RSBY.",
+            "Incentives for early completion of the house: \u20b920,000 for completion within 4 months and \u20b910,000 for completion within 6 months of receipt of 1st installment."
+        ],
+        "eligibility": [
+            "Permanent resident of Odisha.",
+            "Must not have a pucca house.",
+            "Engaged as a 'building worker' for not less than 90 days during the preceding 12 months.",
+            "Must be between 18 and 60 years of age.",
+            "Not a member of any other Welfare Fund established under any law.",
+            "Registered with the Odisha Building & Other Construction Workers' Welfare Board."
+        ],
+        "exclusions": [
+            "A person or family who has earlier availed housing assistance under any of the Government Schemes or is not enlisted in the Kutcha household category of SECC 2011."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card",
+            "Passport size photograph",
+            "Ration Card",
+            "Residence certificate",
+            "Income certificate",
+            "Proof of age",
+            "Bank details"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme 'NSPGY'?",
+                "answer": "To provide pucca houses to Building workers & other construction workers in rural areas registered under the Odisha Building Workers' Welfare Board."
+            },
+            {
+                "question": "How much financial assistance will be provided under the scheme for constructing a new house?",
+                "answer": "The unit cost under NSPGY for new construction of dwelling houses is \u20b91,20,000/- for Non-IAP districts and \u20b91,30,000/- for IAP districts."
+            },
+            {
+                "question": "Is there any incentive to be given to the beneficiary in case of early completion of the house?",
+                "answer": "Yes, for early completion of the house, the beneficiary will avail incentives of \u20b920,000 & \u20b910,000 if completed within 4 months & 6 months of receipt of 1st installment respectively."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://bocboard.labdirodisha.gov.in/Building/homecontent/NSPGY/NSPGY_11-01-18_300.pdf"
+            },
+            {
+                "type": "Amendment",
+                "url": "https://bocboard.labdirodisha.gov.in/Building/homecontent/NSPGY/NSPGY_02-05-18_3412.pdf"
+            },
+            {
+                "type": "Website",
+                "url": "https://bocboard.labdirodisha.gov.in/Building/"
+            },
+            {
+                "type": "Definition",
+                "url": "https://nirmanshramik.odisha.gov.in/obocwwb/public/downloadAct"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Construction Workers",
+            "Financial Assistance",
+            "Odisha"
+        ]
+    }
+}

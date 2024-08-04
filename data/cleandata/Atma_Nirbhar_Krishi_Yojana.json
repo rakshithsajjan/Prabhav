@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Atma Nirbhar Krishi Yojana",
+        "state": "Arunachal Pradesh",
+        "department": "Agriculture/Horticulture Department",
+        "type": "Financial Assistance Scheme",
+        "beneficiary": "Farmers",
+        "details": "Atma Nirbhar Krishi Yojana (ANKY) is an ambitious scheme launched by the Chief Minister of Arunachal Pradesh with the aim of promoting self-reliance in the agriculture sector. Under this scheme, farmers are provided with financial assistance and support for various agricultural activities. The scheme focuses on scientific land terracing, doubling cropping, farm mechanization, and apiculture among other activities. Farmers can avail loans of up to Rs. 1.60 lakhs without collateral to invest in these activities.",
+        "benefits": [
+            "Financial assistance for agricultural activities",
+            "Loan without collateral",
+            "Enhanced productivity",
+            "Empowerment of farmers",
+            "Promotes self-reliance",
+            "Encourages diversified cropping",
+            "Support for women in agriculture"
+        ],
+        "eligibility": [
+            "The applicant must be a resident of Arunachal Pradesh.",
+            "The farmer should possess the necessary land for agricultural activities.",
+            "Women farmers and members of self-help groups are also eligible to apply under the scheme.",
+            "The applicant must have a viable plan or proposal for the proposed agricultural activities.",
+            "Farmers must meet the specific criteria set by participating banks for loan eligibility."
+        ],
+        "exclusions": [
+            "Non-agricultural activities",
+            "Ineligible crops",
+            "Non-compliance with eligibility criteria"
+        ],
+        "application_process": "Offline. Step 1: Visit the official website of the respective scheme or visit the nearest Agriculture/Horticulture Department office. Step 2: Obtain the application form for the desired scheme. Step 3: Fill in the application form with accurate details and attach the required documents. Step 4: Submit the completed application form along with the necessary documents to the concerned Agriculture/Horticulture Department office. Step 5: The application will be verified by the department officials. Step 6: Upon successful verification, the loan amount or subsidy, as applicable, will be disbursed to the farmer's bank account.",
+        "documents_required": [
+            "Proof of identity (Aadhaar card, voter ID card, PAN card, etc.)",
+            "Proof of address (ration card, utility bill, driving license, etc.)",
+            "Land documents (ownership proof or lease agreement)",
+            "Bank account details",
+            "Passport-size photographs",
+            "Income certificate",
+            "Caste certificate (if applicable)",
+            "Self-help group registration certificate (for Atmanirbhar Bagwani Yojana)",
+            "Any other specific documents mentioned in the application form or scheme guidelines."
+        ],
+        "faqs": [
+            {
+                "question": "Can farmers avail the benefits of both the Atmanirbhar Krishi Yojana and Atmanirbhar Bagwani Yojana simultaneously?",
+                "answer": "Yes, eligible farmers can avail the benefits of both the Atmanirbhar Krishi Yojana and Atmanirbhar Bagwani Yojana simultaneously."
+            },
+            {
+                "question": "Is there any age limit for farmers to apply for these schemes?",
+                "answer": "There is no specific age limit mentioned for farmers to apply for the Atmanirbhar Krishi Yojana and Atmanirbhar Bagwani Yojana."
+            },
+            {
+                "question": "Can farmers from all districts of Arunachal Pradesh apply for these schemes?",
+                "answer": "Yes, farmers from all districts of Arunachal Pradesh are eligible to apply."
+            },
+            {
+                "question": "Are tenant farmers eligible to apply for the Atmanirbhar Krishi Yojana?",
+                "answer": "Yes, tenant farmers who have valid lease agreements or tenancy documents can be eligible."
+            },
+            {
+                "question": "How can farmers apply for these schemes?",
+                "answer": "Farmers can apply by visiting the official website or the nearest Agriculture/Horticulture Department office."
+            },
+            {
+                "question": "Can farmers receive subsidies and loans simultaneously under these schemes?",
+                "answer": "Yes, farmers can avail subsidies and loans simultaneously."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Notification",
+                "url": "https://roing.nic.in/agriculture/"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.myscheme.gov.in/schemes/anky"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Financial Assistance",
+            "Self-reliance",
+            "Empowerment",
+            "Sustainability"
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "content": {
+        "title": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Economically Backward Class (EBC) Students",
+        "details": "Dr. Ambedakar Centrally Sponsored Scheme of Post-Matric Scholarships for the Economically Backward Class (EBC) Students is a Scholarship Scheme by the Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment. The objective of the scheme is to provide financial assistance to the Economically Backward Class (EBC) students studying at the post-matriculation or post-secondary stage to enable them to complete their education. These scholarships shall be available for studies in India only and will be awarded by the Government of State/Union Territory to which the applicant actually belongs, i.e. permanently settled.",
+        "benefits": [
+            "Maintenance Allowance for different groups of courses",
+            "Reader Charges for Blind Students",
+            "Fees for enrolment/registration, tuition, games, union, library, magazine, medical examination",
+            "Study Tours charges",
+            "Thesis Typing/Printing Charges",
+            "Mode of Disbursal through bank accounts"
+        ],
+        "eligibility": [
+            "Indian nationals belonging to the General Category (Other than Schedule Caste, Schedule Tribe and Other Backward Classes)",
+            "Students pursuing recognized post-matriculation or post-secondary courses in Government institutions",
+            "Students pursuing Post-graduate courses in medicine if not allowed to practice during the course",
+            "Students who have completed their educational career in one professional line are not eligible for another scholarship",
+            "Only two boys of the same parents/guardians will be entitled to receive scholarships"
+        ],
+        "exclusions": [
+            "Scholarships shall not be awarded for Commercial Pilot Licence (CPL) Courses and other aviation-linked courses",
+            "Candidates studying in the same stage of education in a different subject will not be eligible",
+            "Students studying in the XI Class of the Higher Secondary School courses or the XII class of the Multipurpose High School will not be eligible"
+        ],
+        "application_process": "Online. Visit the National Scholarship Portal and follow the registration and application steps.",
+        "documents_required": [
+            "One copy of the application for the scholarship in the prescribed form",
+            "One copy of the passport-size photograph with signatures of the student",
+            "One attested copy of each of the certificates/diplomas/degrees",
+            "A certificate of income issued by an authorized Revenue Officer",
+            "A receipt in acknowledgement of the scholarship in the previous year if applicable"
+        ],
+        "faqs": [
+            {
+                "question": "Is the scholarship paid during the internship or practical training in certain courses?",
+                "answer": "No, scholarships are not paid during internships in MBBS courses or during practical training in other courses if the student receives remuneration or an allowance."
+            },
+            {
+                "question": "Are students expected to purchase textbooks with their maintenance allowance?",
+                "answer": "Yes, students are expected to purchase textbooks, stationery, etc., out of their maintenance allowance."
+            },
+            {
+                "question": "What if a student secures admission after the 20th day of a month?",
+                "answer": "If a student secures admission after the 20th day of a month, the scholarship amount will be paid from the following month."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Dr%20Ambedkar%20PMS%20for%20EBC%202016-17.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "EBC",
+            "Post-Matric",
+            "Financial Assistance"
+        ]
+    }
+}

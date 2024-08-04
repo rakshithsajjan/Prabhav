@@ -1,0 +1,51 @@
+{
+    "content": {
+        "title": "Page not found.",
+        "state": "Not Applicable",
+        "department": "Ministry of Electronics & IT (MeitY)",
+        "type": "Not Applicable",
+        "beneficiary": "Not Applicable",
+        "details": "Sorry, we couldn't find the page you're looking for.",
+        "benefits": [],
+        "eligibility": [],
+        "exclusions": [],
+        "application_process": "Not Applicable",
+        "documents_required": [],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Home Page",
+                "url": "https://www.myscheme.gov.in/"
+            },
+            {
+                "type": "About Us",
+                "url": "https://www.myscheme.gov.in/about"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://www.myscheme.gov.in/contact"
+            },
+            {
+                "type": "Screen Reader",
+                "url": "https://www.myscheme.gov.in/screen-reader"
+            },
+            {
+                "type": "Accessibility Statement",
+                "url": "https://www.myscheme.gov.in/accessibility-statement"
+            },
+            {
+                "type": "Frequently Asked Questions",
+                "url": "https://www.myscheme.gov.in/faqs"
+            },
+            {
+                "type": "Disclaimer",
+                "url": "https://www.myscheme.gov.in/disclaimer"
+            },
+            {
+                "type": "Terms & Conditions",
+                "url": "https://www.myscheme.gov.in/terms-conditions"
+            }
+        ],
+        "tags": []
+    }
+}

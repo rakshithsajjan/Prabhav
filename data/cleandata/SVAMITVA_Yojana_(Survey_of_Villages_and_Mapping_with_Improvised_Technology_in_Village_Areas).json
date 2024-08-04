@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "SVAMITVA Yojana (Survey of Villages and Mapping with Improvised Technology in Village Areas)",
+        "state": "India",
+        "department": "Ministry Of Panchayati Raj",
+        "type": "Central Sector Scheme",
+        "beneficiary": "Village household owners",
+        "details": "SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a \u2018Record of Rights\u2019 to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology.",
+        "benefits": [
+            "Drone Digitally Maps All the Land Parcels of the Inhabited Area of the Village.",
+            "Creation of Property Cards on the Exact Area of Each Property in the Village.",
+            "Proprietary Rights to the Village Household Owner.",
+            "Property as a Financial Asset for Taking Loans and Other Financial Benefits.",
+            "Reduce Property Disputes and Legal Cases.",
+            "Determination of Property Tax.",
+            "Creation of Accurate Land Records for Rural Planning.",
+            "Better GPDP - Leveraging GIS Database/Maps Created for Better Planning and Execution of Plans."
+        ],
+        "eligibility": [
+            "The applicant should have a property in rural inhabited (Abadi) area."
+        ],
+        "exclusions": [
+            "Agricultural Lands are not covered under this scheme."
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Identity Proof of the Property Owners.",
+            "Proof of Ownership of the Property Owners.",
+            "Any other documents as required by the Revenue Officials."
+        ],
+        "faqs": [
+            {
+                "question": "What is SVAMITVA and what does it stand for?",
+                "answer": "SVAMITVA stands for 'Survey of Villages and Mapping with Improvised Technology in Village Areas.' It's a Central Sector Scheme aimed at providing an integrated inhabited property ownership solution for rural India."
+            },
+            {
+                "question": "When was the Pilot Phase of the SVAMITVA scheme launched?",
+                "answer": "The Pilot Phase of the SVAMITVA scheme was launched on 24th April 2020, coinciding with National Panchayati Raj Day."
+            },
+            {
+                "question": "What technology is used for demarcating rural inhabited land under SVAMITVA?",
+                "answer": "Drone Surveying technology is used for demarcating rural inhabited land under SVAMITVA."
+            },
+            {
+                "question": "What is the significance of the collaborative efforts mentioned in the introduction of SVAMITVA?",
+                "answer": "Collaborative efforts involving various entities like the Ministry of Panchayati Raj, Survey of India, NIC, State Revenue Departments, and State Panchayati Raj Departments are crucial for the successful implementation of SVAMITVA."
+            },
+            {
+                "question": "What is the primary objective of SVAMITVA in terms of providing property ownership solutions?",
+                "answer": "The primary objective of SVAMITVA is to provide a 'record of rights' to village household owners in the form of Property Cards/Title Deeds."
+            },
+            {
+                "question": "How does SVAMITVA aim to address the issue of lack of legal documentation for property ownership in rural areas?",
+                "answer": "SVAMITVA aims to use technology to provide legal documentation, such as Property Cards/Title Deeds, to rural households, thereby enabling them to utilize their property as a financial asset."
+            },
+            {
+                "question": "What are the broad objectives of the SVAMITVA scheme?",
+                "answer": "The broad objectives of the SVAMITVA scheme include providing property ownership solutions, leveraging technology for demarcation, and empowering rural households economically."
+            },
+            {
+                "question": "What is the target coverage of villages under the SVAMITVA scheme from 2021-2025?",
+                "answer": "The SVAMITVA scheme targets coverage of nearly 6.62 lakh villages, with 50,000 villages targeted from April 2020 to March 2021, and the remaining villages across the country from 2021-2025."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://svamitva.nic.in/svamitva/downloadPdfFiles.html?id=36&type=pdf&OWASP_CSRFTOKEN=EOIY-CFO7-HLZC-LNAD-SEAC-5EH8-4NTI-1ZOT"
+            },
+            {
+                "type": "Flyer",
+                "url": "https://svamitva.nic.in/svamitva/downloadPdfUserMannualFiles.html?OWASP_CSRFTOKEN=GLCV-COL7-09G1-MLE9-4S1R-8WIK-FEQW-07J5&id=1"
+            },
+            {
+                "type": "Brochure",
+                "url": "https://svamitva.nic.in/svamitva/downloadPdfUserMannualFiles.html?OWASP_CSRFTOKEN=GLCV-COL7-09G1-MLE9-4S1R-8WIK-FEQW-07J5&id=2"
+            },
+            {
+                "type": "Booklet",
+                "url": "https://svamitva.nic.in/DownloadPDF/SVAMITVA_English_1632367330563.pdf"
+            }
+        ],
+        "tags": [
+            "Drone",
+            "Property",
+            "Rural",
+            "Survey",
+            "Village"
+        ]
+    }
+}

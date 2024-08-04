@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Mukhyamantri Samajik Sahayata Prakalpa - Unorganized Workers",
+        "state": "Tripura",
+        "department": "Directorate of Social Welfare and Social Education",
+        "type": "Pension Scheme",
+        "beneficiary": "Unorganized Workers",
+        "details": "The scheme 'Mukhyamantri Samajik Sahayata Prakalpa- Unorganized Workers' is a Pension Scheme launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The objective of this scheme is to provide financial assistance to the Unorganized Workers (home-based workers, self-employed workers or wage workers) in the unorganized sector.",
+        "benefits": [
+            "A pension amount of \u20b92,000/- per month.",
+            "The sanctioned grant will be transferred directly to the individual bank account of the applicant."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Tripura.",
+            "The annual income of the family of the applicant should not exceed \u20b91,00,000/-.",
+            "The age of the applicant should be 55 years and above (except for \u2018Greha Sahayika\u2019).",
+            "In the case of \u2018Greha Shahayika\u2019 (Female Domestic Worker), the age of the applicant should be between 23 to 59 years.",
+            "If the family has children in the age group of 6 to 14 years, those children must be enrolled in a school recognized by the Government of Tripura."
+        ],
+        "exclusions": [
+            "Income taxpayers are not eligible.",
+            "Government employees are not eligible.",
+            "Individuals whose family members are already getting benefits under any of the Category/Sub-Category under \u2018Mukhyamantri Samajik Sahayata Prakalpa' (except infirm & PwDs) are not eligible.",
+            "Pensioners who are getting benefits under the 'National Social Assistance Program (NSAP)' or the 32 State Social Pension Schemes run by the Social Welfare & Social Education Department, Govt. of Tripura are not eligible."
+        ],
+        "application_process": "Offline and Online. Applicants should visit the Office of the Child Development Project Officer to request a hard copy of the prescribed format of the application form or take a print of the prescribed format from the official website.",
+        "documents_required": [
+            "Income Certificate from SDM (Sub Divisional Magistrate).",
+            "Age Proof Certificate (Birth Certificate/ School Certificate/ Madhyamik Admit).",
+            "Aadhaar Card.",
+            "Ration Card, issued by the Food & Civil Supplies Department.",
+            "Permanent Resident of Tripura Certificate (PRTC), issued by the Sub Divisional Administration.",
+            "Professional Certificate from Gram Panchayat/ Village Committee/ Nagar Panchayat/ AMC Chairman.",
+            "Non-Government Employee Certificate from Panchayat Secretary/Ward Secretary/Gazetted Officer."
+        ],
+        "faqs": [
+            {
+                "question": "What certificates need to be submitted after selection?",
+                "answer": "After selection, beneficiaries must submit Life Certificate and Income Certificate to the CDPO in November every year."
+            },
+            {
+                "question": "What events lead to the immediate cessation of assistance under this scheme?",
+                "answer": "Assistance is stopped in cases such as the death of the beneficiary or fulfillment of exclusion criteria, including remarriage of a widow or a family member getting a Government Job."
+            },
+            {
+                "question": "What is the condition related to the enrollment of children in the family?",
+                "answer": "If the family has children aged 6 to 14 years, they must be enrolled in a school recognized by the Government of Tripura."
+            },
+            {
+                "question": "What is the age range for 'Greha Shahayika' (Female Domestic Worker) applicants?",
+                "answer": "The age of 'Greha Shahayika' applicants should be between 23 to 59 years."
+            },
+            {
+                "question": "What is the age requirement for applicants, excluding 'Greha Shahayika'?",
+                "answer": "Applicants should be 55 years and above, except for 'Greha Shahayika' (Female Domestic Worker)."
+            },
+            {
+                "question": "What is the maximum annual income limit for the family of the applicant?",
+                "answer": "The annual income of the applicant's family should not exceed \u20b91,00,000."
+            },
+            {
+                "question": "Where can the beneficiaries check the list of beneficiaries for the scheme?",
+                "answer": "The list of beneficiaries is available on the official website of the Social Welfare & Social Education Department, Govt. of Tripura."
+            },
+            {
+                "question": "How much is the monthly pension amount provided under this scheme?",
+                "answer": "The pension amount under the scheme is \u20b92,000 per month."
+            },
+            {
+                "question": "What is the mode of disbursal for the sanctioned grant?",
+                "answer": "The sanctioned grant is directly transferred to the individual bank account of the applicant."
+            },
+            {
+                "question": "How often should the Life Certificate and Income Certificate be submitted after selection?",
+                "answer": "Beneficiaries need to submit the Life Certificate & Income Certificate to the CDPO in November every year after selection."
+            },
+            {
+                "question": "Are there any specific criteria for children in the family to be eligible for the scheme?",
+                "answer": "Children in the age group of 6 to 14 years must be enrolled in a school recognized by the Government of Tripura for the family to be eligible."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Notification%20for%20Mukhyamantri%20Samajik%20Sahayata%20Prakalpa.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Pension",
+            "Senior Citizen",
+            "Unorganized Worker"
+        ]
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Nirman Shramik Auzaar Toolkit Sahayata Yojana",
+        "state": "Rajasthan",
+        "department": "Government of Jharkhand",
+        "type": "Social Welfare Scheme",
+        "beneficiary": "Registered construction workers",
+        "details": "The NIRMAN SHRAMIK AUZAAR TOOLKIT SAHAYATA YOJANA is a social welfare scheme launched by the Government of Jharkhand to provide financial assistance to registered construction workers in the state for the purchase of essential tools and equipment required for their work.",
+        "benefits": [
+            "Actual cost of purchasing tools/toolkit or \u20b9 2,000/-, whichever is less"
+        ],
+        "eligibility": [
+            "The applicant must be a native of the Rajasthan state.",
+            "The applicant must be a registered construction worker for 3 years.",
+            "Amount payable only on purchasing tools/toolkits related to one's work or business.",
+            "The purchase of tools/toolkits will be done by the construction worker himself and the bill is required to be attached to the application."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of the registration identity card of the beneficiary.",
+            "Copy the first page of the beneficiary's bank account passbook (the beneficiary's name, bank account number, and IFSC code are mentioned).",
+            "Copy of the beneficiary's Aadhar card and Bhamashah card.",
+            "Copy of sales receipt of tools/toolkit."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Under this scheme, workers will be provided financial assistance to buy tools as per their requirement."
+            },
+            {
+                "question": "What is Shramik Aujar Toolkit Assistance Scheme?",
+                "answer": "Under this scheme, financial assistance of Rs 2000 will be provided to the laboring citizens of Rajasthan state to purchase tools related to their work."
+            },
+            {
+                "question": "Workers of which state can avail the benefits of Shramik Aujar Toolkit Assistance Scheme?",
+                "answer": "Only laboring citizens of Rajasthan state can avail the benefit of this scheme."
+            },
+            {
+                "question": "From which department to apply for Shramik Aujar Toolkit Sahayata Yojana?",
+                "answer": "To avail the benefits of this scheme, the worker will have to go to his nearest district labor department and apply."
+            },
+            {
+                "question": "What should be the age of a worker to apply for Shramik Aujar Toolkit Sahayata Yojana?",
+                "answer": "The age of the worker should be 18 Years or more."
+            },
+            {
+                "question": "What is the main eligibility to apply under Shramik Aujar Toolkit Assistance Scheme?",
+                "answer": "Apart from this, the applicant must be registered in the Labor Department and it must have been 3 years since he/she was registered."
+            },
+            {
+                "question": "What is labor card?",
+                "answer": "A labour card is an identity card issued by the government to workers in the unorganized sector. This card helps them avail various benefits and schemes such as healthcare, insurance, and social security schemes."
+            },
+            {
+                "question": "What is Bhamashah Card?",
+                "answer": "All family members of women who have a Bhamashah Yojana card can use the card to access the benefits of this scheme. It offers women core banking functions as well as biometric identification."
+            },
+            {
+                "question": "Is There Any Application Fee For The Scheme?",
+                "answer": "No."
+            },
+            {
+                "question": "Is amount transferred directly to the bank account of the beneficiary through DBT?",
+                "answer": "Yes."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/227"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Apply",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Empower",
+            "Finance",
+            "Labor",
+            "Tools"
+        ]
+    }
+}

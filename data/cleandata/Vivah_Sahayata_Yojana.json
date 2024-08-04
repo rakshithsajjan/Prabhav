@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Vivah Sahayata Yojana",
+        "state": "Jharkhand",
+        "department": "Department of Labour, Employment, Training & Skill Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Residents/Domicile of Jharkhand",
+        "details": "'Vivah Sahayata Yojana' is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides financial assistance of \u20b9 30,000/- (Rupees Thirty Thousand Only) for the marriage of two children / female members of the family.",
+        "benefits": [
+            "Financial assistance of \u20b9 30,000/- for the marriage of two children / female members of the family."
+        ],
+        "eligibility": [
+            "The applicant should be a domicile in the state of Jharkhand.",
+            "The applicant should be a Worker registered with the 'Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)'.",
+            "The applicant should be between 18-60 years of age.",
+            "The applicant should be engaged in construction work such as masons, carpenters, electricians, porters, painters, etc.",
+            "The registered worker should have made continuous contributions for five years.",
+            "The bride should be at least 18 years of age.",
+            "The groom should be at least 21 years of age.",
+            "The scheme is applicable for up to two children / female members of the family."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card of the Registered Worker",
+            "Aadhaar Card of the Bride and the Groom",
+            "Residential Certificate / Domicile Certificate",
+            "Proof of Identity",
+            "eSHRAM Card",
+            "Passport Sized Photograph",
+            "Proof of Registration as a Construction Worker",
+            "Details of the Bank Account of the Registered Worker",
+            "Income Certificate of the Registered Worker",
+            "Marriage Certificate",
+            "Proof of Age of the Bride and the Groom"
+        ],
+        "tags": [
+            "Marriage",
+            "Social Welfare"
+        ],
+        "faqs": [
+            {
+                "question": "Which Department Manages This Scheme?",
+                "answer": "This scheme is managed by the Department of Labour, Employment, Training & Skill Development, Govt. of Jharkhand."
+            },
+            {
+                "question": "Is This Scheme State Sponsored Or Centrally Sponsored?",
+                "answer": "This scheme is a 100% State Sponsored Scheme."
+            },
+            {
+                "question": "Can Women Also Apply To This Scheme?",
+                "answer": "Yes, this scheme is open to applicants from all genders."
+            },
+            {
+                "question": "Does This Scheme Accept Offline Applications?",
+                "answer": "No, this scheme only accepts online applications."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "How Do I Track The Status Of My Application?",
+                "answer": "To track the status of your application, follow the stepwise process given below: Step 1: Once submitted, the application goes for 3-level approval: Clerk > Labour Superintendent > DLC. Step 2: Go to Services > BOC Scheme Benefit > Application Status."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+            },
+            {
+                "type": "Application Process",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+            },
+            {
+                "type": "District-Wise Contact Details Of Labour Offices",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+            }
+        ]
+    }
+}

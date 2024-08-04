@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Shravanbal Seva State Pension Scheme",
+        "state": "Maharashtra",
+        "department": "Department of Social Justice & Special Assistance",
+        "type": "Pension",
+        "beneficiary": "Destitute Senior Citizens",
+        "details": "The 'Shravanbal Seva State Pension Scheme' is a Pension Scheme by the Department of Social Justice & Special Assistance, Govt. of Maharashtra. In this scheme, a monthly pension of \u20b9 600/- is provided to destitute persons in the state of Maharashtra. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.",
+        "benefits": [
+            "\u20b9 600/- per month is given to each beneficiary.",
+            "Group (A): The destitute men and women who are 65 years or above in age, and whose family is listed as 'Below Poverty Line', are provided a monthly pension of \u20b9 600/-. In this pension, \u20b9 200/- per month is provided under Indira Gandhi Old Age Pension Scheme (Central Govt.), and \u20b9 400/- per month under Shravan Bal State Pension Scheme.",
+            "Group (B): The destitute men and women who are 65 years or above in age, whose family is not listed as 'Below Poverty Line', and whose annual family income is less than or equal to \u20b9 21,000 are provided a monthly pension of \u20b9 600/- entirely by the Shravan Bal State Pension Scheme."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a domicile / permanent resident of the state of Maharashtra for at least 15 years.",
+            "The applicant should be destitute.",
+            "The applicant should be 65 years or above in age.",
+            "The name of the applicant should be in the list of Below Poverty Line (BPL) families OR the annual income of the family should be less than or equal to \u20b9 21,000/-."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Aadhaar Card.",
+            "2-Passport Sized Photograph (Signed Across).",
+            "Proof of Age.",
+            "Income Certificate / BPL Card of the Family (if applicable)",
+            "Residential Certificate / Domicile Certificate of the State of Maharashtra.",
+            "Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc).",
+            "Any other document required by the District Social Welfare Office."
+        ],
+        "faqs": [
+            {
+                "question": "What Is The Amount Of Pension Provided To Destitute Men And Women Through This Scheme?",
+                "answer": "A monthly pension of \u20b9 600/- is provided to destitute men and women in the state of Maharashtra."
+            },
+            {
+                "question": "Which Type Of Pensioners Come Under Group (A) Of This Scheme?",
+                "answer": "Group (A): The destitute men and women who are 65 years or above in age, and whose family is listed as 'Below Poverty Line', are provided a monthly pension of \u20b9 600/-. In this pension, \u20b9 200/- per month is provided under Indira Gandhi Old Age Pension Scheme (Central Govt.), and \u20b9 400/- per month under Shravan Bal State Pension Scheme."
+            },
+            {
+                "question": "Which Type Of Pensioners Come Under Group (B) Of This Scheme?",
+                "answer": "Group (B): The destitute men and women who are 65 years or above in age, whose family is not listed as 'Below Poverty Line', and whose annual family income is less than or equal to \u20b9 21,000 are provided a monthly pension of \u20b9 600/- entirely by the Shravan Bal State Pension Scheme."
+            },
+            {
+                "question": "What Are The Income Criteria For Group (B) Of This Scheme?",
+                "answer": "The total annual family income of the family of the applicant should be less than or equal to \u20b9 21,000."
+            },
+            {
+                "question": "What Is The Age Criteria For This Scheme?",
+                "answer": "The applicant should be 65 years or above in age."
+            },
+            {
+                "question": "For How Long Should The Applicant Should Be A Domicile / Permanent Resident Of The State Of Maharashtra In Order To Be Eligible For This Scheme?",
+                "answer": "The applicant should be a domicile / permanent resident of the state of Maharashtra for at least 15 years."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sjsa.maharashtra.gov.in/mr/schemes-page?scheme_nature=37"
+            },
+            {
+                "type": "Guidelines (Marathi)",
+                "url": "https://cdn.s3waas.gov.in/s317e62166fc8586dfa4d1bc0e1742c08b/uploads/2018/03/2018031988.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/ContactUs"
+            },
+            {
+                "type": "Photo Upload Manual",
+                "url": "https://aaplesarkar.mahaonline.gov.in/pdf/Photoupload.pdf"
+            },
+            {
+                "type": "Seva Kendras",
+                "url": "https://aaplesarkar.mahaonline.gov.in/en/CommonForm/SewaKendraDetails"
+            }
+        ],
+        "tags": [
+            "Below Poverty Line",
+            "Destitute",
+            "Financial Assistance",
+            "Pension",
+            "Senior Citizen"
+        ]
+    }
+}

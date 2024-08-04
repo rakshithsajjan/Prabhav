@@ -1,0 +1,50 @@
+{
+    "content": {
+        "title": "Spectacles Scheme- Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Workers registered under the Haryana Labour Welfare Board",
+        "details": "The Spectacles Scheme aims to provide spectacles to workers registered under the Haryana Labour Welfare Board to improve their vision and overall well-being.",
+        "benefits": [
+            "Provision of spectacles for eligible workers",
+            "Improved vision for better work performance"
+        ],
+        "eligibility": [
+            "Must be a registered worker under the Haryana Labour Welfare Board",
+            "Must meet the criteria set by the scheme"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Labour Department Haryana website or Antyodaya-SARAL Portal.",
+        "documents_required": [
+            "Aadhaar Number",
+            "Parivar Pehchan Patra number (if applicable)",
+            "Proof of registration as a worker"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/sshlwb"
+            },
+            {
+                "type": "Labour Department Haryana",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "PPP Portal",
+                "url": "https://meraparivar.haryana.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Haryana",
+            "Labour Welfare",
+            "Spectacles Scheme",
+            "Worker Benefits"
+        ]
+    }
+}

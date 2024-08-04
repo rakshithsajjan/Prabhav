@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Integrated Child Development Services Scheme",
+        "state": "Nagaland",
+        "department": "Integrated Child Development Services",
+        "type": "Government Scheme",
+        "beneficiary": "Children up to the age of 6 years, Pregnant women, Lactating mothers",
+        "details": "In Nagaland, the ICDS programme was launched in the year 1975 in the Jalukie block of Peren district with 50 Anganwadi centres. The programme has since grown and at present, there are 60 (sixty) ICDS projects in 11 (Eleven) districts of the State. Of this 2 (two) are Urban projects, one is rural project and the rest are Tribal projects. All the 6(six) services under ICDS such as Supplementary nutrition, Health check up, Non formal pre-school education, Immunization, Nutrition & Health education and Referral services are being provided through a Network of 3980 Anganwadi centres in the State. Presently 60 (sixty) ICDS projects are operating in the state covering 3.45 Lakh beneficiaries under 3980 Anganwadi centres where all the 6 (six) services are provided to children in the age group of 0-6, pregnant women and lactating mothers.",
+        "benefits": [
+            "Supplementary nutrition",
+            "Immunization",
+            "Health check-up",
+            "Referral services",
+            "Pre-school non-formal education",
+            "Nutrition & Health Education"
+        ],
+        "eligibility": [
+            "The children up to the age of 6 years",
+            "Pregnant women",
+            "Lactating mothers"
+        ],
+        "exclusions": [
+            "The children above the age of 6 years is not eligible"
+        ],
+        "application_process": "Applicants need to visit the nearest Anganwadi centres to avail the benefits of the scheme.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Passport Sized Photograph",
+            "Proof of Age / DOB",
+            "Proof of Address"
+        ],
+        "faqs": [
+            {
+                "question": "What is the benefit of this scheme?",
+                "answer": "It improves the nutritional and health status of children in the age group 0-6 years."
+            },
+            {
+                "question": "What does the benefit the child avail from this scheme?",
+                "answer": "To lay the foundation for proper psychological, physical and social development of the child."
+            },
+            {
+                "question": "What is the aim of this scheme?",
+                "answer": "To reduce instances of mortality, malnutrition and school dropouts among Indian children."
+            },
+            {
+                "question": "What is the benefit avail to mother from this scheme?",
+                "answer": "To provide health and nutritional information and education to mothers of young children to enhance the child-rearing capabilities of mothers in the country of India."
+            },
+            {
+                "question": "How does it works for mothers?",
+                "answer": "It provides nutritional food to the mothers of young children & also at the time of pregnancy period."
+            },
+            {
+                "question": "Who can avail this scheme?",
+                "answer": "The children up to the age of 6 years."
+            },
+            {
+                "question": "What is the primary selection of the Beneficiaries?",
+                "answer": "Pregnant women and Lactating mothers."
+            },
+            {
+                "question": "How this service are provided?",
+                "answer": "These services are provided from Anganwadi centres established mainly in rural areas and staffed with frontline workers."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/icdss"
+            }
+        ],
+        "tags": [
+            "Child Development",
+            "Nutrition",
+            "Health",
+            "Women Empowerment"
+        ]
+    }
+}

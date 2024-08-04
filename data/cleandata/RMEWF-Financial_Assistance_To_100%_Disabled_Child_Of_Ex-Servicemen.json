@@ -1,0 +1,54 @@
+{
+    "content": {
+        "title": "RMEWF-Financial Assistance To 100% Disabled Child Of Ex-Servicemen",
+        "state": "Not specified",
+        "department": "Ministry Of Defence",
+        "type": "Financial Assistance",
+        "beneficiary": "Ex-Servicemen or their widows with a 100% disabled child",
+        "details": "A scheme to provide financial assistance to Ex-Servicemen or their widows for their 100% disabled child. Ex-Servicemen or their widows, up to the ranks of Junior Commissioned Officer(JCO)/equivalent of the Navy/Air Force and below, who are not in receipt of such benefit from any official agency can apply under this scheme.",
+        "benefits": [
+            "A financial assistance of Rs.3000/- per month (paid annually) per child is provided to eligible Ex-Servicemen or their widows.",
+            "The financial assistance is non-transferable and will cease automatically upon death of the child."
+        ],
+        "eligibility": [
+            "Child must be a legitimate offspring of ESM/Widow.",
+            "ESM should be of the rank of JCO/equivalent of the Navy/Air Force and below.",
+            "The child should be 100% disabled.",
+            "Should not be in receipt of any disability benefit from any official agency.",
+            "Should be recommended by respective Zila Sainik Board (ZSB)."
+        ],
+        "exclusions": [],
+        "application_process": "Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat (KSBS) and follow the registration and application process as detailed in the scheme description.",
+        "documents_required": [
+            "Photocopy of Discharge Book (must have entry regarding child).",
+            "Ex-Servicemen and Dependent Identity Card issued by ZSB.",
+            "100% disability certificate issued by Military / Govt hospital.",
+            "Details of Bank A/c No (in PNB/SBI only) and IFS Code."
+        ],
+        "faqs": [
+            {
+                "question": "What Is Validity Of This Scheme?",
+                "answer": "The benefit under this scheme is valid for the lifetime of child. However 'life certificate' and 'Disability Certificate' on the Govt prescribed format, need to be submitted through the respective ZSB by 15 January for the grant to be continued in the next financial year."
+            },
+            {
+                "question": "What Is The Frequency Of Benefit?",
+                "answer": "The Financial Assistance Will Be Provided Once In Year."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/rmewf-disabled-child"
+            },
+            {
+                "type": "Kendriya Sainik Board Website",
+                "url": "https://ksb.gov.in/"
+            }
+        ],
+        "tags": [
+            "Differently Abled",
+            "Ex-Servicemen",
+            "Widow Of Ex-Servicemen"
+        ]
+    }
+}

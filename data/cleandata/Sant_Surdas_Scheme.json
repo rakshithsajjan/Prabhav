@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Sant Surdas Scheme",
+        "state": "Gujarat",
+        "department": "Department of Social Justice & Empowerment",
+        "type": "Financial Assistance",
+        "beneficiary": "Persons with Disabilities aged between 0 and 17 years",
+        "details": "The scheme 'Sant Surdas Scheme' was launched by the Director Social Defence, Department of Social Justice & Empowerment, Government of Gujarat. Under the scheme, monthly financial assistance is provided to Persons with Disabilities aged between 0 and 17 years, who have a disability of more than 80% and are registered in the Below Poverty Line (BPL) list.",
+        "benefits": [
+            "Under the scheme, a monthly assistance of \u20b91,000/- is paid to the beneficiary by the State Government through DBT."
+        ],
+        "eligibility": [
+            "The applicant should be a native of Gujarat.",
+            "The applicant should be 0 to 17 years age group.",
+            "Percentage of disability of 80 or more or those who cannot move even with help of artificial limbs independently.",
+            "The applicant should be registered in the Below Poverty Line (BPL) list and BPL score is up to 20.",
+            "The benefit of this scheme is eligible to the disabled person of Gujarat living under the Below Poverty Line.",
+            "The applicant should be possessing disability card issued by state government."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport-size Photograph",
+            "Aadhaar Card of the applicant",
+            "Caste Certificate issued by competent authority, if applicable",
+            "Disability Identity Card/Disability Certificate from a Civil Surgeon",
+            "Proof of Age (School Leaving Certificate/Birth certificate)",
+            "Certificate to the effect that his name is included BPL list with score up to 20",
+            "Proof of Residence (Any one of Ration Card/Electricity Bill/Driving License/Aadhaar Card/Election Card)",
+            "First Page Copy of Bank Passbook/Cancelled Cheque",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Sant Surdas Scheme?",
+                "answer": "The 'Sant Surdas Scheme' is a government initiative launched by the Director Social Defence, Department of Social Justice & Empowerment, Government of Gujarat, aimed at providing financial assistance to Persons with Disabilities."
+            },
+            {
+                "question": "Who is eligible for the Scheme?",
+                "answer": "Individuals who are natives of Gujarat, aged between 0 and 17 years, with a disability of 80% or more, and registered in the Below Poverty Line (BPL) list are eligible for the scheme."
+            },
+            {
+                "question": "What is the financial assistance provided under the Scheme?",
+                "answer": "Beneficiaries receive a monthly assistance of \u20b91,000/- from the State Government through Direct Benefit Transfer (DBT)."
+            },
+            {
+                "question": "Is there a cutoff age for receiving assistance under the scheme?",
+                "answer": "Yes, financial assistance ceases when the beneficiary reaches the age of 18 years."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Eligible applicants can apply through the e-Samaj Kalyan Portal: https://esamajkalyan.gujarat.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://sje.gujarat.gov.in/dsd/scheme/sant-surdash-yojana?lang=Gujarati"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=SpEAgVT9TM80xPDa%2f%2fmXfw%3d%3d"
+            },
+            {
+                "type": "Scheme Details (Page No. 78)",
+                "url": "https://sje.gujarat.gov.in/assets/downloads/SCSP_202021_09072021.pdf"
+            },
+            {
+                "type": "Scheme Details (Page No. 474)",
+                "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-23-24.pdf"
+            },
+            {
+                "type": "E Samaj Kalyan Portal",
+                "url": "https://esamajkalyan.gujarat.gov.in/"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Disability",
+            "Financial Assistance",
+            "PwD",
+            "Social Defence"
+        ]
+    }
+}

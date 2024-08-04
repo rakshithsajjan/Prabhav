@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "RKVY Soil Health and Fertility Village level Soil Testing Lab",
+        "state": "Not specified",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Grant",
+        "beneficiary": "Rural youth, village-level entrepreneurs, including SHGs",
+        "details": "Village level labs can be set up by rural youth, village-level entrepreneurs, including SHGs set up under The Rural Awareness Works Experience (RAWE) programme, Krishi Sakhis, students of government schools, and agriculture graduates from SAUs, PACS, etc. The labs should be operated by local youth. Under the scheme, a one-time financial assistance of Rs 1.5 lakh will be given for establishment of VLSTL.",
+        "benefits": [
+            "Provide affordable access to soil test",
+            "Provide farmers with timely and accurate soil analysis results",
+            "Facilitate customized soil nutrient recommendations based on test results",
+            "Enable farmers to optimize their fertiliser use and minimise input costs, and hence avoid under- or over- application",
+            "Increase awareness among farmers regarding soil health and importance of soil testing",
+            "Aid data gathering and enable decision-making region-specific policy formulation",
+            "Accelerate employment generation among rural youth",
+            "Strengthen soil testing infrastructure in the country"
+        ],
+        "eligibility": [
+            "The Age of the applicant should be between 18 to 27 years",
+            "The Educational Qualification of the applicant should be 10th pass with science and knowledge of computer",
+            "The applicant / entrepreneur group should have their own premises / rented building with lease agreement for at least four years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 01: Identification of individual beneficiary i.e. village level young entrepreneur and community based beneficiaries i.e., PACS, SHGs, School, Agriculture University, etc., in a transparent and time-bound manner. Step 02: Identification of premises for establishment of VLSTL. Step 03: Verification of proof of procure land equipment / inputs. Step 04: SLEC will finalise the entrepreneur\u2019s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month. Step 05: State government will release financial assistance to entrepreneurs within a week after approval of application. Step 06: Entrepreneurs after receiving fund will submit receipts of procurement of lab equipment, consumables, etc. to DLEC within 15 days.",
+        "documents_required": [
+            "Aadhaar number",
+            "Land documents",
+            "Bank details",
+            "Photographs"
+        ],
+        "faqs": [
+            {
+                "question": "Will necessary training be provided to entrepreneur after setting up VLSTL?",
+                "answer": "Yes, training programme will be organised by state government and manufacturer for beneficiary entrepreneur. Training will include topics such as how to collect sample using mobile application, sampling methodology, how to run tests, maintenance of machines, how to use consumables, and how to generate Soil Health Cards using test results through SHC portal."
+            },
+            {
+                "question": "How will awareness be generated among farmers regarding SHC?",
+                "answer": "Entrepreneurs will be trained for awareness generation of farmers about fertiliser use and crop recommendation based on Soil health Card."
+            },
+            {
+                "question": "On what basis will VLSTL provide recommendations?",
+                "answer": "VLSTL will generate customised soil nutrient recommendations based on analysis results. By considering the specific nutrient requirements of different crops and the nutrient levels in the soil, these labs provide farmers with recommendations for fertiliser application."
+            },
+            {
+                "question": "Are there any additional incentives for certain genders, or certain caste/minority farmers?",
+                "answer": "No, the scheme treats all farmers as equal."
+            },
+            {
+                "question": "Can village level STLs be set up by SHGs?",
+                "answer": "Yes, VLSTLs can be set up by SHGs under The Rural Awareness Works Experience (RAWE) programme, Krishi Sakhis, students of government schools, and agriculture graduates from SAUs, PACS, etc. The labs should be operated by local youth."
+            },
+            {
+                "question": "Is there a minimum education requirement for the entrepreneur setting up the VLSTL?",
+                "answer": "Yes, the applicant should be 10th pass with science and knowledge of computer."
+            },
+            {
+                "question": "How much time will the approval from SLEC take?",
+                "answer": "SLEC will finalise the entrepreneur\u2019s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month."
+            },
+            {
+                "question": "Post approval from SLEC, how much time will it take for release of funds?",
+                "answer": "State government will release financial assistance to entrepreneurs within a week after approval of application."
+            },
+            {
+                "question": "When should the entrepreneur submit bills/receipts of procurement?",
+                "answer": "Entrepreneurs after receiving fund will submit receipts of procurement of lab equipment, consumables, etc. to DLEC within 15 days."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://fileforwebsite.s3.ap-south-1.amazonaws.com/Implementation.pdf"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://www.soilhealth.dac.gov.in/assets/Circular%20of%20implementation%20of%20Soil%20Health%20Card.pdf"
+            }
+        ],
+        "tags": [
+            "RKVY",
+            "Soil Health",
+            "Soil Testing Lab",
+            "Rural Entrepreneur"
+        ]
+    }
+}

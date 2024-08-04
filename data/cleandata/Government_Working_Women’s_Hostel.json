@@ -1,0 +1,101 @@
+{
+    "content": {
+        "title": "Government Working Women\u2019s Hostel",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department, Govt. of Tamil Nadu",
+        "type": "Accommodation Scheme",
+        "beneficiary": "Working women belonging to lower and middle-income groups",
+        "details": "The scheme 'Government Working Women\u2019s Hostel' is an initiative by the Social Welfare and Women Empowerment Department, Govt. of Tamil Nadu. The scheme aims to provide safe accommodation and food facilities to working women who live far away from their families and belong to lower and middle-income groups. The women can stay for 3 years in the hostel.",
+        "benefits": [
+            "Affordable Monthly Rent: \u20b9300/- per month in Chennai and \u20b9200/- per month in other Districts.",
+            "Safe accommodation, food, and electricity charges on a dividing basis.",
+            "The women can stay for 3 years in the hostel."
+        ],
+        "eligibility": [
+            "The applicant should be a working woman.",
+            "If the applicant is in Chennai, the income of the applicant should not exceed \u20b925000/- per month.",
+            "If the applicant is in a district other than Chennai, the income of the applicant should not exceed \u20b915000/- per month."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs; Offline: Step 1: The applicant should gather copies of the necessary documents (self-attest if required) needed to apply for the concerned scheme. Step 2: The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process. Step 3: In the application form, fill in all the mandatory fields and upload copies of all the mandatory documents. Step 4: Request a receipt or acknowledgment from the CSC. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "documents_required": [
+            "Certificates issued by the employer.",
+            "Income Certificate.",
+            "Certificate showing that the applicant belongs to a District / Place other than the place where the hostel is located."
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible to benefit from the Government Working Women's Hostel Scheme?",
+                "answer": "Eligible beneficiaries include working women belonging to lower and middle-income groups."
+            },
+            {
+                "question": "What assistance is provided to working women under this scheme?",
+                "answer": "Assistance provided includes safe accommodation, food, and electricity charges on a dividing basis. Rent of \u20b9300 per month in Chennai and \u20b9200 per month in other districts is collected from the inmates."
+            },
+            {
+                "question": "What is the maximum salary limit for eligibility in Chennai and other districts?",
+                "answer": "The maximum salary limit for eligibility is \u20b925,000 per month in Chennai and \u20b915,000 per month in other districts."
+            },
+            {
+                "question": "What are the eligibility criteria based on income levels?",
+                "answer": "Eligibility criteria are based on belonging to the low/middle-income group and being a working woman."
+            },
+            {
+                "question": "What is the time limit for stay in the Government Working Women's Hostel?",
+                "answer": "The time limit for stay in the Government Working Women's Hostel is 3 years."
+            },
+            {
+                "question": "Who are the designated officers to be contacted for inquiries regarding the scheme?",
+                "answer": "Designated officers to be contacted include District Social Welfare Officers, Superintendents of Government Working Women Hostels, and Extension Officers (Social Welfare)."
+            },
+            {
+                "question": "How are grievances addressed at the district level under this scheme?",
+                "answer": "Grievances at the district level should be reported to the District Collector or District Social Welfare Officer. At the state level, grievances should be reported to the Director of Social Welfare."
+            },
+            {
+                "question": "What facilities are provided in the Government Working Women's Hostel?",
+                "answer": "Facilities provided in the Government Working Women's Hostel include accommodation, food, and electricity."
+            },
+            {
+                "question": "Are there any specific guidelines regarding the distance from the workplace for eligibility?",
+                "answer": "There are no specific guidelines regarding the distance from the workplace for eligibility."
+            },
+            {
+                "question": "Is there any provision for assistance with transportation costs for hostel inmates?",
+                "answer": "There is no provision for assistance with transportation costs for hostel inmates mentioned in the scheme details."
+            },
+            {
+                "question": "Can women with families apply for accommodation in the hostel?",
+                "answer": "Women with families may not be eligible for accommodation in the hostel."
+            },
+            {
+                "question": "What are the rent charges for staying in the Government Working Women's Hostel?",
+                "answer": "Rent charges for staying in the Government Working Women's Hostel are \u20b9300 per month in Chennai and \u20b9200 per month in other districts."
+            },
+            {
+                "question": "Are there any specific guidelines regarding the type of employment for eligibility?",
+                "answer": "There are no specific guidelines regarding the type of employment for eligibility mentioned in the scheme details."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://cms.tn.gov.in/sites/default/files/forms/social_welfare_form6.pdf"
+            },
+            {
+                "type": "Location Details Of GWWH",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Accommodation",
+            "Food",
+            "Hostel",
+            "Women"
+        ]
+    }
+}

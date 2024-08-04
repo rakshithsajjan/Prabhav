@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Disability Pension for the Construction Workers",
+        "state": "Delhi",
+        "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
+        "type": "Pension",
+        "beneficiary": "Construction Workers",
+        "details": "The 'Disability Pension for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, disability pension of \u20b93000/- per month is provided to the permanently disabled members due to paralysis, leprosy, T.B and accidents etc.",
+        "benefits": [
+            "\u20b93,000/- per month as disability pension to permanently disabled due to paralysis, leprosy, T.B., accident etc. available from the date of registration."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Delhi.",
+            "The applicant should be a Building/Construction Worker.",
+            "The applicant should be between 18 and 60 years.",
+            "The applicant should have served the Board for at least 90 days in a given year.",
+            "The applicant should be permanently disabled due to paralysis, leprosy, T.B., accident etc."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Permanent Disability certificate issued by Govt. Doctor (medical Certificate by committee)."
+        ],
+        "faqs": [
+            {
+                "question": "Where can I find the URL of the Delhi Building and Other Construction Workers Welfare Board?",
+                "answer": "The URL of the Official Website of the Delhi Building and Other Construction Workers Welfare Board is: https://bocw.delhi.gov.in/"
+            },
+            {
+                "question": "What is the URL for the registration of this scheme?",
+                "answer": "The applicants need to register through clicking on the 'Register' button on DBoCWWB website: https://dbocwwb.delhi.gov.in/cwapp/MyLoginPage?ReturnUrl=%2Fcwapp%2F."
+            },
+            {
+                "question": "Can members in my family also register if they are all registered construction workers?",
+                "answer": "Yes, if there are more than one member in the family who are engaged in Construction Work, they can all register under the DBoCWWB."
+            },
+            {
+                "question": "What is the duration of engagement required for construction workers to qualify for registration?",
+                "answer": "Construction workers must have engaged in building or other construction work for a minimum of 90 days during the preceding 12 months to qualify for registration under Section 12 of the Main Act."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://bocw.delhi.gov.in/bocw/welfare-schemes"
+            },
+            {
+                "type": "Latest Guidelines",
+                "url": "https://dbocwwb.delhi.gov.in/welfareschemedboc.html"
+            },
+            {
+                "type": "User Manual (Registration)",
+                "url": "https://drive.google.com/file/d/1nCDEvvl3saMAKnR__iYZNbc_MnuwQ0E1/view"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://dbocwwb.delhi.gov.in/faqdboc.html#faqm2q1"
+            },
+            {
+                "type": "Application Status",
+                "url": "https://dbocwwb.delhi.gov.in/"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Financial Assistance",
+            "Labour",
+            "Pension"
+        ]
+    }
+}

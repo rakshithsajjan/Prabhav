@@ -1,0 +1,46 @@
+{
+    "content": {
+        "title": "Jal Jeevan Mission",
+        "state": "India",
+        "department": "Ministry Of Jal Shakti",
+        "type": "Government Scheme",
+        "beneficiary": "Rural Households",
+        "details": "The Jal Jeevan Mission aims to provide Functional Household Tap Connections (FHTC) to every rural household, schools, anganwadi centres, GP buildings, health centres, wellness centres, and community buildings. It focuses on sustainability measures such as recharge and reuse through grey water management, water conservation, and rainwater harvesting.",
+        "benefits": [
+            "Functional household tap connection (FHTC) to households, schools, anganwadi centres, GP buildings, health centres, wellness centres, and community buildings.",
+            "Monitoring functionality of tap connections.",
+            "Promotion and ensure voluntary ownership among local community by way of contribution in cash, kind and/or labour.",
+            "Assistance in ensuring sustainability of water supply system.",
+            "Empowering and development of human resource in the sector."
+        ],
+        "eligibility": [
+            "This scheme is applicable to all households in rural India."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The applicant need not apply for the scheme. State Governments/ UT Administration will implement the mission based on the finalized SAP with timelines to cover all the villages of the respective State/ UT.",
+        "documents_required": [
+            "Any proof of identity like Voter ID, Passport, Driving License, Ration Card, Aadhaar Card, etc."
+        ],
+        "faqs": [
+            {
+                "question": "How water will be provided to households where tap water connections are not feasible?",
+                "answer": "In such areas, local innovations/ technological solutions will be explored, including solar energy based stand-alone water supply systems, community water purification plants, and other methods."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://jalshakti-ddws.gov.in/sites/default/files/JJM_Operational_Guidelines.pdf"
+            },
+            {
+                "type": "Dashboard",
+                "url": "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx"
+            }
+        ],
+        "tags": [
+            "Water Supply",
+            "Rural Development",
+            "Sustainability"
+        ]
+    }
+}

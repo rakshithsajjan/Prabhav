@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Jai Johar (Old Age Pension) Scheme",
+        "state": "West Bengal",
+        "department": "Tribal Development Department",
+        "type": "Social Security Scheme",
+        "beneficiary": "Scheduled Tribe residents aged 60 years and above",
+        "details": "Launched on 1st April 2020, 'Jai Johar (Old Age Pension)' is a Social Security Scheme by the Tribal Development Department, Government of West Bengal. The scheme is aimed at the Scheduled Tribe (ST) residents of West Bengal of the age of 60 years and above who do not receive any other pension from any other authority. Over 3,00,000 beneficiaries have been brought under the fold of the scheme. The amount of monthly pension of \u20b9 1,000/- is transferred directly to the individual bank account of the beneficiary.",
+        "benefits": [
+            "A monthly pension of \u20b91,000/- is transferred directly to the individual bank account of the beneficiary."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of West Bengal.",
+            "The applicant should belong to the Scheduled Tribe (ST) category.",
+            "The applicant should have attained the age of 60 years or more.",
+            "The applicant should not be a beneficiary under any other Social Security pension scheme.",
+            "The applicant should not be a recipient of Government pension or pension from any other organization."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should request the prescribed format of the application form free of cost from the office of Block Development Officer (BDO) / Sub Divisional Officer (SDO) / Kolkata Municipal Corporation. Fill in all mandatory fields, paste a passport-sized photograph, and attach copies of all mandatory documents. Submit the application form to the concerned authority.",
+        "documents_required": [
+            "Passport Size Photograph",
+            "Formal Caste or Tribe Certificate",
+            "Digital Ration Card",
+            "EPIC (Elector's Photo Identity Card)/Voter Card",
+            "Self-Attested Residential Certificate/Address Proof",
+            "Copy of Bank Passbook",
+            "Aadhaar Card"
+        ],
+        "faqs": [
+            {
+                "question": "Can the pension be transferred to a joint bank account?",
+                "answer": "No, the pension is transferred only to the individual bank account of the beneficiary."
+            },
+            {
+                "question": "Can a widow/widower avail of Jai Johar Pension?",
+                "answer": "Yes, as long as they meet the age criteria and do not receive any other pension, widows and widowers are eligible."
+            },
+            {
+                "question": "Can a person with disabilities avail of Jai Johar Pension?",
+                "answer": "Yes, individuals with disabilities falling within the ST communities and meeting the age criteria are eligible for the pensions."
+            },
+            {
+                "question": "Is there an income criterion for eligibility?",
+                "answer": "No, income is not a criterion; however, not receiving any other pension is a prerequisite."
+            },
+            {
+                "question": "How often are the applications processed?",
+                "answer": "The processing and disbursal of pensions occur bi-monthly."
+            },
+            {
+                "question": "Is there any assistance provided for completing the application process?",
+                "answer": "Yes, the application forms are available for free, and authorities can guide applicants through the process."
+            },
+            {
+                "question": "Can I submit a relative's caste certificate for eligibility?",
+                "answer": "Yes, a paternal relative's caste/tribe certificate is acceptable initially, but the applicant must obtain and submit their own later."
+            },
+            {
+                "question": "Are there specific age criteria for application?",
+                "answer": "Applicants must be in the age bracket of 60 and above at the time of application."
+            },
+            {
+                "question": "Is the pension provided in cash?",
+                "answer": "No, the pension amount is transferred directly to the individual's bank account."
+            },
+            {
+                "question": "What is the rate and periodicity of the pension?",
+                "answer": "The monthly pension is \u20b91000, disbursed bi-monthly."
+            },
+            {
+                "question": "Which departments disburse Jai Johar Pension?",
+                "answer": "The Tribal Development Department handles Jai Johar pensions."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://nadia.gov.in/scheme/taposili-bandhu-jai-johar-under-jai-bangla-prakalpa/"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://www.wburbanservices.gov.in/upload_file/file_doc/Topsili_Bandhu_Jai_Johar_FAQ.pdf"
+            },
+            {
+                "type": "Presentation",
+                "url": "https://north24parganas.gov.in/sites/default/files/training_ppt_bsk.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Pension",
+            "Scheduled Tribe",
+            "Senior Citizen",
+            "Social Welfare"
+        ]
+    }
+}

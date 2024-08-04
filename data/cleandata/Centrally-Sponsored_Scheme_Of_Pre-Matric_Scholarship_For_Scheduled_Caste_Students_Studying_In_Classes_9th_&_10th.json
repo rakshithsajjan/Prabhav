@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Centrally-Sponsored Scheme Of Pre-Matric Scholarship For Scheduled Caste Students Studying In Classes 9th & 10th",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Scheduled Caste Students",
+        "details": "A scholarship scheme by Ministry of Social Justice & Empowerment for regular, full-time students from Scheduled Castes studying in Class 9th and 10th in a Govt. School / a School recognized by Govt. / CBSE / State Board of Secondary Education. The Total Annual income of parents/guardians of the applicant (from all sources) must not exceed \u20b9 2.50 Lakh per Annum. The scholarship for studying in any class will be available for only one year. The scholarship will be available for studying in India only. The scholarship will be awarded by the govt. of the state/UT to which the applicant belongs (domiciled). ALL eligible Scheduled Caste candidates will be given scholarships as prescribed in this Scheme.",
+        "benefits": [
+            "Scholarship (\u20b9 per month) (for 10 months in an academic year): \u20b9 225 for Day Scholars, \u20b9 525 for Hostellers.",
+            "Books and Ad hoc Grant (\u20b9 per annum): \u20b9 750 for Day Scholars, \u20b9 1000 for Hostellers.",
+            "Additional Monthly Allowances for Person with Disability (PwD) studying in private unaided Schools: Reader Allowance (for Blind students) \u2013 \u20b9 160, Transport Allowance \u2013 \u20b9 160, Escort Allowance \u2013 \u20b9 160, Helper Allowance \u2013 \u20b9 160, Coaching Allowance to Mentally Retarded and Mentally ill Students \u2013 \u20b9 240."
+        ],
+        "eligibility": [
+            "The applicant must be a student.",
+            "The applicant must be studying in Class 9th or Class 10th.",
+            "The applicant must be from Scheduled Caste.",
+            "The Total Income of parents/guardian of the applicant must be less than or equal to \u20b9 2.5 lakh per annum."
+        ],
+        "exclusions": [
+            "If a student has to repeat a class, she / he would not get scholarship for that class for a second (or subsequent) year.",
+            "If a student is found to have obtained a scholarship by false statements."
+        ],
+        "application_process": "Step 1: The application form (as prescribed by the State Govt. and made available on the website of the state govt.) complete in all respects should be submitted by the student to the Head of the Institution/School by 30th November of the academic year. Step 2: The duly filled application forms received from the students shall be forwarded by the Head of Institution, after scrutiny and with his recommendation, to the Block / District level authorities. Step 3: State Governments/UT Administrations will delegate powers to sanction scholarships under the scheme to appropriate District / Block level authorities/ Heads of Institution, as appropriate.",
+        "documents_required": [
+            "Aadhaar Number.",
+            "One copy of the application for scholarship in the prescribed form.",
+            "One passport size photograph with signature of the student thereon (for fresh scholarship).",
+            "One self-attested copy of certificates, diploma, degree etc. in respect of all examinations passed.",
+            "A certificate of Caste duly signed by an authorized Revenue Officer not below the rank of Tehsildar.",
+            "Income declaration of the self-employed parents/guardian in the form of a certificate issued by Revenue Officer not below the rank of Tehsildar.",
+            "Income Certificate of the employed parents/guardian issued by their employer.",
+            "A consolidated certificate of income of the employed parents/guardian from the Revenue Officer (only in case of any other additional source of income)."
+        ],
+        "faqs": [
+            {
+                "question": "Are there any allowances for Persons with Disabilities (PwDs)?",
+                "answer": "Yes, there are monthly allowances depending on the type and extent of disability. There is Reader Allowance, Transport Allowance, Escort Allowance, Helper Allowance and Coaching Allowance."
+            },
+            {
+                "question": "By when shall the scholarship become payable?",
+                "answer": "The scholarship will become payable from 1st April or from the month of admission, whichever is later, and will paid for for 10 months of the academic year."
+            },
+            {
+                "question": "Is there a limit to the number of scholarships?",
+                "answer": "No. All eligible students from Scheduled Castes will be given scholarships as prescribed in this scheme."
+            },
+            {
+                "question": "Is there a validity to the scheme benefits?",
+                "answer": "The scholarship will be provided for ten months of the academic year."
+            },
+            {
+                "question": "Will I be eligible for the scholarship if I have to repeat a class?",
+                "answer": "No. The scholarship will be terminated in that case."
+            },
+            {
+                "question": "I am already availing the benefits of a Centrally-funded Scholarship scheme. Am I eligible for this scheme?",
+                "answer": "The applicant availing the benefits of National Means-cum-Merit scholarship scheme (Ministry of Education) can also avail the benefits of this scheme."
+            },
+            {
+                "question": "Is there any application fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "In what condition would the income of the guardian needs to be mentioned?",
+                "answer": "The income of the guardian needs to be mentioned in a case where both the parents of the student are dead."
+            },
+            {
+                "question": "Do I need to attached a copy of my Aadhaar Card while submitting the application to the Head of the Institution/School?",
+                "answer": "Yes, you are required to submit the same with your application."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "The mandatory fields have a red asterisk (*) mark at the end."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pre-sc"
+            }
+        ],
+        "tags": [
+            "Person With Disability",
+            "Pre Matric",
+            "Scheduled Caste",
+            "Scholarship",
+            "Social Welfare",
+            "Student"
+        ]
+    }
+}

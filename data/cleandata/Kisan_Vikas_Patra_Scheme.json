@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Kisan Vikas Patra Scheme",
+        "state": "India",
+        "department": "Ministry Of Finance",
+        "type": "Certificate Savings Scheme",
+        "beneficiary": "Residents of India",
+        "details": "The \u2018Kisan Vikas Patra (KVP)\u2019 is a certificate savings scheme that was launched by the Government of India on 1st April 1988. The scheme provided a facility of unlimited investment by way of purchase of certificates from post offices in various denominations. The maturity period of the scheme when launched was 5 \u00bd years and the money invested doubled on maturity. However, the scheme was relaunched in 2014 to revitalize Small Savings.",
+        "benefits": [
+            "The scheme offers an interest rate of 7.5 % compounded annually on investment.",
+            "Amount Invested doubles in 115 months (9 years & 7 months).",
+            "No maximum deposit limit.",
+            "Accounts can be opened in Post offices and in authorized banks.",
+            "KVP can be transferred from one person to another and from one post office to another.",
+            "KVP can be encashed after 2 and half years from the date of investment at the specified rates."
+        ],
+        "eligibility": [
+            "Any individual who is a resident of India can avail of the benefits under the scheme.",
+            "A parent/guardian may invest on behalf of a minor or person of unsound mind.",
+            "The minimum age of minors should be 10 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Passport size Photo",
+            "Aadhaar Card",
+            "Copy of the PAN card",
+            "Proof of age i.e. Birth Certificate",
+            "Officially valid documents for identification and address proof (e.g., Passport, Driving license, Voter\u2019s ID card, Job card issued by NREGA, Letter issued by the National Population Register)"
+        ],
+        "faqs": [
+            {
+                "question": "Can I transfer my KVP account to someone else?",
+                "answer": "Yes, KVP accounts can be transferred to another eligible individual."
+            },
+            {
+                "question": "What are the eligibility criteria for Kisan Vikas Patra?",
+                "answer": "Any individual who is a resident of India can avail of the benefits under the scheme."
+            },
+            {
+                "question": "Is there a maximum limit on the investment amount?",
+                "answer": "No, there is no maximum deposit limit."
+            },
+            {
+                "question": "What is the interest rate offered by Kisan Vikas Patra?",
+                "answer": "The scheme offers an interest rate of 7.5 % compounded annually on investment."
+            },
+            {
+                "question": "What is the tenure of a Kisan Vikas Patra (KVP) account?",
+                "answer": "The tenure is 115 months (9 years & 7 months)."
+            },
+            {
+                "question": "How do I open a Kisan Vikas Patra account?",
+                "answer": "Any person can present an application either in person or through an authorized agent at a Post Office or Bank."
+            },
+            {
+                "question": "Can I nominate someone for my KVP account?",
+                "answer": "Yes, nominations are allowed."
+            },
+            {
+                "question": "Can I prematurely close my KVP account?",
+                "answer": "Yes, KVP may be prematurely closed under certain conditions."
+            },
+            {
+                "question": "Can I open a joint KVP account?",
+                "answer": "Yes, joint accounts are allowed."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines-2019",
+                "url": "https://www.indiapost.gov.in/VAS/DOP_PDFFiles/Savings%20Bank/Kisan%20Vikas%20Patra%20Scheme%20%202019%20English.pdf"
+            },
+            {
+                "type": "Guidelines-2014",
+                "url": "https://dea.gov.in/sites/default/files/KisanVikasPatra18112014_0.pdf"
+            },
+            {
+                "type": "NSI Website",
+                "url": "https://www.nsiindia.gov.in//(S/(ib0d5uuzj1bgvd55umcnyh45/)/)/InternalPage.aspx?Id_Pk=56"
+            },
+            {
+                "type": "Notification",
+                "url": "https://dea.gov.in/sites/default/files/Q2_2324.pdf"
+            },
+            {
+                "type": "Website- Department Of Post",
+                "url": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx"
+            }
+        ],
+        "tags": [
+            "Savings",
+            "Investment",
+            "Kisan",
+            "Finance"
+        ]
+    }
+}

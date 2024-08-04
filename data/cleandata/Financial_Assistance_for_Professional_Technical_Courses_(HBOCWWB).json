@@ -1,0 +1,108 @@
+{
+    "content": {
+        "title": "Financial Assistance for Professional/Technical Courses (HBOCWWB)",
+        "state": "Haryana",
+        "department": "Labour Department, Government of Haryana",
+        "type": "Financial Assistance",
+        "beneficiary": "Building Workers, Construction Workers, Students",
+        "details": "The scheme 'Financial Assistance for Professional/Technical Courses' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, the full educational expenses of the children of registered workers in professional/technical courses are reimbursed by the Board. The board will bear all educational expenses of students studying in government institutions, including admission fees, tuition fees, examination fees, etc. For private institutions, the board will cover expenses equal to the highest fee structure charged by state government institutions in that stream.",
+        "benefits": [
+            "Full educational expenses reimbursement for children of registered workers in professional/technical courses.",
+            "Covers admission fees, tuition fees, examination fees for government institutions.",
+            "Reimbursement for private institutions limited to the highest fee structure of state government institutions."
+        ],
+        "eligibility": [
+            "The applicant/worker should be engaged in building or construction work.",
+            "The applicant/worker should be registered with the Haryana Building & Other Construction Workers Welfare Board.",
+            "The registered worker should have a minimum of one year of regular membership.",
+            "The worker should have an active membership with the Board.",
+            "Children of registered workers pursuing regular technical/professional courses are eligible.",
+            "Financial assistance is available for up to three children per worker."
+        ],
+        "exclusions": [
+            "If the student fails, this assistance will not be given again for the same class.",
+            "Students who are self-employed or employed will not be eligible for benefits."
+        ],
+        "application_process": "Online application process through the official website of the Labour Department Haryana.",
+        "documents_required": [
+            "Identity proof (Aadhaar Card, Voter Card)",
+            "Passport-size photograph",
+            "Attested work experience document",
+            "Proof of Residence",
+            "Ration Card",
+            "Bank account details",
+            "Caste Certificate (if applicable)",
+            "Proof of age",
+            "Parivar Pehchan Patra (Family ID)",
+            "Disability certificate (if applicable)",
+            "Other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What benefits does the scheme provide?",
+                "answer": "The scheme covers all educational expenses, including admission fees, tuition fees, and examination fees for students studying in government institutions. For students in private institutions, the scheme covers educational expenses up to the amount charged by the state government institution with the highest fee in that stream."
+            },
+            {
+                "question": "How are the educational expenses reimbursed under this scheme?",
+                "answer": "Financial assistance is provided directly to the government or recognized private institutions, and admission expenses are reimbursed to the candidate upon submission of an attested copy of the original receipt."
+            },
+            {
+                "question": "Does the scheme cover students in private institutions?",
+                "answer": "Yes, the scheme covers students in private institutions, but the reimbursement is limited to the equivalent of the highest fee structure charged by state government institutions in that stream."
+            },
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "Eligibility criteria include: 1. Engagement in building or construction work. 2. Registration with the Haryana Building & Other Construction Workers Welfare Board. 3. At least one year of regular membership with the Board. 4. Active membership at the time of application. 5. Children of registered workers pursuing regular professional or technical courses."
+            },
+            {
+                "question": "Is there a limit on the number of children who can receive assistance?",
+                "answer": "Yes, financial assistance is available for up to three children per registered worker."
+            },
+            {
+                "question": "Can children who are self-employed or employed receive benefits under this scheme?",
+                "answer": "No, students who are self-employed or employed are not eligible for benefits under this scheme."
+            },
+            {
+                "question": "How can a construction worker register with the HBOCWWB?",
+                "answer": "A construction worker can register by visiting the official website of the Labour Department Haryana."
+            },
+            {
+                "question": "How can one apply for the scheme benefits?",
+                "answer": "To apply for the scheme benefits, the applicant needs to visit the official website of the Labour Department Haryana."
+            },
+            {
+                "question": "What types of courses are covered under this scheme?",
+                "answer": "The scheme covers professional and technical courses such as degrees or diplomas in Medicine, Engineering, Management, MCA, Law, Fashion Designing, etc."
+            },
+            {
+                "question": "Are courses from private universities eligible for reimbursement?",
+                "answer": "Yes, courses from private universities are eligible, with reimbursement limited to the equivalent fees charged by state government institutions in that stream."
+            },
+            {
+                "question": "What happens if a student fails during a class?",
+                "answer": "If a student fails a class, they will not receive assistance again for the same class."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/143"
+            },
+            {
+                "type": "Registration Link",
+                "url": "https://hrylabour.gov.in/bocw/Basicinfo/bocw_terms"
+            },
+            {
+                "type": "Application Tracking",
+                "url": "https://hrylabour.gov.in/login/bocw"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Building Worker",
+            "Construction Worker",
+            "Professional Course",
+            "Technical Course"
+        ]
+    }
+}

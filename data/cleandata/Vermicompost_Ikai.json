@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Vermicompost Ikai",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Vermicompost Ikai under the Agriculture Department Rajasthan government provides subsidies to farmers. Through the organic manure method, good quality manure can be prepared in a very short time under normal temperatures in which entire species of earthworms are used. In this, the cellulose and microorganisms present in the intestines of earthworms together decompose the ingested organic matter very rapidly. Due to the effect of their digestive process and the combined mixture of organic matter, these earthworms leave out a waste material which is called vermicomposting and these Manure pits are not found without earthworms.",
+        "benefits": [
+            "Vermicomposting Unit with RCC Construction: Size: 30 feet X 8 feet X 2.5 feet, Cost: 50% of the installation cost, up to a maximum of \u20b950,000/- per unit, Subsidy is proportional to the size of the unit",
+            "HDPE Vermibed Unit: Size: 12 feet X 4 feet X 2 feet, Cost: 50% of the installation cost, up to a maximum of \u20b98,000/- per unit, Subsidy is proportional to the size of the unit"
+        ],
+        "eligibility": [
+            "The applicant should be a native of Rajasthan.",
+            "The Applicants must Cultivate horticultural crops on a minimum of 0.4 hectares of own land.",
+            "The farmer must have livestock, water, and fossils available."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card",
+            "Copy of Jamabandi (not more than six months old)",
+            "Copy of Bank Passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Provide subsidies to farmers to make good quality fertilizer from cow dung and waste."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers get the benefits."
+            },
+            {
+                "question": "Is there any criteria for cultivable land?",
+                "answer": "Cultivation of horticultural crops on a minimum of 0.4 hectares of own land."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, this scheme is only for Rajasthan."
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer (DBT) was launched by the Government of India in January 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes."
+            },
+            {
+                "question": "What is Janadhar card?",
+                "answer": "Jan Aadhaar is 'one number, one card, one identity' scheme, Its main objective is to prepare a database of demographic and socio-economic information of the resident families of the state and through the Jan Aadhaar card, the identity of the family and its members."
+            },
+            {
+                "question": "How do a applicant know if a field in the application form is mandatory?",
+                "answer": "A distinctive sign ('*' symbol, 'mandatory' mention, etc.)"
+            },
+            {
+                "question": "How can applicant apply online?",
+                "answer": "One can apply by visiting the e-Mitra center."
+            },
+            {
+                "question": "How long is the Jamabandi copy valid?",
+                "answer": "Copy of Jamabandi (not more than six months old)"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Fertilizer",
+            "Subsidy",
+            "Rajasthan"
+        ]
+    }
+}

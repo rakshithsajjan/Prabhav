@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Small Business in Service/Trading Sector for Persons with Disabilities (Divyangjan Swavalamban Yojana)",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Loan",
+        "beneficiary": "Persons with Disabilities (Divyangjan)",
+        "details": "The scheme 'Small Business in Service/Trading Sector for Persons with Disabilities (Divyangjan Swavalamban Yojana)' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to \u20b950 lakhs are provided for self-employment to persons with disabilities in a wide range of income-generating activities under Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupations, Transport Sector & Service Sector, and Technical & Professional Trades/Courses. Loans are provided to individuals falling under OH/VH/HH/MR categories at different rates of interest ranging from 5% to 9% per annum. Permanent residents of Haryana aged between 18 and 55 years, with a disability of 40% or more, are eligible to avail the benefits under this scheme.",
+        "benefits": [
+            "Loans up to \u20b950,00,000/- for self-employment to Persons with Disabilities across a wide range of income-generating activities.",
+            "Loans provided at different rates of interest ranging from 5% to 9% per annum based on the category of disability."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant should have a disability of at least 40%.",
+            "The applicant's age should be between 18 and 55 years. For persons with mental retardation, the eligible age is above 14 years.",
+            "Unique Disability ID (UDID) registration is mandatory for loan amounts of \u20b915 lakhs and above.",
+            "The applicant should have a Parivar Pehchan Patra (PPP ID)."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Official Antyodaya-SARAL Portal.",
+        "documents_required": [
+            "Identity/Citizenship proof i.e. Aadhaar Card",
+            "Proof of age",
+            "Resident Proof/Address Proof/Ownership Proof i.e. Haryana Domicile Certificate",
+            "Disability Certificate",
+            "Passport-size photograph of the applicant",
+            "Parivar Pehchan Patra (PPP ID)",
+            "Bank account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What types of activities does the scheme support?",
+                "answer": "The scheme supports income-generating activities including Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupations, Transport Sector & Service Sector, and Technical & Professional Trades/Courses."
+            },
+            {
+                "question": "What is the maximum loan amount available under this scheme?",
+                "answer": "Loans up to \u20b950 lakhs can be availed for self-employment."
+            },
+            {
+                "question": "Who can apply for this scheme?",
+                "answer": "Permanent residents of Haryana aged between 18 and 55 years, with a disability of 40% or more, are eligible."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "The scheme offers loans at different interest rates (5% to 9% per annum) based on the category of disability (OH/VH/HH/MR)."
+            },
+            {
+                "question": "What are the eligibility criteria for applicants?",
+                "answer": "Applicants must be permanent residents of Haryana with a disability of at least 40% and aged between 18 and 55 years (above 14 years for persons with mental retardation)."
+            },
+            {
+                "question": "Do applicants need any specific registration?",
+                "answer": "Yes, they need a Unique Disability ID (UDID) issued by the Department of Empowerment of Persons with Disabilities, Government of India, for loans of \u20b915 lakhs and above."
+            },
+            {
+                "question": "Is a Parivar Pehchan Patra (PPP ID) mandatory for application?",
+                "answer": "Yes, applicants must have a PPP ID."
+            },
+            {
+                "question": "Can applicants from other states apply for this scheme?",
+                "answer": "No, only permanent residents of Haryana are eligible."
+            },
+            {
+                "question": "How can eligible applicants apply?",
+                "answer": "Applications can be submitted online through the Official Portal- Antyodaya-SARAL Portal."
+            },
+            {
+                "question": "How can applicants track their application status?",
+                "answer": "Applicants can track their application status through the Official Antyodaya-SARAL Portal using their Department Name, Scheme Name, and Application Reference ID."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=0qK9vlwtHtpTqvWmvJUbfg%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Divyang",
+            "Loan",
+            "PwD",
+            "Service Sector",
+            "Small Business",
+            "Swavalamban",
+            "Trading Sector"
+        ]
+    }
+}

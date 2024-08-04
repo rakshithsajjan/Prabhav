@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Small Industries Unit for Persons with Disabilities",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Loan",
+        "beneficiary": "Persons with Disabilities",
+        "details": "The scheme 'Small Industries Unit for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loan assistance of up to \u20b925 lakhs is provided to persons with disabilities for establishing small industrial units focused on manufacturing, fabrication, and production. Permanent residents of Haryana, aged 18 or older, with a disability of 40% or more, are eligible to avail the benefits under this scheme.",
+        "benefits": [
+            "Loan assistance of up to \u20b925,00,000/- is provided to differently-abled persons for setting up manufacturing, fabrication, and production units."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant should have a disability of at least 40%.",
+            "The applicant should be over 18 years old. For persons with mental retardation, the age requirement is relaxed to 14 years instead of the usual 18 years."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity/Citizenship Proof (Any one of the following): Aadhaar Card",
+            "Age Proof (Any one of the following): Aadhaar Card",
+            "Resident Proof/Address Proof/Ownership Proof (Any one of the following): Ration Card, Haryana Domicile Certificate",
+            "Caste/Religion Proof (Any one of the following): Caste Certificate for reserved category",
+            "Disability Proof (Any one of the following): Disability Certificate (Disability should not be less than 40%)",
+            "Photo of Applicant",
+            "Bank account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum loan amount provided under this scheme?",
+                "answer": "The maximum loan amount provided is \u20b925 lakhs."
+            },
+            {
+                "question": "What types of businesses are eligible for the loan assistance?",
+                "answer": "Businesses focused on manufacturing, fabrication, and production are eligible for loan assistance."
+            },
+            {
+                "question": "Who is eligible to apply for this scheme?",
+                "answer": "Permanent residents of Haryana who are 18 years or older and have a disability of 40% or more are eligible. For persons with mental retardation, the age requirement is relaxed to 14 years."
+            },
+            {
+                "question": "What is the minimum age requirement for applicants?",
+                "answer": "The minimum age requirement is 18 years. However, for persons with mental retardation, the minimum age is 14 years."
+            },
+            {
+                "question": "What percentage of disability is required to be eligible for the scheme?",
+                "answer": "A minimum of 40% disability is required to be eligible."
+            },
+            {
+                "question": "How can eligible applicants apply for the scheme?",
+                "answer": "Eligible applicants can apply online through the Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+            },
+            {
+                "question": "Is there any offline method to apply for the scheme?",
+                "answer": "No, applications are accepted only through the online Antyodaya-SARAL Portal."
+            },
+            {
+                "question": "How can applicants track their application status?",
+                "answer": "Applicants can track their application status through the Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID at https://status.saralharyana.nic.in/."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=wsT17Ys5yxBYiig16ygxQg%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Loan",
+            "PwD",
+            "Small Unit"
+        ]
+    }
+}

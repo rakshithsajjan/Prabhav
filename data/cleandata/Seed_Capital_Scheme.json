@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Seed Capital Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology, Electronics and Communications",
+        "type": "Grant",
+        "beneficiary": "Startups in Goa",
+        "details": "The scheme 'Seed Capital Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, startups with a promising idea can get a one-time grant of up to \u20b9 10,00,000.",
+        "benefits": [
+            "Start-ups with a promising idea can get a one-time grant of up to \u20b9 10,00,000, as determined by the Start-up Promotion Cell (SPC).",
+            "This incentive can be availed by 100 start-ups each year which will be selected by the SPC as per its due diligence and guidelines."
+        ],
+        "eligibility": [
+            "All the Start-ups certified by the Start-up Promotion Cell (SPC) having a valid start-up certificate number are eligible."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Detailed plan of action to create a Minimum Viable Product",
+            "The form and documents as mentioned in Annexure 1"
+        ],
+        "faqs": [
+            {
+                "question": "What kind of research might the Startup Promotion Cell request applicants to participate in?",
+                "answer": "The SPC may request applicants to participate in research related to entrepreneurship, start-ups, or other areas relevant to their initiatives. The details of such research would be provided separately."
+            },
+            {
+                "question": "How can the applicant's logo be used by the Startup Promotion Cell (SPC)?",
+                "answer": "The applicant's logo can be used by the SPC for promotional or informational purposes related to the scheme or other initiatives. The specific use cases may vary."
+            },
+            {
+                "question": "What are the consequences if an applicant is found guilty of misrepresentation or fraudulent activity?",
+                "answer": "If an applicant is found guilty of misrepresentation or fraudulent activity, they may be prohibited from availing the benefits of this scheme and other schemes under the Goa Startup Policy 2017."
+            },
+            {
+                "question": "Is there a specific format for the document detailing the journey to the MVP and user feedback?",
+                "answer": "The format for documenting the journey to the MVP and user feedback may not be specified, but it should provide a clear and comprehensive account of the process and feedback received."
+            },
+            {
+                "question": "Could you explain the term 'prototyping methodology' briefly?",
+                "answer": "'Prototyping methodology' refers to the approach or process used to create a prototype of the product. It outlines the steps and methods for developing a working model."
+            },
+            {
+                "question": "What is the significance of the term 'Indicative expenditure'?",
+                "answer": "'Indicative expenditure' refers to an estimate of the expected costs involved in developing the Minimum Viable Product (MVP). It helps startups plan their budget."
+            },
+            {
+                "question": "Can you explain the concept of a Minimum Viable Product (MVP)?",
+                "answer": "A Minimum Viable Product (MVP) is a basic version of a product with enough features to attract early users and gather feedback. It helps startups test their ideas with minimal investment."
+            },
+            {
+                "question": "Are there any declarations or consents that applicants need to provide?",
+                "answer": "Yes, applicants need to provide declarations and consents, including consent to abide by SPC decisions, consent for logo use, and consent for research participation."
+            },
+            {
+                "question": "What additional requirements are there for obtaining further benefits under this scheme?",
+                "answer": "To obtain further benefits, the applicant must document the journey to the Minimum Viable Product (MVP), user feedback, obstacles faced, and means to overcome them. This documentation should be submitted to the SPC within 5 months from availing the incentive."
+            },
+            {
+                "question": "What is the timeline for notifying the approval or rejection of applications?",
+                "answer": "The SPC will evaluate and notify the approval or rejection of applications within 45 days from the receipt of the application. If approved, the amount will be disbursed within 60 days from the date of approval."
+            },
+            {
+                "question": "Can start-ups apply for this scheme at any time of the financial year?",
+                "answer": "Yes, applicants can apply for this scheme at any time during the financial year."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Startup Goa Schemes",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://startup.goa.gov.in/Incentives/SeedCapitalScheme.pdf"
+            },
+            {
+                "type": "Startup Goa Website",
+                "url": "https://www.startup.goa.gov.in/StartupIncentives#GrantforIncubationCenterswithinEducationalInstitutesScheme"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://www.startup.goa.gov.in/ContactUs"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Entrepreneur",
+            "Seed Capital",
+            "Startup"
+        ]
+    }
+}

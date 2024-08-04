@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Interest Subsidy Eligibility Certificate (isec) Scheme",
+        "state": "Central Government",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Credit",
+        "beneficiary": "Khadi Institutions",
+        "details": "The Interest Subsidy Eligibility Certificate (ISEC) Scheme is an essential mechanism for funding the Khadi program undertaken by Khadi institutions. It was introduced to mobilize funds from banking institutions to fill the gap between the actual fund requirements and the availability of funds from budgetary sources. Under the ISEC Scheme, credit at a concessional rate of interest of 4% per annum for working capital, is made available as per the requirement of the institutions. The difference between the actual lending rate and the Central Government pays 4% through KVIC to the lending banks.",
+        "benefits": [
+            "Interest Subsidy: Receive a subsidy on the interest charged on your education loan, lightening your financial burden.",
+            "Affordable Education: Pursue professional or technical courses without worrying about high-interest rates, making education more accessible.",
+            "Flexible Repayment: Enjoy flexible repayment options, allowing you to focus on your studies and career growth.",
+            "Career Opportunities: With reduced financial stress, you can concentrate on building a successful future and exploring various career avenues.",
+            "Empowerment: ISEC empowers deserving students to pursue higher education and realize their potential regardless of their economic background.",
+            "Enhance Skills: Gain knowledge and skills in your chosen field, opening doors to better job prospects and higher earning potential.",
+            "Supportive Network: Benefit from a supportive community of ISEC recipients, fostering connections and opportunities for collaboration."
+        ],
+        "eligibility": [
+            "The Khadi institutions have valid Khadi certificates and sanctioned Khadi programmes.",
+            "The Institutions registered with the KVIC/State Khadi and Village Industries Boards (KVIBs) can avail of financing under the ISEC Scheme, the Scheme supports only the khadi and the polyvastra sector."
+        ],
+        "exclusions": [
+            "Non-eligible courses",
+            "Non-Indian citizens",
+            "Loans exceeding the specified amount",
+            "Individuals already availing of similar financial assistance schemes."
+        ],
+        "application_process": "Offline: The Khadi institutions will apply to the financing bank for working capital along with the ISEC certificate issued by KVIC. Based on the working capital sanctioned, the financing bank will raise the reimbursement claim to the nodal branch for the differential interest rate over and above 4%.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Income certificate",
+            "Caste certificate",
+            "Bank account statement"
+        ],
+        "faqs": [
+            {
+                "question": "What is the ISEC Scheme?",
+                "answer": "Eligibility criteria may vary, but generally, Indian citizens pursuing professional or technical courses with a family income within specified limits are eligible for the scheme."
+            },
+            {
+                "question": "How can I apply for the ISEC Scheme?",
+                "answer": "To apply for the ISEC Scheme, you need to fill out the official application form and submit it along with the required documents to the designated authority responsible for implementing the scheme."
+            },
+            {
+                "question": "Who is eligible for the ISEC Scheme?",
+                "answer": "Eligibility criteria may vary, but generally, Indian citizens pursuing professional or technical courses with a family income within specified limits are eligible for the scheme."
+            },
+            {
+                "question": "What is the benefit of the interest subsidy?",
+                "answer": "The interest subsidy reduces the financial burden on education loans by providing a subsidy on the interest charged during the moratorium or study period."
+            },
+            {
+                "question": "Can I apply for the ISEC Scheme after taking an education loan?",
+                "answer": "Yes, you can apply for the ISEC Scheme even if you have already taken an education loan, provided you meet the eligibility criteria and other requirements."
+            },
+            {
+                "question": "Is there a specific income limit for eligibility?",
+                "answer": "Yes, there are specified income limits for eligibility. These limits may vary depending on the scheme's guidelines and implementing authority."
+            },
+            {
+                "question": "Are there any exclusions from the ISEC Scheme?",
+                "answer": "Some exclusions may apply, such as non-eligible courses, non-Indian citizens, loans exceeding the specified amount, and individuals already availing of similar financial assistance schemes."
+            },
+            {
+                "question": "How is the interest subsidy disbursed?",
+                "answer": "The interest subsidy is typically disbursed directly to the loan account of the eligible student through the designated bank."
+            },
+            {
+                "question": "Can I track the status of my ISEC Scheme application?",
+                "answer": "Yes, you can inquire about the application status by contacting the designated authority responsible for the scheme implementation."
+            },
+            {
+                "question": "Where can I find more information about the ISEC Scheme?",
+                "answer": "You can refer to the official government portals, and scheme websites, or contact the implementing authority for detailed information regarding the ISEC Scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://msme.gov.in/1-prime-ministers-employment-generation-programme-pmegp"
+            }
+        ],
+        "tags": [
+            "Interest Subsidy",
+            "Khadi",
+            "Financial Assistance",
+            "Education"
+        ]
+    }
+}

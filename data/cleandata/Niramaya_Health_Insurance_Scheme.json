@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Niramaya Health Insurance Scheme",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Insurance",
+        "beneficiary": "Persons with Disabilities (PwDs)",
+        "details": "Niramaya Health Insurance Scheme was launched by the Department of Empowerment of Persons with Disabilities, Ministry of Social Justice & Empowerment, Government of India. The objective of the scheme is to provide affordable Health Insurance to persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities. The scheme provides insurance coverage of up to \u20b91,00,000/-, which must be renewed annually after the financial year.",
+        "benefits": [
+            "Health insurance coverage: Up to \u20b91,00,000/- for various expenses.",
+            "Outpatient department (OPD) treatment: Covers medicines, pathology, diagnostic tests, etc.",
+            "Regular medical checkups: For non-ailing individuals with disabilities.",
+            "Dental care: Preventive dentistry services.",
+            "Surgery: To prevent further disability worsening or for existing disabilities (including congenital).",
+            "Non-surgical/hospitalization: Coverage for non-surgical treatments and related stays.",
+            "Ongoing therapies: For managing disability and related complications.",
+            "Alternative medicine: Coverage for alternative treatment options.",
+            "Transportation costs: Reimbursement for transportation related to medical care."
+        ],
+        "eligibility": [
+            "All disabled persons who have at least one of the disabilities under the National Trust Act, 1999 with valid disability certificate."
+        ],
+        "exclusions": [
+            "The scheme will be available in the entire country except J&K."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "For BPL (Enrolment Fee - \u20b9250/-): Disability certificate (Self attested) issued from the District Hospital or appropriate Government authority, BPL card, Address Proof, Proof of payment.",
+            "For APL (if family income up to \u20b9 15,000/- Per Month) (Enrolment Fee - \u20b9250/-): Disability certificate issued from the District Hospital or appropriate Government authority (Self attested), Address Proof, Proof of payment, Income certificate of (Self attested) the parent/ guardian competent authority as issued by the State.",
+            "For APL (if family income above \u20b915,000/- Per Month) (Enrolment Fee - \u20b9550/-): Disability certificate (Self attested) issued by the competent authority as issued by the State, Address Proof, Proof of payment.",
+            "For Renewal: BPL card, Address Proof (in case of change of address).",
+            "For Claim Process: Copy of Niramaya card or mention Health ID Card number, Self-attested copy of Disability Certificate, All original prescription papers given by the doctor, All original bills of Hospital / Medicine / Doctor fee / Therapy fee / Conveyance etc., All reports in original, Complete bank details of Beneficiary."
+        ],
+        "faqs": [
+            {
+                "question": "What is Niramaya scheme?",
+                "answer": "Niramaya Health Insurance Scheme, launched by the Department of Empowerment of Persons with Disabilities, aims to provide affordable health insurance to the Persons with Disabilities (PwDs)."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Health insurance coverage, Outpatient department (OPD) treatment, Regular medical checkups, Dental care, Surgery, Non-surgical/hospitalization, Ongoing therapies, Alternative medicine, Transportation costs."
+            },
+            {
+                "question": "What is the health insurance maximum coverage amount?",
+                "answer": "This scheme provides affordable health insurance cover of up to \u20b91,00,000/-."
+            },
+            {
+                "question": "Is there any limitation of hospitals to avail this scheme benefits?",
+                "answer": "No, treatment can be taken from any hospital."
+            },
+            {
+                "question": "Is this a health insurance scheme?",
+                "answer": "Yes."
+            },
+            {
+                "question": "Who will be covered under this scheme?",
+                "answer": "All PwDs who have at least one of the disabilities under the National Trust Act, 1999 with valid disability certificate are eligible to apply for the scheme."
+            },
+            {
+                "question": "What is the enrolment process?",
+                "answer": "Parents/guardian of the PwD will visit the nearest RO for Niramaya enrolment with required documents."
+            },
+            {
+                "question": "How to find the nearest for Niramaya enrolment?",
+                "answer": "Follow the below link URL: https://thenationaltrust.gov.in/content/registered_organization.php."
+            },
+            {
+                "question": "What is the renewal process?",
+                "answer": "To renew the scheme benefits, follow the below URL and provide the required details: https://thenationaltrust.gov.in/auth/renew_gen.php."
+            },
+            {
+                "question": "How can the reimbursement be availed under this scheme?",
+                "answer": "All claims for settlement under Niramaya have to be submitted to the centres of the insurance provider in the prescribed Claim Form along with relevant vouchers / bills, etc. (preferably within 30 days of treatment) or discharge from hospital."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.thenationaltrust.gov.in/upload/uploadfiles/files/niramaya_eng.pdf"
+            },
+            {
+                "type": "Enrolment Form",
+                "url": "https://thenationaltrust.gov.in/upload/uploadfiles/files/Niramaya%20Application.pdf"
+            },
+            {
+                "type": "Claim Form",
+                "url": "https://thenationaltrust.gov.in/upload/uploadfiles/files/claimformnew.pdf"
+            },
+            {
+                "type": "Renewal Form For Individuals",
+                "url": "https://thenationaltrust.gov.in/upload/uploadfiles/files/Niramaya%20Renewal.pdf"
+            },
+            {
+                "type": "List Of Registered Organisation",
+                "url": "https://thenationaltrust.gov.in/content/registered_organization.php"
+            }
+        ],
+        "tags": [
+            "Health Insurance",
+            "Disability",
+            "Government Scheme",
+            "Social Justice"
+        ]
+    }
+}

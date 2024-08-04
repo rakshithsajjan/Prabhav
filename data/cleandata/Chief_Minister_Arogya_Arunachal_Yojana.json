@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Chief Minister Arogya Arunachal Yojana",
+        "state": "Arunachal Pradesh",
+        "department": "Department of Health and Family Welfare",
+        "type": "Health",
+        "beneficiary": "Indigenous people of Arunachal Pradesh and government employees",
+        "details": "Launched on 15th August 2018, 'Chief Minister Arogya Arunachal Yojana' is a flagship program of the Department of Health and Family Welfare, Government of Arunachal Pradesh. The scheme aims to accord quality and cashless healthcare services to the indigenous people of the state and government employees and reduce out-of-pocket (OOP) expenses during major illness and hospitalization, thereby envisaging universal healthcare for all sections of society.",
+        "benefits": [
+            "Coverage of up to \u20b95,00,000 per family per year.",
+            "Cashless treatments during hospitalization.",
+            "Pre-existing diseases are inclusively covered.",
+            "The scheme encompasses expenses for pre-hospitalization for up to 3 days.",
+            "Post-hospitalization expenses for up to 10 days are covered.",
+            "Hospitalization expenses include registration charges, bed charges (General Ward), nursing and boarding charges, surgeons, anaesthetists, medical practitioners, consultants fees, etc.",
+            "Pre and post-hospitalization expenses encompass costs incurred for consultation, diagnostic tests, and medicines before the patient's admission to the hospital."
+        ],
+        "eligibility": [
+            "The applicant should belong to one of the tribal communities that are recognized by the state of Arunachal Pradesh.",
+            "The applicant should be legally residing in the Changlang, Lohit, or Namsai Districts of Arunachal Pradesh.",
+            "The applicant should be a member of one of the backward communities.",
+            "The people who are enrolled in the Arunachal Pradesh Scheduled Tribe (APST) are directly eligible.",
+            "In the case the applicant has employment with the state government, the insurance program\u2019s benefits are also available to their dependents."
+        ],
+        "exclusions": [
+            "Hospitalization primarily for evaluation / diagnostic purposes",
+            "Any dental treatment or surgery which is corrective, cosmetic or of aesthetic procedure",
+            "Congenital external diseases",
+            "Fertility related procedures",
+            "Drugs and Alcohol Induced illness",
+            "Vaccination",
+            "Suicide",
+            "Persistent Vegetative State"
+        ],
+        "application_process": "Online. Visit the Official Portal of CMAAY, scroll down to the bottom of the homepage, click 'Apply Online', fill in all the mandatory fields, upload all the mandatory documents, and click 'Submit'. Upon successful enrollment, the beneficiary can download the e-Card.",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Birth Certificate in case of children under 5 years.",
+            "Ration Card.",
+            "For APST (Arunachal Pradesh Scheduled Tribe) - An APST Certificate is mandatory.",
+            "For Non-APST - A Resident Certificate is mandatory.",
+            "For Government Employees - A Government ID Card is mandatory.",
+            "Permanent Land Holding Documents.",
+            "Approved Enrollment Form."
+        ],
+        "faqs": [
+            {
+                "question": "How much coverage is provided per family per year for hospitalization and surgical procedures?",
+                "answer": "The scheme offers coverage up to \u20b95 Lacs per family per year, with \u20b91 Lac for secondary ailments and \u20b94 Lacs for high-cost tertiary ailments."
+            },
+            {
+                "question": "Can pre-existing conditions be covered under the Risk Cover?",
+                "answer": "Yes, pre-existing conditions/diseases are covered under the Risk Cover, including hospitalization and follow-up care benefits."
+            },
+            {
+                "question": "What expenses are included in the hospitalization expense benefits package?",
+                "answer": "The package covers registration charges, bed charges (General Ward), nursing and boarding charges, surgeons' fees, and other associated costs."
+            },
+            {
+                "question": "Is there coverage for diagnostic tests like X-ray, MRI, and CT Scan?",
+                "answer": "Yes, radiology tests, including X-ray, MRI, CT Scan, etc., are covered under the pathology and radiology tests package."
+            },
+            {
+                "question": "What is the duration of cashless services for the beneficiary?",
+                "answer": "Cashless services are available to the beneficiary from reporting to up to 10 days after discharge from the hospital."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cmaay.com/pdf/Notification%20CMAAY%20Guidelines.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://cmaay.com/CMAAYFAQ.aspx#"
+            },
+            {
+                "type": "Eligibility Criteria",
+                "url": "https://cmaay.com/CMAAYeligibility.aspx"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://cmaay.com/EC.aspx"
+            },
+            {
+                "type": "Benefits",
+                "url": "https://cmaay.com/Hospitalization.aspx"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Hospital",
+            "Medical",
+            "Patient",
+            "Surgery"
+        ]
+    }
+}

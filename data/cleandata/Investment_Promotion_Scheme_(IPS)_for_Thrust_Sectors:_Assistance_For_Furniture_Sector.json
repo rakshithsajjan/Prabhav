@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Investment Promotion Scheme (IPS) for Thrust Sectors: Assistance For Furniture Sector",
+        "state": "Not specified",
+        "department": "Not specified",
+        "type": "Subsidy",
+        "beneficiary": "Enterprises in the furniture sector",
+        "details": "The scheme provides assistance for Gross Fixed Capital Investment (GFCI) made in new buildings and new plant & machinery/equipment for the furniture sector.",
+        "benefits": [
+            "Subsidy on Gross Fixed Capital Investment",
+            "Space rent reimbursement",
+            "Interest subsidy on loans"
+        ],
+        "eligibility": [
+            "Enterprises investing more than 50% of GFCI",
+            "Minimum of 60% of investment should be in plant and machinery",
+            "Showroom must have a minimum size of 2000 square feet for space rent reimbursement"
+        ],
+        "exclusions": [
+            "Cost of furniture for display",
+            "Cost of land"
+        ],
+        "application_process": "Online application through the single window portal.",
+        "documents_required": [
+            "Proof of account transactions for rent payment",
+            "Certified bills by a Chartered Accountant",
+            "Documentation proving participation in international exhibitions"
+        ],
+        "faqs": [
+            {
+                "question": "What is meant by Gross Fixed Capital Investment?",
+                "answer": "Gross Fixed Capital Investment refers to the total expenditure incurred on purchasing and installing the eligible automation and technology equipment."
+            },
+            {
+                "question": "Are there any limitations on the types of software installations that are eligible?",
+                "answer": "Yes, only industrial software installations such as CAD, CAM, CAE, HLM, and CNC are eligible for the subsidy."
+            },
+            {
+                "question": "What is the minimum size requirement for a showroom to be eligible for space rent reimbursement?",
+                "answer": "The showroom must have a minimum size of 2000 square feet to be eligible for reimbursement."
+            },
+            {
+                "question": "What costs are covered under space rent reimbursement?",
+                "answer": "The reimbursement covers all costs involved in building, interior furnishing, and other incidental costs, excluding the cost of furniture for display and land cost."
+            },
+            {
+                "question": "What type of investments are eligible for incentives under the Scheme?",
+                "answer": "Only Gross Fixed Capital Investment made in new buildings and new plant & machinery/equipment (excluding land) will be eligible for manufacturing incentives."
+            },
+            {
+                "question": "What is the minimum period for which the enterprise must remain in production?",
+                "answer": "The enterprise must remain in production for at least 5 years from the date of commercial production."
+            },
+            {
+                "question": "Can I apply for subsidies for both expansion and diversification activities?",
+                "answer": "No, during the policy period, only one activity, either expansion or diversification, will be eligible for subsidy."
+            },
+            {
+                "question": "What is the eligibility criteria for Interest Subsidy under this Scheme?",
+                "answer": "The Enterprise will not be eligible for Interest Subsidy if the term loan is sanctioned after one year from the date of commencement of commercial production."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/ipstsaffs"
+            }
+        ],
+        "tags": [
+            "Investment Promotion",
+            "Furniture Sector",
+            "Subsidy Scheme"
+        ]
+    }
+}

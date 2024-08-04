@@ -1,0 +1,115 @@
+{
+    "content": {
+        "title": "Bhagyalaxmi Scheme",
+        "state": "Karnataka",
+        "department": "Department of Women and Child Development",
+        "type": "Financial Aid",
+        "beneficiary": "Female Children",
+        "details": "The Karnataka state government will give female children financial aid under the Karnataka Bhagya Lakshmi Scheme. The payment of this support is to be made through the mother, father, or legal guardian provided that all requirements are met.",
+        "benefits": [
+            "Mother/Father/Natural guardian as beneficiary",
+            "Health insurance coverage up to Rs. 25,000 a year",
+            "Annual scholarship of Rs. 300 to Rs. 1,000 up to the tenth standard for the girl",
+            "Financial assistance to the girl child through her mother/father/natural guardian subject to the fulfilment of certain conditions",
+            "Rs. 1 lakh in case of an accident and Rs. 42,500 for the natural death of the beneficiary",
+            "At the end of 18 years, the beneficiary would be paid Rs. 34,751",
+            "Interim payments such as annual scholarships and insurance benefits available on continued fulfilment of eligibility criteria"
+        ],
+        "eligibility": [
+            "A girl\u2019s birth must be registered within a year after her birth date",
+            "Girls shouldn\u2019t engage in child labour",
+            "Benefits are available to BPL families with up to 2 female children",
+            "Girls should have been immunized correctly in the health department\u2019s program",
+            "Girl children must be born after 31 March 2006 in a BPL family",
+            "A girl must have completed the eighth grade to be eligible for the maturity amount",
+            "She cannot have been married off before turning 18 years old"
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline. Visit the official website of Bhagya Laxmi Yojana Karnataka, fill in the application form, and submit it to the concerned authority.",
+        "documents_required": [
+            "Application form of the Bhagya Laxmi Scheme",
+            "Certified copy of the birth certificate of the girl child",
+            "Income details of the parents",
+            "Address proof of the parents of the girl child",
+            "BPL Card",
+            "Bank details of the girl child card",
+            "Photograph of a child with parents",
+            "Family Planning certificate for the 2nd child under the scheme",
+            "Copy of marriage certificate/Self-declaration certificate of parents"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for the Bhagya Laxmi scheme?",
+                "answer": "The mother/father or the natural guardians of the girl child can apply for the Bhagya Laxmi scheme."
+            },
+            {
+                "question": "How much scholarship is offered to the girl child under the scheme?",
+                "answer": "The scheme offers scholarships ranging from Rs. 300 to Rs. 1,000 per annum based on the class of the girl child."
+            },
+            {
+                "question": "Does the girl child also get health insurance in the scheme?",
+                "answer": "Yes, the Bhagya Laxmi scheme offers health insurance of up to Rs. 25,000 per year."
+            },
+            {
+                "question": "If one has 3 girl children, can I get the benefits of this scheme?",
+                "answer": "In such a case, the first two girl children of families that are below the poverty line will be able to benefit from the scheme while the third one won\u2019t."
+            },
+            {
+                "question": "What is the benefit of Bhagyalaxshmi Scheme?",
+                "answer": "To promote the birth of girl children among families identified as below poverty line."
+            },
+            {
+                "question": "Should the girls be vaccinated?",
+                "answer": "The girl should be immunized under the health department Programme."
+            },
+            {
+                "question": "After what age can the girl be married?",
+                "answer": "The girl must not get married before 18 years."
+            },
+            {
+                "question": "What is the minimum education girls must have?",
+                "answer": "The girl must complete the 8th Standard."
+            },
+            {
+                "question": "How many girl children are eligible for this scheme?",
+                "answer": "The Bhagyalakshmi scheme is available to BPL families with up to 2 female children."
+            },
+            {
+                "question": "What is the mode for applying for this scheme?",
+                "answer": "Both Online and Offline."
+            },
+            {
+                "question": "What is the official link to apply for this scheme?",
+                "answer": "Visit the official website blakshmi.kar.nic.in."
+            },
+            {
+                "question": "What are the documents required?",
+                "answer": "Application form, birth certificate, income details, address proof, BPL card, bank details, photograph, and family planning certificate."
+            },
+            {
+                "question": "Where can I check the eligibility criteria?",
+                "answer": "You can visit: https://gadag.nic.in/en/scheme/bhagyalaxmi/"
+            },
+            {
+                "question": "How can I apply offline?",
+                "answer": "You can visit Aanganwadi Center, Grampanchayat Office, NGOs, or Authorized Banks."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/ToR%20Bhagyalakshmi.pdf"
+            },
+            {
+                "type": "Official Site",
+                "url": "http://blakshmi.kar.nic.in:8080/First.jsp"
+            }
+        ],
+        "tags": [
+            "Below Poverty Line",
+            "Bhagyalaxmi Yojana",
+            "Female Children",
+            "Financial Aid"
+        ]
+    }
+}

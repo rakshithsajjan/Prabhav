@@ -1,0 +1,63 @@
+{
+    "content": {
+        "title": "Swatantrata Sainik Samman Pension Scheme",
+        "state": "India",
+        "department": "Ministry Of Home Affairs",
+        "type": "Pension",
+        "beneficiary": "Freedom Fighters and their families",
+        "details": "Launched on 15th August 1972, 'Swatantrata Sainik Samman Pension Scheme' is a Pension Scheme by the Ministry of Home Affairs. The scheme provides the grant of pension to living freedom fighters and their families; if they are no more alive, and to the families or martyrs. The benefits of the pension scheme are extended to all freedom fighters as a token of SAMMAN to them.",
+        "benefits": [
+            "Basic Pension for Ex-Andaman Political/Prisoners/Spouses: \u20b930,000/-",
+            "Total Amount of Pension Including 3% DR for Ex-Andaman Political/Prisoners/Spouses: \u20b930,900/-",
+            "Basic Pension for Freedom Fighters Who Suffered Outside British India/Spouses: \u20b928,000/-",
+            "Total Amount of Pension Including 3% DR for Freedom Fighters Who Suffered Outside British India/Spouses: \u20b928,840/-",
+            "Basic Pension for Other Freedom Fighters/spouses including INA: \u20b926,000/-",
+            "Total Amount of Pension Including 3% DR for Other Freedom Fighters/spouses including INA: \u20b926,780/-",
+            "Basic Pension for Dependent parents/eligible daughters: 50% of the sum that would have been admissible to the Freedom Fighter (\u20b913,000/- to \u20b915,000/-)",
+            "Total Amount of Pension Including 3% DR for Dependent parents/eligible daughters: 50% of the sum that would have been admissible to the Freedom Fighter (\u20b913,390/- to \u20b915,450/-)"
+        ],
+        "eligibility": [
+            "A person who had suffered a minimum imprisonment of six months in the mainland jails before Independence.",
+            "Ex-INA personnel will be eligible for pension if the imprisonment/detention suffered by them was outside India.",
+            "The minimum period of actual imprisonment for pension eligibility has been reduced to three months, in the case of women and SC/ST freedom fighters from 01.08.1980.",
+            "For the purpose of granting Samman pension, the family includes mother, father, widower/widow if he/she has not since remarried, and unmarried daughters.",
+            "Not more than one eligible dependent can be granted a pension."
+        ],
+        "application_process": "Offline. The interested applicant should request a free copy of the prescribed application form from either the State Government/UT concerned or Freedom Fighters\u2019 Division, Ministry of Home Affairs, New Delhi.",
+        "documents_required": [
+            "Certificate from the concerned jail authorities or District Magistrates.",
+            "Documentary evidence for underground status.",
+            "Order of internment or externment.",
+            "Orders of confiscation and sale of property."
+        ],
+        "faqs": [
+            {
+                "question": "What identification documents are needed at the time of receiving the pension?",
+                "answer": "Identification documents include a photograph, two prominent identification marks, specimen signature or thumb impressions duly attested, and date of birth."
+            },
+            {
+                "question": "Where should the second copy of the application form be sent as an advance copy?",
+                "answer": "The second copy should be sent to the Deputy Secretary to the Government of India, Freedom Fighters Division, Ministry of Home Affairs, New Delhi."
+            },
+            {
+                "question": "How can interested applicants obtain the application form for the pension scheme?",
+                "answer": "Applicants can request a free copy of the prescribed application form from either the State Government/UT concerned or the Freedom Fighters\u2019 Division, Ministry of Home Affairs, New Delhi."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.mha.gov.in/sites/default/files/2022-08/Swatantrata_sainik_27102016%5B1%5D.PDF"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://www.mha.gov.in/sites/default/files/2022-09/Annexure%25208%5B1%5D.pdf"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Freedom Fighters",
+            "Government Scheme"
+        ]
+    }
+}

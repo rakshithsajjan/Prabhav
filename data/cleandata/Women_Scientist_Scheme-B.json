@@ -1,0 +1,123 @@
+{
+    "content": {
+        "title": "Women Scientist Scheme-B",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Grant",
+        "beneficiary": "Female Scientists",
+        "details": "A Research Grant by MoST for female candidates with break in their career interested in addressing societal challenges through viable S&T interventions. This scheme will provide a research grant for a well-defined project proposal for a period of maximum three years. This grant will cover the fellowship of the applicant and cost of small equipments, contingencies, travel, consumables, etc. Institutional overhead charges will be extra.",
+        "benefits": [
+            "\u20b9 55,000/- pm (and HRA as applicable) for Ph.D. or equivalent (total project cost not exceeding \u20b9 30 lakh excluding HRA and Overhead)",
+            "\u20b9 40,000/- pm (and HRA as applicable) for M.Phil./MTech or equivalent (total project cost not exceeding \u20b9 25 lakh excluding HRA and Overhead)",
+            "\u20b9 31,000/- pm (and HRA as applicable) for M.Sc. or equivalent (total project cost not exceeding \u20b9 20 lakh excluding HRA and Overhead)"
+        ],
+        "eligibility": [
+            "The applicant must be a FEMALE.",
+            "The applicant must either be unemployed or in a position other than regular/permanent position.",
+            "The age of the applicant must be between 27 and 57 years (5 year relaxation for SC/ST/OBC and physically challenged candidates)",
+            "The applicant must hold either of the following Minimum essential qualification - a) Minimum Post Graduate degree, equivalent to M.Sc. in Basic or Applied Sciences or B.Tech. or MBBS or other equivalent professional qualifications; b) M.Phil/M.Tech/M.Pharm/M.VSc or equivalent qualifications; c) Ph.D. in Basic or Applied Sciences."
+        ],
+        "exclusions": [
+            "The female candidate who is employed in a regular/permanent position are not eligible to apply."
+        ],
+        "application_process": "Online. Step 1: Register at the online portal https://online-wosa.gov.in/wosb/ using your active email ID. An auto-generated mail will be received with an ID and link to create a password. Step 2: After logging in to the WOS-B portal, fill out and submit the full Project Proposal under WOS-B. Step 3: Before submission preview your full proposal to make sure that everything is correct and in order. Step 4: Click on the 'Final Submit' button for the final submission of the proposal. Send one hard copy of the submitted proposal to the address provided below, superscribing the envelope with \u2018Women Scientist Scheme-B (WOS-B)\u2019 - Mrs. Namita Gupta, Scientist-\u2018G\u2019, KIRAN Division, Department of Science and Technology (DST), Technology Bhawan, New Mehrauli Road, New Delhi-110016.",
+        "documents_required": [
+            "Project Proposal Document (Refer source for Format)",
+            "Biodata of PI (Signed) (Refer source for Format)",
+            "Mentor\u2019s Biodata (Signed)",
+            "Caste Certificate (If SC/ST/OBC/PH)",
+            "DOB certificate (10th class passed only)",
+            "Photograph of PI",
+            "Signature of PI",
+            "Highest Degree",
+            "House Rent Allowance (if Eligible) (Refer source for Format)"
+        ],
+        "faqs": [
+            {
+                "question": "Is there a validity to the scheme benefits?",
+                "answer": "The benefits are provided for a period of maximum three years."
+            },
+            {
+                "question": "What would be the mode of payment of the scholarship?",
+                "answer": "The payment of the scholarship will be through DBT."
+            },
+            {
+                "question": "What benefits are covered under Project Cost?",
+                "answer": "The Project Cost consists of Fellowship of Principal Investigator (PI), Consumables, Travel, Contingencies, and Minor Equipment but excluding HRA and overheads."
+            },
+            {
+                "question": "Will I be eligible for the scholarship if I fail to get promoted to the next semester?",
+                "answer": "No. The scholarship will be terminated in that case."
+            },
+            {
+                "question": "Can I apply offline for the scholarship?",
+                "answer": "No. You need to visit https://online-wosa.gov.in/wosb/ to apply."
+            },
+            {
+                "question": "Is there any application fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "Which scientific disciplines are covered under this grant?",
+                "answer": "Agriculture, Food and Environmental Challenges (AFE), Strengthening Health Care and Nutrition (HN), Energy (ER), Water and Waste Management (WWM), Engineering and IT Solutions to Societal Issues (EIT), Harnessing Advances in Artificial Intelligence (AI)."
+            },
+            {
+                "question": "Is it possible to pursue PhD along with a WOS-B project?",
+                "answer": "Yes, the beneficiary is allowed to do so."
+            },
+            {
+                "question": "I am 24 years in age. Can I apply for the scheme?",
+                "answer": "Women scientists, less than 27 years of age are not eligible."
+            },
+            {
+                "question": "Do I need to complete the application in one sitting?",
+                "answer": "No. You can save the application as draft and continue at a later time before the deadline."
+            },
+            {
+                "question": "What should be the type and size of the documents to be uploaded?",
+                "answer": "The format should be .pdf. The size of each document should not be greater than 2MB."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "The mandatory fields have a red asterisk (*) mark at the end."
+            },
+            {
+                "question": "I have a query regarding the application process. Whom should I contact regarding the same?",
+                "answer": "For further inquiries regarding WOS-B please send email to: wosb-dst@gov.in."
+            },
+            {
+                "question": "Do I need to apply as a PI or as a Mentor?",
+                "answer": "The applicant must apply as Principal Investigator. Mentor will not be considered as an applicant."
+            },
+            {
+                "question": "Is there a deadline for submitting the hard copy of the online application?",
+                "answer": "Hard copy of submitted online application has to reach the department within twenty days from the last date of online submission of proposals including extended period, if any."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://online-wosa.gov.in/wosb/instructions"
+            },
+            {
+                "type": "Application Form",
+                "url": "http://online-wosa.gov.in/wosb/formats"
+            },
+            {
+                "type": "Guidelines for Implementing Projects",
+                "url": "https://dst.gov.in/scientific-programmes/scientific-engineering-research/women-scientists-programs"
+            },
+            {
+                "type": "Guidelines for Implementing Projects",
+                "url": "https://online-wosa.gov.in/wosb/guideline"
+            }
+        ],
+        "tags": [
+            "Women",
+            "Science",
+            "Technology",
+            "Research",
+            "Fellowship"
+        ]
+    }
+}

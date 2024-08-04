@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Vishvakarma Durghatana Mrtyu par Antyeshti Evan Anugrah Raashi Bhugataan Yojana",
+        "state": "Chhattisgarh",
+        "department": "Chhattisgarh state Government",
+        "type": "Death Benefits",
+        "beneficiary": "Construction Worker",
+        "details": "Chhattisgarh state Government started a scheme 'Vishvakarma Durghatana Mrtyu Par Antyeshti Evan Anugrah Raashi Bhugataan Yojana' for labor workers. Under this scheme, benefits will be provided to the workers and their family members. The main objective of starting the scheme is to provide financial help to the workers of the state. If any accident happens to a worker while working, then he or his family members are provided financial assistance under this scheme.",
+        "benefits": [
+            "In the case of normal death \u20b9 25,000/- and Funeral assistance of \u20b9 5,000/-",
+            "In the case of accidental death: \u20b9 1,00,00/- and Funeral assistance of \u20b9 5,000/-",
+            "In case of permanent disability: \u20b9 75,000/-"
+        ],
+        "eligibility": [
+            "Age should be between 18 to 60 years.",
+            "The construction worker should be registered as a beneficiary under Section 12 of the Act.",
+            "Payment of funeral assistance and ex-gratia is not provided in case of death caused by deliberate suicide or consumption of intoxicating substances or death due to fighting with each other in violation of law in order to commit crime.",
+            "The benefit of the scheme will be given only on the death of the registered worker and not on the death or accident of the family member."
+        ],
+        "exclusions": [
+            "Funeral assistance and ex-gratia payments are not offered for deaths resulting from intentional suicide, the consumption of intoxicating substances, or fatalities resulting from unlawful altercations intended to commit a crime."
+        ],
+        "application_process": "Offline. In case of normal death/accidental death/permanent disability, the application will be accepted for one year from the date of death/ accident. The application under the scheme will have to be submitted within the time limit in any choice center or labor office of the concerned area. It will be mandatory to attach a scanned copy of the registration certificate.",
+        "documents_required": [
+            "Death certificate.",
+            "Hospital Certificate.",
+            "Police FIR copy.",
+            "Bank passbook photo copy."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme about?",
+                "answer": "Chhattisgarh state Government started a scheme 'Vishvakarma Durghatana Mrtyu Par Antyeshti Evan Anugrah Raashi Bhugataan Yojana' for labor workers."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "Financial assistance will be provided."
+            },
+            {
+                "question": "How much financial assistance will be provided under accidental death?",
+                "answer": "In the case of accidental death: \u20b9 1,00,00/- and Funeral assistance of \u20b9 5,000/-."
+            },
+            {
+                "question": "How much financial assistance will be provided under normal death?",
+                "answer": "In the case of normal death \u20b9 25,000/- and Funeral assistance of \u20b9 5,000/-."
+            },
+            {
+                "question": "How much financial assistance will be provided under permanent disability?",
+                "answer": "In case of permanent disability: \u20b9 75,000/-."
+            },
+            {
+                "question": "What is the eligible age to get the benefits?",
+                "answer": "Age should be between 18 to 60 years."
+            },
+            {
+                "question": "Do construction workers have to register themselves?",
+                "answer": "The construction worker should be registered as a beneficiary under Section 12 of the Act."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Death certificate. 2. Hospital Certificate. 3. Police FIR copy. 4. Bank passbook photo copy."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "The application under the scheme will have to be submitted within the time limit in any choice center or labor office of the concerned area."
+            },
+            {
+                "question": "Is there any time limit to apply?",
+                "answer": "In case of normal death/accidental death/permanent disability, the application will be accepted for one year from the date of death/ accident."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://cglabour.nic.in/BOCW/ApplicationSchemes.aspx"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://cglabour.nic.in/mrityu.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Death Benefits",
+            "Construction Workers",
+            "Chhattisgarh"
+        ]
+    }
+}

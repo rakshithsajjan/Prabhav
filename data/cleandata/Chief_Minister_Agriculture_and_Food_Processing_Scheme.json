@@ -1,0 +1,102 @@
+{
+    "content": {
+        "title": "Chief Minister Agriculture and Food Processing Scheme",
+        "state": "Maharashtra",
+        "department": "Department of Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmers and Agro-entrepreneurs",
+        "details": "Chief Minister Agriculture and Food Processing Scheme is being implemented in the state since 2017-18 which has been extended for the next five years till the year 2026-27 as per the government resolution dated 17 May 2022. The main objectives of the scheme are to encourage model technology based projects and quality enhancement of agriculture produce, to encourage exports, to create skill manpower for agro and food processing and employment generation through small and medium agro and food processing units in rural areas.",
+        "benefits": [
+            "30% subsidy for construction of factories and machines of Processing Unit (Civil work for housing processing unit) with a maximum limit of Rs.50.00 lakhs.",
+            "Subsidy will be given on the basis of 'Credit Linked Back ended subsidy' in two similar instalments.",
+            "Encouragement of modernization of projects to save energy and increase quality of food products.",
+            "Promotion of processed food, market development, and export promotion.",
+            "Generation of trained manpower for agriculture and food processing."
+        ],
+        "eligibility": [
+            "Beneficiary should have age above 18 years.",
+            "Beneficiary should have Aadhaar Card/Pan Card.",
+            "Beneficiary should have a good Bank CIBIL Score.",
+            "Beneficiary must have 7/12 certificate and 8-A certificate or Lease documents."
+        ],
+        "exclusions": [
+            "Benefitted Component is not allowed to repeat for seven years."
+        ],
+        "application_process": "Offline application process is required. The applicant must submit a proposal with bank loan approval to the District Superintendent Agriculture Officer.",
+        "documents_required": [
+            "Beneficiary Application (Annexure II)",
+            "Bank Loan Sanction Letter (Original)",
+            "Bank Appraisal (Original)",
+            "7/12, 8A (Original) or Agreement",
+            "PAN card of individual/business, Aadhaar card",
+            "Enterprise Registration Certificate (Udyam Registration)",
+            "Detailed Project Report (DPR) of the project (Original)",
+            "A flow chart of the project's process output",
+            "Notarized Agreement to be submitted for Project Construction (Annexure-III)",
+            "Construction Blue Print (Bank Attested)",
+            "Construction Budget (Bank Attested)",
+            "Machinery Quotation (Bank Attested)",
+            "Pre-project feasibility study report (Annexure-V)",
+            "Recommendation Letter of District Level Project Implementation Committee (Annexure-VI)",
+            "Audit reports for last three years (Only for Upgradation, Expansion and Modernization Projects)"
+        ],
+        "faqs": [
+            {
+                "question": "Which Food process industry can start?",
+                "answer": "Food processing industries of cereals, pulses, fruits, vegetables, oilseeds, spices, medicinal and aromatic plants, etc. and dairy and animal feed projects."
+            },
+            {
+                "question": "Is this a state-sponsored scheme?",
+                "answer": "Yes, 100% state-sponsored scheme."
+            },
+            {
+                "question": "Can farmers with common farm apply for this scheme?",
+                "answer": "Yes."
+            },
+            {
+                "question": "Is it allowed to take benefit of the same component in consecutive years?",
+                "answer": "No."
+            },
+            {
+                "question": "Where can we apply for the scheme?",
+                "answer": "Offline Process. Interested beneficiary should contact the nearest Agriculture Department office and apply."
+            },
+            {
+                "question": "Is Bank detail required for Farmer?",
+                "answer": "Yes, Subsidy will be given on the basis of 'Credit Linked Back ended subsidy'."
+            },
+            {
+                "question": "In one application, how many components can we apply?",
+                "answer": "Only one at a time."
+            },
+            {
+                "question": "What is the application fees?",
+                "answer": "No, application fees."
+            },
+            {
+                "question": "Can we apply for any Food Processing Products?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What is the subsidy benefits?",
+                "answer": "30% subsidy for construction of factories and machines of Processing Unit (Civil work for housing processing unit) with a maximum limit of Rs.50.00 lakhs."
+            },
+            {
+                "question": "What are the benefits of Food Processing in agriculture?",
+                "answer": "It boosts the shelf life of food products, prevents food-contamination, and turns raw food materials into attractive, marketable products."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Government Resolution",
+                "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/201706201604136901.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Food Processing",
+            "Subsidy",
+            "Maharashtra"
+        ]
+    }
+}

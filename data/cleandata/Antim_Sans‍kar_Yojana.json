@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Antim Sans\u200dkar Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Labor Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Registered construction workers and their dependents",
+        "details": "This scheme 'Antim Sanskar Yojana' started by the Labor department of Madhya Pradesh to provide financial assistance in the case of death. On the death of such an eligible worker, his family members are to be provided financial assistance in the form of funeral expenses. The scheme aims to alleviate the immediate financial burden on families caused by funeral expenses.",
+        "benefits": [
+            "Lump sum financial assistance amount: \u20b96,000/-"
+        ],
+        "eligibility": [
+            "Construction worker must be registered with labor department.",
+            "Beneficiary must not have received assistance for last rites from any other department."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Death certificate of the worker.",
+            "Photocopy of bank Passbook.",
+            "Verification by the institution/establishment.",
+            "Application form in the prescribed format."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "This scheme 'Antim Sanskar Yojana' started by the Labor department of Madhya Pradesh to provide financial assistance in the case of death."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Financial benefits are provided."
+            },
+            {
+                "question": "How much financial benefits are provided?",
+                "answer": "Lump sum financial assistance amount \u20b96,000/- will be provided."
+            },
+            {
+                "question": "How can I apply online for the scheme?",
+                "answer": "Applicant needs to visit the official website, download the online fill out application form, and submit the application form and required documents with the concerned department."
+            },
+            {
+                "question": "What is the time period to apply for the benefits of the scheme?",
+                "answer": "Beneficiaries need to submit the application within 15 days from the death of the construction worker."
+            },
+            {
+                "question": "Is this a DBT scheme?",
+                "answer": "Yes, this is Direct Benefit Transfer (DBT). Here the money will be directly transferred to the bank account of the beneficiaries."
+            },
+            {
+                "question": "May other state persons also apply for the scheme?",
+                "answer": "No, this scheme is only for Madhya Pradesh state persons."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://mpedistrict.gov.in/MPL/getphoto.aspx?ViewCircular=mUjt/K+FjJQ="
+            },
+            {
+                "type": "Application Form",
+                "url": "https://mpedistrict.gov.in/MPL/ShowServiceDetail.aspx?param=Cj3p3Zcu7gXy8eDOS2yJlRAkCrrsI0s8"
+            },
+            {
+                "type": "Details",
+                "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=905"
+            },
+            {
+                "type": "Lokseva Kendra",
+                "url": "https://mpedistrict.gov.in/MPL/Loksevakendra.aspx"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Funeral",
+            "Labour Worker"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Intellectual Property Right Scheme Under MSME Innovative Scheme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Grant",
+        "beneficiary": "Micro, Small and Medium Enterprises (MSMEs)",
+        "details": "Launched by the Ministry of Micro, Small & Medium Enterprises, the Intellectual Property Right Scheme offers legal and intellectual property filing support including patents, trademarks, copyrights, designs, geographical indications (GI) etc. The programme also provides IP advisory, consultation, Patentability Searches, Technology Gap Analyses and IP commercialisation through the establishment of Intellectual Property Facilitation Centres (IPFCs) across the country.",
+        "benefits": [
+            "A Grant of up to \u20b9 1,00,00,000/- would be provided to an IPFC in milestone-based (three or more) instalments.",
+            "Reimbursement for registration of Patent, Trademark, Geographical Indications (G.I.), and Design."
+        ],
+        "eligibility": [
+            "The beneficiary unit(s) must typically be a registered micro, small or medium enterprises.",
+            "Should have a valid Udyog Aadhaar Memorandum (UAM) or Udyam Registration certificate."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Udyog Aadhaar Memorandum (UAM) or Udyam Registration (UR) certificate.",
+            "UAM Registered mobile number."
+        ],
+        "faqs": [
+            {
+                "question": "What is Intellectual Property (IP)?",
+                "answer": "Intellectual property (IP) refers to creations of the mind: inventions, literary and artistic works, and symbols, names, images, and designs used in commerce."
+            },
+            {
+                "question": "What are the Types of Intellectual Property Rights?",
+                "answer": "Patents, Copyrights, Trademark, Industrial Designs, Geographical Indications, Trade Secrets."
+            },
+            {
+                "question": "What is patent?",
+                "answer": "A patent is an exclusive right granted for an invention, which is a product or a process that provides, in general, a new way of doing something, or offers a new technical solution to a problem."
+            },
+            {
+                "question": "What are the benefits of Patents Registration?",
+                "answer": "Exclusive Right, Strong Market position, Higher returns on investment, Opportunity to license or sell the invention, Positive image of enterprise."
+            },
+            {
+                "question": "What is Copy Rights?",
+                "answer": "Copyright is a legal term describing rights given to creators for their literary and artistic works."
+            },
+            {
+                "question": "What is Trademark?",
+                "answer": "A trademark is a distinctive sign which identifies certain goods or services as those produced or provided by a specific person or enterprise."
+            },
+            {
+                "question": "How to apply for the Patent /GIs/ Trademarks / Design Reimbursement?",
+                "answer": "It can be applied through online portal i.e. https://innovative.msme.gov.in/Home/IprIndex."
+            },
+            {
+                "question": "Whether there is any centre to support in counselling/ drafting & filing the Intellectual Property Rights?",
+                "answer": "Ministry of MSME has set up IP Facilitation Centres(IPFCs) for the aforesaid purpose."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://innovative.msme.gov.in/Home/IprIndex"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://innovative.msme.gov.in/Documents/MSME_InnovativeFAQ.pdf"
+            },
+            {
+                "type": "Reimbursement For Patent",
+                "url": "https://my.msme.gov.in/MyMsme/Reg/COM_IprGopAppForm.aspx"
+            },
+            {
+                "type": "Reimbursement For GI",
+                "url": "https://my.msme.gov.in/MyMsme/COM_GiAppRegistration.aspx"
+            },
+            {
+                "type": "Reimbursement For Trademark",
+                "url": "https://my.msme.gov.in/MyMsme/Reg/COM_IprTradeAppForm.aspx"
+            },
+            {
+                "type": "Reimbursement For Design Patent",
+                "url": "https://my.msme.gov.in/MyMsme/Reg/COM_IprDesignAppForm.aspx"
+            }
+        ],
+        "tags": [
+            "Intellectual Property",
+            "MSME",
+            "Innovation",
+            "Grant",
+            "Legal Support"
+        ]
+    }
+}

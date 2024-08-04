@@ -1,0 +1,70 @@
+{
+    "content": {
+        "title": "Industrial R&D Promotion Programme: Recognition Of In-House R&D Units",
+        "state": "National",
+        "department": "Ministry Of Science And Technology",
+        "type": "Recognition",
+        "beneficiary": "Corporate Industries and Biotech Start-Ups",
+        "details": "The Department of Scientific & Industrial Research (DSIR) is operating a scheme called 'Recognition of In-House R&D Units' with the objective of granting recognition & registration to in-house R&D units established by the corporate industry. The In-house R&D units are expected to be engaged in innovative research & development activities related to the line of business of the firm, such as the development of new technologies, design & engineering, process/product/design improvements, development new methods of analysis & testing; research for increased efficiency in the use of resources, such as capital equipment, materials & energy; pollution control, effluent treatment & recycling of waste products or any other areas of research. This is the only scheme in the entire government set-up for benchmarking industrial R&D.",
+        "benefits": [
+            "Eligibility for fiscal incentives for research and development by industry.",
+            "Access to funds for R&D from other government departments and agencies."
+        ],
+        "eligibility": [
+            "The applicant should be a company registered under the Companies Act, 1956 or 2013.",
+            "The company shall be eligible for consideration only after the completion of three financial years after formation.",
+            "The applicant should have a regular source of income for at least the last two years to sustain the business.",
+            "The companies seeking recognition for their in-house R&D units should be engaged in manufacturing or production or in rendering technical services.",
+            "Independent infrastructure for research activities and adequate technically qualified manpower should be available (Minimum area for the R&D activities should be at least 1000 sq. ft.).",
+            "At the time of application, the R&D unit(s) should be functional and should have well-defined, time-bound R&D programmes."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the DSIR website or the Portal. After submission, a cover letter and application form must be sent via email.",
+        "documents_required": [
+            "Complete one e-application signed by the MD/whole-time Director of the company.",
+            "A walk-in CD containing a corporate presentation.",
+            "Latest annual report of the company.",
+            "A note on the R&D activities of the R&D unit(s).",
+            "Details of scientific personnel working in the R&D unit(s).",
+            "Layout drawing of the R&D unit vis-\u00e0-vis the plant/production unit."
+        ],
+        "faqs": [
+            {
+                "question": "What Is The Objective Of The 'Recognition Of In-House R&D Units' Scheme?",
+                "answer": "The objective is to grant recognition & registration to in-house R&D units established by the corporate industry."
+            },
+            {
+                "question": "What Are Some Examples Of Engagements In The Research For Increased Efficiency In The Use Of Resources?",
+                "answer": "Examples include capital equipment, materials & energy; pollution control, effluent treatment & recycling of waste products."
+            },
+            {
+                "question": "Is A Hard Copy Of The Application Required To Be Sent To DSIR?",
+                "answer": "No, companies need not submit the hard copy of the application to DSIR."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dsir.gov.in/sites/default/files/2022-01/rdi_guidelines_201511.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://dsir.gov.in/industrial-rd-promotion-programme-irdpp"
+            },
+            {
+                "type": "Directory Of Recognized In-House R&D Units",
+                "url": "https://dsir.gov.in/sites/default/files/2022-01/dir_rdi_2021e.pdf"
+            },
+            {
+                "type": "Call Letter For Renewal Of Recognition",
+                "url": "https://dsir.gov.in/sites/default/files/2022-11/rdiren23le.pdf"
+            }
+        ],
+        "tags": [
+            "R&D",
+            "Innovation",
+            "Government Scheme",
+            "Industrial Development"
+        ]
+    }
+}

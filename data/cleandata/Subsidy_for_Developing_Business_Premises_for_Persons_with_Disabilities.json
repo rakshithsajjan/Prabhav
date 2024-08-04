@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "Subsidy for Developing Business Premises for Persons with Disabilities",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Subsidy",
+        "beneficiary": "Persons with Disabilities (PwD)",
+        "details": "The scheme 'Subsidy for Developing Business Premises for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to \u20b93 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities. Permanent residents of Haryana, aged 18 or older, with a disability of 40% or more, are eligible to avail the benefits under this scheme.",
+        "benefits": [
+            "Loans up to \u20b93 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant should have a disability of at least 40%.",
+            "The applicant should be over 18 years old. For persons with mental retardation, the age requirement is relaxed to 14 years instead of the usual 18 years.",
+            "The land on which commercial/business complexes are proposed to be constructed should be the applicant's own or it should be on long term lease for more than 20 years from a government agency."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity/Citizenship Proof (Any one of the following): Aadhaar Card",
+            "Age Proof (Any one of the following): Aadhaar Card",
+            "Resident Proof/Address Proof/Ownership Proof (Any one of the following): Ration Card, Haryana Domicile Certificate",
+            "Caste/Religion Proof (Any one of the following): Caste Certificate for reserved category",
+            "Disability Proof (Any one of the following): Disability Certificate (Disability should not be less than 40%)",
+            "Photo of Applicant",
+            "Bank account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum loan amount available under this scheme?",
+                "answer": "The maximum loan amount available under this scheme is \u20b93 lakh."
+            },
+            {
+                "question": "Who is eligible to apply for this scheme?",
+                "answer": "Permanent residents of Haryana aged 18 or older, with a disability of 40% or more, are eligible to apply. For persons with mental retardation, the age requirement is 14 years."
+            },
+            {
+                "question": "Is there an age relaxation for persons with mental retardation?",
+                "answer": "Yes, for persons with mental retardation, the age requirement is relaxed to 14 years instead of the usual 18 years."
+            },
+            {
+                "question": "What type of land can be used for constructing business premises under this scheme?",
+                "answer": "The land should be the applicant's own or on a long-term lease for more than 20 years from a government agency."
+            },
+            {
+                "question": "How can one apply for the scheme?",
+                "answer": "Eligible applicants can apply online through the Official Antyodaya-SARAL Portal at https://saralharyana.gov.in/."
+            },
+            {
+                "question": "Can applicants track their application status?",
+                "answer": "Yes, applicants can track their applications through the Official Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID at https://status.saralharyana.nic.in/."
+            },
+            {
+                "question": "Can persons with temporary disabilities apply for this scheme?",
+                "answer": "No, only persons with a permanent disability of at least 40% are eligible."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=nmqRNwqeauefAyb2MWMQEA%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Business Premise",
+            "Disability",
+            "Loan",
+            "PwD",
+            "Self-employment",
+            "Subsidy"
+        ]
+    }
+}

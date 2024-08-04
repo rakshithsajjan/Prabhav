@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "MSME Sustainable (ZED) Certification Scheme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Certification",
+        "beneficiary": "Micro, Small and Medium Enterprises (MSMEs)",
+        "details": "Launched by the Ministry Of Micro, Small & Medium Enterprises, MSME Sustainable (ZED) Certification Scheme is an extensive drive to create awareness amongst MSMEs about Zero Defect Zero Effect (ZED) practices and motivate and incentivize them for ZED Certification while also encouraging them to become MSME Champions.",
+        "benefits": [
+            "Cost of Certification: Level 1: BRONZE: \u20b9 10,000/-, Level 2: SILVER: \u20b9 40,000/-, Level 3: GOLD: \u20b9 90,000/-",
+            "Joining Reward of \u20b9 10,000/- (Bronze will become free if availed)",
+            "80-60-50% subsidy for Micro, Small & Medium Enterprises",
+            "10% additional subsidy for Women/SC/ST owned MSMEs or MSMEs in specific regions",
+            "5% additional subsidy for MSMEs part of specific development programs",
+            "Up to 75% financial assistance in Testing/Quality/Product Certification",
+            "Up to \u20b9 2,000,00/- for consultancy for all ZED certified MSMEs",
+            "Up to \u20b9 3,000,00/- for technology upgradation for ZED certified MSMEs",
+            "Support for COVID-19 preparedness after obtaining Certification"
+        ],
+        "eligibility": [
+            "Should be a Micro, Small and Medium Enterprises (MSMEs) unit.",
+            "Should be registered in Udyam portal."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Udyam Registration Number of the Enterprise.",
+            "Mobile Number that is associated with the Udyam Registration.",
+            "Valid Email ID (Login credentials and information/document will be sent on the Unit Email ID)"
+        ],
+        "faqs": [
+            {
+                "question": "What is MSME Sustainable (ZED) Certification scheme?",
+                "answer": "MSME Sustainable (ZED) Certification is an extensive drive to create awareness amongst MSMEs about Zero Defect Zero Effect (ZED) practices and motivate and incentivize them for ZED Certification while also encouraging them to become MSME Champions."
+            },
+            {
+                "question": "Is MSME Sustainable (ZED) Certification mandatory for MSMEs?",
+                "answer": "ZED Certification is not mandatory by the Government; it is a voluntary scheme which will provide the MSMEs a roadmap to global competitiveness."
+            },
+            {
+                "question": "Who can apply for MSME Sustainable (ZED) Certification scheme?",
+                "answer": "All manufacturing sector MSMEs registered with the UDYAM registration portal (of the MoMSME) will be eligible to participate in MSME Sustainable (ZED) Certification and avail related benefits/incentives."
+            },
+            {
+                "question": "How to apply for MSME Sustainable (ZED) Certification scheme?",
+                "answer": "Visit the ZED website and click on the ZED Certification tab. You will then be directed to the Login/Registration Page where you will have to put your Udyam registration number and associated mobile number to proceed further."
+            },
+            {
+                "question": "If a unit gets certified under MSME Sustainable (ZED) Certification scheme, does it mean they don't have to follow other regulations/requirements or certifications?",
+                "answer": "ZED Certification is based on processes oriented quality specific standard and does not replace any other regulation/requirement or certification."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.dcmsme.gov.in/Guidelines_MSME%20Sustainable/(ZED/)%20Certification%20Scheme.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://zed.msme.gov.in/faqs"
+            },
+            {
+                "type": "User Manual For Registration",
+                "url": "https://zed.msme.gov.in/uploads/User_Manual_for_ZED_Registration_20.04.2022_2022.pdf"
+            },
+            {
+                "type": "Verify ZED Certificate",
+                "url": "https://zed.msme.gov.in/verify-zed-certificate"
+            },
+            {
+                "type": "Model And Standard",
+                "url": "https://zed.msme.gov.in/uploads/MSME_Sustainable_/(ZED/)_Model_and_Standard.pdf"
+            }
+        ],
+        "tags": [
+            "MSME",
+            "Certification",
+            "Zero Defect Zero Effect",
+            "Incentives",
+            "Government Scheme"
+        ]
+    }
+}

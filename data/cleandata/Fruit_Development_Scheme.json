@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "Fruit Development Scheme",
+        "state": "Meghalaya",
+        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The scheme \u2018Fruit Development Scheme\u2019 was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates.",
+        "benefits": [
+            "Quality planting materials for sale at 50% subsidy and free of cost to the farmers under convergent mode with MGNREGA.",
+            "Assistance for citrus rejuvenation programme for senile orchards.",
+            "75% subsidy assistance for creeper fruit plants limited to 500 sqm per beneficiary."
+        ],
+        "eligibility": [
+            "The applicant/farmer should be a resident of Meghalaya.",
+            "The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of at least 0.2 hectares or more."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The eligible bonafide farmer can apply/write an application on plain paper and submit it at the nearest office of the Horticulture Development Officer.",
+        "documents_required": [
+            "Passport-size photograph",
+            "Identity Proof",
+            "Bank passbook/account details",
+            "Documents proof of possessing own or leased land",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the key objective of the scheme?",
+                "answer": "To make available to the farmers good quality planting materials in convergence mode and sale at subsidised rates."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya has launched this scheme."
+            },
+            {
+                "question": "What is the type of assistance and entitlement?",
+                "answer": "The Scheme assists in providing good quality planting materials including horticultural tools and implements at subsidized rates for promoting fruit cultivation."
+            },
+            {
+                "question": "Who can apply for the scheme?",
+                "answer": "Bonafide farmers engaged in Agriculture, possessing own or leased land of at least 0.2 hectares or more."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/fds"
+            },
+            {
+                "type": "Contact Information",
+                "url": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx"
+            }
+        ],
+        "tags": [
+            "Fruit Production",
+            "Horticultural",
+            "Planting Material"
+        ]
+    }
+}

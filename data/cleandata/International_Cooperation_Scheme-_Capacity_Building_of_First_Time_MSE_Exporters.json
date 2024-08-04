@@ -1,0 +1,70 @@
+{
+    "content": {
+        "title": "International Cooperation Scheme- Capacity Building of First Time MSE Exporters",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Capacity Building",
+        "beneficiary": "Micro and Small Enterprises",
+        "details": "The scheme 'International Cooperation Scheme' was launched by the Ministry of Micro, Small and Medium Enterprises, Government of India with the aim to capacity build MSMEs for entering the export market by facilitating their participation in international exhibitions/fairs/conferences/seminars/buyer-seller meets abroad as well as providing them with actionable market-intelligence and reimbursement of various costs involved in export of goods and services. The Scheme provides opportunities for MSMEs to continuously update themselves to meet the challenges emerging out of changes in technology, changes in demand, emergence of new markets, etc. Thus, in totality, all components of the scheme aimed at various aspects required to advance MSMEs' position as emerging export players.",
+        "benefits": [
+            "Financial assistance towards costs incurred by first-time MSE Exporters on export shipments.",
+            "Reimbursement of Registration-cum-Membership Certificate (RCMC) charges.",
+            "Reimbursement of Export Insurance Premium paid to Export Credit Guarantee Corporation Ltd. (ECGC).",
+            "Reimbursement of fees paid on Testing and Quality Certification acquired by MSEs."
+        ],
+        "eligibility": [
+            "The Micro and Small Enterprises with valid Udyam Registration are eligible to apply under the scheme.",
+            "The applicant's Importer Exporter Code (IEC) must not be older than 3 years on the date of export shipment."
+        ],
+        "exclusions": [],
+        "application_process": "The applicant Organisation will submit an online application for financial assistance, along with the relevant documents in the proforma prescribed on the IC Scheme portal.",
+        "documents_required": [
+            "IEC Code not more than 3 years old on the date of export shipment",
+            "RCMC fee receipt",
+            "Proof of export carried out in the same financial year for which RCMC is claimed",
+            "Receipt of Insurance Premium",
+            "Testing and quality certification",
+            "Proof of export shipment of product for which testing and quality certification is claimed."
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'International Cooperation Scheme'?",
+                "answer": "The scheme aims to capacity build MSMEs for entering export market by facilitating their participation in international exhibitions/fairs/conferences/seminar/buyer-seller meets abroad as well as providing them with actionable market-intelligence and reimbursement of various costs involved in export of goods and services."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Ministry of Micro, Small and Medium Enterprises has launched this scheme."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Under the scheme, financial assistance will be provided for the following: RCMC paid by the first-time exporters for registration with EPCs, Export insurance premium paid by MSEs, Fee paid on Testing & Quality Certification acquired by MSEs."
+            },
+            {
+                "question": "Who can apply under this scheme?",
+                "answer": "The Micro and Small Enterprises with valid Udyam Registration are eligible to apply under the scheme."
+            },
+            {
+                "question": "What is the criterion for Importer Exporter Code for claiming benefits under the scheme?",
+                "answer": "To claim the benefits under the scheme, the applicant's Importer Exporter Code (IEC) must not be older than 3 years on the date of export shipment."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/ics-cbfte"
+            },
+            {
+                "type": "Guidelines Document",
+                "url": "https://ic.msme.gov.in/IC_APP/WriteReadData/GuideLine/FinalCBFTEComponentofICScheme.pdf"
+            }
+        ],
+        "tags": [
+            "Capacity Building",
+            "Cooperation",
+            "Exporter",
+            "Financial Assistance",
+            "International",
+            "MSE"
+        ]
+    }
+}

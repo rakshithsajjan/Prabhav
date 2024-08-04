@@ -1,0 +1,107 @@
+{
+    "content": {
+        "title": "Certification Program for Goan IT Professionals",
+        "state": "Goa",
+        "department": "Department of Information Technology",
+        "type": "Skill Training",
+        "beneficiary": "Goan IT Professionals",
+        "details": "Launched in 2018, the 'Certification Program for Goan IT Professionals' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The scheme provides reimbursement of up to 50% of the expenditure incurred for obtaining certifications for improving their employability. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
+        "benefits": [
+            "Reimbursement up to 50% of the expenditure incurred for obtaining certifications for improving their employability."
+        ],
+        "eligibility": [
+            "The applicant should be of Goan origin.",
+            "The applicant should possess qualifications suitable for employment in the IT Industry.",
+            "The applicant's bank account should be linked to Aadhaar.",
+            "The applicant should have obtained the certifications from OEM vendors or their authorized training partners.",
+            "The certifications should be directly relevant to the IT Industry.",
+            "The applicant should have completed the certification during the policy's operation."
+        ],
+        "exclusions": [
+            "Individuals receiving similar financial incentives under any other Government of Goa policy are ineligible for benefits under this scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Aadhaar",
+            "Proof of Goan origin (Birth Certificate, Domicile Certificate, or Marriage Certificate)",
+            "Copies of all mark sheets from Class XII through the highest level of education obtained",
+            "Copy of degree/diploma",
+            "Copies of certificate(s) for which the subsidy is being claimed",
+            "Proof of payment for certification(s)",
+            "Voided cheque"
+        ],
+        "faqs": [
+            {
+                "question": "Are self-paced online courses considered for reimbursement?",
+                "answer": "Yes, as long as the course is recognized, relevant, and leads to a certification from an authorized vendor or their training partner."
+            },
+            {
+                "question": "How is the 50% reimbursement calculated for certification expenses?",
+                "answer": "Reimbursement is calculated based on 50% of the actual certification expenditure, excluding any taxes paid."
+            },
+            {
+                "question": "Can I apply for certifications obtained before completing my highest level of education?",
+                "answer": "Yes, certifications obtained at any point during your education are eligible, provided they meet the other criteria of the scheme."
+            },
+            {
+                "question": "Can I include the cost of study materials in the reimbursement claim?",
+                "answer": "No, the scheme covers certification expenditure only. Study materials, travel, and accommodation costs are excluded from the reimbursement."
+            },
+            {
+                "question": "Is there a limit on the number of certifications I can claim benefits for?",
+                "answer": "There is no fixed limit. However, each certification must be directly relevant to the IT Industry, ensuring a diverse skill set."
+            },
+            {
+                "question": "Are certifications from online courses accepted under this scheme?",
+                "answer": "Yes, online certifications from recognized vendors or their authorized partners are eligible, embracing the evolving landscape of digital education."
+            },
+            {
+                "question": "Can I apply if I'm not currently residing in Goa?",
+                "answer": "Yes, as long as you can prove your Goan origin through the specified documents, you can apply regardless of your current residence."
+            },
+            {
+                "question": "Is there a contingency for budget allocation in the scheme?",
+                "answer": "Yes, scheme benefits are contingent upon budgetary allocation, and no Promissory Estoppel is applicable if benefits are discontinued due to exceeded allocation."
+            },
+            {
+                "question": "How is Goan origin proven for eligibility?",
+                "answer": "It can be proven through a birth certificate, domicile/residence certificate, or marriage certificate with proof of Goan residence."
+            },
+            {
+                "question": "Are there any exclusions to receiving benefits under this scheme?",
+                "answer": "Yes, individuals already receiving similar incentives from any other Government of Goa policy are ineligible for benefits."
+            },
+            {
+                "question": "Can I apply if I completed the certification before the policy's operation?",
+                "answer": "No, certifications must be completed during the policy's operation to be eligible for reimbursement."
+            },
+            {
+                "question": "What certifications are accepted under this scheme?",
+                "answer": "Approved certifications include (ISC)2, Adobe, AWS, Cisco, CompTIA, Microsoft, Red Hat, SAP, and others, directly relevant to the IT Industry."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2020/08/ITPolicySchemes2018.pdf"
+            },
+            {
+                "type": "Official Gazette",
+                "url": "https://ditc.goa.gov.in/sites/default/files/Target-Schemes.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://www.goa.gov.in/contact/"
+            },
+            {
+                "type": "User Manual For Business Entity",
+                "url": "https://services.goaonline.gov.in/Downloads/Organization/BusinessProfile_UserManual.pdf"
+            }
+        ],
+        "tags": [
+            "Certification",
+            "Information Technology",
+            "Skill Training"
+        ]
+    }
+}

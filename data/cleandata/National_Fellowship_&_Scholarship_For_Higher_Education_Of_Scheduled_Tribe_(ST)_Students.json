@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "National Fellowship & Scholarship For Higher Education Of Scheduled Tribe (ST) Students",
+        "state": "India",
+        "department": "Ministry Of Tribal Affairs",
+        "type": "Fellowship and Scholarship",
+        "beneficiary": "Scheduled Tribe (ST) Students",
+        "details": "The National Fellowship Scheme is a Central Sector Scheme by the Ministry of Tribal Affairs with the objective to provide financial assistance to meritorious students from Scheduled Tribes to enable them to pursue higher education (M.Phil or Ph.D.) after completing a post-graduate degree (Master's degree). The National Scholarship Scheme encourages meritorious students from Scheduled Tribes to pursue courses at the Graduate and Post Graduate levels in premier institutes identified by the Ministry.",
+        "benefits": [
+            "Fellowship for M.Phil and Ph.D. students",
+            "100% funding for ST students in approved courses",
+            "Monthly stipend and contingency for M.Phil and Ph.D. students",
+            "Tuition fees, books, and stationery for scholarship recipients"
+        ],
+        "eligibility": [
+            "Post-Graduation and admission in covered universities",
+            "Minimum 55% marks at PG level",
+            "No income criteria for fellowship",
+            "Maximum age limit of 36 years as of July 1 of the award year"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Profile Photo",
+            "Date of Birth Proof",
+            "Post-Graduation Marksheet",
+            "ST Certificate",
+            "PWD Certificate (if applicable)",
+            "Bonafide Certificate of admission"
+        ],
+        "faqs": [
+            {
+                "question": "Who Are Eligible To Apply For National Fellowship Scholarship Schemes?",
+                "answer": "The candidates belonging to Scheduled Tribes (ST) who have passed the Post-Graduation examination and fulfilled the Scheme guidelines of the Ministry of Tribal Affairs (MoTA) are eligible to apply for these fellowships."
+            },
+            {
+                "question": "How Many Slots/Seats Available For Fellowship?",
+                "answer": "There are 750 slots/seats available for fresh fellowship each year."
+            },
+            {
+                "question": "Is There Any Family Income Criteria Required For Availing Scholarship?",
+                "answer": "There is no family income criteria required for availing scholarship."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/tribalfellowshipguideline.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://tribal.nic.in/downloads/faqs/FAQ_NFST_21-22.pdf"
+            },
+            {
+                "type": "Amendments",
+                "url": "https://tribal.nic.in/downloads/guidelines/NFS/AmendmentGuidelinesNFS4highereducaton4STstudents_7July2023.pdf"
+            },
+            {
+                "type": "Manual For Filling Online Application",
+                "url": "https://tribal.nic.in/downloads/faqs/NFTSInstructionmanualEnglish2023-24.pdf"
+            },
+            {
+                "type": "Revision Of Fellowship Amount",
+                "url": "https://tribal.nic.in/downloads/circulars/RevisionOfFellowshipAmountNFS4HESTStudentsScheme01012023.pdf"
+            },
+            {
+                "type": "National Tribal Fellowship Portal",
+                "url": "https://fellowship.tribal.gov.in/StudentsRegistrationForm.aspx"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Scholarship",
+            "Scheduled Tribe",
+            "Higher Education"
+        ]
+    }
+}

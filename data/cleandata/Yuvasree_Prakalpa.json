@@ -1,0 +1,104 @@
+{
+    "content": {
+        "title": "Yuvasree Prakalpa",
+        "state": "West Bengal",
+        "department": "Labour Department, Govt. of West Bengal",
+        "type": "Financial Assistance",
+        "beneficiary": "Job Seeker",
+        "details": "'Yuvasree' (earlier named as \"Yuva Utsaha Prakalpa\") was launched by the Labour Department, Govt. of West Bengal, with effect from 1st October 2013. The objective of the scheme is to provide unemployment assistance to the enrolled jobseekers of the Employment Bank to enable them to upgrade their level of skill in order to make them employable or suitable for setting up of self-employment ventures.",
+        "benefits": [
+            "Cash Benefits: Subject to fulfillment of the aforesaid eligibility criteria an individual may receive unemployment assistance under the scheme \u20b9 1500/- per month.",
+            "Job Seeking: By registering in Employment Bank, beneficiaries can search and apply for jobs per their skills.",
+            "Training Program: The recipient can upgrade his/her skill subsequently under any of the Skill Development programs of the state government / private training institutes and increase his/her employability. The training program shall include soft skills training, basic IT training, basic communication training, and other skill as per the need or the interest of the beneficiary.",
+            "Placement Support: Assistance in placing the candidate in a Government or Private organization."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of West Bengal.",
+            "The applicant must be unemployed.",
+            "The applicant should be enrolled with the Employment Bank as a \u2018job seeker\u2019.",
+            "The applicant should be class 8th pass and above.",
+            "The applicant should be between 18-45 years of age on the 1st day of April of the year in which he/she is considered under the scheme.",
+            "The applicant had not to availed financial assistance /loan under any state/central government sponsored Self-Employment scheme.",
+            "Only one member of a family is eligible to receive assistance under the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Annexure I ( Application Form).",
+            "Annexure -II (Unemployment Certificate from a Group-A Officer).",
+            "Annexure - III ( Self-Declaration)",
+            "Proof of Age and Identification ( 10th Admit Card / 10th Certificate / Transfer Certificate or Birth Certificate).",
+            "Proof of Residence (Aadhaar Card).",
+            "Caste - Caste Certificate (if in case other than General caste).",
+            "PH Certificate of Govt. Hospital with minimum 40% disability (if in case Differently abled).",
+            "Latest Educational certificate (Marksheet/Certificate).",
+            "Photocopy of Ration Card or Voter ID Card."
+        ],
+        "faqs": [
+            {
+                "question": "What is Yuvashree Prakalpa Scheme?",
+                "answer": "'Yuvasree' was launched in 2013 by Labor Department, Government of West Bengal for providing financial assistance to jobseekers."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "1. Financial Benefits, 2. Job Seeking and 3. Placement Support."
+            },
+            {
+                "question": "How much financial assistance will be provided?",
+                "answer": "Amount: \u20b9 1,500/- per month."
+            },
+            {
+                "question": "What is the procedure to get the benefits?",
+                "answer": "Firstly, Applicant need to register themselves on the portal with required information."
+            },
+            {
+                "question": "What is the official portal to get enroll?",
+                "answer": "URL: https://www.employmentbankwb.gov.in/"
+            },
+            {
+                "question": "Are there district limitations for scheme eligibility?",
+                "answer": "Any candidate residing in any district of West Bengal can enroll his name with this site."
+            },
+            {
+                "question": "How can an applicant recover his/her username?",
+                "answer": "Applicant have to contact with the nearest employment exchange with original documents and they will help to recover username."
+            },
+            {
+                "question": "How can an applicant recover his/her password?",
+                "answer": "On the log in page, click on the Forgot Password link and enter the email address associated with employment bank account. Click Submit and system send instructions for resetting password."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Annexure I ( Application Form). 2. Annexure -II (Unemployment Certificate from a Group-A Officer). 3. Annexure - III ( Self-Declaration) 4. Proof of Age and Identification ( 10th Admit Card / 10th Certificate / Transfer Certificate or Birth Certificate). 5. Proof of Residence (Aadhaar Card). Caste - Caste Certificate (if in case other than General caste). 6. PH Certificate of Govt. Hospital with minimum 40% disability (if in case Differently abled). 7. Latest Educational certificate (Marksheet/Certificate). 8. Photocopy of Ration Card or Voter ID Card."
+            },
+            {
+                "question": "What is the minimum and maximum eligible age?",
+                "answer": "The applicant should be between 18-45 years of age on the 1st day of April of the year in which he/she is considered under the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.employmentbankwb.gov.in/force_download.php?file=V1hWMllWOVZkSE5oYUdGZlVISmhhMkZzY0dGZk1qQXhNeTV3WkdZPQ=="
+            },
+            {
+                "type": "Amendments",
+                "url": "https://employmentbankwb.gov.in/force_download.php?file=V1ZWV1FWTlNSVVZmUVUxTlJVNUVUVVZPVkM1d1pHWT0="
+            },
+            {
+                "type": "FAQ",
+                "url": "https://employmentbankwb.gov.in/faq.php"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.employmentbankwb.gov.in/"
+            }
+        ],
+        "tags": [
+            "Employment",
+            "Financial Assistance",
+            "Job Seeker",
+            "Placement"
+        ]
+    }
+}

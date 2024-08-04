@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Indira Mahila Shakti Udyam Protsahan Yojana",
+        "state": "Rajasthan",
+        "department": "Women and Child Development Department of Rajasthan",
+        "type": "Loan",
+        "beneficiary": "Women entrepreneurs",
+        "details": "The Indira Mahila Shakti Udyam Protsahan Yojana (IMSUPY) is a scheme launched by the Rajasthan government to empower women entrepreneurs by providing them with financial assistance and support. The main objective of the scheme is to encourage women to start their own businesses and become financially independent. Promote self-employment and reduce unemployment among women in Rajasthan. Support the growth of micro, small, and medium enterprises (MSMEs) led by women.",
+        "benefits": [
+            "Loan amount of \u20b9 50,00,000/- to individual women.",
+            "Loan amount of \u20b9 1,00,00,000/- to self-help groups.",
+            "Margin money of 25% of the sanctioned loan amount.",
+            "For women belonging to Scheduled Castes/Tribes, the margin money will be 30%."
+        ],
+        "eligibility": [
+            "The applicant's age should be 18 years or more.",
+            "The applicant should be a permanent resident of Rajasthan.",
+            "The women's self-help group or group of these groups must be registered under any department of the state government."
+        ],
+        "exclusions": [
+            "Applicants whose family members have benefited from any other central/state employment-oriented program in the last 5 years.",
+            "Applicants in whose family any member is a defaulter of any financial institution/bank."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card.",
+            "Address proof.",
+            "Bank account statement.",
+            "Passport size photo.",
+            "Mobile number."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "This scheme will provide loan facilities to women to establish businesses."
+            },
+            {
+                "question": "Which is the implementing department of this scheme?",
+                "answer": "Women and Child Development Department of Rajasthan."
+            },
+            {
+                "question": "What will be the age criteria?",
+                "answer": "Yes, the applicant should be 18 years or more."
+            },
+            {
+                "question": "How can I apply online?",
+                "answer": "Click on this link and follow the steps https://ssoapps.rajasthan.gov.in/imsupy/Introduction.aspx."
+            },
+            {
+                "question": "May other state persons also apply for this scheme?",
+                "answer": "No, only Rajasthan citizens can apply for this scheme."
+            },
+            {
+                "question": "How much grant will be given to women for loans under the scheme?",
+                "answer": "25 to 30 percent grant will be given to women in the form of loan under IMSUPY."
+            },
+            {
+                "question": "Is there an application fee?",
+                "answer": "No, there is no application fee."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Aadhar card. 2. Address proof. 3. Bank account statement. 4. Passport size photo. 5. Mobile number."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://slbcrajasthan.in/assets/docs/pdf/govtschemes/Mahila.pdf"
+            },
+            {
+                "type": "Apply",
+                "url": "https://ssoapps.rajasthan.gov.in/imsupy/Introduction.aspx"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            }
+        ],
+        "tags": [
+            "Development",
+            "Empowerment",
+            "Women"
+        ]
+    }
+}
