@@ -4,7 +4,7 @@
 **prabhav**(translates ~ "*impact*") is a non-profit effort dedicated to leveraging technologies including like AI and more to change things in society for the better.
 
 
-our first initiative is aimed to serve under-privileged masses in india with easy & accessible information about govt. schemes in a convenient way using an AI whatsapp chatbot (given its huge existing reach); information though openly available, is largely inaccessible to most rural & under-privileged citizens due to lack of working knowledge & ease of ascess. 
+our first initiative is aimed to serve the masses in india with easy & accessible information about govt. schemes in a convenient way using an AI whatsapp chatbot (given its huge existing reach); information though openly available, is largely inaccessible to most rural & average citizens due to lack of working knowledge & ease of ascess.
 
 we're trying to do our bit. users can chat in their own langauage and get info about all the schemes they can avail benefits from. 
 
