@@ -13,10 +13,11 @@ we're trying to do our bit. users can chat in their own langauage and get info a
 we had this idea since a year but left it brewing in the back of our minds. we're now focusing our efforts on building it. 
 
 Tasks:
-- [x] scrape [Myschemes](https://www.myscheme.gov.in) (started, WIP)
+- [x] scrape [Myschemes](https://www.myscheme.gov.in)
 - [x] implement whatsapp chatbot
     - [x] secure required accounts/access/api etc
     - [x] publish a v0 bot to test internally (use 3rd party services but goal is to have most opensource with least external dependencies)
     - [x] publish v1 mvp bot
-- [ ] implement voice input
+- [ ] improve code with db & vector search
+- [ ] implement voice
     - [ ] research on tts & stt models
