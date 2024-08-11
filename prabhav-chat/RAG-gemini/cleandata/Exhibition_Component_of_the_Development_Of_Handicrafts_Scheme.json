@@ -8,9 +8,9 @@
         "details": "The 'Exhibition' component of the 'Development Of Handicrafts' scheme by the Department of Industries and Commerce, Government of Puducherry, was introduced to boost the marketability of handicrafts and enhance sales through the organization of exhibitions. These exhibitions are conducted locally and in various states of the country.",
         "benefits": [
             "Travelling allowance to-and-fro 2nd class (berth) train fare.",
-            "For participation in A1 cities' exhibitions: Daily allowance of \u20b9300 per day per crafts person.",
-            "For participation in non-A1 cities' exhibitions: Daily allowance of \u20b9200 per day per crafts person.",
-            "For participation in local exhibitions: Daily allowance of \u20b9150 per day per crafts person.",
+            "For participation in A1 cities' exhibitions: Daily allowance of ₹300 per day per crafts person.",
+            "For participation in non-A1 cities' exhibitions: Daily allowance of ₹200 per day per crafts person.",
+            "For participation in local exhibitions: Daily allowance of ₹150 per day per crafts person.",
             "Reimbursement of actual expenditure for transporting handicrafts goods from the unit to the exhibition spot."
         ],
         "eligibility": [
@@ -31,11 +31,11 @@
             },
             {
                 "question": "What are the benefits provided for crafts persons participating in A1 cities' exhibitions?",
-                "answer": "Crafts persons receive a daily allowance of \u20b9300 and reimbursement of 2nd class train fare for A1 cities' exhibitions."
+                "answer": "Crafts persons receive a daily allowance of ₹300 and reimbursement of 2nd class train fare for A1 cities' exhibitions."
             },
             {
                 "question": "How much is the daily allowance for crafts persons participating in local exhibitions?",
-                "answer": "Crafts persons participating in local exhibitions receive a daily allowance of \u20b9150 per day."
+                "answer": "Crafts persons participating in local exhibitions receive a daily allowance of ₹150 per day."
             },
             {
                 "question": "What are the eligibility criteria for applicants under this scheme?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What allowance is provided for crafts persons participating in non-A1 cities' exhibitions?",
-                "answer": "Crafts persons receive a daily allowance of \u20b9200 per day for non-A1 cities' exhibitions."
+                "answer": "Crafts persons receive a daily allowance of ₹200 per day for non-A1 cities' exhibitions."
             },
             {
                 "question": "Where can individuals download application forms for the scheme?",
@@ -71,7 +71,7 @@
             },
             {
                 "question": "What is the daily allowance provided for crafts persons participating in A1 cities' exhibitions?",
-                "answer": "Crafts persons receive a daily allowance of \u20b9300 per day for participating in A1 cities' exhibitions."
+                "answer": "Crafts persons receive a daily allowance of ₹300 per day for participating in A1 cities' exhibitions."
             }
         ],
         "sources": [
@@ -99,5 +99,6 @@
             "Exhibition",
             "Handicraft"
         ]
-    }
+    },
+    "id": "000496"
 }

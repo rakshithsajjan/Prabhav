@@ -43,11 +43,11 @@
             },
             {
                 "question": "Will Travel And Food Allowance Be Provided To The Trainees?",
-                "answer": "Yes, Travel and Food Allowance of \u20b950 for every day of the training program attended."
+                "answer": "Yes, Travel and Food Allowance of ₹50 for every day of the training program attended."
             },
             {
                 "question": "Who Will Be Considered As A 'Dropout' For The Purpose Of This Scheme?",
-                "answer": "Anyone who does not have 80 % attendance at the end of the first month would be deemed \u2018dropout\u2019."
+                "answer": "Anyone who does not have 80 % attendance at the end of the first month would be deemed ‘dropout’."
             },
             {
                 "question": "What Is The Eligibility Criteria For Becoming A PIA?",
@@ -90,5 +90,6 @@
             "HIMAYAT",
             "Jammu and Kashmir"
         ]
-    }
+    },
+    "id": "000756"
 }

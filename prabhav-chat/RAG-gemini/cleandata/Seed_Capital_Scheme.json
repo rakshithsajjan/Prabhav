@@ -5,9 +5,9 @@
         "department": "Department of Information Technology, Electronics and Communications",
         "type": "Grant",
         "beneficiary": "Startups in Goa",
-        "details": "The scheme 'Seed Capital Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, startups with a promising idea can get a one-time grant of up to \u20b9 10,00,000.",
+        "details": "The scheme 'Seed Capital Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, startups with a promising idea can get a one-time grant of up to ₹ 10,00,000.",
         "benefits": [
-            "Start-ups with a promising idea can get a one-time grant of up to \u20b9 10,00,000, as determined by the Start-up Promotion Cell (SPC).",
+            "Start-ups with a promising idea can get a one-time grant of up to ₹ 10,00,000, as determined by the Start-up Promotion Cell (SPC).",
             "This incentive can be availed by 100 start-ups each year which will be selected by the SPC as per its due diligence and guidelines."
         ],
         "eligibility": [
@@ -89,5 +89,6 @@
             "Seed Capital",
             "Startup"
         ]
-    }
+    },
+    "id": "001762"
 }

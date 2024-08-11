@@ -7,14 +7,14 @@
         "beneficiary": "Eminent artists in indigent circumstances",
         "details": "The scheme 'Kala Samman Scheme' is implemented by the Art and Culture Department, Government of Goa, to grant financial assistance to eminent artists who are in indigent circumstances as a token of respect for their contribution to the field of Art and culture.",
         "benefits": [
-            "Financial Assistance to the extent of \u20b9 2,500/- per month every year.",
-            "Recipients of State Cultural Award shall be entitled for Financial Assistance to the extent of \u20b9 3,200/- per month every year."
+            "Financial Assistance to the extent of ₹ 2,500/- per month every year.",
+            "Recipients of State Cultural Award shall be entitled for Financial Assistance to the extent of ₹ 3,200/- per month every year."
         ],
         "eligibility": [
             "The applicant should be an artist who is in indigent condition.",
             "The applicant should have attained the age of 60 years.",
             "The applicant should have given a contribution to the field of Art and culture or should have worked in the field of Art and culture.",
-            "The income of the applicant should not exceed \u20b9 48,000/- per annum."
+            "The income of the applicant should not exceed ₹ 48,000/- per annum."
         ],
         "exclusions": [],
         "application_process": "Offline. The Director of Art & Culture shall release an advertisement in local daily newspapers thereby inviting applications from eligible applicants.",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "How much financial assistance does an eligible artist receive under this scheme?",
-                "answer": "An eligible artist is granted financial assistance to the extent of \u20b92,500 per month every year. However, recipients of the State Cultural Award are entitled to financial assistance to the extent of \u20b93,200 per month every year."
+                "answer": "An eligible artist is granted financial assistance to the extent of ₹2,500 per month every year. However, recipients of the State Cultural Award are entitled to financial assistance to the extent of ₹3,200 per month every year."
             },
             {
                 "question": "Who is eligible to apply for assistance under the Kala Samman Scheme?",
@@ -84,5 +84,6 @@
             "Culture",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000955"
 }

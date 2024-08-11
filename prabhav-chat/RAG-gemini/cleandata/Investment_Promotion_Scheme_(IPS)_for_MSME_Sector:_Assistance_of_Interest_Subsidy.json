@@ -7,7 +7,7 @@
         "beneficiary": "MSMEs",
         "details": "The scheme 'Assistance of Interest Subsidy' is a sub scheme under the 'Investment Promotion Scheme (IPS)' for MSME Sector. It was launched on 3rd July, 2015 for a period of five years and has been extended further from 20th May, 2022 to 19th May, 2027. The scheme aims to provide incentives and assistance to the MSME Sector to nurture them and protect them from market vagaries.",
         "benefits": [
-            "50% Subsidy of interest charged by the Bank with an upper ceiling of \u20b930,00,000/- per annum for a period of 5 years OR for the period of repayment of loan whichever is earlier.",
+            "50% Subsidy of interest charged by the Bank with an upper ceiling of ₹30,00,000/- per annum for a period of 5 years OR for the period of repayment of loan whichever is earlier.",
             "10% additional interest subsidy to differently abled entrepreneurs, women entrepreneurs and registered Start up in manufacturing/service sector.",
             "10% additional subsidy to young entrepreneurs below the age of 35 years on the date of sanction of term loan."
         ],
@@ -82,5 +82,6 @@
             "Reimbursement",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000913"
 }

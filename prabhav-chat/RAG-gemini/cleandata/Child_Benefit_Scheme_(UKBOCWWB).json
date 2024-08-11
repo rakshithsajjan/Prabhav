@@ -5,18 +5,18 @@
         "department": "Labour Department, Government of Uttarakhand",
         "type": "Social Security Scheme",
         "beneficiary": "Children of registered building & construction workers",
-        "details": "The \u201cChild Benefit Scheme\u201d is a social security scheme implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, financial assistance is provided to the children of registered building & construction workers who are enrolled in classes ranging from Class I to higher education levels or professional courses.",
+        "details": "The “Child Benefit Scheme” is a social security scheme implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, financial assistance is provided to the children of registered building & construction workers who are enrolled in classes ranging from Class I to higher education levels or professional courses.",
         "benefits": [
-            "Financial assistance for education for Class I to V: \u20b91,800/- per year",
-            "Financial assistance for education for Class VI to X: \u20b92,400/- per year",
-            "Financial assistance for education for Class XI to XII: \u20b93,000/- per year",
-            "Financial assistance for Graduation/Post Graduation or equivalent: \u20b910,000/- per year",
+            "Financial assistance for education for Class I to V: ₹1,800/- per year",
+            "Financial assistance for education for Class VI to X: ₹2,400/- per year",
+            "Financial assistance for education for Class XI to XII: ₹3,000/- per year",
+            "Financial assistance for Graduation/Post Graduation or equivalent: ₹10,000/- per year",
             "Course fee for ITI, Polytechnic, and higher education courses payable to Government Institutions/Colleges"
         ],
         "eligibility": [
             "The applicant should be a resident of Uttarakhand.",
             "The applicant should be engaged in any building or construction work.",
-            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board.",
             "The workers will become eligible for assistance only after three months from their registration under the Board.",
             "The applicant should have an active membership of the Board.",
             "The son or daughter of the applicant/registered worker should be enrolled in any grade from Class I up to higher education or professional course.",
@@ -32,7 +32,7 @@
             "Ration card",
             "Certificate issued by Gram Panchayat officer, village head, or councilor.",
             "Self-declaration Certificate",
-            "Nominee\u2019s Identity proof i.e. Aadhaar Card",
+            "Nominee’s Identity proof i.e. Aadhaar Card",
             "Bank account details",
             "Any other document as required"
         ],
@@ -47,7 +47,7 @@
         "faqs": [
             {
                 "question": "Who implements the scheme?",
-                "answer": "The Child Benefit Scheme is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), under the Labour Department, Government of Uttarakhand."
+                "answer": "The Child Benefit Scheme is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB), under the Labour Department, Government of Uttarakhand."
             },
             {
                 "question": "What are the benefits provided under the scheme?",
@@ -55,19 +55,19 @@
             },
             {
                 "question": "How much financial assistance is provided for Class I to V?",
-                "answer": "For Class I to V, the yearly financial assistance provided is \u20b91,800/-."
+                "answer": "For Class I to V, the yearly financial assistance provided is ₹1,800/-."
             },
             {
                 "question": "What about financial assistance for Class VI to X?",
-                "answer": "For Class VI to X, the yearly financial assistance provided is \u20b92,400/-."
+                "answer": "For Class VI to X, the yearly financial assistance provided is ₹2,400/-."
             },
             {
                 "question": "Is there financial assistance available for Class XI to XII students?",
-                "answer": "Yes, students in Class XI to XII are eligible for \u20b93,000/- per year."
+                "answer": "Yes, students in Class XI to XII are eligible for ₹3,000/- per year."
             },
             {
                 "question": "What is the financial assistance for Graduation/Post Graduation or equivalent courses?",
-                "answer": "For Graduation/Post Graduation or equivalent courses, the yearly financial assistance is \u20b910,000/-."
+                "answer": "For Graduation/Post Graduation or equivalent courses, the yearly financial assistance is ₹10,000/-."
             },
             {
                 "question": "Are ITI, Polytechnic, and higher education courses covered under the scheme?",
@@ -87,7 +87,7 @@
             },
             {
                 "question": "Is there a cost for registration under UKBOCWWB?",
-                "answer": "Registration is free for three years. Afterward, a \u20b9100/- contribution is required every three years."
+                "answer": "Registration is free for three years. Afterward, a ₹100/- contribution is required every three years."
             },
             {
                 "question": "Can the status of registration application be tracked online?",
@@ -124,5 +124,6 @@
                 "url": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
             }
         ]
-    }
+    },
+    "id": "000309"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Active scientists",
         "details": "The J.C. Bose Fellowship is meant to recognize active scientists for their outstanding performance. The fellowship is scientist-specific and very selective.",
         "benefits": [
-            "Personnel Fellowship of \u20b925,000/- per month",
-            "Research Grant of \u20b915.00 Lakh per annum",
-            "\u20b91.00 Lakh provided as Overheads for the host institute"
+            "Personnel Fellowship of ₹25,000/- per month",
+            "Research Grant of ₹15.00 Lakh per annum",
+            "₹1.00 Lakh provided as Overheads for the host institute"
         ],
         "eligibility": [
             "Active scientist with a record of outstanding performance apparent from the award of SS Bhatnagar prize and/or fellowship of science academies",
@@ -56,5 +56,6 @@
             "Research",
             "Indian Scientists"
         ]
-    }
+    },
+    "id": "000923"
 }

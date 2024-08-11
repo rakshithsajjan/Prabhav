@@ -17,7 +17,7 @@
             "Anyone is eligible to apply under the scheme."
         ],
         "exclusions": [],
-        "application_process": "Offline. Step 01: Interested beneficiary can get in touch with District Agriculture Officer / Block Agriculture Officer to apply for the scheme. Step 02: SLSC will finalise the entrepreneur\u2019s proposals received from the districts. The allocation of funds to the States would be made on the basis of their Annual Action Plan (AAP). Step 03: State government shall sanction and release funds to the district. Step 04: District agriculture department will allocate funds to individual beneficiaries.",
+        "application_process": "Offline. Step 01: Interested beneficiary can get in touch with District Agriculture Officer / Block Agriculture Officer to apply for the scheme. Step 02: SLSC will finalise the entrepreneur’s proposals received from the districts. The allocation of funds to the States would be made on the basis of their Annual Action Plan (AAP). Step 03: State government shall sanction and release funds to the district. Step 04: District agriculture department will allocate funds to individual beneficiaries.",
         "documents_required": [
             "ID Proof",
             "Land documents",
@@ -27,7 +27,7 @@
         "faqs": [
             {
                 "question": "What is the fund flow mechanism for the scheme?",
-                "answer": "Release of Central and States\u2019 share for this scheme will be through PFMS system. Both the GoI and State share of funds shall be transferred through defined mechanism of PFMS."
+                "answer": "Release of Central and States’ share for this scheme will be through PFMS system. Both the GoI and State share of funds shall be transferred through defined mechanism of PFMS."
             },
             {
                 "question": "Is there a role of Panchayati Raj Institutions (PRIs) under the scheme?",
@@ -61,5 +61,6 @@
             "Agriculture",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001316"
 }

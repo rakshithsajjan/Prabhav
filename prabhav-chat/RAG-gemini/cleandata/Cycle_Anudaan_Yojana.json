@@ -7,7 +7,7 @@
         "beneficiary": "Construction Workers",
         "details": "Saikil Anudaan Yojana is an initiative by the Labour Department, Madhya Pradesh. Its aim is to provide transportation facilities to construction workers registered under the MP Building and Other Construction Workers Welfare Board. The government recognized that laborers working in Madhya Pradesh often have to travel long distances to reach their workplaces. Many of these laborers lack proper means of transportation to reach the work site, forcing them to rely on alternative methods and incur additional expenses. This, in turn, increases their financial burden.",
         "benefits": [
-            "Financial Assistance: 90 percent of actual expenditure or \u20b94,000/- whichever is less."
+            "Financial Assistance: 90 percent of actual expenditure or ₹4,000/- whichever is less."
         ],
         "eligibility": [
             "Applicant must be a registered construction worker of the division with a valid identity card.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "How much financial assistance will be provided?",
-                "answer": "Maximum 90% of actual expenditure or \u20b94,000/- whichever is less."
+                "answer": "Maximum 90% of actual expenditure or ₹4,000/- whichever is less."
             },
             {
                 "question": "Who can get the scheme benefits?",
@@ -80,5 +80,6 @@
             "Transportation",
             "Workers"
         ]
-    }
+    },
+    "id": "000349"
 }

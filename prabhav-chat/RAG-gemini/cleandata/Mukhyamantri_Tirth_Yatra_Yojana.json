@@ -5,7 +5,7 @@
         "department": "Directorate of Information, Public Relations & Languages, Government of Haryana",
         "type": "Subsidy",
         "beneficiary": "Senior Citizens",
-        "details": "The scheme 'Mukhyamantri Tirth Yatra Yojana' is implemented by the Directorate of Information, Public Relations & Languages, Government of Haryana. Under this scheme, members of families with an annual income of less than \u20b91.80 lakhs who are over 60 years of age will be taken for pilgrimages to Ayodhya, Varanasi, and other sacred places. The state government will bear all the expenses for their travel.",
+        "details": "The scheme 'Mukhyamantri Tirth Yatra Yojana' is implemented by the Directorate of Information, Public Relations & Languages, Government of Haryana. Under this scheme, members of families with an annual income of less than ₹1.80 lakhs who are over 60 years of age will be taken for pilgrimages to Ayodhya, Varanasi, and other sacred places. The state government will bear all the expenses for their travel.",
         "benefits": [
             "Facility for senior citizens to visit religious destinations such as Ayodhya, Varanasi, Nanded Sahib, Patna Sahib, Ajmer Sharif, and other such destinations in India.",
             "Ensures that constraints of travel and local arrangements do not hinder senior citizens from undertaking the journey.",
@@ -18,7 +18,7 @@
             "The applicant should possess a Parivar Pehchan Patra (PPP ID).",
             "The applicant should have completed 60 years of age (as on 1st January of the year in which the application is made).",
             "The applicant can avail the benefit of the scheme once every three years.",
-            "Family Income of the applicant from all known sources should be upto \u20b91,80,000/- per annum as verified by PPP.",
+            "Family Income of the applicant from all known sources should be upto ₹1,80,000/- per annum as verified by PPP.",
             "The attendant should be a bonafide resident of Haryana with Parivar Pehchan Patra (PPP ID)."
         ],
         "exclusions": [],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "Who is eligible for the scheme?",
-                "answer": "Bonafide residents of Haryana, aged 60 and above, with an annual family income up to \u20b91.80 lakhs, and possessing a Parivar Pehchan Patra (PPP ID)."
+                "answer": "Bonafide residents of Haryana, aged 60 and above, with an annual family income up to ₹1.80 lakhs, and possessing a Parivar Pehchan Patra (PPP ID)."
             },
             {
                 "question": "Is there an age relaxation for the accompanying spouse?",
@@ -88,5 +88,6 @@
             "Senior Citizen",
             "Tirth Yatra"
         ]
-    }
+    },
+    "id": "001238"
 }

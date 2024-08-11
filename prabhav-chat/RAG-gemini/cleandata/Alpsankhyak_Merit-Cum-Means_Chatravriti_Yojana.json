@@ -7,13 +7,13 @@
         "beneficiary": "Meritorious students from minority communities",
         "details": "The Alpsankhyak Merit-Cum-Means Chatravriti Yojana under the Higher Education Department of Madhya Pradesh aims to provide financial assistance to meritorious students from minority communities who are unable to pursue higher education due to financial constraints. The objective is to ensure that talented students from minority backgrounds have access to quality education and are not deterred by financial barriers. By offering scholarships based on both merit and means, the scheme intends to empower minority students to fulfill their academic potential and contribute positively to society. Additionally, it seeks to promote inclusivity and diversity in higher education by supporting students from marginalized communities.",
         "benefits": [
-            "Hostel students receive a maintenance allowance of \u20b91,000/- per month for 10 months.",
-            "Non-hostel students are provided with a maintenance allowance of \u20b9500/- per month for 10 months.",
-            "Reimbursement of actual course fees or \u20b920,000/- whichever is less."
+            "Hostel students receive a maintenance allowance of ₹1,000/- per month for 10 months.",
+            "Non-hostel students are provided with a maintenance allowance of ₹500/- per month for 10 months.",
+            "Reimbursement of actual course fees or ₹20,000/- whichever is less."
         ],
         "eligibility": [
             "The applicant should be a native of the minority category of Madhya Pradesh.",
-            "The total annual income of the parents and guardians of the applicant should not exceed \u20b92,50,000/-.",
+            "The total annual income of the parents and guardians of the applicant should not exceed ₹2,50,000/-.",
             "The applicants must have a score of at least 50 percent marks in the last qualifying examination."
         ],
         "exclusions": [],
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What is the income criteria to eligible?",
-                "answer": "The total annual income of the parents and guardians of the applicant should not exceed \u20b9 2,50,000/-."
+                "answer": "The total annual income of the parents and guardians of the applicant should not exceed ₹ 2,50,000/-."
             },
             {
                 "question": "Who is eligible to apply for this scholarship?",
@@ -85,5 +85,6 @@
             "Higher Education",
             "Scholarships"
         ]
-    }
+    },
+    "id": "000077"
 }

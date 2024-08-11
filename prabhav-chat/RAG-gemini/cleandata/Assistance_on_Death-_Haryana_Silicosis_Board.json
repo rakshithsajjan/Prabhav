@@ -5,9 +5,9 @@
         "department": "Haryana Labour Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Worker",
-        "details": "The 'Assistance on Death' scheme, implemented by the Haryana Labour Welfare Board, Government of Haryana, provides financial assistance of \u20b91,00,000/- in the event of the death of a Silicosis victim. If the deceased was married, the assistance will be payable to the widow or widower. If the deceased was unmarried, the amount will be given to their nominee.",
+        "details": "The 'Assistance on Death' scheme, implemented by the Haryana Labour Welfare Board, Government of Haryana, provides financial assistance of ₹1,00,000/- in the event of the death of a Silicosis victim. If the deceased was married, the assistance will be payable to the widow or widower. If the deceased was unmarried, the amount will be given to their nominee.",
         "benefits": [
-            "Under this scheme, in the event of the death of a Silicosis victim, financial assistance of \u20b91,00,000/- will be provided.",
+            "Under this scheme, in the event of the death of a Silicosis victim, financial assistance of ₹1,00,000/- will be provided.",
             "If the deceased was married, the assistance will be payable to the widow or widower.",
             "If the deceased was unmarried, the financial assistance will be given to the nominee."
         ],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What kind of financial assistance is provided under the scheme?",
-                "answer": "A financial assistance of \u20b91,00,000/- is provided."
+                "answer": "A financial assistance of ₹1,00,000/- is provided."
             },
             {
                 "question": "Who receives the financial assistance if the deceased Silicosis victim was married?",
@@ -84,5 +84,6 @@
             "Silicosis",
             "Worker"
         ]
-    }
+    },
+    "id": "000126"
 }

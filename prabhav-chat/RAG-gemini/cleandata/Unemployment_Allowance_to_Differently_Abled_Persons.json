@@ -7,9 +7,9 @@
         "beneficiary": "Differently Abled Person",
         "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, has implemented the 'Unemployment Allowance Scheme for Differently Abled Persons.' This initiative aims to provide targeted financial support to registered job seekers with disabilities who have been actively seeking employment through the employment exchange for a minimum of one year. Recognizing the distinct challenges faced by this population group in securing suitable employment, the program seeks to alleviate the economic burdens associated with unemployment and foster self-sufficiency during their job search. This intervention ultimately contributes to a more inclusive workforce by empowering differently-abled individuals to actively pursue their career goals.",
         "benefits": [
-            "For SSLC (Secondary School Leaving Certificate) and below: \u20b9600/- per month.",
-            "For Higher Secondary Course: \u20b9750/- per month.",
-            "For Degree and above: \u20b91,000/- per month."
+            "For SSLC (Secondary School Leaving Certificate) and below: ₹600/- per month.",
+            "For Higher Secondary Course: ₹750/- per month.",
+            "For Degree and above: ₹1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be differently abled.",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "Is there an appeals process if an application is denied?",
-                "answer": "Grievances related to the allowance should be addressed to the Assistant Director (Placement), O/o. The Commissionerate for Welfare of the Differently Abled, No.5, Kamarajar Salai, Chennai \u2013 600 005."
+                "answer": "Grievances related to the allowance should be addressed to the Assistant Director (Placement), O/o. The Commissionerate for Welfare of the Differently Abled, No.5, Kamarajar Salai, Chennai – 600 005."
             },
             {
                 "question": "Are there any educational requirements to qualify?",
@@ -86,5 +86,6 @@
             "Social Welfare",
             "Unemployment"
         ]
-    }
+    },
+    "id": "001988"
 }

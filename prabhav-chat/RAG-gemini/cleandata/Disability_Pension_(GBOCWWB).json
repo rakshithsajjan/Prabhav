@@ -5,10 +5,10 @@
         "department": "Department of Labour and Employment",
         "type": "Welfare Scheme",
         "beneficiary": "Workers with permanent disabilities",
-        "details": "'Disability Pension (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the worker who is permanently disabled due to Paralysis / Leprosy / Tuberculosis(TB) / Accident is provided with financial assistance of \u20b9300/- per month, and an ex-gratia payment of not more than \u20b910,000/-, depending on the percentage of the disability.",
+        "details": "'Disability Pension (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the worker who is permanently disabled due to Paralysis / Leprosy / Tuberculosis(TB) / Accident is provided with financial assistance of ₹300/- per month, and an ex-gratia payment of not more than ₹10,000/-, depending on the percentage of the disability.",
         "benefits": [
-            "Financial Assistance of \u20b9300/- per month.",
-            "An ex-gratia payment of not more than \u20b910,000/-, depending on the percentage of the disability."
+            "Financial Assistance of ₹300/- per month.",
+            "An ex-gratia payment of not more than ₹10,000/-, depending on the percentage of the disability."
         ],
         "eligibility": [
             "The applicant should be a Worker.",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             }
         ],
         "sources": [
@@ -102,5 +102,6 @@
             "Labour",
             "PwD"
         ]
-    }
+    },
+    "id": "000401"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Micro and small enterprises in the textile sector",
         "details": "The scheme 'Incentive for Energy Efficiency' is a sub scheme under 'West Bengal Textile Incentive Scheme'. It was launched on 13 December, 2022, and shall remain valid for five years. The objective is to extend fiscal incentives to the textile sector across the entire value chain starting from fibre to stitched garments for setting up such units in the State.",
         "benefits": [
-            "50% reimbursement subject to a maximum of \u20b92,00,000/- for the cost of energy audit.",
-            "25% reimbursement subject to a maximum of \u20b910,00,000/- for the cost of installations for energy conservation."
+            "50% reimbursement subject to a maximum of ₹2,00,000/- for the cost of energy audit.",
+            "25% reimbursement subject to a maximum of ₹10,00,000/- for the cost of installations for energy conservation."
         ],
         "eligibility": [
             "Industries in the manufacturing and processing of textiles, apparel and technical textiles products.",
@@ -65,5 +65,6 @@
             "Textile",
             "Waiver"
         ]
-    }
+    },
+    "id": "002044"
 }

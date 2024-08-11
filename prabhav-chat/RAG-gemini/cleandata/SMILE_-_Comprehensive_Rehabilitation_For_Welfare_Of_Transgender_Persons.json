@@ -7,7 +7,7 @@
         "beneficiary": "Transgender students",
         "details": "Financial assistance in the form of scholarships is provided to Transgender students studying in secondary school (IX & X) & senior secondary school (XI & XII) to reduce the incidence of dropout and support their educational aspirations.",
         "benefits": [
-            "A sum of \u20b913,500/- shall be given as post-matric / pre-matric scholarships to eligible transgender students once every year."
+            "A sum of ₹13,500/- shall be given as post-matric / pre-matric scholarships to eligible transgender students once every year."
         ],
         "eligibility": [
             "The student should have a Transgender Certificate issued through the National Portal for Transgender person of the Ministry of Social Justice & Empowerment.",
@@ -22,7 +22,7 @@
             "Self-attested passport-size photograph of the student",
             "Transgender Identity Certificate issued through the National portal for transgender persons of the Ministry of Social Justice & Empowerment.",
             "A declaration by the parents/guardians, stating that their ward is not availing such scholarship in any other scheme of Centre/ State Government for education.",
-            "Certificate of previous academic year\u2019s mark sheet attested by the Institute.",
+            "Certificate of previous academic year’s mark sheet attested by the Institute.",
             "Self-attested copy of Aadhaar Card",
             "Transfer certificate in case the student has migrated to another.",
             "Institute verification form duly attested by the school/college/institute."
@@ -58,5 +58,6 @@
                 "url": "https://www.myscheme.gov.in/schemes/smile-scholarship"
             }
         ]
-    }
+    },
+    "id": "001620"
 }

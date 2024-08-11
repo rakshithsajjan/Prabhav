@@ -7,7 +7,7 @@
         "beneficiary": "Women Students, Scholars, Social Activists, Teachers",
         "details": "The Ministry of Women and Child Development launched the Internship Programme aims to tap the talent of the interns, giving them an opportunity to work for infusing further efficiency in implementation of schemes as also deliberate on its policies through different assignments. The Internship Programme would provide a common platform for meaningful interaction and space for research related to Government programs/initiatives. This Programme is expected to yield promptness in bridging possible information gaps pertaining to issues and problems of women and children in the country.",
         "benefits": [
-            "Each intern would be provided a lump sum stipend of \u20b920,000/- per month and reimbursement of travel cost (by Deluxe/AC Bus/3 Tier AC Train) for joining of the programme in the Ministry and return back home at the end of the programme.",
+            "Each intern would be provided a lump sum stipend of ₹20,000/- per month and reimbursement of travel cost (by Deluxe/AC Bus/3 Tier AC Train) for joining of the programme in the Ministry and return back home at the end of the programme.",
             "Interns proceeding on tour as part of the programme would be reimbursed travel cost (by Deluxe/AC Bus/3 Tier AC Train) and DA as per extant Government of India rates.",
             "The interns would also be awarded a certificate on successful completion of the programme on terms such as submission/presentation of papers/reports of the work done.",
             "Interns would be provided a hostel facility on a sharing basis for the duration of their programme in Delhi.",
@@ -33,7 +33,7 @@
         ],
         "faqs": [
             {
-                "question": "What Is The Purpose Of The \u2018Internship Programme\u2019 launched by The Ministry of Women and Child Development?",
+                "question": "What Is The Purpose Of The ‘Internship Programme’ launched by The Ministry of Women and Child Development?",
                 "answer": "The Ministry of Women and Child Development's 'Internship Programme' aims to engage interns in enhancing scheme implementation and policy discussions, particularly focusing on issues concerning women and children in India."
             },
             {
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What Benefits Are Provided To Interns Participating In The Programme?",
-                "answer": "Interns receive a lump sum stipend of \u20b920,000 per month, travel cost reimbursement, hostel accommodation, logistic support."
+                "answer": "Interns receive a lump sum stipend of ₹20,000 per month, travel cost reimbursement, hostel accommodation, logistic support."
             },
             {
                 "question": "Will An Internship Certificate Also Be Provided To The Interns?",
@@ -97,5 +97,6 @@
             "Social Activism",
             "Education"
         ]
-    }
+    },
+    "id": "000897"
 }

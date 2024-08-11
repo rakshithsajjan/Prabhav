@@ -7,7 +7,7 @@
         "beneficiary": "Artist",
         "details": "The scheme 'Goa State Cultural Award' by the Directorate of Art and Culture, Government of Goa, has been designed to honour the eminent personalities in the field of Art and culture. The scheme intends to give recognition to the Goan artists par excellence for their lifetime achievements and for their extraordinary contribution to the field of Art and culture in Goa.",
         "benefits": [
-            "The awardee shall be honoured with a shawl, a sriphal, a certificate of appreciation and a financial purse to the extent of \u20b9 1,00,000/- per individual.",
+            "The awardee shall be honoured with a shawl, a sriphal, a certificate of appreciation and a financial purse to the extent of ₹ 1,00,000/- per individual.",
             "Monthly financial assistance as provided under the scheme of Kala Samman."
         ],
         "eligibility": [
@@ -87,5 +87,6 @@
             "Awards",
             "Goa"
         ]
-    }
+    },
+    "id": "000686"
 }

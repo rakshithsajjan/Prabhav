@@ -5,9 +5,9 @@
         "department": "Department of Social Justice and Empowerment of Persons with Disabilities",
         "type": "Pension Scheme",
         "beneficiary": "Unmarried women above 50 years of age",
-        "details": "Madhya Pradesh government has started the 'Mukhyamantri Avivahit Pension Yojana' to help unmarried women who are alone. The government will provide a pension of \u20b9 600 every month to help them live independently and improve their social and economic status.",
+        "details": "Madhya Pradesh government has started the 'Mukhyamantri Avivahit Pension Yojana' to help unmarried women who are alone. The government will provide a pension of ₹ 600 every month to help them live independently and improve their social and economic status.",
         "benefits": [
-            "Pension amount: \u20b9 600/- per month."
+            "Pension amount: ₹ 600/- per month."
         ],
         "eligibility": [
             "Applicants should be a native of Madhya Pradesh State.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the financial benefit amount?",
-                "answer": "Pension amount: \u20b9 600/- per month."
+                "answer": "Pension amount: ₹ 600/- per month."
             },
             {
                 "question": "Is the scholarship amount given every month?",
@@ -80,5 +80,6 @@
             "Financial Assistance",
             "Unmarried"
         ]
-    }
+    },
+    "id": "001193"
 }

@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "Pension for Journalists\u2019 Family",
+        "title": "Pension for Journalists’ Family",
         "state": "Tamil Nadu",
         "department": "Tamil Development, Religious Endowments, and Information Department",
         "type": "Pension",
         "beneficiary": "Spouse of deceased journalist",
-        "details": "The 'Pension for Journalists\u2019 Family' was launched by the Tamil Development, Religious Endowments, and Information Department, Government of Tamil Nadu in 1998. The scheme aims to give a monthly pension to the wife of a deceased journalist pensioner.",
+        "details": "The 'Pension for Journalists’ Family' was launched by the Tamil Development, Religious Endowments, and Information Department, Government of Tamil Nadu in 1998. The scheme aims to give a monthly pension to the wife of a deceased journalist pensioner.",
         "benefits": [
-            "Pension Amount of \u20b92,000/- per month."
+            "Pension Amount of ₹2,000/- per month."
         ],
         "eligibility": [
             "The benefit of the scheme will be given only on the death of the journalist.",
@@ -30,7 +30,7 @@
             },
             {
                 "question": "How much is the pension amount under this scheme?",
-                "answer": "The pension amount under the Journalists Family Pension Scheme is \u20b92000/- per month."
+                "answer": "The pension amount under the Journalists Family Pension Scheme is ₹2000/- per month."
             },
             {
                 "question": "Who is eligible to apply for the Journalists Family Pension Scheme?",
@@ -85,5 +85,6 @@
             "Tamil Nadu",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001436"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Social Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Near relatives of eye donors",
-        "details": "The scheme 'Incentive For Eye Donors' by the Department of Social Welfare, Government of Puducherry was introduced to create awareness among the public about the eye donation and to pay an amount of incentive to the donors of eye. In this scheme, an amount \u20b9 10,000/- per beneficiary is provided to the near relatives of the eye donor. The applicant should apply within 90 days after the transplantation.",
+        "details": "The scheme 'Incentive For Eye Donors' by the Department of Social Welfare, Government of Puducherry was introduced to create awareness among the public about the eye donation and to pay an amount of incentive to the donors of eye. In this scheme, an amount ₹ 10,000/- per beneficiary is provided to the near relatives of the eye donor. The applicant should apply within 90 days after the transplantation.",
         "benefits": [
-            "\u20b9 10,000/- per beneficiary is provided to the near relatives of the eye donor."
+            "₹ 10,000/- per beneficiary is provided to the near relatives of the eye donor."
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
@@ -29,7 +29,7 @@
         "faqs": [
             {
                 "question": "What is the maximum amount of monetary benefit that a beneficiary can receive through this scheme?",
-                "answer": "The maximum amount of monetary benefit that a beneficiary can receive through this scheme is \u20b9 10,000/-."
+                "answer": "The maximum amount of monetary benefit that a beneficiary can receive through this scheme is ₹ 10,000/-."
             },
             {
                 "question": "Is the amount provided to the eye donor or to one of their relatives?",
@@ -112,5 +112,6 @@
             "Incentive",
             "Medical"
         ]
-    }
+    },
+    "id": "000810"
 }

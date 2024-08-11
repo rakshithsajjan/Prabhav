@@ -5,10 +5,10 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Loan",
         "beneficiary": "Registered construction workers",
-        "details": "The scheme 'Assistance for Purchase of House' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, interest free loan is provided to registered construction workers, who have minimum five year\u2019s regular membership, for purchase or construction of their houses. This facility is available once in a lifetime.",
+        "details": "The scheme 'Assistance for Purchase of House' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, interest free loan is provided to registered construction workers, who have minimum five year’s regular membership, for purchase or construction of their houses. This facility is available once in a lifetime.",
         "benefits": [
-            "Interest-free loan of up to \u20b92,00,000/- for the purchase or construction of houses.",
-            "Financial assistance in the shape of interest compensation up to \u20b91,00,000/- through banks for beneficiaries of Pradhan Mantri Awaas Yojana."
+            "Interest-free loan of up to ₹2,00,000/- for the purchase or construction of houses.",
+            "Financial assistance in the shape of interest compensation up to ₹1,00,000/- through banks for beneficiaries of Pradhan Mantri Awaas Yojana."
         ],
         "eligibility": [
             "The applicant should be registered under the Haryana Building & Other Construction Workers Welfare Board.",
@@ -35,11 +35,11 @@
         "faqs": [
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "Registered construction workers can avail of interest-free loans of up to \u20b92,00,000/- for the purchase or construction of their houses."
+                "answer": "Registered construction workers can avail of interest-free loans of up to ₹2,00,000/- for the purchase or construction of their houses."
             },
             {
                 "question": "Is there any additional financial assistance available for beneficiaries of the Pradhan Mantri Awaas Yojana (PMAY)?",
-                "answer": "Yes, beneficiaries of PMAY can receive additional financial assistance in the form of interest compensation of up to \u20b91,00,000/- through banks for house construction."
+                "answer": "Yes, beneficiaries of PMAY can receive additional financial assistance in the form of interest compensation of up to ₹1,00,000/- through banks for house construction."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "Is there any registration fee required when registering under HBOCWWB?",
-                "answer": "Registration fee \u20b925/- once in a life-time and \u20b95/- per month (\u20b960/- P.A.) as subscription fee shall be paid to the Board by the beneficiary."
+                "answer": "Registration fee ₹25/- once in a life-time and ₹5/- per month (₹60/- P.A.) as subscription fee shall be paid to the Board by the beneficiary."
             }
         ],
         "sources": [
@@ -104,5 +104,6 @@
             "Labour",
             "Loan"
         ]
-    }
+    },
+    "id": "000120"
 }

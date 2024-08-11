@@ -5,9 +5,9 @@
         "department": "Industries and Commerce Department",
         "type": "Subsidy",
         "beneficiary": "Industries installing pollution control equipment",
-        "details": "'Subsidy to Pollution Control Equipment' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Capital Intensive Industries' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, the units which are installing pollution control equipment will be granted subsidy @ 25% up to a max. of \u20b95,00,000/-. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Subsidy to Pollution Control Equipment' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Capital Intensive Industries' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, the units which are installing pollution control equipment will be granted subsidy @ 25% up to a max. of ₹5,00,000/-. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Subsidy of 25%, up to a maximum of \u20b95,00,000/-",
+            "Subsidy of 25%, up to a maximum of ₹5,00,000/-",
             "Assistance based on expenditure incurred and eligible assets created towards installation of pollution control equipment"
         ],
         "eligibility": [
@@ -24,7 +24,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
+            "Engineer’s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
             "Registered Lease Agreement for the Building Executed Between the Developer and the Unit.",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
@@ -109,5 +109,6 @@
                 "url": "https://industry.py.gov.in/state-helpline"
             }
         ]
-    }
+    },
+    "id": "001879"
 }

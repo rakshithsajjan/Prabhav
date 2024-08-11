@@ -7,7 +7,7 @@
         "beneficiary": "Persons With Disability",
         "details": "The scheme 'The Andaman & Nicobar Islands Disability Allowance Scheme' is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to the differently able unemployed persons with 40% disability or more in the Andaman and Nicobar Islands.",
         "benefits": [
-            "The quantum of Disability Allowance shall be \u20b92500/- per month subject to eligibility.",
+            "The quantum of Disability Allowance shall be ₹2500/- per month subject to eligibility.",
             "The financial assistance sanction shall be payable to a disabled person till his/her death subject to the conditions.",
             "Disability allowance shall become payable from the month following the one in which it is sanctioned.",
             "Payment of allowance shall be made through Bank Account on a monthly basis."
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the benefits offered under the scheme?",
-                "answer": "The benefits include a monthly allowance of \u20b92500/- and continued assistance until the death of the disabled person."
+                "answer": "The benefits include a monthly allowance of ₹2500/- and continued assistance until the death of the disabled person."
             },
             {
                 "question": "How long is the financial assistance provided?",
@@ -113,5 +113,6 @@
             "PwD",
             "Unemployed"
         ]
-    }
+    },
+    "id": "001946"
 }

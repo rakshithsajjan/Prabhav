@@ -35,11 +35,11 @@
             },
             {
                 "question": "What are the award details for state-level rankers?",
-                "answer": "For Standard X, the first three students receive \u20b941,000/-, \u20b921,000/-, and \u20b911,000/-. For Standard XII, the prizes are \u20b931,000/-, \u20b921,000/-, and \u20b911,000/- respectively."
+                "answer": "For Standard X, the first three students receive ₹41,000/-, ₹21,000/-, and ₹11,000/-. For Standard XII, the prizes are ₹31,000/-, ₹21,000/-, and ₹11,000/- respectively."
             },
             {
                 "question": "What are the award details for district-level rankers?",
-                "answer": "For Standard X, the first three students receive \u20b96,000/-, \u20b95,000/-, and \u20b94,000/-. For Standard XII, the prizes are \u20b96,000/-, \u20b95,000/-, and \u20b94,000/- respectively."
+                "answer": "For Standard X, the first three students receive ₹6,000/-, ₹5,000/-, and ₹4,000/-. For Standard XII, the prizes are ₹6,000/-, ₹5,000/-, and ₹4,000/- respectively."
             },
             {
                 "question": "Who is eligible for these cash prizes?",
@@ -78,5 +78,6 @@
             "Cash Prize",
             "Gujarat"
         ]
-    }
+    },
+    "id": "000157"
 }

@@ -7,11 +7,11 @@
         "beneficiary": "Families of registered workers who die while in service",
         "details": "The 'Raja Harishchandra Shramik Mrityu Antim Sanskar Sahayata Yojana' (RHSMASSSY) is a scheme launched by the Government of Uttar Pradesh to provide financial assistance to the families of registered workers who die while in service. The scheme's purpose is to alleviate the financial burden on these families during a difficult time and help them with the final rites of the deceased worker.",
         "benefits": [
-            "Financial Assistance: \u20b910,000/-"
+            "Financial Assistance: ₹10,000/-"
         ],
         "eligibility": [
             "Workers should be working in an establishment registered under the Factories Act, 1948.",
-            "The monthly salary of the worker (basic salary + dearness allowance) should not exceed \u20b915,000/-.",
+            "The monthly salary of the worker (basic salary + dearness allowance) should not exceed ₹15,000/-.",
             "It is mandatory to apply within one year from the date of death of the worker.",
             "Financial assistance will be payable to the worker's spouse or dependent (son/unmarried daughter), mother/father in case the worker is unmarried."
         ],
@@ -34,7 +34,7 @@
             },
             {
                 "question": "How much financial benefits are provided under the scheme?",
-                "answer": "Financial Assistance of \u20b910,000/- will be provided."
+                "answer": "Financial Assistance of ₹10,000/- will be provided."
             },
             {
                 "question": "What is the employment eligibility criteria?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What the financial eligibility criteria?",
-                "answer": "The applicant worker's monthly salary (basic pay + dearness allowance) should not exceed \u20b915,000/-."
+                "answer": "The applicant worker's monthly salary (basic pay + dearness allowance) should not exceed ₹15,000/-."
             },
             {
                 "question": "What is procedure to get the scheme benefits?",
@@ -80,5 +80,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001557"
 }

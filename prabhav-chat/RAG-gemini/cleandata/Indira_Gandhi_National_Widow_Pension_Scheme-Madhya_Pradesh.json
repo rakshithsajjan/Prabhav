@@ -7,7 +7,7 @@
         "beneficiary": "Widows",
         "details": "Launched in the year 2009, the scheme 'Indira Gandhi National Widow Pension Scheme (IGNWPS)' is a Centrally Sponsored Scheme by the Department of Social Justice and Empowerment of Persons with Disabilities, Government of Madhya Pradesh. Under this scheme, financial support is provided to the widows of the state of Sikkim. A widow whose household is below the poverty line is eligible to get the benefits of the pension scheme. The beneficiary receives a monthly pension amount consists of the Central and State governments' share.",
         "benefits": [
-            "The beneficiary will get a monthly pension of \u20b9 600/-."
+            "The beneficiary will get a monthly pension of ₹ 600/-."
         ],
         "eligibility": [
             "The applicant should be a domicile of the state of Madhya Pradesh.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the amount of pension provided under the Indira Gandhi National Widow Pension Scheme?",
-                "answer": "The amount of pension varies from state to state and is subject to revision by the respective state governments. Generally, it ranges from \u20b9600/- per month."
+                "answer": "The amount of pension varies from state to state and is subject to revision by the respective state governments. Generally, it ranges from ₹600/- per month."
             },
             {
                 "question": "How can widows apply for benefits under the Indira Gandhi National Widow Pension Scheme?",
@@ -76,5 +76,6 @@
             "Widow",
             "Women"
         ]
-    }
+    },
+    "id": "000840"
 }

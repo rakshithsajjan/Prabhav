@@ -7,8 +7,8 @@
         "beneficiary": "Citizens who have passed Class 8th and are above the age of 18 years",
         "details": "The scheme 'Entrepreneurship Programme' is a Suo-Moto Sub-Scheme of the Ministry of Tourism under the Umbrella Scheme of 'Capacity Building for Service Providers (CBSP)'. In this scheme, financial assistance is provided to the institutes to conduct entrepreneurship development programmes. The programme has 150 Hours of courses in five trades: Cook - Tandoor, Barman, Baker, Homestay (Multi-Skilled Caretaker), and Halwai - Indian Sweets.",
         "benefits": [
-            "Courses in five trades: Cook \u2013 Tandoor, Barman, Baker, Homestay (Multi-Skilled Caretaker), Halwai \u2013 Indian Sweets",
-            "Lump-sum stipend of \u20b9 1,000/- for trainees with a minimum attendance of 80%",
+            "Courses in five trades: Cook – Tandoor, Barman, Baker, Homestay (Multi-Skilled Caretaker), Halwai – Indian Sweets",
+            "Lump-sum stipend of ₹ 1,000/- for trainees with a minimum attendance of 80%",
             "Certification for trainees who pass the end-of-course test",
             "Employment facilitation for self-employment opportunities"
         ],
@@ -17,7 +17,7 @@
             "The applicant should be above the age of 18 years"
         ],
         "exclusions": [],
-        "application_process": "Offline. Eligible candidates can obtain application forms from the Institute office or from the Institute's Website. The application fee is \u20b9 100/- for general candidates, \u20b9 50/- for Women and Physically Handicapped, and no fees for SC/ST candidates.",
+        "application_process": "Offline. Eligible candidates can obtain application forms from the Institute office or from the Institute's Website. The application fee is ₹ 100/- for general candidates, ₹ 50/- for Women and Physically Handicapped, and no fees for SC/ST candidates.",
         "documents_required": [
             "Proof of Identity",
             "Proof of Residence",
@@ -47,5 +47,6 @@
             "Skill",
             "Training"
         ]
-    }
+    },
+    "id": "000237"
 }

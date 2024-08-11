@@ -7,7 +7,7 @@
         "beneficiary": "Spouse of registered male or female construction worker",
         "details": "The scheme 'Financial Assistance for the Purchase of Sewing Machine' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance will be given to the spouse of a registered male construction worker or female construction worker for the purchase of a sewing machine, once in a lifetime.",
         "benefits": [
-            "Financial assistance of \u20b93500/- will be given to the spouse of a registered male construction worker or female construction worker for the purchase of a sewing machine, once in a lifetime."
+            "Financial assistance of ₹3500/- will be given to the spouse of a registered male construction worker or female construction worker for the purchase of a sewing machine, once in a lifetime."
         ],
         "eligibility": [
             "The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contribution towards labour welfare fund should regularly been received by the Board.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the amount of financial assistance provided under the scheme?",
-                "answer": "The scheme offers a one-time financial assistance of \u20b93500/- to the eligible spouse of a registered male construction worker or female construction worker for the purchase of a sewing machine."
+                "answer": "The scheme offers a one-time financial assistance of ₹3500/- to the eligible spouse of a registered male construction worker or female construction worker for the purchase of a sewing machine."
             },
             {
                 "question": "How often can an individual avail of this financial assistance?",
@@ -88,5 +88,6 @@
                 "url": "http://labour.chd.gov.in/pdf/LWB.pdf"
             }
         ]
-    }
+    },
+    "id": "000584"
 }

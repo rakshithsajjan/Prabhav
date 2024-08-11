@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste Students",
         "details": "The scheme 'Coaching Assistance to Scheduled Castes Students for Preparation of Examination Like IIM, NIFT, NLU, CEPT' was launched by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. Under the scheme, financial assistance is provided to Students of the Scheduled Castes category who are preparing for examinations like IIM, NIFT, NLU, and CEPT.",
         "benefits": [
-            "Under this scheme, \u20b920,000/- or the actual coaching fee to be paid, whichever is less."
+            "Under this scheme, ₹20,000/- or the actual coaching fee to be paid, whichever is less."
         ],
         "eligibility": [
             "The students should belong to Scheduled Caste Category.",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What are the benefits provided to eligible students?",
-                "answer": "Eligible students receive financial assistance of \u20b920,000/- or the actual coaching fee, whichever is lower."
+                "answer": "Eligible students receive financial assistance of ₹20,000/- or the actual coaching fee, whichever is lower."
             },
             {
                 "question": "What are the eligibility criteria for coaching institutes?",
@@ -94,5 +94,6 @@
                 "url": "https://esamajkalyan.gujarat.gov.in/ApplicationForm/SJEDSC/IIMApplicantDetailReport.pdf"
             }
         ]
-    }
+    },
+    "id": "000315"
 }

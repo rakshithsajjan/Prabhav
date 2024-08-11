@@ -5,10 +5,10 @@
         "department": "Labour Welfare Department, Government of Assam",
         "type": "Pension",
         "beneficiary": "Building Workers, Construction Workers",
-        "details": "The scheme \u201cDisability Pension\u201d was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, the Board provides financial assistance as disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, TB, accident, etc. In addition to this pension, he/she will be eligible for a one-time Ex-gratia payment depending upon the percentage of disability and subject to such conditions as fixed by the Board.",
+        "details": "The scheme “Disability Pension” was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, the Board provides financial assistance as disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, TB, accident, etc. In addition to this pension, he/she will be eligible for a one-time Ex-gratia payment depending upon the percentage of disability and subject to such conditions as fixed by the Board.",
         "benefits": [
-            "A monthly disability pension of \u20b92,000/- plus \u20b9100/- per month for every completed year of service from the year of registration.",
-            "A one-time Ex-gratia payment of not more than \u20b93.00 Lakhs depending upon the percentage of disability."
+            "A monthly disability pension of ₹2,000/- plus ₹100/- per month for every completed year of service from the year of registration.",
+            "A one-time Ex-gratia payment of not more than ₹3.00 Lakhs depending upon the percentage of disability."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Assam.",
@@ -54,11 +54,11 @@
             },
             {
                 "question": "How is the monthly disability pension calculated?",
-                "answer": "The monthly disability pension is fixed at \u20b92,000, and an additional \u20b9100 is granted for every completed year of service from the year of registration."
+                "answer": "The monthly disability pension is fixed at ₹2,000, and an additional ₹100 is granted for every completed year of service from the year of registration."
             },
             {
                 "question": "What is the one-time Ex-gratia payment, and how is it determined?",
-                "answer": "The one-time ex-gratia payment is a lump sum amount provided to the beneficiary based on the percentage of disability. The specific amount is subject to conditions set by the Board and may not exceed \u20b93.00 Lakhs."
+                "answer": "The one-time ex-gratia payment is a lump sum amount provided to the beneficiary based on the percentage of disability. The specific amount is subject to conditions set by the Board and may not exceed ₹3.00 Lakhs."
             },
             {
                 "question": "Can a beneficiary avail both the monthly disability pension and the one-time Ex-gratia payment?",
@@ -102,5 +102,6 @@
             "Construction Worker",
             "Labour"
         ]
-    }
+    },
+    "id": "000400"
 }

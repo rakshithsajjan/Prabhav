@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Welfare Scheme",
         "beneficiary": "Nominees/Dependents of deceased Construction Workers",
-        "details": "The 'Accidental Death Benefit Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. This scheme extends financial assistance of \u20b92,25,000/- to the nominees/dependents of the deceased Construction Worker, apart from the \u20b92,00,000/- extended through the Life Insurance Corporation (LIC). The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/dependent. The applications are accepted offline.",
+        "details": "The 'Accidental Death Benefit Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. This scheme extends financial assistance of ₹2,25,000/- to the nominees/dependents of the deceased Construction Worker, apart from the ₹2,00,000/- extended through the Life Insurance Corporation (LIC). The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/dependent. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance: \u20b92,25,000/-",
+            "Financial Assistance: ₹2,25,000/-",
             "Time of Disbursal: Within 15 days of the application",
             "Mode of Disbursal: Direct Benefit Transfer (DBT) into the bank account"
         ],
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the total financial support available to the nominees/dependents under the 'Accidental Death Benefit Scheme'?",
-                "answer": "The total financial support amounts to \u20b94,25,000, combining the \u20b92,25,000 from the scheme and \u20b92,00,000 from the Life Insurance Corporation (LIC)."
+                "answer": "The total financial support amounts to ₹4,25,000, combining the ₹2,25,000 from the scheme and ₹2,00,000 from the Life Insurance Corporation (LIC)."
             },
             {
                 "question": "Is there a specific timeframe for the disbursal of financial assistance under the 'Accidental Death Benefit Scheme'?",
@@ -86,5 +86,6 @@
             "Financial Assistance",
             "Worker"
         ]
-    }
+    },
+    "id": "000048"
 }

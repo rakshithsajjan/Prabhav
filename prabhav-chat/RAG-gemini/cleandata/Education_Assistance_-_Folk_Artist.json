@@ -7,14 +7,14 @@
         "beneficiary": "Student",
         "details": "The 'Education Assistance - Folk Artist' scheme was launched by the Art and Culture Department, Government of Tamil Nadu. This scheme provides financial assistance for the education of the children of registered folk artists. The assistance aims to support the educational pursuits of their children from school to higher education, including vocational and professional courses.",
         "benefits": [
-            "Girl and Boy children studying 10th - \u20b91,000/-",
-            "Girl children studying 11th - \u20b91,000/-",
-            "Girl and Boy children studying 12th - \u20b91,500/-",
-            "Regular Degree Course with Hostel facility - \u20b93,250/-",
-            "Regular Post Graduate Course with Hostel facility - \u20b95,000/-",
-            "Professional Degree Course with Hostel facility - \u20b96,000/-",
-            "Professional PG Course with Hostel facility - \u20b910,000/-",
-            "ITI or Polytechnic Course with Hostel Facility - \u20b92,200/-"
+            "Girl and Boy children studying 10th - ₹1,000/-",
+            "Girl children studying 11th - ₹1,000/-",
+            "Girl and Boy children studying 12th - ₹1,500/-",
+            "Regular Degree Course with Hostel facility - ₹3,250/-",
+            "Regular Post Graduate Course with Hostel facility - ₹5,000/-",
+            "Professional Degree Course with Hostel facility - ₹6,000/-",
+            "Professional PG Course with Hostel facility - ₹10,000/-",
+            "ITI or Polytechnic Course with Hostel Facility - ₹2,200/-"
         ],
         "eligibility": [
             "The registered folk artist's son or daughter.",
@@ -62,11 +62,11 @@
             },
             {
                 "question": "Who is the appellate authority for this assistance?",
-                "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamilnadu Folk Artist\u2019s Welfare Board."
+                "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamilnadu Folk Artist’s Welfare Board."
             },
             {
                 "question": "What is the maximum amount of assistance provided for a professional postgraduate course with a hostel facility?",
-                "answer": "The maximum amount is \u20b96000 for a professional postgraduate course."
+                "answer": "The maximum amount is ₹6000 for a professional postgraduate course."
             },
             {
                 "question": "Are there any dues to the Board that affect eligibility?",
@@ -88,5 +88,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "000468"
 }

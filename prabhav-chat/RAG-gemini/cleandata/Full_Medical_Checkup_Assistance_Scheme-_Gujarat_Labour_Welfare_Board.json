@@ -5,11 +5,11 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Assistance",
         "beneficiary": "Male Shramyogis above 45 years and female Shram Yogis above 35 years working in the organized sector",
-        "details": "The \u201cFull Medical Checkup Assistance Scheme\u201d is implemented by the Gujarat Labour Welfare Board. The objective of the scheme is to conduct health check-ups for male Shramyogis above 45 years of age and female Shram Yogis above 35 years of age who are working in the organized sector in the state of Gujarat. Only those workers (Shramyogi) whose Labour Welfare Fund has been paid regularly by their organization/unit for the last one year will be eligible.",
+        "details": "The “Full Medical Checkup Assistance Scheme” is implemented by the Gujarat Labour Welfare Board. The objective of the scheme is to conduct health check-ups for male Shramyogis above 45 years of age and female Shram Yogis above 35 years of age who are working in the organized sector in the state of Gujarat. Only those workers (Shramyogi) whose Labour Welfare Fund has been paid regularly by their organization/unit for the last one year will be eligible.",
         "benefits": [
             "Health check-ups for eligible male and female Shramyogis.",
-            "Fixed amount of \u20b91950/- per worker for complete medical check-ups.",
-            "25% of the amount (\u20b9487.50) to be paid by the organization/company."
+            "Fixed amount of ₹1950/- per worker for complete medical check-ups.",
+            "25% of the amount (₹487.50) to be paid by the organization/company."
         ],
         "eligibility": [
             "Workers (Shramyogis) whose Labour Welfare Fund has been regularly paid by their organization/unit for the last one year.",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "How much is the fixed amount for the medical check-up?",
-                "answer": "The fixed amount is \u20b91950/- per employee, with the organization/company responsible for paying 25% of this amount."
+                "answer": "The fixed amount is ₹1950/- per employee, with the organization/company responsible for paying 25% of this amount."
             },
             {
                 "question": "Who is eligible to avail of the benefits under the scheme?",
@@ -90,5 +90,6 @@
             "Organized Worker",
             "Shramyogi"
         ]
-    }
+    },
+    "id": "000647"
 }

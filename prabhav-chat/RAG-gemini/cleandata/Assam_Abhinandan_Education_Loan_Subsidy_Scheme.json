@@ -5,20 +5,20 @@
         "department": "Finance Department, Govt. of Assam",
         "type": "Subsidy",
         "beneficiary": "Students pursuing higher education",
-        "details": "'Assam Abhinandan Education Loan Subsidy Scheme' was launched on 26 December 2019 by the Hon'ble Chief Minister of Assam. The scheme is managed by the Finance Department, Govt. of Assam. The govt. will provide a loan subsidy of up to \u20b9 50,000 on education loans to students pursuing higher education. This scheme would cover all commercial banks like the Federal Bank and HDFC and also the regional rural banks like Assam Gramin Vikash Bank within Assam. The objective of this scheme is to encourage students to pursue higher studies by providing subsidies on education loans. The applicant students can apply for the subsidy by paying 25% of their loans. Only the students who are permanent residents of the state of Assam can apply to this scheme.",
+        "details": "'Assam Abhinandan Education Loan Subsidy Scheme' was launched on 26 December 2019 by the Hon'ble Chief Minister of Assam. The scheme is managed by the Finance Department, Govt. of Assam. The govt. will provide a loan subsidy of up to ₹ 50,000 on education loans to students pursuing higher education. This scheme would cover all commercial banks like the Federal Bank and HDFC and also the regional rural banks like Assam Gramin Vikash Bank within Assam. The objective of this scheme is to encourage students to pursue higher studies by providing subsidies on education loans. The applicant students can apply for the subsidy by paying 25% of their loans. Only the students who are permanent residents of the state of Assam can apply to this scheme.",
         "benefits": [
-            "Loan subsidy of up to \u20b9 50,000/- per student"
+            "Loan subsidy of up to ₹ 50,000/- per student"
         ],
         "eligibility": [
             "The applicant student should be a permanent resident of Assam.",
             "The Education Loan should have been availed from any Scheduled Commercial Bank or Regional Rural Bank within the state recognized by the Reserve Bank of India.",
-            "The education loan should be a minimum of \u20b9 1,00,000."
+            "The education loan should be a minimum of ₹ 1,00,000."
         ],
         "exclusions": [],
         "application_process": "Online",
         "documents_required": [
             "Passport Sized Photograph of the Student",
-            "Student\u2019s Aadhaar Card",
+            "Student’s Aadhaar Card",
             "Proof of Identity of the Parents",
             "Bank Loan Documents",
             "Proof of Address",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Subsidy That I Can Receive On The Loan?",
-                "answer": "The govt. will provide a loan subsidy of up to \u20b9 50,000 on education loans to students pursuing higher education."
+                "answer": "The govt. will provide a loan subsidy of up to ₹ 50,000 on education loans to students pursuing higher education."
             },
             {
                 "question": "Does This Scheme Also Cover The Federal Bank And HDFC Bank?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What Should Be The Minimum Amount Of The Education Loan?",
-                "answer": "The education loan should be a minimum of \u20b9 1,00,000."
+                "answer": "The education loan should be a minimum of ₹ 1,00,000."
             },
             {
                 "question": "Can I Apply Offline To This Scheme?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What Documents Are Required In Order To Apply?",
-                "answer": "The following documents are required - \u2022 Passport Sized Photograph of the Student \u2022 Student\u2019s Aadhaar Card \u2022 Proof of Identity of the Parents \u2022 Bank Loan Documents \u2022 Proof of Address \u2022 Residential/Domicile Certificate \u2022 Marksheets / Passing Certificate of the Previous Educational Qualification \u2022 PAN Card \u2022 Bank Details"
+                "answer": "The following documents are required - • Passport Sized Photograph of the Student • Student’s Aadhaar Card • Proof of Identity of the Parents • Bank Loan Documents • Proof of Address • Residential/Domicile Certificate • Marksheets / Passing Certificate of the Previous Educational Qualification • PAN Card • Bank Details"
             },
             {
                 "question": "How Can I Check The Status Of My Application?",
@@ -88,5 +88,6 @@
             "Loan",
             "Student"
         ]
-    }
+    },
+    "id": "000103"
 }

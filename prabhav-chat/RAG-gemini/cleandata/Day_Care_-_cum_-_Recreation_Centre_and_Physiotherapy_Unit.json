@@ -5,7 +5,7 @@
         "department": "Department of Social Welfare",
         "type": "Grant-in-Aid",
         "beneficiary": "Senior Citizens",
-        "details": "The sub-scheme \u201cDay Care - cum - Recreation Centre and Physiotherapy Unit\" under the umbrella scheme \"Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)\" was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, the senior citizens are provided free physiotherapy given by the physiotherapist, as advised by the doctors.",
+        "details": "The sub-scheme “Day Care - cum - Recreation Centre and Physiotherapy Unit\" under the umbrella scheme \"Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)\" was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, the senior citizens are provided free physiotherapy given by the physiotherapist, as advised by the doctors.",
         "benefits": [
             "Free Physiotherapy given by the Physiotherapist, as advised by the Doctors."
         ],
@@ -97,5 +97,6 @@
             "Senior Citizen",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000356"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Individuals aged 18 to 50 years",
         "details": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is an insurance scheme offering life insurance cover for death due to any reason. It is a one-year cover, renewable from year to year. The scheme is offered by banks/post offices and administered through life insurance companies. All individuals who are account holders of participating banks/post offices in the age group of 18 to 50 years are entitled to join.",
         "benefits": [
-            "One-year term life cover of \u20b9 2.00 Lakh to all the subscribers in the age group of 18-50 years.",
+            "One-year term life cover of ₹ 2.00 Lakh to all the subscribers in the age group of 18-50 years.",
             "Covers death due to any reason.",
-            "Premium payable is \u20b9 436/- per annum per subscriber, to be auto debited from the subscriber\u2019s bank/post office account."
+            "Premium payable is ₹ 436/- per annum per subscriber, to be auto debited from the subscriber’s bank/post office account."
         ],
         "eligibility": [
             "The age of the applicant must be between 18 to 50 Years.",
@@ -24,7 +24,7 @@
         "faqs": [
             {
                 "question": "How do I pay the premium for PMJJBY?",
-                "answer": "The premium will be deducted from the account holder\u2019s bank/Post office account through \u2018auto debit\u2019 facility."
+                "answer": "The premium will be deducted from the account holder’s bank/Post office account through ‘auto debit’ facility."
             },
             {
                 "question": "What is the validity of the insurance cover in PMJJBY?",
@@ -32,7 +32,7 @@
             },
             {
                 "question": "Is delayed enrolment for prospective cover possible under this scheme?",
-                "answer": "Yes. Delayed enrolment for prospective cover is possible on payment of premium as described below \u2013 a) For enrolment in June, July and August \u2013 Full Annual Premium of Rs.436/- is payable. b) For enrolment in September, October, and November \u2013premium of Rs. 342/- is payable c) For enrolment in December, January and February \u2013premium of Rs. 228/- is payable. d) For enrolment in March, April and May \u2013premium of Rs. 114/- is payable."
+                "answer": "Yes. Delayed enrolment for prospective cover is possible on payment of premium as described below – a) For enrolment in June, July and August – Full Annual Premium of Rs.436/- is payable. b) For enrolment in September, October, and November –premium of Rs. 342/- is payable c) For enrolment in December, January and February –premium of Rs. 228/- is payable. d) For enrolment in March, April and May –premium of Rs. 114/- is payable."
             },
             {
                 "question": "If I decide to exit the scheme, is there any possibility that I can rejoin at a later point of time?",
@@ -74,5 +74,6 @@
             "Life Cover",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001490"
 }

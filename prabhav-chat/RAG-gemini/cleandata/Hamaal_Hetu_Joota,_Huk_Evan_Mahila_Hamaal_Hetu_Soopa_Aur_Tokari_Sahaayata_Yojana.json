@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Hamaal Hetu Joota, Huk Evan Mahila Hamaal Hetu Soopa Aur Tokari Sahaayata Yojana' for unorganized worker on 11 March 2015. The main objective of the scheme to empower unorganized worker by providing financial assistance.",
         "benefits": [
-            "For shoe, hook for lifting sack for Hamal and soup and basket for female Hamal: \u20b9 500/- per beneficiary."
+            "For shoe, hook for lifting sack for Hamal and soup and basket for female Hamal: ₹ 500/- per beneficiary."
         ],
         "eligibility": [
             "Applicant should be registered in any district of the state.",
@@ -32,7 +32,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "For shoe, hook for lifting sack for Hamal and soup and basket for female Hamal: \u20b9 500/- per beneficiary."
+                "answer": "For shoe, hook for lifting sack for Hamal and soup and basket for female Hamal: ₹ 500/- per beneficiary."
             },
             {
                 "question": "Who can get the benefits?",
@@ -78,5 +78,6 @@
             "Financial Assistance",
             "Welfare"
         ]
-    }
+    },
+    "id": "000758"
 }

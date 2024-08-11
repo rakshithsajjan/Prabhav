@@ -5,9 +5,9 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Allowance",
         "beneficiary": "Families with solely girl child/children",
-        "details": "Launched on 1st January 2006, the scheme 'Ladli Social Security Allowance Scheme' is a flagship social-security scheme by the Department of Social Justice and Empowerment, Government of Haryana. Through this scheme, the eligible family receives benefits for 15 years after either of the two parents completes 45 years of age. A sum of \u20b92,750/- per month per family is provided to the families who have solely girl child/children. The parent(s) should be either domicile of Haryana or should be working for the Government of Haryana.",
+        "details": "Launched on 1st January 2006, the scheme 'Ladli Social Security Allowance Scheme' is a flagship social-security scheme by the Department of Social Justice and Empowerment, Government of Haryana. Through this scheme, the eligible family receives benefits for 15 years after either of the two parents completes 45 years of age. A sum of ₹2,750/- per month per family is provided to the families who have solely girl child/children. The parent(s) should be either domicile of Haryana or should be working for the Government of Haryana.",
         "benefits": [
-            "\u20b92,500/- per month for 15 years, after either of the two parents completes 45 years of age.",
+            "₹2,500/- per month for 15 years, after either of the two parents completes 45 years of age.",
             "The benefit will be paid to the mother. In case the mother is deceased, the benefit will be paid to the father.",
             "After 60 years the scheme will be converted to 'Old Age Samman Allowance' scheme."
         ],
@@ -15,7 +15,7 @@
             "The biological single parent/parents of the family should be domiciled in Haryana or should be working for the Government of Haryana.",
             "The family should have no son, whether biological or adopted.",
             "The family should have one or more girl children.",
-            "The gross annual income of the family, from all sources, should not exceed \u20b92,00,000/-."
+            "The gross annual income of the family, from all sources, should not exceed ₹2,00,000/-."
         ],
         "exclusions": [
             "The guardian or any parent of the child is employed by any Government or by any Local/Statutory Body or any organization substantially financed by any Government or Local/Statutory Body or who is drawing pension or family pension therefrom will not be eligible under the scheme."
@@ -32,7 +32,7 @@
         "faqs": [
             {
                 "question": "What is the 'Ladli Social Security Allowance Scheme'?",
-                "answer": "The scheme 'Ladli Social Security Allowance Scheme' is based on the pattern of an old age allowance scheme and under this scheme, a sum of \u20b92750/- per month, per family will be given by the state government to those families who have solely girl child/children."
+                "answer": "The scheme 'Ladli Social Security Allowance Scheme' is based on the pattern of an old age allowance scheme and under this scheme, a sum of ₹2750/- per month, per family will be given by the state government to those families who have solely girl child/children."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, a sum of \u20b92750/- per month, per family will be given by the state government to those families who have solely girl child/children."
+                "answer": "Under this scheme, a sum of ₹2750/- per month, per family will be given by the state government to those families who have solely girl child/children."
             },
             {
                 "question": "What is the age criterion of the scheme?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "What is the income criterion under the scheme?",
-                "answer": "The gross annual income from all sources of the family must not exceed \u20b92,00,000/- to be eligible for getting benefits under this scheme."
+                "answer": "The gross annual income from all sources of the family must not exceed ₹2,00,000/- to be eligible for getting benefits under this scheme."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -104,5 +104,6 @@
             "Girl",
             "Social Security"
         ]
-    }
+    },
+    "id": "001011"
 }

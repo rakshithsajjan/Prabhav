@@ -5,11 +5,11 @@
         "department": "Ministry of Education",
         "type": "Grant",
         "beneficiary": "Newly recruited faculty members",
-        "details": "The scheme 'Dr. D.S. Kothari Research Grant for Newly Recruited Faculty Members' is a research grant scheme by the University Grants Commission (UGC), Department of Higher Education (DoHE). The purpose of the research grant is to provide opportunities to regularly appointed faculty members of Universities/ Institutes/ Colleges to pursue research in their area(s). All teachers who are newly appointed at the level of Assistant Professor against permanent posts in the university shall be eligible to receive financial support under the scheme. The Assistant professor should possess a Ph.D. degree with a minimum of five (5) research papers to his / her credit, published in journals of international repute. There are 132 slots, and the tenure is 2 years. The quantum of support under the scheme is \u20b9 10,00,000.",
+        "details": "The scheme 'Dr. D.S. Kothari Research Grant for Newly Recruited Faculty Members' is a research grant scheme by the University Grants Commission (UGC), Department of Higher Education (DoHE). The purpose of the research grant is to provide opportunities to regularly appointed faculty members of Universities/ Institutes/ Colleges to pursue research in their area(s). All teachers who are newly appointed at the level of Assistant Professor against permanent posts in the university shall be eligible to receive financial support under the scheme. The Assistant professor should possess a Ph.D. degree with a minimum of five (5) research papers to his / her credit, published in journals of international repute. There are 132 slots, and the tenure is 2 years. The quantum of support under the scheme is ₹ 10,00,000.",
         "benefits": [
             "Tenure: 2 years",
             "Slots: 132",
-            "Financial Assistance: \u20b9 10,00,000",
+            "Financial Assistance: ₹ 10,00,000",
             "Grant can be utilized for purchasing items like minor equipment, consumables, contingencies, fieldwork, travel, etc."
         ],
         "eligibility": [
@@ -73,5 +73,6 @@
             "Higher Education",
             "UGC"
         ]
-    }
+    },
+    "id": "000435"
 }

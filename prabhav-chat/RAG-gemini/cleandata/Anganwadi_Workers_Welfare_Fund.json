@@ -7,8 +7,8 @@
         "beneficiary": "Anganwadi Workers/Helpers",
         "details": "Anganwadi Workers Welfare Fund is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand. The scheme aims to provide financial assistance to the anganwadi workers/helpers of the state on attaining the age of 60 years.",
         "benefits": [
-            "Minimum amount of \u20b930,000 /- will be given.",
-            "After completing 20 years of service \u20b91,30,000/- will be given.",
+            "Minimum amount of ₹30,000 /- will be given.",
+            "After completing 20 years of service ₹1,30,000/- will be given.",
             "There is a provision for an increase of 5 % per year on the deposit amount."
         ],
         "eligibility": [
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What kind of assistance can be availed through this scheme?",
-                "answer": "This scheme provides below mentioned benefits: 1. Minimum amount of \u20b9 30,000 /- will be given. 2. After completing 20 years of service \u20b9 1,30,000/- will be given. 3. There is a provision for an increase of 5 % per annum on the deposit amount."
+                "answer": "This scheme provides below mentioned benefits: 1. Minimum amount of ₹ 30,000 /- will be given. 2. After completing 20 years of service ₹ 1,30,000/- will be given. 3. There is a provision for an increase of 5 % per annum on the deposit amount."
             },
             {
                 "question": "What should be the age criteria for the beneficiaries?",
@@ -74,5 +74,6 @@
             "Uttarakhand",
             "Women Empowerment"
         ]
-    }
+    },
+    "id": "000083"
 }

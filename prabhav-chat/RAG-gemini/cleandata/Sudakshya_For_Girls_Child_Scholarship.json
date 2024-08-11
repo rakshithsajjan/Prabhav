@@ -8,10 +8,10 @@
         "details": "Many girl students left their academics after 10th due to various reasons. To encourage girls towards technical education, a new initiative has been started by the Odisha government. The name of the initiative is Sudakshya for Girls Child Scholarship. The scheme is run by officials under the guidelines of the Skill Development & Technical Education Department, Government of Odisha. Sudakshya for Girls Child Scholarship is specially designed for the General/ ST/ SC/ OBC/ SEBC/ EBC category girl child of Odisha state. Under this scholarship scheme, the government is going to provide financial help to the students. Girl students who win the award will get cash benefits. The scholarship is only for girls who are pursuing ITI courses in any trade.",
         "benefits": [
             "Reimbursement of Admission and Hostel Fee.",
-            "Maintenance Allowances will be given of \u20b91500/- per month for Hosteller and @Rs500/- for Day Scholar.",
-            "Reimbursable cost of uniform \u20b93000/-.",
-            "Maintenance Allowances@\u20b91000/- per month for Apprenticeship Training after ITI inside the state and \u20b91500/- per month for outside the state.",
-            "1 Month Maintenance Allowances of \u20b95000/- after completion of 6 months on Jobs outside the State."
+            "Maintenance Allowances will be given of ₹1500/- per month for Hosteller and @Rs500/- for Day Scholar.",
+            "Reimbursable cost of uniform ₹3000/-.",
+            "Maintenance Allowances@₹1000/- per month for Apprenticeship Training after ITI inside the state and ₹1500/- per month for outside the state.",
+            "1 Month Maintenance Allowances of ₹5000/- after completion of 6 months on Jobs outside the State."
         ],
         "eligibility": [
             "The applicant should be a resident of Odisha state.",
@@ -70,5 +70,6 @@
             "Odisha",
             "Technical Education"
         ]
-    }
+    },
+    "id": "001881"
 }

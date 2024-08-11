@@ -5,7 +5,7 @@
         "department": "Handloom Department, Govt. of Odisha",
         "type": "Financial Assistance",
         "beneficiary": "Handloom Weavers",
-        "details": "Launched on 7th August 2016 (National Handloom Day), by the Hon\u2019ble Minister of Textiles, the scheme 'Hathkargha Samvardhan Sahayata' aims to meet the needs of handloom weavers for assistance on a larger scale for looms and accessories. It aims to provide financial assistance for technological up-gradation to improve the quality of the fabric and productivity. Under HSS, financial assistance to the extent of 90% of the cost of technological up-gradation items shall be borne by the Govt. of India while the remaining 10% shall be borne by the beneficiary.",
+        "details": "Launched on 7th August 2016 (National Handloom Day), by the Hon’ble Minister of Textiles, the scheme 'Hathkargha Samvardhan Sahayata' aims to meet the needs of handloom weavers for assistance on a larger scale for looms and accessories. It aims to provide financial assistance for technological up-gradation to improve the quality of the fabric and productivity. Under HSS, financial assistance to the extent of 90% of the cost of technological up-gradation items shall be borne by the Govt. of India while the remaining 10% shall be borne by the beneficiary.",
         "benefits": [
             "Financial assistance of 90% of the cost of technological up-gradation items",
             "Support for various technological up-gradation items to improve fabric quality and productivity"
@@ -20,13 +20,13 @@
         "application_process": "Offline. The selection of beneficiaries shall be done through camps organized by the Weavers Service Centre (WSC).",
         "documents_required": [
             "Aadhar Card",
-            "Weavers\u2019 Identity card",
+            "Weavers’ Identity card",
             "Two passport-size photographs of the applicant"
         ],
         "faqs": [
             {
                 "question": "When Was 'Hathkargha Samvardhan Sahayata' Scheme Launched?",
-                "answer": "The 'Hathkargha Samvardhan Sahayata' scheme was launched on 7th August 2016 by the Hon\u2019ble Minister of Textiles."
+                "answer": "The 'Hathkargha Samvardhan Sahayata' scheme was launched on 7th August 2016 by the Hon’ble Minister of Textiles."
             },
             {
                 "question": "What Is The Aim Of This Scheme?",
@@ -56,5 +56,6 @@
             "Technology Upgradation",
             "Weaver"
         ]
-    }
+    },
+    "id": "000767"
 }

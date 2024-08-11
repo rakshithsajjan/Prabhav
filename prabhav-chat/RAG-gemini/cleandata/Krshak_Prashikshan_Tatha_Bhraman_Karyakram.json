@@ -7,10 +7,10 @@
         "beneficiary": "Farmers",
         "details": "The Krishak Parisharam Bhraman Karyakram Yojana under the Horticulture and Food Processing Department of Madhya Pradesh provides tours to different countries and states/divisions/districts/trends outside the development block to attract farmers towards the production of horticulture crops by giving tours regarding horticulture crops.",
         "benefits": [
-            "Farmer training within the state: \u20b91,000/- per farmer per month (maximum 7 days)",
-            "Farmer training outside the state: \u20b91,500/- per farmer per day",
-            "Exposure visit outside the state to observe new technology: \u20b91,500/- per farmer per day",
-            "Total of \u20b912,000/- for 20 trainees in one-day farmer training and tour, maximum expenditure per farmer is \u20b9500/- and honorarium to the host farmer is \u20b9100/-"
+            "Farmer training within the state: ₹1,000/- per farmer per month (maximum 7 days)",
+            "Farmer training outside the state: ₹1,500/- per farmer per day",
+            "Exposure visit outside the state to observe new technology: ₹1,500/- per farmer per day",
+            "Total of ₹12,000/- for 20 trainees in one-day farmer training and tour, maximum expenditure per farmer is ₹500/- and honorarium to the host farmer is ₹100/-"
         ],
         "eligibility": [
             "This scheme will apply to all sections",
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What financial benefits are provided?",
-                "answer": "Farmer training within the state: \u20b91,000/- per farmer per month (maximum 7 days), Farmer training outside the state: \u20b91,500/- per farmer per day, Exposure visit outside the state to observe new technology: \u20b91,500/- per farmer per day."
+                "answer": "Farmer training within the state: ₹1,000/- per farmer per month (maximum 7 days), Farmer training outside the state: ₹1,500/- per farmer per day, Exposure visit outside the state to observe new technology: ₹1,500/- per farmer per day."
             },
             {
                 "question": "How is education/training provided to the farmers?",
@@ -75,5 +75,6 @@
             "Financial Support",
             "Land"
         ]
-    }
+    },
+    "id": "000994"
 }

@@ -9,7 +9,7 @@
         "benefits": [
             "A memento",
             "A certificate of appreciation",
-            "A financial purse to the extent of \u20b9 1,00,000/- per individual"
+            "A financial purse to the extent of ₹ 1,00,000/- per individual"
         ],
         "eligibility": [
             "The applicant should be a Goan artist who has received any of the following National Awards: Sahitya Akademi Award, Sangeet Natak Akademi Award, Lalit Kala Akademi Award, Padma Award for the contribution to the field of art & culture, Bhartiya Dnyanpeeth Award, Saraswati Sanman, Sahitya Akademi Jivan Gaurav Puraskar, Sangeet Natak Academy Fellowship, or any other National or International Award recognized by the Government of Goa.",
@@ -79,5 +79,6 @@
             "Literature",
             "Music"
         ]
-    }
+    },
+    "id": "001850"
 }

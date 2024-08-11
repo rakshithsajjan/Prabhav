@@ -8,8 +8,8 @@
         "details": "The Government of Kerala approved the scheme 'One Family One Enterprise' to encourage entrepreneurial activity in every household and empower women's entrepreneurship. This scheme aims to set up at least one MSME unit including trade activity in each family. The MSMEs primarily rely on bank finance for their operations. Providing assistance in the early stage of the establishment of the enterprise will enhance the competency of the MSME unit. The scheme intends to provide interest subvention on Term loans and/or Working capital loans availed by MSME units from financial institutions viz. Nationalized Banks, Scheduled Banks, KSIDC, KFC, KSFE and Kerala Bank. The units engaged in manufacturing, service, and trading are eligible for the assistance. 50% of the beneficiaries under the scheme shall be women entrepreneurs.",
         "benefits": [
             "The assistance provided under this scheme shall be in the form of an interest subvention on a reimbursement basis.",
-            "All new MSMEs engaged in manufacturing, service, and trading activities shall be eligible for interest subvention on the interest charged by the financial institution on an approved project for loan amounts up to \u20b910 lakhs (for Term loan and/or working capital loan) for a period of five years from the date of disbursement of the 1st installment of the loan by the financial institution.",
-            "In a case where the loan amount exceeds \u20b910 Lakhs, the interest subvention shall be considered for loans up to \u20b910 Lakhs only.",
+            "All new MSMEs engaged in manufacturing, service, and trading activities shall be eligible for interest subvention on the interest charged by the financial institution on an approved project for loan amounts up to ₹10 lakhs (for Term loan and/or working capital loan) for a period of five years from the date of disbursement of the 1st installment of the loan by the financial institution.",
+            "In a case where the loan amount exceeds ₹10 Lakhs, the interest subvention shall be considered for loans up to ₹10 Lakhs only.",
             "The rate of subvention will be up to a maximum of 6%. The subvention will be the difference in the rate of interest charged by the financial institution and 4 %."
         ],
         "eligibility": [
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "The scheme envisages encouraging entrepreneurial activity in every household and promoting upcoming entrepreneurs in setting up enterprises through providing interest subvention for loan amounts up to \u20b910 lakh."
+                "answer": "The scheme envisages encouraging entrepreneurial activity in every household and promoting upcoming entrepreneurs in setting up enterprises through providing interest subvention for loan amounts up to ₹10 lakh."
             },
             {
                 "question": "Which is the implementing department of this scheme?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "All new MSMEs engaged in manufacturing, service, and trading activities shall be eligible for interest subvention on the interest charged by the financial institution on an approved project for loan amounts up to \u20b910 lakhs."
+                "answer": "All new MSMEs engaged in manufacturing, service, and trading activities shall be eligible for interest subvention on the interest charged by the financial institution on an approved project for loan amounts up to ₹10 lakhs."
             },
             {
                 "question": "What will be the maximum rate of subvention?",
@@ -101,5 +101,6 @@
                 "url": "http://ofoe.industry.kerala.gov.in/public/index.php/family"
             }
         ]
-    }
+    },
+    "id": "001383"
 }

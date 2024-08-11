@@ -5,12 +5,12 @@
         "department": "Department of Sainik Welfare",
         "type": "Grant",
         "beneficiary": "Ex-Servicemen and their Widows",
-        "details": "Funeral Grant is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, funeral Assistance of \u20b912,000/- or \u20b910,000/- is provided in the event of death of the ex-Serviceman (ESM) or of the Widow of the ESM respectively. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+        "details": "Funeral Grant is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, funeral Assistance of ₹12,000/- or ₹10,000/- is provided in the event of death of the ex-Serviceman (ESM) or of the Widow of the ESM respectively. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
         "benefits": [
-            "In case of death of the ESM, \u20b912,000/- is provided to the ESM's Widow.",
-            "In the case of the death of the Widow of the ESM, \u20b910,000/- is provided to a member of the ESM's family.",
+            "In case of death of the ESM, ₹12,000/- is provided to the ESM's Widow.",
+            "In the case of the death of the Widow of the ESM, ₹10,000/- is provided to a member of the ESM's family.",
             "The assistance is provided immediately on occurrence with permission for burial/cremation from the appropriate authority (Death Certificate not required).",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "In case of death of the ESM, the applicant should be the ESM's Widow.",
@@ -73,5 +73,6 @@
             "Ex-Servicemen",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000660"
 }

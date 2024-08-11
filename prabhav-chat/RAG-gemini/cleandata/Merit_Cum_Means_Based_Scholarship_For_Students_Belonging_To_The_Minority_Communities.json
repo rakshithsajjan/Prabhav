@@ -5,10 +5,10 @@
         "department": "Ministry Of Minority Affairs",
         "type": "Scholarship",
         "beneficiary": "Students belonging to minority communities",
-        "details": "A scholarship scheme by the Ministry of Minority Affairs for students from minority communities pursuing technical and professional courses at undergraduate and postgraduate levels in a listed institute. The scholarship will be awarded to the students who have secured not less than 50% marks (or equivalent grade) in the previous final examination and the annual income of their parents/guardian from all sources does not exceed \u20b92.50 lakh. The scheme aims to encourage parents from minority communities to lighten their financial burden on education and sustain their efforts to support their children to complete their education. A total of 60,000 scholarships are targeted to be distributed as \u2018Fresh\u2019 Scholarships, besides, Renewal scholarships.",
+        "details": "A scholarship scheme by the Ministry of Minority Affairs for students from minority communities pursuing technical and professional courses at undergraduate and postgraduate levels in a listed institute. The scholarship will be awarded to the students who have secured not less than 50% marks (or equivalent grade) in the previous final examination and the annual income of their parents/guardian from all sources does not exceed ₹2.50 lakh. The scheme aims to encourage parents from minority communities to lighten their financial burden on education and sustain their efforts to support their children to complete their education. A total of 60,000 scholarships are targeted to be distributed as ‘Fresh’ Scholarships, besides, Renewal scholarships.",
         "benefits": [
-            "Course Fee - \u20b920,000/- per annum subject to actuals whichever is less (for both Hosteller & Day Scholar)",
-            "Monthly Maintenance Allowance (for 10 months in an academic year) - \u20b91,000/- for Hosteller; \u20b9500/- for Day Scholar",
+            "Course Fee - ₹20,000/- per annum subject to actuals whichever is less (for both Hosteller & Day Scholar)",
+            "Monthly Maintenance Allowance (for 10 months in an academic year) - ₹1,000/- for Hosteller; ₹500/- for Day Scholar",
             "Full course fee is reimbursed for the listed Institutes"
         ],
         "eligibility": [
@@ -16,7 +16,7 @@
             "The applicant must belong to a Minority Community",
             "The applicant must be pursuing a technical or professional course at the undergraduate or postgraduate level",
             "The applicant must have secured not less than 50% marks (or equivalent grade) in the previous final examination",
-            "The annual income of parents/guardians of the applicant (from all sources): Less than or equal to \u20b92.5 Lakhs per Annum"
+            "The annual income of parents/guardians of the applicant (from all sources): Less than or equal to ₹2.5 Lakhs per Annum"
         ],
         "exclusions": [
             "If a student violates school discipline or any other terms and conditions of the scholarship, the scholarship may be suspended or canceled",
@@ -27,12 +27,12 @@
         ],
         "application_process": "Online",
         "documents_required": [
-            "Student\u2019s Photo",
+            "Student’s Photo",
             "Verification Form by the Institution",
             "Income Certificate, issued from a Competent Authority in the State/UT Govts is required in respect of parent/guardian of the student",
             "Self-Certified Community Certificate (if the applicant is greater than or equal to 18 years) or Community Certificate certified by parent/guardian",
             "Self-attested Mark Sheet of the last qualifying exam",
-            "Fee Receipt of \u2018Current Course Year\u2019",
+            "Fee Receipt of ‘Current Course Year’",
             "Bank Details (Account No., IFSC Code) of the applicant or Bank Details of the Parent/Guardian (if the student does not have his/her own bank account)",
             "Residential/Domicile Certificate",
             "Bonafide Student Certificate from the institute (if the institute is located in a State/UT different from domicile State/UT)",
@@ -61,7 +61,7 @@
             },
             {
                 "question": "Will the scholarship also be paid for the period of internship / housemanship in the M.B.B.S. course?",
-                "answer": "No. The scholarship won\u2019t be provided for that period."
+                "answer": "No. The scholarship won’t be provided for that period."
             },
             {
                 "question": "By when shall the scholarship become payable?",
@@ -112,5 +112,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001133"
 }

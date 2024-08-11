@@ -16,7 +16,7 @@
             "The applicant should be a Student at one of the following institutes: Government Dance College, Shree Shree Bal Mukunda Dev Music College, Imphal Art College, Manipur University of Culture, Jawaharlal Nehru Manipur Dance Academy, and Manipur University (Dance, Music, and Fine Art Department).",
             "The applicant should be pursuing a course in one of the art forms.",
             "The applicant should be below 30 years of age (age to be reckoned on 1st April).",
-            "The annual income of the parents, as well as the applicant, should be less than \u20b9 1,00,000/-."
+            "The annual income of the parents, as well as the applicant, should be less than ₹ 1,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Offline. The applicant should take print of the format of the application form provided in the scheme guidelines, fill in all the mandatory fields, attach all the (self-attested) required documents, and submit the duly filled-in application form to the Directorate of Art & Culture, Government of Manipur office at Palace Compound, Imphal along with a cover letter addressed to the Director (Art & Culture) latest by a month before the travel schedule.",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "Are There Any Income-Related Eligibility Criteria For This Scheme?",
-                "answer": "The annual income of the parents, as well as the applicant, should be less than \u20b9 1,00,000/-."
+                "answer": "The annual income of the parents, as well as the applicant, should be less than ₹ 1,00,000/-."
             },
             {
                 "question": "For What Purposes Can The Instruments/Equipment Be Utilized?",
@@ -101,7 +101,7 @@
                 "answer": "Yes, all the required documents that are to be attached to the application should be self-attested mandatorily."
             },
             {
-                "question": "Is This Scheme A \u201cOne Family, One Benefit\u201d Scheme?",
+                "question": "Is This Scheme A “One Family, One Benefit” Scheme?",
                 "answer": "No, there is no such mention in the scheme guidelines."
             },
             {
@@ -137,5 +137,6 @@
             "Financial Assistance",
             "Student"
         ]
-    }
+    },
+    "id": "000288"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Students from the Most Backward Castes among Scheduled Castes",
         "details": "The scheme 'Special Scholarship to Students Belonging to the Most Backward Castes among Scheduled Castes' is initiated by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. This scheme offers special scholarships to students from the Most Backward Castes among the Scheduled Castes category who are studying in Standards I to X. The Most Backward Castes eligible under the scheme in Gujarat state include Valmiki, Hadi, Nadia, Senva, Turi, Garo, Harijan-Bava, and Vanker-Sadhu, who are granted special scholarships.",
         "benefits": [
-            "For students in Standards I to VIII, the scholarship rate is \u20b91000 per year for both girls and boys.",
-            "For students in Standards IX to X, the scholarship rate is \u20b91500 per year for both girls and boys."
+            "For students in Standards I to VIII, the scholarship rate is ₹1000 per year for both girls and boys.",
+            "For students in Standards IX to X, the scholarship rate is ₹1500 per year for both girls and boys."
         ],
         "eligibility": [
             "The student should belong to the most backward castes among the scheduled castes of Gujarat.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "What are the benefits provided under this scholarship scheme?",
-                "answer": "For students in Standards I to VIII, the scholarship rate is \u20b91000 per year for both girls and boys. For students in Standards IX to X, the scholarship rate is \u20b91500 per year for both girls and boys."
+                "answer": "For students in Standards I to VIII, the scholarship rate is ₹1000 per year for both girls and boys. For students in Standards IX to X, the scholarship rate is ₹1500 per year for both girls and boys."
             },
             {
                 "question": "Who is eligible to apply for this scholarship?",
@@ -64,5 +64,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001831"
 }

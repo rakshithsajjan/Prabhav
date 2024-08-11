@@ -7,7 +7,7 @@
         "beneficiary": "Fishermen's families",
         "details": "The scheme 'Immediate Relief Assistance' is a Sub-Component under the scheme 'Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme'. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective of extending financial assistance to the fishermen's families to compensate for the loss due to the missing breadwinner and to support them financially to run their family.",
         "benefits": [
-            "\u20b9 1,00,000, in two installments of \u20b9 50,000 each, as immediate relief assistance for the family (legal heir) of the missing fisherman."
+            "₹ 1,00,000, in two installments of ₹ 50,000 each, as immediate relief assistance for the family (legal heir) of the missing fisherman."
         ],
         "eligibility": [
             "The applicant should be the family (legal heir) of the missing fisherman.",
@@ -27,9 +27,9 @@
             "Membership Certificate from the President/Administrator of Fishermen/Fisherwoman Co-operative Society.",
             "Electoral Identity Card (Attested Copy)",
             "Ration Card (Attested Copy)",
-            "Panchayathar\u2019s Letter of Village Concerned",
-            "Name, Relationship, and Address of the Legal Heir (Affidavit in \u20b9 5 Stamp Paper, Affixing as the Legal Heir Duly Signed in Before a Notary Public).",
-            "\u2018No Claim\u2019 Certificate in Respect of Financial Assistance Extended by the Revenue Department Should Be Obtained From the Department of Revenue and Disaster Management.",
+            "Panchayathar’s Letter of Village Concerned",
+            "Name, Relationship, and Address of the Legal Heir (Affidavit in ₹ 5 Stamp Paper, Affixing as the Legal Heir Duly Signed in Before a Notary Public).",
+            "‘No Claim’ Certificate in Respect of Financial Assistance Extended by the Revenue Department Should Be Obtained From the Department of Revenue and Disaster Management.",
             "FIR and Non-traceable Certificate From Respective Station House Officer of Police Department.",
             "Statement of Next Kin of Missing Person, Statement of Panchayathars, Statement of Persons Who Have Lastly Seen the Missing Person.",
             "Advertisement/newspaper Report of the Missing Person in Gazette in Tamil/local Newspaper, Municipality/ Commune Panchayat Office, Ration Shop, and Police Station in the Vernacular Language."
@@ -80,8 +80,8 @@
                 "answer": "It includes immediate family members such as husband/wife, children/step children, parents/widow daughter/sister, legal guardian of the minor, married daughters/widow daughter in law/widowed brothers."
             },
             {
-                "question": "How is the \u20b9 1,00,000 relief assistance distributed to the family (legal heir) of the missing fisherman?",
-                "answer": "The relief is disbursed in two installments of \u20b9 50,000 each, with the first installment released within 3 months, and the balance deposited in a joint account after the prescribed 9-month period."
+                "question": "How is the ₹ 1,00,000 relief assistance distributed to the family (legal heir) of the missing fisherman?",
+                "answer": "The relief is disbursed in two installments of ₹ 50,000 each, with the first installment released within 3 months, and the balance deposited in a joint account after the prescribed 9-month period."
             }
         ],
         "sources": [
@@ -109,5 +109,6 @@
             "Missing",
             "Relief"
         ]
-    }
+    },
+    "id": "000806"
 }

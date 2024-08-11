@@ -7,8 +7,8 @@
         "beneficiary": "Researchers",
         "details": "The programme 'Kerala Biotechnology Re-Entry Fellowship (K-BiREF)' is a fellowship programme to attract well-trained and highly skilled researchers with a good track record (Indian nationals) working abroad in various frontier areas in biotechnology (biomedical sciences, agriculture, veterinary science, bioengineering, energy, environment, bioinformatics, and other related areas) to research and academic institutions in Kerala, by providing them an attractive opportunity to pursue research and development in biotechnology. Applications will be screened by an Expert Committee and shortlisted candidates will be interviewed.",
         "benefits": [
-            "Fellow entitled for a monthly remuneration of \u20b91,00,000/- and \u20b918,500/- as HRA per month.",
-            "Annual research /contingency grant of \u20b97.5 lakh each for the first and second year and \u20b95 lakh each for the subsequent 3 years.",
+            "Fellow entitled for a monthly remuneration of ₹1,00,000/- and ₹18,500/- as HRA per month.",
+            "Annual research /contingency grant of ₹7.5 lakh each for the first and second year and ₹5 lakh each for the subsequent 3 years.",
             "Host Institution may provide medical benefits, transport allowance, and other benefits as per the prevailing norms applicable to their employees of the equivalent rank out of their own resources/ funds."
         ],
         "eligibility": [
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the monthly remuneration given to fellow?",
-                "answer": "Fellow entitled for a monthly remuneration of \u20b91,00,000/- and \u20b918,500/- as HRA per month."
+                "answer": "Fellow entitled for a monthly remuneration of ₹1,00,000/- and ₹18,500/- as HRA per month."
             },
             {
                 "question": "What is the annual research /contingency grant given under the programme?",
-                "answer": "Annual research /contingency grant of \u20b97.5 lakh each for the first and second year and \u20b95 lakh each for the subsequent 3 years."
+                "answer": "Annual research /contingency grant of ₹7.5 lakh each for the first and second year and ₹5 lakh each for the subsequent 3 years."
             },
             {
                 "question": "Is the fellowship taxable?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What is the procedure for selection of an applicant under the programme?",
-                "answer": "Applications will be screened by an expert committee consisting of experts nominated by the Commission. Short-listed candidates will have to appear for an interview /presentation which can be either in person or through Skype or similar tele-mode. Selected candidates have to execute an agreement accepting the terms and conditions of the Award and must join the Host Institution within three months\u2019 time."
+                "answer": "Applications will be screened by an expert committee consisting of experts nominated by the Commission. Short-listed candidates will have to appear for an interview /presentation which can be either in person or through Skype or similar tele-mode. Selected candidates have to execute an agreement accepting the terms and conditions of the Award and must join the Host Institution within three months’ time."
             }
         ],
         "sources": [
@@ -89,5 +89,6 @@
             "Research",
             "Researcher"
         ]
-    }
+    },
+    "id": "000975"
 }

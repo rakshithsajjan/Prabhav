@@ -33,7 +33,7 @@
             },
             {
                 "question": "What are the benefits of the NIKSHAY - TB Notification incentive for Private Sector scheme?",
-                "answer": "Private sector healthcare providers are eligible for a financial incentive of \u20b9 500 for notifying each TB case to the government."
+                "answer": "Private sector healthcare providers are eligible for a financial incentive of ₹ 500 for notifying each TB case to the government."
             },
             {
                 "question": "How the amount will be given?",
@@ -75,5 +75,6 @@
             "Tuberculosis",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001352"
 }

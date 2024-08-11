@@ -8,8 +8,8 @@
         "details": "The main objective of this scheme is to provide assistance to Voluntary Organizations that cater to the needs of destitute and orphaned children up to the age of 18 years.",
         "benefits": [
             "Financial assistance in the form of grants based on the number of destitute and orphaned children they admit and care for.",
-            "\u20b9 500/- per child per month for children housed in rented premises.",
-            "\u20b9 400/- per child per month for children housed on their own premises."
+            "₹ 500/- per child per month for children housed in rented premises.",
+            "₹ 400/- per child per month for children housed on their own premises."
         ],
         "eligibility": [
             "Voluntary Organizations that care for destitute and orphaned children.",
@@ -49,11 +49,11 @@
             },
             {
                 "question": "How much financial assistance is provided per child per month for children housed in rented premises?",
-                "answer": "Voluntary Organizations receive \u20b9 500/- per child per month for children housed in rented premises."
+                "answer": "Voluntary Organizations receive ₹ 500/- per child per month for children housed in rented premises."
             },
             {
                 "question": "What is the amount of financial assistance granted per child per month for children housed on their own premises?",
-                "answer": "Voluntary Organizations receive \u20b9 400/- per child per month for children housed on their own premises."
+                "answer": "Voluntary Organizations receive ₹ 400/- per child per month for children housed on their own premises."
             },
             {
                 "question": "What benefits are provided to registered Voluntary Organizations under this scheme?",
@@ -72,5 +72,6 @@
             "Financial Assistance",
             "Voluntary Organizations"
         ]
-    }
+    },
+    "id": "001671"
 }

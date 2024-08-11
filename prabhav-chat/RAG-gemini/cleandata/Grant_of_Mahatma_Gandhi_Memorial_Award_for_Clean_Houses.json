@@ -5,9 +5,9 @@
         "department": "Adi Dravidar Welfare Department",
         "type": "Grant",
         "beneficiary": "Scheduled Caste individuals",
-        "details": "The scheme 'Grant of Mahatma Gandhi Memorial Award for Clean Houses' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to motivate the Scheduled Caste people to keep their houses neat and tidy. Incentives in the form of household articles worth \u20b9500/- for each selected beneficiary is being given.",
+        "details": "The scheme 'Grant of Mahatma Gandhi Memorial Award for Clean Houses' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to motivate the Scheduled Caste people to keep their houses neat and tidy. Incentives in the form of household articles worth ₹500/- for each selected beneficiary is being given.",
         "benefits": [
-            "Incentives worth \u20b9500/- in the form of household articles."
+            "Incentives worth ₹500/- in the form of household articles."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -30,7 +30,7 @@
             },
             {
                 "question": "What are the benefits offered under this scheme?",
-                "answer": "Selected beneficiaries receive incentives in the form of household articles valued at \u20b9500."
+                "answer": "Selected beneficiaries receive incentives in the form of household articles valued at ₹500."
             },
             {
                 "question": "Who is eligible to apply for the scheme?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the monetary value of the incentives provided?",
-                "answer": "Beneficiaries receive household articles valued at \u20b9500 as incentives."
+                "answer": "Beneficiaries receive household articles valued at ₹500 as incentives."
             },
             {
                 "question": "Can individuals not belonging to the Scheduled Caste apply for the scheme?",
@@ -94,5 +94,6 @@
             "Sanitation",
             "Waste"
         ]
-    }
+    },
+    "id": "000730"
 }

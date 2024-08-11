@@ -7,7 +7,7 @@
         "beneficiary": "Dairy Farmers",
         "details": "Gopal Ratna Award Scheme by the Department of Animal Husbandry & Veterinary Services, Govt. of Goa. This scheme was introduced in order to honour the eminent personalities in the field of Dairy Farming. This scheme intends to appreciate the achievement of Dairy Farmers for the highest individual milk production by undertaking scientific Dairy Farming in the State of Goa and encouraging youth to take up the Dairy Business.",
         "benefits": [
-            "The selected dairy farmer shall be honoured with the 'Gopal Ratna Award' constituting a Certificate of Appreciation, Memento and cash prize of \u20b9 1,00,000/-.",
+            "The selected dairy farmer shall be honoured with the 'Gopal Ratna Award' constituting a Certificate of Appreciation, Memento and cash prize of ₹ 1,00,000/-.",
             "The award will be conferred upon the selected beneficiary on Independence Day i.e. 15th August at the hands of the Honourable Chief Minister of the State."
         ],
         "eligibility": [
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What are the benefits provided to the selected dairy farmer under the 'Gopal Ratna Award Scheme'?",
-                "answer": "The selected dairy farmer will be honored with the 'Gopal Ratna Award,' which includes a Certificate of Appreciation, a memento, and a cash prize of \u20b9 1,00,000. The award ceremony will take place on Independence Day, 15th August, and will be presented by the Honourable Chief Minister of the State."
+                "answer": "The selected dairy farmer will be honored with the 'Gopal Ratna Award,' which includes a Certificate of Appreciation, a memento, and a cash prize of ₹ 1,00,000. The award ceremony will take place on Independence Day, 15th August, and will be presented by the Honourable Chief Minister of the State."
             },
             {
                 "question": "Are there any exclusions or special conditions regarding posthumous awards under this scheme?",
@@ -80,5 +80,6 @@
             "Husbandry",
             "Milk"
         ]
-    }
+    },
+    "id": "000697"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Micro and small enterprises in the Powerloom sector",
         "details": "The scheme 'Subsidy for Water Conservation/ Environment Compliance' is a sub scheme under the 'Incentive Scheme for MSMEs in Powerloom Sector'. It was launched on 1st January, 2022, and shall remain valid up to 31st December, 2024. The objective is to extend fiscal incentives for installation of New age shuttleless Powerlooms by MSMEs in the Textile sector.",
         "benefits": [
-            "50% subsidy subject to a maximum of \u20b92,00,000/-"
+            "50% subsidy subject to a maximum of ₹2,00,000/-"
         ],
         "eligibility": [
             "The Scheme shall be generally applicable to all micro, small, and medium enterprises (MSMEs) in the powerloom sector.",
@@ -101,5 +101,6 @@
             "Waiver",
             "Water Conservation"
         ]
-    }
+    },
+    "id": "000819"
 }

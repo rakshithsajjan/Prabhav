@@ -5,12 +5,12 @@
         "department": "Social Welfare Department, Govt. of Manipur",
         "type": "Scholarship",
         "beneficiary": "Students with Disabilities",
-        "details": "'Chief Ministergi Shotharabasingi Tengbang (CMST): Scholarship of Students with Disabilities' is a Scholarship Scheme by the Social Welfare Department, Govt. of Manipur. In this scheme, the Students with Disability (SwD) who are a domicile of the State of Manipur, and are studying in Class 1st and above are awarded with scholarship of upto \u20b9 8,000/-. The student must be enrolled in a school/college/university/institution recognized by the Govt. of Manipur. The amount of the scholarship shall be disbursed directly into the bank account of the beneficiary.",
+        "details": "'Chief Ministergi Shotharabasingi Tengbang (CMST): Scholarship of Students with Disabilities' is a Scholarship Scheme by the Social Welfare Department, Govt. of Manipur. In this scheme, the Students with Disability (SwD) who are a domicile of the State of Manipur, and are studying in Class 1st and above are awarded with scholarship of upto ₹ 8,000/-. The student must be enrolled in a school/college/university/institution recognized by the Govt. of Manipur. The amount of the scholarship shall be disbursed directly into the bank account of the beneficiary.",
         "benefits": [
-            "Class: 1st to 5th; Rate of Scholarship (per annum): \u20b9 3,000/-",
-            "Class: 6th to 8th; Rate of Scholarship (per annum): \u20b9 4,000/-",
-            "Class: 9th to 12th; Rate of Scholarship (per annum): \u20b9 6,000/-",
-            "Graduate & Above (including all Technical Courses): \u20b9 8,000/-"
+            "Class: 1st to 5th; Rate of Scholarship (per annum): ₹ 3,000/-",
+            "Class: 6th to 8th; Rate of Scholarship (per annum): ₹ 4,000/-",
+            "Class: 9th to 12th; Rate of Scholarship (per annum): ₹ 6,000/-",
+            "Graduate & Above (including all Technical Courses): ₹ 8,000/-"
         ],
         "eligibility": [
             "The applicant should be a Person with Disability (PwD)",
@@ -21,7 +21,7 @@
             "The applicant should not be availing scholarship under any other similar scheme from any source"
         ],
         "exclusions": [],
-        "application_process": "Offline. The application form can be downloaded from the Department\u2019s website or collected from the District Social Welfare Offices, Office of CDPOs. The application forms are also available during MeeyamgiNumit at Chief Minister\u2019s Darbar Hall. Fill in the mandatory fields of the Application Form, attach the supporting (self-attested) documents and the passport sized photograph. Submit the form in the Office of the District Social Welfare Officer concerned.",
+        "application_process": "Offline. The application form can be downloaded from the Department’s website or collected from the District Social Welfare Offices, Office of CDPOs. The application forms are also available during MeeyamgiNumit at Chief Minister’s Darbar Hall. Fill in the mandatory fields of the Application Form, attach the supporting (self-attested) documents and the passport sized photograph. Submit the form in the Office of the District Social Welfare Officer concerned.",
         "documents_required": [
             "Disability Certificate (issued by the Competent Authority)",
             "Two passport photographs",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Scholarship That A Student Can Get Through This Scheme?",
-                "answer": "The maximum amount of scholarship that a student can get through this scheme is \u20b9 8,000/- per annum."
+                "answer": "The maximum amount of scholarship that a student can get through this scheme is ₹ 8,000/- per annum."
             },
             {
                 "question": "Will The Amount Of The Scholarship Be Disbursed In Installments Or As A Lump Sum?",
@@ -82,5 +82,6 @@
             "Social Welfare",
             "Student"
         ]
-    }
+    },
+    "id": "000292"
 }

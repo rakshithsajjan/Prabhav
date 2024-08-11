@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The 'Natural Death Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, financial assistance of \u20b91,00,000/- is provided to the nominees/dependents of the members in case of natural death of the worker. This assistance is available for all construction workers working on the construction site.",
+        "details": "The 'Natural Death Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, financial assistance of ₹1,00,000/- is provided to the nominees/dependents of the members in case of natural death of the worker. This assistance is available for all construction workers working on the construction site.",
         "benefits": [
-            "Financial assistance of \u20b91,00,000/- is provided to the nominees/dependents of the members in case of natural death of the worker."
+            "Financial assistance of ₹1,00,000/- is provided to the nominees/dependents of the members in case of natural death of the worker."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -65,5 +65,6 @@
             "Labour",
             "Construction Workers"
         ]
-    }
+    },
+    "id": "001341"
 }

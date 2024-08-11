@@ -7,14 +7,14 @@
         "beneficiary": "Indian Nationals and Overseas Citizens of India working in public funded institutions",
         "details": "The Abdul Kalam Technology Innovation National Fellowship was launched in 2017 to recognize, encourage, support, and promote translational research in engineering by Indian Nationals working in public funded institutions. The scheme aims to transfer fundamental research output into viable technological products/devices/components/processes. It is administered by the Science and Engineering Research Board (SERB) and implemented by the Indian National Academy of Engineering (INAE).",
         "benefits": [
-            "Fellowship amount of \u20b925,000/- per month in addition to regular income.",
-            "Research grant of \u20b915.00 lakh per annum.",
-            "Overhead of \u20b91.00 lakh per annum to the host institute."
+            "Fellowship amount of ₹25,000/- per month in addition to regular income.",
+            "Research grant of ₹15.00 lakh per annum.",
+            "Overhead of ₹1.00 lakh per annum to the host institute."
         ],
         "eligibility": [
             "Applicable to Indian nationals working in India in various capacities of engineering profession in publicly funded institutions.",
             "Applicable to Overseas Citizens of India working in permanent positions in publicly funded Institutions in India.",
-            "Applicant should possess adequate professional qualifications and hold at least a bachelor\u2019s degree with a proven outstanding track record in innovation or technology development.",
+            "Applicant should possess adequate professional qualifications and hold at least a bachelor’s degree with a proven outstanding track record in innovation or technology development.",
             "Applicant should have a minimum of five (5) years of service left in the parent organization as of the date of the award.",
             "Applicant should not be holding any other fellowship."
         ],
@@ -75,5 +75,6 @@
             "SERB",
             "Translational Research"
         ]
-    }
+    },
+    "id": "000039"
 }

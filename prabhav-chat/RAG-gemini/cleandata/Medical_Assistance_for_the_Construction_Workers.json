@@ -5,10 +5,10 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Welfare Scheme",
         "beneficiary": "Registered Construction Workers",
-        "details": "The 'Medical Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, the eligible workers of the board are provided with medical assistance upto \u20b9 10,000/- in case of being hospitalized for 05 or more days due to an accident or any disease.",
+        "details": "The 'Medical Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, the eligible workers of the board are provided with medical assistance upto ₹ 10,000/- in case of being hospitalized for 05 or more days due to an accident or any disease.",
         "benefits": [
-            "\u20b92,000/- for the first five days.",
-            "\u20b9200/- each for remaining days, upto a maximum of \u20b910,000/-, available from the date of registration."
+            "₹2,000/- for the first five days.",
+            "₹200/- each for remaining days, upto a maximum of ₹10,000/-, available from the date of registration."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -75,5 +75,6 @@
             "Financial Assistance",
             "Delhi"
         ]
-    }
+    },
+    "id": "001124"
 }

@@ -59,11 +59,11 @@
             },
             {
                 "question": "Is there any registration fee?",
-                "answer": "One-time registration fee as notified from time to time (currently, it is \u20b9 2,000/-) is to be paid to the Coordinating Institute."
+                "answer": "One-time registration fee as notified from time to time (currently, it is ₹ 2,000/-) is to be paid to the Coordinating Institute."
             },
             {
                 "question": "Is there any certification fee?",
-                "answer": "The module based certification fee as notified from time to time (currently \u20b9 1,000/- per module) is required to be paid to the Coordinating Institute for each module."
+                "answer": "The module based certification fee as notified from time to time (currently ₹ 1,000/- per module) is required to be paid to the Coordinating Institute for each module."
             },
             {
                 "question": "Who is eligible for this scheme?",
@@ -98,5 +98,6 @@
             "AICTE",
             "Inductee Teachers"
         ]
-    }
+    },
+    "id": "000015"
 }

@@ -5,10 +5,10 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Scholarship",
         "beneficiary": "Scheduled Caste / Scheduled Tribe Candidates",
-        "details": "The scheme 'Post-Matric Scholarship to Scheduled Castes / Scheduled Tribes Candidates' was introduced by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), to enable the students belonging to the weaker sections of society to complete undergraduate courses. The scholarship is provided for studying at the Bachelor's Degree program in various branches of Agriculture viz. B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), B.Sc.(Home Science), B.F.Sc., B.Sc.(Forestry) etc. The value of the scholarship will be \u20b9 1,000/- per month along with a contingent grant of \u20b9 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc. The duration of the scholarship will cover the whole of the normal period of the particular degree program to which the candidate is admitted.",
+        "details": "The scheme 'Post-Matric Scholarship to Scheduled Castes / Scheduled Tribes Candidates' was introduced by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), to enable the students belonging to the weaker sections of society to complete undergraduate courses. The scholarship is provided for studying at the Bachelor's Degree program in various branches of Agriculture viz. B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), B.Sc.(Home Science), B.F.Sc., B.Sc.(Forestry) etc. The value of the scholarship will be ₹ 1,000/- per month along with a contingent grant of ₹ 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc. The duration of the scholarship will cover the whole of the normal period of the particular degree program to which the candidate is admitted.",
         "benefits": [
-            "The value of the scholarship will be \u20b9 1,000/- per month.",
-            "A contingent grant of \u20b9 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc.",
+            "The value of the scholarship will be ₹ 1,000/- per month.",
+            "A contingent grant of ₹ 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc.",
             "The duration of the scholarship will cover the whole of the normal period of the particular degree program."
         ],
         "eligibility": [
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "Do I have to fill up the online application in one sitting?",
-                "answer": "No. You can fill up the online application in many sittings using \u2018Save Draft\u2019, until you are satisfied that you have entered all desirable fields correctly."
+                "answer": "No. You can fill up the online application in many sittings using ‘Save Draft’, until you are satisfied that you have entered all desirable fields correctly."
             },
             {
                 "question": "What is the Eligibility Criteria for this scholarship?",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the Value Of The Scholarship?",
-                "answer": "The value of the scholarship will be \u20b9 1,000/- per month along with a contingent grant of \u20b9 750/- per annum."
+                "answer": "The value of the scholarship will be ₹ 1,000/- per month along with a contingent grant of ₹ 750/- per annum."
             },
             {
                 "question": "What Is The Duration Of The Scholarship?",
@@ -85,5 +85,6 @@
             "Scheduled Tribe",
             "Agriculture"
         ]
-    }
+    },
+    "id": "000791"
 }

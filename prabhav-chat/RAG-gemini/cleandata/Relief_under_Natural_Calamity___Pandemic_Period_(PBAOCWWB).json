@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Welfare Scheme",
         "beneficiary": "Registered Construction Workers",
-        "details": "The 'Relief under Natural Calamity / Pandemic Period' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board provides financial assistance of \u20b9 2,000/- to the registered worker as a relief during a natural calamity/pandemic. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker. The applications are accepted offline.",
+        "details": "The 'Relief under Natural Calamity / Pandemic Period' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board provides financial assistance of ₹ 2,000/- to the registered worker as a relief during a natural calamity/pandemic. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker. The applications are accepted offline.",
         "benefits": [
-            "\u20b9 2,000/- credited as Direct Benefit Transfer (DBT) into the bank account."
+            "₹ 2,000/- credited as Direct Benefit Transfer (DBT) into the bank account."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -34,7 +34,7 @@
             },
             {
                 "question": "What is the monetary benefit offered under this scheme?",
-                "answer": "The beneficiaries receive \u20b92,000 credited as DBT into their bank accounts."
+                "answer": "The beneficiaries receive ₹2,000 credited as DBT into their bank accounts."
             },
             {
                 "question": "Who is eligible to apply for the 'Relief under Natural Calamity / Pandemic Period' scheme?",
@@ -98,5 +98,6 @@
             "Pandemic",
             "Relief"
         ]
-    }
+    },
+    "id": "001594"
 }

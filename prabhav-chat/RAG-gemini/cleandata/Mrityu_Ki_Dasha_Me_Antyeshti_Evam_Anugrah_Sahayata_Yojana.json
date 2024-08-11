@@ -7,11 +7,11 @@
         "beneficiary": "Construction Worker",
         "details": "The 'Mrityu ki Dasha Mein Antyeshti Evam Anugrah Sahayata Yojana' scheme, implemented by the Madhya Pradesh Labor Department since 2004. The objective of the scheme is to provide financial assistance to the dependents of registered construction workers in Madhya Pradesh in the case of their death. The scheme has the following financial assistance aims: Alleviate the immediate financial burden on the family caused by funeral expenses. Offer some financial support during a difficult time after the loss of a breadwinner. Additionally, the scheme offers ex-gratia payments in case of permanent or partial disability due to an accident, further aiming to provide some financial security to registered workers who may face challenges due to an injury sustained while working.",
         "benefits": [
-            "Funeral assistance- \u20b96,000/-",
-            "Ex-gratia payment- In case of normal death: \u20b92,00,000/-",
-            "In case of death due to accident: \u20b94,00,000/-",
-            "In case of permanent disability due to accident: \u20b92,00,000/-",
-            "In case of partial permanent disability due to accident: \u20b91,00,000/-"
+            "Funeral assistance- ₹6,000/-",
+            "Ex-gratia payment- In case of normal death: ₹2,00,000/-",
+            "In case of death due to accident: ₹4,00,000/-",
+            "In case of permanent disability due to accident: ₹2,00,000/-",
+            "In case of partial permanent disability due to accident: ₹1,00,000/-"
         ],
         "eligibility": [
             "The worker must have been registered for at least 6 months before their death.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "How much Funeral assistance will be provided?",
-                "answer": "Funeral assistance of \u20b96,000/- will be provided."
+                "answer": "Funeral assistance of ₹6,000/- will be provided."
             },
             {
                 "question": "Is this a DBT scheme?",
@@ -79,5 +79,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001163"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Scheduled Caste",
         "details": "The scheme 'Scheme for Small Business Owners of Scheduled Castes to Buy a Place of Business/Shop' was launched by the Director of Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat, in the year 1991. Under the scheme, financial assistance in the form of loans and subsidies is provided by banks to individuals belonging to the Scheduled Castes category. This assistance is aimed at enabling them to purchase business premises or shops in urban areas for business development.",
         "benefits": [
-            "Under the scheme, a maximum loan of \u20b910 lakhs will be available to the beneficiary belonging to the scheduled caste category to buy a business premises/shop in the urban area. The beneficiary will bear interest up to 4%, while any bank interest payable above 4% will be covered by the government as an interest subsidy for three years.",
-            "\u20b915000/- is also given as subsidy assistance under the scheme."
+            "Under the scheme, a maximum loan of ₹10 lakhs will be available to the beneficiary belonging to the scheduled caste category to buy a business premises/shop in the urban area. The beneficiary will bear interest up to 4%, while any bank interest payable above 4% will be covered by the government as an interest subsidy for three years.",
+            "₹15000/- is also given as subsidy assistance under the scheme."
         ],
         "eligibility": [
             "The applicant should be a native of Gujarat.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the maximum loan amount available under this scheme?",
-                "answer": "Beneficiaries belonging to the Scheduled Caste category can access a maximum loan of \u20b910 lakhs to purchase a business premises/shop in urban areas."
+                "answer": "Beneficiaries belonging to the Scheduled Caste category can access a maximum loan of ₹10 lakhs to purchase a business premises/shop in urban areas."
             },
             {
                 "question": "How is the interest on the loan managed?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "Apart from the loan, what other subsidy assistance is provided?",
-                "answer": "A subsidy assistance of \u20b915,000/- is also given under this scheme."
+                "answer": "A subsidy assistance of ₹15,000/- is also given under this scheme."
             },
             {
                 "question": "What are the eligibility criteria for applicants?",
@@ -124,5 +124,6 @@
                 "url": "https://esamajkalyan.gujarat.gov.in/"
             }
         ]
-    }
+    },
+    "id": "001707"
 }

@@ -1,18 +1,18 @@
 {
     "content": {
-        "title": "West Bengal Migrant Workers\u2019 Welfare Scheme: Death Assistance",
+        "title": "West Bengal Migrant Workers’ Welfare Scheme: Death Assistance",
         "state": "West Bengal",
         "department": "Labour Department, Government of West Bengal",
         "type": "Social Welfare",
         "beneficiary": "Nominee of the registered migrant worker",
-        "details": "West Bengal Migrant Workers\u2019 Welfare Scheme: Death Assistance is a social welfare scheme implemented by the West Bengal Migrant Workers\u2019 Welfare Board, Labour Department, Government of West Bengal on 25th April, 2023. Under this scheme, financial assistance is provided to the nominee in case of natural death/accidental death of the registered migrant worker.",
+        "details": "West Bengal Migrant Workers’ Welfare Scheme: Death Assistance is a social welfare scheme implemented by the West Bengal Migrant Workers’ Welfare Board, Labour Department, Government of West Bengal on 25th April, 2023. Under this scheme, financial assistance is provided to the nominee in case of natural death/accidental death of the registered migrant worker.",
         "benefits": [
-            "\u20b9 50,000/- (Rupees Fifty thousands) only, in case of normal death.",
-            "\u20b9 2,00,000/- (Rupees two Lakhs) only, for accidental death."
+            "₹ 50,000/- (Rupees Fifty thousands) only, in case of normal death.",
+            "₹ 2,00,000/- (Rupees two Lakhs) only, for accidental death."
         ],
         "eligibility": [
             "The applicant must be a resident of West Bengal.",
-            "The applicant\u2019s age should be between 18-60 years.",
+            "The applicant’s age should be between 18-60 years.",
             "The applicant must be ordinarily a worker who is employed/ likely to be employed in any State/Union Territories other than the state of West Bengal/ Outside India.",
             "The beneficiary should be a nominee i.e., a person nominated by the registered Migrant Worker from his/ her family.",
             "The migrant worker should have lost his/her life due to natural death/accidental death."
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "West Bengal Migrant Workers\u2019 Welfare Scheme: Death Assistance is a social welfare scheme implemented by the West Bengal Migrant Workers\u2019 Welfare Board, Labour Department, Government of West Bengal, that provides an one time assistance to the nominee in case of natural death/accidental death of the registered migrant worker."
+                "answer": "West Bengal Migrant Workers’ Welfare Scheme: Death Assistance is a social welfare scheme implemented by the West Bengal Migrant Workers’ Welfare Board, Labour Department, Government of West Bengal, that provides an one time assistance to the nominee in case of natural death/accidental death of the registered migrant worker."
             },
             {
                 "question": "When was this scheme launched?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What kind of assistance can be availed through this scheme?",
-                "answer": "Under this scheme, \u20b9 50,000/- (Rupees Fifty thousand) only, in case of normal death and \u20b9 2,00,000/- (Rupees two Lakh) only for accidental death is provided to the beneficiaries."
+                "answer": "Under this scheme, ₹ 50,000/- (Rupees Fifty thousand) only, in case of normal death and ₹ 2,00,000/- (Rupees two Lakh) only for accidental death is provided to the beneficiaries."
             },
             {
                 "question": "How can the benefits be availed?",
@@ -97,5 +97,6 @@
             "Social Welfare",
             "Worker"
         ]
-    }
+    },
+    "id": "002041"
 }

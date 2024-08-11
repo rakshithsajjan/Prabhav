@@ -5,7 +5,7 @@
         "department": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
         "type": "Grant",
         "beneficiary": "Children of salt workers",
-        "details": "The scheme 'Scheme for Grant of Rewards to the Children of Salt Labourers' was launched by Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry in the year 1985. Initially, the scheme known as 'Scheme for grant of rewards to the children of labourers working in Salt Industry (CRS)' was initiated for granting 20 rewards to the children of the salt workers to enable them to meet the initial expenses either partly or wholly for purchase of books, stationeries, etc., on admission to recognized institutes for higher studies. Since 2011-12 the numbers of rewards are 3500 with a financial implication of \u20b945.00 Lakh. Under the scheme, the financial assistance will be given as \u20b91000/- for the students of classes VI to VIII, \u20b91500/- for classes IX to X, and \u20b92000/- for classes XI to XII with the proviso that awards for girl child be reserved to a minimum of 50% allocation per state. In the absence of female students in a particular Salt Factory/State, the reward could be given to the available eligible male students in each category of other Salt Factory/State.",
+        "details": "The scheme 'Scheme for Grant of Rewards to the Children of Salt Labourers' was launched by Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry in the year 1985. Initially, the scheme known as 'Scheme for grant of rewards to the children of labourers working in Salt Industry (CRS)' was initiated for granting 20 rewards to the children of the salt workers to enable them to meet the initial expenses either partly or wholly for purchase of books, stationeries, etc., on admission to recognized institutes for higher studies. Since 2011-12 the numbers of rewards are 3500 with a financial implication of ₹45.00 Lakh. Under the scheme, the financial assistance will be given as ₹1000/- for the students of classes VI to VIII, ₹1500/- for classes IX to X, and ₹2000/- for classes XI to XII with the proviso that awards for girl child be reserved to a minimum of 50% allocation per state. In the absence of female students in a particular Salt Factory/State, the reward could be given to the available eligible male students in each category of other Salt Factory/State.",
         "benefits": [
             "The rewards shall be granted once in each academic year to the meritorious children of salt workers to enable the students to meet the initial expenses either partly or wholly for the purchase of books, stationery, etc. on admission to a recognized Institute, recognized by the State/Central Government.",
             "The rewards shall be granted to the students of the salt workers in cash, to be paid in one lump sum at the commencement of the academic year."
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b91000/- for the students of classes VI to VIII, \u20b91500/- for classes IX to X, and \u20b92000/- for classes XI to will be given to the eligible students."
+                "answer": "Under the scheme, financial assistance of ₹1000/- for the students of classes VI to VIII, ₹1500/- for classes IX to X, and ₹2000/- for classes XI to will be given to the eligible students."
             },
             {
                 "question": "How many times shall the award be given to the eligible students in an academic year?",
@@ -87,5 +87,6 @@
             "Salt Workers",
             "Students"
         ]
-    }
+    },
+    "id": "001664"
 }

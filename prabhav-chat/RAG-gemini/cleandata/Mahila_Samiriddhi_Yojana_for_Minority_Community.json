@@ -5,16 +5,16 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Women entrepreneurs from minority communities",
-        "details": "The scheme 'Mahila Samiriddhi Yojana for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under this scheme, loans up to \u20b91,00,000/- per beneficiary are provided only to women entrepreneurs of the target group, either directly or through Self-Help Groups. Only women beneficiaries who are permanent residents of Haryana and belong to minority communities such as Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains are eligible for the loans.",
+        "details": "The scheme 'Mahila Samiriddhi Yojana for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under this scheme, loans up to ₹1,00,000/- per beneficiary are provided only to women entrepreneurs of the target group, either directly or through Self-Help Groups. Only women beneficiaries who are permanent residents of Haryana and belong to minority communities such as Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains are eligible for the loans.",
         "benefits": [
-            "Loans up to \u20b91,00,000/- per beneficiary only to women entrepreneurs of the target group, either directly or through Self-Help Groups."
+            "Loans up to ₹1,00,000/- per beneficiary only to women entrepreneurs of the target group, either directly or through Self-Help Groups."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The age of the applicant should be between 16 to 45 years.",
             "The applicant should be a woman.",
             "The applicant should belong to Minority Community i.e. Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
-            "The annual family income of applicant should not exceed \u20b998,000/- (Rural Area) and \u20b91,20,000/- (Urban Area).",
+            "The annual family income of applicant should not exceed ₹98,000/- (Rural Area) and ₹1,20,000/- (Urban Area).",
             "The applicant should have relevant educational/technical/vocational qualifications/experience and background to avail the loan benefits under this scheme.",
             "The applicant should have Pariwar Pehchan Patra (PPP ID)."
         ],
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "The primary benefit is the provision of loans up to \u20b91,00,000/- per beneficiary to support women entrepreneurs from minority communities."
+                "answer": "The primary benefit is the provision of loans up to ₹1,00,000/- per beneficiary to support women entrepreneurs from minority communities."
             },
             {
                 "question": "What is the age requirement for applicants?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the income limit for applicants?",
-                "answer": "The annual family income should not exceed \u20b998,000/- for those in rural areas and \u20b91,20,000/- for those in urban areas."
+                "answer": "The annual family income should not exceed ₹98,000/- for those in rural areas and ₹1,20,000/- for those in urban areas."
             },
             {
                 "question": "Is the loan provided directly to the individual?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What is the maximum loan amount available?",
-                "answer": "The maximum loan amount available under this scheme is \u20b91,00,000/- per beneficiary."
+                "answer": "The maximum loan amount available under this scheme is ₹1,00,000/- per beneficiary."
             },
             {
                 "question": "How can applicants apply for this scheme?",
@@ -89,5 +89,6 @@
             "SHG",
             "Loan"
         ]
-    }
+    },
+    "id": "001059"
 }

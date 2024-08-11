@@ -7,7 +7,7 @@
         "beneficiary": "Principal Investigators of SERB Projects",
         "details": "The 'SERB Science and Technology Award for Research (SERB-STAR)' is a prestigious award instituted by the Science and Engineering Research Board (SERB) to recognize and reward the outstanding performance of Principal Investigators (PIs) of SERB Projects. SERB has been supporting basic research in frontier areas of science and engineering through its various programs and schemes. The number of researchers under the ambit of SERB has increased over the years and they contribute significantly towards the progress of science and engineering in the country through their research endeavour. SERB-STAR is an initiative to acknowledge such exemplary contributions in research and also to motivate the PIs of ongoing projects for outstanding performance.",
         "benefits": [
-            "Fellowship of \u20b915,000/- per month, research grant of \u20b910 lakh per annum, and \u20b91 lakh per annum as overhead charges for a period of three years.",
+            "Fellowship of ₹15,000/- per month, research grant of ₹10 lakh per annum, and ₹1 lakh per annum as overhead charges for a period of three years.",
             "Up to 30 awards per year and not more than 90 at any time."
         ],
         "eligibility": [
@@ -79,5 +79,6 @@
             "Award",
             "Fellowship"
         ]
-    }
+    },
+    "id": "001617"
 }

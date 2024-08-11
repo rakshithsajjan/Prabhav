@@ -7,7 +7,7 @@
         "beneficiary": "Dairy farmers belonging to the Scheduled Tribes (ST) category",
         "details": "The scheme 'Assistance for Power Driven Chaff Cutter Scheme under Tribal Area Sub Plan' is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, financial assistance is given to dairy farmers belonging to the Scheduled Tribes (ST) category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green and dry fodder which is economically important for their profitable dairy farming.",
         "benefits": [
-            "Financial assistance up to 75% of the purchase cost of powered chaff cutter or \u20b918,000/-, whichever is less, is given to beneficiaries of Scheduled Tribes category.",
+            "Financial assistance up to 75% of the purchase cost of powered chaff cutter or ₹18,000/-, whichever is less, is given to beneficiaries of Scheduled Tribes category.",
             "The amount of assistance will be deposited in the bank account of the beneficiary."
         ],
         "eligibility": [
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What benefits does the scheme offer?",
-                "answer": "The scheme provides financial assistance of up to 75% of the purchase cost of the powered chaff cutter or \u20b918,000/-, whichever is less, to beneficiaries belonging to the Scheduled Tribes category."
+                "answer": "The scheme provides financial assistance of up to 75% of the purchase cost of the powered chaff cutter or ₹18,000/-, whichever is less, to beneficiaries belonging to the Scheduled Tribes category."
             },
             {
                 "question": "How is the financial assistance provided?",
@@ -73,5 +73,6 @@
             "Subsidy",
             "TASP"
         ]
-    }
+    },
+    "id": "000119"
 }

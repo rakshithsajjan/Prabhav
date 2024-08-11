@@ -10,7 +10,7 @@
             "Sewing machines and accessories are provided at free of cost."
         ],
         "eligibility": [
-            "The applicant's annual income should not exceed \u20b972,000/-",
+            "The applicant's annual income should not exceed ₹72,000/-",
             "The age of the applicant should be between 20 to 40 years",
             "The applicant should have knowledge of tailoring",
             "The applicant should be ANY ONE of the following: Destitute Woman, Widow, Deserted Woman, Differently Abled Man, Differently Abled Woman, Socially Affected Woman, Woman From Economically Weaker Sections"
@@ -90,5 +90,6 @@
             "EWS",
             "Widow"
         ]
-    }
+    },
+    "id": "001651"
 }

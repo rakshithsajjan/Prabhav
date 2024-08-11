@@ -7,8 +7,8 @@
         "beneficiary": "Girl Students",
         "details": "The scheme 'Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme' was launched to enhance the enrolment ratio of girls from Government schools to Higher Education Institutions. It aims to promote higher education among girls belonging to economically weaker families.",
         "benefits": [
-            "All girl students who studied from Classes 6th to 12th in Government schools will be paid \u20b91,000/- per month till the completion of their undergraduate degree, diploma, ITI, and any other recognized course.",
-            "The assistance amount under this scheme will be disbursed directly into the student\u2019s Bank Account.",
+            "All girl students who studied from Classes 6th to 12th in Government schools will be paid ₹1,000/- per month till the completion of their undergraduate degree, diploma, ITI, and any other recognized course.",
+            "The assistance amount under this scheme will be disbursed directly into the student’s Bank Account.",
             "The students shall be eligible for this in addition to other scholarships."
         ],
         "eligibility": [
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "All girl students who studied from Classes 6th to 12th in Government schools will be paid \u20b91,000/- per month till the completion of their undergraduate degree, diploma, ITI, and any other recognized course."
+                "answer": "All girl students who studied from Classes 6th to 12th in Government schools will be paid ₹1,000/- per month till the completion of their undergraduate degree, diploma, ITI, and any other recognized course."
             },
             {
                 "question": "Am I eligible to apply in the case of already receiving other scholarship?",
@@ -93,5 +93,6 @@
             "School",
             "Student"
         ]
-    }
+    },
+    "id": "001155"
 }

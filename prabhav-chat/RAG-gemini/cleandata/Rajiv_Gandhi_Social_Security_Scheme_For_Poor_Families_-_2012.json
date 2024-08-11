@@ -7,16 +7,16 @@
         "beneficiary": "Below Poverty Line Families",
         "details": "The scheme 'Rajiv Gandhi Social Security Scheme for Poor Families - 2012' was started by the Department of Revenue and Disaster Management, Union Territory of Puducherry on 25.03.2011. The objective of the scheme is to provide financial assistance to all the below Poverty Line Family members in the Union Territory of Puducherry in the age group of 18-60 years, in the event of natural and unnatural death, partial total disability, and permanent total disability due to accidents.",
         "benefits": [
-            "Natural death: \u20b930,000/-",
-            "Unnatural death: \u20b975,000/-",
-            "Permanent Total Disability (PTD) due to an accident: \u20b975,000/-",
-            "Partial Permanent Total Disability due to accident: \u20b937,500/-"
+            "Natural death: ₹30,000/-",
+            "Unnatural death: ₹75,000/-",
+            "Permanent Total Disability (PTD) due to an accident: ₹75,000/-",
+            "Partial Permanent Total Disability due to accident: ₹37,500/-"
         ],
         "eligibility": [
             "The deceased/disabled person for whom the claim is made shall be a member of the Below Poverty Line (BPL) family.",
             "The age of the applicant/member should be between 18-60 years.",
             "The applicant should be a permanent resident of the Union Territory of Puducherry.",
-            "The annual family income of the applicant shall not be more than \u20b975,000/-."
+            "The annual family income of the applicant shall not be more than ₹75,000/-."
         ],
         "exclusions": [
             "A beneficiary under this scheme is not eligible to avail any other benefit in a scheme operated by the Government of India / Government of Puducherry / Local Bodies of Puducherry Government."
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "The financial assistance is provided to the members covered under this scheme: Natural death, \u20b9 30,000/-; Unnatural death, \u20b9 75,000/-; Permanent Total Disability (PTD) due to accident, \u20b975,000/-; Partial Permanent Total Disability due to accident, \u20b937,500/-."
+                "answer": "The financial assistance is provided to the members covered under this scheme: Natural death, ₹ 30,000/-; Unnatural death, ₹ 75,000/-; Permanent Total Disability (PTD) due to accident, ₹75,000/-; Partial Permanent Total Disability due to accident, ₹37,500/-."
             },
             {
                 "question": "Who is eligible to get the benefits of the scheme?",
@@ -62,7 +62,7 @@
             },
             {
                 "question": "What is the income criterion under the scheme?",
-                "answer": "The annual family income shall not be more than \u20b975,000/-."
+                "answer": "The annual family income shall not be more than ₹75,000/-."
             },
             {
                 "question": "Is this scheme only for a permanent resident of the Union Territory of Puducherry?",
@@ -101,5 +101,6 @@
             "Social Security",
             "Unnatural Death"
         ]
-    }
+    },
+    "id": "001566"
 }

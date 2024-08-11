@@ -7,11 +7,11 @@
         "beneficiary": "MVSc and PhD students",
         "details": "The Indian Veterinary Research Institute will award scholarships to MVSc and PhD students. IVRI Scholarship is admissible to only those candidates who are admitted through competitive entrance examination for MVSc/PhD degree programmes.",
         "benefits": [
-            "Rs. 7,560/- per month for Master\u2019s Degree programme for 2 years with a contingent grant of Rs. 6,000/- per annum for two years",
+            "Rs. 7,560/- per month for Master’s Degree programme for 2 years with a contingent grant of Rs. 6,000/- per annum for two years",
             "Rs. 13,125/- per month for Doctoral programme for three years with a contingent grant of Rs. 10,000/- per annum for three years"
         ],
         "eligibility": [
-            "Candidates must have a Bachelor\u2019s Degree in Veterinary Science with a minimum of 60% marks (55% for SC/ST or sponsored candidates) for Master\u2019s programme.",
+            "Candidates must have a Bachelor’s Degree in Veterinary Science with a minimum of 60% marks (55% for SC/ST or sponsored candidates) for Master’s programme.",
             "Candidates must have an MVSc degree with a minimum CGPA of 6.50/10.00 scale for Doctoral programme.",
             "Minimum age limit for PhD candidates is 23 years."
         ],
@@ -47,5 +47,6 @@
             "Veterinary Science",
             "Higher Education"
         ]
-    }
+    },
+    "id": "000804"
 }

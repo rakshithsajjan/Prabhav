@@ -16,7 +16,7 @@
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
             "Disabled persons with 40% or more disability are eligible to apply under the scheme.",
-            "The combined annual family income should not exceed \u20b91,00,000/-.",
+            "The combined annual family income should not exceed ₹1,00,000/-.",
             "The Medical Board should certify that the applicant is capable to use the assistive device."
         ],
         "exclusions": [
@@ -70,7 +70,7 @@
             },
             {
                 "question": "Is there any criterion for annual family income?",
-                "answer": "The combined annual family income should not exceed \u20b91,00,000/-."
+                "answer": "The combined annual family income should not exceed ₹1,00,000/-."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -106,5 +106,6 @@
             "PwD",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001665"
 }

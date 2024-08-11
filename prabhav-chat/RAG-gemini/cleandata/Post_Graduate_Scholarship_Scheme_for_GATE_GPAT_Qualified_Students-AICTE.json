@@ -5,9 +5,9 @@
         "department": "AICTE",
         "type": "Scholarship",
         "beneficiary": "GATE/CEED qualified students",
-        "details": "AICTE awards Post Graduate Scholarship of \u20b912,400/- per month to full-time GATE/CEED qualified students admitted to AICTE approved post-graduate programs in AICTE approved Institutions/ University Departments.",
+        "details": "AICTE awards Post Graduate Scholarship of ₹12,400/- per month to full-time GATE/CEED qualified students admitted to AICTE approved post-graduate programs in AICTE approved Institutions/ University Departments.",
         "benefits": [
-            "Monthly scholarship of \u20b912,400/-",
+            "Monthly scholarship of ₹12,400/-",
             "Financial assistance for full-time GATE/CEED qualified students"
         ],
         "eligibility": [
@@ -67,5 +67,6 @@
             "AICTE",
             "Post Graduate"
         ]
-    }
+    },
+    "id": "001465"
 }

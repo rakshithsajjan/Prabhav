@@ -5,9 +5,9 @@
         "department": "Arts and Culture Department",
         "type": "Grant",
         "beneficiary": "Writers/Authors of Children's Literature",
-        "details": "The Arts and Culture Department of Puducherry launched the 'Nehru Child Literature Prize' scheme. The scheme aims to provide financial assistance of \u20b910,000/- with a certificate to writers/authors for the books published in Tamil on Children\u2019s Literature. The applications will be accepted offline.",
+        "details": "The Arts and Culture Department of Puducherry launched the 'Nehru Child Literature Prize' scheme. The scheme aims to provide financial assistance of ₹10,000/- with a certificate to writers/authors for the books published in Tamil on Children’s Literature. The applications will be accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b910,000/- with a certificate."
+            "Financial Assistance of ₹10,000/- with a certificate."
         ],
         "eligibility": [
             "The applicant should be a writer/author/ joint author.",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What is the prize for the winning author?",
-                "answer": "The winning author will receive \u20b910,000/- along with a certificate."
+                "answer": "The winning author will receive ₹10,000/- along with a certificate."
             },
             {
                 "question": "Can an author who has won the prize before apply again?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What are the requirements for submitting an application?",
-                "answer": "Applicants must submit a complete application form, a separate form for each publication, five copies of the text, and the author\u2019s signature on the application form."
+                "answer": "Applicants must submit a complete application form, a separate form for each publication, five copies of the text, and the author’s signature on the application form."
             },
             {
                 "question": "What is the page limit for the submitted children's literature?",
@@ -103,5 +103,6 @@
             "Puducherry",
             "Awards"
         ]
-    }
+    },
+    "id": "001346"
 }

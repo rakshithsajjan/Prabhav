@@ -8,7 +8,7 @@
         "details": "The scheme 'Subsidy for Energy Efficiency' is a sub scheme under the 'Incentive Scheme for MSMEs in Powerloom Sector'. It was launched on 1st January, 2022, and shall remain valid up to 31st December, 2024. The objective is to extend fiscal incentives for installation of New age shuttleless Powerlooms by MSMEs in the Textile sector.",
         "benefits": [
             "50% subsidy (For the cost of energy audit)",
-            "25% subsidy subject to a maximum of \u20b92,00,000/- (For the cost of installations for energy conservation as per energy audit)"
+            "25% subsidy subject to a maximum of ₹2,00,000/- (For the cost of installations for energy conservation as per energy audit)"
         ],
         "eligibility": [
             "The Scheme shall be generally applicable to all micro, small, and medium enterprises (MSMEs) in the powerloom sector.",
@@ -100,5 +100,6 @@
             "Reimbursement",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000815"
 }

@@ -7,20 +7,20 @@
         "beneficiary": "Unorganized Workers",
         "details": "The scheme 'Mukhyamantri Samajik Sahayata Prakalpa- Unorganized Workers' is a Pension Scheme launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The objective of this scheme is to provide financial assistance to the Unorganized Workers (home-based workers, self-employed workers or wage workers) in the unorganized sector.",
         "benefits": [
-            "A pension amount of \u20b92,000/- per month.",
+            "A pension amount of ₹2,000/- per month.",
             "The sanctioned grant will be transferred directly to the individual bank account of the applicant."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
-            "The annual income of the family of the applicant should not exceed \u20b91,00,000/-.",
-            "The age of the applicant should be 55 years and above (except for \u2018Greha Sahayika\u2019).",
-            "In the case of \u2018Greha Shahayika\u2019 (Female Domestic Worker), the age of the applicant should be between 23 to 59 years.",
+            "The annual income of the family of the applicant should not exceed ₹1,00,000/-.",
+            "The age of the applicant should be 55 years and above (except for ‘Greha Sahayika’).",
+            "In the case of ‘Greha Shahayika’ (Female Domestic Worker), the age of the applicant should be between 23 to 59 years.",
             "If the family has children in the age group of 6 to 14 years, those children must be enrolled in a school recognized by the Government of Tripura."
         ],
         "exclusions": [
             "Income taxpayers are not eligible.",
             "Government employees are not eligible.",
-            "Individuals whose family members are already getting benefits under any of the Category/Sub-Category under \u2018Mukhyamantri Samajik Sahayata Prakalpa' (except infirm & PwDs) are not eligible.",
+            "Individuals whose family members are already getting benefits under any of the Category/Sub-Category under ‘Mukhyamantri Samajik Sahayata Prakalpa' (except infirm & PwDs) are not eligible.",
             "Pensioners who are getting benefits under the 'National Social Assistance Program (NSAP)' or the 32 State Social Pension Schemes run by the Social Welfare & Social Education Department, Govt. of Tripura are not eligible."
         ],
         "application_process": "Offline and Online. Applicants should visit the Office of the Child Development Project Officer to request a hard copy of the prescribed format of the application form or take a print of the prescribed format from the official website.",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the maximum annual income limit for the family of the applicant?",
-                "answer": "The annual income of the applicant's family should not exceed \u20b91,00,000."
+                "answer": "The annual income of the applicant's family should not exceed ₹1,00,000."
             },
             {
                 "question": "Where can the beneficiaries check the list of beneficiaries for the scheme?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "How much is the monthly pension amount provided under this scheme?",
-                "answer": "The pension amount under the scheme is \u20b92,000 per month."
+                "answer": "The pension amount under the scheme is ₹2,000 per month."
             },
             {
                 "question": "What is the mode of disbursal for the sanctioned grant?",
@@ -91,5 +91,6 @@
             "Senior Citizen",
             "Unorganized Worker"
         ]
-    }
+    },
+    "id": "001231"
 }

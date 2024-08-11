@@ -5,11 +5,11 @@
         "department": "Ministry Of Science And Technology",
         "type": "Fellowship",
         "beneficiary": "Postdoctoral researchers/fresh PhDs",
-        "details": "The Indo-German Science & Technology Centre (IGSTC) Industrial Fellowship Programme was launched by Secretary, Department of Science and Technology, Govt. of India on the occasion of IGSTC\u2019s 11th Foundation Day on 14th June 2021 to support young Indian researchers for industrial exposure at German industries and industrial R&D institutions. This programme is aimed at encouraging Postdoctoral researchers/fresh PhDs in S&T with an appreciable track record and having aptitude for applied research and technology development.",
+        "details": "The Indo-German Science & Technology Centre (IGSTC) Industrial Fellowship Programme was launched by Secretary, Department of Science and Technology, Govt. of India on the occasion of IGSTC’s 11th Foundation Day on 14th June 2021 to support young Indian researchers for industrial exposure at German industries and industrial R&D institutions. This programme is aimed at encouraging Postdoctoral researchers/fresh PhDs in S&T with an appreciable track record and having aptitude for applied research and technology development.",
         "benefits": [
-            "The fellowship amount is \u20ac2500 per month.",
-            "Single round trip economy class airfare including visa fees and travel insurance: up to \u20ac1000.",
-            "Health Insurance: As per actuals with a maximum limit of \u20ac100/month."
+            "The fellowship amount is €2500 per month.",
+            "Single round trip economy class airfare including visa fees and travel insurance: up to €1000.",
+            "Health Insurance: As per actuals with a maximum limit of €100/month."
         ],
         "eligibility": [
             "The applicant should be an Indian citizen.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What is the nature of support under this scheme?",
-                "answer": "Post Doctoral Industrial Fellowship: \u20ac 2500 per month Single round trip economy class airfare including visa fees and travel insurance: up to \u20ac 1000. Health Insurance: As per actuals with a maximum limit of \u20ac 100/month."
+                "answer": "Post Doctoral Industrial Fellowship: € 2500 per month Single round trip economy class airfare including visa fees and travel insurance: up to € 1000. Health Insurance: As per actuals with a maximum limit of € 100/month."
             },
             {
                 "question": "Who are eligible?",
@@ -75,5 +75,6 @@
             "Indo-German",
             "Industrial Exposure"
         ]
-    }
+    },
+    "id": "000802"
 }

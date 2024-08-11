@@ -7,8 +7,8 @@
         "beneficiary": "Persons with Disabilities (PwD)",
         "details": "The scheme 'Disable Marriage Scheme' was launched by the Director Social Defence, Department of Social Justice & Empowerment, Government of Gujarat. Under this scheme, financial assistance is provided to persons with disabilities when a person with a disability marries another person with a disability, as well as when a non-disabled person marries someone with a disability.",
         "benefits": [
-            "When two individuals with disabilities marry each other, the couple is entitled to a total assistance of \u20b91,00,000/-, equating to \u20b950,000/- per person.",
-            "If a person without disabilities marries someone with a disability, the individual with a disability is eligible to receive assistance of \u20b950,000/-."
+            "When two individuals with disabilities marry each other, the couple is entitled to a total assistance of ₹1,00,000/-, equating to ₹50,000/- per person.",
+            "If a person without disabilities marries someone with a disability, the individual with a disability is eligible to receive assistance of ₹50,000/-."
         ],
         "eligibility": [
             "The age of the girl should be above 18 years and the age of the boy should be above 21 years.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "How much financial assistance is provided under the scheme?",
-                "answer": "When two individuals with disabilities marry each other, they are entitled to a total assistance of \u20b91,00,000/-, with \u20b950,000/- allocated per person. If a person without disabilities marries someone with a disability, the individual with a disability is eligible to receive assistance of \u20b950,000/-."
+                "answer": "When two individuals with disabilities marry each other, they are entitled to a total assistance of ₹1,00,000/-, with ₹50,000/- allocated per person. If a person without disabilities marries someone with a disability, the individual with a disability is eligible to receive assistance of ₹50,000/-."
             },
             {
                 "question": "What types of disabilities are covered under the scheme?",
@@ -85,5 +85,6 @@
                 "url": "https://esamajkalyan.gujarat.gov.in/"
             }
         ]
-    }
+    },
+    "id": "000406"
 }

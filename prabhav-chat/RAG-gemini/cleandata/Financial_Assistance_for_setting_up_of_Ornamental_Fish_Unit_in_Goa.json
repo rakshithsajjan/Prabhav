@@ -7,7 +7,7 @@
         "beneficiary": "Individuals or entities setting up Ornamental Fish Units",
         "details": "The scheme provides financial assistance for setting up Ornamental Fish Units in Goa, including Breeding and Rearing Units.",
         "benefits": [
-            "Financial assistance of 50% of the actual cost, limited to \u20b92,50,000",
+            "Financial assistance of 50% of the actual cost, limited to ₹2,50,000",
             "Support for training programs organized by relevant authorities"
         ],
         "eligibility": [
@@ -69,7 +69,7 @@
             },
             {
                 "question": "What is the maximum financial assistance limit for setting up both a Breeding Unit and a Rearing Unit under the scheme?",
-                "answer": "The financial assistance limit for setting up both a Breeding Unit and a Rearing Unit is 50% of the actual cost, limited to \u20b92,50,000."
+                "answer": "The financial assistance limit for setting up both a Breeding Unit and a Rearing Unit is 50% of the actual cost, limited to ₹2,50,000."
             }
         ],
         "sources": [
@@ -84,5 +84,6 @@
             "Goa",
             "Fisheries"
         ]
-    }
+    },
+    "id": "000581"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Academicians and Researchers",
         "details": "The Scheme 'Tagore National Fellowship for Cultural Research' has been introduced to invigorate and revitalize the various institutions under the Ministry of Culture (MoC) and other identified cultural institutions in the country, by encouraging Fellows/academicians to affiliate themselves with these institutions to work on projects of mutual interest. The scheme expects these Fellows/academicians to select specific resources of the institutions to use in their projects and take up research works that are related to the main objectives of these institutions.",
         "benefits": [
-            "Honorarium of \u20b980,000/- per month for foreign fellows",
+            "Honorarium of ₹80,000/- per month for foreign fellows",
             "House Rent Allowance of up to 30% of the honorarium",
-            "Contingency Grant up to \u20b92.50 lakhs per annum for academic trips",
-            "Settling Allowance of \u20b91.00 lakh for moving expenses"
+            "Contingency Grant up to ₹2.50 lakhs per annum for academic trips",
+            "Settling Allowance of ₹1.00 lakh for moving expenses"
         ],
         "eligibility": [
             "Sound academic or professional credentials",
@@ -78,5 +78,6 @@
             "Academics",
             "Ministry of Culture"
         ]
-    }
+    },
+    "id": "001917"
 }

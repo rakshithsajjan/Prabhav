@@ -5,14 +5,14 @@
         "department": "Labour Department, Government of Uttarakhand",
         "type": "Assistance",
         "beneficiary": "Building & Construction Workers",
-        "details": "The scheme 'Umbrella Assistance Scheme' is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, an umbrella will be provided free of cost to registered building & construction workers to protect them from rain and sun. No financial assistance will be paid to the beneficiary, and the benefit will be given only once in their lifetime.",
+        "details": "The scheme 'Umbrella Assistance Scheme' is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, an umbrella will be provided free of cost to registered building & construction workers to protect them from rain and sun. No financial assistance will be paid to the beneficiary, and the benefit will be given only once in their lifetime.",
         "benefits": [
             "An umbrella will be provided to registered building & construction workers free of cost to protect them from rain and sun."
         ],
         "eligibility": [
             "The applicant/beneficiary should be a resident of Uttarakhand.",
             "The applicant should be engaged in any building or construction work.",
-            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board.",
             "The applicant will become eligible for benefits only after three months from their registration.",
             "The applicant should have an active membership of the Board.",
             "The beneficiary will receive the benefit only once in their entire lifetime.",
@@ -40,7 +40,7 @@
         "faqs": [
             {
                 "question": "Who implements the Umbrella Assistance Scheme?",
-                "answer": "The scheme is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand."
+                "answer": "The scheme is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand."
             },
             {
                 "question": "What benefits are provided under the scheme?",
@@ -99,5 +99,6 @@
             "Labour",
             "Umbrella"
         ]
-    }
+    },
+    "id": "001982"
 }

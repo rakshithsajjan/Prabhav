@@ -7,8 +7,8 @@
         "beneficiary": "GATE/GPAT qualified students pursuing M.Tech/M.E./M.Pharm",
         "details": "University Grants Commission is implementing the scheme of Post Graduate Scholarship for GATE/GPAT Qualified Students for Pursuing M.Tech/M.E./M.Pharm courses (including integrated dual degree courses). The objective of the scheme is to help and attract young and talented graduate students to pursue education at the Post Graduate Level in Higher Education Institutions.",
         "benefits": [
-            "The Scholarship under the scheme is \u20b912,400/- per month per student.",
-            "An annual contingency of \u20b95,000/- will be given to the eligible student."
+            "The Scholarship under the scheme is ₹12,400/- per month per student.",
+            "An annual contingency of ₹5,000/- will be given to the eligible student."
         ],
         "eligibility": [
             "The GATE/GPAT qualified students who have taken admission in M.E/M.Tech/M.Pharm courses and integrated dual degree programme in Central, State, Deemed, and Private Universities will be provided scholarships by UGC.",
@@ -42,11 +42,11 @@
             },
             {
                 "question": "How much amount of scholarship is paid under scheme?",
-                "answer": "The Scholarship under the scheme is \u20b912,400/- per month per student."
+                "answer": "The Scholarship under the scheme is ₹12,400/- per month per student."
             },
             {
                 "question": "How much amount of contingency is paid under scheme?",
-                "answer": "An annual contingency of \u20b95,000/- will be given to the eligible student."
+                "answer": "An annual contingency of ₹5,000/- will be given to the eligible student."
             },
             {
                 "question": "What are the eligibility conditions for availing scholarship under the scheme?",
@@ -62,7 +62,7 @@
             },
             {
                 "question": "Is there any condition for payment of scholarship?",
-                "answer": "If a student scores below 60% in any semester he/she shall be paid a scholarship @ \u20b91,550/- in that particular semester."
+                "answer": "If a student scores below 60% in any semester he/she shall be paid a scholarship @ ₹1,550/- in that particular semester."
             },
             {
                 "question": "Is there any house rent admissible to the students?",
@@ -106,5 +106,6 @@
             "Post Graduate",
             "UGC"
         ]
-    }
+    },
+    "id": "001466"
 }

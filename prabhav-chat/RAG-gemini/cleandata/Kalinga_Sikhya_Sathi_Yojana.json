@@ -5,18 +5,18 @@
         "department": "Department of Higher Education, Govt. of Odisha",
         "type": "Loan",
         "beneficiary": "Student",
-        "details": "The 'Kalinga Sikhya Sathi Yojana (KSSY)' is an Educational Loan Scheme by the Department of Higher Education, Govt. of Odisha. The scheme was launched by the Hon\u2019ble CM of Odisha, Shri Naveen Patnaik on 27th June 2016. The objective of the scheme is to bring down the financial burden on the parents of the students who want to move forward with higher education. A student can get a maximum of \u20b9 10,00,000 as an educational loan under this scheme. The applicants will have to pay only 1% interest on the loan amount. The balance amount of the interest will be borne by the Government of Odisha, Higher Education Department. All the courses like medicine, engineering, law, management, etc are covered under this scheme.",
+        "details": "The 'Kalinga Sikhya Sathi Yojana (KSSY)' is an Educational Loan Scheme by the Department of Higher Education, Govt. of Odisha. The scheme was launched by the Hon’ble CM of Odisha, Shri Naveen Patnaik on 27th June 2016. The objective of the scheme is to bring down the financial burden on the parents of the students who want to move forward with higher education. A student can get a maximum of ₹ 10,00,000 as an educational loan under this scheme. The applicants will have to pay only 1% interest on the loan amount. The balance amount of the interest will be borne by the Government of Odisha, Higher Education Department. All the courses like medicine, engineering, law, management, etc are covered under this scheme.",
         "benefits": [
-            "Maximum Loan: A student can get a maximum of \u20b9 10,00,000 as an educational loan under this scheme.",
+            "Maximum Loan: A student can get a maximum of ₹ 10,00,000 as an educational loan under this scheme.",
             "Minimum Loan: There is no minimum loan amount mentioned in the scheme.",
-            "Period of Loan: The period of repayment will be up to 10 years and 15 years in respect of loans sanctioned up to \u20b9 7,50,000 and \u20b9 10,00,000 respectively.",
+            "Period of Loan: The period of repayment will be up to 10 years and 15 years in respect of loans sanctioned up to ₹ 7,50,000 and ₹ 10,00,000 respectively.",
             "Rate of Interest: The applicants will have to pay only 1% interest on the loan amount."
         ],
         "eligibility": [
             "The student must be a resident/domicile of the state of Odisha.",
-            "The annual income of the family of the applicant should be less than or equal to \u20b9 6,00,000 per annum.",
+            "The annual income of the family of the applicant should be less than or equal to ₹ 6,00,000 per annum.",
             "Poor students who are willing to continue higher studies can apply for a loan under this scheme.",
-            "The student shouldn\u2019t avail of similar benefits from any other Government/Institution for the same purpose.",
+            "The student shouldn’t avail of similar benefits from any other Government/Institution for the same purpose.",
             "The course of study must be in Management, Integrated Law, Engineering, or Medicine in any Educational Institution in India recognized by the concerned Statutory Bodies."
         ],
         "exclusions": [],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "Who Launched The 'Kalinga Sikhya Sathi Yojana (KSSY)' Scheme?",
-                "answer": "The scheme was launched by the Hon\u2019ble CM of Odisha."
+                "answer": "The scheme was launched by the Hon’ble CM of Odisha."
             },
             {
                 "question": "When Was The 'Kalinga Sikhya Sathi Yojana (KSSY)' Scheme Launched?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Loan That An Eligible Student Can Get Through This Scheme?",
-                "answer": "A student can get a maximum of \u20b9 10,00,000 as an educational loan under this scheme."
+                "answer": "A student can get a maximum of ₹ 10,00,000 as an educational loan under this scheme."
             },
             {
                 "question": "How Much Shall Be The Interest On The Loan Amount?",
@@ -95,5 +95,6 @@
             "Loan",
             "Student"
         ]
-    }
+    },
+    "id": "000957"
 }

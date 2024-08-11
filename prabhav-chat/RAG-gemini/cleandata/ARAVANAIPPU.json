@@ -5,15 +5,15 @@
         "department": "Department of Women and Child Development",
         "type": "Financial Assistance",
         "beneficiary": "Girl Mother",
-        "details": "The scheme 'ARAVANAIPPU' is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to improve the status of the girl child and provide nutritious food; financial assistance of \u20b91200 is offered to lactating mothers. The girl child of the applicant should be born after 1-4-2005. This assistance is provided only for up to two girl children.",
+        "details": "The scheme 'ARAVANAIPPU' is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to improve the status of the girl child and provide nutritious food; financial assistance of ₹1200 is offered to lactating mothers. The girl child of the applicant should be born after 1-4-2005. This assistance is provided only for up to two girl children.",
         "benefits": [
-            "\u20b91200 financial assistance to lactating mothers.",
+            "₹1200 financial assistance to lactating mothers.",
             "The selection is periodical and depends on the availability of funds."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a native of Puducherry by virtue of birth or continuous residence of not less than five years.",
-            "The applicant should have an annual family income not exceeding \u20b924,000.",
+            "The applicant should have an annual family income not exceeding ₹24,000.",
             "The applicant should be at least 18 years old.",
             "The girl child of the applicant should be born after 1-4-2005.",
             "The assistance is provided only for two girl children."
@@ -41,7 +41,7 @@
             },
             {
                 "question": "Are there any exceptions to the annual family income criterion?",
-                "answer": "No, the annual family income should not exceed \u20b924,000 for an applicant to be eligible."
+                "answer": "No, the annual family income should not exceed ₹24,000 for an applicant to be eligible."
             },
             {
                 "question": "Can applicants appeal delays in regions other than Pondicherry?",
@@ -73,11 +73,11 @@
             },
             {
                 "question": "What is the income criterion for eligibility?",
-                "answer": "The applicant's annual family income should not exceed \u20b924,000 to qualify for the scheme."
+                "answer": "The applicant's annual family income should not exceed ₹24,000 to qualify for the scheme."
             },
             {
                 "question": "What are the key benefits of the scheme?",
-                "answer": "Lactating mothers receive \u20b91200 financial assistance, and the selection is periodical based on fund availability."
+                "answer": "Lactating mothers receive ₹1200 financial assistance, and the selection is periodical based on fund availability."
             },
             {
                 "question": "Who administers the 'ARAVANAIPPU' scheme?",
@@ -95,5 +95,6 @@
             "Women Empowerment",
             "Child Welfare"
         ]
-    }
+    },
+    "id": "000034"
 }

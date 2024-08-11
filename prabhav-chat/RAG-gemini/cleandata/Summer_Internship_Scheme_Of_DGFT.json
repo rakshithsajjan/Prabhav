@@ -7,7 +7,7 @@
         "beneficiary": "Student",
         "details": "The Summer Internship Scheme by the Directorate General of Foreign Trade is for the interaction of the officers of the Directorate with young scholars and researchers with brilliant academic backgrounds from reputed academic institutions pursuing Studies/Research in Public Policy/Economics/Law/Finance/Management. While refreshing ideas from the field of academics will enable the Directorate to critically analyze its activity and take corrective steps in an objective and impartial manner. The internship will provide an excellent opportunity for the interns in their carrier advancement and professional expertise. The objective of the internship is to familiarize interns with the overall process of formulation of foreign trade policy of the Government at the macro level and its implementation by DGFT at the micro level.",
         "benefits": [
-            "Interns will be paid a consolidated token remuneration of \u20b910,000/- per month.",
+            "Interns will be paid a consolidated token remuneration of ₹10,000/- per month.",
             "Necessary logistics support will be provided to the intern taking into account the functional requirements.",
             "Certificates will be issued to the interns on satisfactory completion of their internship."
         ],
@@ -95,5 +95,6 @@
             "Foreign Trade",
             "Commerce"
         ]
-    }
+    },
+    "id": "001883"
 }

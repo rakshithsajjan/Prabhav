@@ -5,9 +5,9 @@
         "department": "Department of Women & Child Development",
         "type": "Financial Assistance",
         "beneficiary": "Old Age/Destitute Pensioners suffering from TB/Cancer",
-        "details": "The scheme 'Financial Assistance to Old Age Pensioner Suffering From TB/ Cancer' by the Department of Women & Child Development, Government of Puducherry, was introduced to extend a helping hand by way of a monthly financial assistance of \u20b9 500/- to Old Age/Destitute Pensioners who are suffering from TB/Cancer to meet out the medical expenses.",
+        "details": "The scheme 'Financial Assistance to Old Age Pensioner Suffering From TB/ Cancer' by the Department of Women & Child Development, Government of Puducherry, was introduced to extend a helping hand by way of a monthly financial assistance of ₹ 500/- to Old Age/Destitute Pensioners who are suffering from TB/Cancer to meet out the medical expenses.",
         "benefits": [
-            "\u20b9500/- per month in addition to the old age pension amount."
+            "₹500/- per month in addition to the old age pension amount."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What are the key benefits of the scheme for Old Age/Destitute Pensioners suffering from TB/Cancer?",
-                "answer": "The primary benefit is the monthly financial assistance of \u20b9500, aimed at helping these pensioners meet their medical expenses."
+                "answer": "The primary benefit is the monthly financial assistance of ₹500, aimed at helping these pensioners meet their medical expenses."
             },
             {
                 "question": "Is there an age requirement for applicants to be eligible for the scheme in Puducherry?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "Can applicants use the scheme in addition to other government pension schemes?",
-                "answer": "Yes, eligible beneficiaries can receive \u20b9500/- per month in addition to their existing old age pension amount."
+                "answer": "Yes, eligible beneficiaries can receive ₹500/- per month in addition to their existing old age pension amount."
             },
             {
                 "question": "Can applicants submit a medical certificate from any hospital?",
@@ -86,5 +86,6 @@
             "Senior Citizen",
             "TB"
         ]
-    }
+    },
+    "id": "000598"
 }

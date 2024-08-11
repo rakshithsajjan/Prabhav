@@ -7,8 +7,8 @@
         "beneficiary": "Micro, Small and Medium Enterprises",
         "details": "Subsidy on Stamp Duty and Registration Fee (SDRFS) is a sub-scheme under the Banglashree for Micro, Small and Medium Enterprises scheme. It was launched on 1st April 2020 and shall remain in force till 31st March 2025. The objective is to extend fiscal incentives to encourage entrepreneurs to set up MSMEs and create a sustainable ecosystem in the MSME sector.",
         "benefits": [
-            "Micro & Small Enterprise: Zone \u2013 A - 25%, Zone \u2013 B - 50%, Zone \u2013 C - 75%, Zone \u2013 D & E - 100%",
-            "Medium Enterprise: Zone \u2013 B, C, D and E: 75%"
+            "Micro & Small Enterprise: Zone – A - 25%, Zone – B - 50%, Zone – C - 75%, Zone – D & E - 100%",
+            "Medium Enterprise: Zone – B, C, D and E: 75%"
         ],
         "eligibility": [
             "The business/organization should be a Micro/ Small/ Medium Enterprise.",
@@ -126,5 +126,6 @@
             "Stamp Duty",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000178"
 }

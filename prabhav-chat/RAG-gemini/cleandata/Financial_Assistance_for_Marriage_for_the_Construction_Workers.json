@@ -7,10 +7,10 @@
         "beneficiary": "Construction Workers",
         "details": "The 'Financial Assistance for Marriage for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, financial assistance for marriage is provided to self and for up to 2 children. The building workers having continuous membership of 03 years shall be eligible.",
         "benefits": [
-            "Marriage of female registered member: \u20b951,000/-",
-            "Marriage of male registered member: \u20b935,000/-",
-            "Marriage of daughter of registered members: \u20b951,000/-",
-            "Marriage of son of registered members: \u20b935,000/-"
+            "Marriage of female registered member: ₹51,000/-",
+            "Marriage of male registered member: ₹35,000/-",
+            "Marriage of daughter of registered members: ₹51,000/-",
+            "Marriage of son of registered members: ₹35,000/-"
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -78,5 +78,6 @@
             "Marriage Assistance",
             "Wedding Support"
         ]
-    }
+    },
+    "id": "000564"
 }

@@ -26,7 +26,7 @@
         "exclusions": [
             "If beneficiaries have more than two live children.",
             "If the beneficiary has taken treatment from non-government hospitals (e.g., private hospitals).",
-            "If the beneficiary\u2019s Aadhaar card does not belong to the Telangana state.",
+            "If the beneficiary’s Aadhaar card does not belong to the Telangana state.",
             "Non-residents of Telangana.",
             "Families with higher income."
         ],
@@ -76,5 +76,6 @@
             "Welfare",
             "Telangana"
         ]
-    }
+    },
+    "id": "000949"
 }

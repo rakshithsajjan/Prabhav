@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The 'Accident Medical Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction an amount of \u20b91,500/- per month to the Construction Worker who has met an accident and sustained fracture. The financial assistance is provided until he/she becomes physically fit to resume normal work. The claim from the worker should be supported by medical certificates issued by a prescribed doctor.",
+        "details": "The 'Accident Medical Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction an amount of ₹1,500/- per month to the Construction Worker who has met an accident and sustained fracture. The financial assistance is provided until he/she becomes physically fit to resume normal work. The claim from the worker should be supported by medical certificates issued by a prescribed doctor.",
         "benefits": [
-            "Financial Assistance of \u20b91,500/- per month credited within 15 days through Direct Benefit Transfer (DBT).",
+            "Financial Assistance of ₹1,500/- per month credited within 15 days through Direct Benefit Transfer (DBT).",
             "The financial assistance is provided until he/she becomes physically fit to resume normal work."
         ],
         "eligibility": [
@@ -49,11 +49,11 @@
             },
             {
                 "question": "What is the role of inspectors in the registration process?",
-                "answer": "Inspectors verify the authenticity of the registration, and upon approval by the Secretary (Board), the worker is enrolled as a beneficiary. A registration fee of \u20b925 is applicable, along with an annual subscription of \u20b9100."
+                "answer": "Inspectors verify the authenticity of the registration, and upon approval by the Secretary (Board), the worker is enrolled as a beneficiary. A registration fee of ₹25 is applicable, along with an annual subscription of ₹100."
             },
             {
                 "question": "How much financial assistance does the scheme provide, and for how long?",
-                "answer": "The scheme provides \u20b91,500 per month through Direct Benefit Transfer (DBT) until the injured worker becomes physically fit to resume normal work."
+                "answer": "The scheme provides ₹1,500 per month through Direct Benefit Transfer (DBT) until the injured worker becomes physically fit to resume normal work."
             },
             {
                 "question": "Is citizenship a mandatory requirement for eligibility under the scheme?",
@@ -77,7 +77,7 @@
             },
             {
                 "question": "Can the financial assistance be used for any purpose, or are there restrictions?",
-                "answer": "The financial assistance of \u20b91,500 per month is meant to support the injured construction worker during their recovery period. While there are no specific restrictions on usage, it is intended to cover living expenses during the period of incapacity."
+                "answer": "The financial assistance of ₹1,500 per month is meant to support the injured construction worker during their recovery period. While there are no specific restrictions on usage, it is intended to cover living expenses during the period of incapacity."
             },
             {
                 "question": "Is the financial assistance taxable, and does it affect other government benefits?",
@@ -119,5 +119,6 @@
             "Medical",
             "Worker"
         ]
-    }
+    },
+    "id": "000043"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Dependents of Prisoners",
         "details": "The scheme 'Self-Employment Scheme for Dependents of Prisoners' was launched by the Department of Social Justice, Government of Kerala. The scheme is intended to rehabilitate the dependents of the indigent convicts. It aims to assist/encourage resource less wives, unemployed and unmarried sons, daughters etc. This scheme mainly includes children if they are students and women having children. Under the scheme, financial assistance shall be given only once for the dependents of a prisoner for the purpose and dependents are eligible for the assistance only during the period of imprisonment of the convict.",
         "benefits": [
-            "Under the scheme, the maximum amount of financial assistance to a family will be \u20b930,000/- at a time."
+            "Under the scheme, the maximum amount of financial assistance to a family will be ₹30,000/- at a time."
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
@@ -71,7 +71,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the maximum amount of financial assistance to a family will be \u20b930,000/- at a time."
+                "answer": "Under the scheme, the maximum amount of financial assistance to a family will be ₹30,000/- at a time."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -103,5 +103,6 @@
             "Prisoner",
             "Self-Employment"
         ]
-    }
+    },
+    "id": "001765"
 }

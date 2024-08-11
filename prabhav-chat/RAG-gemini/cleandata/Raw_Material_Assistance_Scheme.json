@@ -20,7 +20,7 @@
         "documents_required": [
             "A passport-size photograph of each of the Proprietor/Directors/Partners/Society office bearers.",
             "Identity proof i.e. PAN Card, Aadhaar Card etc.",
-            "Residence proof i.e. Utility Bill (Latest Telephone/postpaid mobile /Electricity bill), Property or Municipal Tax receipt, Bank Account or post office savings bank account statement, Passport, Driving Licence, Voter\u2019s Identity Card.",
+            "Residence proof i.e. Utility Bill (Latest Telephone/postpaid mobile /Electricity bill), Property or Municipal Tax receipt, Bank Account or post office savings bank account statement, Passport, Driving Licence, Voter’s Identity Card.",
             "Self-attested photocopy of Udyam Registration Certificate/UAM, GST Registration Certificate.",
             "Self-attested statement of personal assets and liabilities along with the residential address of Proprietor/Directors/Partners/ Society office bearers.",
             "A copy of the Board Resolution in case of Pvt./Public Ltd. Co., Power of Attorney in case of a partnership firm & a Governing Body Resolution in case of Society authorizing the signatory to sign and to deal with NSIC in respect of financial assistance required, for and on behalf of the applicant unit.",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "How to apply for raw material assistance on credit under the Scheme?",
-                "answer": "Any MSME needs raw materials through NSIC may apply to any of the NSIC field offices for Raw Material Assistance in the prescribed application forms, which can be downloaded from NSIC\u2019s website (www.nsic.co.in) or may be obtained from any of the field offices."
+                "answer": "Any MSME needs raw materials through NSIC may apply to any of the NSIC field offices for Raw Material Assistance in the prescribed application forms, which can be downloaded from NSIC’s website (www.nsic.co.in) or may be obtained from any of the field offices."
             }
         ],
         "sources": [
@@ -70,5 +70,6 @@
             "Raw Material",
             "Credit Support"
         ]
-    }
+    },
+    "id": "001577"
 }

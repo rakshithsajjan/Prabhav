@@ -5,7 +5,7 @@
         "department": "Ministry of Electronics and Information Technology",
         "type": "Grant",
         "beneficiary": "Scheduled Tribes and Scheduled Castes persons",
-        "details": "No.G.11012/7/93-HFW dt. 4th June\u201997: stated that whereas the State Government is of the opinion to make a set of rules for granting financial assistance in the form of Grant-in-Aid to a person having no employment under the Government, Public Sector undertaking or under any local bodies may qualify to receive the grant suffering from fell disease as specified below, the Governor of Mizoram is pleased to make the following rules namely: These rules may be called the Mizoram Health & Family Welfare (Grant-in-Aid to indigent Schedule Tribes and Scheduled Castes patients suffering from fell diseases) Rules 1997. They shall come into force with effect from the date of its publication in the Mizoram Gazette. Scheduled Tribes and Scheduled Castes persons permanently residing within the State of Mizoram none of whose family members are Government employees and whose family income from all sources does not exceed Rs.2000/- per month and suffering from fell diseases are eligible to receive the grant.",
+        "details": "No.G.11012/7/93-HFW dt. 4th June’97: stated that whereas the State Government is of the opinion to make a set of rules for granting financial assistance in the form of Grant-in-Aid to a person having no employment under the Government, Public Sector undertaking or under any local bodies may qualify to receive the grant suffering from fell disease as specified below, the Governor of Mizoram is pleased to make the following rules namely: These rules may be called the Mizoram Health & Family Welfare (Grant-in-Aid to indigent Schedule Tribes and Scheduled Castes patients suffering from fell diseases) Rules 1997. They shall come into force with effect from the date of its publication in the Mizoram Gazette. Scheduled Tribes and Scheduled Castes persons permanently residing within the State of Mizoram none of whose family members are Government employees and whose family income from all sources does not exceed Rs.2000/- per month and suffering from fell diseases are eligible to receive the grant.",
         "benefits": [
             "The grant-in-aid shall be given in cash or by means of a Bank Draft.",
             "The grant-in-aid shall be made subject to the availability of funds and cannot be claimed as a matter of right.",
@@ -66,5 +66,6 @@
             "SC/ST",
             "TB"
         ]
-    }
+    },
+    "id": "000708"
 }

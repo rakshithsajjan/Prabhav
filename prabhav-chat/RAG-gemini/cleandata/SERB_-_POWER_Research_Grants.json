@@ -5,10 +5,10 @@
         "department": "Ministry of Science and Technology",
         "type": "Grant",
         "beneficiary": "Women Researchers",
-        "details": "The \u201cSERB - POWER Research Grants\u201d is a program category under the SERB-POWER (Promoting Opportunities For Women in Exploratory Research) Program, launched by the Science and Engineering Research Board (SERB), Ministry of Science & Technology, Government of India. SERB - POWER program is formulated to mitigate gender disparity in science and engineering research funding in various S&T programs in Indian academic institutions and R&D Laboratories. The aim of the \u2018SERB - POWER Research Grants\u2019 is to encourage emerging and eminent women researchers for an individual-centric and competitive mode of research funding to undertake R&D activities in frontier areas of science and engineering.",
+        "details": "The “SERB - POWER Research Grants” is a program category under the SERB-POWER (Promoting Opportunities For Women in Exploratory Research) Program, launched by the Science and Engineering Research Board (SERB), Ministry of Science & Technology, Government of India. SERB - POWER program is formulated to mitigate gender disparity in science and engineering research funding in various S&T programs in Indian academic institutions and R&D Laboratories. The aim of the ‘SERB - POWER Research Grants’ is to encourage emerging and eminent women researchers for an individual-centric and competitive mode of research funding to undertake R&D activities in frontier areas of science and engineering.",
         "benefits": [
-            "Level I: The scale of funding up to \u20b960 lakhs for three years.",
-            "Level II: The scale of funding up to \u20b930 lakhs for three years.",
+            "Level I: The scale of funding up to ₹60 lakhs for three years.",
+            "Level II: The scale of funding up to ₹30 lakhs for three years.",
             "Funding for equipment, manpower, consumables, travel, and contingency."
         ],
         "eligibility": [
@@ -67,5 +67,6 @@
             "Women Empowerment",
             "Science and Technology"
         ]
-    }
+    },
+    "id": "001615"
 }

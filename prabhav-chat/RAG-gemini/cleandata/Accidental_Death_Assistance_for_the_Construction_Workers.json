@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Registered Construction Workers",
-        "details": "The 'Accidental Death Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, financial assistance of \u20b92,00,000/- is provided to the nominees/dependents of the members in case the death is due to an accident, during the course of employment.",
+        "details": "The 'Accidental Death Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, financial assistance of ₹2,00,000/- is provided to the nominees/dependents of the members in case the death is due to an accident, during the course of employment.",
         "benefits": [
-            "Financial assistance of \u20b92,00,000/- is provided to the nominees/dependents of the members in case the death is due to an accident, during the course of employment."
+            "Financial assistance of ₹2,00,000/- is provided to the nominees/dependents of the members in case the death is due to an accident, during the course of employment."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -66,5 +66,6 @@
             "Financial Assistance",
             "Labour"
         ]
-    }
+    },
+    "id": "000047"
 }

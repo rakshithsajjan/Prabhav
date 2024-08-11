@@ -5,9 +5,9 @@
         "department": "Department of Social Justice & Empowerment",
         "type": "Loan",
         "beneficiary": "Scheduled Caste Students",
-        "details": "The scheme 'Dr. Baba Saheb Ambedkar Loan for Higher Study in Foreign Countries' is administered by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was commenced in the year 1999 with the objective to provide an opportunity to Scheduled Caste students to study abroad. Under this scheme, a loan of \u20b915 lakhs is provided at an interest rate of 4% to offer financial assistance to bright career students of the Scheduled Castes who cannot go abroad for higher studies due to their poor economic condition. In this scheme, loans are provided to students for pursuing graduate and postgraduate courses to cover expenses such as tuition fees, books, hostel fees, living expenses, travel expenses, and pocket money.",
+        "details": "The scheme 'Dr. Baba Saheb Ambedkar Loan for Higher Study in Foreign Countries' is administered by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was commenced in the year 1999 with the objective to provide an opportunity to Scheduled Caste students to study abroad. Under this scheme, a loan of ₹15 lakhs is provided at an interest rate of 4% to offer financial assistance to bright career students of the Scheduled Castes who cannot go abroad for higher studies due to their poor economic condition. In this scheme, loans are provided to students for pursuing graduate and postgraduate courses to cover expenses such as tuition fees, books, hostel fees, living expenses, travel expenses, and pocket money.",
         "benefits": [
-            "Under this scheme, a loan of \u20b915 lakhs is provided at an interest rate of 4% to the eligible students."
+            "Under this scheme, a loan of ₹15 lakhs is provided at an interest rate of 4% to the eligible students."
         ],
         "eligibility": [
             "The applicant should be native of Gujarat state.",
@@ -31,7 +31,7 @@
             "Affidavit",
             "Passport & Visa",
             "Air Ticket",
-            "Surety bond on stamp of \u20b9100/-",
+            "Surety bond on stamp of ₹100/-",
             "Property Valuation Report",
             "First page copy of bank passbook/cancelled cheque (in the name of the applicant)",
             "Any other documents as required"
@@ -46,7 +46,7 @@
         "faqs": [
             {
                 "question": "What is the loan amount provided under this scheme and at what interest rate?",
-                "answer": "Eligible students can avail a loan of \u20b915 lakhs at an interest rate of 4%."
+                "answer": "Eligible students can avail a loan of ₹15 lakhs at an interest rate of 4%."
             },
             {
                 "question": "What expenses does the loan cover?",
@@ -119,5 +119,6 @@
                 "url": "https://esamajkalyan.gujarat.gov.in/ApplicationFAQ/SJEDSC/FSLFAQ.pdf"
             }
         ]
-    }
+    },
+    "id": "000433"
 }

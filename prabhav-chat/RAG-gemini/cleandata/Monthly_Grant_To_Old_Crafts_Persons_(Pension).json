@@ -5,16 +5,16 @@
         "department": "Department of Industries and Commerce",
         "type": "Pension",
         "beneficiary": "Artisans aged 60 and above",
-        "details": "The scheme 'Monthly Grant To Old Crafts Persons (Pension)' Component of the 'Development of Handicrafts' Scheme aims to provide pension to artisans in their old age, recognizing their contribution to traditional crafts. Under this scheme, eligible craftspersons receive a monthly grant of \u20b92,000/-.",
+        "details": "The scheme 'Monthly Grant To Old Crafts Persons (Pension)' Component of the 'Development of Handicrafts' Scheme aims to provide pension to artisans in their old age, recognizing their contribution to traditional crafts. Under this scheme, eligible craftspersons receive a monthly grant of ₹2,000/-.",
         "benefits": [
-            "A monthly grant of \u20b92,000/-. This financial assistance continues until the lifetime of the beneficiary, subject to renewal every year.",
-            "In the case of the craftsperson's death, the living spouse is entitled to receive \u20b91,000/- per month."
+            "A monthly grant of ₹2,000/-. This financial assistance continues until the lifetime of the beneficiary, subject to renewal every year.",
+            "In the case of the craftsperson's death, the living spouse is entitled to receive ₹1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be an artisan who has attained the age of 60 years.",
             "The artisan should be a native or resident of the Union Territory of Puducherry for at least 5 years.",
             "The artisan should have practised the craft for at least 5 years in the Union Territory of Puducherry.",
-            "The family income from all sources should not exceed \u20b940,000 per annum.",
+            "The family income from all sources should not exceed ₹40,000 per annum.",
             "The applicant should not be a recipient of similar financial assistance from any other source."
         ],
         "exclusions": [],
@@ -29,11 +29,11 @@
         "faqs": [
             {
                 "question": "What is the primary objective of the 'Monthly Grant To Old Crafts Persons (Pension)' scheme?",
-                "answer": "The scheme aims to provide a monthly pension of \u20b92000 to artisans aged 60 and above, recognizing their contribution to traditional crafts."
+                "answer": "The scheme aims to provide a monthly pension of ₹2000 to artisans aged 60 and above, recognizing their contribution to traditional crafts."
             },
             {
                 "question": "What are the benefits provided under this scheme in case of the craftsperson's demise?",
-                "answer": "In the event of the craftsperson's death, the living spouse is entitled to receive \u20b91000 per month, continuing until their lifetime, subject to renewal every year."
+                "answer": "In the event of the craftsperson's death, the living spouse is entitled to receive ₹1000 per month, continuing until their lifetime, subject to renewal every year."
             },
             {
                 "question": "Can a craftsperson's spouse continue to receive benefits after the beneficiary's demise?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What is the family income limit for eligibility under this scheme?",
-                "answer": "The family income from all sources should not exceed \u20b940,000 per annum to qualify for the Monthly Grant To Old Crafts Persons (Pension)."
+                "answer": "The family income from all sources should not exceed ₹40,000 per annum to qualify for the Monthly Grant To Old Crafts Persons (Pension)."
             },
             {
                 "question": "Can an artisan apply for the pension if they have not been a resident of Puducherry for the required duration?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "Is there a specific format for the income certificate required for this scheme?",
-                "answer": "The scheme doesn't specify a format, but the income certificate should accurately reflect the family's income from all sources, not exceeding \u20b940,000 per annum."
+                "answer": "The scheme doesn't specify a format, but the income certificate should accurately reflect the family's income from all sources, not exceeding ₹40,000 per annum."
             },
             {
                 "question": "Can a craftsperson receive financial assistance from multiple sources simultaneously?",
@@ -104,5 +104,6 @@
             "Pension",
             "Senior Citizen"
         ]
-    }
+    },
+    "id": "001154"
 }

@@ -7,13 +7,13 @@
         "beneficiary": "Children of registered workers of the Madhya Pradesh Shram Kalyan Mandal",
         "details": "The Shiksha Protsahan Puraskar Yojana is a scheme launched by the Madhya Pradesh government to provide financial assistance to the children of registered workers of the Madhya Pradesh Shram Kalyan Mandal for their higher education.",
         "benefits": [
-            "General Graduate (B.A., B.Com, B.Sc., B.B.A.) : \u20b910,000/-",
-            "Engineering (B.E./B.Tech.) : \u20b915,000/-",
-            "M.B.B.S./ B.D.S. : \u20b925,000/-",
-            "Pharmacy, Ayurvedic, Homeopathic (U.G., P.G. Diploma) : \u20b912,500/-",
-            "Law Courses : \u20b910,000/-",
-            "General P.G. Courses (M.A, M.Com, M.Sc, MBA) : \u20b910,000/-",
-            "M.E/M.Tech : \u20b911,500/-"
+            "General Graduate (B.A., B.Com, B.Sc., B.B.A.) : ₹10,000/-",
+            "Engineering (B.E./B.Tech.) : ₹15,000/-",
+            "M.B.B.S./ B.D.S. : ₹25,000/-",
+            "Pharmacy, Ayurvedic, Homeopathic (U.G., P.G. Diploma) : ₹12,500/-",
+            "Law Courses : ₹10,000/-",
+            "General P.G. Courses (M.A, M.Com, M.Sc, MBA) : ₹10,000/-",
+            "M.E/M.Tech : ₹11,500/-"
         ],
         "eligibility": [
             "The worker must be employed in an industrial unit or establishment located within the jurisdiction of the Madhya Pradesh Shram Kalyan Mandal.",
@@ -101,5 +101,6 @@
             "Financial",
             "Student"
         ]
-    }
+    },
+    "id": "001779"
 }

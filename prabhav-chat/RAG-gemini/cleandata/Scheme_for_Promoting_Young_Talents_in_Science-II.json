@@ -7,9 +7,9 @@
         "beneficiary": "Students enrolled in polytechnic colleges and undergraduate courses",
         "details": "The scheme 'Scheme for Promoting Young Talents in Science-II (SPYTiS-II)' is constituted for the purpose of providing financial and technical assistance to talented young students who have innovative ideas in scientific/technological pursuits. Under the scheme, students from polytechnic colleges and those admitted to undergraduate-level courses in colleges will be selected every year to do a science project. The selected students will be provided financial support for successfully completing the project.",
         "benefits": [
-            "Students who have innovative ideas in science & technology are enrolled in polytechnic colleges and undergraduate courses in colleges will be provided financial assistance up to \u20b910,000/- for conducting projects.",
+            "Students who have innovative ideas in science & technology are enrolled in polytechnic colleges and undergraduate courses in colleges will be provided financial assistance up to ₹10,000/- for conducting projects.",
             "Financial assistance will be provided to the host institution and the students have to work under the guidance/supervision of a teacher.",
-            "Awardees are encouraged to participate in the Science Talent Fair, National Children\u2019s Science Congress, or Kerala Science Congress organized by KSCSTE to present their projects/findings.",
+            "Awardees are encouraged to participate in the Science Talent Fair, National Children’s Science Congress, or Kerala Science Congress organized by KSCSTE to present their projects/findings.",
             "The duration of the project is one year.",
             "Under the scheme, no major equipment for research will be granted. Minor equipment, if found necessary, will be granted only to an institution in the State."
         ],
@@ -49,7 +49,7 @@
             },
             {
                 "question": "How much financial assistance will be provided to the students for doing a science project?",
-                "answer": "Students who have innovative ideas in science & technology are enrolled in polytechnic colleges and undergraduate courses in colleges will be provided financial assistance up to \u20b910,000/- for conducting projects."
+                "answer": "Students who have innovative ideas in science & technology are enrolled in polytechnic colleges and undergraduate courses in colleges will be provided financial assistance up to ₹10,000/- for conducting projects."
             },
             {
                 "question": "Will the financial assistance be directly provided to the students?",
@@ -57,7 +57,7 @@
             },
             {
                 "question": "What are the other benefits given to the students (Awardees)?",
-                "answer": "Awardees are encouraged to participate in the Science Talent Fair, National Children\u2019s Science Congress, or Kerala Science Congress organized by the KSCSTE to present their projects/findings."
+                "answer": "Awardees are encouraged to participate in the Science Talent Fair, National Children’s Science Congress, or Kerala Science Congress organized by the KSCSTE to present their projects/findings."
             },
             {
                 "question": "What should be the duration of the project?",
@@ -73,11 +73,11 @@
             },
             {
                 "question": "How can an applicant apply for the scheme?",
-                "answer": "The completed applications duly signed and forwarded by the Head of the Institution should reach the Director, Kerala State Council for Science, Technology and Environment, Sasthra Bhavan, Pattom P O, Thiruvananthapuram \u2013 695004 on or before the deadline."
+                "answer": "The completed applications duly signed and forwarded by the Head of the Institution should reach the Director, Kerala State Council for Science, Technology and Environment, Sasthra Bhavan, Pattom P O, Thiruvananthapuram – 695004 on or before the deadline."
             },
             {
                 "question": "Where can an applicant contact regarding this scheme?",
-                "answer": "The Head, Science Education Division (SED), Kerala State Council for Science, Technology and Environment, Sasthra Bhavan, Pattom, Thiruvananthapuram \u2013 4, Tel No. + 91-471-2548218/223 E-mail: sed.kscste@kerala.gov.in, Website: www.kscste.kerala.gov.in"
+                "answer": "The Head, Science Education Division (SED), Kerala State Council for Science, Technology and Environment, Sasthra Bhavan, Pattom, Thiruvananthapuram – 4, Tel No. + 91-471-2548218/223 E-mail: sed.kscste@kerala.gov.in, Website: www.kscste.kerala.gov.in"
             }
         ],
         "sources": [
@@ -115,5 +115,6 @@
             "Undergraduate",
             "Young Talent"
         ]
-    }
+    },
+    "id": "001700"
 }

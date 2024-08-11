@@ -7,9 +7,9 @@
         "beneficiary": "Registered construction workers and their widowed dependents",
         "details": "The scheme 'Financial Assistance on Death/Disablement of Beneficiary' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance will be provided to registered construction workers with full or 50% disability due to an accident. The financial assistance will also be provided to the widowed dependents of registered male construction workers for any reason of death.",
         "benefits": [
-            "Ex-gratia grant to widow dependent of employee (for any reason of death): \u20b950,000/-",
-            "Grant to employee for full disability due to accident: \u20b925,000/-",
-            "Grant to employee for 50% disability due to accident: \u20b915,000/-"
+            "Ex-gratia grant to widow dependent of employee (for any reason of death): ₹50,000/-",
+            "Grant to employee for full disability due to accident: ₹25,000/-",
+            "Grant to employee for 50% disability due to accident: ₹15,000/-"
         ],
         "eligibility": [
             "The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contribution towards the labour welfare fund should regularly been received by the Board.",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the financial assistance provided under the scheme for disability due to an accident?",
-                "answer": "Registered construction workers with full disability will receive \u20b925,000/-, and those with 50% disability will receive \u20b915,000/-."
+                "answer": "Registered construction workers with full disability will receive ₹25,000/-, and those with 50% disability will receive ₹15,000/-."
             },
             {
                 "question": "Is financial assistance provided to the widowed dependents of registered male construction workers?",
-                "answer": "Yes, widowed dependents of registered male construction workers are eligible for financial assistance of \u20b950,000/- in case of death for any reason."
+                "answer": "Yes, widowed dependents of registered male construction workers are eligible for financial assistance of ₹50,000/- in case of death for any reason."
             },
             {
                 "question": "Who is eligible to receive the financial assistance under this scheme?",
@@ -91,5 +91,6 @@
             "Labour",
             "Widow"
         ]
-    }
+    },
+    "id": "000587"
 }

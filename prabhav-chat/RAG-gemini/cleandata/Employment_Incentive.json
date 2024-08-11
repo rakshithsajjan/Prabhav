@@ -5,10 +5,10 @@
         "department": "Industries and Commerce Department",
         "type": "Subsidy",
         "beneficiary": "Micro, Small, Medium and Large Industries",
-        "details": "'Employment Incentive' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of \u20b95,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Employment Incentive' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, Wage/Employment subsidy of 20% wage/salary up to a maximum of ₹5,00,000/- per annum, in case of workers who are covered under Provident Fund (PF), will be granted. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
             "Wage/Employment Subsidy of 20% Wage/Salary",
-            "Ceiling: \u20b95,00,000/- per annum",
+            "Ceiling: ₹5,00,000/- per annum",
             "Number of Installments: In single or multiple instalments, depending on the availability of funds",
             "Period: 5 years for Puducherry and Karaikal regions; 7 years for Mahe and Yanam regions",
             "Mode of Disbursement: The subsidy amount shall be disbursed through financial institutions/banks if the unit is financed by them, or directly to the entrepreneur/unit for self-financed units."
@@ -112,5 +112,6 @@
             "MSME",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000488"
 }

@@ -8,7 +8,7 @@
         "details": "The scheme 'Subsidy Scheme for Establishment of Goat Unit (10+1) for Scheduled Tribe Women' was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to uplift Economically poor livestock breeders of Gujarat State. Under the scheme, each beneficiary should purchase 10 female goats and 1 male goat and the beneficiary has to contribute 50% of the unit cost for food, water, fodder, residence, and concentrate expenses.",
         "benefits": [
             "Each beneficiary should purchase 10 female goats and 1 male goat.",
-            "Subsidy of 50% of the unit cost of the scheme (Maximum \u20b945,000/-) for food, water, fodder, residence, and concentrate expenses."
+            "Subsidy of 50% of the unit cost of the scheme (Maximum ₹45,000/-) for food, water, fodder, residence, and concentrate expenses."
         ],
         "eligibility": [
             "Applicable only to the beneficiaries of the Scheduled Tribe women of Gujarat State.",
@@ -19,7 +19,7 @@
         ],
         "exclusions": [
             "Each beneficiary should purchase 10 female goats and 1 male goat.",
-            "Subsidy of 50% of the unit cost of the scheme (Maximum \u20b945,000/-) for food, water, fodder, residence, and concentrates expenses."
+            "Subsidy of 50% of the unit cost of the scheme (Maximum ₹45,000/-) for food, water, fodder, residence, and concentrates expenses."
         ],
         "application_process": "Online application through I-Khedut Portal.",
         "documents_required": [
@@ -52,11 +52,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, the subsidy will be given 50% of the unit cost of the scheme (Maximum \u20b945,000/-) for food, water, fodder, residence, and concentrates expenses."
+                "answer": "Under this scheme, the subsidy will be given 50% of the unit cost of the scheme (Maximum ₹45,000/-) for food, water, fodder, residence, and concentrates expenses."
             },
             {
                 "question": "What is the unit cost for the scheme?",
-                "answer": "The unit cost for the scheme is \u20b9 90,000/-."
+                "answer": "The unit cost for the scheme is ₹ 90,000/-."
             },
             {
                 "question": "Who will get priority under the scheme?",
@@ -108,5 +108,6 @@
             "Subsidy",
             "Woman"
         ]
-    }
+    },
+    "id": "001867"
 }

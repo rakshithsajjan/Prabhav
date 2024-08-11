@@ -7,7 +7,7 @@
         "beneficiary": "Fishermen",
         "details": "The scheme 'Financial Assistance To Purchase Singel Net / Small Rampon Net & Its Accessories' is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a 50% subsidy is provided to the fishermen of Goa for the purchase of Singel Net/ Small Rampon Net and its accessories.",
         "benefits": [
-            "Subsidy to the extent of 50% of the actual cost limited to \u20b9 50,000/- for the purchase of Singel Net/ Small Rampon Net and its accessories, after every five years."
+            "Subsidy to the extent of 50% of the actual cost limited to ₹ 50,000/- for the purchase of Singel Net/ Small Rampon Net and its accessories, after every five years."
         ],
         "eligibility": [
             "The applicant should be a traditional fisherman by birth or profession.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "How is the subsidy amount calculated under this scheme?",
-                "answer": "Eligible traditional fishermen can receive a subsidy of 50% of the actual cost, limited to \u20b950,000, for the purchase of Singel Net/ Small Rampon Net and its accessories."
+                "answer": "Eligible traditional fishermen can receive a subsidy of 50% of the actual cost, limited to ₹50,000, for the purchase of Singel Net/ Small Rampon Net and its accessories."
             },
             {
                 "question": "What is the significance of the Inspection Report in the application process?",
@@ -83,5 +83,6 @@
             "Marine",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000549"
 }

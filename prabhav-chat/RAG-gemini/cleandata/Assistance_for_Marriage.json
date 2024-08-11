@@ -5,9 +5,9 @@
         "department": "Department for the Welfare of Differently Abled Persons",
         "type": "Financial Assistance",
         "beneficiary": "Differently-abled Person and their children",
-        "details": "The scheme 'Assistance for Marriage' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, a sum of \u20b92,000/- is given to meet the marriage expenses of the differently abled person or his son or daughter. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
+        "details": "The scheme 'Assistance for Marriage' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, a sum of ₹2,000/- is given to meet the marriage expenses of the differently abled person or his son or daughter. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/-"
+            "Financial Assistance of ₹2,000/-"
         ],
         "eligibility": [
             "The applicant should be a differently abled person.",
@@ -24,7 +24,7 @@
         "faqs": [
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "Under this scheme, eligible individuals receive \u20b92,000/- as financial assistance to meet marriage expenses."
+                "answer": "Under this scheme, eligible individuals receive ₹2,000/- as financial assistance to meet marriage expenses."
             },
             {
                 "question": "Who is eligible to receive assistance for marriage expenses?",
@@ -79,5 +79,6 @@
             "Financial Assistance",
             "Marriage"
         ]
-    }
+    },
+    "id": "000116"
 }

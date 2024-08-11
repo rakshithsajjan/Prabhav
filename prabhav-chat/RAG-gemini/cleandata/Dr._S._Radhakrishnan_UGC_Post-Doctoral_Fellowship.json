@@ -8,9 +8,9 @@
         "details": "The scheme 'Dr. S. Radhakrishnan UGC Post-Doctoral Fellowship' is a fellowship scheme by the University Grants Commission (UGC), Department of Higher Education (DoHE). Post-doctoral research is an important enabling step in grooming young researchers for launching an academic/research career. A post-doctoral stint also provides an opportunity to acquire new skills, broaden one's horizon and offer a platform for transition into cross-disciplinary areas. University Grants Commission provides opportunities for post-doctoral research under the UGC Post-doctoral fellowship schemes. The objective of these fellowships is to provide an opportunity to carry out advanced studies and research in Sciences, Engineering, and Technology, Humanities & Social Sciences including languages in Indian Universities/Institutions. The tenure of the fellowship is 3 years with no provision for further extension.",
         "benefits": [
             "900 slots available",
-            "Fellowship @ \u20b9 50,000/- p.m.",
-            "Contingency @ \u20b9 50,000/- p.a.",
-            "Escorts/Reader Assistance @ \u20b9 3000/-p.m. for PWD"
+            "Fellowship @ ₹ 50,000/- p.m.",
+            "Contingency @ ₹ 50,000/- p.a.",
+            "Escorts/Reader Assistance @ ₹ 3000/-p.m. for PWD"
         ],
         "eligibility": [
             "Unemployed candidates with a Ph.D. degree in relevant subjects",
@@ -71,5 +71,6 @@
             "UGC",
             "Higher Education"
         ]
-    }
+    },
+    "id": "000444"
 }

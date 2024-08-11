@@ -5,9 +5,9 @@
         "department": "Social Welfare",
         "type": "Pension",
         "beneficiary": "Transgender",
-        "details": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. Under the 'Pension to Transgenders' component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Transgender Pensioners who have meager support or no source of livelihood.",
+        "details": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. Under the 'Pension to Transgenders' component of ISSS, a pension of ₹1000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to Transgender Pensioners who have meager support or no source of livelihood.",
         "benefits": [
-            "A pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+            "A pension of ₹1000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
         ],
         "eligibility": [
             "The applicant should be Transgender.",
@@ -30,7 +30,7 @@
             },
             {
                 "question": "What benefits are provided under the 'Pension To Transgenders' Component Of ISSS?",
-                "answer": "Under the 'Pension to Transgenders' component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+                "answer": "Under the 'Pension to Transgenders' component of ISSS, a pension of ₹1000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
             },
             {
                 "question": "What is the aim of the 'Pension To Transgenders' Component Of ISSS?",
@@ -73,5 +73,6 @@
             "Transgender",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000874"
 }

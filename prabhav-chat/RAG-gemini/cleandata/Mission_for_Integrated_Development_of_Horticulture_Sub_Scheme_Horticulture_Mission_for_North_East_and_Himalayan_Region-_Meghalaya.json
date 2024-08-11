@@ -2,7 +2,7 @@
     "content": {
         "title": "Mission for Integrated Development of Horticulture Sub Scheme Horticulture Mission for North East and Himalayan Region- Meghalaya",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya",
+        "department": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya",
         "type": "Sub Scheme",
         "beneficiary": "Farmers",
         "details": "The 'Mission for Integrated Development of Horticulture (MIDH) Scheme' is a Centrally Sponsored Scheme, launched by the Ministry of Agriculture and Farmers Welfare, Government of India, for the holistic growth of the horticulture sector covering fruits, vegetables, root & tuber crops, mushrooms, spices, flowers, aromatic plants, coconut, cashew, cocoa, and bamboo. Under MIDH, Government of India (GOI) contributes 60%, of the total outlay for developmental programmes in all the states except states in North East and Himalayas, and 40% share is contributed by State Governments. In the case of North Eastern States and Himalayan States, GOI contributes 90%. MIDH also provides technical advice and administrative support to State Governments/ State Horticulture Missions (SHMs) for the Saffron Mission and other horticulture-related activities Rashtriya Krishi Vikas Yojana (RKVY)/NMSA.",
@@ -57,7 +57,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers shall be selected on a first come first serve basis."
             },
             {
@@ -90,5 +90,6 @@
             "Integrated Development",
             "Mission"
         ]
-    }
+    },
+    "id": "001145"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Agriculture and Farmer's Welfare",
         "type": "Subsidy",
         "beneficiary": "Scheduled Caste Farmers",
-        "details": "The scheme 'Assistance to Scheduled Caste Farmers for Installation of Submersible / Centrifugal Motor Pumpsets With Accessories' was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the farmers from the Scheduled Caste Category are provided with a grant of 90% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of \u20b960,000/\u2010 per tubewell per individual.",
+        "details": "The scheme 'Assistance to Scheduled Caste Farmers for Installation of Submersible / Centrifugal Motor Pumpsets With Accessories' was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the farmers from the Scheduled Caste Category are provided with a grant of 90% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of ₹60,000/‐ per tubewell per individual.",
         "benefits": [
-            "90% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of \u20b960,000/\u2010 per tubewell per individual."
+            "90% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of ₹60,000/‐ per tubewell per individual."
         ],
         "eligibility": [
             "The applicant should be from the Scheduled Caste Category.",
@@ -94,5 +94,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000129"
 }

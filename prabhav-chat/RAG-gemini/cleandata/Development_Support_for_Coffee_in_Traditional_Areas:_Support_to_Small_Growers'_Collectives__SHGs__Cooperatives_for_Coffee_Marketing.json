@@ -7,7 +7,7 @@
         "beneficiary": "Small Growers' Collectives, Self Help Groups (SHGs), and Cooperatives",
         "details": "The scheme aims to support small and tiny coffee growers in forming collectives, Self Help Groups (SHGs), or cooperatives, thus encouraging them to engage in the marketing of coffee produced through a community-based approach, with financial incentives to improve coffee quality and enhance its value.",
         "benefits": [
-            "Subsidy of \u20b94.00 per kilogram of clean coffee",
+            "Subsidy of ₹4.00 per kilogram of clean coffee",
             "Support for marketing coffee through recognized platforms",
             "Additional support for SC/ST community growers"
         ],
@@ -50,7 +50,7 @@
             },
             {
                 "question": "How much subsidy is provided per kilogram of clean coffee under this scheme?",
-                "answer": "The subsidy is \u20b94.00 per kilogram of clean coffee."
+                "answer": "The subsidy is ₹4.00 per kilogram of clean coffee."
             },
             {
                 "question": "What are the acceptable methods of marketing coffee under this scheme?",
@@ -82,5 +82,6 @@
             "Cooperatives",
             "Self Help Groups"
         ]
-    }
+    },
+    "id": "000384"
 }

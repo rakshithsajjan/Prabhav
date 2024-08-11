@@ -7,15 +7,15 @@
         "beneficiary": "Construction Worker",
         "details": "The scheme 'Nirman Shramik Kalyan Yojana' was launched by the Labour and Employee's State Insurance Department, Government of Odisha. The objective of the scheme is to extend financial assistance to eligible building and other construction workers for continuing education of their wards/children under the 'Nirman Shramik Kalyan Yojana' being extended by the Odisha Building and Other Construction Workers Welfare Board.",
         "benefits": [
-            "For Class- 6th and 7th to girl child: \u20b92,000/- per annum",
-            "For Class- 8th to all children: \u20b92,000/- per annum with 20% additional benefit to girl child",
-            "For Class- 9th to all children: \u20b93,000/- per annum with 20% additional benefit to girl child",
-            "For Class- 10th to all children: \u20b94,000/- per annum with 20% additional benefit to girl child",
-            "Cash award to the children securing 90% or above in Class-10th: \u20b910,000/- (One time) with 20% additional benefit to girl child",
-            "For Class \u2013 11th/12th: \u20b95,000/- per annum with 20% additional benefit to girl child",
-            "For Classes of B.A./B.Sc./ B.Com./PG Studies: \u20b97,000/- per annum with 20% additional benefit to girl child",
-            "For B. Tech/ MCA/ MBA/ B. Arch./ M. Arch./ M.Tech/ M. Sc./ B. Pharm/ M. Pharm/ Hotel Management & Catering Services/ Medical in Govt. Colleges only: \u20b940,000/- per annum with 20% additional benefit to girl child",
-            "For B.Ed / CT/ Nursing Training in Govt. Institutes: \u20b910,000/- per annum with 20% additional benefit to girl child"
+            "For Class- 6th and 7th to girl child: ₹2,000/- per annum",
+            "For Class- 8th to all children: ₹2,000/- per annum with 20% additional benefit to girl child",
+            "For Class- 9th to all children: ₹3,000/- per annum with 20% additional benefit to girl child",
+            "For Class- 10th to all children: ₹4,000/- per annum with 20% additional benefit to girl child",
+            "Cash award to the children securing 90% or above in Class-10th: ₹10,000/- (One time) with 20% additional benefit to girl child",
+            "For Class – 11th/12th: ₹5,000/- per annum with 20% additional benefit to girl child",
+            "For Classes of B.A./B.Sc./ B.Com./PG Studies: ₹7,000/- per annum with 20% additional benefit to girl child",
+            "For B. Tech/ MCA/ MBA/ B. Arch./ M. Arch./ M.Tech/ M. Sc./ B. Pharm/ M. Pharm/ Hotel Management & Catering Services/ Medical in Govt. Colleges only: ₹40,000/- per annum with 20% additional benefit to girl child",
+            "For B.Ed / CT/ Nursing Training in Govt. Institutes: ₹10,000/- per annum with 20% additional benefit to girl child"
         ],
         "eligibility": [
             "The wards/children of the building and other construction workers are eligible to apply under the scheme.",
@@ -24,10 +24,10 @@
             "A maximum of two children of a family are eligible to get the assistance.",
             "For 6th and 7th standard the scheme is applicable only in respect of girl children; whereas for class 8th onwards the scheme is applicable to both girls and boys."
         ],
-        "application_process": "Online. For new users, click on the Registration link on the Scholarship Portal. Existing users can click on the \u2018Login\u2019 button and enter the Aadhaar number to proceed.",
+        "application_process": "Online. For new users, click on the Registration link on the Scholarship Portal. Existing users can click on the ‘Login’ button and enter the Aadhaar number to proceed.",
         "documents_required": [
             "A copy of Aadhaar Card of the applicant",
-            "Applicant\u2019s Photograph",
+            "Applicant’s Photograph",
             "Mark Sheets/Certificate of last qualifying examination",
             "Aadhaar Card of the parent registered with the OB&OCWW Board",
             "Building and Other Construction ID Card",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "How much amount of scholarship is paid under scheme?",
-                "answer": "The scholarship under the scheme is given to the children from \u20b92,000/- to \u20b940,000/- per annum as per the eligibility criteria."
+                "answer": "The scholarship under the scheme is given to the children from ₹2,000/- to ₹40,000/- per annum as per the eligibility criteria."
             },
             {
                 "question": "When will the students receive the scholarship?",
@@ -95,5 +95,6 @@
                 "url": "https://scholarship.odisha.gov.in/website/scholarship-details"
             }
         ]
-    }
+    },
+    "id": "001362"
 }

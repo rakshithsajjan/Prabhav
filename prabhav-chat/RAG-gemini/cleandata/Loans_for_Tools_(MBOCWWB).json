@@ -7,7 +7,7 @@
         "beneficiary": "Building and construction workers",
         "details": "The 'Loans for Tools' scheme is implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB). Under the scheme, a one-time grant will be granted to all members of the fund for the purchase of tools subject to the conditions. The members of the fund who have completed 3 years of membership in the fund and those who remit contributions regularly will be eligible for this loan.",
         "benefits": [
-            "Registered building and construction workers will receive a one-time grant of up to \u20b910,000/- for the purchase of tools."
+            "Registered building and construction workers will receive a one-time grant of up to ₹10,000/- for the purchase of tools."
         ],
         "eligibility": [
             "The beneficiary should be a resident of Meghalaya.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the maximum grant amount under this scheme?",
-                "answer": "Beneficiaries can receive a one-time grant of up to \u20b910,000/- for the purchase of tools."
+                "answer": "Beneficiaries can receive a one-time grant of up to ₹10,000/- for the purchase of tools."
             },
             {
                 "question": "Is there an age requirement for eligibility?",
@@ -105,5 +105,6 @@
             "Loan",
             "Tool"
         ]
-    }
+    },
+    "id": "001038"
 }

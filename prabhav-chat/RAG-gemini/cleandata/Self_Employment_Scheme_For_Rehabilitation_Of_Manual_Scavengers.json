@@ -7,12 +7,12 @@
         "beneficiary": "Identified manual scavengers and their dependants",
         "details": "The Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) was introduced in January 2017 by the Ministry of Social Justice and Empowerment, to assist the identified manual scavengers and their dependants in rehabilitation in alternative occupations. SRMS was revised in November 2013 in consonance with the provision of the 'Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 (MS Act, 2013).",
         "benefits": [
-            "Identified manual scavengers, one from each family, are provided one-time cash assistance of \u20b9 40,000.",
-            "The identified manual scavengers and their dependents are provided project-based upfront capital subsidy up to \u20b9 5,00,000 and concessional loans for undertaking self-employment ventures.",
+            "Identified manual scavengers, one from each family, are provided one-time cash assistance of ₹ 40,000.",
+            "The identified manual scavengers and their dependents are provided project-based upfront capital subsidy up to ₹ 5,00,000 and concessional loans for undertaking self-employment ventures.",
             "Sanitation workers and their dependants are provided assistance for the procurement of sanitation-related projects on the same scale as admissible to manual scavengers for general tasks.",
-            "The group of the target beneficiaries is eligible for projects costing up to \u20b9 50,00,000.",
-            "Beneficiaries are also provided training for skill development for up to two years, during which a stipend of \u20b9 3,000 per month is also provided.",
-            "Manual Scavengers and their family members are also eligible for Health Insurance coverage of \u20b9 5,00,000 under the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PMJAY).",
+            "The group of the target beneficiaries is eligible for projects costing up to ₹ 50,00,000.",
+            "Beneficiaries are also provided training for skill development for up to two years, during which a stipend of ₹ 3,000 per month is also provided.",
+            "Manual Scavengers and their family members are also eligible for Health Insurance coverage of ₹ 5,00,000 under the Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PMJAY).",
             "Upskilling/RPL training is provided to sanitation workers.",
             "Workshops are organized with the officers, supervisors, and sanitation workers on 'Hazardous Cleaning of Sewers and Septic Tanks'."
         ],
@@ -101,5 +101,6 @@
             "Scavengers",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001767"
 }

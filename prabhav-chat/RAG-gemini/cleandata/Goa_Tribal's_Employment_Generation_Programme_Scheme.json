@@ -5,11 +5,11 @@
         "department": "Department of Tribal Welfare",
         "type": "Loan",
         "beneficiary": "Scheduled Tribe",
-        "details": "The scheme 'Goa Tribal\u2019s Employment Generation Programme Scheme' by the Department of Tribal Welfare, Government of Goa, is for educated unemployed individuals in the 18-45 years age group who are members of the tribal communities of Goa. The scheme provides a subsidy of 40% on the total loan amount i.e. 95% of the project cost. The loan is provided for activities such as Micro and Small Manufacturing Enterprises, Service Enterprises, and Trade Enterprises. The beneficiary is also provided with compulsory entrepreneurship training of up to 7 days.",
+        "details": "The scheme 'Goa Tribal’s Employment Generation Programme Scheme' by the Department of Tribal Welfare, Government of Goa, is for educated unemployed individuals in the 18-45 years age group who are members of the tribal communities of Goa. The scheme provides a subsidy of 40% on the total loan amount i.e. 95% of the project cost. The loan is provided for activities such as Micro and Small Manufacturing Enterprises, Service Enterprises, and Trade Enterprises. The beneficiary is also provided with compulsory entrepreneurship training of up to 7 days.",
         "benefits": [
             "Subsidy of 40% on the total loan amount",
             "Compulsory entrepreneurship training of up to 7 days",
-            "Maximum project cost for Micro & Small Manufacturing Enterprises: \u20b925 lakhs",
+            "Maximum project cost for Micro & Small Manufacturing Enterprises: ₹25 lakhs",
             "Maximum working capital limit for Service Enterprises: 80%",
             "Interest rate of 4% per annum",
             "Flexible repayment schedule of 60 to 120 EMIs"
@@ -84,5 +84,6 @@
             "Loan",
             "Scheduled Tribe"
         ]
-    }
+    },
+    "id": "000688"
 }

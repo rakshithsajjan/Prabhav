@@ -7,7 +7,7 @@
         "beneficiary": "Senior Citizens",
         "details": "The sub-scheme 'Home for the Aged' under the umbrella scheme 'Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)' was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, the senior citizens are provided with stay at subsidiary rates, food (both vegetarian and non-vegetarian), routine health check up by doctors thrice in a week, providing newspapers and television for entertainment.",
         "benefits": [
-            "Stay at Subsidiary Rate of \u20b91200/- for the Inmates.",
+            "Stay at Subsidiary Rate of ₹1200/- for the Inmates.",
             "Food (Both Vegetarian and Non-vegetarian).",
             "Routine Health Check Up by Doctors Thrice in a Week.",
             "Newspapers and Television for Entertainment."
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What are the stay charges for the inmates under this scheme?",
-                "answer": "Inmates enjoy a stay at a subsidiary rate of \u20b91200 per month."
+                "answer": "Inmates enjoy a stay at a subsidiary rate of ₹1200 per month."
             },
             {
                 "question": "What services are provided to senior citizens under this scheme?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "Is the stay rate inclusive of meals for the inmates?",
-                "answer": "Yes, the stay rate of \u20b91200 includes both vegetarian and non-vegetarian meals."
+                "answer": "Yes, the stay rate of ₹1200 includes both vegetarian and non-vegetarian meals."
             },
             {
                 "question": "What entertainment facilities are provided to the senior citizens?",
@@ -92,5 +92,6 @@
             "Senior Citizen",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000781"
 }

@@ -7,15 +7,15 @@
         "beneficiary": "Artists",
         "details": "The 'Scheme for Financial Assistance for Veteran Artists', earlier known as 'Scheme for Pension and Medical Aid to Artists' was launched by the Ministry of Culture. The Scheme is meant for improving the financial and socio-economic status of the old artists and scholars who have contributed significantly in their specialized fields of arts, letters, etc. in their active age or are still contributing in the field of arts, letters, etc. but due to old age, they have to lead a miserable life or are in penury condition. Under the scheme, financial assistance from the Government may be given in the form of a monthly allowance.",
         "benefits": [
-            "A total allowance of \u20b96000/- per month will be given to an eligible beneficiary.",
+            "A total allowance of ₹6000/- per month will be given to an eligible beneficiary.",
             "In case of the death of a beneficiary getting an artist pension, the financial assistance may be transferred, at the discretion of the Central Government, in the name of the spouse of the beneficiary till life."
         ],
         "eligibility": [
             "A person's contribution to art and letters, etc. must be of significance.",
             "Traditional scholars who have made significant contributions in their fields would also be eligible notwithstanding the absence of any published works.",
-            "The personal income of the applicant (including the income of the spouse) must not exceed \u20b94,000/- per month or an annual income of \u20b948,000/-.",
+            "The personal income of the applicant (including the income of the spouse) must not exceed ₹4,000/- per month or an annual income of ₹48,000/-.",
             "The applicant should not be less than 60 (sixty) years of age.",
-            "The applicant artiste is getting a pension of at least \u20b9500/- per month from the concerned State Government/UT Administration.",
+            "The applicant artiste is getting a pension of at least ₹500/- per month from the concerned State Government/UT Administration.",
             "The applicant artists should not be getting financial assistance under other Schemes of the Ministry."
         ],
         "exclusions": [],
@@ -26,7 +26,7 @@
             "Self-attested copy of any one document for proof of Date of Birth.",
             "Self-attested copy of Aadhaar Card issued by UIDAI.",
             "Original copy of Income Certificate in the prescribed format.",
-            "Copies of relevant documents which support the applicant\u2019s contributions made in the field of Art, Culture, etc.",
+            "Copies of relevant documents which support the applicant’s contributions made in the field of Art, Culture, etc.",
             "Duly filled-in and signed prescribed Bank Authorization letter.",
             "Recommendation letter obtained from the Culture Department of the concerned State Government/UT Administrations."
         ],
@@ -49,11 +49,11 @@
             },
             {
                 "question": "What is the income criterion to apply under the scheme?",
-                "answer": "The personal income of the applicant (including the income of the spouse) must not exceed \u20b948,000/- per annum."
+                "answer": "The personal income of the applicant (including the income of the spouse) must not exceed ₹48,000/- per annum."
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, a total allowance of \u20b96000/- per month will be given to an eligible beneficiary."
+                "answer": "Under the scheme, a total allowance of ₹6000/- per month will be given to an eligible beneficiary."
             }
         ],
         "sources": [
@@ -78,5 +78,6 @@
             "Senior Citizen",
             "Veteran"
         ]
-    }
+    },
+    "id": "001663"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Social Justice",
         "type": "Financial Assistance",
         "beneficiary": "Ex-Convict",
-        "details": "The scheme \u201cFinancial Assistance to Ex-Convicts\u201d was launched by the Department of Social Justice, Government of Kerala. This scheme is implemented by the Department of Social Justice to help those released from jail from poor economic conditions to find their livelihood. As part of this scheme, one-time financial assistance is provided to those released from jail to find self-employment and start some small Industry/Trade as part of social rehabilitation. The age-old idea was that the offender should be confined to prison and kept away from the community as long as possible. But, in the course of time, it has been realized that the protection of society is better ensured if the offender is corrected and reformed through individualized treatments. Therefore, the Government of Kerala has started this scheme and providing financial assistance to them. Thus, by utilizing this amount of assistance Ex-Convicts shall be engaged in small-scale income-generating activities.",
+        "details": "The scheme “Financial Assistance to Ex-Convicts” was launched by the Department of Social Justice, Government of Kerala. This scheme is implemented by the Department of Social Justice to help those released from jail from poor economic conditions to find their livelihood. As part of this scheme, one-time financial assistance is provided to those released from jail to find self-employment and start some small Industry/Trade as part of social rehabilitation. The age-old idea was that the offender should be confined to prison and kept away from the community as long as possible. But, in the course of time, it has been realized that the protection of society is better ensured if the offender is corrected and reformed through individualized treatments. Therefore, the Government of Kerala has started this scheme and providing financial assistance to them. Thus, by utilizing this amount of assistance Ex-Convicts shall be engaged in small-scale income-generating activities.",
         "benefits": [
-            "Under the scheme, the maximum amount of financial assistance is \u20b915,000/- per person will be provided to the eligible beneficiary as one-time assistance."
+            "Under the scheme, the maximum amount of financial assistance is ₹15,000/- per person will be provided to the eligible beneficiary as one-time assistance."
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
@@ -29,7 +29,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cFinancial Assistance To Ex-Convicts\u201d scheme?",
+                "question": "What is the “Financial Assistance To Ex-Convicts” scheme?",
                 "answer": "This scheme is implemented by the Department of Social Justice to help those released from jail from poor economic conditions to find their livelihood. As part of this scheme, one-time financial assistance is provided to those released from jail to find self-employment and start some small Industry/Trade as part of social rehabilitation."
             },
             {
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the maximum amount of financial assistance is \u20b915,000/- per person will be provided to the eligible beneficiary."
+                "answer": "Under the scheme, the maximum amount of financial assistance is ₹15,000/- per person will be provided to the eligible beneficiary."
             },
             {
                 "question": "How many times a beneficiary can avail of the benefit under this scheme?",
@@ -86,5 +86,6 @@
             "Jail",
             "Self-employment"
         ]
-    }
+    },
+    "id": "000540"
 }

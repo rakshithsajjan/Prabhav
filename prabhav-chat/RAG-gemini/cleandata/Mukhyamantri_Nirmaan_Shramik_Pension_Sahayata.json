@@ -7,8 +7,8 @@
         "beneficiary": "Building and other construction workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Mukhyamantri Nirmaan Shramik Pension Sahayata' for Building and other construction worker on 29 March 2023. The main objective of the scheme is to provide financial assistance to compensate the loss in regular income of the beneficiary due to lack of work available to him every day and to ensure smooth functioning of his livelihood.",
         "benefits": [
-            "Pension to the Beneficiary: \u20b9 1,500/- per month",
-            "Pension to the widow of the beneficiary: \u20b9 700/- per month"
+            "Pension to the Beneficiary: ₹ 1,500/- per month",
+            "Pension to the widow of the beneficiary: ₹ 700/- per month"
         ],
         "eligibility": [
             "Beneficiaries should be 60 years old or more.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Pension to the Beneficiary: \u20b9 1,500/- per month or Pension to the widow of the beneficiary: \u20b9 700/- per month."
+                "answer": "Pension to the Beneficiary: ₹ 1,500/- per month or Pension to the widow of the beneficiary: ₹ 700/- per month."
             },
             {
                 "question": "Who can get the benefits?",
@@ -89,5 +89,6 @@
             "Pension Scheme",
             "Chhattisgarh"
         ]
-    }
+    },
+    "id": "001219"
 }

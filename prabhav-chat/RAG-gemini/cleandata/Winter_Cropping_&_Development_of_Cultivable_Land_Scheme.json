@@ -2,10 +2,10 @@
     "content": {
         "title": "Winter Cropping & Development of Cultivable Land Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmers",
-        "details": "The scheme 'Winter Cropping & Development of Cultivable Land' was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objectives of the scheme are as follows: To bring more areas under cultivation during the normally lean winter season under different crops other than paddy. To increase production and productivity of various crops like cereals, pulses, oilseeds, and vegetables during Rabi Season. Note: This availability of the above state plan scheme in any particular year is subject to the availability of funds and necessary sanction by the State Government. The continuation of any scheme in a particular year is also subject to the discretion of the State Government. Farmers are therefore advised to check the availability of any scheme with the respective District Agriculture Officers.",
+        "details": "The scheme 'Winter Cropping & Development of Cultivable Land' was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objectives of the scheme are as follows: To bring more areas under cultivation during the normally lean winter season under different crops other than paddy. To increase production and productivity of various crops like cereals, pulses, oilseeds, and vegetables during Rabi Season. Note: This availability of the above state plan scheme in any particular year is subject to the availability of funds and necessary sanction by the State Government. The continuation of any scheme in a particular year is also subject to the discretion of the State Government. Farmers are therefore advised to check the availability of any scheme with the respective District Agriculture Officers.",
         "benefits": [
             "Training",
             "Extension",
@@ -34,7 +34,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -53,7 +53,7 @@
                 "answer": "The bonafide farmers who are engaged in agriculture can apply in plain paper to the nearest Horticulture Development Officer of a CD Block/ Agriculture circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers shall be selected on a first come first serve basis."
             },
             {
@@ -80,5 +80,6 @@
             "Technology Support",
             "Training"
         ]
-    }
+    },
+    "id": "002059"
 }

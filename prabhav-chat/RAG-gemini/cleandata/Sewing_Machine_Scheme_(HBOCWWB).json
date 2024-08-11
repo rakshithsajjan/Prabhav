@@ -7,13 +7,13 @@
         "beneficiary": "Registered women construction workers",
         "details": "The scheme 'Sewing Machine Scheme' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). This scheme aims to encourage registered women construction workers and to enable them to mend their clothing at their homes. Under this scheme, financial assistance is provided to registered women construction workers, who have a minimum one-year regular membership, for purchasing a sewing machine. This benefit is admissible once in a lifetime. The Board can also provide a sewing machine.",
         "benefits": [
-            "Financial assistance of \u20b94,500/- for purchasing a sewing machine.",
+            "Financial assistance of ₹4,500/- for purchasing a sewing machine.",
             "The Board can provide a sewing machine."
         ],
         "eligibility": [
             "The applicant should be a woman and engaged in building or construction work.",
             "The applicant should be registered under the Haryana Building & Other Construction Workers Welfare Board.",
-            "The registered woman worker must have a minimum of one year\u2019s regular membership.",
+            "The registered woman worker must have a minimum of one year’s regular membership.",
             "The applicant should have an active membership of the Board.",
             "This benefit is admissible once in a lifetime.",
             "The application frequency is limited to once."
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What are the benefits provided under this scheme?",
-                "answer": "Registered women construction workers can receive financial assistance of \u20b94,500/- for purchasing a sewing machine."
+                "answer": "Registered women construction workers can receive financial assistance of ₹4,500/- for purchasing a sewing machine."
             },
             {
                 "question": "Is there an option for the Board to provide sewing machines directly?",
@@ -76,7 +76,7 @@
             },
             {
                 "question": "Is there any registration fee required when registering under HBOCWWB?",
-                "answer": "Registration fee of \u20b925/- once in lifetime and \u20b95/- per month (\u20b960/- P.A) as subscription fee shall be paid to the Board by the beneficiary."
+                "answer": "Registration fee of ₹25/- once in lifetime and ₹5/- per month (₹60/- P.A) as subscription fee shall be paid to the Board by the beneficiary."
             }
         ],
         "sources": [
@@ -105,5 +105,6 @@
             "Sewing Machine",
             "Woman"
         ]
-    }
+    },
+    "id": "001773"
 }

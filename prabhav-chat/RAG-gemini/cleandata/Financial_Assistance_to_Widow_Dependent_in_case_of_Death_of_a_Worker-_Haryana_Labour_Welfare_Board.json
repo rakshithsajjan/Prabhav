@@ -5,9 +5,9 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Widow or dependent of a deceased worker",
-        "details": "The scheme 'Financial Assistance to Widow/Dependent in case of Death of a Worker' is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. Under this scheme, financial assistance of \u20b92,00,000/- is given to the widow or dependent of the worker working in the industrial and commercial establishments of Haryana state in case of his death due to any reason.",
+        "details": "The scheme 'Financial Assistance to Widow/Dependent in case of Death of a Worker' is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. Under this scheme, financial assistance of ₹2,00,000/- is given to the widow or dependent of the worker working in the industrial and commercial establishments of Haryana state in case of his death due to any reason.",
         "benefits": [
-            "Under this scheme, financial assistance of \u20b92,00,000/- is given to the widow or dependent of the deceased worker."
+            "Under this scheme, financial assistance of ₹2,00,000/- is given to the widow or dependent of the deceased worker."
         ],
         "eligibility": [
             "The applicant should be the widow or dependent of a deceased worker.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "How much financial assistance does the scheme provide?",
-                "answer": "The scheme offers a financial assistance of \u20b92,00,000/- to the widow or dependent of the deceased worker."
+                "answer": "The scheme offers a financial assistance of ₹2,00,000/- to the widow or dependent of the deceased worker."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -81,5 +81,6 @@
             "Worker",
             "Haryana"
         ]
-    }
+    },
+    "id": "000610"
 }

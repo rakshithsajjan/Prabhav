@@ -7,15 +7,15 @@
         "beneficiary": "Startups",
         "details": "The scheme 'Startup India Seed Fund Scheme (SISFS)' was launched by the Department for Promotion of Industry and Internal Trade (DPIIT) on 19th April 2021 with an outlay of INR 945 Crore to provide financial assistance to startups for Proof of Concept, prototype development, product trials, market-entry, and commercialization. Eligible startups can apply for the scheme on the Startup India portal. The Seed Fund will be disbursed to selected startups through eligible incubators across India.",
         "benefits": [
-            "Up to \u20b920 Lakhs as a grant for validation of Proof of Concept, prototype development, or product trials.",
-            "Up to \u20b950 Lakhs of investment for market entry, commercialization, or scaling up through convertible debentures or debt or debt-linked instruments."
+            "Up to ₹20 Lakhs as a grant for validation of Proof of Concept, prototype development, or product trials.",
+            "Up to ₹50 Lakhs of investment for market entry, commercialization, or scaling up through convertible debentures or debt or debt-linked instruments."
         ],
         "eligibility": [
             "A startup, recognized by DPIIT, incorporated not more than 2 years ago at the time of application.",
             "Startups must have a business idea to develop a product or a service with market fit, viable commercialization, and scope of scaling.",
             "A startup should be using technology in its core product or service, or business model, or distribution model, or methodology to solve the problem being targeted.",
             "Preference would be given to startups creating innovative solutions in various sectors.",
-            "The startup should not have received more than \u20b910 lakhs of monetary support under any other Central or State Government scheme.",
+            "The startup should not have received more than ₹10 lakhs of monetary support under any other Central or State Government scheme.",
             "Shareholding by Indian promoters in the startup should be at least 51% at the time of application."
         ],
         "exclusions": [],
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How much seed funding can a startup receive under the scheme?",
-                "answer": "Seed Funds to an eligible startup by the incubator shall be disbursed as follows: Up to \u20b920 Lakhs as a grant for validation of Proof of Concept, or prototype development, or product trials; Up to \u20b950 Lakhs of investment for market entry, commercialization, or scaling up."
+                "answer": "Seed Funds to an eligible startup by the incubator shall be disbursed as follows: Up to ₹20 Lakhs as a grant for validation of Proof of Concept, or prototype development, or product trials; Up to ₹50 Lakhs of investment for market entry, commercialization, or scaling up."
             }
         ],
         "sources": [
@@ -78,5 +78,6 @@
             "Grant",
             "Incubator"
         ]
-    }
+    },
+    "id": "001840"
 }

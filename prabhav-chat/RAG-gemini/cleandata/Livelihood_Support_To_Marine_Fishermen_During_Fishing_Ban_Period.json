@@ -7,7 +7,7 @@
         "beneficiary": "Fishermen",
         "details": "The scheme 'Livelihood Support to Marine Fishermen during Fishing Ban Period' was launched by the Department of Fisheries & Animal Resources Development, Government of Odisha in the financial year 2016-17 to support the livelihood of marine fisher families in and around the turtle nesting and breeding areas of the state including round the year fishing ban in Bhitarkanika areas as no alternative is available. As the livelihood earning of fishermen is solely based on sea fishing and the ban on fishing directly prohibits the profession over a long period of seven months in a year (1st November to 31st May) (both days inclusive) along with a Uniform ban from 15th April to 14th June (61 days). The Scheme shall be implemented in the Marine Districts of Kendrapara, Jagatsinghpur, Puri, and Ganjam along the Coastline of Odisha where the marine Fishers who are affected due to the ban on fishing round the year at Gahirmatha Marine Sanctuary, Bhitarkanika National park and adjoining areas of Devi River and Rushikulya River Mouth for Sea Turtle Conservation.",
         "benefits": [
-            "Only one member of the affected families shall be assisted with \u20b915,000/- annually under the scheme.",
+            "Only one member of the affected families shall be assisted with ₹15,000/- annually under the scheme.",
             "The amount shall be paid to the beneficiaries between November to March of a financial year in one Installment.",
             "The assistance amount shall be released to the beneficiaries through Direct Benefit Transfer."
         ],
@@ -63,7 +63,7 @@
             },
             {
                 "question": "How much financial assistance will be given to the beneficiary?",
-                "answer": "The financial assistance of \u20b915,000/- per year will be given to eligible beneficiaries under the scheme."
+                "answer": "The financial assistance of ₹15,000/- per year will be given to eligible beneficiaries under the scheme."
             },
             {
                 "question": "When will the amount of financial assistance be paid to the beneficiary?",
@@ -108,5 +108,6 @@
                 "url": "https://fard.odisha.gov.in/fisheries-schemes"
             }
         ]
-    }
+    },
+    "id": "001027"
 }

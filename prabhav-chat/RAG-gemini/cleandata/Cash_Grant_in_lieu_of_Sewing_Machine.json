@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Grant",
         "beneficiary": "Widows of Ex-servicemen",
-        "details": "Cash Grant in lieu of Sewing Machine is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, \u20b910,000/- is provided to the Widows of Ex-servicemen for the purchase of a Sewing Machine. This scheme applies only to the Widows of the ESM registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+        "details": "Cash Grant in lieu of Sewing Machine is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, ₹10,000/- is provided to the Widows of Ex-servicemen for the purchase of a Sewing Machine. This scheme applies only to the Widows of the ESM registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
         "benefits": [
-            "A Cash Grant of \u20b910,000/- is provided for the purchase of a Sewing Machine.",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "A Cash Grant of ₹10,000/- is provided for the purchase of a Sewing Machine.",
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be the Widow of an Ex-serviceman.",
@@ -70,5 +70,6 @@
             "Sainik",
             "Widow"
         ]
-    }
+    },
+    "id": "000253"
 }

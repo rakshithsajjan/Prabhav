@@ -7,7 +7,7 @@
         "beneficiary": "Individuals, Companies, Self Help Groups, NGOs, Institutions registered under Societies Registration Act 1860, Production Co-operative Societies, Joint Liability Groups and Charitable Trust",
         "details": "Coir Udyami Yojana is a credit linked subsidy scheme for setting up of coir units with project cost up to Rs.10 lakhs plus one cycle of working capital, which shall not exceed 25% of the project cost. Working capital will not be considered for subsidy. The scheme is administered by the Ministry of Micro, Small and Medium Enterprises and implemented by Coir Board.",
         "benefits": [
-            "Beneficiary\u2019s contribution (of Project Cost) - 5%",
+            "Beneficiary’s contribution (of Project Cost) - 5%",
             "Bank credit - 55%",
             "Rate of Subsidy (of project cost) - 40%",
             "Maximum admissible cost of the project is Rs.10 lakhs plus working capital."
@@ -54,5 +54,6 @@
             "Credit Linked Subsidy",
             "MSME"
         ]
-    }
+    },
+    "id": "000324"
 }

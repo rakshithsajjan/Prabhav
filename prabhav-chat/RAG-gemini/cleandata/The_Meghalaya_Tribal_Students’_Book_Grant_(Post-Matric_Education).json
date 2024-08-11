@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "The Meghalaya Tribal Students\u2019 Book Grant (Post-Matric Education)",
+        "title": "The Meghalaya Tribal Students’ Book Grant (Post-Matric Education)",
         "state": "Meghalaya",
         "department": "Department of Public Instruction",
         "type": "Grant",
         "beneficiary": "Students belonging to the Khasi, Jaintia, or Garo communities",
-        "details": "The Meghalaya Tribal Students\u2019 Book Grant provides financial assistance to eligible students for purchasing books and educational materials.",
+        "details": "The Meghalaya Tribal Students’ Book Grant provides financial assistance to eligible students for purchasing books and educational materials.",
         "benefits": [
-            "Financial assistance ranging from \u20b9500 to \u20b91500 per student based on the academic course"
+            "Financial assistance ranging from ₹500 to ₹1500 per student based on the academic course"
         ],
         "eligibility": [
             "Permanent resident of Meghalaya",
@@ -76,5 +76,6 @@
             "Meghalaya",
             "Tribal Students"
         ]
-    }
+    },
+    "id": "001952"
 }

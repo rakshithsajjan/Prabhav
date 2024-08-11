@@ -5,12 +5,12 @@
         "department": "Ministry Of Culture",
         "type": "Fellowship",
         "beneficiary": "Artists in the fields of creative arts",
-        "details": "The scheme 'Scheme for Award of Senior/Junior Fellowships to Outstanding Persons in the Fields of Culture' was launched by the Ministry of Culture, Government of India. The objective of the scheme is to provide facilities and opportunities to the artists in the fields of creative arts or for the revival of some of our traditional forms of art. The scheme would also cover artistes in rural/tribal areas. The fellowships are awarded for undertaking research oriented projects. Under this Scheme, a maximum of 200 Junior and Senior Fellows are selected every year. Awardees are paid grant money @ \u20b910,000/- and \u20b920,000/- per month respectively for a period of two years.",
+        "details": "The scheme 'Scheme for Award of Senior/Junior Fellowships to Outstanding Persons in the Fields of Culture' was launched by the Ministry of Culture, Government of India. The objective of the scheme is to provide facilities and opportunities to the artists in the fields of creative arts or for the revival of some of our traditional forms of art. The scheme would also cover artistes in rural/tribal areas. The fellowships are awarded for undertaking research oriented projects. Under this Scheme, a maximum of 200 Junior and Senior Fellows are selected every year. Awardees are paid grant money @ ₹10,000/- and ₹20,000/- per month respectively for a period of two years.",
         "benefits": [
             "200 Junior and Senior Fellows selected every year.",
-            "Stipend of \u20b920,000/- per month for Senior Fellows for a period of two years.",
-            "Stipend of \u20b910,000/- per month for Junior Fellows for a period of two years.",
-            "One-time grant up to a maximum of \u20b920,000/- or 50% of the cost of publication for selected Project documents."
+            "Stipend of ₹20,000/- per month for Senior Fellows for a period of two years.",
+            "Stipend of ₹10,000/- per month for Junior Fellows for a period of two years.",
+            "One-time grant up to a maximum of ₹20,000/- or 50% of the cost of publication for selected Project documents."
         ],
         "eligibility": [
             "Age above 40 years for Senior Fellowships.",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "The junior & senior fellows are paid grant money @ \u20b910,000/- and \u20b920,000/- per month respectively for a period of two years."
+                "answer": "The junior & senior fellows are paid grant money @ ₹10,000/- and ₹20,000/- per month respectively for a period of two years."
             },
             {
                 "question": "What should the minimum educational qualification be required for applying under the scheme?",
@@ -77,5 +77,6 @@
             "Junior Fellows",
             "Senior Fellows"
         ]
-    }
+    },
+    "id": "001660"
 }

@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Cash Incentive",
         "beneficiary": "Unemployed Ex-servicemen",
-        "details": "One Time Cash Incentive towards acquiring BEd, BPEd, DTEd, PGDCA is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to \u20b920,000/- is provided to the unemployed Ex-servicemen to pursue the mentioned programs/courses from Government-recognized Schools/Institutions, upon prior permission from the Department. The application should be submitted offline within three months from the date of successful completion of the course.",
+        "details": "One Time Cash Incentive towards acquiring BEd, BPEd, DTEd, PGDCA is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to ₹20,000/- is provided to the unemployed Ex-servicemen to pursue the mentioned programs/courses from Government-recognized Schools/Institutions, upon prior permission from the Department. The application should be submitted offline within three months from the date of successful completion of the course.",
         "benefits": [
-            "The actual cost of the program/course or \u20b920,000/- is provided to the ESM.",
-            "The amount, as decided by the Management Committee, is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "The actual cost of the program/course or ₹20,000/- is provided to the ESM.",
+            "The amount, as decided by the Management Committee, is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be an Ex-serviceman.",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What is the procedure for seeking information through 'Right To Information (RTI)'?",
-                "answer": "The required information may be asked through an application along with IPO/DD for a sum of \u20b910/- in favour of the Director, Department of Sainik Welfare, Puducherry."
+                "answer": "The required information may be asked through an application along with IPO/DD for a sum of ₹10/- in favour of the Director, Department of Sainik Welfare, Puducherry."
             },
             {
                 "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
@@ -101,5 +101,6 @@
             "Incentive",
             "Student"
         ]
-    }
+    },
+    "id": "001390"
 }

@@ -12,14 +12,14 @@
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a native or a permanent resident of the Union Territory of Pondicherry.",
-            "The annual family income should not exceed \u20b924,000.",
+            "The annual family income should not exceed ₹24,000.",
             "The applicant should have attained the age of 18 years.",
             "The applicant should be a homeless person.",
             "No member of the family of the applicant should own a house/house site.",
             "The applicant should have a bonafide intention to construct a house within 2 years."
         ],
         "exclusions": [],
-        "application_process": "Offline. Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the prescribed format of the application form from: The Director, Adi Dravidar Welfare Department, Thattanchavady, Puducherry \u2013 9. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "application_process": "Offline. Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the prescribed format of the application form from: The Director, Adi Dravidar Welfare Department, Thattanchavady, Puducherry – 9. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
         "documents_required": [
             "Proof of Identity.",
             "Residence-cum-nativity Certificate.",
@@ -38,8 +38,8 @@
                 "answer": "The provided information does not mention any application fee for this scheme."
             },
             {
-                "question": "Can an applicant with an annual income exceeding \u20b924,000 be eligible?",
-                "answer": "No, the annual family income should not exceed \u20b924,000 for eligibility."
+                "question": "Can an applicant with an annual income exceeding ₹24,000 be eligible?",
+                "answer": "No, the annual family income should not exceed ₹24,000 for eligibility."
             },
             {
                 "question": "Which department should provide certification of the applicant's non-ownership of a house?",
@@ -89,5 +89,6 @@
             "Scheduled Caste",
             "Economically Backward Classes"
         ]
-    }
+    },
+    "id": "000414"
 }

@@ -5,14 +5,14 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Individuals from minority communities",
-        "details": "The scheme 'Term Loan Scheme- Credit Line 1 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans of up to \u20b920,00,000/- are provided at a concessional interest rate to individuals from minority communities to enhance their employability. This applies to those with an annual family income of up to \u20b998,000/- in rural areas and \u20b91,20,000/- in urban areas. Applicants must be permanent residents of Haryana and belong to minority communities, including Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
+        "details": "The scheme 'Term Loan Scheme- Credit Line 1 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans of up to ₹20,00,000/- are provided at a concessional interest rate to individuals from minority communities to enhance their employability. This applies to those with an annual family income of up to ₹98,000/- in rural areas and ₹1,20,000/- in urban areas. Applicants must be permanent residents of Haryana and belong to minority communities, including Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
         "benefits": [
-            "Loans of up to \u20b920,00,000/- at a concessional interest rate to individuals from minority communities to enhance their employability."
+            "Loans of up to ₹20,00,000/- at a concessional interest rate to individuals from minority communities to enhance their employability."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The age of the applicant should be between 18 and 55 years.",
-            "The annual family income of the applicant should not exceed \u20b998,000/- (Rural Area) and \u20b91,20,000/- (Urban Area).",
+            "The annual family income of the applicant should not exceed ₹98,000/- (Rural Area) and ₹1,20,000/- (Urban Area).",
             "The applicant should belong to a minority community, i.e., Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
             "The applicant should have a Parivar Pehchan Patra (PPP ID)."
         ],
@@ -32,7 +32,7 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount available under this scheme?",
-                "answer": "Loans of up to \u20b920,00,000/- are provided under this scheme."
+                "answer": "Loans of up to ₹20,00,000/- are provided under this scheme."
             },
             {
                 "question": "What are the minority communities recognized under this scheme?",
@@ -44,11 +44,11 @@
             },
             {
                 "question": "What is the income eligibility criteria for rural areas?",
-                "answer": "The annual family income should not exceed \u20b998,000/- in rural areas."
+                "answer": "The annual family income should not exceed ₹98,000/- in rural areas."
             },
             {
                 "question": "What is the income eligibility criteria for urban areas?",
-                "answer": "The annual family income should not exceed \u20b91,20,000/- in urban areas."
+                "answer": "The annual family income should not exceed ₹1,20,000/- in urban areas."
             },
             {
                 "question": "Do applicants need to be permanent residents of Haryana?",
@@ -83,5 +83,6 @@
             "Minority Community",
             "Term Loan"
         ]
-    }
+    },
+    "id": "001936"
 }

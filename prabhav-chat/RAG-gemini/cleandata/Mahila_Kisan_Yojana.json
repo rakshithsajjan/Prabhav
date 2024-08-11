@@ -5,11 +5,11 @@
         "department": "Scheduled Castes Finance and Development Corporation",
         "type": "Subsidy",
         "beneficiary": "Women from Scheduled Castes",
-        "details": "The scheme 'Mahila Kisan Yojana' is an economic empowerment scheme by the Scheduled Castes Finance and Development Corporation, Government of Haryana. Through this scheme, loans are provided to the eligible women from Scheduled Castes for the betterment of their economic status through self-employment activities in the Agriculture and Allied Sector. The Corporation in collaboration with NSFDC provide loan for various economic development schemes having unit cost upto \u20b9 50,000/-. The Corporation provides margin money @ 10% of the project cost.",
+        "details": "The scheme 'Mahila Kisan Yojana' is an economic empowerment scheme by the Scheduled Castes Finance and Development Corporation, Government of Haryana. Through this scheme, loans are provided to the eligible women from Scheduled Castes for the betterment of their economic status through self-employment activities in the Agriculture and Allied Sector. The Corporation in collaboration with NSFDC provide loan for various economic development schemes having unit cost upto ₹ 50,000/-. The Corporation provides margin money @ 10% of the project cost.",
         "benefits": [
-            "Loan for various economic development schemes having unit cost up to \u20b950,000/-.",
+            "Loan for various economic development schemes having unit cost up to ₹50,000/-.",
             "Margin Money at 10% of the project cost.",
-            "Subsidy at 50% of the total project cost (max. \u20b910,000/-)."
+            "Subsidy at 50% of the total project cost (max. ₹10,000/-)."
         ],
         "eligibility": [
             "The applicant should be a female.",
@@ -17,7 +17,7 @@
             "The applicant should be from a 'Scheduled Caste'.",
             "The applicant's annual family income should not exceed the Below Poverty Line (BPL).",
             "The applicant's name should be present in the BPL survey list.",
-            "The income ceiling is at least 50% of the beneficiaries having annual family income upto \u20b91,50,000/- and balance 50% of the beneficiaries having annual family income upto \u20b93,00,000/-."
+            "The income ceiling is at least 50% of the beneficiaries having annual family income upto ₹1,50,000/- and balance 50% of the beneficiaries having annual family income upto ₹3,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -28,8 +28,8 @@
         ],
         "faqs": [
             {
-                "question": "What type of assistance shall be provided by The Corporation in collaboration with NSFDC for a single unit cost upto \u20b950,000/-?",
-                "answer": "The Corporation in collaboration with NSFDC can provide loan for various economic development schemes having unit cost upto \u20b950,000/-."
+                "question": "What type of assistance shall be provided by The Corporation in collaboration with NSFDC for a single unit cost upto ₹50,000/-?",
+                "answer": "The Corporation in collaboration with NSFDC can provide loan for various economic development schemes having unit cost upto ₹50,000/-."
             },
             {
                 "question": "What percentage of the project cost does the Corporation provide as margin money?",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "How much subsidy does the HSFDC corporation provide, and what is the maximum amount of subsidy one can receive for a project?",
-                "answer": "The corporation (HSFDC) provide subsidy at 50% and maximum amount of subsidy is \u20b910,000/- of the total project cost."
+                "answer": "The corporation (HSFDC) provide subsidy at 50% and maximum amount of subsidy is ₹10,000/- of the total project cost."
             },
             {
                 "question": "Which department/ organisation is the management authority for this scheme?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "Is there any application fee is applicable?",
-                "answer": "No, however \u20b910/- may be applicable as service charges."
+                "answer": "No, however ₹10/- may be applicable as service charges."
             },
             {
                 "question": "How to track the applications?",
@@ -94,5 +94,6 @@
             "Subsidy",
             "Women"
         ]
-    }
+    },
+    "id": "001057"
 }

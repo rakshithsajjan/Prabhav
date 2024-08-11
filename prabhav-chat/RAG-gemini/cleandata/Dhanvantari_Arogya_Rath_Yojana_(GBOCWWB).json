@@ -5,7 +5,7 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Health Scheme",
         "beneficiary": "Construction Workers and their families",
-        "details": "The \u201cDhanvantari Arogya Rath Yojana\u201d was launched by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB) to ensure that construction workers and their families get primary medical treatment at their doorsteps, prevent serious diseases, and maintain their health at places including construction sites, labour colonies, and Kadianaka. The scheme is implemented by EMRI Green Health Services Gujarat (GVK-108) through a tripartite MoU with the Health Department.",
+        "details": "The “Dhanvantari Arogya Rath Yojana” was launched by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB) to ensure that construction workers and their families get primary medical treatment at their doorsteps, prevent serious diseases, and maintain their health at places including construction sites, labour colonies, and Kadianaka. The scheme is implemented by EMRI Green Health Services Gujarat (GVK-108) through a tripartite MoU with the Health Department.",
         "benefits": [
             "Treatment of primary injuries including common diseases like fever, diarrhea, vomiting, skin diseases.",
             "Laboratory tests like urine, blood, blood sugar, malaria.",
@@ -14,7 +14,7 @@
             "Free medicines provided on the spot."
         ],
         "eligibility": [
-            "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board.",
             "Family members of registered construction workers."
         ],
         "exclusions": [],
@@ -37,7 +37,7 @@
             },
             {
                 "question": "Who is eligible for the scheme?",
-                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board and their family members are eligible for the scheme benefits."
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board and their family members are eligible for the scheme benefits."
             },
             {
                 "question": "How can construction workers and their families avail of the benefits?",
@@ -74,5 +74,6 @@
             "Labour",
             "Primary Medical Treatment"
         ]
-    }
+    },
+    "id": "000392"
 }

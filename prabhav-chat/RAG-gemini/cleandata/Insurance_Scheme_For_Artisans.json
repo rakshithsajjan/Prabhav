@@ -7,10 +7,10 @@
         "beneficiary": "Artisans",
         "details": "The 'Insurance Scheme For Artisans' component of the 'Development of Handicrafts' scheme by the Department of Industries and Commerce, Government of Puducherry, was introduced to provide an important welfare measure for handicraft artisans. Under this scheme, artisans are covered under Jana Shree Bima Yojana LIC or any other suitable policy. The premium amount, as stipulated in the insurance policy, is shared, with 50% from the Social Security Fund and the remaining 50% from the Government through DIC.",
         "benefits": [
-            "Assistance in the case of Natural Death: \u20b920,000/-",
-            "Assistance in the case of Death Due to Accident: \u20b950,000/-",
-            "Assistance in the case of Permanent Total Disability Due to Accident (Loss of Two Eyes or Two Limbs): \u20b950,000/-",
-            "Assistance in the case of Permanent Partial Disability (Loss of One Eye or One Limb Due to Accident): \u20b925,000/-"
+            "Assistance in the case of Natural Death: ₹20,000/-",
+            "Assistance in the case of Death Due to Accident: ₹50,000/-",
+            "Assistance in the case of Permanent Total Disability Due to Accident (Loss of Two Eyes or Two Limbs): ₹50,000/-",
+            "Assistance in the case of Permanent Partial Disability (Loss of One Eye or One Limb Due to Accident): ₹25,000/-"
         ],
         "eligibility": [
             "The applicant should be a handicraft artisan.",
@@ -37,19 +37,19 @@
             },
             {
                 "question": "What are the benefits provided under the scheme in the case of natural death?",
-                "answer": "The scheme provides \u20b920,000/- as assistance in the case of natural death."
+                "answer": "The scheme provides ₹20,000/- as assistance in the case of natural death."
             },
             {
                 "question": "In the event of death due to an accident, what assistance does the Insurance Scheme For Artisans offer?",
-                "answer": "The scheme provides \u20b950,000/- as assistance in the case of death due to an accident."
+                "answer": "The scheme provides ₹50,000/- as assistance in the case of death due to an accident."
             },
             {
                 "question": "What is the assistance amount provided for permanent total disability due to an accident under the scheme?",
-                "answer": "\u20b950,000/- is provided in the case of permanent total disability due to an accident (loss of two eyes or two limbs)."
+                "answer": "₹50,000/- is provided in the case of permanent total disability due to an accident (loss of two eyes or two limbs)."
             },
             {
                 "question": "How much assistance is offered for permanent partial disability due to an accident under the Insurance Scheme For Artisans?",
-                "answer": "\u20b925,000/- is provided for permanent partial disability (loss of one eye or one limb due to an accident)."
+                "answer": "₹25,000/- is provided for permanent partial disability (loss of one eye or one limb due to an accident)."
             },
             {
                 "question": "Who is eligible to apply for the Insurance Scheme For Artisans?",
@@ -77,7 +77,7 @@
             },
             {
                 "question": "What does the assistance amount to in the case of death due to an accident under the Insurance Scheme For Artisans?",
-                "answer": "\u20b950,000/- is provided as assistance in the case of death due to an accident."
+                "answer": "₹50,000/- is provided as assistance in the case of death due to an accident."
             }
         ],
         "sources": [
@@ -104,5 +104,6 @@
             "Welfare",
             "Handicrafts"
         ]
-    }
+    },
+    "id": "000865"
 }

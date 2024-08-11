@@ -5,9 +5,9 @@
         "department": "Backward Classes Development Department",
         "type": "Grant",
         "beneficiary": "Law Graduates belonging to backward classes",
-        "details": "The Scheme 'Advocate Grant' was launched by the Backward Classes Development Department, Government of Kerala during the year 2012-13. Under the scheme, the grant will be provided to law graduates belonging to backward classes facing financial difficulties for starting practice as advocates. The scheme aims to ensure adequate representation of OBC\u2019s in the judiciary.",
+        "details": "The Scheme 'Advocate Grant' was launched by the Backward Classes Development Department, Government of Kerala during the year 2012-13. Under the scheme, the grant will be provided to law graduates belonging to backward classes facing financial difficulties for starting practice as advocates. The scheme aims to ensure adequate representation of OBC’s in the judiciary.",
         "benefits": [
-            "The grant of \u20b912000/- per year will be provided to law graduates who enrolled before the Bar Council.",
+            "The grant of ₹12000/- per year will be provided to law graduates who enrolled before the Bar Council.",
             "The grant will be provided for 3 consecutive years."
         ],
         "eligibility": [
@@ -16,7 +16,7 @@
             "The applicant should be a Law Graduate.",
             "The applicant should be enrolled as an Advocate in the Bar Council (Kerala).",
             "The applicant should have started practice as an Advocate within the state.",
-            "The annual family income of the applicant should be \u20b91,00,000/-."
+            "The annual family income of the applicant should be ₹1,00,000/-."
         ],
         "application_process": "Offline. The Director, Backward Communities Development Department is permitted to invite applications from the eligible candidates after giving wide publicity through media. The duly filled application form along with all the relevant documents should be submitted at the designated addresses.",
         "documents_required": [
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What is the aim of the scheme?",
-                "answer": "The scheme aims to ensure adequate representation of OBC\u2019s in the judiciary."
+                "answer": "The scheme aims to ensure adequate representation of OBC’s in the judiciary."
             },
             {
                 "question": "Which is the implementing department of this scheme?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The grant of \u20b912000/- per year will be provided to law graduates who enrolled before the Bar Council."
+                "answer": "The grant of ₹12000/- per year will be provided to law graduates who enrolled before the Bar Council."
             },
             {
                 "question": "For how many years will the grant be provided to the beneficiaries?",
@@ -68,7 +68,7 @@
             },
             {
                 "question": "What is the criterion for annual family income under the scheme?",
-                "answer": "The annual family income of the applicant from all sources does not exceed \u20b91,00,000/-."
+                "answer": "The annual family income of the applicant from all sources does not exceed ₹1,00,000/-."
             },
             {
                 "question": "Who will be given preference under this scheme?",
@@ -108,5 +108,6 @@
             "Law Graduates",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000055"
 }

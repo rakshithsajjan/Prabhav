@@ -7,7 +7,7 @@
         "beneficiary": "Construction Workers",
         "details": "The scheme 'Advance for Purchase or Construction of House' was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The state government has formulated this scheme to implement through the APB&OCWWB in which the board can sanction/ grant an amount for the outright purchase of a house or for the construction of a house to the eligible building and construction workers.",
         "benefits": [
-            "Under this scheme, cash assistance of \u20b91.00 lakh is to be given to the registered workers."
+            "Under this scheme, cash assistance of ₹1.00 lakh is to be given to the registered workers."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Arunachal Pradesh.",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "How much financial assistance will be given to the eligible worker?",
-                "answer": "Cash assistance of \u20b91.00 lakh will be given to the eligible registered worker."
+                "answer": "Cash assistance of ₹1.00 lakh will be given to the eligible registered worker."
             },
             {
                 "question": "Is it mandatory to be registered under Board?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "Can a worker also eligible to take the benefits of the scheme if membership has been expired?",
-                "answer": "No, the worker\u2019s membership shall be active to take the benefits of the scheme."
+                "answer": "No, the worker’s membership shall be active to take the benefits of the scheme."
             },
             {
                 "question": "Should a beneficiary need to repay the amount of loan?",
@@ -91,5 +91,6 @@
             "House",
             "Purchase"
         ]
-    }
+    },
+    "id": "000050"
 }

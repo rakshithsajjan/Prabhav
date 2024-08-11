@@ -7,14 +7,14 @@
         "beneficiary": "Teaching faculties in technical institutions",
         "details": "AICTE-ISTE Induction/ Refresher Programme has been launched by the All India Council for Technical Education with an intention to provide financial assistance to AICTE approved institutions/universities in conducting training for the teaching faculties working in technical institutions.",
         "benefits": [
-            "Funding to the institution/University: \u20b9 3,00,000/-"
+            "Funding to the institution/University: ₹ 3,00,000/-"
         ],
         "eligibility": [
             "AICTE approved institutions/University departments imparting technical education.",
             "Coordinator must be a full time regular faculty with adequate experience in teaching and research with publications.",
             "Maximum 2 proposals per institute would be considered in a year.",
             "Preferably one self-financing program should have been arranged in last 12 months by the college.",
-            "ISTE will charge \u20b91,500/- per proposal as processing fee."
+            "ISTE will charge ₹1,500/- per proposal as processing fee."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "Is there any charges for the proposal?",
-                "answer": "ISTE will charge \u20b9 1500/- per proposal as processing fee. The proposals will be accepted only if institute pays the processing fee through RTGS/NEFT."
+                "answer": "ISTE will charge ₹ 1500/- per proposal as processing fee. The proposals will be accepted only if institute pays the processing fee through RTGS/NEFT."
             },
             {
                 "question": "Maximum how many proposals per institute would be considered in a year?",
@@ -86,5 +86,6 @@
             "Technical Education",
             "Skill Development"
         ]
-    }
+    },
+    "id": "000012"
 }

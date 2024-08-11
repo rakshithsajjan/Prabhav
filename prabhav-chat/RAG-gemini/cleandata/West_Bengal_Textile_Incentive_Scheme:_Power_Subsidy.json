@@ -7,7 +7,7 @@
         "beneficiary": "Textile sector enterprises",
         "details": "The scheme 'Power Subsidy' is a sub scheme under 'West Bengal Textile Incentive Scheme'. It was launched on 13 December, 2022, by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal, and shall remain valid up to five years. The objective of the scheme is to extend fiscal incentives to the textile sector across the entire value chain starting from fibre to stitched garments for setting up such units in the State.",
         "benefits": [
-            "\u20b9 2,00,00,000/- to 50,00,000/- per annum for 5 years."
+            "₹ 2,00,00,000/- to 50,00,000/- per annum for 5 years."
         ],
         "eligibility": [
             "Industries in the manufacturing and processing of textiles, apparel and technical textiles products.",
@@ -62,5 +62,6 @@
             "Textile",
             "Waiver"
         ]
-    }
+    },
+    "id": "002045"
 }

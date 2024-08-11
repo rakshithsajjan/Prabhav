@@ -4,10 +4,10 @@
         "state": "Andaman and Nicobar Islands",
         "department": "Health Department, Union Territory of Andaman and Nicobar Islands",
         "type": "Health Insurance",
-        "beneficiary": "Below Poverty Level individuals, Pensioners of A&N Administration, Permanent Residents with annual income below \u20b93.00 Lakhs",
-        "details": "The scheme provides cashless medical treatment benefit up to \u20b95.00 Lakhs per patient per illness to eligible individuals. It aims to assist economically disadvantaged patients who cannot afford hospital expenses.",
+        "beneficiary": "Below Poverty Level individuals, Pensioners of A&N Administration, Permanent Residents with annual income below ₹3.00 Lakhs",
+        "details": "The scheme provides cashless medical treatment benefit up to ₹5.00 Lakhs per patient per illness to eligible individuals. It aims to assist economically disadvantaged patients who cannot afford hospital expenses.",
         "benefits": [
-            "Cashless treatment up to \u20b95 Lakhs per patient per illness including indoor and outdoor treatments.",
+            "Cashless treatment up to ₹5 Lakhs per patient per illness including indoor and outdoor treatments.",
             "Free travel expenses for patients with one attendant (Bunk class fare).",
             "Reimbursement of air ticket for critically ill patients and one attendant if referred to travel by flight.",
             "Emergency treatment benefits available for patients who fall sick during personal visits to the mainland."
@@ -15,7 +15,7 @@
         "eligibility": [
             "Individuals belonging to the BPL category settled in the A&N Islands.",
             "Government pensioners of the A&N Administration settled in these Islands after retirement with dependent family members.",
-            "Permanent residents of the Andaman & Nicobar Islands with a family annual income below \u20b93.00 Lakhs."
+            "Permanent residents of the Andaman & Nicobar Islands with a family annual income below ₹3.00 Lakhs."
         ],
         "exclusions": [
             "Reimbursement of hospital expenses will not be allowed if treatment is undergone without completing codal formalities at the State Nodal Cell (ANISHI)."
@@ -33,11 +33,11 @@
             },
             {
                 "question": "Who can avail benefits under the scheme?",
-                "answer": "Individuals belonging to BPL, Government pensioners of A&N Administration, and permanent residents with a family annual income below \u20b93.00 Lakhs."
+                "answer": "Individuals belonging to BPL, Government pensioners of A&N Administration, and permanent residents with a family annual income below ₹3.00 Lakhs."
             },
             {
                 "question": "What are the benefits offered by the scheme?",
-                "answer": "Cashless medical treatment up to \u20b95 Lakhs per patient per illness, including travel expenses for patients and one attendant."
+                "answer": "Cashless medical treatment up to ₹5 Lakhs per patient per illness, including travel expenses for patients and one attendant."
             },
             {
                 "question": "Can patients avail treatment outside of the Andaman & Nicobar Islands under the scheme?",
@@ -67,5 +67,6 @@
             "Andaman and Nicobar Islands",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000082"
 }

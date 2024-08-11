@@ -5,7 +5,7 @@
         "department": "Department of Welfare of Scheduled Castes & Backward Classes, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Scheduled Caste and Backward Classes students",
-        "details": "The scheme provides financial assistance to Scheduled Caste and Backward Classes boys/girls who are unable to avail of coaching facilities for IAS and other higher services competitive examinations due to weak financial position. The scheme has been modified to enhance the income ceiling from \u20b91.00 lacs per annum to \u20b92.50 lakhs per annum.",
+        "details": "The scheme provides financial assistance to Scheduled Caste and Backward Classes boys/girls who are unable to avail of coaching facilities for IAS and other higher services competitive examinations due to weak financial position. The scheme has been modified to enhance the income ceiling from ₹1.00 lacs per annum to ₹2.50 lakhs per annum.",
         "benefits": [
             "Free coaching for IAS and other higher services competitive examinations.",
             "Postal/classroom coaching for civil services examinations like IFS, IAS & Allied Services.",
@@ -14,7 +14,7 @@
         ],
         "eligibility": [
             "The student should be a domicile of Haryana & must belong to a Scheduled caste/Backward Class.",
-            "The annual income of the parents/guardians should not exceed \u20b92.50 lacs.",
+            "The annual income of the parents/guardians should not exceed ₹2.50 lacs.",
             "The candidate should possess all requisite qualifications for the examination.",
             "The candidate will not be permitted to avail of more than two chances for a particular competitive examination."
         ],
@@ -46,7 +46,7 @@
             },
             {
                 "question": "Who is eligible to get the benefits of the scheme?",
-                "answer": "Students who are domiciles of Haryana and belong to Scheduled Castes & Backward Classes with a family income not exceeding \u20b92.50 lakh per annum."
+                "answer": "Students who are domiciles of Haryana and belong to Scheduled Castes & Backward Classes with a family income not exceeding ₹2.50 lakh per annum."
             },
             {
                 "question": "Can a general category student apply under the scheme?",
@@ -78,5 +78,6 @@
             "Coaching",
             "Competitive Examination"
         ]
-    }
+    },
+    "id": "000532"
 }

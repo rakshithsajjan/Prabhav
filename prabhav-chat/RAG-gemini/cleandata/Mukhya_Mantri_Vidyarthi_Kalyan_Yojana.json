@@ -5,12 +5,12 @@
         "department": "Department of Education",
         "type": "Scholarship",
         "beneficiary": "Students from IRDP/BPL Families",
-        "details": "The scheme 'Mukhya Mantri Vidyarthi Kalyan Yojana' is a Scholarship Scheme by the Department of Education, Government of Himachal Pradesh. The objective of the scheme is to provide financial assistance to school and college students in the form of scholarships. The scheme provides scholarships of upto \u20b9 2,400 per month to the students from IRDP/BPL Families bonafide in Himachal Pradesh, and pursuing their study in Government / Government Aided Institutions in Himachal Pradesh.",
+        "details": "The scheme 'Mukhya Mantri Vidyarthi Kalyan Yojana' is a Scholarship Scheme by the Department of Education, Government of Himachal Pradesh. The objective of the scheme is to provide financial assistance to school and college students in the form of scholarships. The scheme provides scholarships of upto ₹ 2,400 per month to the students from IRDP/BPL Families bonafide in Himachal Pradesh, and pursuing their study in Government / Government Aided Institutions in Himachal Pradesh.",
         "benefits": [
-            "Class 9th & 10th: Boys: \u20b9 300/-, Girls: \u20b9 600/-",
-            "Class 11th & 12th: Boys: \u20b9 800/-, Girls: \u20b9 800/-",
-            "College/University (Day Scholar): Boys: \u20b9 1,200/-, Girls: \u20b9 1,200/-",
-            "College/University (Hostelers): Boys: \u20b9 2,400/-, Girls: \u20b9 2,400/-"
+            "Class 9th & 10th: Boys: ₹ 300/-, Girls: ₹ 600/-",
+            "Class 11th & 12th: Boys: ₹ 800/-, Girls: ₹ 800/-",
+            "College/University (Day Scholar): Boys: ₹ 1,200/-, Girls: ₹ 1,200/-",
+            "College/University (Hostelers): Boys: ₹ 2,400/-, Girls: ₹ 2,400/-"
         ],
         "eligibility": [
             "The applicant should be a bonafide of Himachal Pradesh.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the rates of scholarship under this scheme?",
-                "answer": "The rates vary based on the academic level. For Class 9th & 10th, boys receive \u20b9300, and girls receive \u20b9600. For Class 11th & 12th, both boys and girls receive \u20b9800. College/University day scholars receive \u20b91,200, while hostelers receive \u20b92,400."
+                "answer": "The rates vary based on the academic level. For Class 9th & 10th, boys receive ₹300, and girls receive ₹600. For Class 11th & 12th, both boys and girls receive ₹800. College/University day scholars receive ₹1,200, while hostelers receive ₹2,400."
             },
             {
                 "question": "How can one apply for the Mukhya Mantri Vidyarthi Kalyan Yojana?",
@@ -69,7 +69,7 @@
             },
             {
                 "question": "How frequently are the scholarships disbursed?",
-                "answer": "Scholarships are disbursed monthly, and the amounts vary depending on the academic level and gender of the student. For hostelers, the disbursement is \u20b92,400 per month."
+                "answer": "Scholarships are disbursed monthly, and the amounts vary depending on the academic level and gender of the student. For hostelers, the disbursement is ₹2,400 per month."
             }
         ],
         "sources": [
@@ -93,5 +93,6 @@
             "Skill Development",
             "Student"
         ]
-    }
+    },
+    "id": "001181"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized Workers",
         "details": "The Labor Department of Chhattisgarh introduced the 'Dhobhi Hetu Avashyak Upkaran Sahayata Yojana' on January 10, 2018, through the 'Unorganized Workers State Social Security Board.' Under this scheme, the washerman is provided with materials worth Rs. 1,500/-, including electronic/coal iron, clothespins, and a washing paddle (Thappi/Kutela).",
         "benefits": [
-            "Provided materials worth \u20b91,500/-, including electronic/coal iron, clothespins, and a washing paddle (Thappi/Kutela)."
+            "Provided materials worth ₹1,500/-, including electronic/coal iron, clothespins, and a washing paddle (Thappi/Kutela)."
         ],
         "eligibility": [
             "Applicant must be registered Unorganized worker of State Social Security Board.",
@@ -29,7 +29,7 @@
             },
             {
                 "question": "What materials are provided to the washerman under this scheme?",
-                "answer": "Materials worth \u20b91500, including electronic/coal iron, clothespins, and a washing paddle (Thappi/Kutela)."
+                "answer": "Materials worth ₹1500, including electronic/coal iron, clothespins, and a washing paddle (Thappi/Kutela)."
             },
             {
                 "question": "What is the purpose of providing these materials?",
@@ -71,5 +71,6 @@
             "Financial Support",
             "Unorganized Workers"
         ]
-    }
+    },
+    "id": "000393"
 }

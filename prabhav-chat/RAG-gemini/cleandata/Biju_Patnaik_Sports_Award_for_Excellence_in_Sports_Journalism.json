@@ -5,9 +5,9 @@
         "department": "Sports & Youth Services Department",
         "type": "Award",
         "beneficiary": "Journalists",
-        "details": "The \u201cBiju Patnaik Sports Award for Excellence in Sports Journalism\u201d is a category of award under the \u201cBiju Patnaik Sports Award\" Scheme. The scheme was launched by the Sports & Youth Services Department, Government of Odisha to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The objective of the scheme is to encourage the development of Sports and Games in the State. The award is given to the journalists who have done significant work in the sphere of journalism for the promotion and popularization of sports and games as well as fighting for the causes of sports and sportspersons in the State of Odisha.",
+        "details": "The “Biju Patnaik Sports Award for Excellence in Sports Journalism” is a category of award under the “Biju Patnaik Sports Award\" Scheme. The scheme was launched by the Sports & Youth Services Department, Government of Odisha to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The objective of the scheme is to encourage the development of Sports and Games in the State. The award is given to the journalists who have done significant work in the sphere of journalism for the promotion and popularization of sports and games as well as fighting for the causes of sports and sportspersons in the State of Odisha.",
         "benefits": [
-            "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of \u20b950,000/-.",
+            "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of ₹50,000/-.",
             "A statue, a scroll of honour, and a blazer with a tie shall be given along with all the Cash Awards.",
             "The Awardees shall be invited to receive the awards in person. They shall be given T.A. and D.A. at the rate admissible to a Grade 'A' Officer."
         ],
@@ -38,7 +38,7 @@
             },
             {
                 "question": "How often is the award presented, and what is the cash award associated with it?",
-                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of \u20b950,000/-."
+                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of ₹50,000/-."
             },
             {
                 "question": "Can the award be given posthumously?",
@@ -64,5 +64,6 @@
             "Journalism",
             "Sports"
         ]
-    }
+    },
+    "id": "000209"
 }

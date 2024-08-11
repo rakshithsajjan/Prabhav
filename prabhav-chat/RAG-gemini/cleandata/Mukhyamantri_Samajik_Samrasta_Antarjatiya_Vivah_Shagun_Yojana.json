@@ -5,11 +5,11 @@
         "department": "Welfare of Scheduled Castes & Backward Classes Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Couples involving inter-caste marriages",
-        "details": "The scheme 'Mukhyamantri Samajik Samrasta Antarjatiya Vivah Shagun Yojana' is implemented to promote communal harmony by encouraging inter-caste marriages. The objective is to diminish caste consciousness among the people. Effective from 01.04.1983, it provides financial assistance of \u20b92,50,000/- to couples where a Non-Scheduled Caste individual marries a Scheduled Caste individual.",
+        "details": "The scheme 'Mukhyamantri Samajik Samrasta Antarjatiya Vivah Shagun Yojana' is implemented to promote communal harmony by encouraging inter-caste marriages. The objective is to diminish caste consciousness among the people. Effective from 01.04.1983, it provides financial assistance of ₹2,50,000/- to couples where a Non-Scheduled Caste individual marries a Scheduled Caste individual.",
         "benefits": [
-            "Financial assistance of \u20b92,50,000/- is provided to the couple.",
-            "\u20b91,25,000/- is transferred to the couple\u2019s joint account immediately after marriage.",
-            "The remaining \u20b91,25,000/- is deposited in a joint fixed deposit account for a lock-in period of 3 years."
+            "Financial assistance of ₹2,50,000/- is provided to the couple.",
+            "₹1,25,000/- is transferred to the couple’s joint account immediately after marriage.",
+            "The remaining ₹1,25,000/- is deposited in a joint fixed deposit account for a lock-in period of 3 years."
         ],
         "eligibility": [
             "Both spouses must be citizens of India, with one belonging to the Scheduled Caste community.",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What financial assistance is provided under this scheme?",
-                "answer": "A financial assistance of \u20b92,50,000/- is provided to the couple."
+                "answer": "A financial assistance of ₹2,50,000/- is provided to the couple."
             },
             {
                 "question": "How is the financial assistance distributed?",
-                "answer": "\u20b91,25,000/- is transferred to the couple\u2019s joint account immediately after marriage, and the remaining \u20b91,25,000/- is deposited in their joint fixed deposit account with a 3-year lock-in period."
+                "answer": "₹1,25,000/- is transferred to the couple’s joint account immediately after marriage, and the remaining ₹1,25,000/- is deposited in their joint fixed deposit account with a 3-year lock-in period."
             },
             {
                 "question": "Who is eligible for this scheme?",
@@ -114,5 +114,6 @@
             "Shagun",
             "Vivah"
         ]
-    }
+    },
+    "id": "001232"
 }

@@ -35,7 +35,7 @@
         "faqs": [
             {
                 "question": "What is KALIA scheme?",
-                "answer": "KALIA scheme is a package for farmer\u2019s welfare launched by Odisha Government to accelerate Agricultural Prosperity and reduce poverty in the State."
+                "answer": "KALIA scheme is a package for farmer’s welfare launched by Odisha Government to accelerate Agricultural Prosperity and reduce poverty in the State."
             },
             {
                 "question": "Who is eligible to get benefit?",
@@ -74,5 +74,6 @@
             "Financial Assistance",
             "Odisha"
         ]
-    }
+    },
+    "id": "000995"
 }

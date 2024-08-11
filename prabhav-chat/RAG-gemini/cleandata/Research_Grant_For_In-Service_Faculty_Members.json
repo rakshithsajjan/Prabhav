@@ -9,7 +9,7 @@
         "benefits": [
             "Tenure: 2 years",
             "Slots: 200 or as may be decided by the Commission",
-            "Financial Assistance: \u20b9 10,00,000",
+            "Financial Assistance: ₹ 10,00,000",
             "Grant can be utilized for purchasing items like minor equipment, consumables, contingencies, fieldwork, travel, etc.",
             "Grant cannot be used for international travel, purchasing furniture items, or for appointing a project assistant or research fellow."
         ],
@@ -33,9 +33,9 @@
             "Scanned copy of your passport-size photograph and signature (size upto 1MB, format: jpg)",
             "Complete Research proposal (size upto 5 MB) and an abstract (size upto 1MB)",
             "Auto-generated form signed by the HoD/Registrar",
-            "Proof of being a single girl child on an affidavit of \u20b9 100/- stamp paper",
+            "Proof of being a single girl child on an affidavit of ₹ 100/- stamp paper",
             "Feedback report on the research work done",
-            "Summary of the awardee\u2019s research work along with published research papers"
+            "Summary of the awardee’s research work along with published research papers"
         ],
         "faqs": [
             {
@@ -79,5 +79,6 @@
             "Faculty",
             "Education"
         ]
-    }
+    },
+    "id": "001599"
 }

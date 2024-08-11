@@ -7,8 +7,8 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Safai Karmakar Prasuti Sahayata Yojana' for unorganized worker on 11 March 2015. The main objective of the scheme to empower unorganized worker by providing financial assistance for Maternity Assistance.",
         "benefits": [
-            "Female employees will receive a financial assistance of \u20b94,200 in the third month of pregnancy and \u20b92,800 in the eighth month of pregnancy as maternity benefit.",
-            "Male employees will receive a financial assistance of \u20b93,000 as paternity leave after the birth of the child."
+            "Female employees will receive a financial assistance of ₹4,200 in the third month of pregnancy and ₹2,800 in the eighth month of pregnancy as maternity benefit.",
+            "Male employees will receive a financial assistance of ₹3,000 as paternity leave after the birth of the child."
         ],
         "eligibility": [
             "Applicant(Male or Female) must be registered worker.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "1. Female employees will receive a financial assistance of \u20b94,200 in the third month of pregnancy and \u20b92,800 in the eighth month of pregnancy as maternity benefit. 2. Male employees will receive a financial assistance of \u20b93,000 as paternity leave after the birth of the child."
+                "answer": "1. Female employees will receive a financial assistance of ₹4,200 in the third month of pregnancy and ₹2,800 in the eighth month of pregnancy as maternity benefit. 2. Male employees will receive a financial assistance of ₹3,000 as paternity leave after the birth of the child."
             },
             {
                 "question": "Who can get the benefits?",
@@ -80,5 +80,6 @@
             "Unorganized Workers",
             "Chhattisgarh"
         ]
-    }
+    },
+    "id": "001632"
 }

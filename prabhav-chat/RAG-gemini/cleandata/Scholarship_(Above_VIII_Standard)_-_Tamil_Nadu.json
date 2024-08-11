@@ -7,9 +7,9 @@
         "beneficiary": "Different Abled Person",
         "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, offers the 'Scholarship for Students with Disabilities (Above Grade 8)' program. This initiative provides financial assistance to differently-abled students enrolled in government-recognized schools, colleges, or training centers to help with educational expenses.",
         "benefits": [
-            "For students studying from 9th to 12th Standard: \u20b94,000/- per annum.",
-            "For Degree Courses: \u20b96,000/- per annum.",
-            "For Postgraduate, Medical, Engineering, Vocational, and Other Professional Courses: \u20b97,000/- per annum."
+            "For students studying from 9th to 12th Standard: ₹4,000/- per annum.",
+            "For Degree Courses: ₹6,000/- per annum.",
+            "For Postgraduate, Medical, Engineering, Vocational, and Other Professional Courses: ₹7,000/- per annum."
         ],
         "eligibility": [
             "The beneficiary must be a student.",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "Where should grievances be addressed?",
-                "answer": "Grievances should be addressed to the Deputy Director (Schemes), Office of The Commissionerate for Welfare of the Differently Abled No.5, Kamarajar Salai, Chennai \u2013 600 005."
+                "answer": "Grievances should be addressed to the Deputy Director (Schemes), Office of The Commissionerate for Welfare of the Differently Abled No.5, Kamarajar Salai, Chennai – 600 005."
             }
         ],
         "sources": [
@@ -79,5 +79,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001743"
 }

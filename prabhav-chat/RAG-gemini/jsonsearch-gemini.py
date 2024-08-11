@@ -45,7 +45,22 @@ def search_schemes(query, tag_index, additional_tags):
 # Function to generate tags using Gemini API
 def generate_tags_with_gemini(query):
     model = genai.GenerativeModel('gemini-1.5-pro')
-    prompt = f"Generate 50 relevant tags for the government scheme query: '{query}'. Provide only the tags, separated by commas, without numbering or additional text."
+    prompt = f"""
+    Given the query: '{query}'
+    
+    1. Identify the language of the query.
+    2. Translate the query to English if it's not already in English.
+    3. Generate 50 relevant tags for government schemes based on this query.
+    4. Include tags in both English and the original query language (if different).
+    5. Consider various aspects such as:
+       - Target beneficiaries (e.g., women, farmers, students)
+       - Specific needs or goals (e.g., education, employment, healthcare)
+       - Related government departments or initiatives
+       - Relevant industries or sectors
+    6. Provide only the tags, separated by commas, without numbering or additional text.
+    
+    Tags:
+    """
     
     response = model.generate_content(prompt)
     generated_tags = response.text.strip().split(',')
@@ -68,4 +83,5 @@ print(f"Matching schemes: {results}")
 print(f"number of results: {len(results)}")
 print(f"number of additional tags: {len(additional_tags)}")
 print(f"\n\nAdditional tags generated: {additional_tags}")
+
 

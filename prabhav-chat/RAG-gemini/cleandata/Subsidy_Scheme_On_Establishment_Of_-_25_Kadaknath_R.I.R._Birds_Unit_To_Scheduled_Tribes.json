@@ -5,10 +5,10 @@
         "department": "Department of Agriculture, Farmers Welfare & Co-operation",
         "type": "Subsidy",
         "beneficiary": "Scheduled Tribe",
-        "details": "The scheme 'Subsidy Scheme on Establishment of - 25 Kadaknath / R.I.R. Birds Unit to Scheduled Tribes' was launched to provide employment, nutritious diet and to raise the income of Scheduled Tribe People of the society of Gujarat State. Under this scheme, the beneficiary will be given 25 R.I.R birds unit and a subsidy will be given 75% of the unit cost of the scheme (maximum \u20b94500/- in the form of birds and poultry feed).",
+        "details": "The scheme 'Subsidy Scheme on Establishment of - 25 Kadaknath / R.I.R. Birds Unit to Scheduled Tribes' was launched to provide employment, nutritious diet and to raise the income of Scheduled Tribe People of the society of Gujarat State. Under this scheme, the beneficiary will be given 25 R.I.R birds unit and a subsidy will be given 75% of the unit cost of the scheme (maximum ₹4500/- in the form of birds and poultry feed).",
         "benefits": [
             "The beneficiary will be given 25 R.I.R birds unit along with poultry feed.",
-            "The Subsidy will be given 75% of the unit cost of the scheme (maximum \u20b94500/- in the form of birds and poultry feed).",
+            "The Subsidy will be given 75% of the unit cost of the scheme (maximum ₹4500/- in the form of birds and poultry feed).",
             "Under the scheme, the birds will be given vaccination regularly."
         ],
         "eligibility": [
@@ -52,11 +52,11 @@
             },
             {
                 "question": "What is the unit cost for the scheme?",
-                "answer": "The unit cost for the scheme is \u20b96000/-."
+                "answer": "The unit cost for the scheme is ₹6000/-."
             },
             {
                 "question": "What will the percentage of subsidy be given to the beneficiary?",
-                "answer": "The subsidy will be given 75% of the total unit cost of the scheme (maximum \u20b94500/-)."
+                "answer": "The subsidy will be given 75% of the total unit cost of the scheme (maximum ₹4500/-)."
             },
             {
                 "question": "Who will get priority under the scheme?",
@@ -104,5 +104,6 @@
             "Scheduled Tribe",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001868"
 }

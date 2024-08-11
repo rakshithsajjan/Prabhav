@@ -8,8 +8,8 @@
         "details": "The Indian National Academy of Engineering (INAE) launched a Distinguished Visiting Professorship (DVP) Scheme jointly with All India Council for Technical Education (AICTE) in 1999. The Scheme envisages promotion of industry-institute interaction by facilitating the dissemination of knowledge through the expertise of experienced and knowledgeable persons from industry to integrate their rich industrial experience with technical education. The Scheme has received very enthusiastic response from industry and engineering research institutions over the years. Since the year 2018, the scheme has also been made applicable to all retired INAE Fellows.",
         "benefits": [
             "The Distinguished Visiting Professor will be reimbursed air-fare in 'Y-Class' or actual fares if performed by Rail or approved INAE rate if travel is performed by Road.",
-            "The Distinguished Visiting Professor is entitled to an honorarium of \u20b9 10,000/- per lecture day.",
-            "For online sessions of DVP Programs, the Experts will be paid only Honorariums of \u20b9 10,000/- per day without travelling/lodging expenses based on mutually decided timings between concerned DVPs in association with the concerned Institutes."
+            "The Distinguished Visiting Professor is entitled to an honorarium of ₹ 10,000/- per lecture day.",
+            "For online sessions of DVP Programs, the Experts will be paid only Honorariums of ₹ 10,000/- per day without travelling/lodging expenses based on mutually decided timings between concerned DVPs in association with the concerned Institutes."
         ],
         "eligibility": [
             "The Industry Experts should have a minimum graduate degree in engineering or an equivalent qualification.",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "How many years of industry experienced is required for an applicant?",
-                "answer": "The applicant must have minimum TEN years\u2019 experience in Industry."
+                "answer": "The applicant must have minimum TEN years’ experience in Industry."
             },
             {
                 "question": "Whether a retired INAE fellow can apply under this Scheme?",
@@ -91,5 +91,6 @@
             "Fellowship",
             "Industry-Institute Interaction"
         ]
-    }
+    },
+    "id": "000010"
 }

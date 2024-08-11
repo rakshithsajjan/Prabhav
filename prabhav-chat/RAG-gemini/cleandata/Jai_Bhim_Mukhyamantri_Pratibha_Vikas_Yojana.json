@@ -7,12 +7,12 @@
         "beneficiary": "Scheduled Castes",
         "details": "The scheme 'Jai Bhim Mukhyamantri Pratibha Vikas Yojana' was launched to provide quality coaching for economically disadvantaged Scheduled Castes (SCs) candidates to enable them to compete in Competitive examinations and succeed in obtaining an appropriate job in the Public/Private sector.",
         "benefits": [
-            "A monthly stipend of \u20b92500/- per student will be paid for local students for attending the coaching classes.",
+            "A monthly stipend of ₹2500/- per student will be paid for local students for attending the coaching classes.",
             "75% of the admissible coaching fee amount is to be provided by the Government and the remaining 25% is to be borne by the students.",
-            "In case of students having a total family income of up to \u20b92.00 lacs, a full admissible coaching fee is to be provided by the Govt."
+            "In case of students having a total family income of up to ₹2.00 lacs, a full admissible coaching fee is to be provided by the Govt."
         ],
         "eligibility": [
-            "Only students belonging to the Scheduled Caste category residing in Delhi & who have passed 10th and 12th class (or studying in class XII) from the schools in Delhi, having a total family income of not more than \u20b96.00 lakh per annum will be eligible under the scheme.",
+            "Only students belonging to the Scheduled Caste category residing in Delhi & who have passed 10th and 12th class (or studying in class XII) from the schools in Delhi, having a total family income of not more than ₹6.00 lakh per annum will be eligible under the scheme.",
             "The students must have secured a prescribed percentage of marks in the qualifying examinations for which free coaching is proposed to be imparted under the scheme."
         ],
         "exclusions": [],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, 75% of the admissible coaching fee amount is to be provided by the Government and the remaining 25% is to be borne by the students also a monthly stipend of \u20b92500/- per student will be paid for local students for attending the coaching classes."
+                "answer": "Under the scheme, 75% of the admissible coaching fee amount is to be provided by the Government and the remaining 25% is to be borne by the students also a monthly stipend of ₹2500/- per student will be paid for local students for attending the coaching classes."
             },
             {
                 "question": "Who is eligible to get the benefits of the scheme?",
@@ -61,5 +61,6 @@
             "Stipend",
             "Students"
         ]
-    }
+    },
+    "id": "000929"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Labour and Employment, Goa",
         "type": "Pension",
         "beneficiary": "Spouse, Widow, Widower",
-        "details": "'Family Pension (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, in the event of the death of the pensioner of the Board, a family pension is given to his/her surviving spouse. The pension to the spouse will be 50% of the pension that used to be provided to the pensioner (the deceased), or \u20b9200/-, whichever is higher.",
+        "details": "'Family Pension (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, in the event of the death of the pensioner of the Board, a family pension is given to his/her surviving spouse. The pension to the spouse will be 50% of the pension that used to be provided to the pensioner (the deceased), or ₹200/-, whichever is higher.",
         "benefits": [
-            "50% of the pension that used to be provided to the pensioner (the deceased) or \u20b9200/-, whichever is higher."
+            "50% of the pension that used to be provided to the pensioner (the deceased) or ₹200/-, whichever is higher."
         ],
         "eligibility": [
             "The applicant should be the Spouse of the Pensioner.",
@@ -63,7 +63,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             },
             {
                 "question": "What are the responsibilities of the Deputy Labour Commissioner (Registering Authority) regarding the approval of registration applications?",
@@ -99,5 +99,6 @@
             "Widow",
             "Widower"
         ]
-    }
+    },
+    "id": "000503"
 }

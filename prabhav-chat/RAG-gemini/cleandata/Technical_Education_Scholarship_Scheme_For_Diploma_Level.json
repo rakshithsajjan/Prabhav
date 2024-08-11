@@ -7,13 +7,13 @@
         "beneficiary": "Student",
         "details": "The scheme 'Technical Education Scholarship Scheme For Diploma Level' was started by the Department of Technical Education, Himachal Pradesh. Under the scheme, the scholarships will be awarded to students who are pursuing Diploma level Courses in Engineering/Technology including Architectural Assistantship or any other equivalent courses as approved by the All India Council of Technical Education (AICTE). Total number of scholarships for Diploma Courses will be 75 Number.",
         "benefits": [
-            "The value of scholarship for Diploma level courses is \u20b9200/- per month for all categories of students.",
+            "The value of scholarship for Diploma level courses is ₹200/- per month for all categories of students.",
             "100% scholarships shall be awarded to the SC, ST, and Girls students."
         ],
         "eligibility": [
             "Only those students shall be eligible for the award of scholarships who are Bonafide Himachali and ward of Himachal Pradesh Government employees.",
             "The scholarships will be awarded to the students who are pursuing Diploma level Courses in Engineering/Technology including Architectural Assistantship or any other equivalent courses as approved by the All India Council of Technical Education (AICTE).",
-            "The scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than \u20b936000/- per annum."
+            "The scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than ₹36000/- per annum."
         ],
         "exclusions": [
             "Students getting scholarships from other sources or under some other scheme shall not be eligible for a grant of the same under these rules."
@@ -48,11 +48,11 @@
             },
             {
                 "question": "What is the income criterion for applying under the scheme?",
-                "answer": "The scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than \u20b936000/- per annum."
+                "answer": "The scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than ₹36000/- per annum."
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The value of scholarship for Diploma level courses is \u20b9200/- per month for all categories of students."
+                "answer": "The value of scholarship for Diploma level courses is ₹200/- per month for all categories of students."
             },
             {
                 "question": "How many students will receive the scholarship under the scheme?",
@@ -95,5 +95,6 @@
             "Himachal Pradesh",
             "Diploma"
         ]
-    }
+    },
+    "id": "001926"
 }

@@ -13,7 +13,7 @@
             "The applicant should belong to the Scheduled Caste category.",
             "The applicant should be a native of Gujarat state.",
             "The age limit of the applicant should be 18 to 60 years.",
-            "The applicant from the Scheduled Caste Category should have an annual family income of up to \u20b96,00,000/-.",
+            "The applicant from the Scheduled Caste Category should have an annual family income of up to ₹6,00,000/-.",
             "There is no income limit for applicants belonging to the Most Backward Caste among the Scheduled Castes category.",
             "If the beneficiary or any family members of the beneficiary have already benefited from this scheme, they are not eligible to avail of its benefits again."
         ],
@@ -46,7 +46,7 @@
             },
             {
                 "question": "Is there an income limit for applicants?",
-                "answer": "Yes, applicants from the Scheduled Caste category must have an annual family income of up to \u20b96,00,000/-. However, there is no income limit for applicants belonging to the Most Backward Caste among the Scheduled Castes."
+                "answer": "Yes, applicants from the Scheduled Caste category must have an annual family income of up to ₹6,00,000/-. However, there is no income limit for applicants belonging to the Most Backward Caste among the Scheduled Castes."
             },
             {
                 "question": "Can previous beneficiaries or their family members reapply for the scheme?",
@@ -106,5 +106,6 @@
             "Tool Kits",
             "Gujarat"
         ]
-    }
+    },
+    "id": "001078"
 }

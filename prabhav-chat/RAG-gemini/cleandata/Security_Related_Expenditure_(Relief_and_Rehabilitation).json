@@ -7,11 +7,11 @@
         "beneficiary": "Kashmiri and Jammu Migrants",
         "details": "The scheme 'Security Related Expenditure (Relief and Rehabilitation)' also known as 'SRE (R&R) Scheme' was introduced in 1989-90 by the Jammu and Kashmir Division, Ministry of Home Affairs to support the relief and rehabilitation of the Kashmiri migrants who have been uprooted from the Valley during the militancy period. It provides for 100% reimbursement. 60% of the amount is reimbursed upfront on receipt of claims and the remaining 40% is released after receipt of the audit report. It broadly covers relief to Kashmiri and Jammu migrants, expenditure incurred on PM's package for return and rehabilitation of Kashmiri migrants, relief to NoKs of civilians/security personnel killed in militant-related attacks, rehabilitation of surrendered militants etc. 'SRE (R&R) Scheme' is a component of the Umbrella scheme, 'Modernization of Police Forces (MPF)'. SRE (R&R) is funded entirely by the Central Government.",
         "benefits": [
-            "Cash relief to Kashmiri and Jammu migrants settled in J&K: \u20b93,250 per person per month, with a maximum of \u20b913,000 per family per month.",
-            "Cash relief to Kashmiri migrants settled in Delhi/NCR: \u20b93,250 per person per month, with a maximum of \u20b913,000 per family per month.",
-            "Cash relief to migrants in the hilly areas of the Jammu division, equivalent to Kashmiri migrants: \u20b92,500 per person per month, with a maximum of \u20b910,000 per family per month.",
-            "Relief for ration/fodder to migrants in hilly areas of Jammu division, including 9 kg of Atta, 2 kg of Rice per person per month, and 10 litres of kerosene oil per family per month, along with \u20b9300 per cattle per month for fodder.",
-            "Basic dry ration for needy migrants, including 9 kgs of rice, 2 kgs of Atta per person, and 1 kg of sugar per family per month, with additional ex-gratia relief for property loss, up to \u20b910,00,000."
+            "Cash relief to Kashmiri and Jammu migrants settled in J&K: ₹3,250 per person per month, with a maximum of ₹13,000 per family per month.",
+            "Cash relief to Kashmiri migrants settled in Delhi/NCR: ₹3,250 per person per month, with a maximum of ₹13,000 per family per month.",
+            "Cash relief to migrants in the hilly areas of the Jammu division, equivalent to Kashmiri migrants: ₹2,500 per person per month, with a maximum of ₹10,000 per family per month.",
+            "Relief for ration/fodder to migrants in hilly areas of Jammu division, including 9 kg of Atta, 2 kg of Rice per person per month, and 10 litres of kerosene oil per family per month, along with ₹300 per cattle per month for fodder.",
+            "Basic dry ration for needy migrants, including 9 kgs of rice, 2 kgs of Atta per person, and 1 kg of sugar per family per month, with additional ex-gratia relief for property loss, up to ₹10,00,000."
         ],
         "eligibility": [
             "The beneficiary should be Kashmir or Jammu Migrant."
@@ -90,5 +90,6 @@
             "Relief",
             "Shelter"
         ]
-    }
+    },
+    "id": "001761"
 }

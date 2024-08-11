@@ -5,15 +5,15 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Building Workers and their Children",
-        "details": "The scheme 'Financial Assistance for Coaching Classes' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, financial assistance of \u20b920,000/- is provided for coaching classes for admission of children of registered workers in professional/technical courses like Degree/Diploma in Medical, Engineering, Management, MCA, Law, Fashion design, etc., and \u20b91,00,000/- for preparation of Main Examination on passing Preliminary Examination of UPSC/HPSSC.",
+        "details": "The scheme 'Financial Assistance for Coaching Classes' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, financial assistance of ₹20,000/- is provided for coaching classes for admission of children of registered workers in professional/technical courses like Degree/Diploma in Medical, Engineering, Management, MCA, Law, Fashion design, etc., and ₹1,00,000/- for preparation of Main Examination on passing Preliminary Examination of UPSC/HPSSC.",
         "benefits": [
-            "Financial assistance of \u20b920,000/- for coaching classes for admission of children of registered workers in professional/technical courses.",
-            "\u20b91,00,000/- for preparation of Main Examination upon passing the Preliminary Examination of UPSC/HPSSC."
+            "Financial assistance of ₹20,000/- for coaching classes for admission of children of registered workers in professional/technical courses.",
+            "₹1,00,000/- for preparation of Main Examination upon passing the Preliminary Examination of UPSC/HPSSC."
         ],
         "eligibility": [
             "The applicant should be engaged in building or construction work.",
             "The applicant should be registered with the Haryana Building & Other Construction Workers Welfare Board.",
-            "The registered worker must have a minimum of one year\u2019s regular membership.",
+            "The registered worker must have a minimum of one year’s regular membership.",
             "The worker must have an active membership with the Board.",
             "The son/daughter of the worker should be receiving coaching for admission in professional/technical courses from an institute.",
             "The worker should not have applied again for financial assistance for the coaching of his/her child. The assistance will be provided only once.",
@@ -38,11 +38,11 @@
         "faqs": [
             {
                 "question": "How much financial assistance is provided for coaching classes?",
-                "answer": "\u20b920,000/- is provided for coaching classes for admission of children of registered workers."
+                "answer": "₹20,000/- is provided for coaching classes for admission of children of registered workers."
             },
             {
                 "question": "What financial assistance is available upon passing the Preliminary Examination of UPSC/HPSSC?",
-                "answer": "Individuals are eligible for \u20b91,00,000/- to prepare for the Main Examination."
+                "answer": "Individuals are eligible for ₹1,00,000/- to prepare for the Main Examination."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -102,5 +102,6 @@
             "Financial Assistance",
             "Student"
         ]
-    }
+    },
+    "id": "000557"
 }

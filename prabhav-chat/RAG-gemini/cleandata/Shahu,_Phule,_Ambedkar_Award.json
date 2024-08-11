@@ -7,7 +7,7 @@
         "beneficiary": "Registered Organizations working in various fields of Social Justice",
         "details": "The 'Shahu, Phule, Ambedkar Award' is an award by the Department of Social Justice & Special Assistance, Govt. of Maharashtra. The award is given to the Registered Organizations working in various fields of Social Justice, doing Social Reforms in the state, and taking Maharashtra forward as a social reformist State. Only the Institutions/Organizations located within the State of Maharashtra can apply to this scheme. This scheme is 100% funded by the Govt. of Maharashtra.",
         "benefits": [
-            "The institute will be given \u20b915,00,000/- as a prize along with a Memento and a Silver Krol Citation.",
+            "The institute will be given ₹15,00,000/- as a prize along with a Memento and a Silver Krol Citation.",
             "A total of 7 awards will be given for 7 regions."
         ],
         "eligibility": [
@@ -31,7 +31,7 @@
             },
             {
                 "question": "Is There A Cash Benefit Being Provided In This Scheme?",
-                "answer": "Yes, the institute will be given \u20b915,00,000/- as a prize along with a Memento and a Silver Krol Citation."
+                "answer": "Yes, the institute will be given ₹15,00,000/- as a prize along with a Memento and a Silver Krol Citation."
             },
             {
                 "question": "By Whom Should The Character Verification Report Be Issued?",
@@ -101,5 +101,6 @@
             "Financial Assistance",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "001775"
 }

@@ -5,9 +5,9 @@
         "department": "Arts and Culture Department",
         "type": "Award",
         "beneficiary": "Authors/Writers",
-        "details": "The Arts and Culture Department of Puducherry launched the 'Awarding of Tamil Mamani, Telugu Ratna and Malayala Ratna' scheme aims to provide cash award of \u20b975,000/- to the author/writer who has published books of high reputed in poetry, prose, and research articles in literature and grammar in their respective languages.",
+        "details": "The Arts and Culture Department of Puducherry launched the 'Awarding of Tamil Mamani, Telugu Ratna and Malayala Ratna' scheme aims to provide cash award of ₹75,000/- to the author/writer who has published books of high reputed in poetry, prose, and research articles in literature and grammar in their respective languages.",
         "benefits": [
-            "Cash award: \u20b975,000/-",
+            "Cash award: ₹75,000/-",
             "Number of Awards: Tamil Mamani - 6 awards, Malayala Ratna - 4 awards, Telugu Ratna - 4 awards"
         ],
         "eligibility": [
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the cash prize for each of the Tamil Mamani, Telugu Ratna, and Malayala Ratna Awards?",
-                "answer": "Each award carries a cash prize of \u20b975,000."
+                "answer": "Each award carries a cash prize of ₹75,000."
             },
             {
                 "question": "Are previous award recipients from other organizations eligible?",
@@ -82,5 +82,6 @@
             "Telugu",
             "Malayalam"
         ]
-    }
+    },
+    "id": "000158"
 }

@@ -5,17 +5,17 @@
         "department": "Minorities Welfare Department, Government of Telangana",
         "type": "Grant",
         "beneficiary": "Unmarried girls belonging to minority communities",
-        "details": "In order to prevent child marriages and support the marriage expense of financially distressed families, on 02nd October 2014, Government of Telangana introduced a welfare scheme called \u201cShaadi Mubarak\u2019\u2019, providing financial assistance for marriages of minority community girls. The main objective of this scheme is to provide financial assistance to the newly wedding brides who belong to minority families. Under this scheme at the time of marriage of the bride financial aid will be transferred into the bank account of the mother. This scheme will prevent early marriages and will also increase the literacy rate among girls as only those girls who have attained 18 years of age or more can apply for this scheme.",
+        "details": "In order to prevent child marriages and support the marriage expense of financially distressed families, on 02nd October 2014, Government of Telangana introduced a welfare scheme called “Shaadi Mubarak’’, providing financial assistance for marriages of minority community girls. The main objective of this scheme is to provide financial assistance to the newly wedding brides who belong to minority families. Under this scheme at the time of marriage of the bride financial aid will be transferred into the bank account of the mother. This scheme will prevent early marriages and will also increase the literacy rate among girls as only those girls who have attained 18 years of age or more can apply for this scheme.",
         "benefits": [
-            "One-time financial assistance of \u20b91,00,116/- at the time of marriage for every unmarried girl belonging to the minority community.",
-            "Financial assistance of \u20b91,25,145/- is provided to the parents of disabled girls."
+            "One-time financial assistance of ₹1,00,116/- at the time of marriage for every unmarried girl belonging to the minority community.",
+            "Financial assistance of ₹1,25,145/- is provided to the parents of disabled girls."
         ],
         "eligibility": [
             "The unmarried girl should belong to the minority community.",
             "The unmarried girl should be a resident of Telangana state.",
             "The unmarried girl should have completed 18 years of age at the time of marriage.",
             "The wedding of the minority community girl should be on or after October 2, 2014.",
-            "The combined income of the Parents shall not exceed \u20b92,00,000/- per annum."
+            "The combined income of the Parents shall not exceed ₹2,00,000/- per annum."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -25,7 +25,7 @@
             "Bride Groom's Scanned Aadhaar Copy",
             "Bride's Mother's Scanned Bank passbook",
             "Bride's Scanned Bank passbook",
-            "Bride\u2019s photograph",
+            "Bride’s photograph",
             "Wedding Card, if available",
             "Wedding Photograph",
             "Bride's Age proof certificate",
@@ -36,8 +36,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cShaadi Mubarak Scheme\u201d in Telangana?",
-                "answer": "In order to prevent child marriages and support the marriage expense of financially distressed families, Government of Telangana introduced a welfare scheme called \u201cShaadi Mubarak\u2019\u2019, providing financial assistance for marriages of minority community girls."
+                "question": "What is the “Shaadi Mubarak Scheme” in Telangana?",
+                "answer": "In order to prevent child marriages and support the marriage expense of financially distressed families, Government of Telangana introduced a welfare scheme called “Shaadi Mubarak’’, providing financial assistance for marriages of minority community girls."
             },
             {
                 "question": "What is the objective of the scheme?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "How much money is given under the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b91,00,116/- will be given to unmarried girls of minority communities for their marriage."
+                "answer": "Under the scheme, financial assistance of ₹1,00,116/- will be given to unmarried girls of minority communities for their marriage."
             },
             {
                 "question": "Who is eligible for scheme?",
@@ -73,11 +73,11 @@
             },
             {
                 "question": "What is the income limit to apply under the scheme?",
-                "answer": "The combined annual income of the bride\u2019s parents should be less than \u20b92 lakh."
+                "answer": "The combined annual income of the bride’s parents should be less than ₹2 lakh."
             },
             {
                 "question": "How can an applicant avail of the benefits of the scheme?",
-                "answer": "To avail of the benefits of the scheme, the applicant can submit the application form through the \u201cTelangana ePass\u201d website."
+                "answer": "To avail of the benefits of the scheme, the applicant can submit the application form through the “Telangana ePass” website."
             }
         ],
         "sources": [
@@ -108,5 +108,6 @@
             "Minority",
             "Shaadi"
         ]
-    }
+    },
+    "id": "001774"
 }

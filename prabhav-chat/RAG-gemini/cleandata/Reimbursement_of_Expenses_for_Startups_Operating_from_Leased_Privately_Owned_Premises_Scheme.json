@@ -7,8 +7,8 @@
         "beneficiary": "Startups in Goa",
         "details": "The scheme 'Reimbursement of Expenses for Startups Operating from Leased/Privately Owned Premises Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed.",
         "benefits": [
-            "For start-ups that operate from privately owned premises: The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed subject to an upper limit of \u20b9 1,00,000 per quarter for a period of one year. This benefit can be availed by 20 start-ups each year which the SPC shall select as per its guidelines.",
-            "For start-ups that operate from rented premises: The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed subject to an upper limit of \u20b9 1,00,000 per quarter for a period of one year. This benefit can be availed by 20 start-ups each year which the SPC shall select as per its guidelines. For local start-ups that operate out of rented premises, a lease rental subsidy of up to \u20b9 20/- per square foot per month will be reimbursed quarterly for a period of up to two years. This incentive is subject to a cap of \u20b9 3,00,000 per annum and can be availed by 25 start-ups each year which shall be selected by the SPC as per its guidelines."
+            "For start-ups that operate from privately owned premises: The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed subject to an upper limit of ₹ 1,00,000 per quarter for a period of one year. This benefit can be availed by 20 start-ups each year which the SPC shall select as per its guidelines.",
+            "For start-ups that operate from rented premises: The cost towards internet connectivity, software license fees, and cloud services fees, will be reimbursed subject to an upper limit of ₹ 1,00,000 per quarter for a period of one year. This benefit can be availed by 20 start-ups each year which the SPC shall select as per its guidelines. For local start-ups that operate out of rented premises, a lease rental subsidy of up to ₹ 20/- per square foot per month will be reimbursed quarterly for a period of up to two years. This incentive is subject to a cap of ₹ 3,00,000 per annum and can be availed by 25 start-ups each year which shall be selected by the SPC as per its guidelines."
         ],
         "eligibility": [
             "All Start-ups certified by the Start-up Promotion Cell (SPC) having a valid start-up certificate number that are not using any government-developed co-working spaces/ incubators/ accelerators for their operations are eligible.",
@@ -71,5 +71,6 @@
             "Goa",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001588"
 }

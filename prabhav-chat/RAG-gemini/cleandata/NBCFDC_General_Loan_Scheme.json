@@ -5,15 +5,15 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Loan",
         "beneficiary": "Backward Class",
-        "details": "A general loan scheme by the Ministry of Social Justice for Indian citizens from backward classes for various income-generating activities. Loan up to \u20b915 Lakh per beneficiary for pursuing income-generating activities such as Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupation, Transport Sector & Service Sector, and Technical & Professional Trades/Courses.",
+        "details": "A general loan scheme by the Ministry of Social Justice for Indian citizens from backward classes for various income-generating activities. Loan up to ₹15 Lakh per beneficiary for pursuing income-generating activities such as Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupation, Transport Sector & Service Sector, and Technical & Professional Trades/Courses.",
         "benefits": [
-            "Loan up to \u20b915 Lakh per beneficiary for pursuing income generating activities such as Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupation, Transport Sector & Service Sector, and Technical & Professional Trades/Courses.",
-            "The rate of interest would be as follows - Loan up to \u20b9 5.00 Lakh: 6% per annum; Loan above \u20b95.00 Lakh up to \u20b9 10.00 Lakh: 7% per annum; Loan above \u20b910.00 Lakh up to \u20b9 15.00 Lakh: 8% per annum."
+            "Loan up to ₹15 Lakh per beneficiary for pursuing income generating activities such as Agriculture and Allied Activities, Small Business/Artisan & Traditional Occupation, Transport Sector & Service Sector, and Technical & Professional Trades/Courses.",
+            "The rate of interest would be as follows - Loan up to ₹ 5.00 Lakh: 6% per annum; Loan above ₹5.00 Lakh up to ₹ 10.00 Lakh: 7% per annum; Loan above ₹10.00 Lakh up to ₹ 15.00 Lakh: 8% per annum."
         ],
         "eligibility": [
             "The applicant must be an Entrepreneur",
             "The applicant must be from a Backward Class (OBC).",
-            "The Total Annual Family Income of the applicant must be Less than \u20b9 3 Lakh per Annum."
+            "The Total Annual Family Income of the applicant must be Less than ₹ 3 Lakh per Annum."
         ],
         "exclusions": [
             "NA"
@@ -31,11 +31,11 @@
         "faqs": [
             {
                 "question": "What is the maximum size of the loan under this scheme?",
-                "answer": "Under this scheme, the eligible entrepreneur can obtain a loan of max. \u20b915,00,000 per beneficiary."
+                "answer": "Under this scheme, the eligible entrepreneur can obtain a loan of max. ₹15,00,000 per beneficiary."
             },
             {
                 "question": "How much will be the interest rate for the loan?",
-                "answer": "The rate of interest would be as follows - Loan up to \u20b9 5.00 Lakh: 6% per annum Loan above \u20b95.00 Lakh up to \u20b9 10.00 Lakh: 7% per annum Loan above \u20b910.00 Lakh up to \u20b9 15.00 Lakh: 8% per annum."
+                "answer": "The rate of interest would be as follows - Loan up to ₹ 5.00 Lakh: 6% per annum Loan above ₹5.00 Lakh up to ₹ 10.00 Lakh: 7% per annum Loan above ₹10.00 Lakh up to ₹ 15.00 Lakh: 8% per annum."
             },
             {
                 "question": "By when am I expected to repay the loan?",
@@ -71,5 +71,6 @@
             "Loan",
             "OBC"
         ]
-    }
+    },
+    "id": "001253"
 }

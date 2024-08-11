@@ -7,9 +7,9 @@
         "beneficiary": "Registered construction workers and their families",
         "details": "The Nirman Shramik Jeevan Bhavishya Suraksha Yojana, launched by the Rajasthan government, offers various benefits to registered construction workers and their families in case of death or injury, whether accidental or natural. This comprehensive scheme complements other initiatives like the Construction Workers Tools/Toolkit Assistance Scheme, Construction Workers Education and Skill Development Scheme, and Construction Workers Sulabh Yojana.",
         "benefits": [
-            "For the Pradhan Mantri Suraksha Bima Yojana (PMSBY), the board will reimburse 100% of the annual premium amount of \u20b9 12/- paid by the beneficiary through deductions from their savings bank account.",
-            "For the Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), the board will reimburse 50% (i.e., \u20b9 165/-) of the annual premium amount of \u20b9330/- paid by the eligible beneficiary through deductions from their savings bank account.",
-            "For the Atal Pension Yojana (APY), the board will reimburse 50% (i.e., half of the average annual contribution amount) of the annual contribution amount deducted from the savings bank account of the eligible beneficiary for receiving a monthly pension of \u20b91,000/- under the APY."
+            "For the Pradhan Mantri Suraksha Bima Yojana (PMSBY), the board will reimburse 100% of the annual premium amount of ₹ 12/- paid by the beneficiary through deductions from their savings bank account.",
+            "For the Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), the board will reimburse 50% (i.e., ₹ 165/-) of the annual premium amount of ₹330/- paid by the eligible beneficiary through deductions from their savings bank account.",
+            "For the Atal Pension Yojana (APY), the board will reimburse 50% (i.e., half of the average annual contribution amount) of the annual contribution amount deducted from the savings bank account of the eligible beneficiary for receiving a monthly pension of ₹1,000/- under the APY."
         ],
         "eligibility": [
             "The beneficiary must be registered as a construction worker in the board.",
@@ -90,5 +90,6 @@
             "Labor",
             "Medical"
         ]
-    }
+    },
+    "id": "001361"
 }

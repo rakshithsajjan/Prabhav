@@ -5,9 +5,9 @@
         "department": "Industries and Commerce Department",
         "type": "Subsidy",
         "beneficiary": "Micro, Small, Medium and Large Industries",
-        "details": "'Assistance for Energy and Water Conservation' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, 50% of the fees paid to the recognized institution/consultant for conducting the energy/water audit is reimbursed, subject to a limit of \u20b925,000/-. In order to be eligible, the unit should have achieved saving in energy/water minimum by 10% of average monthly consumption of previous 12 months before conduct of audit. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Assistance for Energy and Water Conservation' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, 50% of the fees paid to the recognized institution/consultant for conducting the energy/water audit is reimbursed, subject to a limit of ₹25,000/-. In order to be eligible, the unit should have achieved saving in energy/water minimum by 10% of average monthly consumption of previous 12 months before conduct of audit. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Reimbursement of 50% of the fees paid to the recognized institution/consultant for conducting the energy/water audit, subject to a limit of \u20b925,000/-."
+            "Reimbursement of 50% of the fees paid to the recognized institution/consultant for conducting the energy/water audit, subject to a limit of ₹25,000/-."
         ],
         "eligibility": [
             "All the Micro, Small, Medium and Large Industries are eligible.",
@@ -115,5 +115,6 @@
                 "url": "https://industry.py.gov.in/state-helpline"
             }
         ]
-    }
+    },
+    "id": "000114"
 }

@@ -5,11 +5,11 @@
         "department": "Ministry Of Home Affairs",
         "type": "Award",
         "beneficiary": "Individuals exhibiting acts of physical/moral courage",
-        "details": "The Government of India introduced the \u201cKabir Puraskar Scheme\u201d in 1990 under which a National Award designated as \u201cKABIR PURASKAR\u201d was instituted in three grades, namely, Grade One, Grade Two, and Grade Three carrying a title and cash Award of \u20b920,000, \u20b910,000 & \u20b95,000 respectively for acts performed during communal riots. The Scheme has been amended and the cash amounts of the various grades of the Award and eligibility criteria for the Award have been revised.",
+        "details": "The Government of India introduced the “Kabir Puraskar Scheme” in 1990 under which a National Award designated as “KABIR PURASKAR” was instituted in three grades, namely, Grade One, Grade Two, and Grade Three carrying a title and cash Award of ₹20,000, ₹10,000 & ₹5,000 respectively for acts performed during communal riots. The Scheme has been amended and the cash amounts of the various grades of the Award and eligibility criteria for the Award have been revised.",
         "benefits": [
-            "Cash award of \u20b92,00,000 for Grade-I",
-            "Cash award of \u20b91,00,000 for Grade-II",
-            "Cash award of \u20b950,000 for Grade-III",
+            "Cash award of ₹2,00,000 for Grade-I",
+            "Cash award of ₹1,00,000 for Grade-II",
+            "Cash award of ₹50,000 for Grade-III",
             "Certificate with a suitable citation"
         ],
         "eligibility": [
@@ -30,8 +30,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cKabir Puraskar Scheme\u201d?",
-                "answer": "The Government of India introduced the \u201cKabir Puraskar Scheme\u201d under which a National Award designated as \u201cKabir Puraskar\u201d was instituted in three grades, namely, Grade One, Grade Two, and Grade Three carrying a title and cash Award for acts performed during communal riots."
+                "question": "What is the “Kabir Puraskar Scheme”?",
+                "answer": "The Government of India introduced the “Kabir Puraskar Scheme” under which a National Award designated as “Kabir Puraskar” was instituted in three grades, namely, Grade One, Grade Two, and Grade Three carrying a title and cash Award for acts performed during communal riots."
             },
             {
                 "question": "Which is the implementing agency of this scheme?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the amount of cash award which is to be given to the recipients?",
-                "answer": "The cash award of \u20b92,00,000, \u20b91,00,000 & \u20b950,000 will be given for Grade-I, Grade-II, and Grade-III respectively."
+                "answer": "The cash award of ₹2,00,000, ₹1,00,000 & ₹50,000 will be given for Grade-I, Grade-II, and Grade-III respectively."
             },
             {
                 "question": "What are the other benefits given to the recipients of the award?",
@@ -94,5 +94,6 @@
             "Community Harmony",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000951"
 }

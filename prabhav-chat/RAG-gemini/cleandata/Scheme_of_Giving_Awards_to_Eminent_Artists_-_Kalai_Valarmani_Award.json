@@ -5,11 +5,11 @@
         "department": "Art and Culture Department",
         "type": "Award",
         "beneficiary": "Artists",
-        "details": "The 'Scheme of Giving Awards to Eminent Artists - Kalai Valarmani Award' scheme by the Art and Culture Department, Government of Tamil Nadu. The scheme's objective is to promote and preserve the culture of Tamil Nadu. The selected artists are awarded financial assistance \u20b96,000/- and certificates of appreciation. The scheme is being implemented in all Districts of Tamil Nadu.",
+        "details": "The 'Scheme of Giving Awards to Eminent Artists - Kalai Valarmani Award' scheme by the Art and Culture Department, Government of Tamil Nadu. The scheme's objective is to promote and preserve the culture of Tamil Nadu. The selected artists are awarded financial assistance ₹6,000/- and certificates of appreciation. The scheme is being implemented in all Districts of Tamil Nadu.",
         "benefits": [
-            "Financial Assistance of \u20b96,000/-",
+            "Financial Assistance of ₹6,000/-",
             "Certificate of Appreciation",
-            "A shawl worth \u20b9500/-",
+            "A shawl worth ₹500/-",
             "5 eminent artists are awarded every year"
         ],
         "eligibility": [
@@ -97,5 +97,6 @@
             "Culture",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001729"
 }

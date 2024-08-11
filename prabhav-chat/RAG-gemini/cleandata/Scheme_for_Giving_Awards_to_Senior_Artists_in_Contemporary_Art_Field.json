@@ -5,9 +5,9 @@
         "department": "Art and Culture Department",
         "type": "Award",
         "beneficiary": "Senior Artists",
-        "details": "The 'Scheme for Giving Awards to Senior Artists in Contemporary Art Field' was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to encourage senior artists and develop the Painting and Sculpture arts by giving an award of \u20b915,000/- at the state-level contemporary art exhibition. The Traditional Art / Contemporary Art exhibitions are conducted by Oviya Nunkalai Kuzhu at the state level and awarded works will be on display for public view in the exhibition.",
+        "details": "The 'Scheme for Giving Awards to Senior Artists in Contemporary Art Field' was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to encourage senior artists and develop the Painting and Sculpture arts by giving an award of ₹15,000/- at the state-level contemporary art exhibition. The Traditional Art / Contemporary Art exhibitions are conducted by Oviya Nunkalai Kuzhu at the state level and awarded works will be on display for public view in the exhibition.",
         "benefits": [
-            "Prize Money of \u20b915,000/-"
+            "Prize Money of ₹15,000/-"
         ],
         "eligibility": [
             "The applicant should be a domicile of Tamil Nadu.",
@@ -15,7 +15,7 @@
             "The applicant's age should be 30 years or above."
         ],
         "exclusions": [],
-        "application_process": "Offline. A Kuzhu\u2019s Press Release inviting contemporary art works from Senior artists will be published in the newspapers. Interested applicants should visit the office of the Oviya Nunkalai Kuzhu during office hours and request the hard copy of the prescribed format of the application form from the designated staff.",
+        "application_process": "Offline. A Kuzhu’s Press Release inviting contemporary art works from Senior artists will be published in the newspapers. Interested applicants should visit the office of the Oviya Nunkalai Kuzhu during office hours and request the hard copy of the prescribed format of the application form from the designated staff.",
         "documents_required": [
             "Bio-data of the Artist.",
             "Age proof."
@@ -35,7 +35,7 @@
             },
             {
                 "question": "Is there an entry fee for submitting the application form? If so, how much is it?",
-                "answer": "Yes, the artist must pay an entry fee of \u20b920/- along with the filled-up application form."
+                "answer": "Yes, the artist must pay an entry fee of ₹20/- along with the filled-up application form."
             },
             {
                 "question": "To whom should the duly filled and signed application form be submitted?",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the prize money awarded to the recipients of the scheme?",
-                "answer": "The prize money awarded is \u20b915,000/-."
+                "answer": "The prize money awarded is ₹15,000/-."
             },
             {
                 "question": "What role does the Directorate of Art and Culture play in the administration of the scheme?",
@@ -86,5 +86,6 @@
             "Tamil Nadu",
             "Senior Artists"
         ]
-    }
+    },
+    "id": "001687"
 }

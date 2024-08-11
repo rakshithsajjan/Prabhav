@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste",
         "details": "The scheme 'Cattle Shed Subsidy Scheme under Scheduled Castes Sub Plan (SCSP)' is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, the financial assistance is given to Scheduled Caste beneficiaries for construction of Cattle Shed for 2 animals.",
         "benefits": [
-            "Under the scheme, financial assistance of either \u20b930,000/- or 50% of the cost of the cattle shed, whichever is less, is provided to Scheduled Caste beneficiaries for the construction of a cattle shed for two animals."
+            "Under the scheme, financial assistance of either ₹30,000/- or 50% of the cost of the cattle shed, whichever is less, is provided to Scheduled Caste beneficiaries for the construction of a cattle shed for two animals."
         ],
         "eligibility": [
             "The beneficiary should be a permanent resident of Gujarat.",
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What are the benefits of this scheme?",
-                "answer": "Scheduled Caste beneficiaries can receive financial assistance either up to \u20b930,000/- or 50% of the cattle shed's cost, whichever is lower, for constructing a shelter for two animals."
+                "answer": "Scheduled Caste beneficiaries can receive financial assistance either up to ₹30,000/- or 50% of the cattle shed's cost, whichever is lower, for constructing a shelter for two animals."
             },
             {
                 "question": "When can the financial assistance be availed?",
@@ -68,5 +68,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000255"
 }

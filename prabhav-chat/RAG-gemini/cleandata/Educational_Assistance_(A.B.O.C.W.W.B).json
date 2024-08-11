@@ -5,20 +5,20 @@
         "department": "Labour Welfare Department, Government of Assam",
         "type": "Scholarship",
         "beneficiary": "Children of registered construction workers",
-        "details": "The \u201cEducational Assistance\u201d scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, educational assistance/scholarship will be provided to the children of the registered construction workers who are studying in Class I to Post Graduate, to lay greater emphasis on education. Further, if the children of the construction workers pursue higher study in the Government Institution of IIT/Engineering /Medical etc. then the entire expenses will be borne by the Board on submission of proper documents from the Institution.",
+        "details": "The “Educational Assistance” scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, educational assistance/scholarship will be provided to the children of the registered construction workers who are studying in Class I to Post Graduate, to lay greater emphasis on education. Further, if the children of the construction workers pursue higher study in the Government Institution of IIT/Engineering /Medical etc. then the entire expenses will be borne by the Board on submission of proper documents from the Institution.",
         "benefits": [
-            "Class 1 to 4: \u20b91,500/-",
-            "Class 5 to 7: \u20b92,750/-",
-            "Class 8 to 10: \u20b94,000/-",
-            "Class 11 to 12 (each year) including ITI: \u20b97,000/-",
-            "Degree Course & its equivalent courses including ITI: \u20b910,000/-",
-            "Post Graduate or equivalent classes including engineering/ medical/competitive exam: \u20b920,000/-",
+            "Class 1 to 4: ₹1,500/-",
+            "Class 5 to 7: ₹2,750/-",
+            "Class 8 to 10: ₹4,000/-",
+            "Class 11 to 12 (each year) including ITI: ₹7,000/-",
+            "Degree Course & its equivalent courses including ITI: ₹10,000/-",
+            "Post Graduate or equivalent classes including engineering/ medical/competitive exam: ₹20,000/-",
             "All Expenses for higher study in Government Institutions"
         ],
         "eligibility": [
             "The applicant student should be a permanent resident of Assam.",
-            "The applicant\u2019s parent should be engaged in any building & other construction work.",
-            "The applicant\u2019s parent should be registered with the Assam Building and Other Construction Workers Welfare Board.",
+            "The applicant’s parent should be engaged in any building & other construction work.",
+            "The applicant’s parent should be registered with the Assam Building and Other Construction Workers Welfare Board.",
             "The parent of the applicant should have an active membership with the Board.",
             "The students should be enrolled in educational programs from Class I to higher study levels."
         ],
@@ -88,5 +88,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "000478"
 }

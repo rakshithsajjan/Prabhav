@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Women registered construction workers",
-        "details": "The scheme 'Maternity Benefit Scheme (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under this scheme, financial assistance of \u20b936,000/- (i.e. \u20b930,000/- for motherhood and \u20b96000/- for nutritious food) will be given to women registered construction workers after the birth of the child. Further, the benefits under the scheme will be given to women registered workers on the birth of up to two children but is expandable up to the birth of three daughters irrespective of the order of their birth.",
+        "details": "The scheme 'Maternity Benefit Scheme (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under this scheme, financial assistance of ₹36,000/- (i.e. ₹30,000/- for motherhood and ₹6000/- for nutritious food) will be given to women registered construction workers after the birth of the child. Further, the benefits under the scheme will be given to women registered workers on the birth of up to two children but is expandable up to the birth of three daughters irrespective of the order of their birth.",
         "benefits": [
-            "Financial assistance of \u20b936,000/- (i.e. \u20b930,000/- for motherhood and \u20b96000/- for nutritious food) will be given to registered women construction workers after the birth of the child."
+            "Financial assistance of ₹36,000/- (i.e. ₹30,000/- for motherhood and ₹6000/- for nutritious food) will be given to registered women construction workers after the birth of the child."
         ],
         "eligibility": [
             "The women worker should be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
@@ -31,7 +31,7 @@
         "faqs": [
             {
                 "question": "What is the 'Maternity Benefit Scheme (HBOCWWB)' scheme?",
-                "answer": "Under this scheme, financial assistance of \u20b936,000/- (i.e. \u20b930,000/- for motherhood and \u20b96000/- for nutritious food) will be given to women registered construction workers after the birth of the child."
+                "answer": "Under this scheme, financial assistance of ₹36,000/- (i.e. ₹30,000/- for motherhood and ₹6000/- for nutritious food) will be given to women registered construction workers after the birth of the child."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The financial assistance of \u20b936,000/- (i.e. \u20b930,000/- for motherhood and \u20b96000/- for nutritious food) will be given to registered women construction workers after the birth of the child."
+                "answer": "The financial assistance of ₹36,000/- (i.e. ₹30,000/- for motherhood and ₹6000/- for nutritious food) will be given to registered women construction workers after the birth of the child."
             },
             {
                 "question": "For how many children will the maternity benefit be given to registered women workers?",
@@ -71,7 +71,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Yes, the first-time registration charges are \u20b925/- and the registration fees vary according to the renewal time period."
+                "answer": "Yes, the first-time registration charges are ₹25/- and the registration fees vary according to the renewal time period."
             },
             {
                 "question": "How can an worker apply under the scheme?",
@@ -102,5 +102,6 @@
             "Women",
             "Construction Workers"
         ]
-    }
+    },
+    "id": "001108"
 }

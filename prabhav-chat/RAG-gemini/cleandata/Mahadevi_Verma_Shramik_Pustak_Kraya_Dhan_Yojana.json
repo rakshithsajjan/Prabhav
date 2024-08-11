@@ -7,11 +7,11 @@
         "beneficiary": "Daughters of construction workers",
         "details": "The Mahadevi Verma Shramik Pustak Kraya Dhan Yojana (MVSPKDPY), launched in 2022 by the Uttar Pradesh government, is a commendable initiative aimed at empowering daughters of construction workers. Recognizing the financial challenges faced by these families, the scheme offers a one-time grant to aid these students in purchasing books for their higher education. This financial assistance proves to be a significant support, alleviating some of the burden on families and enabling these young women to focus on their academic pursuits. By facilitating their access to necessary course materials, the MVSPKDPY fosters a culture of higher learning within this community and paves the way for the daughters of construction workers to achieve their educational goals.",
         "benefits": [
-            "Financial Assistance: \u20b97,500/- lump sum per candidate for postgraduate candidates."
+            "Financial Assistance: ₹7,500/- lump sum per candidate for postgraduate candidates."
         ],
         "eligibility": [
             "The worker must be working in an establishment registered under the Shops and Commercial Establishments Act, 1962 or the Factories Act, 1948 in Uttar Pradesh.",
-            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-.",
+            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed ₹15,000/-.",
             "The worker must have completed at least six months of continuous service in the establishment/factory and must be in service at the time of application.",
             "The benefit of the scheme will be available to only two daughters of the worker.",
             "In case the worker is a woman herself, she will be eligible for the benefit.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "How much financial benefits are provided under the scheme?",
-                "answer": "Financial Assistance: \u20b97,500/- lump sum per candidate."
+                "answer": "Financial Assistance: ₹7,500/- lump sum per candidate."
             },
             {
                 "question": "For which courses or classes are these scholarship awards provided?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What the financial eligibility criteria?",
-                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-."
+                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed ₹15,000/-."
             },
             {
                 "question": "What is procedure to get the scheme benefits?",
@@ -83,5 +83,6 @@
             "Higher Education",
             "Student Finance"
         ]
-    }
+    },
+    "id": "001050"
 }

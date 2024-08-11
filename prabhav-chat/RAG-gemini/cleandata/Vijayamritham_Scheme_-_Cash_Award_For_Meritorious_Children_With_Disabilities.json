@@ -7,8 +7,8 @@
         "beneficiary": "Children With Disabilities",
         "details": "The scheme 'Vijayamritham Scheme - Cash Award for Meritorious Children with Disabilities' was launched by the Department of Social Justice, Government of Kerala. The government of Kerala has devised this scheme to provide a one-time cash award as motivation and helping hand to meritorious differently-abled students who have secured high marks in Degree/ Equivalent courses, Post Graduate & Professional courses. Through this scheme, the government aims to mainstream Children with Disabilities and create awareness among them of their fundamental rights.",
         "benefits": [
-            "One-time cash award of \u20b98000/- for Degree / Equivalent courses",
-            "One-time cash award of \u20b910,000/- for Post-Graduation & Professional Courses",
+            "One-time cash award of ₹8000/- for Degree / Equivalent courses",
+            "One-time cash award of ₹10,000/- for Post-Graduation & Professional Courses",
             "Certificates and mementos presented to selected students"
         ],
         "eligibility": [
@@ -63,7 +63,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, a one-time cash award of \u20b98000/- for Degree / Equivalent courses and \u20b910,000/- for Post-Graduation & Professional Courses will be given to meritorious differently-abled students."
+                "answer": "Under the scheme, a one-time cash award of ₹8000/- for Degree / Equivalent courses and ₹10,000/- for Post-Graduation & Professional Courses will be given to meritorious differently-abled students."
             },
             {
                 "question": "What is the criterion for the percentage of marks for different subjects?",
@@ -102,5 +102,6 @@
             "Kerala",
             "Social Justice"
         ]
-    }
+    },
+    "id": "002013"
 }

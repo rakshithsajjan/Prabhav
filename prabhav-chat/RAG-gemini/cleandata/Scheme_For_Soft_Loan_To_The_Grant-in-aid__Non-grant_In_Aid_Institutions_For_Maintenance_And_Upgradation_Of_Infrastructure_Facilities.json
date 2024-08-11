@@ -19,7 +19,7 @@
             "Newly established institutions are not eligible",
             "Institutions located outside Goa are not eligible"
         ],
-        "application_process": "Eligible institutions should apply in the prescribed format (Appendix 'A') to the Directorate of Higher Education, located at SCERT Building, Porvorim, Penha de Fran\u00e7a, Goa - 403 521.",
+        "application_process": "Eligible institutions should apply in the prescribed format (Appendix 'A') to the Directorate of Higher Education, located at SCERT Building, Porvorim, Penha de França, Goa - 403 521.",
         "documents_required": [
             "An approved plan of construction",
             "Cost estimate of the project, certified by a Registered Engineer and Chartered Accountant",
@@ -104,5 +104,6 @@
             "Goa",
             "Higher Education"
         ]
-    }
+    },
+    "id": "001666"
 }

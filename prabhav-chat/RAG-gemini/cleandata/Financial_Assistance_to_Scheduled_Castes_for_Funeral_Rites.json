@@ -7,13 +7,13 @@
         "beneficiary": "Scheduled Caste families",
         "details": "The scheme 'Financial Assistance to Scheduled Castes for Funeral Rites' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide financial assistance to the Scheduled Caste family for performing funeral rites of their deceased family member in order to get rid of the immediate hardship.",
         "benefits": [
-            "Financial assistance of \u20b9 10,000/-."
+            "Financial assistance of ₹ 10,000/-."
         ],
         "eligibility": [
             "The deceased should be from a Scheduled Caste.",
             "The applicant should be from a Scheduled Caste.",
             "The applicant should be a close relative of the deceased.",
-            "The annual family income should be less than \u20b9 2,00,000/-.",
+            "The annual family income should be less than ₹ 2,00,000/-.",
             "The family members of the deceased should belong to the Union Territory of Puducherry by virtue of nativity or continuous residence of 3 years."
         ],
         "exclusions": [],
@@ -53,7 +53,7 @@
             },
             {
                 "question": "How much financial assistance is offered under this scheme?",
-                "answer": "Eligible beneficiaries receive \u20b910,000 in financial assistance to support the funeral rites of the deceased."
+                "answer": "Eligible beneficiaries receive ₹10,000 in financial assistance to support the funeral rites of the deceased."
             },
             {
                 "question": "Is There Any Compensation For The Delay In The Disbursal Of The Scheme Benefits?",
@@ -73,7 +73,7 @@
             },
             {
                 "question": "Can the financial assistance be utilized for purposes other than funeral rites?",
-                "answer": "No, the assistance of \u20b910,000 is specifically designated for covering the expenses of the funeral rites of the deceased."
+                "answer": "No, the assistance of ₹10,000 is specifically designated for covering the expenses of the funeral rites of the deceased."
             },
             {
                 "question": "What measures are in place to prevent misuse of the financial assistance?",
@@ -105,5 +105,6 @@
             "Funeral",
             "Scheduled Caste"
         ]
-    }
+    },
+    "id": "000607"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Industrial Development (Industries and Commerce)",
         "type": "Subsidy",
         "beneficiary": "Physically handicapped entrepreneurs and Ex-Servicemen",
-        "details": "The 'Capital Investment Subsidy: Physically Handicapped Persons/ Ex-Servicemen' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. Through this scheme, the new industrial units which started production on or after 5th August 2009 by physically handicapped entrepreneurs and Ex-Servicemen for the investments made on land, building and plant and machinery are eligible for capital investment subsidy at the rate of 25% thereon subject to a maximum of \u20b925,00,000/- for the micro and small manufacturing enterprises.",
+        "details": "The 'Capital Investment Subsidy: Physically Handicapped Persons/ Ex-Servicemen' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. Through this scheme, the new industrial units which started production on or after 5th August 2009 by physically handicapped entrepreneurs and Ex-Servicemen for the investments made on land, building and plant and machinery are eligible for capital investment subsidy at the rate of 25% thereon subject to a maximum of ₹25,00,000/- for the micro and small manufacturing enterprises.",
         "benefits": [
-            "A capital investment subsidy at the rate of 25% thereon subject to a maximum of \u20b925,00,000/- for the micro and small manufacturing enterprises for the investments made on land, building and plant and machinery."
+            "A capital investment subsidy at the rate of 25% thereon subject to a maximum of ₹25,00,000/- for the micro and small manufacturing enterprises for the investments made on land, building and plant and machinery."
         ],
         "eligibility": [
             "The scheme is applicable to the new industrial units which started production on or after 5th August 2009 by physically handicapped entrepreneurs and Ex-Servicemen.",
@@ -21,7 +21,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
+            "Engineer’s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
             "Registered Lease Agreement for the Building Executed Between the Developer and the Unit.",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "What is the maximum amount eligible for capital investment subsidy for micro and small manufacturing enterprises under this scheme?",
-                "answer": "Micro and small manufacturing enterprises can avail a maximum capital investment subsidy of \u20b925,00,000 or 25% of the total investment in land, building, and plant and machinery, whichever is lower."
+                "answer": "Micro and small manufacturing enterprises can avail a maximum capital investment subsidy of ₹25,00,000 or 25% of the total investment in land, building, and plant and machinery, whichever is lower."
             },
             {
                 "question": "Are there specific criteria for eligibility regarding the incapacity level for physically handicapped persons to qualify for the subsidy?",
@@ -89,5 +89,6 @@
             "Investment",
             "Machinery"
         ]
-    }
+    },
+    "id": "000242"
 }

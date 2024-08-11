@@ -7,8 +7,8 @@
         "beneficiary": "Senior Citizens",
         "details": "The scheme 'Mukhyamantri Vridhjan Pension Yojna' is an old-age pension scheme implemented by the Department of Social Welfare, Government of Bihar to provide financial assistance to elderly citizens. Under the scheme, a monthly pension is given to individuals who are aged 60 years or above.",
         "benefits": [
-            "A monthly pension of \u20b9400/- will be provided to individuals who are in the age group of 60-79 years.",
-            "A monthly pension of \u20b9500/- will be provided to the individuals whose age is 80 years and above."
+            "A monthly pension of ₹400/- will be provided to individuals who are in the age group of 60-79 years.",
+            "A monthly pension of ₹500/- will be provided to the individuals whose age is 80 years and above."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Bihar.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the benefits offered under this scheme?",
-                "answer": "For individuals aged 60-79 years, a monthly pension of \u20b9400/- will be provided. Individuals aged 80 years and above will receive a monthly pension of \u20b9500/-."
+                "answer": "For individuals aged 60-79 years, a monthly pension of ₹400/- will be provided. Individuals aged 80 years and above will receive a monthly pension of ₹500/-."
             },
             {
                 "question": "How is the pension amount distributed?",
@@ -81,5 +81,6 @@
             "Pension",
             "Senior Citizen"
         ]
-    }
+    },
+    "id": "001243"
 }

@@ -1,6 +1,6 @@
 {
     "content": {
-        "title": "Swachh Bharat Mission \u2013 Grameen PHASE I",
+        "title": "Swachh Bharat Mission – Grameen PHASE I",
         "state": "India",
         "department": "Ministry Of Jal Shakti",
         "type": "Sanitation",
@@ -15,7 +15,7 @@
         ],
         "exclusions": [
             "All houses constructed with the Central and/or State assistance should invariably have a safe sanitation facility as an integral part.",
-            "Provision will be separately included in the Pradhan Mantri Awas Yojana \u2013 Gramin (PMAYG) for provision of functional toilets for PMAY houses."
+            "Provision will be separately included in the Pradhan Mantri Awas Yojana – Gramin (PMAYG) for provision of functional toilets for PMAY houses."
         ],
         "application_process": "Offline and Online",
         "documents_required": [
@@ -41,5 +41,6 @@
             "Swachh Bharat",
             "Toilet"
         ]
-    }
+    },
+    "id": "001900"
 }

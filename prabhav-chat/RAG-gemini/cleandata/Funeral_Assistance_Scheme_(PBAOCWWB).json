@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Financial Assistance",
         "beneficiary": "Nominees/Dependents of deceased Construction Workers",
-        "details": "The 'Funeral Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction an amount of \u20b97,000/- to the nominees/dependents of the deceased Construction Worker towards funeral expenses. The applicant should be submitted within two months from the date of death of the Construction Worker.",
+        "details": "The 'Funeral Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction an amount of ₹7,000/- to the nominees/dependents of the deceased Construction Worker towards funeral expenses. The applicant should be submitted within two months from the date of death of the Construction Worker.",
         "benefits": [
-            "Financial Assistance of \u20b97,000/- credited within 7 days through DBT."
+            "Financial Assistance of ₹7,000/- credited within 7 days through DBT."
         ],
         "eligibility": [
             "The applicant should be the nominee/dependent of the deceased Construction Worker.",
@@ -42,7 +42,7 @@
         "faqs": [
             {
                 "question": "Is there a fee associated with the registration process, and what is it?",
-                "answer": "Yes, there is a registration fee of \u20b925/- at the time of enrollment and an annual subscription fee of \u20b9100/-. Additionally, the Board collects \u20b9300/- as a renewal fee once in three years."
+                "answer": "Yes, there is a registration fee of ₹25/- at the time of enrollment and an annual subscription fee of ₹100/-. Additionally, the Board collects ₹300/- as a renewal fee once in three years."
             },
             {
                 "question": "What is the role of the inspectors under the Act in the registration process?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "How long does it take for the financial assistance to be credited after the application is submitted?",
-                "answer": "The financial assistance of \u20b97,000/- is credited within 7 days through Direct Benefit Transfer (DBT)."
+                "answer": "The financial assistance of ₹7,000/- is credited within 7 days through Direct Benefit Transfer (DBT)."
             },
             {
                 "question": "It's been more than two months since my husband, a registered construction worker, passed away. Can I still apply for the Funeral Assistance scheme?",
@@ -114,5 +114,6 @@
             "Construction Workers",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000655"
 }

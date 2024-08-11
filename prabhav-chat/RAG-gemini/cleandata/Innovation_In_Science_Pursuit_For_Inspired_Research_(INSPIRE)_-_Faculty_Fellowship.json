@@ -7,9 +7,9 @@
         "beneficiary": "Faculty with PhD qualifications",
         "details": "The 'INSPIRE FACULTY FELLOWSHIP' component provides opportunities to 100 persons every year with Ph.D. qualifications in the age group of 27-32 years for 5 years to carry out research in both basic and applied science areas including engineering, medicine, agriculture, and veterinary sciences for establishing themselves as independent researchers. It grants an attractive fellowship for a duration of 5 years. The objective of the scheme is to encourage young researchers to continue research in areas of S&T, Medicine, Agriculture, Pharmacy, and Veterinary Sciences.",
         "benefits": [
-            "Each selected INSPIRE Faculty Fellow will be eligible to receive a consolidated amount of \u20b91,25,000/- per month as a fellowship with an annual increment of \u20b92,000/-",
-            "A Research Grant of \u20b97,00,000 every year for 5 years will also be provided to each successful candidate including the carry-forward amount, if any, from the previous year",
-            "The consolidated amount of \u20b91,25,000/- per month is an all-inclusive fellowship and taxable as per the Indian IT Act",
+            "Each selected INSPIRE Faculty Fellow will be eligible to receive a consolidated amount of ₹1,25,000/- per month as a fellowship with an annual increment of ₹2,000/-",
+            "A Research Grant of ₹7,00,000 every year for 5 years will also be provided to each successful candidate including the carry-forward amount, if any, from the previous year",
+            "The consolidated amount of ₹1,25,000/- per month is an all-inclusive fellowship and taxable as per the Indian IT Act",
             "The INSPIRE Faculty Fellowship is for a maximum period of 5 (five) years"
         ],
         "eligibility": [
@@ -107,5 +107,6 @@
             "PhD",
             "Science"
         ]
-    }
+    },
+    "id": "000856"
 }

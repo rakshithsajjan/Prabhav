@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Tribe students",
         "details": "\"Eklavya Prashikshan Yojana\" is a Scholarship Scheme by the Department of Tribal Welfare, Government of Goa. The objective of the scheme is to impart coaching to Scheduled Tribes students across Goa studying in classes Xth, XIth (Science), and XIIth (Arts, Science and Commerce). The scheme prepares the students for various professional courses such as Engineering, Medicine, Architecture, Paramedical Sciences, Law, Chartered Accountancy, etc. after class XIIth.",
         "benefits": [
-            "Reimbursement of 75% of the fees paid (up to \u20b9 10,000/- per annum per subject in rural areas and \u20b9 12,000/- per annum per subject in urban areas)",
+            "Reimbursement of 75% of the fees paid (up to ₹ 10,000/- per annum per subject in rural areas and ₹ 12,000/- per annum per subject in urban areas)",
             "50% of the Fees reimbursed as a first instalment during the First Term of the Academic year upon submission of the fee receipt",
             "25% of the Fees reimbursed as a second instalment upon the submission of the Attendance Certificate of the First Term"
         ],
@@ -49,7 +49,7 @@
             },
             {
                 "question": "How Does The Redressal Of Grievances And Disputes Related To The Scheme Work?",
-                "answer": "In case any grievances arise during the implementation of the scheme, they shall be heard and decided by the Hon\u2019ble Minister for Tribal Welfare. The decision of the Minister of Tribal Welfare will be considered final and binding on all the concerned parties."
+                "answer": "In case any grievances arise during the implementation of the scheme, they shall be heard and decided by the Hon’ble Minister for Tribal Welfare. The decision of the Minister of Tribal Welfare will be considered final and binding on all the concerned parties."
             },
             {
                 "question": "What Steps Are Taken To Monitor The Performance And Progress Of Students Receiving Coaching Assistance?",
@@ -92,5 +92,6 @@
             "Scheduled Tribe",
             "Scholarship"
         ]
-    }
+    },
+    "id": "000485"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Micro and Small Manufacturing Enterprises",
         "details": "The scheme 'Back Ended Interest Subsidy (BEIS)' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective of reducing financial burdens of all new micro and small manufacturing enterprises who have already availed loans from banks/ other government organizations by assisting them through a subsidy on term loans for a period of 5 years.",
         "benefits": [
-            "Subsidy of 5% on term loans subject to a maximum of \u20b9 20,00,000 is given for a period of 5 years to all new micro and small manufacturing enterprises for term loans up to \u20b9 2,00,00,000 obtained for Credit Guarantee Fund Trust Scheme (CGTMSE).",
-            "Subsidy of 5% on term loans subject to a maximum of \u20b9 25,00,000 is given for a period of 5 years to all new micro and small manufacturing enterprises for term loans up to \u20b9 5,00,00,000 obtained for technology up-gradation / modernization.",
-            "The maximum amount of BEIS payable per loan shall be \u20b9 10,00,000 only on loans taken up to \u20b9 1,00,00,000."
+            "Subsidy of 5% on term loans subject to a maximum of ₹ 20,00,000 is given for a period of 5 years to all new micro and small manufacturing enterprises for term loans up to ₹ 2,00,00,000 obtained for Credit Guarantee Fund Trust Scheme (CGTMSE).",
+            "Subsidy of 5% on term loans subject to a maximum of ₹ 25,00,000 is given for a period of 5 years to all new micro and small manufacturing enterprises for term loans up to ₹ 5,00,00,000 obtained for technology up-gradation / modernization.",
+            "The maximum amount of BEIS payable per loan shall be ₹ 10,00,000 only on loans taken up to ₹ 1,00,00,000."
         ],
         "eligibility": [
             "Micro and Small Enterprises who have availed of term loan under Technology upgradation/modernization schemes, National Equity Funds Scheme (Renamed as Micro / Small Enterprises Funding Scheme), Scheme for ISO Certification / R & D under NSIC -SIDCO Consortium and Credit Guarantee Fund Trust Scheme.",
@@ -41,12 +41,12 @@
                 "answer": "Interest subsidy is reimbursed once in three months on a quarterly basis to the financial institutions."
             },
             {
-                "question": "What is the maximum subsidy amount for term loans up to \u20b91,00,00,000 under BEIS?",
-                "answer": "The maximum BEIS payable per loan is \u20b910,00,000 for loans up to \u20b91,00,00,000."
+                "question": "What is the maximum subsidy amount for term loans up to ₹1,00,00,000 under BEIS?",
+                "answer": "The maximum BEIS payable per loan is ₹10,00,000 for loans up to ₹1,00,00,000."
             },
             {
                 "question": "How much subsidy can a micro-enterprise receive under BEIS for term loans obtained through CGTMSE?",
-                "answer": "Micro-enterprises can avail a 5% subsidy, capped at \u20b920,00,000, for a 5-year period on term loans up to \u20b92,00,00,000 through CGTMSE."
+                "answer": "Micro-enterprises can avail a 5% subsidy, capped at ₹20,00,000, for a 5-year period on term loans up to ₹2,00,00,000 through CGTMSE."
             },
             {
                 "question": "What is the objective of the Back Ended Interest Subsidy (BEIS) scheme?",
@@ -90,5 +90,6 @@
             "MSME",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000165"
 }

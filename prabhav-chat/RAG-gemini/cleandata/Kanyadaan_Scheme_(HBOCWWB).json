@@ -7,12 +7,12 @@
         "beneficiary": "Registered construction workers",
         "details": "The scheme 'Kanyadaan Scheme' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, the Board provides financial assistance in the form of Kanyadaan to registered construction workers on the occasion of the marriage of their daughters. This assistance is available for up to three daughters of the worker.",
         "benefits": [
-            "Financial assistance of \u20b951,000/- as Kanyadaan on the marriage of their daughters.",
-            "Additional financial assistance of \u20b950,000/- for arranging the marriage of the daughter of a registered worker."
+            "Financial assistance of ₹51,000/- as Kanyadaan on the marriage of their daughters.",
+            "Additional financial assistance of ₹50,000/- for arranging the marriage of the daughter of a registered worker."
         ],
         "eligibility": [
             "The applicant should be registered under the Haryana Building & Other Construction Workers Welfare Board.",
-            "The registered worker must have a minimum of one year\u2019s regular membership.",
+            "The registered worker must have a minimum of one year’s regular membership.",
             "The registered member must have worked for 90 days as a Building and Other Construction Worker during the preceding twelve months.",
             "The worker must have paid up-to-date contributions.",
             "The benefit is payable up to the marriage of three daughters only.",
@@ -43,11 +43,11 @@
         "faqs": [
             {
                 "question": "What is the financial assistance provided under the scheme?",
-                "answer": "Registered workers are provided with \u20b951,000/- as Kanyadaan on the marriage of their daughters."
+                "answer": "Registered workers are provided with ₹51,000/- as Kanyadaan on the marriage of their daughters."
             },
             {
                 "question": "Are there any additional benefits provided under the scheme?",
-                "answer": "Yes, the Board provides an additional \u20b950,000/- for arranging the marriage of the worker's daughter, totaling \u20b91,01,000/- in financial assistance."
+                "answer": "Yes, the Board provides an additional ₹50,000/- for arranging the marriage of the worker's daughter, totaling ₹1,01,000/- in financial assistance."
             },
             {
                 "question": "Who is eligible for the scheme?",
@@ -104,5 +104,6 @@
                 "url": "https://hrylabour.gov.in/staticdocs/labourActpdfdocs/HBOCW_Rules.pdf"
             }
         ]
-    }
+    },
+    "id": "000967"
 }

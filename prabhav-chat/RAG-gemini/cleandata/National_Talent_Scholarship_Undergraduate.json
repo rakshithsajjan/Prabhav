@@ -5,9 +5,9 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Scholarship",
         "beneficiary": "Student",
-        "details": "National Talent Scholarship (NTS) was launched by the Indian Council of Agricultural Research for students pursuing a Bachelor's program in an ICAR-recognized agricultural university located outside of his/her state of domicile and duly funded under the planning scheme \u201cStrengthening and Development of Higher Agricultural Education in India\" of the Education Division of the ICAR. The amount of the scholarship is \u20b9 2,000/- per month for Bachelor's (Under Graduate). The scholarship will be awarded initially for a period of one year from the date the student actually takes admission and shall be renewed for the remaining duration of the undergraduate degree program subject to his/her maintenance of good academic performance and conduct as specified by the concerned university.",
+        "details": "National Talent Scholarship (NTS) was launched by the Indian Council of Agricultural Research for students pursuing a Bachelor's program in an ICAR-recognized agricultural university located outside of his/her state of domicile and duly funded under the planning scheme “Strengthening and Development of Higher Agricultural Education in India\" of the Education Division of the ICAR. The amount of the scholarship is ₹ 2,000/- per month for Bachelor's (Under Graduate). The scholarship will be awarded initially for a period of one year from the date the student actually takes admission and shall be renewed for the remaining duration of the undergraduate degree program subject to his/her maintenance of good academic performance and conduct as specified by the concerned university.",
         "benefits": [
-            "The value of the scholarship shall be \u20b9 2,000/- per month to undergraduate (Bachelor's degree) students."
+            "The value of the scholarship shall be ₹ 2,000/- per month to undergraduate (Bachelor's degree) students."
         ],
         "eligibility": [
             "The applicant should be a student pursuing a Bachelors's from an Agricultural University recognized by ICAR, located outside his/her state of domicile.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How can I pay Application Fee?",
-                "answer": "Fee can be paid using SBI/Canara /HDFC/ICICI Bank Payment Gateway through Debit Card/Credit Card/Net Banking/UPI/Paytm. Candidates need to keep proof of fee paid. In case the Confirmation Page is not generated after payment of fee then the transaction is cancelled, and amount will be refunded to the candidate\u2019s account. However, the candidate has to make another transaction, in case the Confirmation Page is not generated."
+                "answer": "Fee can be paid using SBI/Canara /HDFC/ICICI Bank Payment Gateway through Debit Card/Credit Card/Net Banking/UPI/Paytm. Candidates need to keep proof of fee paid. In case the Confirmation Page is not generated after payment of fee then the transaction is cancelled, and amount will be refunded to the candidate’s account. However, the candidate has to make another transaction, in case the Confirmation Page is not generated."
             },
             {
                 "question": "I carried out corrections and submitted. After submission, I found that still there is some more correction to be done. Can I do so?",
@@ -65,5 +65,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001334"
 }

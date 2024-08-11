@@ -7,8 +7,8 @@
         "beneficiary": "Mothers who deliver a live Girl Child",
         "details": "The scheme 'Financial Incentives to Mothers who Deliver a Girl Child (Mamta)' is aimed at improving the Female Child Sex Ratio in the State. The scheme is open to all mothers who deliver a live Girl Child (max. 02 deliveries) in a registered medical institution.",
         "benefits": [
-            "\u20b9 10,000/- as a one-time financial incentive (at the birth of the child).",
-            "Those beneficiaries who had applied for the 1st Installment of \u20b9 5,000/- shall be eligible for \u20b9 10,000/- as per the amended scheme."
+            "₹ 10,000/- as a one-time financial incentive (at the birth of the child).",
+            "Those beneficiaries who had applied for the 1st Installment of ₹ 5,000/- shall be eligible for ₹ 10,000/- as per the amended scheme."
         ],
         "eligibility": [
             "The applicant should be a mother who has delivered a live Girl Child in a registered medical institution.",
@@ -88,5 +88,6 @@
             "Child Development",
             "Goa"
         ]
-    }
+    },
+    "id": "000617"
 }

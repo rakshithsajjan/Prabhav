@@ -5,7 +5,7 @@
         "department": "Ministry Of Science And Technology",
         "type": "Mobility",
         "beneficiary": "Women Scientists",
-        "details": "The \u201cIndo-French Visiting/Mobility Programme for Women in Science (PROWIS-II)\u201d is dedicated to the young women scientists of both India and France. This programme will encourage women candidates to work with the Indian/French scientific communities with an aim to accelerate their talented instincts towards carrying out advanced studies and research in the frontier areas of Science & Technology. Duration of Programme: The duration of the Programme will be for two weeks.",
+        "details": "The “Indo-French Visiting/Mobility Programme for Women in Science (PROWIS-II)” is dedicated to the young women scientists of both India and France. This programme will encourage women candidates to work with the Indian/French scientific communities with an aim to accelerate their talented instincts towards carrying out advanced studies and research in the frontier areas of Science & Technology. Duration of Programme: The duration of the Programme will be for two weeks.",
         "benefits": [
             "Return airfare (economy class)",
             "Accommodation & per diem allowances",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "Which is the implementing agency of this Programme?",
-                "answer": "Indo-French Centre for Promotion of Advanced Research/Centre Franco-Indien pour la Promotion de la Recherche Avanc\u00e9e."
+                "answer": "Indo-French Centre for Promotion of Advanced Research/Centre Franco-Indien pour la Promotion de la Recherche Avancée."
             },
             {
                 "question": "What are the eligibility criteria for applying the Programme?",
@@ -98,5 +98,6 @@
             "Research",
             "Fellowship"
         ]
-    }
+    },
+    "id": "000850"
 }

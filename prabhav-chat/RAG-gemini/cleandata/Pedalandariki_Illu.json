@@ -5,7 +5,7 @@
         "department": "Revenue Department, Govt. of Andhra Pradesh",
         "type": "Housing",
         "beneficiary": "Below Poverty Line",
-        "details": "Launched by the Hon\u2019ble Chief Minister of Andhra Pradesh, the 'Pedalandariki Illu' is a Housing Scheme by the Revenue Department, Govt. of Andhra Pradesh. 25 lakh House Site Pattas have been announced for distribution to all the eligible beneficiaries residing in Rural & Urban areas on Saturation Mode irrespective of Caste, Creed, or Religion to facilitate the construction of houses for the homeless poor. The process of issue of House Site Pattas will be taken up on mission mode and distribution to all eligible houseless poor will be taken up. This scheme is also known as the 'YSR Housing Scheme' and 'YSR Awaas Yojana'.",
+        "details": "Launched by the Hon’ble Chief Minister of Andhra Pradesh, the 'Pedalandariki Illu' is a Housing Scheme by the Revenue Department, Govt. of Andhra Pradesh. 25 lakh House Site Pattas have been announced for distribution to all the eligible beneficiaries residing in Rural & Urban areas on Saturation Mode irrespective of Caste, Creed, or Religion to facilitate the construction of houses for the homeless poor. The process of issue of House Site Pattas will be taken up on mission mode and distribution to all eligible houseless poor will be taken up. This scheme is also known as the 'YSR Housing Scheme' and 'YSR Awaas Yojana'.",
         "benefits": [
             "Rural Area: One House Site Patta shall be issued for an extent of 1.5 Cents to an eligible household in the name of the woman beneficiary of the house. The patta shall be handed over to the beneficiary on the day of Ugadi, 2020.",
             "The Housing Department shall issue sanctions for the construction of Individual Housing Units to the eligible beneficiary under the available schemes in a phased manner.",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What Are The Income Criteria For Housing In Urban Areas?",
-                "answer": "The Annual Income (from all the sources) of the Household should not exceed \u20b9 3,00,000/- (Rupees three lakhs only)."
+                "answer": "The Annual Income (from all the sources) of the Household should not exceed ₹ 3,00,000/- (Rupees three lakhs only)."
             },
             {
                 "question": "What Are The Mandatory Documents Required To Apply To This Scheme?",
@@ -88,5 +88,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001419"
 }

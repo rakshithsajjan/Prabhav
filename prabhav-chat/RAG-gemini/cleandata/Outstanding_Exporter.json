@@ -5,9 +5,9 @@
         "department": "Industries and Commerce Department",
         "type": "Award",
         "beneficiary": "Direct manufacture exporters",
-        "details": "'Outstanding Exporter' under \u201cMotivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises\u201d is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The direct manufacture exporters that are exporting for 3 years are conferred with a cash award of \u20b92,00,000/- and a citation. The scheme is formulated under the New Industrial Policy 2016, introduced on 4th October 2016. The 'State Award' Schemes are formulated to provide awards for the best outstanding Entrepreneurs/Enterprises conforming to the New Industrial Policy 2016.",
+        "details": "'Outstanding Exporter' under “Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises” is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The direct manufacture exporters that are exporting for 3 years are conferred with a cash award of ₹2,00,000/- and a citation. The scheme is formulated under the New Industrial Policy 2016, introduced on 4th October 2016. The 'State Award' Schemes are formulated to provide awards for the best outstanding Entrepreneurs/Enterprises conforming to the New Industrial Policy 2016.",
         "benefits": [
-            "Cash Award of \u20b92,00,000/- and a Citation."
+            "Cash Award of ₹2,00,000/- and a Citation."
         ],
         "eligibility": [
             "The unit should be functioning profitably and exporting for 3 years.",
@@ -29,7 +29,7 @@
             },
             {
                 "question": "What are the financial benefits provided under this scheme?",
-                "answer": "Recipients of the awards are granted a cash award of \u20b92,00,000/- along with a citation."
+                "answer": "Recipients of the awards are granted a cash award of ₹2,00,000/- along with a citation."
             },
             {
                 "question": "Who constitutes the Committee responsible for granting these awards?",
@@ -84,5 +84,6 @@
             "Award",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001398"
 }

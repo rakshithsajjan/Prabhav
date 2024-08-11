@@ -7,7 +7,7 @@
         "beneficiary": "Differently Abled Individuals",
         "details": "The scheme 'Grant of Stipend to Differently Abled Trainees' by the Department of Social Welfare, Government of Puducherry was introduced to provide financial assistance to differently abled individuals undergoing technical or professional training. The objective is to enable them to successfully complete their training, empowering them to earn a livelihood and contribute as valuable members of society.",
         "benefits": [
-            "A monthly stipend of \u20b91,000/-."
+            "A monthly stipend of ₹1,000/-."
         ],
         "eligibility": [
             "The applicant should have undertaken a full-time vocational training course in any recognized vocational training centre, workshop, ITI, or any other institution sanctioned by the Central/State Government, local body, or voluntary organization.",
@@ -70,7 +70,7 @@
             },
             {
                 "question": "How much is the monthly stipend provided under the scheme?",
-                "answer": "The scheme offers a monthly stipend of \u20b91,000/-."
+                "answer": "The scheme offers a monthly stipend of ₹1,000/-."
             }
         ],
         "sources": [
@@ -98,5 +98,6 @@
             "Trainee",
             "Vocational Education"
         ]
-    }
+    },
+    "id": "000735"
 }

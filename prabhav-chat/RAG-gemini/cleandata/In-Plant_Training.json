@@ -7,11 +7,11 @@
         "beneficiary": "Educated unemployed youth",
         "details": "The 'In-Plant Training' component of the 'Development of Industries' scheme by the District Industries Centre, Department of Industries and Commerce, UT of Puducherry was introduced to create employment opportunities and motivate entrepreneurship among the educated unemployed youth. Through this scheme, training is imparted to the educated unemployed youth at various industrial establishments in a real-time environment. The trainees acquire the skill by observing, assisting and learning the job on their own in the plant itself. The training makes them acquire better skills in the trade to start either their self-ventures or to get employment in established industries. The training is imparted for one year with a monthly stipend at rates based on educational qualification.",
         "benefits": [
-            "Higher Secondary / ITI and below: \u20b9 1,500/-",
-            "Any Graduate or 3 years Diploma in Engg. Or equivalent: \u20b9 2,500/-",
-            "Degree in Engineering or Post Graduate in Arts & Science or equivalent: \u20b9 3,000/-",
-            "Trainees having postgraduate qualification in a trade which requires under graduation as minimum qualification will be paid \u20b9 3,000/- per month.",
-            "During the period of training, the trainees may waste some of the raw materials for which an amount of \u20b9 300/- per trainee per month is paid to the industrial units which impart training as compensation for wastage."
+            "Higher Secondary / ITI and below: ₹ 1,500/-",
+            "Any Graduate or 3 years Diploma in Engg. Or equivalent: ₹ 2,500/-",
+            "Degree in Engineering or Post Graduate in Arts & Science or equivalent: ₹ 3,000/-",
+            "Trainees having postgraduate qualification in a trade which requires under graduation as minimum qualification will be paid ₹ 3,000/- per month.",
+            "During the period of training, the trainees may waste some of the raw materials for which an amount of ₹ 300/- per trainee per month is paid to the industrial units which impart training as compensation for wastage."
         ],
         "eligibility": [
             "The applicant should be between 18 and 35 years of age.",
@@ -31,7 +31,7 @@
         "faqs": [
             {
                 "question": "Is there any compensation provided to the industrial units imparting training under the scheme?",
-                "answer": "Yes, industrial units receive \u20b9300 per trainee per month as compensation for raw material wastage during the training period."
+                "answer": "Yes, industrial units receive ₹300 per trainee per month as compensation for raw material wastage during the training period."
             },
             {
                 "question": "How is the stipend amount calculated for trainees with different educational qualifications?",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "Can a postgraduate applicant in a trade requiring undergraduate qualifications receive training under this scheme?",
-                "answer": "Yes, such applicants are eligible and will receive a stipend of \u20b93,000 per month."
+                "answer": "Yes, such applicants are eligible and will receive a stipend of ₹3,000 per month."
             },
             {
                 "question": "How is the stipend determined if a trainee possesses higher qualifications than the minimum required?",
@@ -67,11 +67,11 @@
             },
             {
                 "question": "How is compensation handled for raw material wastage during the training period?",
-                "answer": "An amount of \u20b9300 per trainee per month is paid to industrial units to compensate for any raw material wastage."
+                "answer": "An amount of ₹300 per trainee per month is paid to industrial units to compensate for any raw material wastage."
             },
             {
                 "question": "Can you provide details about the stipend rates for different educational qualifications?",
-                "answer": "Stipends range from \u20b91,500 for Higher Secondary/ITI to \u20b93,000 for Post Graduates in relevant trades."
+                "answer": "Stipends range from ₹1,500 for Higher Secondary/ITI to ₹3,000 for Post Graduates in relevant trades."
             },
             {
                 "question": "What is the duration of the training, and how is the stipend determined?",
@@ -99,5 +99,6 @@
             "Skill Development",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000807"
 }

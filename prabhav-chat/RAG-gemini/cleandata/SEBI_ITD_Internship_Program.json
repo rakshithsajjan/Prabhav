@@ -7,8 +7,8 @@
         "beneficiary": "Students",
         "details": "The SEBI ITD Internship Program provides hands-on training to the students of the institutes based in and around Mumbai. The program accepts up to 15 interns. The Interns accepted under this program would be given an opportunity to work on different Information Technology (IT) projects including Data Analytics (DA), regulatory business processes and reporting, and FinTech at SEBI. Such projects will provide an exceptional opportunity to the interns to apply their IT and DA skills while gaining valuable exposure to the functioning of the Indian capital markets.",
         "benefits": [
-            "Stipend for interns working 3 days in a week: \u20b925,000",
-            "Stipend for interns working 4 days in a week: \u20b930,000",
+            "Stipend for interns working 3 days in a week: ₹25,000",
+            "Stipend for interns working 4 days in a week: ₹30,000",
             "Leaves for interns working 3 days in a week: 9",
             "Leaves for interns working 4 days in a week: 12",
             "Unfurnished shared accommodation only for outstation candidates, subject to availability",
@@ -57,7 +57,7 @@
             },
             {
                 "question": "What Facilities Are Provided To Interns During The Internship Program?",
-                "answer": "Interns undergoing internship at SEBI for 3 days a week receive a monthly stipend of \u20b925,000, and interns undergoing internship for 4 days a week receive a monthly stipend of \u20b930,000. Interns are entitled to a certain number of leaves per year. Outstation candidates may be provided with unfurnished shared accommodation, subject to availability. Lunch at the SEBI office is provided, and interns receive a certificate of completion of the internship program."
+                "answer": "Interns undergoing internship at SEBI for 3 days a week receive a monthly stipend of ₹25,000, and interns undergoing internship for 4 days a week receive a monthly stipend of ₹30,000. Interns are entitled to a certain number of leaves per year. Outstation candidates may be provided with unfurnished shared accommodation, subject to availability. Lunch at the SEBI office is provided, and interns receive a certificate of completion of the internship program."
             },
             {
                 "question": "What Documents Need To Be Submitted By Eligible Institutes To Express Their Interest In Participating In The SEBI ITD Internship Program?",
@@ -81,5 +81,6 @@
             "Internship",
             "Student"
         ]
-    }
+    },
+    "id": "001612"
 }

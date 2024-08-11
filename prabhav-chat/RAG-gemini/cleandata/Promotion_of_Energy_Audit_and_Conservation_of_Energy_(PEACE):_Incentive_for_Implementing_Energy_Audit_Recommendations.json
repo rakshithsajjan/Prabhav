@@ -7,7 +7,7 @@
         "beneficiary": "Manufacturing MSMEs",
         "details": "'Promotion of Energy Audit and Conservation of Energy (PEACE)' is a scheme by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu. The scheme comprises four main components: Awareness Programme; Training Programme; Detailed Energy Audit; and Implementation of Energy Audit Recommendations. The 'Incentive for Implementing Energy Audit Recommendations' component of this scheme is introduced to incentivise MSMEs to implement the recommendations of the Energy Audit Report and to optimize energy consumption leading to energy saving and money savings in electricity bills.",
         "benefits": [
-            "50% of the cost of eligible components, subject to a maximum limit of \u20b9 10,00,000/-",
+            "50% of the cost of eligible components, subject to a maximum limit of ₹ 10,00,000/-",
             "Investments made after the energy audit alone will be eligible for the subsidy"
         ],
         "eligibility": [
@@ -86,5 +86,6 @@
             "Enterprise",
             "MSME"
         ]
-    }
+    },
+    "id": "001537"
 }

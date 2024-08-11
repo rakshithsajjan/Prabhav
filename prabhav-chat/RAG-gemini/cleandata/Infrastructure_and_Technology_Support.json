@@ -7,7 +7,7 @@
         "beneficiary": "Handicraft artisans",
         "details": "The sub-scheme 'Infrastructure and Technology Support' aims to develop world-class infrastructure in the country to support handicraft production, enhance product quality, and reduce costs to enable it to compete in the global market. For the development of the handicrafts sector and benefit of handicrafts artisans, various components like Urban Haat, Emporia, Marketing and Sourcing Hub, Handicraft Museum, Craft-Based Resource Centre, Common Facility Centre, Raw Material Depot, Crafts Village etc.",
         "benefits": [
-            "Under Infrastructure and Technology Support \u2013 National Handicraft Development Programme are being implemented on a need basis on receipt of feasible and viable proposals from the eligible agencies as per the scheme guidelines throughout the country.",
+            "Under Infrastructure and Technology Support – National Handicraft Development Programme are being implemented on a need basis on receipt of feasible and viable proposals from the eligible agencies as per the scheme guidelines throughout the country.",
             "Concerted efforts are being made to enhance production, productivity, and efficiency and to increase the income and socio-economic status of artisans.",
             "Financial assistance for urban haat is maximum INR 800 lakh for each unit for 80 stalls.",
             "Assistance for strengthening/renovation of existing Urban Haats subject to a maximum financial limit of INR 250 lakhs."
@@ -47,5 +47,6 @@
             "Marketing And Sourcing Hub",
             "Technology Support"
         ]
-    }
+    },
+    "id": "000855"
 }

@@ -5,15 +5,15 @@
         "department": "Director, Scheduled Caste Welfare",
         "type": "Scholarship",
         "beneficiary": "Scheduled Caste students",
-        "details": "The \u201cSpecial Scholarship to SC Students in Selected Schools\u201d scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under this scheme, financial assistance is provided to Scheduled Caste (SC) students studying in famous private selected schools like Doon School, Dehradun; Sofiya School, Abu; Mayo School, Ajmer; Sainik School, Balachadi; Mahila Sainik School, Kherva; Dist. Mehsana, etc. will be paid actual fees upto limit of \u20b950,000/- per annum. One-time financial assistance will be provided to 10 students admitted to Standard VIII and 10 students admitted to Standard XI in any of the above-mentioned schools.",
+        "details": "The “Special Scholarship to SC Students in Selected Schools” scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under this scheme, financial assistance is provided to Scheduled Caste (SC) students studying in famous private selected schools like Doon School, Dehradun; Sofiya School, Abu; Mayo School, Ajmer; Sainik School, Balachadi; Mahila Sainik School, Kherva; Dist. Mehsana, etc. will be paid actual fees upto limit of ₹50,000/- per annum. One-time financial assistance will be provided to 10 students admitted to Standard VIII and 10 students admitted to Standard XI in any of the above-mentioned schools.",
         "benefits": [
-            "Eligible students will receive financial assistance of up to \u20b950,000 per year or the actual amount of their annual fees, whichever is lower.",
+            "Eligible students will receive financial assistance of up to ₹50,000 per year or the actual amount of their annual fees, whichever is lower.",
             "This assistance will cover admission fees, tuition fees, hostel fees, food bills, books, uniforms, and other related expenses."
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste Category of Gujarat.",
             "The student should be studying in the selected/designated school.",
-            "The family income of the student should not be more than 10 times of the income determined for the poverty line. (For Rural Area: \u20b96,00,000/- & for Urban Area: \u20b96,00,000/).",
+            "The family income of the student should not be more than 10 times of the income determined for the poverty line. (For Rural Area: ₹6,00,000/- & for Urban Area: ₹6,00,000/).",
             "Students entering Class 8th or 11th will be eligible for assistance only once every year.",
             "Assistance is also available for Class 6 at Balachadi School, Jamnagar, and Sainik School, Kherwa."
         ],
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What is the maximum financial assistance provided annually?",
-                "answer": "Eligible students can receive financial assistance of up to \u20b950,000/- per year or the actual amount of their annual fees, whichever is lower."
+                "answer": "Eligible students can receive financial assistance of up to ₹50,000/- per year or the actual amount of their annual fees, whichever is lower."
             },
             {
                 "question": "What expenses does the financial assistance cover?",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "Is there an income limit for eligibility?",
-                "answer": "The family income of the student should not exceed 10 times the income determined for the poverty line, which is \u20b96,00,000 for both rural and urban areas."
+                "answer": "The family income of the student should not exceed 10 times the income determined for the poverty line, which is ₹6,00,000 for both rural and urban areas."
             },
             {
                 "question": "How often can students entering Class 8th or 11th receive assistance?",
@@ -83,5 +83,6 @@
             "Scholarship",
             "Selected Schools"
         ]
-    }
+    },
+    "id": "001830"
 }

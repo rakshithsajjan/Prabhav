@@ -17,7 +17,7 @@
             "The institute must have PG Course in Mechanical Engineering, Civil Engineering, Pharmacy, or any discipline depending on the e-Resource applied for."
         ],
         "exclusions": [],
-        "application_process": "Download the Application form for E-Shodh Sindhu Scheme, fill in the required information, verify that every page of the application form has signature and stamp of the Institute\u2019s Head, attach all essential documents, and send the Application form along with all the essential documents through registered post/speed post.",
+        "application_process": "Download the Application form for E-Shodh Sindhu Scheme, fill in the required information, verify that every page of the application form has signature and stamp of the Institute’s Head, attach all essential documents, and send the Application form along with all the essential documents through registered post/speed post.",
         "documents_required": [
             "AICTE's Approval Letter for current year.",
             "National Basketball Association (NBA) Accredited Approval Letter.",
@@ -90,5 +90,6 @@
             "Technical Education",
             "Research"
         ]
-    }
+    },
+    "id": "000030"
 }

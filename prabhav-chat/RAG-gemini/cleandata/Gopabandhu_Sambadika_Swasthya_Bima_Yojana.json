@@ -8,7 +8,7 @@
         "details": "The scheme 'Gopabandhu Sambadika Swasthya Bima Yojana' was launched by the Information & Public Relations Department, Government of Odisha. It is a health insurance scheme that covers the medical expenses of the journalists and their eligible family members comprising of spouse and 3 wholly dependent children up to the age of 25 years. The Scheme provides insurance to Working Journalists of Odisha and their family for indoor and outdoor treatments.",
         "benefits": [
             "The scheme provides health insurance coverage to all the working Journalists of the state and their families comprising of spouse & 3 children age up to 25 years.",
-            "Insurance coverage of \u20b95,00,000/- only shall be provided to the family unit as defined above."
+            "Insurance coverage of ₹5,00,000/- only shall be provided to the family unit as defined above."
         ],
         "eligibility": [
             "The applicant should be a Journalist.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the extent of insurance coverage provided by the scheme?",
-                "answer": "The health insurance scheme provides coverage of \u20b95,00,000/- (five lakhs only) exclusively to the defined family unit, which includes the working Journalist, their spouse, and up to three dependent children under the age of 25 years."
+                "answer": "The health insurance scheme provides coverage of ₹5,00,000/- (five lakhs only) exclusively to the defined family unit, which includes the working Journalist, their spouse, and up to three dependent children under the age of 25 years."
             },
             {
                 "question": "Who is eligible to apply for the scheme?",
@@ -73,5 +73,6 @@
             "Swasthya Bima",
             "Treatment"
         ]
-    }
+    },
+    "id": "000695"
 }

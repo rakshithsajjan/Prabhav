@@ -7,8 +7,8 @@
         "beneficiary": "Building Worker, Construction Worker",
         "details": "The scheme 'Marriage Benefit' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to registered construction workers for their own marriage. This assistance shall also be sanctioned for the marriage of all adult children of a worker subject to the production of proper documentation such as Marriage Certificates etc.",
         "benefits": [
-            "The financial assistance of \u20b95,000/- shall be given to the registered workers for their own marriage.",
-            "The financial assistance of \u20b95,000/- shall be provided to registered workers for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc."
+            "The financial assistance of ₹5,000/- shall be given to the registered workers for their own marriage.",
+            "The financial assistance of ₹5,000/- shall be provided to registered workers for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc."
         ],
         "eligibility": [
             "The beneficiary should be a resident of Meghalaya.",
@@ -41,7 +41,7 @@
         "faqs": [
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Registered workers are eligible for a financial assistance of \u20b95,000/- for their own marriage, and the same amount for the marriage of each of their adult children, subject to proper documentation."
+                "answer": "Registered workers are eligible for a financial assistance of ₹5,000/- for their own marriage, and the same amount for the marriage of each of their adult children, subject to proper documentation."
             },
             {
                 "question": "Who is eligible to avail of the benefits?",
@@ -110,5 +110,6 @@
                 "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
             }
         ]
-    }
+    },
+    "id": "001094"
 }

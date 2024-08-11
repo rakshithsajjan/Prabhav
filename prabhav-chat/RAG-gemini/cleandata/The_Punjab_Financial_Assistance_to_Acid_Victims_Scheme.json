@@ -7,7 +7,7 @@
         "beneficiary": "Acid Victim",
         "details": "The scheme 'The Punjab Financial Assistance to Acid Victims Scheme' was launched by the Department of Social Security And Women & Child Development, Government of Punjab in the year 2017. The objective of the Scheme is to provide monthly Financial Assistance to females who have been rendered 40% disabled due to acid attack. This scheme is fully state-sponsored.",
         "benefits": [
-            "The Financial Assistance of \u20b98,000/- per month is given to rehabilitate the victims of acid attack and make them self-reliant."
+            "The Financial Assistance of ₹8,000/- per month is given to rehabilitate the victims of acid attack and make them self-reliant."
         ],
         "eligibility": [
             "The acid attack victim should be a resident of Punjab State.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "The scheme offers a monthly financial assistance of \u20b98,000 to acid attack victims."
+                "answer": "The scheme offers a monthly financial assistance of ₹8,000 to acid attack victims."
             },
             {
                 "question": "How is the financial assistance disbursed?",
@@ -80,5 +80,6 @@
             "Punjab",
             "Women Empowerment"
         ]
-    }
+    },
+    "id": "001954"
 }

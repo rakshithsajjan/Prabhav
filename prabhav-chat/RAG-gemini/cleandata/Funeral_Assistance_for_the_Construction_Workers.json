@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The 'Funeral Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, funeral assistance of \u20b910,000/- is provided to the nominees/dependents of the member in case of his/her death from the date of joining membership of the fund.",
+        "details": "The 'Funeral Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, funeral assistance of ₹10,000/- is provided to the nominees/dependents of the member in case of his/her death from the date of joining membership of the fund.",
         "benefits": [
-            "Assistance of \u20b910,000/- is provided to the nominees/dependents of the member in case of his/her death from the date of joining membership of the fund."
+            "Assistance of ₹10,000/- is provided to the nominees/dependents of the member in case of his/her death from the date of joining membership of the fund."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What is the URL for the registration of this scheme?",
-                "answer": "The applicants needs to register through clicking on the \u201cRegister\u201d button on DBoCWWB website: https://dbocwwb.delhi.gov.in/cwapp/MyLoginPage?ReturnUrl=%2Fcwapp%2F."
+                "answer": "The applicants needs to register through clicking on the “Register” button on DBoCWWB website: https://dbocwwb.delhi.gov.in/cwapp/MyLoginPage?ReturnUrl=%2Fcwapp%2F."
             },
             {
                 "question": "Can members in my family also register if they are all registered construction workers?",
@@ -70,5 +70,6 @@
             "Financial Assistance",
             "Labour"
         ]
-    }
+    },
+    "id": "000657"
 }

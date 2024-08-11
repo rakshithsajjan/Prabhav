@@ -5,7 +5,7 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Senior Citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best State in Implementing the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, and Providing Services and Facilities to Senior Citizens' award shall be given to the State or Union Territory which has taken the lead in implementing various provisions of the Act and has the highest percentage of settlement of claims of maintenance or best security programme for the elderly. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The total number of Awardees is 15 (Fifteen). The Awards are given across 13 categories.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best State in Implementing the Maintenance and Welfare of Parents and Senior Citizens Act, 2007, and Providing Services and Facilities to Senior Citizens' award shall be given to the State or Union Territory which has taken the lead in implementing various provisions of the Act and has the highest percentage of settlement of claims of maintenance or best security programme for the elderly. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The total number of Awardees is 15 (Fifteen). The Awards are given across 13 categories.",
         "benefits": [
             "Citation and Memento",
             "Presentation of Award in New Delhi",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "Who Confers These Awards?",
-                "answer": "The awards are conferred by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi."
+                "answer": "The awards are conferred by the Hon’ble President of India at Vigyan Bhawan, New Delhi."
             },
             {
                 "question": "How Many Categories Are There In This Award?",
@@ -63,7 +63,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of The Cash Award In The Institutional Category?",
-                "answer": "The maximum amount of the cash award in the Institutional Category is \u20b9 10,00,000."
+                "answer": "The maximum amount of the cash award in the Institutional Category is ₹ 10,00,000."
             },
             {
                 "question": "Can I Nominate Myself For This Award?",
@@ -84,5 +84,6 @@
                 "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Englishfull169.pdf"
             }
         ]
-    }
+    },
+    "id": "001275"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Information Technology Units",
         "details": "Launched in 2018, the 'Solar Power Subsidy Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Solar Power Subsidy to the eligible Information Technology Units in the State of Goa. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
         "benefits": [
-            "Reimbursement of 10% of capital cost of installation of Solar Power Generation Unit, subject to a maximum subsidy of \u20b950,00,000."
+            "Reimbursement of 10% of capital cost of installation of Solar Power Generation Unit, subject to a maximum subsidy of ₹50,00,000."
         ],
         "eligibility": [
             "All the new and existing units must have their operations in Goa.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What policy does the Solar Power Subsidy Scheme align with?",
-                "answer": "The scheme aligns with the Goa Information Technology Policy and Roadmap \u2013 2018."
+                "answer": "The scheme aligns with the Goa Information Technology Policy and Roadmap – 2018."
             },
             {
                 "question": "What does the policy envisage for Goa in terms of IT units?",
@@ -63,7 +63,7 @@
             },
             {
                 "question": "What percentage of capital cost is eligible for reimbursement for units running on 100% solar energy?",
-                "answer": "10% of the capital cost, subject to a maximum subsidy of \u20b950,00,000."
+                "answer": "10% of the capital cost, subject to a maximum subsidy of ₹50,00,000."
             },
             {
                 "question": "Are the benefits guaranteed throughout the policy period?",
@@ -110,5 +110,6 @@
             "Subsidy",
             "Information Technology"
         ]
-    }
+    },
+    "id": "001825"
 }

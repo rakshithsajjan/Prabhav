@@ -7,15 +7,15 @@
         "beneficiary": "Artist",
         "details": "The scheme 'Chief Ministergi Artistesinggi Tengbang (CMAT) - Scheme for Award to Distinguished Artistes' is a scheme by the Dept. of Art & Culture, Govt. of Manipur, to encourage and felicitate the artistes (in the field of culture) belonging to different fields for their achievements such as winning National Awards namely Padma Awards, Sangeet Natak Akademi, Sahitya Akademi, Lalit Kala Akademi Awards including Young Awardees, National Film Award winners and on winning any national level competitions, and International Awards in the field of Art & Culture.",
         "benefits": [
-            "Individual (Young Awardees / Competition Winner) \u2013 15 numbers @ \u20b9 50,000/- each (once a year)",
-            "Individual (Senior Awardees) \u2013 15 numbers @ \u20b9 1,00,000/- each (once in a year)",
-            "Group (Competition Winner \u2013 Young) \u2013 5 numbers @ \u20b9 1,00,000/- each (once a year)",
-            "Group (Competition Winner \u2013 Senior) \u2013 5 numbers @ \u20b9 1,50,000/- each (once a year)",
+            "Individual (Young Awardees / Competition Winner) – 15 numbers @ ₹ 50,000/- each (once a year)",
+            "Individual (Senior Awardees) – 15 numbers @ ₹ 1,00,000/- each (once in a year)",
+            "Group (Competition Winner – Young) – 5 numbers @ ₹ 1,00,000/- each (once a year)",
+            "Group (Competition Winner – Senior) – 5 numbers @ ₹ 1,50,000/- each (once a year)",
             "The award money will be released to the personal account of the beneficiary/group through Direct Benefit Transfer (DBT)"
         ],
         "eligibility": [
             "The applicant should be a domicile of the state of Manipur.",
-            "The applicant should be National Award winners viz Padma Awardee, Sangeet Natak Akademi Awardee, Sahitya Akademi Awardee, Lalit Kala Akademi Awardee, and Zonal Cultural Centre\u2019s Award including Young Awardees, National Level Competition, and National Film Awards for individuals and groups.",
+            "The applicant should be National Award winners viz Padma Awardee, Sangeet Natak Akademi Awardee, Sahitya Akademi Awardee, Lalit Kala Akademi Awardee, and Zonal Cultural Centre’s Award including Young Awardees, National Level Competition, and National Film Awards for individuals and groups.",
             "The award winners whose age is below 40 will come under the Young / Junior category and those above 40 will come under Senior Category."
         ],
         "exclusions": [],
@@ -27,7 +27,7 @@
             "Details of the Bank Account",
             "Bio Data with Relevant Supporting Documents/Certificate",
             "Proof of Age / Date of Birth",
-            "Proof of Winning a National Award viz Padma Awardee, Sangeet Natak Akademi Awardee, Sahitya Akademi Awardee, Lalit Kala Akademi Awardee, and Zonal Cultural Centre\u2019s Award including Young Awardees, National Level Competition, and National Film Awards."
+            "Proof of Winning a National Award viz Padma Awardee, Sangeet Natak Akademi Awardee, Sahitya Akademi Awardee, Lalit Kala Akademi Awardee, and Zonal Cultural Centre’s Award including Young Awardees, National Level Competition, and National Film Awards."
         ],
         "faqs": [
             {
@@ -36,7 +36,7 @@
             },
             {
                 "question": "How Many Beneficiaries Are Expected To Be Supported Through This Scheme?",
-                "answer": "40 beneficiaries are expected to be supported through this scheme - Individual (Young Awardees / Competition Winner) \u2013 15 numbers Individual (Senior Awardees) \u2013 15 numbers Group (Competition Winner \u2013 Young) \u2013 5 numbers Group (Competition Winner \u2013 Senior) \u2013 5 numbers."
+                "answer": "40 beneficiaries are expected to be supported through this scheme - Individual (Young Awardees / Competition Winner) – 15 numbers Individual (Senior Awardees) – 15 numbers Group (Competition Winner – Young) – 5 numbers Group (Competition Winner – Senior) – 5 numbers."
             },
             {
                 "question": "Which Department Manages This Scheme?",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That An Individual Beneficiary Can Get Through This Scheme?",
-                "answer": "The maximum amount of financial assistance that an individual beneficiary can get through this scheme is \u20b9 1,00,000/- once a year."
+                "answer": "The maximum amount of financial assistance that an individual beneficiary can get through this scheme is ₹ 1,00,000/- once a year."
             },
             {
                 "question": "Can The Sahitya Akademi Awardees Also Apply To This Scheme?",
@@ -87,7 +87,7 @@
                 "answer": "There are no age-related criteria for this scheme. You can apply to this scheme irrespective of your age, provided that you meet the eligibility criteria for this scheme."
             },
             {
-                "question": "Is This Scheme A \u201cOne Family, One Benefit\u201d Scheme?",
+                "question": "Is This Scheme A “One Family, One Benefit” Scheme?",
                 "answer": "No, there is no such mention in the scheme guidelines."
             },
             {
@@ -123,5 +123,6 @@
             "Awards",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000289"
 }

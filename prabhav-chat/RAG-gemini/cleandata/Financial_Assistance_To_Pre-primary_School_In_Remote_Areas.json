@@ -7,11 +7,11 @@
         "beneficiary": "Pre-primary schools in remote tribal areas",
         "details": "The scheme 'Financial Assistance to Pre-Primary School in Remote Areas' by the Department of Tribal Welfare, Government of Goa provides financial assistance to set up pre-primary schools in the remote tribal areas which lack the facility of pre-primary education for the tribal population. Financial assistance in the form of rent amount payable for the premises, fixed remuneration to one Teacher, one helper, teaching aid/equipment, toys, and mid-meal will be provided under this scheme.",
         "benefits": [
-            "Up to \u20b9 2,000/- per month recurring expenditure for rent depending upon the quality of the facility.",
-            "\u20b9 300/- per month per student as refreshment expenses.",
-            "Fixed Amount of \u20b9 25,000/- for teaching aids/toys and other teaching materials for the first year.",
-            "\u20b9 15,000/- per annum for toys and other teaching materials for the next four years.",
-            "Fixed Remuneration of \u20b9 10,000/- per month for Trained Teacher (\u20b9 8,000/- per month if untrained) with a 10% annual increment.",
+            "Up to ₹ 2,000/- per month recurring expenditure for rent depending upon the quality of the facility.",
+            "₹ 300/- per month per student as refreshment expenses.",
+            "Fixed Amount of ₹ 25,000/- for teaching aids/toys and other teaching materials for the first year.",
+            "₹ 15,000/- per annum for toys and other teaching materials for the next four years.",
+            "Fixed Remuneration of ₹ 10,000/- per month for Trained Teacher (₹ 8,000/- per month if untrained) with a 10% annual increment.",
             "Remuneration of the Helper as per the Minimum Wages Act."
         ],
         "eligibility": [
@@ -41,19 +41,19 @@
             },
             {
                 "question": "Could you explain the remuneration structure for trained teachers and helpers?",
-                "answer": "Trained teachers are provided with a fixed remuneration of \u20b9 10,000 per month. Helpers' remuneration aligns with rates set under the Minimum Wages Act."
+                "answer": "Trained teachers are provided with a fixed remuneration of ₹ 10,000 per month. Helpers' remuneration aligns with rates set under the Minimum Wages Act."
             },
             {
                 "question": "How are teaching aids, toys, and other teaching materials supported under the scheme?",
-                "answer": "The scheme allocates a fixed amount of \u20b9 25,000 for the first year for teaching aids, toys, and other materials, and \u20b9 15,000 per annum for the next four years."
+                "answer": "The scheme allocates a fixed amount of ₹ 25,000 for the first year for teaching aids, toys, and other materials, and ₹ 15,000 per annum for the next four years."
             },
             {
                 "question": "What provisions are made for refreshments for students in pre-primary schools under this scheme?",
-                "answer": "The scheme allocates \u20b9 300 per month per student for refreshment expenses."
+                "answer": "The scheme allocates ₹ 300 per month per student for refreshment expenses."
             },
             {
                 "question": "Could you detail the rent assistance provided to schools under this scheme?",
-                "answer": "The scheme provides recurring rent assistance of up to \u20b9 2,000 per month, depending on the quality of the facility."
+                "answer": "The scheme provides recurring rent assistance of up to ₹ 2,000 per month, depending on the quality of the facility."
             },
             {
                 "question": "Which department manages this scheme?",
@@ -84,5 +84,6 @@
             "Tribal Welfare",
             "Goa"
         ]
-    }
+    },
+    "id": "000548"
 }

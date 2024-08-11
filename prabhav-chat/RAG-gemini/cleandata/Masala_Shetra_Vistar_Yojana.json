@@ -7,8 +7,8 @@
         "beneficiary": "Farmers",
         "details": "Masala Shetra Vistar Yojana was launched by the Government of Madhya Pradesh under the Horticulture and Food Processing Department. Scheme objective is to expand the area and increase the production of selected spice crops through quality high-yielding varieties.",
         "benefits": [
-            "In seed spice crops, 50% of the cost of seed, a maximum \u20b910,000/- per hectare, whichever is less, will be given as a subsidy.",
-            "For the production of root and center/rhizome commercial crops garlic, turmeric, and ginger, a grant of 50% of the cost of planting material to a maximum of \u20b9 50,000/- per hectare, whichever is less, will be given."
+            "In seed spice crops, 50% of the cost of seed, a maximum ₹10,000/- per hectare, whichever is less, will be given as a subsidy.",
+            "For the production of root and center/rhizome commercial crops garlic, turmeric, and ginger, a grant of 50% of the cost of planting material to a maximum of ₹ 50,000/- per hectare, whichever is less, will be given."
         ],
         "eligibility": [
             "Those farmers are not currently cultivating spices.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What benefits are provided under the scheme?",
-                "answer": "In seed spice crops, 50% of the cost of seed, a maximum \u20b910,000/- per hectare, whichever is less, will be given as a subsidy. For the production of root and center/rhizome commercial crops garlic, turmeric, and ginger, a grant of 50% of the cost of planting material to a maximum of \u20b9 50,000/- per hectare, whichever is less, will be given."
+                "answer": "In seed spice crops, 50% of the cost of seed, a maximum ₹10,000/- per hectare, whichever is less, will be given as a subsidy. For the production of root and center/rhizome commercial crops garlic, turmeric, and ginger, a grant of 50% of the cost of planting material to a maximum of ₹ 50,000/- per hectare, whichever is less, will be given."
             },
             {
                 "question": "Is there any selected crops under the scheme?",
@@ -85,5 +85,6 @@
             "Financial Benefits",
             "Spice"
         ]
-    }
+    },
+    "id": "001097"
 }

@@ -11,8 +11,8 @@
             "Free Supply of 4 Sets of Dresses and Other Daily Living Needs.",
             "Free Medical Treatment (Referred to Nearby PHC).",
             "Training in Korai & Coir Mat Weaving.",
-            "Labour Charges of \u20b9 20/- Per Mat for the Work of Mat Weaving as and When Carried Out.",
-            "\u20b9 5/- Per Day as Daily Pocket Money.",
+            "Labour Charges of ₹ 20/- Per Mat for the Work of Mat Weaving as and When Carried Out.",
+            "₹ 5/- Per Day as Daily Pocket Money.",
             "Recreation Like Radio, TV, Library, Besides Local Trips to Places of Interest and Temples.",
             "Annual Tour to Places of Interest.",
             "Annual Day, Conducted Every Year in Order to Exhibit Their Talents and for Prize Distribution."
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the labor charge for mat weaving under the scheme?",
-                "answer": "Labour charges for mat weaving amount to \u20b920/- per mat, providing beneficiaries with an opportunity for skill-based income."
+                "answer": "Labour charges for mat weaving amount to ₹20/- per mat, providing beneficiaries with an opportunity for skill-based income."
             },
             {
                 "question": "What recreational activities are provided to the beneficiaries?",
@@ -122,5 +122,6 @@
             "Medical",
             "Shelter"
         ]
-    }
+    },
+    "id": "000094"
 }

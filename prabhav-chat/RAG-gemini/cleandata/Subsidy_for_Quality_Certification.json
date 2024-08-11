@@ -5,9 +5,9 @@
         "department": "Industries and Commerce Department",
         "type": "Subsidy",
         "beneficiary": "Micro, Small, Medium and Large Industries",
-        "details": "'Subsidy for Quality Certification' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017, and is in operation in the whole of the UT of Puducherry. Through this scheme, assistance is granted for a maximum of 3 quality certifications @ 50% of the cost of quality certification with a ceiling of \u20b92,00,000/- per unit.",
+        "details": "'Subsidy for Quality Certification' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017, and is in operation in the whole of the UT of Puducherry. Through this scheme, assistance is granted for a maximum of 3 quality certifications @ 50% of the cost of quality certification with a ceiling of ₹2,00,000/- per unit.",
         "benefits": [
-            "Assistance is granted for a maximum of 3 quality certifications @ 50% of the cost of quality certification with a ceiling of \u20b92,00,000/- per unit.",
+            "Assistance is granted for a maximum of 3 quality certifications @ 50% of the cost of quality certification with a ceiling of ₹2,00,000/- per unit.",
             "The subsidy amount shall be disbursed through financial institutions/banks if the unit is financed by them.",
             "In case of self-financed units, the subsidy shall be disbursed directly to the entrepreneur/unit."
         ],
@@ -75,5 +75,6 @@
             "MSME",
             "Quality"
         ]
-    }
+    },
+    "id": "001877"
 }

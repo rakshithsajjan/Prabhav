@@ -5,7 +5,7 @@
         "department": "Ministry of Electronics and Information Technology",
         "type": "Internship",
         "beneficiary": "Students",
-        "details": "The Internship Scheme by the Unique Identification Authority of India (UIDAI) enables the students to gain adequate exposure to various Technology tracks and other units within UIDAI Headquarters, Technology Centre and Regional offices. It would be expected to work in the field of application development, legal domains (like cyber laws/IT act) & general management. For the \u201cInterns\u201d the exposure to the functioning of the UIDAI & the technologies applied shall be an add-on furthering their future career prospects in niche technology, legal domains, management and many other areas as the case may be.",
+        "details": "The Internship Scheme by the Unique Identification Authority of India (UIDAI) enables the students to gain adequate exposure to various Technology tracks and other units within UIDAI Headquarters, Technology Centre and Regional offices. It would be expected to work in the field of application development, legal domains (like cyber laws/IT act) & general management. For the “Interns” the exposure to the functioning of the UIDAI & the technologies applied shall be an add-on furthering their future career prospects in niche technology, legal domains, management and many other areas as the case may be.",
         "benefits": [
             "Stipend for various fields of study",
             "Logistic support for lodging",
@@ -54,5 +54,6 @@
             "Management",
             "Student"
         ]
-    }
+    },
+    "id": "000898"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "MSMEs and individuals with innovative ideas",
         "details": "Launched by the Ministry of Micro, Small & Medium Enterprises, Incubation Scheme Under MSME Innovative Scheme aims to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level. The scheme also supports engagement with enablers who will advise such MSMEs in expanding the business by supporting them in design, strategy and execution.",
         "benefits": [
-            "Up to maximum of \u20b9 15,000,00 /- per idea shall be provided to HI for developing and nurturing the ideas.",
-            "Up to \u20b9 1,00,000,00 /- (max) shall be provided to HI for procurement and installation of relevant plant and machines including hardware and software etc. in BI for R&D activities and common facilities for incubatees of BI."
+            "Up to maximum of ₹ 15,000,00 /- per idea shall be provided to HI for developing and nurturing the ideas.",
+            "Up to ₹ 1,00,000,00 /- (max) shall be provided to HI for procurement and installation of relevant plant and machines including hardware and software etc. in BI for R&D activities and common facilities for incubatees of BI."
         ],
         "eligibility": [
             "Institutions such as Technical Colleges, Universities, other Professional Colleges/Institutes, R&D Institutes, NGOs involved in incubation activities, MSME-DIs/ Technology Centres or any Institute/Organization of Central/State Government."
@@ -19,7 +19,7 @@
             "University Affiliation",
             "All India Council for Technical Education (AICTE) Approval",
             "National Accreditation Board for Testing and Calibration Laboratories (NABL) or Other Accreditation",
-            "Last two years audited annual accounts with auditor\u2019s report",
+            "Last two years audited annual accounts with auditor’s report",
             "Any other documents as required."
         ],
         "faqs": [
@@ -61,7 +61,7 @@
             },
             {
                 "question": "Can funds be given to Incubatee directly?",
-                "answer": "Financial support for all activities will be given to HI only and no funds can be transferred to incubatee\u2019s account."
+                "answer": "Financial support for all activities will be given to HI only and no funds can be transferred to incubatee’s account."
             },
             {
                 "question": "Which type of assistance /support incubate can get from BI?",
@@ -96,5 +96,6 @@
             "Financial Support",
             "MSME"
         ]
-    }
+    },
+    "id": "000827"
 }

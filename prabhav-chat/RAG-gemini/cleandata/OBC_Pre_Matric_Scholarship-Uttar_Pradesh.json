@@ -7,14 +7,14 @@
         "beneficiary": "Other Backward Class (OBC) students",
         "details": "The Uttar Pradesh Social Welfare Department offers a Pre Matric Scholarship specifically designed to support Other Backward Class (OBC) students who are financially disadvantaged and pursuing secondary education in Class 9 or 10. This scholarship program recognizes the importance of education in empowering students from marginalized communities and aims to bridge the financial gap that might otherwise hinder their academic progress. By providing financial assistance, the scholarship helps alleviate the financial burden on SC families and encourages students to complete their matriculation, opening doors to further educational opportunities and brighter futures.",
         "benefits": [
-            "\u20b9150/- per month (for max 10 months)",
-            "\u20b9750/- per annum (residential students)"
+            "₹150/- per month (for max 10 months)",
+            "₹750/- per annum (residential students)"
         ],
         "eligibility": [
             "Beneficiary must be a resident of Uttar Pradesh",
             "Beneficiary must belong to the Other Backward Class (OBC) caste category",
             "Beneficiaries who are dependents of people in occupations traditionally considered untouchable",
-            "Beneficiaries' parents' annual income should not be more than \u20b92,00,000/-",
+            "Beneficiaries' parents' annual income should not be more than ₹2,00,000/-",
             "All the children of the applicant's parents will be eligible",
             "Students cannot receive other scholarships alongside this one (with some exceptions)",
             "Beneficiary's age limit is 12 to 20 years old (as of July 1st)"
@@ -46,7 +46,7 @@
             },
             {
                 "question": "How much financial benefits are provided?",
-                "answer": "\u20b9150/- per month (for max 10 months). \u20b9750/- per annum (residential students)."
+                "answer": "₹150/- per month (for max 10 months). ₹750/- per annum (residential students)."
             },
             {
                 "question": "Who can get the scheme benefits?",
@@ -62,7 +62,7 @@
             },
             {
                 "question": "What is financial eligibility criteria?",
-                "answer": "Applicant family's annual income must not exceed \u20b92,00,000/-."
+                "answer": "Applicant family's annual income must not exceed ₹2,00,000/-."
             },
             {
                 "question": "What is the procedure to get the scheme benefits?",
@@ -91,5 +91,6 @@
                 "url": "https://scholarship.up.gov.in/RegistrationNew.aspx"
             }
         ]
-    }
+    },
+    "id": "001367"
 }

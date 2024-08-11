@@ -7,12 +7,12 @@
         "beneficiary": "Scheduled Tribe families",
         "details": "The main objective of the 'Antya Sanskar Sahay Yojana' is to provide financial support to Scheduled Tribe families in covering the expenses associated with the funeral and religious ceremonies of deceased family members.",
         "benefits": [
-            "Financial assistance of up to \u20b9 20,000 or the actual cost, whichever is less, for funeral and religious ceremonies."
+            "Financial assistance of up to ₹ 20,000 or the actual cost, whichever is less, for funeral and religious ceremonies."
         ],
         "eligibility": [
             "The applicant must belong to a Scheduled Tribe family.",
             "The deceased individual must belong to a Scheduled Tribe family.",
-            "The family's annual income should not exceed \u20b9 3,00,000."
+            "The family's annual income should not exceed ₹ 3,00,000."
         ],
         "exclusions": [
             "Applicants not from a Scheduled Tribe family must establish a direct relationship with the deceased."
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the maximum financial assistance offered under this scheme?",
-                "answer": "The scheme provides financial assistance of up to \u20b9 20,000 or the actual cost, whichever is less, to cover the expenses associated with the funeral and religious ceremonies of Scheduled Tribe families."
+                "answer": "The scheme provides financial assistance of up to ₹ 20,000 or the actual cost, whichever is less, to cover the expenses associated with the funeral and religious ceremonies of Scheduled Tribe families."
             },
             {
                 "question": "Could you provide insights into the special case scenario mentioned in the scheme?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "How does the scheme determine the actual cost of funeral and religious ceremonies?",
-                "answer": "The scheme allows financial assistance of up to \u20b9 20,000 or the actual cost, whichever is less, based on 'Vouchers Receipts' that record expenses incurred during the ceremonies."
+                "answer": "The scheme allows financial assistance of up to ₹ 20,000 or the actual cost, whichever is less, based on 'Vouchers Receipts' that record expenses incurred during the ceremonies."
             },
             {
                 "question": "Can you provide insights into the 'Sanctioning Authority' and the decision-making process within the scheme?",
@@ -73,5 +73,6 @@
             "Funeral Support",
             "Goa"
         ]
-    }
+    },
+    "id": "000093"
 }

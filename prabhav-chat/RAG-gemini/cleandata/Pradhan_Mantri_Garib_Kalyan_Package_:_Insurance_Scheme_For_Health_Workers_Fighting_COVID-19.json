@@ -34,7 +34,7 @@
                 "answer": "Volunteers are those who are drafted by the Government Official authorized by Central/State/UT Government for care and may have come in direct contact of the COVID-19 patient."
             },
             {
-                "question": "Who Are \u2018Private Persons\u2019 Under This Scheme?",
+                "question": "Who Are ‘Private Persons’ Under This Scheme?",
                 "answer": "Private persons are those who are engaged by both public & private health care institutions/organization through an agency and were deployed/drafted for care and may have come in direct contact of the COVID-19 patient (with the proof that the service of the agencies were engaged by the institution/organization)."
             },
             {
@@ -77,5 +77,6 @@
             "Health Workers",
             "Life Insurance"
         ]
-    }
+    },
+    "id": "001486"
 }

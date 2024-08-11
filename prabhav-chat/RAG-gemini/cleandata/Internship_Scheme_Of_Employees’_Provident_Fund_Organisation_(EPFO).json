@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "Internship Scheme Of Employees\u2019 Provident Fund Organisation (EPFO)",
+        "title": "Internship Scheme Of Employees’ Provident Fund Organisation (EPFO)",
         "state": "India",
         "department": "Ministry Of Labour and Employment",
         "type": "Internship",
         "beneficiary": "Students pursuing law or related fields",
-        "details": "The Internship Scheme of Employees\u2019 Provident Fund Organization invites applications for Internships from students for engagement as 'Interns' with EPFO. The 'Interns' shall have an opportunity to know about the EPFO\u2019s functioning and Departmental Policy issues in EPFO and Government of India and contribute to the Policy/Legislation formulation by generating policy inputs such as empirical analysis, briefing reports, policy papers, etc. However, the internship is neither a job nor an assurance for a job in EPFO.",
+        "details": "The Internship Scheme of Employees’ Provident Fund Organization invites applications for Internships from students for engagement as 'Interns' with EPFO. The 'Interns' shall have an opportunity to know about the EPFO’s functioning and Departmental Policy issues in EPFO and Government of India and contribute to the Policy/Legislation formulation by generating policy inputs such as empirical analysis, briefing reports, policy papers, etc. However, the internship is neither a job nor an assurance for a job in EPFO.",
         "benefits": [
-            "Stipend of \u20b9 8,000/- per month",
+            "Stipend of ₹ 8,000/- per month",
             "Logistic support including working space and computer with internet facility",
             "Certificate of Internship upon satisfactory completion"
         ],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "Will Interns Receive A Stipend?",
-                "answer": "Yes, selected interns will be paid a stipend of \u20b98,000 per month for the duration of the internship."
+                "answer": "Yes, selected interns will be paid a stipend of ₹8,000 per month for the duration of the internship."
             },
             {
                 "question": "How Can Applicants Apply For The EPFO Internship Scheme?",
@@ -61,5 +61,6 @@
             "Remuneration",
             "Student"
         ]
-    }
+    },
+    "id": "000901"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Poor Scheduled Caste Pregnant & Lactating Women",
         "details": "The scheme 'Grant of Financial Assistance to Poor Scheduled Caste Pregnant & Lactating Women' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide assistance for the well-being of Pregnant and Lactating mothers and their children.",
         "benefits": [
-            "Financial Assistance of \u20b912,000/- as follows:",
-            "The pre-natal assistance shall be \u20b9 2,000 in cash per month for three months prior to the month of delivery.",
-            "The post-natal assistance shall be \u20b9 2,000 in cash per month for three months following delivery.",
+            "Financial Assistance of ₹12,000/- as follows:",
+            "The pre-natal assistance shall be ₹ 2,000 in cash per month for three months prior to the month of delivery.",
+            "The post-natal assistance shall be ₹ 2,000 in cash per month for three months following delivery.",
             "The grant of financial assistance is made available only for 2 deliveries."
         ],
         "eligibility": [
@@ -19,7 +19,7 @@
             "The applicant should be a woman.",
             "The applicant should be pregnant.",
             "The applicant should apply from 6 months of pregnancy and within 3 months from the date of delivery.",
-            "The annual income of the applicant and spouse should not exceed \u20b9 2,00,000/-.",
+            "The annual income of the applicant and spouse should not exceed ₹ 2,00,000/-.",
             "The grant of financial assistance is made available only for 2 deliveries."
         ],
         "exclusions": [],
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What role does the annual income of the applicant and spouse play in determining eligibility?",
-                "answer": "To qualify for the scheme, the combined annual income of the applicant and spouse should not exceed \u20b92,00,000."
+                "answer": "To qualify for the scheme, the combined annual income of the applicant and spouse should not exceed ₹2,00,000."
             },
             {
                 "question": "Is continuous residence in the Union Territory of Pondicherry a mandatory criterion?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What is the division of financial assistance during the prenatal and postnatal periods?",
-                "answer": "The scheme allocates \u20b92,000 in cash per month for three months before delivery as prenatal assistance and \u20b92,000 in cash per month for three months after delivery as postnatal assistance."
+                "answer": "The scheme allocates ₹2,000 in cash per month for three months before delivery as prenatal assistance and ₹2,000 in cash per month for three months after delivery as postnatal assistance."
             },
             {
                 "question": "When should applicants ideally apply for the scheme?",
@@ -65,7 +65,7 @@
             },
             {
                 "question": "What are the specific financial benefits offered under this scheme?",
-                "answer": "The scheme provides a financial assistance of \u20b912,000 in cash, distributed as \u20b92,000 per month for three months prior to delivery and \u20b92,000 per month for three months post-delivery, for a maximum of 2 deliveries."
+                "answer": "The scheme provides a financial assistance of ₹12,000 in cash, distributed as ₹2,000 per month for three months prior to delivery and ₹2,000 per month for three months post-delivery, for a maximum of 2 deliveries."
             },
             {
                 "question": "Who introduced the scheme 'Grant of Financial Assistance to Poor Scheduled Caste Pregnant & Lactating Women,' and what is its primary objective?",
@@ -109,5 +109,6 @@
             "Lactating Women",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000722"
 }

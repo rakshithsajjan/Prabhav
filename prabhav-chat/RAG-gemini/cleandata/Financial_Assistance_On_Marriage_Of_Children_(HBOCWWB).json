@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The scheme 'Financial Assistance on Marriage of Children (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under this scheme, a provision has been made to provide financial assistance of \u20b921,000/- for a son\u2019s marriage and \u20b950,000/- for a daughter's marriage for making arrangements for the marriage of the son/daughter of a construction worker three days before the marriage. This assistance shall be sanctioned for the marriage of two children of the beneficiary provided that the benefits shall be extended up to three daughters.",
+        "details": "The scheme 'Financial Assistance on Marriage of Children (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under this scheme, a provision has been made to provide financial assistance of ₹21,000/- for a son’s marriage and ₹50,000/- for a daughter's marriage for making arrangements for the marriage of the son/daughter of a construction worker three days before the marriage. This assistance shall be sanctioned for the marriage of two children of the beneficiary provided that the benefits shall be extended up to three daughters.",
         "benefits": [
-            "The financial assistance of \u20b921,000/- for the son\u2019s marriage and \u20b950,000/- for the daughter's marriage will be given to a registered construction worker for making arrangements of the marriage of his/her son/daughter.",
+            "The financial assistance of ₹21,000/- for the son’s marriage and ₹50,000/- for the daughter's marriage will be given to a registered construction worker for making arrangements of the marriage of his/her son/daughter.",
             "The financial assistance shall be sanctioned for the marriage of two children of the beneficiary provided that the benefits shall be extended up to three daughters."
         ],
         "eligibility": [
@@ -32,7 +32,7 @@
         "faqs": [
             {
                 "question": "What is the objective of scheme?",
-                "answer": "The objective of the scheme is to provide financial assistance of \u20b921,000/- for a son\u2019s marriage and \u20b950,000/- for a daughter's marriage for making arrangements for the marriage of the son/daughter of a construction worker."
+                "answer": "The objective of the scheme is to provide financial assistance of ₹21,000/- for a son’s marriage and ₹50,000/- for a daughter's marriage for making arrangements for the marriage of the son/daughter of a construction worker."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "The financial assistance of \u20b921,000/- for the son\u2019s marriage and \u20b950,000/- for the daughter's marriage will be given to a registered construction worker for making arrangements for the marriage of his/her son/daughter."
+                "answer": "The financial assistance of ₹21,000/- for the son’s marriage and ₹50,000/- for the daughter's marriage will be given to a registered construction worker for making arrangements for the marriage of his/her son/daughter."
             },
             {
                 "question": "How many children of a construction worker can be benefited by the scheme?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Yes, the first-time registration charges are \u20b925/- and the registration fees vary according to the renewal time period."
+                "answer": "Yes, the first-time registration charges are ₹25/- and the registration fees vary according to the renewal time period."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -104,5 +104,6 @@
             "Marriage",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000531"
 }

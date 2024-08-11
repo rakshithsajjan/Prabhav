@@ -7,11 +7,11 @@
         "beneficiary": "Organizations and individuals involved in technological innovation",
         "details": "The National Technology Day, celebrated annually on May 11th, commemorates India's significant milestones in technological advancement. The National Technology Awards are presented on this day to recognize and encourage contributions in the commercialization and development of indigenous technologies across various categories.",
         "benefits": [
-            "National Technology Award (Main): \u20b925,00,000/- and a trophy.",
-            "National Technology Awards (MSME): \u20b915,00,000/-",
-            "National Technology Awards (Start-up): \u20b915,00,000/-",
-            "National Technology Awards (Translational Research): \u20b95,00,000/- and a trophy.",
-            "National Technology Awards (Technology Business Incubator): \u20b95,00,000/-"
+            "National Technology Award (Main): ₹25,00,000/- and a trophy.",
+            "National Technology Awards (MSME): ₹15,00,000/-",
+            "National Technology Awards (Start-up): ₹15,00,000/-",
+            "National Technology Awards (Translational Research): ₹5,00,000/- and a trophy.",
+            "National Technology Awards (Technology Business Incubator): ₹5,00,000/-"
         ],
         "eligibility": [
             "Only private and Public limited companies Registered under companies Act 1956/2013 at Registrar of Companies (ROC) may apply.",
@@ -102,5 +102,6 @@
             "Science",
             "Development"
         ]
-    }
+    },
+    "id": "001335"
 }

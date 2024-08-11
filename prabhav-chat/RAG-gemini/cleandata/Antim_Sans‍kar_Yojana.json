@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "Antim Sans\u200dkar Yojana",
+        "title": "Antim Sans‍kar Yojana",
         "state": "Madhya Pradesh",
         "department": "Labor Department",
         "type": "Financial Assistance",
         "beneficiary": "Registered construction workers and their dependents",
         "details": "This scheme 'Antim Sanskar Yojana' started by the Labor department of Madhya Pradesh to provide financial assistance in the case of death. On the death of such an eligible worker, his family members are to be provided financial assistance in the form of funeral expenses. The scheme aims to alleviate the immediate financial burden on families caused by funeral expenses.",
         "benefits": [
-            "Lump sum financial assistance amount: \u20b96,000/-"
+            "Lump sum financial assistance amount: ₹6,000/-"
         ],
         "eligibility": [
             "Construction worker must be registered with labor department.",
@@ -32,7 +32,7 @@
             },
             {
                 "question": "How much financial benefits are provided?",
-                "answer": "Lump sum financial assistance amount \u20b96,000/- will be provided."
+                "answer": "Lump sum financial assistance amount ₹6,000/- will be provided."
             },
             {
                 "question": "How can I apply online for the scheme?",
@@ -74,5 +74,6 @@
             "Funeral",
             "Labour Worker"
         ]
-    }
+    },
+    "id": "000092"
 }

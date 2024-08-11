@@ -5,10 +5,10 @@
         "department": "Department of Information Technology, Electronics and Communications",
         "type": "Reimbursement",
         "beneficiary": "Startups of Goa",
-        "details": "The scheme 'R&D Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The objective of the policy is to promote innovation amongst the Goans and local start-ups. 50% of R&D expenses, including salaries of PhD holders employed by start-ups, will be reimbursed for a period of two years, subject to a cap of \u20b9 5,00,000 per annum.",
+        "details": "The scheme 'R&D Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The objective of the policy is to promote innovation amongst the Goans and local start-ups. 50% of R&D expenses, including salaries of PhD holders employed by start-ups, will be reimbursed for a period of two years, subject to a cap of ₹ 5,00,000 per annum.",
         "benefits": [
-            "50% of R&D expenses, including salaries of PhD holders employed by startups, will be reimbursed for a period of two years, subject to a cap of \u20b9 5,00,000 per annum.",
-            "The salary component must not be in excess of \u20b9 2,00,000.",
+            "50% of R&D expenses, including salaries of PhD holders employed by startups, will be reimbursed for a period of two years, subject to a cap of ₹ 5,00,000 per annum.",
+            "The salary component must not be in excess of ₹ 2,00,000.",
             "This benefit can be availed by a maximum of 100 startups each year.",
             "The applicant can avail of the benefits of this scheme bi-annually/ annually.",
             "Once the application is approved by the SPC, the approved amount shall be disbursed within 60 days from the date of approval."
@@ -110,5 +110,6 @@
                 "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
             }
         ]
-    }
+    },
+    "id": "001546"
 }

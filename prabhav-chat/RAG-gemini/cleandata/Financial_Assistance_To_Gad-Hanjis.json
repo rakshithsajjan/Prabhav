@@ -7,15 +7,15 @@
         "beneficiary": "Fisherman",
         "details": "In the 'Financial Assistance to Gad-Hanjis', financial assistance for the purchase of Nylon Twine is provided to the Licensed Fisherman (Gad-Hanjis) by the Social Welfare Department. The beneficiary shall approach the concerned District Social Welfare Officer (DSWO) for submission of the application. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Jammu & Kashmir can apply for this scheme.",
         "benefits": [
-            "License holders having paid fee of \u20b9 50/-: \u20b9 500/-",
-            "License holders having paid fee of \u20b9 40/-: \u20b9 400/-",
-            "License holders having paid fee of \u20b9 30/-: \u20b9 300/-",
-            "License holders having paid fee of \u20b9 20/-: \u20b9 200/-"
+            "License holders having paid fee of ₹ 50/-: ₹ 500/-",
+            "License holders having paid fee of ₹ 40/-: ₹ 400/-",
+            "License holders having paid fee of ₹ 30/-: ₹ 300/-",
+            "License holders having paid fee of ₹ 20/-: ₹ 200/-"
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a Gad-Hanji (Fisherman) licensed by the Fisheries Department consecutively for the last 3 years.",
-            "The annual income of the applicant should not exceed \u20b9 3,600/-.",
+            "The annual income of the applicant should not exceed ₹ 3,600/-.",
             "The applicant should not have received assistance under this scheme during the last 2 years."
         ],
         "exclusions": [],
@@ -36,8 +36,8 @@
                 "answer": "In this scheme, financial assistance for the purchase of Twine is provided to the Licensed Fisherman (Gad-Hanjis)."
             },
             {
-                "question": "What Amount Of Financial Assistance Shall Be Paid To A Licensed Fisherman Who Has Paid A Fee Of \u20b9 50/-?",
-                "answer": "\u20b9 500/- shall be paid to a Licensed Fisherman who has paid a fee of \u20b9 50/-."
+                "question": "What Amount Of Financial Assistance Shall Be Paid To A Licensed Fisherman Who Has Paid A Fee Of ₹ 50/-?",
+                "answer": "₹ 500/- shall be paid to a Licensed Fisherman who has paid a fee of ₹ 50/-."
             },
             {
                 "question": "What Is The Meaning Of 'Gad-Hanji'?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That One Can Receive Through This Scheme?",
-                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b9500/-."
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is ₹500/-."
             },
             {
                 "question": "Is The Residential Certificate / Domicile Certificate Of The State Of Jammu & Kashmir, A Mandatory Document For This Scheme?",
@@ -80,5 +80,6 @@
             "Social Welfare",
             "Jammu and Kashmir"
         ]
-    }
+    },
+    "id": "000542"
 }

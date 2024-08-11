@@ -5,10 +5,10 @@
         "department": "Department of Industries and Commerce",
         "type": "Grant",
         "beneficiary": "Industrial Associations, CII, Industrial NGOs",
-        "details": "The scheme 'Grant-in-Aid to Industrial Association, CII, Industrial NGOs for Promotion of SME Clusters' under 'Marketing And Publicity' was launched by the Department of Industries and Commerce, Union Territory of Puducherry. Through this scheme, financial assistance is provided to the Industrial Associations, CII, and Industrial NGOs for the promotion of the SME Cluster. The financial assistance is 75% of the actual cost, subject to a maximum of \u20b93,00,000/- per unit in cluster.",
+        "details": "The scheme 'Grant-in-Aid to Industrial Association, CII, Industrial NGOs for Promotion of SME Clusters' under 'Marketing And Publicity' was launched by the Department of Industries and Commerce, Union Territory of Puducherry. Through this scheme, financial assistance is provided to the Industrial Associations, CII, and Industrial NGOs for the promotion of the SME Cluster. The financial assistance is 75% of the actual cost, subject to a maximum of ₹3,00,000/- per unit in cluster.",
         "benefits": [
             "Financial assistance of 75% of the actual cost",
-            "Maximum limit of \u20b93,00,000/- per unit in cluster"
+            "Maximum limit of ₹3,00,000/- per unit in cluster"
         ],
         "eligibility": [
             "The applicant should be an Industrial Association",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "How much financial assistance is offered through the scheme, and what is the maximum limit per unit in a cluster?",
-                "answer": "The scheme provides financial assistance of 75% of the actual cost, with a maximum limit of \u20b93,00,000/- per unit in the cluster."
+                "answer": "The scheme provides financial assistance of 75% of the actual cost, with a maximum limit of ₹3,00,000/- per unit in the cluster."
             },
             {
                 "question": "Can non-profit organizations apply for the scheme, or is it limited to for-profit entities?",
@@ -88,5 +88,6 @@
             "NGO",
             "Publicity"
         ]
-    }
+    },
+    "id": "000706"
 }

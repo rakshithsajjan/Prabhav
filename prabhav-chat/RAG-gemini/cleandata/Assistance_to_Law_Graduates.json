@@ -5,9 +5,9 @@
         "department": "Department for the Welfare of Differently Abled Persons",
         "type": "Financial Assistance",
         "beneficiary": "Differently-abled Law Graduates",
-        "details": "The 'Assistance to Law Graduates' scheme was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, financial assistance of \u20b950,000/- will be given to the differently abled Law graduates for enrolment in the Bar Council as lawyer and for the purchase of law books.",
+        "details": "The 'Assistance to Law Graduates' scheme was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. Under this scheme, financial assistance of ₹50,000/- will be given to the differently abled Law graduates for enrolment in the Bar Council as lawyer and for the purchase of law books.",
         "benefits": [
-            "Financial Assistance of \u20b950,000/-."
+            "Financial Assistance of ₹50,000/-."
         ],
         "eligibility": [
             "The applicant should be a differently abled person.",
@@ -26,7 +26,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "Under this scheme, a financial assistance of \u20b950,000/- is provided to eligible differently abled law graduates."
+                "answer": "Under this scheme, a financial assistance of ₹50,000/- is provided to eligible differently abled law graduates."
             },
             {
                 "question": "Who is eligible to receive assistance under this scheme?",
@@ -73,5 +73,6 @@
             "Law Graduate",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000128"
 }

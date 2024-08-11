@@ -5,10 +5,10 @@
         "department": "Social Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Women",
-        "details": "Lakshmir Bhandar Scheme is a flagship program launched by the West Bengal Government in February 2021, to provide financial assistance to women from economically weaker sections of society, for the empowerment of women in the age group of 25-60 years and enrolled in \u2018Swasthya Sathi\u2019 provides \u20b9 1000/- every month to women from SC/ST households and \u20b9 500/- per month from others. Over 1.5 crore applications were received and processed. The scheme aims to empower women and make them financially independent by providing them with a one-time grant to buy essential goods and services.",
+        "details": "Lakshmir Bhandar Scheme is a flagship program launched by the West Bengal Government in February 2021, to provide financial assistance to women from economically weaker sections of society, for the empowerment of women in the age group of 25-60 years and enrolled in ‘Swasthya Sathi’ provides ₹ 1000/- every month to women from SC/ST households and ₹ 500/- per month from others. Over 1.5 crore applications were received and processed. The scheme aims to empower women and make them financially independent by providing them with a one-time grant to buy essential goods and services.",
         "benefits": [
-            "For women from Scheduled Caste / Scheduled Tribes Households: \u20b9 1,000/- per month",
-            "For women from households other than SC/ST households: \u20b9 500/- per month."
+            "For women from Scheduled Caste / Scheduled Tribes Households: ₹ 1,000/- per month",
+            "For women from households other than SC/ST households: ₹ 500/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of West Bengal.",
@@ -18,7 +18,7 @@
             "The applicant should not be a government employee in permanent employment/ retired government employee of Central/ State Government, Statutory Bodies, Government Undertakings, Panchayats, Municipal Corporations/ Municipalities, Local Bodies, teaching and non-teaching employees of Government aided Educational Institutions, etc. receiving regular salary/ pension."
         ],
         "exclusions": [],
-        "application_process": "Offline. The scheme\u2019s application form will be available free of cost at the Duare Sarkar Camps. The applicant will submit the filled-in, duly signed application form at one of the Duare Sarkar Camps, along with the self-attested copies of the required documents.",
+        "application_process": "Offline. The scheme’s application form will be available free of cost at the Duare Sarkar Camps. The applicant will submit the filled-in, duly signed application form at one of the Duare Sarkar Camps, along with the self-attested copies of the required documents.",
         "documents_required": [
             "Swasthyasathi Card",
             "Aadhaar Card",
@@ -112,5 +112,6 @@
             "Financial Assistance",
             "West Bengal"
         ]
-    }
+    },
+    "id": "001015"
 }

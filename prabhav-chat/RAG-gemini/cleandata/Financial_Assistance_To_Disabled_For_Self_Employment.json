@@ -8,7 +8,7 @@
         "details": "The objective of this scheme is to facilitate the self-employment of unemployed disabled persons. Under this scheme, financial assistance is provided to persons with disabilities for self-employment, small-scale business, and agro-based project.",
         "benefits": [
             "80% loan amount is provided by the Nationalized Bank.",
-            "20% subsidy of up to \u20b930,000/- is provided by the Department."
+            "20% subsidy of up to ₹30,000/- is provided by the Department."
         ],
         "eligibility": [
             "The percentage of disability of the applicant should be 40% and above.",
@@ -25,7 +25,7 @@
         "faqs": [
             {
                 "question": "What is the maximum amount of financial assistance that one can receive through this scheme?",
-                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b91,50,000/-."
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is ₹1,50,000/-."
             },
             {
                 "question": "Is there any compensation for the delay in the disbursal of the scheme benefits?",
@@ -84,5 +84,6 @@
             "Self Employment",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "000538"
 }

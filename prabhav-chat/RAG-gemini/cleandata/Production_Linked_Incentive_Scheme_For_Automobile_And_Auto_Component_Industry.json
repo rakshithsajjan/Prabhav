@@ -5,7 +5,7 @@
         "department": "Ministry of Heavy Industries",
         "type": "Incentive",
         "beneficiary": "Automobile and Auto Component Industry",
-        "details": "The government of India has approved the scheme 'Production Linked Incentive Scheme for Automobile and Auto Components Industry' in India to enhance India\u2019s Manufacturing Capabilities for Advanced Automotive Products. The scheme proposes financial incentives to boost domestic manufacturing of Advanced Automotive Technology products and attract investments in the automotive manufacturing value chain. Its prime objectives include overcoming cost disabilities, creating economies of scale, and building a robust supply chain in areas of Advanced Automotive Technology products. It will also generate employment.",
+        "details": "The government of India has approved the scheme 'Production Linked Incentive Scheme for Automobile and Auto Components Industry' in India to enhance India’s Manufacturing Capabilities for Advanced Automotive Products. The scheme proposes financial incentives to boost domestic manufacturing of Advanced Automotive Technology products and attract investments in the automotive manufacturing value chain. Its prime objectives include overcoming cost disabilities, creating economies of scale, and building a robust supply chain in areas of Advanced Automotive Technology products. It will also generate employment.",
         "benefits": [
             "Incentives for Champion OEM and New Non-Automotive (OEM) Investor company based on determined sales value.",
             "Incentive slabs for Component Champion and New Non-Automotive (Component) Investor Company."
@@ -67,5 +67,6 @@
             "Incentive",
             "Industry"
         ]
-    }
+    },
+    "id": "001532"
 }

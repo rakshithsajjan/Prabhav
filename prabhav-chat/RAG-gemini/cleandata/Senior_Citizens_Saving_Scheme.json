@@ -5,15 +5,15 @@
         "department": "Ministry Of Finance",
         "type": "Retirement Benefit Program",
         "beneficiary": "Senior Citizens",
-        "details": "The Senior Citizens\u2019 Saving Scheme is a retirement benefit program by the Government of India. Individuals over 60 years can opt for the SCSS scheme by investing by making an individual or joint investment. In addition, this scheme provides tax benefits. In SCSS, the installment amount ranges between \u20b91,000 and \u20b915 lakhs. This amount is constricted to the retirement benefits. One must deposit it in the Senior Citizen Scheme account within a month from receiving retirement benefits from his/her employer. Moreover, if individual deposits more than the given amount, the additional funds get refunded to the account holder. One can extend the scheme for 3 more years from its date of maturity. The Interest Rate is 7.40% per annum (Q2 FY 2022-23). The Tenure is 5 years (with an option to extend it for 3 more years). The Minimum Investment Amount is \u20b91,000. The Maximum Investment Amount \u20b915,00,000 or the amount received on retirement, whichever is lower.",
+        "details": "The Senior Citizens’ Saving Scheme is a retirement benefit program by the Government of India. Individuals over 60 years can opt for the SCSS scheme by investing by making an individual or joint investment. In addition, this scheme provides tax benefits. In SCSS, the installment amount ranges between ₹1,000 and ₹15 lakhs. This amount is constricted to the retirement benefits. One must deposit it in the Senior Citizen Scheme account within a month from receiving retirement benefits from his/her employer. Moreover, if individual deposits more than the given amount, the additional funds get refunded to the account holder. One can extend the scheme for 3 more years from its date of maturity. The Interest Rate is 7.40% per annum (Q2 FY 2022-23). The Tenure is 5 years (with an option to extend it for 3 more years). The Minimum Investment Amount is ₹1,000. The Maximum Investment Amount ₹15,00,000 or the amount received on retirement, whichever is lower.",
         "benefits": [
             "Hassle-Free Process: Individuals can open their accounts at any post office or authorized bank in India.",
-            "SCSS Tax Benefits: Under Section 80C of the Income Tax Act, the principal amount invested in this scheme is eligible for deduction up to a limit of \u20b91.5 lakhs in a year. Furthermore, interest earned on SCSS is taxable according to an individual\u2019s tax slab. However, if the amount exceeds \u20b950,000 for a fiscal, TDS (Tax Deducted at Source) is applicable.",
+            "SCSS Tax Benefits: Under Section 80C of the Income Tax Act, the principal amount invested in this scheme is eligible for deduction up to a limit of ₹1.5 lakhs in a year. Furthermore, interest earned on SCSS is taxable according to an individual’s tax slab. However, if the amount exceeds ₹50,000 for a fiscal, TDS (Tax Deducted at Source) is applicable.",
             "High-Interest Rate: SCSS offers an interest rate of 7.4% per year.",
             "Varying Interest Rates: The SCSS interest rate is modified once in every 3 months.",
             "Assured Returns: The returns on this scheme are issued as it is a government-backed instrument.",
             "Maturity Duration: SCSS comes with a maturity period of 5 years.",
-            "Deposit Limit: Individuals can deposit a minimum of \u20b9 1,000 to open their accounts.",
+            "Deposit Limit: Individuals can deposit a minimum of ₹ 1,000 to open their accounts.",
             "Account Closure: Deductions are made against premature withdrawals.",
             "Quarterly Disbursals: One can expect quarterly disbursements against the deposited amount.",
             "Nomination Option: The account holder can register a nominee to the Senior Citizens Saving Scheme."
@@ -98,5 +98,6 @@
             "Finance",
             "Senior Citizen"
         ]
-    }
+    },
+    "id": "001769"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Fishermen and prospective entrepreneurs",
         "details": "The scheme 'Conversion/Modernisation of Mechanised Fishing Boats for Deep Sea Fishing' is a Sub-Component under the Umbrella Scheme 'Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries' by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme is introduced with the objective of increasing marine fish production by extending financial grants for the conversion/modernization of mechanized boats for deep-sea fishing.",
         "benefits": [
-            "50% subsidy subject to a maximum of \u20b9 2,50,000 per boat linked to bank finance."
+            "50% subsidy subject to a maximum of ₹ 2,50,000 per boat linked to bank finance."
         ],
         "eligibility": [
             "The applicant should either belong to the fishermen community or be one of those professionally engaged in fishing/fish trade occupation on a full-time basis/prospective entrepreneurs.",
@@ -48,7 +48,7 @@
         "faqs": [
             {
                 "question": "What is the current subsidy percentage and maximum limit provided for the mechanized boat scheme?",
-                "answer": "The present subsidy stands at 50%, capped at \u20b92,50,000 per boat, though this is subject to potential revisions by the Government."
+                "answer": "The present subsidy stands at 50%, capped at ₹2,50,000 per boat, though this is subject to potential revisions by the Government."
             },
             {
                 "question": "Can you elaborate on the specific requirements for the hull of the mechanized boat to qualify for the subsidy?",
@@ -113,5 +113,6 @@
                 "url": "https://fisheries.py.gov.in/contact-us"
             }
         ]
-    }
+    },
+    "id": "000339"
 }

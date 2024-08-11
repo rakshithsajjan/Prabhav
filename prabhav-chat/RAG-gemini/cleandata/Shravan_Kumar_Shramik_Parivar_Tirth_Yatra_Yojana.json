@@ -7,11 +7,11 @@
         "beneficiary": "Registered construction worker families",
         "details": "The Shravan Kumar Shramik Parivar Tirth Yatra Yojana (SKSPTYY) is a commendable initiative launched by the Uttar Pradesh government in 2022. Recognizing the significant contribution of construction workers to the state's infrastructure, the scheme aims to ease their financial burden and offer them a chance to experience holy pilgrimages. By providing a one-time grant, the SKSPTYY empowers registered construction worker families to embark on religious journeys. This financial support proves invaluable, allowing these families to experience the spiritual significance of pilgrimages, a tradition often cherished in India.",
         "benefits": [
-            "A maximum lump sum assistance of \u20b912,000/- will be provided for the travel expenses."
+            "A maximum lump sum assistance of ₹12,000/- will be provided for the travel expenses."
         ],
         "eligibility": [
             "The worker must be working in an establishment registered under the Factories Act, 1948.",
-            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-.",
+            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed ₹15,000/-.",
             "The worker must have completed at least six months of continuous service in the establishment/factory and must be in service at the time of application.",
             "Where both the worker and his wife are working as workers in factories/establishments, then only one of them will be eligible for this facility.",
             "The worker and his dependents (dependents include wife, maximum 2 unmarried children, parents of the worker, mother-in-law and father-in-law in case of female worker) but the total number of members including the worker will be maximum 6. Only two children of the worker's family and dependent mother/father can be included.",
@@ -38,11 +38,11 @@
             },
             {
                 "question": "How much financial benefits are provided under the scheme?",
-                "answer": "A maximum lump sum assistance of \u20b912,000/- will be provided for the travel expenses."
+                "answer": "A maximum lump sum assistance of ₹12,000/- will be provided for the travel expenses."
             },
             {
                 "question": "What the financial eligibility criteria?",
-                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-."
+                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed ₹15,000/-."
             },
             {
                 "question": "How many times will the benefits of the scheme be provided?",
@@ -84,5 +84,6 @@
             "Pilgrimage",
             "Travel"
         ]
-    }
+    },
+    "id": "001794"
 }

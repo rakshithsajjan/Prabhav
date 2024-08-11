@@ -7,7 +7,7 @@
         "beneficiary": "Silk Weaving Artisans",
         "details": "The 'Grant to Silk Societies/Agency' Component of the 'Development of Silk' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to encourage the silk weaving artisans to form registered societies/agencies to develop a cluster approach among the artisans which is effective and advisable at present for the successful development of their business.",
         "benefits": [
-            "Grant of \u20b92,00,000 per annum for 5 years, allocated for Administrative and Marketing expenses."
+            "Grant of ₹2,00,000 per annum for 5 years, allocated for Administrative and Marketing expenses."
         ],
         "eligibility": [
             "The applicant should be a Society/Agency.",
@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "How much grant is provided under the 'Grant to Silk Societies / Agency' component?",
-                "answer": "A grant of \u20b92,00,000 per annum is allocated for covering administrative and marketing expenses."
+                "answer": "A grant of ₹2,00,000 per annum is allocated for covering administrative and marketing expenses."
             },
             {
                 "question": "How long is the grant provided to Silk Societies/Agencies?",
@@ -102,5 +102,6 @@
             "Silk",
             "Society"
         ]
-    }
+    },
+    "id": "000744"
 }

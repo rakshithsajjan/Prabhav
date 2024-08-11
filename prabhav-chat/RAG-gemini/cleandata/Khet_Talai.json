@@ -7,8 +7,8 @@
         "beneficiary": "Farmers",
         "details": "Khet Talai Yojana under the Agriculture Department of Rajasthan Government, The biggest problem for farmers in Rajasthan is water for irrigation. One solution to this problem is a farm pond or in other words, a farm pond, by which the farmer can collect rainwater and use it for irrigation, but all the farmers get it constructed. Therefore, the state government gives a subsidy to the farmers on the construction of farm ponds so that the farmers can collect rainwater and irrigate their fields by making farm ponds in their fields.",
         "benefits": [
-            "Scheduled Caste (SC) and Scheduled Tribes (ST), small, and marginal farmers will get 70 percent of the unit cost or a maximum of \u20b973,500/- on raw form pounds and 90 percent or \u20b91,35,000/- on plastic lining form pounds and other category farmers.",
-            "The subsidy is available on 60 percent of the cost or a maximum of \u20b963,000/- on raw form pounds and 80 percent or \u20b91,20,000/- on plastic lining form pounds, whichever is less.",
+            "Scheduled Caste (SC) and Scheduled Tribes (ST), small, and marginal farmers will get 70 percent of the unit cost or a maximum of ₹73,500/- on raw form pounds and 90 percent or ₹1,35,000/- on plastic lining form pounds and other category farmers.",
+            "The subsidy is available on 60 percent of the cost or a maximum of ₹63,000/- on raw form pounds and 80 percent or ₹1,20,000/- on plastic lining form pounds, whichever is less.",
             "The subsidy is payable only on farm ponds of a minimum 400 cubic meter capacity."
         ],
         "eligibility": [
@@ -82,5 +82,6 @@
             "Farmer",
             "Farming"
         ]
-    }
+    },
+    "id": "000980"
 }

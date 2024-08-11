@@ -4,14 +4,14 @@
         "state": "Goa",
         "department": "Department of Fisheries",
         "type": "Subsidy",
-        "beneficiary": "Panchayats/Municipalities with annual income below \u20b92,00,000",
-        "details": "The scheme provides a 100% subsidy for the construction of fish markets for Panchayats and Municipalities with an annual income below \u20b92,00,000, limited to \u20b95,00,000.",
+        "beneficiary": "Panchayats/Municipalities with annual income below ₹2,00,000",
+        "details": "The scheme provides a 100% subsidy for the construction of fish markets for Panchayats and Municipalities with an annual income below ₹2,00,000, limited to ₹5,00,000.",
         "benefits": [
             "100% subsidy for eligible Panchayats/Municipalities",
             "Financial support for construction of fish markets"
         ],
         "eligibility": [
-            "Panchayats/Municipalities with annual income below \u20b92,00,000",
+            "Panchayats/Municipalities with annual income below ₹2,00,000",
             "Submission of mandatory documents"
         ],
         "exclusions": [],
@@ -33,8 +33,8 @@
                 "answer": "The Grievance Redressal Officer is responsible for addressing and resolving complaints or dissatisfaction with the services provided under the scheme. All complaints will be acknowledged, and appropriate actions will be taken."
             },
             {
-                "question": "Could you clarify if the 100% subsidy for Panchayats/Municipalities with an annual income below \u20b92,00,000 is subject to any additional conditions or limitations?",
-                "answer": "There are no additional conditions or limitations mentioned for the 100% subsidy, which is limited to \u20b95,00,000 for Panchayats/Municipalities with an annual income below \u20b92,00,000."
+                "question": "Could you clarify if the 100% subsidy for Panchayats/Municipalities with an annual income below ₹2,00,000 is subject to any additional conditions or limitations?",
+                "answer": "There are no additional conditions or limitations mentioned for the 100% subsidy, which is limited to ₹5,00,000 for Panchayats/Municipalities with an annual income below ₹2,00,000."
             },
             {
                 "question": "What is the process for addressing grievances related to the 'Construction of Fish Markets' scheme, and how long does it typically take for the department to communicate the final action taken?",
@@ -53,8 +53,8 @@
                 "answer": "The applicant should submit the filled application form and documents to the Directorate of Fisheries, Dayanand Bandodkar Marg, Panaji Goa, or to the official posted at BDO Office/Sub-Offices of the Directorate of Fisheries."
             },
             {
-                "question": "What is the maximum subsidy provided for the construction of fish markets for Panchayats/Municipalities with an annual income below \u20b92,00,000?",
-                "answer": "For Panchayats/Municipalities with an annual income below \u20b92,00,000, the scheme offers a 100% subsidy, limited to \u20b95,00,000."
+                "question": "What is the maximum subsidy provided for the construction of fish markets for Panchayats/Municipalities with an annual income below ₹2,00,000?",
+                "answer": "For Panchayats/Municipalities with an annual income below ₹2,00,000, the scheme offers a 100% subsidy, limited to ₹5,00,000."
             },
             {
                 "question": "Is there a provision for a grace period or extension for local bodies facing challenges in fulfilling the eligibility criteria for the 'Construction of Fish Markets' scheme?",
@@ -86,5 +86,6 @@
             "Panchayat",
             "Municipality"
         ]
-    }
+    },
+    "id": "000337"
 }

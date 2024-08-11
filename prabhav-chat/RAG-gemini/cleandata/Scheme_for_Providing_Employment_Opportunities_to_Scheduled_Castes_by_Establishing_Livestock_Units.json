@@ -10,7 +10,7 @@
             "50% subsidy on the cost of milch animals for establishing Dairy units of 2/3 milch animals",
             "50% subsidy on the cost of livestock for establishing 10+1 Piggery units",
             "90% subsidy on the cost of livestock for establishing 15+1 Sheep/Goat units",
-            "Financial assistance up to \u20b950,000 for Piggery units and \u20b988,200 for Sheep/Goat units"
+            "Financial assistance up to ₹50,000 for Piggery units and ₹88,200 for Sheep/Goat units"
         ],
         "eligibility": [
             "Applicant must be 18 to 55 years of age and a resident of Haryana",
@@ -49,11 +49,11 @@
             },
             {
                 "question": "How much subsidy is provided for establishing Piggery units?",
-                "answer": "A 50% subsidy on the cost of livestock, with a maximum of \u20b950,000 as financial assistance."
+                "answer": "A 50% subsidy on the cost of livestock, with a maximum of ₹50,000 as financial assistance."
             },
             {
                 "question": "What is the subsidy rate for establishing Sheep/Goat units?",
-                "answer": "A 90% subsidy on the cost of livestock, with a maximum of \u20b988,200 as financial assistance."
+                "answer": "A 90% subsidy on the cost of livestock, with a maximum of ₹88,200 as financial assistance."
             },
             {
                 "question": "When is the subsidy provided to the beneficiary?",
@@ -105,5 +105,6 @@
             "Self-employment",
             "Livestock Units"
         ]
-    }
+    },
+    "id": "001703"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Young Scientists",
         "details": "The Government of India had instituted a scheme 'Swarnajayanti Fellowships Scheme' to commemorate India's fiftieth year of Independence. Under this scheme, a selected number of young scientists, with a proven track record, are provided special assistance and support to enable them to pursue basic research in frontier areas of science and technology. Scientists selected for the award will be allowed to pursue unfettered research with freedom and flexibility in terms of expenditure as approved in the research plan. The project should contain innovative research ideas and it should have the potential of making an impact on R&D in the discipline. The fellowships are scientist-specific and not institution-specific, very selective, and have close academic monitoring. The duration of the fellowship will be for a period not exceeding five years.",
         "benefits": [
-            "The award consists of a Fellowship of \u20b925,000/- per month in addition to the salary drawn from the parent Institute for a period of 5 years.",
+            "The award consists of a Fellowship of ₹25,000/- per month in addition to the salary drawn from the parent Institute for a period of 5 years.",
             "The fellows selected along with their projects will be considered for funding by the Science & Engineering Research Board (SERB) as per SERB norms, for fellowship, recurring and non-recurring heads."
         ],
         "eligibility": [
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the nature of the assistance provided under this scheme?",
-                "answer": "The award consists of a Fellowship of \u20b925,000/- per month in addition to the salary drawn from the parent Institute for a period of 5 years."
+                "answer": "The award consists of a Fellowship of ₹25,000/- per month in addition to the salary drawn from the parent Institute for a period of 5 years."
             },
             {
                 "question": "What is the duration of the fellowship?",
@@ -91,5 +91,6 @@
                 "url": "https://onlinedst.gov.in/"
             }
         ]
-    }
+    },
+    "id": "001911"
 }

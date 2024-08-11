@@ -7,7 +7,7 @@
         "beneficiary": "Youth aged 18 to 29 years",
         "details": "A volunteership scheme by Ministry of Youth Affairs And Sports to tap the potential of the disciplined and dedicated youth in the age group of 18 to 29 years who have the inclination and spirit to engage in nation building exercises, to serve up to two years in Nation Building activities for which they would receive a monthly honorarium of Rs- 5000/-.",
         "benefits": [
-            "An honorarium of \u20b9 5000 per month for serving up to two years (including the period of training which will be for 4 weeks) in the identified development activities on a full-time basis."
+            "An honorarium of ₹ 5000 per month for serving up to two years (including the period of training which will be for 4 weeks) in the identified development activities on a full-time basis."
         ],
         "eligibility": [
             "The applicant must be between 18 - 29 years of age.",
@@ -18,7 +18,7 @@
         ],
         "application_process": "The online application form is available on www.nyks.nic.in. After successful submission of online application form, an Application number is generated automatically and displayed on the screen which should be noted for future reference.",
         "documents_required": [
-            "Applicant\u2019s Photo",
+            "Applicant’s Photo",
             "Birth Certificate",
             "Class 10th Passing Certificate",
             "Aadhaar",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "Is the honorarium provided as a lump sum or on monthly basis?",
-                "answer": "The honorarium is \u20b9 5000 per volunteer and is provided on monthly basis."
+                "answer": "The honorarium is ₹ 5000 per volunteer and is provided on monthly basis."
             },
             {
                 "question": "What would be the mode of payment of the honorarium?",
@@ -86,5 +86,6 @@
             "Volunteer",
             "Youth"
         ]
-    }
+    },
+    "id": "001338"
 }

@@ -1,17 +1,17 @@
 {
     "content": {
-        "title": "Mukh\u200dyamantri Janakal\u200dyaan (Sambal 2.0) Yojana (Asangathit Karmakaar Man\u200dda)",
+        "title": "Mukh‍yamantri Janakal‍yaan (Sambal 2.0) Yojana (Asangathit Karmakaar Man‍da)",
         "state": "Madhya Pradesh",
         "department": "Labour",
         "type": "Insurance",
         "beneficiary": "Unorganized workers",
         "details": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana (Asangathit Karmakar Mandal) is a scheme launched by the Madhya Pradesh government to provide social security to unorganized workers in the state. This scheme covers unorganized workers from specific age group who are not covered under any other social security scheme and benefits will be provided directly into the beneficiary's account through the DBT system.",
         "benefits": [
-            "Funeral Grant Amount : \u20b95,000/- Ex-gratia",
-            "On accidental death : \u20b94,00,000/-",
-            "General Death Benefit : \u20b92,00,000/-",
-            "Permanent Disability Benefit : \u20b92,00,000/-",
-            "Partial Permanent Disability Benefit : \u20b91,00,000/-"
+            "Funeral Grant Amount : ₹5,000/- Ex-gratia",
+            "On accidental death : ₹4,00,000/-",
+            "General Death Benefit : ₹2,00,000/-",
+            "Permanent Disability Benefit : ₹2,00,000/-",
+            "Partial Permanent Disability Benefit : ₹1,00,000/-"
         ],
         "eligibility": [
             "Applicant must be a Unorganized worker.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "How much financial assistance will be provided?",
-                "answer": "1. Funeral Grant Amount : \u20b95,000/- Ex-gratia 2. On accidental death : \u20b94,00,000/- 3. General Death Benefit : \u20b92,00,000/- 4. Permanent Disability Benefit : \u20b92,00,000/- 5. Partial Permanent Disability Benefit : \u20b91,00,000/-"
+                "answer": "1. Funeral Grant Amount : ₹5,000/- Ex-gratia 2. On accidental death : ₹4,00,000/- 3. General Death Benefit : ₹2,00,000/- 4. Permanent Disability Benefit : ₹2,00,000/- 5. Partial Permanent Disability Benefit : ₹1,00,000/-"
             },
             {
                 "question": "How can one apply for benefits under Mukhyamantri Jan Kalyan Yojana?",
@@ -84,5 +84,6 @@
             "Provident Fund",
             "Workers"
         ]
-    }
+    },
+    "id": "001248"
 }

@@ -8,8 +8,8 @@
         "details": "The scheme 'Interest Subsidy on Term Loan (IS)' is a sub-scheme under the 'Banglashree for Micro, Small and Medium Enterprises' scheme. It was launched on 1st April 2020 and shall remain in force till 31st March 2025. The objective is to extend fiscal incentives to encourage entrepreneurs to set up MSMEs and create a sustainable ecosystem in the sector.",
         "benefits": [
             "Interest Subsidy on annual interest liability for 5 years on Term Loan borrowed from approved banks.",
-            "Micro & Small Enterprises: Zone A & B - 55%; Zone C, D & E\u2013 70%.",
-            "Medium Enterprises: Zone \u2013 B, C, D & E: - 25% subject to a ceiling of \u20b91,75,00,000/- per year."
+            "Micro & Small Enterprises: Zone A & B - 55%; Zone C, D & E– 70%.",
+            "Medium Enterprises: Zone – B, C, D & E: - 25% subject to a ceiling of ₹1,75,00,000/- per year."
         ],
         "eligibility": [
             "The business/organization should be a Micro/ Small/ Medium Enterprise.",
@@ -72,5 +72,6 @@
             "MSME",
             "Term Loan"
         ]
-    }
+    },
+    "id": "000169"
 }

@@ -7,15 +7,15 @@
         "beneficiary": "Authors writing original books in Hindi",
         "details": "The scheme 'Rajbhasha Gaurav Puraskar Scheme for Writing Original Book in Hindi' was launched by the Department of Official Language, Ministry of Home Affairs, Government of India with an objective to encourage writing books originally in Hindi and to promote Official Language. Under the scheme, the citizens of India will be awarded for writing original books in various subjects.",
         "benefits": [
-            "First Prize: \u20b92,00,000/-, a certificate and a memento for knowledge and science-based subjects",
-            "Second Prize: \u20b91,25,000/-, a certificate and a memento for knowledge and science-based subjects",
-            "Third Prize: \u20b975,000/-, a certificate and a memento for knowledge and science-based subjects",
-            "First Prize: \u20b91,50,000/-, a certificate and a memento for Forensic Science, Police, Criminology Research and Police Administration",
-            "Second Prize: \u20b91,00,000/-, a certificate and a memento for Forensic Science, Police, Criminology Research and Police Administration",
-            "First Prize: \u20b91,50,000/-, a certificate and a memento for subjects related to Culture, Religion, Arts and Heritage",
-            "Second Prize: \u20b91,00,000/-, a certificate and a memento for subjects related to Culture, Religion, Arts and Heritage",
-            "First Prize: \u20b91,50,000/-, a certificate and a memento for writing original book in Hindi in the field of law",
-            "Second Prize: \u20b91,00,000/-, a certificate and a memento for writing original book in Hindi in the field of law"
+            "First Prize: ₹2,00,000/-, a certificate and a memento for knowledge and science-based subjects",
+            "Second Prize: ₹1,25,000/-, a certificate and a memento for knowledge and science-based subjects",
+            "Third Prize: ₹75,000/-, a certificate and a memento for knowledge and science-based subjects",
+            "First Prize: ₹1,50,000/-, a certificate and a memento for Forensic Science, Police, Criminology Research and Police Administration",
+            "Second Prize: ₹1,00,000/-, a certificate and a memento for Forensic Science, Police, Criminology Research and Police Administration",
+            "First Prize: ₹1,50,000/-, a certificate and a memento for subjects related to Culture, Religion, Arts and Heritage",
+            "Second Prize: ₹1,00,000/-, a certificate and a memento for subjects related to Culture, Religion, Arts and Heritage",
+            "First Prize: ₹1,50,000/-, a certificate and a memento for writing original book in Hindi in the field of law",
+            "Second Prize: ₹1,00,000/-, a certificate and a memento for writing original book in Hindi in the field of law"
         ],
         "eligibility": [
             "The author/co-author should be a citizen of India.",
@@ -71,5 +71,6 @@
             "Book Writing",
             "Official Language"
         ]
-    }
+    },
+    "id": "001560"
 }

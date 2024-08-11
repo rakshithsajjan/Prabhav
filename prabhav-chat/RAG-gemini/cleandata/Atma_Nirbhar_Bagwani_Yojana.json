@@ -5,7 +5,7 @@
         "department": "Agriculture Department",
         "type": "Subsidy",
         "beneficiary": "Farmers",
-        "details": "Atma Nirbhar Bagwani Yojana is an umbrella scheme wherein all the schemes are subsumed under a bank linked credit subsidy scheme which will have a time bound implementation and participation from various stakeholders \u2013 Government, Bank, Project Consultants and Progressive Farmers. The beneficiaries under the scheme will be eligible for 45% subsidy from Government of Arunachal Pradesh, 45% bank finance and 10% beneficiaries contribution. The beneficiary will have to provide a collateral security in the shape of land/property or acceptable guarantee for loan amount exceeding 1.6 Lakhs in case of individual and 10 lakhs for SHGs/FPOs.",
+        "details": "Atma Nirbhar Bagwani Yojana is an umbrella scheme wherein all the schemes are subsumed under a bank linked credit subsidy scheme which will have a time bound implementation and participation from various stakeholders – Government, Bank, Project Consultants and Progressive Farmers. The beneficiaries under the scheme will be eligible for 45% subsidy from Government of Arunachal Pradesh, 45% bank finance and 10% beneficiaries contribution. The beneficiary will have to provide a collateral security in the shape of land/property or acceptable guarantee for loan amount exceeding 1.6 Lakhs in case of individual and 10 lakhs for SHGs/FPOs.",
         "benefits": [
             "Atmanirbhar Bagwani Yojna is basically meant for the cultivation of fruits like apples, walnut, orange, kiwi, and persimmon.",
             "The line of credit will be provided by the State Bank Of India, Arunachal Pradesh Rural Bank, and Arunachal Pradesh Cooperative Apex Bank.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Is Atmanirbhar Bagwani yojana related to some previous scheme?",
-                "answer": "It is the updated version of Chief Minister\u2019s Sashakt Kisan Yojna."
+                "answer": "It is the updated version of Chief Minister’s Sashakt Kisan Yojna."
             }
         ],
         "sources": [
@@ -62,5 +62,6 @@
             "Farmers",
             "Horticulture"
         ]
-    }
+    },
+    "id": "000141"
 }

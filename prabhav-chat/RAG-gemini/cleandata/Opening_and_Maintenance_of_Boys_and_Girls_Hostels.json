@@ -16,7 +16,7 @@
             "The applicant should be from a Scheduled Caste.",
             "The applicant should be a Student.",
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for not less than 5 years.",
-            "For Other Economically Backward Classes, the Income of the parent/guardian should not exceed \u20b9 75,000/-.",
+            "For Other Economically Backward Classes, the Income of the parent/guardian should not exceed ₹ 75,000/-.",
             "The Parent/Guardian of the applicant should not be living within a radius of 5 km from the hostel."
         ],
         "exclusions": [],
@@ -61,11 +61,11 @@
             },
             {
                 "question": "Can applicants from Other Economically Backward Classes apply, and if so, what conditions must be met?",
-                "answer": "Yes, they can apply, provided the parent/guardian's income does not exceed \u20b975,000, and they meet the residency criteria."
+                "answer": "Yes, they can apply, provided the parent/guardian's income does not exceed ₹75,000, and they meet the residency criteria."
             },
             {
                 "question": "What is the income limit for applicants from Other Economically Backward Classes, and what documents are needed to verify it?",
-                "answer": "The income limit is \u20b975,000, and the required document is the Income Certificate."
+                "answer": "The income limit is ₹75,000, and the required document is the Income Certificate."
             },
             {
                 "question": "Who is eligible to apply for the hostel scheme, and what are the specific criteria for Scheduled Caste applicants?",
@@ -108,5 +108,6 @@
             "Scheduled Caste",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001393"
 }

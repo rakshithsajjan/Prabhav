@@ -7,9 +7,9 @@
         "beneficiary": "Scheduled Caste/Scheduled Tribe Candidates",
         "details": "This scheme has been initiated keeping in view the social background of the candidates from the deprived section of society and to provide them an opportunity to undertake advanced studies and research in Science, Engineering & Technology, Humanities and Social Sciences in Indian Universities/Institutions/Colleges.",
         "benefits": [
-            "Fellowship amount of \u20b938,800/- per month for first 2 years & \u20b946,500/- per month from third year onwards.",
-            "Annual contingency of \u20b950,000/- for five years.",
-            "Escorts/Reader assistance of \u20b92,000/- per month for physically disabled & blind candidates.",
+            "Fellowship amount of ₹38,800/- per month for first 2 years & ₹46,500/- per month from third year onwards.",
+            "Annual contingency of ₹50,000/- for five years.",
+            "Escorts/Reader assistance of ₹2,000/- per month for physically disabled & blind candidates.",
             "House Rent Allowance as per University/Institution rules."
         ],
         "eligibility": [
@@ -44,7 +44,7 @@
             },
             {
                 "question": "How much amount of fellowship is paid under the scheme?",
-                "answer": "The fellowship under the scheme is \u20b938,800/- per month for the first 2 years & \u20b946,500/- per month from the third year onwards."
+                "answer": "The fellowship under the scheme is ₹38,800/- per month for the first 2 years & ₹46,500/- per month from the third year onwards."
             },
             {
                 "question": "What is the duration of the fellowship?",
@@ -84,5 +84,6 @@
             "Research",
             "Education"
         ]
-    }
+    },
+    "id": "001462"
 }

@@ -7,15 +7,15 @@
         "beneficiary": "Differently Abled Students",
         "details": "The scheme 'Award of Scholarship to Differently Abled Person Students' by the Department of Social Welfare, Government of Puducherry was introduced to provide scholarship to the differently abled persons who are students for enabling them to secure education. The assistance is extended to Student with Disabilities studying from Class 1st upto Postgraduate/ Professional courses.",
         "benefits": [
-            "1st to 5th Standard: \u20b9 1,000/- per year.",
-            "6th to 8th Standard: \u20b9 2,000/- per year.",
-            "9th to 12th Standard: \u20b9 3,400/- per year.",
-            "Undergraduate Course: \u20b9 5,000/- per year.",
-            "Postgraduate/Professional Course: \u20b9 6,800/- per year."
+            "1st to 5th Standard: ₹ 1,000/- per year.",
+            "6th to 8th Standard: ₹ 2,000/- per year.",
+            "9th to 12th Standard: ₹ 3,400/- per year.",
+            "Undergraduate Course: ₹ 5,000/- per year.",
+            "Postgraduate/Professional Course: ₹ 6,800/- per year."
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The applicant should have an annual income (from all sources) not exceeding \u20b975,000/- per annum.",
+            "The applicant should have an annual income (from all sources) not exceeding ₹75,000/- per annum.",
             "The disability of the applicant should be 40% and above.",
             "The assistance is extended to Student with Disabilities studying from 1st Standard upto Postgraduate/Professional courses."
         ],
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What are the different financial assistance amounts provided under this scheme for various education levels?",
-                "answer": "The assistance varies from \u20b91,000/- to \u20b96,800/- per year, depending on the education level, from 1st Standard to Postgraduate/Professional courses."
+                "answer": "The assistance varies from ₹1,000/- to ₹6,800/- per year, depending on the education level, from 1st Standard to Postgraduate/Professional courses."
             },
             {
                 "question": "How can I track the status of my scholarship application under the 'Award of Scholarship to Differently Abled Person Students' scheme?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "How is the scholarship amount for differently-abled students determined?",
-                "answer": "The scholarship amounts are predetermined based on the education level, ranging from \u20b91,000/- to \u20b96,800/- per year."
+                "answer": "The scholarship amounts are predetermined based on the education level, ranging from ₹1,000/- to ₹6,800/- per year."
             },
             {
                 "question": "Is the scholarship amount fixed, or does it vary based on academic performance?",
@@ -76,15 +76,15 @@
             },
             {
                 "question": "What is the annual scholarship amount for students pursuing postgraduate or professional courses?",
-                "answer": "Students pursuing postgraduate or professional courses can receive \u20b96,800/- per year under this scheme."
+                "answer": "Students pursuing postgraduate or professional courses can receive ₹6,800/- per year under this scheme."
             },
             {
                 "question": "How much financial aid is provided to undergraduate students through this scheme?",
-                "answer": "Undergraduate students are eligible for \u20b95,000/- per year as part of the scholarship benefits."
+                "answer": "Undergraduate students are eligible for ₹5,000/- per year as part of the scholarship benefits."
             },
             {
                 "question": "Could you provide details about the financial assistance for students in the 9th to 12th standard?",
-                "answer": "Students in the 9th to 12th standard receive \u20b93,400/- per year under this scholarship scheme."
+                "answer": "Students in the 9th to 12th standard receive ₹3,400/- per year under this scholarship scheme."
             }
         ],
         "sources": [
@@ -119,5 +119,6 @@
             "Education",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000154"
 }

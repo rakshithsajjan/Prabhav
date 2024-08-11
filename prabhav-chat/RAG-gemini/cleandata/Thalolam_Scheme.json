@@ -5,9 +5,9 @@
         "department": "Social Justice Department, Kerala",
         "type": "Free Treatment",
         "beneficiary": "Children below age of 18",
-        "details": "The Government of Kerala launched the \u201cThalolam Scheme\u201d on 1st January 2010 under Kerala Social Security Mission by the Social Justice Department, Kerala. The aim of the scheme is to provide free treatment to the children below age of 18, who are suffering from Kidney diseases, Cardiovascular diseases, Cerebral Palsy, Brittle Bone Disease, Hemophilia, Thalassemia, Sickle Cell Anemia, Orthopedic deformities, and other Neuro-Developmental Disabilities, Congenital anomalies (Endosulfan victims) and accident cases which needs surgery.",
+        "details": "The Government of Kerala launched the “Thalolam Scheme” on 1st January 2010 under Kerala Social Security Mission by the Social Justice Department, Kerala. The aim of the scheme is to provide free treatment to the children below age of 18, who are suffering from Kidney diseases, Cardiovascular diseases, Cerebral Palsy, Brittle Bone Disease, Hemophilia, Thalassemia, Sickle Cell Anemia, Orthopedic deformities, and other Neuro-Developmental Disabilities, Congenital anomalies (Endosulfan victims) and accident cases which needs surgery.",
         "benefits": [
-            "A patient will be eligible for initial assistance of \u20b950,000/- only under this scheme.",
+            "A patient will be eligible for initial assistance of ₹50,000/- only under this scheme.",
             "Free treatment will be provided to the children below age of 18, who are suffering from various specified diseases."
         ],
         "eligibility": [
@@ -26,7 +26,7 @@
             "Copy of Ration card (if applicable)",
             "Residence certificate",
             "Passport-size photograph",
-            "Patient\u2019s medical reports"
+            "Patient’s medical reports"
         ],
         "faqs": [
             {
@@ -51,7 +51,7 @@
             },
             {
                 "question": "How much initial assistance will be provided to the patient under the scheme?",
-                "answer": "A patient will be eligible for initial assistance of \u20b950,000/- only under this scheme."
+                "answer": "A patient will be eligible for initial assistance of ₹50,000/- only under this scheme."
             },
             {
                 "question": "Can additional financial assistance also be provided to the patient?",
@@ -88,5 +88,6 @@
             "Hospital",
             "Patient"
         ]
-    }
+    },
+    "id": "001942"
 }

@@ -7,13 +7,13 @@
         "beneficiary": "Faculty Members of AICTE-approved Institutions",
         "details": "The scheme 'Quality Improvement Programme' was launched by the All India Council for Technical Education (AICTE) in the year 1970. One of its primary objectives is to enhance the expertise and capabilities of faculty members in degree and diploma-level institutions across the country. The program is overseen by the All India Council for Technical Education. In the 'Quality Improvement Programme,' only sponsored teachers are eligible for admission to both Master's and Doctoral Degree Programs.",
         "benefits": [
-            "Scholarship for Master's Degree: \u20b99,000 per month",
-            "Annual Contingency for Master's Degree: \u20b95,000",
-            "Scholarship for Ph.D. Programme: \u20b915,000 per month",
-            "Annual Contingency for Ph.D. Programme: \u20b915,000",
+            "Scholarship for Master's Degree: ₹9,000 per month",
+            "Annual Contingency for Master's Degree: ₹5,000",
+            "Scholarship for Ph.D. Programme: ₹15,000 per month",
+            "Annual Contingency for Ph.D. Programme: ₹15,000",
             "Pre-Ph.D. Expenses: One-time lump sum amount",
-            "Travel Allowance (TA): \u20b915,000",
-            "Daily Allowance (DA): \u20b930,000 for a Pre-Ph.D. duration of 60 days"
+            "Travel Allowance (TA): ₹15,000",
+            "Daily Allowance (DA): ₹30,000 for a Pre-Ph.D. duration of 60 days"
         ],
         "eligibility": [
             "Full-time regular/permanent faculty members of AICTE-approved Polytechnic (Diploma) institutes with one year of teaching experience and a Bachelor's degree in the appropriate branch for Master's Degree Program.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the scholarship amount for the Master of Engineering (ME) or Master of Technology (M.Tech) Programs?",
-                "answer": "The scholarship for ME/M.Tech Programs is \u20b99,000 per month, along with an annual contingency of \u20b95,000."
+                "answer": "The scholarship for ME/M.Tech Programs is ₹9,000 per month, along with an annual contingency of ₹5,000."
             },
             {
                 "question": "What happens if a scholar does not complete the course or leaves midway?",
@@ -70,5 +70,6 @@
             "Faculty Development",
             "Education"
         ]
-    }
+    },
+    "id": "001545"
 }

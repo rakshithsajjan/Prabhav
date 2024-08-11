@@ -11,12 +11,12 @@
             "The maximum number of rooms that can be constructed under this scheme will be limited to 4 rooms for homestays.",
             "Each room should necessarily have a minimum area of approximately 15 sq. m.",
             "Each room should consist of a bedroom and an attached toilet with modern fittings and a walk-in closet.",
-            "Entrepreneur\u2019s contribution would amount to 2% of the project cost for homestays.",
+            "Entrepreneur’s contribution would amount to 2% of the project cost for homestays.",
             "Assistance of 30% of the project cost limiting the project cost to Rs 1.00 Crores for resorts.",
             "The resorts should consist of a minimum of 10 rooms.",
             "Each Cottage should have a minimum plinth area of 24 sq m.",
             "Should have spaces for central reception area with lobby, restaurant, kitchen etc having a built-up area of 240 sq m approximately.",
-            "Entrepreneur\u2019s contribution would amount to 2% of the project cost for resorts."
+            "Entrepreneur’s contribution would amount to 2% of the project cost for resorts."
         ],
         "eligibility": [
             "The cost of the project should be within Rs 16.00 Lakhs for homestays and within Rs 100.00 Lakhs for resorts.",
@@ -41,11 +41,11 @@
         ],
         "faqs": [
             {
-                "question": "In case of homestay what is the % contribution of the entrepreneur\u2019s from the project cost?",
+                "question": "In case of homestay what is the % contribution of the entrepreneur’s from the project cost?",
                 "answer": "2%"
             },
             {
-                "question": "In case of resort what is the % contribution of the entrepreneur\u2019s from the project cost?",
+                "question": "In case of resort what is the % contribution of the entrepreneur’s from the project cost?",
                 "answer": "2%"
             },
             {
@@ -57,11 +57,11 @@
                 "answer": "Within 100 Lakhs."
             },
             {
-                "question": "What is the eligibility of the entrepreneur\u2019s in case of Homestays?",
+                "question": "What is the eligibility of the entrepreneur’s in case of Homestays?",
                 "answer": "The entrepreneur should be the owner of the property with built-up house."
             },
             {
-                "question": "What is the eligibility of the entrepreneur\u2019s in case of Resort?",
+                "question": "What is the eligibility of the entrepreneur’s in case of Resort?",
                 "answer": "The entrepreneur should own the land for the project."
             },
             {
@@ -94,5 +94,6 @@
             "Tourism",
             "Meghalaya"
         ]
-    }
+    },
+    "id": "001128"
 }

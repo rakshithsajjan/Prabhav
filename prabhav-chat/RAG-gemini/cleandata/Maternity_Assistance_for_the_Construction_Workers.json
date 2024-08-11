@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The 'Maternity Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, maternity benefits of \u20b9 30,000/- is provided to the registered women members and wives of male members for upto 2 children from the date of joining membership of the fund.",
+        "details": "The 'Maternity Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, maternity benefits of ₹ 30,000/- is provided to the registered women members and wives of male members for upto 2 children from the date of joining membership of the fund.",
         "benefits": [
-            "\u20b930,000/- is provided to the registered women members and wives of male members for upto 2 children from the date of joining membership of the fund."
+            "₹30,000/- is provided to the registered women members and wives of male members for upto 2 children from the date of joining membership of the fund."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -75,5 +75,6 @@
             "Construction Workers",
             "Medical Support"
         ]
-    }
+    },
+    "id": "001102"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Farmers",
         "details": "The scheme 'Development Support for Coffee in Traditional Areas: Eco-certification of Coffee' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to encourage coffee growers to access high-value specialty markets through production of eco-certified coffees so as to realize higher returns by adhering to a set of standards which help in communication of quality, traceability, social, environmental and financial conditions surrounding the production of coffee.",
         "benefits": [
-            "Certification Support: 50% of the certification cost, subject to a maximum of \u20b950,000 per individual grower/grower groups.",
-            "Additional Support for SC/ST Community: An additional 10% of the certification cost, subject to a maximum of \u20b955,000 per grower during the MIDH period."
+            "Certification Support: 50% of the certification cost, subject to a maximum of ₹50,000 per individual grower/grower groups.",
+            "Additional Support for SC/ST Community: An additional 10% of the certification cost, subject to a maximum of ₹55,000 per grower during the MIDH period."
         ],
         "eligibility": [
             "Individual growers owning up to 10 hectares of coffee holding and groups of small growers (SHGs, collectives) who obtain certification of their plantations for various sustainability and quality standards are eligible.",
@@ -61,11 +61,11 @@
             },
             {
                 "question": "Are there any special provisions for SC/ST community growers?",
-                "answer": "Yes, individual coffee growers from the Scheduled Caste/Scheduled Tribe (SC/ST) community with holdings up to 4.00 hectares can receive an additional 10% of the certification cost, up to \u20b955,000 during the MIDH period."
+                "answer": "Yes, individual coffee growers from the Scheduled Caste/Scheduled Tribe (SC/ST) community with holdings up to 4.00 hectares can receive an additional 10% of the certification cost, up to ₹55,000 during the MIDH period."
             },
             {
                 "question": "How much support is provided for certification costs?",
-                "answer": "Certification support covers 50% of the certification cost, with a maximum of \u20b950,000 per individual grower or grower groups."
+                "answer": "Certification support covers 50% of the certification cost, with a maximum of ₹50,000 per individual grower or grower groups."
             },
             {
                 "question": "What is the primary goal of the scheme?",
@@ -93,5 +93,6 @@
             "Farmer",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000382"
 }

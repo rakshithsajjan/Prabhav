@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "Merit\u00b7cum\u00b7Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects",
+        "title": "Merit·cum·Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects",
         "state": "India",
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Scholarship",
         "beneficiary": "Students pursuing undergraduate studies in Agriculture and Animal Science",
-        "details": "The scheme of 'Merit\u00b7cum\u00b7Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects' is a scholarship scheme introduced by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), with a view to attracting meritorious under-graduate students to prosecute their study in Agriculture, Agricultural Engineering, Home Science, Dairy & Animal Husbandry subjects up to graduation level. The scholarships are awarded annually on the basis of merit-cum-means.",
+        "details": "The scheme of 'Merit·cum·Means Scholarships For Under Graduate Studies In Various Branches Of Agriculture And Animal Science Subjects' is a scholarship scheme introduced by the Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), with a view to attracting meritorious under-graduate students to prosecute their study in Agriculture, Agricultural Engineering, Home Science, Dairy & Animal Husbandry subjects up to graduation level. The scholarships are awarded annually on the basis of merit-cum-means.",
         "benefits": [
-            "\u20b9 1,000/- per month per student for the full duration of the degree course"
+            "₹ 1,000/- per month per student for the full duration of the degree course"
         ],
         "eligibility": [
             "Students must satisfy the 'Means Test' condition",
@@ -15,7 +15,7 @@
             "The scholarship is admissible to Indian Nationals or persons domiciled in India"
         ],
         "exclusions": [
-            "Students whose parents have an income exceeding \u20b9 1,00,000 per annum are not eligible for scholarships"
+            "Students whose parents have an income exceeding ₹ 1,00,000 per annum are not eligible for scholarships"
         ],
         "application_process": "Online",
         "documents_required": [
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What will be the Value Of The Scholarships For Undergraduate Studies?",
-                "answer": "The value of the scholarships for undergraduate studies in Agriculture and Animal Science subjects will be \u20b9 1,000/- per month per student."
+                "answer": "The value of the scholarships for undergraduate studies in Agriculture and Animal Science subjects will be ₹ 1,000/- per month per student."
             },
             {
                 "question": "Are foreign nationals also eligible to apply to this scheme?",
@@ -64,5 +64,6 @@
             "Animal Science",
             "Undergraduate Studies"
         ]
-    }
+    },
+    "id": "001136"
 }

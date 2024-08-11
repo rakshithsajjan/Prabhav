@@ -7,7 +7,7 @@
         "beneficiary": "Sportspersons of Odisha",
         "details": "The 'Biju Patnaik Sports Award for Outstanding Performance in Sports and Games for the Year' is a category of award under the 'Biju Patnaik Sports Award' Scheme. The scheme was launched to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The award is given to the sportspersons of Odisha who have achieved outstanding performance in any of the recognized sports during the year making the State of Odisha and India proud.",
         "benefits": [
-            "The award shall be presented every year subject to the availability of a suitable candidate, which will carry a cash award of \u20b92,00,000/-",
+            "The award shall be presented every year subject to the availability of a suitable candidate, which will carry a cash award of ₹2,00,000/-",
             "A statue, a scroll of honour, and a blazer with a tie shall be given along with all the Cash Awards",
             "The Awardees shall be invited to receive the awards in person. They shall be given T.A. and D.A. at the rate admissible to a Grade 'A' Officer"
         ],
@@ -44,7 +44,7 @@
             },
             {
                 "question": "How often is this Award presented, and what is the associated cash award?",
-                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of \u20b92,00,000/-."
+                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of ₹2,00,000/-."
             },
             {
                 "question": "Can the award be given posthumously?",
@@ -65,5 +65,6 @@
                 "url": "https://sports.odisha.gov.in/sites/default/files/2023-07/Application-Biju-Patnaik-Awards.pdf"
             }
         ]
-    }
+    },
+    "id": "000211"
 }

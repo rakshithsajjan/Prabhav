@@ -5,9 +5,9 @@
         "department": "Arts and Culture Department",
         "type": "Financial Assistance",
         "beneficiary": "Artists and Authors/Writers",
-        "details": "The 'Award of Puduvai Kalaimamani' scheme was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide prizes of \u20b950,000/- and 30 awards to artists or authors/writers in the fields of Literature, Music, Dance, Drama, Painting and Sculpture, and Folk arts. The applications are accepted offline in the prescribed form available at the Director of Art and Culture Department.",
+        "details": "The 'Award of Puduvai Kalaimamani' scheme was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide prizes of ₹50,000/- and 30 awards to artists or authors/writers in the fields of Literature, Music, Dance, Drama, Painting and Sculpture, and Folk arts. The applications are accepted offline in the prescribed form available at the Director of Art and Culture Department.",
         "benefits": [
-            "Financial Assistance of \u20b950,000/-",
+            "Financial Assistance of ₹50,000/-",
             "No. of Awards: 30"
         ],
         "eligibility": [
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the cash prize for the Puduvai Kalaimamani Award?",
-                "answer": "Each award carries a cash prize of \u20b950,000."
+                "answer": "Each award carries a cash prize of ₹50,000."
             },
             {
                 "question": "Are previous award recipients from other organizations eligible?",
@@ -97,5 +97,6 @@
             "Financial Assistance",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000153"
 }

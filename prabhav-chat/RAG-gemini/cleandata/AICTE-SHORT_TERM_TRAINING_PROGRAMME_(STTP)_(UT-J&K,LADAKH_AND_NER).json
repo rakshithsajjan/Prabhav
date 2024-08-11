@@ -7,7 +7,7 @@
         "beneficiary": "Faculty members in the field of technical education",
         "details": "Short Term Training Program (STTP) in North-Eastern Region (NER) and UTs of J&K and Ladakh intends to conduct faculty trainings through financial assistance from AICTE to enable faculty members in the field of technical education introspect learn techniques that can help prepare students for active and successful participants in a knowledge society. It is a residential programme of six days. The approved STTP shall be conducted within six months from the date of release of funds.",
         "benefits": [
-            "Funding to Institutions: \u20b95,00,000/- to the host University/Institution for conducting the training for the academic year.",
+            "Funding to Institutions: ₹5,00,000/- to the host University/Institution for conducting the training for the academic year.",
             "Disbursement of the Funds: The full amount of the grant sanctioned shall be released as advance to the University/Institution.",
             "Training to Teachers/Staffs: Faculty training in the field of technical education with various types including pedagogical training and subject-related training."
         ],
@@ -80,5 +80,6 @@
             "Financial Assistance",
             "Technical Education"
         ]
-    }
+    },
+    "id": "000018"
 }

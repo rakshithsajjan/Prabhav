@@ -7,15 +7,15 @@
         "beneficiary": "Persons with disabilities (PwDs)",
         "details": "The Mukhyamantri Vishesh Yogyajan Samman Pension Yojana (MVSYS) stands as a testament to the commitment of the Government of Rajasthan towards the welfare of its citizens, particularly those with disabilities. Launched in 2013 under the auspices of the Department of Social Justice and Empowerment, this visionary scheme aims to extend crucial financial assistance to persons with disabilities (PwDs) across the state. It operates as a lifeline for individuals grappling with various disabilities, ensuring their financial security and enabling them to lead dignified lives. By providing a pension to eligible beneficiaries, MVSYS not only addresses the economic challenges faced by PwDs but also emphasizes inclusivity and equal opportunities. Through its implementation, the scheme not just disperses funds but fosters a culture of empathy and support, reaffirming the government's commitment to uplifting marginalized communities. In essence, MVSYS embodies the principles of social justice and empowerment, serving as a beacon of hope and resilience for individuals with disabilities in Rajasthan.",
         "benefits": [
-            "\u20b91,000/- per Month for beneficiaries aged 75 years or less",
-            "\u20b91,250/- per Month for beneficiaries aged 75 years or more",
-            "\u20b92,500/- per Month for leprosy free patients",
-            "\u20b91,500/- per Month for silicosis disease patients"
+            "₹1,000/- per Month for beneficiaries aged 75 years or less",
+            "₹1,250/- per Month for beneficiaries aged 75 years or more",
+            "₹2,500/- per Month for leprosy free patients",
+            "₹1,500/- per Month for silicosis disease patients"
         ],
         "eligibility": [
             "Beneficiary must be permanent resident of Rajasthan State.",
             "The beneficiary must have any one of the following disabilities: 40% or more disability (blindness, shortsightedness, locomotor disability, leprosy free, hearing loss, mental retardation, mental illness, dwarfism, eunuch), Dwarfism with height less than 3 feet 6 inches, Suffering from Eunuchism, Cured leprosy or Silicosis disease.",
-            "Annual family income must not exceed \u20b960,000/-"
+            "Annual family income must not exceed ₹60,000/-"
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -43,11 +43,11 @@
             },
             {
                 "question": "Is there an income Criteria in this scheme?",
-                "answer": "The Annual Income of Beneficiary Family should not be more than \u20b960,000/-."
+                "answer": "The Annual Income of Beneficiary Family should not be more than ₹60,000/-."
             },
             {
                 "question": "Is there an application fee?",
-                "answer": "Fees for Chief Minister Specially Abled Samman Pension Scheme is \u20b933/-. Payment of fees can be done through E-Mitra."
+                "answer": "Fees for Chief Minister Specially Abled Samman Pension Scheme is ₹33/-. Payment of fees can be done through E-Mitra."
             },
             {
                 "question": "What is DBT?",
@@ -90,5 +90,6 @@
             "Old Age",
             "Pension"
         ]
-    }
+    },
+    "id": "001241"
 }

@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Grant",
         "beneficiary": "Construction Workers",
-        "details": "The 'Grant for the Purchase of Work Related Tools for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, The Board may sanction an amount of \u20b95,000/- as grant to the members of the Fund, for the purchase of work related tools once in 5 years.",
+        "details": "The 'Grant for the Purchase of Work Related Tools for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, The Board may sanction an amount of ₹5,000/- as grant to the members of the Fund, for the purchase of work related tools once in 5 years.",
         "benefits": [
-            "An amount of \u20b95,000/- as grant to the members of the Fund, for the purchase of work related tools once in 5 years."
+            "An amount of ₹5,000/- as grant to the members of the Fund, for the purchase of work related tools once in 5 years."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -69,5 +69,6 @@
             "Labour",
             "Work Tool"
         ]
-    }
+    },
+    "id": "000717"
 }

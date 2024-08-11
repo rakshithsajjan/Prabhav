@@ -5,9 +5,9 @@
         "department": "Director, Scheduled Caste Welfare",
         "type": "Subsidy",
         "beneficiary": "Scheduled Caste Students of 12th Standard",
-        "details": "The \u201cTablet Assistance to Scheduled Caste Students\u201d scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, tablets are provided to students in the 12th standard who belong to the Scheduled Caste (SC) category.",
+        "details": "The “Tablet Assistance to Scheduled Caste Students” scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, tablets are provided to students in the 12th standard who belong to the Scheduled Caste (SC) category.",
         "benefits": [
-            "Students in the 12th standard belonging to the Scheduled Caste category will receive a tablet by paying a token fee of \u20b91,000/-."
+            "Students in the 12th standard belonging to the Scheduled Caste category will receive a tablet by paying a token fee of ₹1,000/-."
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste of Gujarat.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "What are the benefits offered under the scheme?",
-                "answer": "Students in the 12th standard belonging to the Scheduled Caste category will receive a tablet by paying a token fee of \u20b91,000/-."
+                "answer": "Students in the 12th standard belonging to the Scheduled Caste category will receive a tablet by paying a token fee of ₹1,000/-."
             },
             {
                 "question": "What are the eligibility criteria for students to avail of the tablet assistance?",
@@ -80,5 +80,6 @@
             "Education",
             "Gujarat"
         ]
-    }
+    },
+    "id": "001916"
 }

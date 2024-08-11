@@ -5,9 +5,9 @@
         "department": "Directorate of Social Welfare and Social Education",
         "type": "Pension",
         "beneficiary": "Leprosy Patients",
-        "details": "Launched on 1st August 2015, the scheme 'Pension Scheme for Grade II Deformed Leprosy Patients' is a Pension Scheme by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme provides financial assistance of \u20b92,000/- per month to Leprosy Patients who are residents of Tripura. The applications are accepted offline.",
+        "details": "Launched on 1st August 2015, the scheme 'Pension Scheme for Grade II Deformed Leprosy Patients' is a Pension Scheme by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme provides financial assistance of ₹2,000/- per month to Leprosy Patients who are residents of Tripura. The applications are accepted offline.",
         "benefits": [
-            "Pension of \u20b92,000/- per month."
+            "Pension of ₹2,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
@@ -85,5 +85,6 @@
             "Financial Assistance",
             "Tripura"
         ]
-    }
+    },
+    "id": "001428"
 }

@@ -5,12 +5,12 @@
         "department": "Kerala Startup Mission",
         "type": "Soft Loan",
         "beneficiary": "Women Entrepreneurs",
-        "details": "The scheme \u201cSoft Loan Scheme for Women Entrepreneurs\u201d was started under Kerala Startup Mission (KSUM) to support women startups with a soft loan of an amount limited to \u20b915 Lakhs as working capital for implementing works and projects received from the Govt. departments and the Public Sector Undertakings in Kerala.",
+        "details": "The scheme “Soft Loan Scheme for Women Entrepreneurs” was started under Kerala Startup Mission (KSUM) to support women startups with a soft loan of an amount limited to ₹15 Lakhs as working capital for implementing works and projects received from the Govt. departments and the Public Sector Undertakings in Kerala.",
         "benefits": [
             "Soft Loan against Purchase order will be given to Women Entrepreneurs at the rate of 6% per annum on simple interest.",
             "The amount of the loan is limited to 80% of the Purchase order and disbursement is as an advance against the milestone payment agreed by the client.",
             "The repayment period of the loan is 1 year or completion of the project with full settlement whichever is earlier.",
-            "The maximum amount of loan outstanding will be \u20b915 lakhs."
+            "The maximum amount of loan outstanding will be ₹15 lakhs."
         ],
         "eligibility": [
             "The Startup should be approved by DPIIT and have the Unique ID issued by the Kerala Startup Mission.",
@@ -30,11 +30,11 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cSoft Loan Scheme for Women Entrepreneurs\u201d scheme?",
-                "answer": "Under the scheme, the support will be provided to women startups with a soft loan of an amount limited to \u20b915 Lakhs as working capital for implementing works and projects received from the Govt. departments and the Public Sector Undertakings in Kerala."
+                "question": "What is the “Soft Loan Scheme for Women Entrepreneurs” scheme?",
+                "answer": "Under the scheme, the support will be provided to women startups with a soft loan of an amount limited to ₹15 Lakhs as working capital for implementing works and projects received from the Govt. departments and the Public Sector Undertakings in Kerala."
             },
             {
-                "question": "What does \u201cWomen Entrepreneurs\u201d mean?",
+                "question": "What does “Women Entrepreneurs” mean?",
                 "answer": "Women entrepreneurs are defined as women or a group of women who initiate, organize, and operate a business enterprise."
             },
             {
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, a soft loan of an amount limited to \u20b915 Lakhs as working capital for implementing works and projects will be given to women startups."
+                "answer": "Under the scheme, a soft loan of an amount limited to ₹15 Lakhs as working capital for implementing works and projects will be given to women startups."
             },
             {
                 "question": "What is the rate of interest on the loan?",
@@ -95,5 +95,6 @@
             "Startup",
             "Woman"
         ]
-    }
+    },
+    "id": "001822"
 }

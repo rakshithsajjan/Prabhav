@@ -7,8 +7,8 @@
         "beneficiary": "NCC Cadets",
         "details": "The 'Award of Scholarships to Outstanding NCC Cadets of the UT of Puducherry' aims to recognize and support outstanding NCC cadets. The scheme offers scholarships to eligible candidates in various divisions: Senior Division Boys (Up to graduation), Senior Wing Girls, Junior Division Boys (Up to 12th Standard), and Junior Wing Girls.",
         "benefits": [
-            "Senior Division Cadets: \u20b9500 per month.",
-            "Junior Division Cadets: \u20b9250 per month.",
+            "Senior Division Cadets: ₹500 per month.",
+            "Junior Division Cadets: ₹250 per month.",
             "34 fresh scholarships are awarded every year."
         ],
         "eligibility": [
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What are the benefits offered under the scholarship for Senior Division Cadets?",
-                "answer": "Senior Division Cadets receive \u20b9500 per month as part of the scholarship."
+                "answer": "Senior Division Cadets receive ₹500 per month as part of the scholarship."
             },
             {
                 "question": "I am a Senior Wing Girl in the NCC. Can you explain the eligibility criteria for the scholarship in this category?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "Can I apply for multiple divisions within the scheme?",
-                "answer": "No, applicants can apply for only one division based on their eligibility \u2013 Senior Division Boys, Senior Wing Girls, Junior Division Boys, or Junior Wing Girls."
+                "answer": "No, applicants can apply for only one division based on their eligibility – Senior Division Boys, Senior Wing Girls, Junior Division Boys, or Junior Wing Girls."
             },
             {
                 "question": "What happens after I submit my application?",
@@ -101,5 +101,6 @@
             "Puducherry",
             "Education"
         ]
-    }
+    },
+    "id": "000156"
 }

@@ -5,14 +5,14 @@
         "department": "Director, Scheduled Caste Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Scheduled Caste (SC) students",
-        "details": "The \u201cFood Bill Assistance to SC Students\u201d scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, financial assistance is provided to the Scheduled Caste (SC) students who are admitted in college affiliated hostels for food bill. The students will be eligible for food bill assistance up to 10 months in a year.",
+        "details": "The “Food Bill Assistance to SC Students” scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, financial assistance is provided to the Scheduled Caste (SC) students who are admitted in college affiliated hostels for food bill. The students will be eligible for food bill assistance up to 10 months in a year.",
         "benefits": [
-            "The food bill assistance @ \u20b91,500/- per month (Up to 10 Months) will be granted to the Scheduled Caste (SC) students admitted in college affiliated hostels."
+            "The food bill assistance @ ₹1,500/- per month (Up to 10 Months) will be granted to the Scheduled Caste (SC) students admitted in college affiliated hostels."
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste of Gujarat.",
             "The students should reside in the hostel, affiliated to the college.",
-            "The annual family income of the student should be up to \u20b96 lakhs."
+            "The annual family income of the student should be up to ₹6 lakhs."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the financial assistance provided under the scheme?",
-                "answer": "The scheme offers food bill assistance at \u20b91,500 per month for up to 10 months in a year."
+                "answer": "The scheme offers food bill assistance at ₹1,500 per month for up to 10 months in a year."
             },
             {
                 "question": "Who is eligible for the food bill assistance?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "Is there any specific income criterion for eligibility?",
-                "answer": "Yes, the annual family income of the student should not exceed \u20b96 lakhs."
+                "answer": "Yes, the annual family income of the student should not exceed ₹6 lakhs."
             },
             {
                 "question": "How can eligible students apply for the scheme?",
@@ -95,5 +95,6 @@
             "Students",
             "Gujarat"
         ]
-    }
+    },
+    "id": "000627"
 }

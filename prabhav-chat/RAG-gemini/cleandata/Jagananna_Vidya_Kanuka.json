@@ -30,7 +30,7 @@
         ],
         "faqs": [
             {
-                "question": "Can I apply to this scheme if the annual income of my family (from all sources) is more than \u20b9 8,00,000?",
+                "question": "Can I apply to this scheme if the annual income of my family (from all sources) is more than ₹ 8,00,000?",
                 "answer": "There are no income-related criteria for this scheme. You can apply to this scheme irrespective of your family income, provided that you meet the eligibility criteria for this scheme."
             },
             {
@@ -86,5 +86,6 @@
             "Andhra Pradesh",
             "School Kits"
         ]
-    }
+    },
+    "id": "000928"
 }

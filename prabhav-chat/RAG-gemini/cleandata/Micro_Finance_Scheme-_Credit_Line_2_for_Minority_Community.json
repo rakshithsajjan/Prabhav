@@ -5,14 +5,14 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Members of Self-Help Groups (SHGs) from minority communities",
-        "details": "The scheme 'Micro Finance Scheme- Credit Line 2 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam to fulfill the requirement of small loans for the poor. Under the scheme, small loans of \u20b91,50,000/- per beneficiary are provided to members of Self-Help Groups (SHGs), either directly or through the SHGs. Applicants must be permanent residents of Haryana and belong to minority communities such as Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
+        "details": "The scheme 'Micro Finance Scheme- Credit Line 2 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam to fulfill the requirement of small loans for the poor. Under the scheme, small loans of ₹1,50,000/- per beneficiary are provided to members of Self-Help Groups (SHGs), either directly or through the SHGs. Applicants must be permanent residents of Haryana and belong to minority communities such as Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
         "benefits": [
-            "This scheme provides small loans of \u20b91,50,000/- per beneficiary to the members of Self-Help Groups (SHGs), either directly or through the SHGs."
+            "This scheme provides small loans of ₹1,50,000/- per beneficiary to the members of Self-Help Groups (SHGs), either directly or through the SHGs."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The age of the applicant should be between 18 and 55 years.",
-            "The annual family income of the applicant should be between \u20b998,001/- to \u20b98,00,000/- (Rural Area) and \u20b91,20,001/- to \u20b98,00,000/- (Urban Area).",
+            "The annual family income of the applicant should be between ₹98,001/- to ₹8,00,000/- (Rural Area) and ₹1,20,001/- to ₹8,00,000/- (Urban Area).",
             "The applicant should belong to a minority community, i.e., Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
             "In an SHG 75% of members can be from Minority Communities and the remaining 25% members may be from other weaker sections like SC/Handicapped/Minorities etc. in very exceptional cases, groups with up to 60% members belonging to Minority Communities will also be eligible.",
             "The applicant should have a Parivar Pehchan Patra (PPP ID)."
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the loan amount provided under this scheme?",
-                "answer": "The scheme provides small loans of \u20b91,50,000/- per beneficiary."
+                "answer": "The scheme provides small loans of ₹1,50,000/- per beneficiary."
             },
             {
                 "question": "What are the age criteria for applicants?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What should be the annual family income of the applicant?",
-                "answer": "For rural areas, the annual family income should be between \u20b998,001/- to \u20b98,00,000/-. For urban areas, it should be between \u20b91,20,001/- to \u20b98,00,000/-."
+                "answer": "For rural areas, the annual family income should be between ₹98,001/- to ₹8,00,000/-. For urban areas, it should be between ₹1,20,001/- to ₹8,00,000/-."
             },
             {
                 "question": "How many members of an SHG need to belong to minority communities?",
@@ -84,5 +84,6 @@
             "Minority Community",
             "SHG"
         ]
-    }
+    },
+    "id": "001139"
 }

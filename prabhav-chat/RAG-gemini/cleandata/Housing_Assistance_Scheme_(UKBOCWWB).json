@@ -5,15 +5,15 @@
         "department": "Labour Department, Government of Uttarakhand",
         "type": "Loan",
         "beneficiary": "Registered construction workers",
-        "details": "The scheme 'Housing Assistance Scheme' is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB). Under the scheme, an advance loan is provided to registered construction workers for the purchase or construction of a house, subject to the conditions specified by the Board. In order to get an advance loan, the worker must have been a member of the fund for five years and have at least 15 years remaining until reaching the age of superannuation/retirement.",
+        "details": "The scheme 'Housing Assistance Scheme' is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB). Under the scheme, an advance loan is provided to registered construction workers for the purchase or construction of a house, subject to the conditions specified by the Board. In order to get an advance loan, the worker must have been a member of the fund for five years and have at least 15 years remaining until reaching the age of superannuation/retirement.",
         "benefits": [
-            "Registered construction workers are eligible to receive an advance loan amount of up to \u20b950,000 for the purchase or construction of a house.",
+            "Registered construction workers are eligible to receive an advance loan amount of up to ₹50,000 for the purchase or construction of a house.",
             "Interest of at least 5% per annum is applicable on this loan."
         ],
         "eligibility": [
             "The applicant/beneficiary should be a resident of Uttarakhand.",
             "The applicant should be engaged in any building or construction work.",
-            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board.",
             "The applicant should have been a member of the fund for five years.",
             "The applicant should have at least 15 years remaining before reaching the age of superannuation/retirement."
         ],
@@ -34,7 +34,7 @@
         "faqs": [
             {
                 "question": "What are the benefits provided under this scheme?",
-                "answer": "Under the scheme, registered construction workers can receive an advance loan of up to \u20b950,000 for purchasing or constructing a house."
+                "answer": "Under the scheme, registered construction workers can receive an advance loan of up to ₹50,000 for purchasing or constructing a house."
             },
             {
                 "question": "Is there any interest applicable on the loan?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "Is there any registration fee for a new/renewal of Labour card?",
-                "answer": "Yes, a registration fee of \u20b9100/- is to be deposited by the construction worker for both the new and renewal of Labour card."
+                "answer": "Yes, a registration fee of ₹100/- is to be deposited by the construction worker for both the new and renewal of Labour card."
             }
         ],
         "sources": [
@@ -94,5 +94,6 @@
             "Labour",
             "Loan"
         ]
-    }
+    },
+    "id": "000788"
 }

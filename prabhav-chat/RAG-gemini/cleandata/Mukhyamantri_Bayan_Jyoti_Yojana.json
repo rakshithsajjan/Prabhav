@@ -8,14 +8,14 @@
         "details": "The Mukhyamantri Bayan Jyoti Yojana aims to provide necessary illumination for weaving activities, improve the health of weavers, and enhance productivity.",
         "benefits": [
             "Distribution of 20 watts tube lights free of cost.",
-            "Financial assistance of \u20b9 17,500 for purchasing inverters.",
+            "Financial assistance of ₹ 17,500 for purchasing inverters.",
             "Provision of a 35 watts fan to beneficiaries.",
-            "Interest-free loan of up to \u20b9 5000."
+            "Interest-free loan of up to ₹ 5000."
         ],
         "eligibility": [
             "Must be a bonafide weaver or full-time ancillary worker.",
             "Permanent resident of Odisha.",
-            "Family income must not exceed \u20b9 3,00,000 per annum.",
+            "Family income must not exceed ₹ 3,00,000 per annum.",
             "At least 50% of family income should be from weaving activities.",
             "Must not have availed similar benefits from any government agency.",
             "Must purchase the lighting unit from a GST-registered dealer.",
@@ -35,11 +35,11 @@
         "faqs": [
             {
                 "question": "Who are eligible for MBJY?",
-                "answer": "Must be a bonafide weaver or full-time ancillary worker, permanent resident of Odisha, with family income not exceeding \u20b9 3,00,000 per annum."
+                "answer": "Must be a bonafide weaver or full-time ancillary worker, permanent resident of Odisha, with family income not exceeding ₹ 3,00,000 per annum."
             },
             {
                 "question": "What are the benefits under MBJY?",
-                "answer": "Distribution of 20 watts tube lights, \u20b9 17,500 for inverters, provision of a 35 watts fan, and an interest-free loan of up to \u20b9 5000."
+                "answer": "Distribution of 20 watts tube lights, ₹ 17,500 for inverters, provision of a 35 watts fan, and an interest-free loan of up to ₹ 5000."
             },
             {
                 "question": "Can application be filled in online mode?",
@@ -62,5 +62,6 @@
             "Odisha",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001195"
 }

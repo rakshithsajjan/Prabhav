@@ -5,9 +5,9 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Labourers working in the organized sector",
-        "details": "The \u201cShramyogi Cycle Subsidy Scheme\u201d is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to provide a subsidy for the purchase of a bicycle to laborers working in the organized sector, enabling them to commute between their residence and workplace.",
+        "details": "The “Shramyogi Cycle Subsidy Scheme” is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to provide a subsidy for the purchase of a bicycle to laborers working in the organized sector, enabling them to commute between their residence and workplace.",
         "benefits": [
-            "Under the scheme, laborers will receive assistance of \u20b91,500/- as a subsidy towards the purchase of a bicycle."
+            "Under the scheme, laborers will receive assistance of ₹1,500/- as a subsidy towards the purchase of a bicycle."
         ],
         "eligibility": [
             "Labourers (Shramyogi) should be employed for the last one year in a factory/institute in the state of Gujarat.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Laborers eligible for the scheme can receive a subsidy of \u20b91,500/- towards the purchase of a bicycle."
+                "answer": "Laborers eligible for the scheme can receive a subsidy of ₹1,500/- towards the purchase of a bicycle."
             },
             {
                 "question": "Who is eligible to avail of the scheme benefits?",
@@ -86,5 +86,6 @@
             "Subsidy",
             "Worker"
         ]
-    }
+    },
+    "id": "001792"
 }

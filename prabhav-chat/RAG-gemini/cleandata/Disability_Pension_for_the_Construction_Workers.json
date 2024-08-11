@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Pension",
         "beneficiary": "Construction Workers",
-        "details": "The 'Disability Pension for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, disability pension of \u20b93000/- per month is provided to the permanently disabled members due to paralysis, leprosy, T.B and accidents etc.",
+        "details": "The 'Disability Pension for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, disability pension of ₹3000/- per month is provided to the permanently disabled members due to paralysis, leprosy, T.B and accidents etc.",
         "benefits": [
-            "\u20b93,000/- per month as disability pension to permanently disabled due to paralysis, leprosy, T.B., accident etc. available from the date of registration."
+            "₹3,000/- per month as disability pension to permanently disabled due to paralysis, leprosy, T.B., accident etc. available from the date of registration."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -67,5 +67,6 @@
             "Labour",
             "Pension"
         ]
-    }
+    },
+    "id": "000405"
 }

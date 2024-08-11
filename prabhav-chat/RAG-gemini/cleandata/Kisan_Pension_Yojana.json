@@ -7,7 +7,7 @@
         "beneficiary": "Elderly farmers",
         "details": "The Kisan Pension Yojana, implemented by the Department of Social Welfare of Uttarakhand, provides financial assistance in the form of monthly pension to eligible farmers. This scheme supports old age farmers, who owning up to 02 hectares of land and cultivate their own land and do not receive any other pension. This initiative to ensure financial security for the elderly farming community in Uttarakhand.",
         "benefits": [
-            "Monthly pension of \u20b91,200/- (one thousand two hundred)."
+            "Monthly pension of ₹1,200/- (one thousand two hundred)."
         ],
         "eligibility": [
             "The applicant must be a permanent resident of Uttarakhand.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What must farmers submit to get the benefit of the Kisan Pension Scheme?",
-                "answer": "Farmers must submit an affidavit on a stamp paper of \u20b910/- regarding their land."
+                "answer": "Farmers must submit an affidavit on a stamp paper of ₹10/- regarding their land."
             },
             {
                 "question": "Are there any conditions for receiving the pension under this scheme?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the monthly pension amount provided under the Kisan Pension Scheme?",
-                "answer": "The monthly pension amount is \u20b91200 (Rupees one thousand two hundred)."
+                "answer": "The monthly pension amount is ₹1200 (Rupees one thousand two hundred)."
             }
         ],
         "sources": [
@@ -73,5 +73,6 @@
             "Farmer",
             "Uttarakhand"
         ]
-    }
+    },
+    "id": "000985"
 }

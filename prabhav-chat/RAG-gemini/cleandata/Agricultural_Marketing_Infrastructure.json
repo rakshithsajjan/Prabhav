@@ -5,7 +5,7 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmer, Promoter",
-        "details": "The scheme envisages value addition and processing at farmers level so as to enhance their income by selling more marketable and processed produce in the market. For creation of Agricultural Marketing Infrastructure including scientific Storage capacity, the Ministry of Agriculture & Farmers Welfare, Govt. of India is implementing capital subsidy sub-scheme \u201cAgricultural Marketing Infrastructure (AMI)\u201d of Integrated Scheme for Agricultural Marketing (ISAM) across the country and is continued till 31.03.2026. Projects for creation of storage infrastructure (50-5000 MT for Private & Cooperatives and 50-10,000 MT for State agencies) and other marketing infrastructure projects (other than storage) are eligible for assistance under the scheme. AMI is an open ended, demand driven, credit linked, back ended subsidy scheme. Beneficiaries viz, Individuals, Agri-preneurs, farmers, FPOs, Cooperatives, and state agencies etc. are eligible for assistance. Under the scheme, the subsidy @ 25% for plain areas and 33.33% for NER, hilly area, Women/SC/ST promoters & FPOs etc is available for development of Agricultural Marketing Infrastructure Projects including storage infrastructure, Infrastructure for development/Upgradation of Rural Haats as Grameen Agricultural Market (GrAMs), Common Facilitation Centre for FPOs, Marketing infrastructures in market yards, Infrastructure for direct marketing, Mobile infrastructure for post-harvest operations including reefer vans, Stand-alone cold storages up to 1000 MTs, Integrated Value Chain (IVC) Projects up to primary processing stage etc.",
+        "details": "The scheme envisages value addition and processing at farmers level so as to enhance their income by selling more marketable and processed produce in the market. For creation of Agricultural Marketing Infrastructure including scientific Storage capacity, the Ministry of Agriculture & Farmers Welfare, Govt. of India is implementing capital subsidy sub-scheme “Agricultural Marketing Infrastructure (AMI)” of Integrated Scheme for Agricultural Marketing (ISAM) across the country and is continued till 31.03.2026. Projects for creation of storage infrastructure (50-5000 MT for Private & Cooperatives and 50-10,000 MT for State agencies) and other marketing infrastructure projects (other than storage) are eligible for assistance under the scheme. AMI is an open ended, demand driven, credit linked, back ended subsidy scheme. Beneficiaries viz, Individuals, Agri-preneurs, farmers, FPOs, Cooperatives, and state agencies etc. are eligible for assistance. Under the scheme, the subsidy @ 25% for plain areas and 33.33% for NER, hilly area, Women/SC/ST promoters & FPOs etc is available for development of Agricultural Marketing Infrastructure Projects including storage infrastructure, Infrastructure for development/Upgradation of Rural Haats as Grameen Agricultural Market (GrAMs), Common Facilitation Centre for FPOs, Marketing infrastructures in market yards, Infrastructure for direct marketing, Mobile infrastructure for post-harvest operations including reefer vans, Stand-alone cold storages up to 1000 MTs, Integrated Value Chain (IVC) Projects up to primary processing stage etc.",
         "benefits": [
             "Ensure remunerative prices to the farmers for their produce",
             "Alternative & competitive marketing channels",
@@ -26,7 +26,7 @@
             "Copy of the approved plan/ map and civil drawings clearly indicating the dimensions and capacity.",
             "Copy of the loan sanction letter of the FI along with copies of invoices for purchase of machinery/equipment of infrastructure project if any. Copy of Term Loan Account Statement of the borrower indicating all transactions including disbursement of first instalment of loan",
             "Copy of land documents where the project is going to be established.",
-            "FI\u2019s certificate on category of the Promoter. In case of SC/ST entrepreneur and Cooperative, certification by the Competent Authority should be obtained.",
+            "FI’s certificate on category of the Promoter. In case of SC/ST entrepreneur and Cooperative, certification by the Competent Authority should be obtained.",
             "Notarized Affidavit in Original executed by the promoter on a non-judicial stamp paper as per Annexure XV.",
             "Copy of duly registered partnership deed, if it is a partnership firm, Memorandum & Articles of Association and certificate of incorporation, in case of Private Limited Company etc."
         ],
@@ -72,11 +72,11 @@
                 "answer": "No."
             },
             {
-                "question": "What is the minimum promoter\u2019s contribution in the project?",
+                "question": "What is the minimum promoter’s contribution in the project?",
                 "answer": "20%."
             },
             {
-                "question": "Is local authorities\u2019 permission required for projects under AMI?",
+                "question": "Is local authorities’ permission required for projects under AMI?",
                 "answer": "Yes."
             },
             {
@@ -112,5 +112,6 @@
             "Subsidy",
             "Farmers"
         ]
-    }
+    },
+    "id": "000060"
 }

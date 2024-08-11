@@ -19,7 +19,7 @@
             "Hiring of limited additional staff for rendering various consular services",
             "Hiring vehicles on a need basis for visits to jails, police stations; detention centres; labour camps; welfare camps; shelters for distressed Indians; prisons; hospitals; morgues and to airports for deportation/repatriation of distressed Indian nationals.",
             "Hiring of local interpreters on a case-to-case basis for consular visits.",
-            "Design, publication, translation costs of pamphlets by Mission/Post about local labour laws, regulations, norms, dos & don\u2019ts, welfare measures pertaining to overseas employment in the host country.",
+            "Design, publication, translation costs of pamphlets by Mission/Post about local labour laws, regulations, norms, dos & don’ts, welfare measures pertaining to overseas employment in the host country.",
             "Organizing labour camps / consular camps for interacting with Indian migrant workers and informing them about issues related to overseas employment; labour laws; welfare and protection measures of the government.",
             "Setting up 24 x 7 toll-free helplines, walk-in resource centres for providing information, advise, guidance on problems faced by distressed Indian nationals; and helping them register their grievance with the Mission/Post.",
             "Development of e-Governance solutions, applications to address Consular/ welfare matters."
@@ -29,7 +29,7 @@
             "The applicant must be in a distress situation (as defined under scheme benefits)."
         ],
         "exclusions": [
-            "Persons of Indian Origin aren\u2019t covered under ICWF.",
+            "Persons of Indian Origin aren’t covered under ICWF.",
             "The 'Overseas Citizens of India (OCI) Card Holders' are not eligible for individual financial assistance from ICWF."
         ],
         "application_process": "The application process and the documents required for the compensation claims varies from nation to nation. The nation-wise detailed information can be found at the following link: https://www.mea.gov.in/images/pdf/compendium.pdf",
@@ -39,7 +39,7 @@
             "Insurance Number of the deceased",
             "Marriage Certificate (spouse) and Birth Certificate (of children)",
             "Original Passport of the deceased along with a photocopy",
-            "Power of attorney from next-of-kin in the name of Embassy or any individual residing in Austria whom the deceased\u2019s family would like to appoint.",
+            "Power of attorney from next-of-kin in the name of Embassy or any individual residing in Austria whom the deceased’s family would like to appoint.",
             "Legal Heir Certificate, to be obtained by the next-of-kin through the concerned Taluk/Thasildar or through the District Civil Court of the concerned area in India.",
             "Any other document that seem relevant depending upon the death case, such as police report (from the local police), medical report (from the hospital)",
             "NOC from other Heirs (in case of multiple heirs)"
@@ -63,7 +63,7 @@
             },
             {
                 "question": "Is a person from Indian origin but distressed in a foreign country eligible for assistance?",
-                "answer": "No, Persons of Indian Origin aren\u2019t covered under ICWF."
+                "answer": "No, Persons of Indian Origin aren’t covered under ICWF."
             },
             {
                 "question": "Does ICWF also provides support in emergency evacuation of Indian nationals?",
@@ -100,5 +100,6 @@
             "Student",
             "Welfare"
         ]
-    }
+    },
+    "id": "000831"
 }

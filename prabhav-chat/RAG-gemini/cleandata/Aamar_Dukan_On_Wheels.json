@@ -5,7 +5,7 @@
         "department": "Ministry of Electronics and Information Technology",
         "type": "Business",
         "beneficiary": "Educated unemployed youth",
-        "details": "The Government proposes to introduce a new module of 'Aamar Dukan' namely 'AAMAR DUKAN ON WHEELS' in the same line as the existing \u2018Aamar Dukan\u2019. Under the new module, 22 Non-PDS items (which may increase to 36) will be delivered to the doorstep of the consumer at below MRP with a minimum profit margin. Eco-friendly E-rickshaws will be used as the transportation mode under the Scheme. Through this scheme, Government plans to promote cashless transactions as the E-Rickshaws will have a GPS-enabled smart phone, and Bluetooth billing printer which will be connected to the smart phone.",
+        "details": "The Government proposes to introduce a new module of 'Aamar Dukan' namely 'AAMAR DUKAN ON WHEELS' in the same line as the existing ‘Aamar Dukan’. Under the new module, 22 Non-PDS items (which may increase to 36) will be delivered to the doorstep of the consumer at below MRP with a minimum profit margin. Eco-friendly E-rickshaws will be used as the transportation mode under the Scheme. Through this scheme, Government plans to promote cashless transactions as the E-Rickshaws will have a GPS-enabled smart phone, and Bluetooth billing printer which will be connected to the smart phone.",
         "benefits": [
             "The beneficiary will keep the commodities allotted by the Department in case of AAMAR DUKAN on wheels in addition to other commodities.",
             "The selected beneficiaries of AAMAR DUKAN on wheels is allowed to take a profit margin of Rs. 2.00 to Rs. 3.00 per Kg./Per litre from consumers.",
@@ -104,5 +104,6 @@
             "Startup",
             "Wheels"
         ]
-    }
+    },
+    "id": "000037"
 }

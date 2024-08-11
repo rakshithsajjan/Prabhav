@@ -5,9 +5,9 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Persons with Disabilities",
-        "details": "The scheme 'Small Industries Unit for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loan assistance of up to \u20b925 lakhs is provided to persons with disabilities for establishing small industrial units focused on manufacturing, fabrication, and production. Permanent residents of Haryana, aged 18 or older, with a disability of 40% or more, are eligible to avail the benefits under this scheme.",
+        "details": "The scheme 'Small Industries Unit for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loan assistance of up to ₹25 lakhs is provided to persons with disabilities for establishing small industrial units focused on manufacturing, fabrication, and production. Permanent residents of Haryana, aged 18 or older, with a disability of 40% or more, are eligible to avail the benefits under this scheme.",
         "benefits": [
-            "Loan assistance of up to \u20b925,00,000/- is provided to differently-abled persons for setting up manufacturing, fabrication, and production units."
+            "Loan assistance of up to ₹25,00,000/- is provided to differently-abled persons for setting up manufacturing, fabrication, and production units."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -29,7 +29,7 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount provided under this scheme?",
-                "answer": "The maximum loan amount provided is \u20b925 lakhs."
+                "answer": "The maximum loan amount provided is ₹25 lakhs."
             },
             {
                 "question": "What types of businesses are eligible for the loan assistance?",
@@ -80,5 +80,6 @@
             "PwD",
             "Small Unit"
         ]
-    }
+    },
+    "id": "001815"
 }

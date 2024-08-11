@@ -5,7 +5,7 @@
         "department": "Department of Social Welfare and Women Empowerment",
         "type": "Breakfast",
         "beneficiary": "Children",
-        "details": "The Tamil Nadu Chief Minister Breakfast Scheme by the Department of Social Welfare and Women Empowerment of the Tamil Nadu Government for School Students. Breakfast will be provided to primary school children from 1st to 5th standard studying in Government schools on all school working days. In the first phase, Corporations, Municipalities, and Panchayats were selected based on the high prevalence of Anemia as per NHFS-5 data, economically backward blocks as per SBGF, habitations of the Tribal population, and inaccessibility of the areas, which will be covered under this scheme. At present 1,14,095 primary school children studying in 1545 Government schools will be covered under the scheme a total cost of \u20b933.56 crores which will be extended to remaining schools in a phased manner.",
+        "details": "The Tamil Nadu Chief Minister Breakfast Scheme by the Department of Social Welfare and Women Empowerment of the Tamil Nadu Government for School Students. Breakfast will be provided to primary school children from 1st to 5th standard studying in Government schools on all school working days. In the first phase, Corporations, Municipalities, and Panchayats were selected based on the high prevalence of Anemia as per NHFS-5 data, economically backward blocks as per SBGF, habitations of the Tribal population, and inaccessibility of the areas, which will be covered under this scheme. At present 1,14,095 primary school children studying in 1545 Government schools will be covered under the scheme a total cost of ₹33.56 crores which will be extended to remaining schools in a phased manner.",
         "benefits": [
             "Free Breakfast will be provided to all Primary School Students.",
             "Breakfast has 13 Types of Food Items which will be distributed among Students.",
@@ -69,5 +69,6 @@
             "Primary School",
             "Student"
         ]
-    }
+    },
+    "id": "000277"
 }

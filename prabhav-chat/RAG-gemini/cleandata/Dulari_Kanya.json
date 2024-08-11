@@ -5,9 +5,9 @@
         "department": "Department of Health & Family Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Girl Child",
-        "details": "Announced on 15th August 2016 by the Hon\u2019ble Chief Minister of Arunachal Pradesh, \u201cDulari Kanya\u201d is a scheme for the girl child by the Directorate of Family Welfare, Department of Health & Family Welfare of the Govt. of Arunachal Pradesh. The objective of the scheme is to end the preference between male and female child, encouragement of institutional delivery, immunization of children, to end child marriage and overall empowerment of females in all spheres of their life. An amount of \u20b9 20,000/- shall be deposited in the fixed deposit Bank Account (Minor Account) of the girl child born in any Government Hospital or Government recognised private hospital. Maturity amount can be withdrawn by the beneficiary on attaining the age of 18 years, which would be subject to verification by the concerned DMO of the respective districts.",
+        "details": "Announced on 15th August 2016 by the Hon’ble Chief Minister of Arunachal Pradesh, “Dulari Kanya” is a scheme for the girl child by the Directorate of Family Welfare, Department of Health & Family Welfare of the Govt. of Arunachal Pradesh. The objective of the scheme is to end the preference between male and female child, encouragement of institutional delivery, immunization of children, to end child marriage and overall empowerment of females in all spheres of their life. An amount of ₹ 20,000/- shall be deposited in the fixed deposit Bank Account (Minor Account) of the girl child born in any Government Hospital or Government recognised private hospital. Maturity amount can be withdrawn by the beneficiary on attaining the age of 18 years, which would be subject to verification by the concerned DMO of the respective districts.",
         "benefits": [
-            "An amount of \u20b9 20,000/- shall be deposited in the fixed deposit Bank Account (Minor Account) of the girl child born in any Government Hospital or Government recognised private hospital.",
+            "An amount of ₹ 20,000/- shall be deposited in the fixed deposit Bank Account (Minor Account) of the girl child born in any Government Hospital or Government recognised private hospital.",
             "Maturity amount can be withdrawn by the beneficiary on attaining the age of 18 years, which would be subject to verification by the concerned DMO of the respective districts."
         ],
         "eligibility": [
@@ -31,8 +31,8 @@
         ],
         "faqs": [
             {
-                "question": "When Was The \u201cDulari Kanya\u201d Scheme Announced?",
-                "answer": "The scheme was announced on 15th August 2016 by the Hon\u2019ble Chief Minister of Arunachal Pradesh."
+                "question": "When Was The “Dulari Kanya” Scheme Announced?",
+                "answer": "The scheme was announced on 15th August 2016 by the Hon’ble Chief Minister of Arunachal Pradesh."
             },
             {
                 "question": "Which Documents Are Required To Be Submitted While Applying For The Scheme?",
@@ -106,5 +106,6 @@
             "Social Welfare",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000449"
 }

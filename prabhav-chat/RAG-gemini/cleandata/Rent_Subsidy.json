@@ -5,13 +5,13 @@
         "department": "Industries and Commerce Department",
         "type": "Subsidy",
         "beneficiary": "Scheduled Caste/Scheduled Tribe and Woman Entrepreneurs",
-        "details": "The 'Rent Subsidy' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Industries and Commerce Department, Union Territory of Puducherry. This scheme aims to support scheduled caste/scheduled tribe and woman entrepreneurs who have initiated production on or after 27-3-2002 in a rented building. It provides rent subsidy for the first five years from the commencement of commercial production on a tapering basis, with a maximum ceiling of \u20b95,000 per month, subject to specific conditions. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "The 'Rent Subsidy' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Industries and Commerce Department, Union Territory of Puducherry. This scheme aims to support scheduled caste/scheduled tribe and woman entrepreneurs who have initiated production on or after 27-3-2002 in a rented building. It provides rent subsidy for the first five years from the commencement of commercial production on a tapering basis, with a maximum ceiling of ₹5,000 per month, subject to specific conditions. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
             "Subsidy for the first five years from the date of commencement of commercial production on a tapering basis.",
             "For the First Two Years: 50% of the Rent.",
             "For the Third Year: 40% of the Rent.",
             "For the Fourth and Fifth Year: 25% of the Rent.",
-            "The subsidy is subject to a ceiling of \u20b95,000/- per month."
+            "The subsidy is subject to a ceiling of ₹5,000/- per month."
         ],
         "eligibility": [
             "The applicant should be an Entrepreneur.",
@@ -78,7 +78,7 @@
             },
             {
                 "question": "What is the maximum ceiling for the Rent Subsidy provided under this scheme?",
-                "answer": "The maximum ceiling for the Rent Subsidy is \u20b95,000 per month, subject to specific conditions."
+                "answer": "The maximum ceiling for the Rent Subsidy is ₹5,000 per month, subject to specific conditions."
             }
         ],
         "sources": [
@@ -105,5 +105,6 @@
             "Financial Assistance",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001595"
 }

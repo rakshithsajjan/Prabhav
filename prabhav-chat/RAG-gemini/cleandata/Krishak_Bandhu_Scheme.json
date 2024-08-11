@@ -5,16 +5,16 @@
         "department": "Department of Agriculture",
         "type": "Financial Assistance",
         "beneficiary": "Farmers",
-        "details": "The scheme 'Krishak Bandhu Scheme' is a flagship scheme of the government of West Bengal and was launched by the Department of Agriculture in 2019. The scheme caters to the farming community by means of assured continuous income and insurance coverage. Further, the scheme seeks to provide the farmers with financial assistance of \u20b910000 per year (\u20b95000 per acre in two installments). The financial support under the Scheme is payable in two equal installments, first during Kharif and second during the Rabi season each year.",
+        "details": "The scheme 'Krishak Bandhu Scheme' is a flagship scheme of the government of West Bengal and was launched by the Department of Agriculture in 2019. The scheme caters to the farming community by means of assured continuous income and insurance coverage. Further, the scheme seeks to provide the farmers with financial assistance of ₹10000 per year (₹5000 per acre in two installments). The financial support under the Scheme is payable in two equal installments, first during Kharif and second during the Rabi season each year.",
         "benefits": [
-            "An assured sum of \u20b910,000/- per acre per year for farmers with 1 acre or more cultivable land.",
-            "An assured sum of \u20b94,000/- per acre per year for farmers with less than 1 acre of cultivable land.",
-            "In the event of the death of a farmer/recorded Bhagchasi (Sharecropper) aged 18 - 60 years, the legal heirs will receive a one-time grant of \u20b92,00,000/-."
+            "An assured sum of ₹10,000/- per acre per year for farmers with 1 acre or more cultivable land.",
+            "An assured sum of ₹4,000/- per acre per year for farmers with less than 1 acre of cultivable land.",
+            "In the event of the death of a farmer/recorded Bhagchasi (Sharecropper) aged 18 - 60 years, the legal heirs will receive a one-time grant of ₹2,00,000/-."
         ],
         "eligibility": [
             "The applicant should be a resident of West Bengal.",
             "All farmers having cultivable land with RoR, Patta, or Forest Patta and recorded Bhagchasi (Share-cropper) are eligible for assistance.",
-            "In the event of the death of any farmer or a recorded Bhagchasi (Share Cropper) aged 18 \u2013 60 years, the legal heir of the deceased will be eligible for a one-time grant."
+            "In the event of the death of any farmer or a recorded Bhagchasi (Share Cropper) aged 18 – 60 years, the legal heir of the deceased will be eligible for a one-time grant."
         ],
         "exclusions": [],
         "application_process": "The application can be submitted both offline and online. Farmers must fill up and submit the application form in the Gram Panchayat where they have maximum land holding, along with relevant documents for verification.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "How much is the Extent of Assistance of 'Krishak Bandhu (Assured Income) Scheme'?",
-                "answer": "Maximum of \u20b9 10000/- and a minimum of \u20b9 4000/- per year (paid in two installments of 50% of the approved assistance)."
+                "answer": "Maximum of ₹ 10000/- and a minimum of ₹ 4000/- per year (paid in two installments of 50% of the approved assistance)."
             },
             {
                 "question": "What will be the Mode of Payment?",
@@ -69,5 +69,6 @@
             "Financial Assistance",
             "Income"
         ]
-    }
+    },
+    "id": "000990"
 }

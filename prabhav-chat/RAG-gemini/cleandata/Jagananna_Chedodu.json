@@ -5,13 +5,13 @@
         "department": "B.C. Welfare Department, Govt. of Andhra Pradesh",
         "type": "Financial Assistance",
         "beneficiary": "Tailors, Washermen, Barbers",
-        "details": "'Jagananna Chedodu' is a State-Funded Social Welfare Scheme by the B.C. Welfare Department, Govt. of Andhra Pradesh. The scheme is only for tailors (All communities), Rajakas (washermen), and Nayee Brahmins (Barbers) of the state. The beneficiary will be provided a one-time amount of \u20b9 10,000 per year for a period of 5 years i.e., \u20b9 50,000/- in five installments. This fund can be utilized by the beneficiaries for purchasing tools, equipment, and other essentials to grow their source of income and work establishment.",
+        "details": "'Jagananna Chedodu' is a State-Funded Social Welfare Scheme by the B.C. Welfare Department, Govt. of Andhra Pradesh. The scheme is only for tailors (All communities), Rajakas (washermen), and Nayee Brahmins (Barbers) of the state. The beneficiary will be provided a one-time amount of ₹ 10,000 per year for a period of 5 years i.e., ₹ 50,000/- in five installments. This fund can be utilized by the beneficiaries for purchasing tools, equipment, and other essentials to grow their source of income and work establishment.",
         "benefits": [
-            "The beneficiary will be provided a one-time amount of \u20b9 10,000 per year for a period of 5 years i.e., \u20b9 50,000/- in five installments.",
+            "The beneficiary will be provided a one-time amount of ₹ 10,000 per year for a period of 5 years i.e., ₹ 50,000/- in five installments.",
             "This fund can be utilized by the beneficiaries for purchasing tools, equipment, and other essentials to grow their source of income and work establishment."
         ],
         "eligibility": [
-            "The total family annual income should be less than or equal to \u20b9 2,50,000.",
+            "The total family annual income should be less than or equal to ₹ 2,50,000.",
             "The Total Family Land holding of the applicant should be wetland below 10 acres/ dry land below 25 acres/ or wetland and dry land under 25 acres.",
             "No family member should be a government employee or Government pensioner. The families of Sanitary workers are exempted.",
             "The students must have availed admission in the colleges/universities or institutes recognized in one of the following (regular) courses - B.Tech, B.Pharmacy, ITI, Polytechnic, B.Ed, M.Tech, M.Pharmacy, MBA, Other Degree/PG Courses. * For PG Courses only Government/University Colleges are eligible.",
@@ -28,7 +28,7 @@
             "The scheme is not applicable to students studying through distance learning and correspondence courses.",
             "This scheme is not applicable to the student belonging to management and NRI quotas."
         ],
-        "application_process": "Online. Step 1: On Citizen Schemes Portal landing page, the citizen can log in using the Aadhaar-tagged mobile OTP Authentication. In the 'Citizen Scheme Application' page, citizens can select 'Jagananna Chedodu' from the schemes dropdown and click on 'Submit'. Step 2: Applications submitted are forwarded to Welfare and Education Assistant (WEA) /Ward Welfare and Development Secretary (WWDS). Step 3: The Volunteers / WEAs / WWDS conducts the field verification for each application, takes eKYC, makes a relevant recommendation, and forwards it to Mandal Parishad Development Officer (MPDO) / Municipal Commissioner (MC). Step 4: The MPDO/MC reviews the application and makes relevant recommendations and forwards the application to the Executive Directors of the Backward Classes Welfare Department (ED BC). Step 5: The Executive Director of the Backward Classes Corporations (ED BCs) verifies the application and makes relevant recommendations. Step 6: Based on recommendations made by the ED BCs and the applicants\u2019 eligibility as mentioned in the Scheme Eligibility Calculator, the Social Audit lists namely the Provisional eligible list and Reverification list (with reasons for ineligibility) are published in all secretariats. Step 7: The citizens in the Reverification list can raise a grievance if they think that the reason mentioned for ineligibility is incorrect. Step 8: The final list of Eligible and Ineligible Beneficiaries is published in all secretariats. Step 9: The citizens mentioned in the Final Ineligible list can raise a grievance in Citizen Schemes Portal if he/she thinks that the reason for rejection is incorrect. Step 10: The scheme benefit is disbursed to all eligible beneficiaries through Aadhaar Enabled Payment System (AEPS). The acknowledgment of receipt of the payment by the beneficiary is done by the Volunteers / WEAs / WWDS using eKYC (Biometric Authentication). Step 11: The beneficiaries can track the status of their payment on the Citizen Schemes Portal landing page by clicking on 'Track Application Status'.",
+        "application_process": "Online. Step 1: On Citizen Schemes Portal landing page, the citizen can log in using the Aadhaar-tagged mobile OTP Authentication. In the 'Citizen Scheme Application' page, citizens can select 'Jagananna Chedodu' from the schemes dropdown and click on 'Submit'. Step 2: Applications submitted are forwarded to Welfare and Education Assistant (WEA) /Ward Welfare and Development Secretary (WWDS). Step 3: The Volunteers / WEAs / WWDS conducts the field verification for each application, takes eKYC, makes a relevant recommendation, and forwards it to Mandal Parishad Development Officer (MPDO) / Municipal Commissioner (MC). Step 4: The MPDO/MC reviews the application and makes relevant recommendations and forwards the application to the Executive Directors of the Backward Classes Welfare Department (ED BC). Step 5: The Executive Director of the Backward Classes Corporations (ED BCs) verifies the application and makes relevant recommendations. Step 6: Based on recommendations made by the ED BCs and the applicants’ eligibility as mentioned in the Scheme Eligibility Calculator, the Social Audit lists namely the Provisional eligible list and Reverification list (with reasons for ineligibility) are published in all secretariats. Step 7: The citizens in the Reverification list can raise a grievance if they think that the reason mentioned for ineligibility is incorrect. Step 8: The final list of Eligible and Ineligible Beneficiaries is published in all secretariats. Step 9: The citizens mentioned in the Final Ineligible list can raise a grievance in Citizen Schemes Portal if he/she thinks that the reason for rejection is incorrect. Step 10: The scheme benefit is disbursed to all eligible beneficiaries through Aadhaar Enabled Payment System (AEPS). The acknowledgment of receipt of the payment by the beneficiary is done by the Volunteers / WEAs / WWDS using eKYC (Biometric Authentication). Step 11: The beneficiaries can track the status of their payment on the Citizen Schemes Portal landing page by clicking on 'Track Application Status'.",
         "documents_required": [
             "Aadhaar Card",
             "Rice Card / Income certificate",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That A Beneficiary Can Receive Through This Scheme?",
-                "answer": "The beneficiary will be provided a one-time amount of \u20b9 10,000 per year for a period of 5 years."
+                "answer": "The beneficiary will be provided a one-time amount of ₹ 10,000 per year for a period of 5 years."
             },
             {
                 "question": "Will The Financial Assistance Be Paid In Installments Or As A Lump Sum?",
@@ -75,8 +75,8 @@
                 "answer": "The Standard Operating Procedure (SOP) can be found at - https://gsws-nbm.ap.gov.in/NBM/image/Jagananna%20Chedodu.pdf"
             },
             {
-                "question": "Will I Be Eligible To Apply If The Total Annual Income Of My Family Is \u20b9 4,50,000?",
-                "answer": "No, in order to be eligible for this scheme, the total family annual income should be less than or equal to \u20b9 2,50,000."
+                "question": "Will I Be Eligible To Apply If The Total Annual Income Of My Family Is ₹ 4,50,000?",
+                "answer": "No, in order to be eligible for this scheme, the total family annual income should be less than or equal to ₹ 2,50,000."
             },
             {
                 "question": "Can An Individual Apply To This Scheme If One Of His/Her Family Members Is A Government Pensioner?",
@@ -104,7 +104,7 @@
             },
             {
                 "question": "What Documents Are Needed For Applying To This Scheme?",
-                "answer": "The following documents are needed for applying to this scheme - \u2022 Aadhaar Card \u2022 Rice Card / Income certificate \u2022 College admission particulars \u2022 Parents details \u2022 Declaration of No Government Employee / Pensioner \u2022 Non-taxpayer declaration / No Four-Wheeler / No Urban Property beyond 1500 Square feet / No agriculture land beyond the prescribed limit."
+                "answer": "The following documents are needed for applying to this scheme - • Aadhaar Card • Rice Card / Income certificate • College admission particulars • Parents details • Declaration of No Government Employee / Pensioner • Non-taxpayer declaration / No Four-Wheeler / No Urban Property beyond 1500 Square feet / No agriculture land beyond the prescribed limit."
             }
         ],
         "sources": [
@@ -131,5 +131,6 @@
             "Andhra Pradesh",
             "Jagananna Chedodu"
         ]
-    }
+    },
+    "id": "000925"
 }

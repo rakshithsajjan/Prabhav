@@ -7,13 +7,13 @@
         "beneficiary": "Destitute Women",
         "details": "The scheme 'The Andaman & Nicobar Islands Allowance to Destitute Women Scheme' is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to the poorest and destitute women in the Andaman and Nicobar Islands.",
         "benefits": [
-            "The quantum of Allowance to Destitute Women shall be \u20b92500/- per month subject to eligibility.",
+            "The quantum of Allowance to Destitute Women shall be ₹2500/- per month subject to eligibility.",
             "Payment of allowance shall be made through Bank Account on a monthly basis."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of the Union Territory of Andaman and Nicobar Islands or have resided in the Union Territory of Andaman and Nicobar Islands for more than 10 years at the time of making the application.",
             "The applicant should be a poor and destitute woman.",
-            "The household income of the applicant does not exceed \u20b94000/- per month.",
+            "The household income of the applicant does not exceed ₹4000/- per month.",
             "The applicant should not be availing of any kind of assistance or pension from the government."
         ],
         "exclusions": [],
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "How much financial assistance does the scheme provide?",
-                "answer": "The scheme provides a monthly allowance of \u20b92500/- per month to eligible beneficiaries."
+                "answer": "The scheme provides a monthly allowance of ₹2500/- per month to eligible beneficiaries."
             },
             {
                 "question": "How is the allowance disbursed?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How is the income eligibility determined for this scheme?",
-                "answer": "The household income of the applicant should not exceed \u20b94000/- per month to meet the eligibility criteria."
+                "answer": "The household income of the applicant should not exceed ₹4000/- per month to meet the eligibility criteria."
             },
             {
                 "question": "Can applicants receiving government assistance or pension still apply for the scheme?",
@@ -85,5 +85,6 @@
             "Financial Assistance",
             "Women"
         ]
-    }
+    },
+    "id": "001945"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Safai Karmakar Gambhir Bimari Chikitsa Sahayata Yojana' for unorganized worker on 28 April 2012. The main objective of the scheme to provide the financial assistance for medical treatment.",
         "benefits": [
-            "Registered unorganized workers who are suffering from serious illness will be provided medical assistance of \u20b9 50,000/- for their treatment.",
+            "Registered unorganized workers who are suffering from serious illness will be provided medical assistance of ₹ 50,000/- for their treatment.",
             "Serious diseases will include kidney, cancer, sickle cell anemia, heart disease, AIDS and paralysis."
         ],
         "eligibility": [
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Registered unorganized workers will be provided medical assistance of \u20b9 50,000/- for their treatment."
+                "answer": "Registered unorganized workers will be provided medical assistance of ₹ 50,000/- for their treatment."
             },
             {
                 "question": "Who can get the benefits?",
@@ -82,5 +82,6 @@
             "Medical Treatment",
             "Serious Illness"
         ]
-    }
+    },
+    "id": "001629"
 }

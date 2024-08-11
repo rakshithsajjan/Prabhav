@@ -7,7 +7,7 @@
         "beneficiary": "School Teachers",
         "details": "Sastraposhini is a programme envisaged by the Kerala State Council for Science, Technology and Environment (KSCSTE) for strengthening science education in schools of Kerala. Under the programme, model science laboratories are established in selected Government high schools of the State to provide a better learning environment. The programme was launched by KSCSTE in association with the Department of Education, Government of Kerala in the year 2003. So far, KSCSTE has successfully established more than 200 science laboratories throughout Kerala. Presently, KSCSTE has decided to implement the scheme only in government high schools of Kerala.",
         "benefits": [
-            "A total of \u20b98 lakhs is spent to establish Sastraposhini laboratories (Physics, Chemistry, and Biology) in one school with a fair share from KSCSTE.",
+            "A total of ₹8 lakhs is spent to establish Sastraposhini laboratories (Physics, Chemistry, and Biology) in one school with a fair share from KSCSTE.",
             "Training will be provided to selected teachers from Sastraposhini schools by eminent scholars/ academicians from different disciplines.",
             "Laboratory manuals and visual experimental aids and models will be provided to the selected schools.",
             "Training programme for teachers: Two teachers each in Physics, Chemistry, and Biology from Sastraposhini schools are invited to participate in a training programme. The trained teachers will be in charge of each laboratory."
@@ -29,7 +29,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cSastraposhini\u201d?",
+                "question": "What is the “Sastraposhini”?",
                 "answer": "Sastraposhini is a programme envisaged by the Kerala State Council for Science, Technology and Environment (KSCSTE) for strengthening science education in schools of Kerala."
             },
             {
@@ -54,7 +54,7 @@
             },
             {
                 "question": "How much amount to be spent to establish Sastraposhini laboratories in a school?",
-                "answer": "A total of \u20b98 lakhs is spent to establish Sastraposhini laboratories (Physics, Chemistry, and Biology) in one school."
+                "answer": "A total of ₹8 lakhs is spent to establish Sastraposhini laboratories (Physics, Chemistry, and Biology) in one school."
             },
             {
                 "question": "Which subject teachers are eligible for training under the programme?",
@@ -114,5 +114,6 @@
             "Laboratory",
             "Teacher Training"
         ]
-    }
+    },
+    "id": "001650"
 }

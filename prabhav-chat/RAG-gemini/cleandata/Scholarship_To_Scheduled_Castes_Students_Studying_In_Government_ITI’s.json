@@ -1,14 +1,14 @@
 {
     "content": {
-        "title": "Scholarship To Scheduled Castes Students Studying In Government ITI\u2019s",
+        "title": "Scholarship To Scheduled Castes Students Studying In Government ITI’s",
         "state": "Haryana",
         "department": "Department of Welfare of Scheduled Castes & Backward Classes, Government of Haryana",
         "type": "Scholarship",
         "beneficiary": "Scheduled Castes students studying in Government ITI's",
-        "details": "The scheme 'Scholarship to Scheduled Castes Students Studying in Government ITI\u2019s' was launched by the Department of Welfare of Scheduled Castes & Backward Classes, Government of Haryana in the year 2017-18. This scheme is implemented through Skill Development and Industrial Training Department, Haryana. The funds will be provided by this department to Skill Development and Industrial Training Department, Haryana according to their requirement. The objective of the scheme is to promote the interest of skill development training in Scheduled Castes youths and to enable them for self-employment and get jobs in Private & Government Sectors. The scheme is 100% funded by the State Government of Haryana.",
+        "details": "The scheme 'Scholarship to Scheduled Castes Students Studying in Government ITI’s' was launched by the Department of Welfare of Scheduled Castes & Backward Classes, Government of Haryana in the year 2017-18. This scheme is implemented through Skill Development and Industrial Training Department, Haryana. The funds will be provided by this department to Skill Development and Industrial Training Department, Haryana according to their requirement. The objective of the scheme is to promote the interest of skill development training in Scheduled Castes youths and to enable them for self-employment and get jobs in Private & Government Sectors. The scheme is 100% funded by the State Government of Haryana.",
         "benefits": [
-            "The scholarship of \u20b9200/- per month will be given to the student of Scheduled Caste in each academic year.",
-            "Under the scheme, \u20b915/- per month as tuition fee will be reimbursed."
+            "The scholarship of ₹200/- per month will be given to the student of Scheduled Caste in each academic year.",
+            "Under the scheme, ₹15/- per month as tuition fee will be reimbursed."
         ],
         "eligibility": [
             "The Scholarship will be given to all Scheduled Castes students who are studying in Government ITI's situated in Haryana State.",
@@ -21,7 +21,7 @@
         "application_process": "The eligible students should contact to their Head/Principal of ITI's in which they are studying and collect the application form for the scholarship. Fill in all necessary details in the application form. The completely filled application form along with all the necessary attachments should be submitted to concerned receiving authority in their institute. After successful verification, the students shall be eligible to get the benefits of the scheme.",
         "documents_required": [
             "Aadhaar Card Copy",
-            "Applicant\u2019s Photograph",
+            "Applicant’s Photograph",
             "Applicant's Signature",
             "Income Certificate",
             "Haryana Domicile Certificate",
@@ -54,11 +54,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The scholarship of \u20b9200/- per month will be given to the student of Scheduled Caste in each academic year."
+                "answer": "The scholarship of ₹200/- per month will be given to the student of Scheduled Caste in each academic year."
             },
             {
                 "question": "How much will the tuition fee be reimbursed under the scheme?",
-                "answer": "Under the scheme, \u20b915/- per month as tuition fee will be reimbursed."
+                "answer": "Under the scheme, ₹15/- per month as tuition fee will be reimbursed."
             },
             {
                 "question": "Who is eligible to get the benefits of the scheme?",
@@ -110,5 +110,6 @@
             "Skill Development",
             "Students"
         ]
-    }
+    },
+    "id": "001754"
 }

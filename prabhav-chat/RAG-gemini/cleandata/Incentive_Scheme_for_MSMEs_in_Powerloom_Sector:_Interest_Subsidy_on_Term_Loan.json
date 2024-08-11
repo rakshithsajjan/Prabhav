@@ -9,7 +9,7 @@
         "benefits": [
             "55% of interest liability for Micro & Small Enterprises in Zone A & B for 5 years",
             "70% of interest liability for Micro & Small Enterprises in Zone C, D & E for 5 years",
-            "25% of total Term Loan interest paid by Medium Enterprises in Zone B, C, D & E for 5 years, subject to a ceiling of \u20b9 1,75,00,000/- per year"
+            "25% of total Term Loan interest paid by Medium Enterprises in Zone B, C, D & E for 5 years, subject to a ceiling of ₹ 1,75,00,000/- per year"
         ],
         "eligibility": [
             "Applicable to all micro, small, and medium enterprises (MSMEs) in the powerloom sector",
@@ -73,5 +73,6 @@
             "Subsidy",
             "Term Loan"
         ]
-    }
+    },
+    "id": "000813"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Handlooms & Textiles",
         "type": "Financial Assistance",
         "beneficiary": "Weaver families",
-        "details": "Being implemented since December 2019, the scheme 'YSR Nethanna Nestham' is a Financial Assistance Scheme by the Department of Handlooms & Textiles, Government of Andhra Pradesh. The objective of the scheme is to help the Weavers to modernize their equipment and compete with the products from the powerloom sector, \u20b9 24,000/- will be provided to every Weaver family who owns a Handloom. The scheme is applicable to all Handloom Weavers who are actually engaged in Handloom Weaving and eking their livelihood from Weaving, and who are present in the Departmental Data Base.",
+        "details": "Being implemented since December 2019, the scheme 'YSR Nethanna Nestham' is a Financial Assistance Scheme by the Department of Handlooms & Textiles, Government of Andhra Pradesh. The objective of the scheme is to help the Weavers to modernize their equipment and compete with the products from the powerloom sector, ₹ 24,000/- will be provided to every Weaver family who owns a Handloom. The scheme is applicable to all Handloom Weavers who are actually engaged in Handloom Weaving and eking their livelihood from Weaving, and who are present in the Departmental Data Base.",
         "benefits": [
-            "Financial Assistance of \u20b9 24,000/- will be provided to every Weaver family who owns a Handloom in order to help the Weavers modernize their equipment and compete with the products from the powerloom sector."
+            "Financial Assistance of ₹ 24,000/- will be provided to every Weaver family who owns a Handloom in order to help the Weavers modernize their equipment and compete with the products from the powerloom sector."
         ],
         "eligibility": [
             "The applicant should be a resident/domicile of the state of Andhra Pradesh.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That A Weaver Family Can Receive Through This Scheme?",
-                "answer": "\u20b9 24,000/- will be provided to every Weaver family who owns a Handloom."
+                "answer": "₹ 24,000/- will be provided to every Weaver family who owns a Handloom."
             },
             {
                 "question": "Which Department Manages This Scheme?",
@@ -123,5 +123,6 @@
             "Machine Upgradation",
             "Weaver"
         ]
-    }
+    },
+    "id": "002069"
 }

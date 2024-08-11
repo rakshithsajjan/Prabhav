@@ -15,7 +15,7 @@
         ],
         "eligibility": [
             "The applicant should be a female.",
-            "The applicant's annual income should not exceed \u20b9 72,000/- (not applicable for differently abled).",
+            "The applicant's annual income should not exceed ₹ 72,000/- (not applicable for differently abled).",
             "The age of the applicant should be between 14 to 45 years.",
             "The applicant should qualify as one of the following: Widow, Destitute Woman, Deserted Woman, Adolescent Girl, Differently Abled Woman, Woman from Socially and Economically Backward Sections."
         ],
@@ -98,5 +98,6 @@
             "Home",
             "Women"
         ]
-    }
+    },
+    "id": "000701"
 }

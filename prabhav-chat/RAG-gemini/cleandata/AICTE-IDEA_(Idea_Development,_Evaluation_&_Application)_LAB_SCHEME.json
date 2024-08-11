@@ -7,7 +7,7 @@
         "beneficiary": "Engineering College And University",
         "details": "AICTE has decided to establish IDEA (Idea Development, Evaluation & Application) Lab in AICTE approved institutions, encouraging students for application of science, technology engineering and mathematics (STEM) fundamentals towards enhanced hands-on experience, learning by doing and even product visualization. As a common facility embedded in the institution, the IDEA Lab will make engineering graduates more imaginative and creative, besides getting basic training in the 21st century skills like- critical thinking, problem solving, design thinking, collaboration, communication, lifelong learning etc.",
         "benefits": [
-            "Financial Assistance of up to \u20b9 55,00,000/-",
+            "Financial Assistance of up to ₹ 55,00,000/-",
             "Training to Faculties and Students on creative thinking, problem solving, collaboration, etc.",
             "Opportunities for hands-on training and workshops"
         ],
@@ -64,5 +64,6 @@
             "STEM",
             "Innovation"
         ]
-    }
+    },
+    "id": "000009"
 }

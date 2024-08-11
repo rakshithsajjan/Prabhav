@@ -5,10 +5,10 @@
         "department": "Department of Social Welfare",
         "type": "Grant",
         "beneficiary": "NGOs running residential homes for children, aged, and vulnerable persons",
-        "details": "The scheme 'Grant-in-Aid to Non-governmental Organisations Running Residential Homes for the Children, Aged, and Vulnerable Persons Under Social Defence' was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, NGOs are paid \u20b9 500/- per month per inmate for 12 months. Financial assistance is released in two equal installments and is limited to 90% of the grant-in-aid. The NGO bears 10% of the grant-in-aid.",
+        "details": "The scheme 'Grant-in-Aid to Non-governmental Organisations Running Residential Homes for the Children, Aged, and Vulnerable Persons Under Social Defence' was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, NGOs are paid ₹ 500/- per month per inmate for 12 months. Financial assistance is released in two equal installments and is limited to 90% of the grant-in-aid. The NGO bears 10% of the grant-in-aid.",
         "benefits": [
             "Grant-in-Aid for consolidated expenses of all recurring items, e.g., food, clothing, soap, oil, electricity and water charges, postage, stationery, education, vocational training, health, recreation, salary of staff, rent etc.",
-            "\u20b9 500 per inmate/per month for 12 months, restricted to 90% of the estimated cost whichever is less."
+            "₹ 500 per inmate/per month for 12 months, restricted to 90% of the estimated cost whichever is less."
         ],
         "eligibility": [
             "The NGO should be running residential Homes for orphans, destitute and street children, aged and infirm, physically and mentally disabled persons.",
@@ -62,7 +62,7 @@
             },
             {
                 "question": "What expenses are covered under the Grant-in-Aid scheme?",
-                "answer": "The grant covers consolidated expenses like food, clothing, education, health, and staff salaries at \u20b9500 per inmate per month for 12 months, restricted to 90% of the estimated cost."
+                "answer": "The grant covers consolidated expenses like food, clothing, education, health, and staff salaries at ₹500 per inmate per month for 12 months, restricted to 90% of the estimated cost."
             },
             {
                 "question": "Where do I submit my application for the scheme?",
@@ -96,5 +96,6 @@
             "Aged",
             "Vulnerable Persons"
         ]
-    }
+    },
+    "id": "000707"
 }

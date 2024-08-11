@@ -5,9 +5,9 @@
         "department": "Department of Fisheries",
         "type": "Grant",
         "beneficiary": "Fisheries co-operative societies/associations",
-        "details": "Financial Assistance for Registered Fishermen Society is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies, having more than 25 members, will be eligible for financial assistance to the extent of \u20b950,000 as a grant-in-aid. The applications are accepted only in offline mode.",
+        "details": "Financial Assistance for Registered Fishermen Society is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies, having more than 25 members, will be eligible for financial assistance to the extent of ₹50,000 as a grant-in-aid. The applications are accepted only in offline mode.",
         "benefits": [
-            "Financial assistance to the extent of \u20b950,000 as a grant-in-aid."
+            "Financial assistance to the extent of ₹50,000 as a grant-in-aid."
         ],
         "eligibility": [
             "The applicant should be fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies.",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "How much financial assistance is provided under the scheme, and who is eligible?",
-                "answer": "\u20b950,000 is granted as financial assistance to fisheries co-operative societies/associations registered with more than 25 members."
+                "answer": "₹50,000 is granted as financial assistance to fisheries co-operative societies/associations registered with more than 25 members."
             }
         ],
         "sources": [
@@ -69,5 +69,6 @@
             "Grant",
             "Society"
         ]
-    }
+    },
+    "id": "000573"
 }

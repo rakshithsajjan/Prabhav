@@ -7,10 +7,10 @@
         "beneficiary": "Individuals and institutions serving the cause of differently abled persons",
         "details": "The scheme 'State Award for the Welfare of the Handicapped' was launched by the Department of Social Welfare, Government of Puducherry. In this scheme, the individuals and institutions are conferred awards on 3rd December every year (International Day for Differently Abled) to encourage them to become economically productive to serve the cause of differently abled Persons.",
         "benefits": [
-            "Outstanding Differently Abled Government / Private Employee: \u20b9 10,000/-",
-            "Outstanding Differently Abled Self-employed Persons: \u20b9 10,000/-",
-            "Individual Serving for the Cause of the Differently Abled: \u20b9 15,000/-",
-            "Institutions Serving the Cause of the Differently Abled: \u20b9 25,000/- (Subject to Financial Selection by the State-level Committee)",
+            "Outstanding Differently Abled Government / Private Employee: ₹ 10,000/-",
+            "Outstanding Differently Abled Self-employed Persons: ₹ 10,000/-",
+            "Individual Serving for the Cause of the Differently Abled: ₹ 15,000/-",
+            "Institutions Serving the Cause of the Differently Abled: ₹ 25,000/- (Subject to Financial Selection by the State-level Committee)",
             "Government Employer: Citation With Shield",
             "Private Employer: Citation With Shield"
         ],
@@ -37,7 +37,7 @@
             },
             {
                 "question": "Can an individual serve the cause of the differently-abled in any capacity to qualify for the award?",
-                "answer": "Yes, individuals contributing to the cause in any capacity can qualify for the \u20b915,000 award."
+                "answer": "Yes, individuals contributing to the cause in any capacity can qualify for the ₹15,000 award."
             },
             {
                 "question": "Who administers the 'State Award for the Welfare of the Handicapped' scheme?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "Is financial selection involved for institutions receiving awards?",
-                "answer": "Yes, institutions are subject to financial selection by the State-level Committee to receive the \u20b925,000 award."
+                "answer": "Yes, institutions are subject to financial selection by the State-level Committee to receive the ₹25,000 award."
             },
             {
                 "question": "What is the required disability percentage for applicants?",
@@ -73,11 +73,11 @@
             },
             {
                 "question": "What is the reward for individuals serving the cause of differently-abled persons?",
-                "answer": "Individuals serving the cause receive \u20b915,000 under this scheme."
+                "answer": "Individuals serving the cause receive ₹15,000 under this scheme."
             },
             {
                 "question": "What are the benefits for outstanding differently-abled government or private employees?",
-                "answer": "Outstanding differently-abled government/private employees receive \u20b910,000 as recognition under this scheme."
+                "answer": "Outstanding differently-abled government/private employees receive ₹10,000 as recognition under this scheme."
             }
         ],
         "sources": [
@@ -117,5 +117,6 @@
             "Social Welfare",
             "Awards"
         ]
-    }
+    },
+    "id": "001843"
 }

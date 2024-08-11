@@ -7,7 +7,7 @@
         "beneficiary": "Female workers in factories/organizations in Gujarat",
         "details": "The 'Marriage Assistance Scheme' was launched by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to female workers who are working in a factory/organization in the state of Gujarat after their marriage.",
         "benefits": [
-            "Female workers will be entitled to receive \u20b911,000/- after their marriage."
+            "Female workers will be entitled to receive ₹11,000/- after their marriage."
         ],
         "eligibility": [
             "Only those women workers who are working in the factory/organization in the state of Gujarat and the Labour Welfare Fund of the concerned woman worker is paid by the organization at the office, will be eligible to get the benefit of this scheme.",
@@ -34,7 +34,7 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Female workers are entitled to receive \u20b911,000/- after their marriage under the scheme."
+                "answer": "Female workers are entitled to receive ₹11,000/- after their marriage under the scheme."
             },
             {
                 "question": "Who is eligible to receive benefits under the scheme?",
@@ -74,5 +74,6 @@
             "Marriage",
             "Organized Worker"
         ]
-    }
+    },
+    "id": "001087"
 }

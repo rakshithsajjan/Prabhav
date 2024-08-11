@@ -1,18 +1,18 @@
 {
     "content": {
-        "title": "SAHAKAR MITRA: NCDC\u2019s Scheme on Internship Programme",
+        "title": "SAHAKAR MITRA: NCDC’s Scheme on Internship Programme",
         "state": "National",
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Internship",
         "beneficiary": "Professional graduates",
-        "details": "The 'SAHAKAR MITRA Scheme on Internship Programme (SIP)' was introduced by the National Cooperative Development Corporation (NCDC) in the year 2012-13 with an objective to provide work-related learning experience in the core and special fields of functioning of NCDC to students of professional courses and to project contribution and achievements of NCDC in the development of cooperatives. The scheme was expanded to cover different states by offering SIP to students (in 2nd year of MBA Agri-Business) from State Agricultural Universities in the states where NCDC\u2019s Regional Offices are located. Interns have gained valuable knowledge and experience in the cooperative sector over the years. Under the programme, NCDC will provide short-term (not exceeding four months) opportunities to young professionals to acquire learning experience by applying skills and knowledge in an organizational context to facilitate professional development.",
+        "details": "The 'SAHAKAR MITRA Scheme on Internship Programme (SIP)' was introduced by the National Cooperative Development Corporation (NCDC) in the year 2012-13 with an objective to provide work-related learning experience in the core and special fields of functioning of NCDC to students of professional courses and to project contribution and achievements of NCDC in the development of cooperatives. The scheme was expanded to cover different states by offering SIP to students (in 2nd year of MBA Agri-Business) from State Agricultural Universities in the states where NCDC’s Regional Offices are located. Interns have gained valuable knowledge and experience in the cooperative sector over the years. Under the programme, NCDC will provide short-term (not exceeding four months) opportunities to young professionals to acquire learning experience by applying skills and knowledge in an organizational context to facilitate professional development.",
         "benefits": [
-            "Consolidated monthly amount of \u20b910,000/- for 4 months towards partly meeting out-of-pocket expenses (Total: \u20b940,000/-)",
-            "Expenses related to report preparation (lumpsum amount towards data collection, analysis, and preparation of a report) (Total: \u20b95,000/-)",
-            "Total financial support provided by NCDC during the SIP is \u20b945,000/-"
+            "Consolidated monthly amount of ₹10,000/- for 4 months towards partly meeting out-of-pocket expenses (Total: ₹40,000/-)",
+            "Expenses related to report preparation (lumpsum amount towards data collection, analysis, and preparation of a report) (Total: ₹5,000/-)",
+            "Total financial support provided by NCDC during the SIP is ₹45,000/-"
         ],
         "eligibility": [
-            "Professional graduates with minimum qualification as Bachelor\u2019s degree in Agri/ Dairy/ Animal Husbandry/ Veterinary Sciences/ Fisheries/Horticulture/ Textiles/ Handloom / IT duly recommended by the Head of the Department of the UGC / AICTE / ICAR recognized Universities / Institutions as applicable.",
+            "Professional graduates with minimum qualification as Bachelor’s degree in Agri/ Dairy/ Animal Husbandry/ Veterinary Sciences/ Fisheries/Horticulture/ Textiles/ Handloom / IT duly recommended by the Head of the Department of the UGC / AICTE / ICAR recognized Universities / Institutions as applicable.",
             "Professionals (pursuing or completed) MBA Agri Business / MBA Coop / M.Com / MCA / MBA Finance / MBA International Trade/MBA Forestry/MBA Rural Dev / MBA Project Management / Inter ICAI / Inter ICWA qualification duly recommended by the Head of the Department of the UGC / AICTE / ICAR recognized Universities / Institutions as applicable.",
             "A person cannot be taken as an intern more than once."
         ],
@@ -49,11 +49,11 @@
             },
             {
                 "question": "Is the financial support meant to cover only out-of-pocket expenses?",
-                "answer": "Yes, the consolidated monthly amount of \u20b910,000/- is intended to partly cover the interns' out-of-pocket expenses during the four-month SIP."
+                "answer": "Yes, the consolidated monthly amount of ₹10,000/- is intended to partly cover the interns' out-of-pocket expenses during the four-month SIP."
             },
             {
                 "question": "What is the total financial support offered by NCDC during the SIP?",
-                "answer": "The total financial support provided by NCDC to interns during the SIP is \u20b945,000/-, inclusive of the consolidated monthly amount and expenses related to report preparation."
+                "answer": "The total financial support provided by NCDC to interns during the SIP is ₹45,000/-, inclusive of the consolidated monthly amount and expenses related to report preparation."
             },
             {
                 "question": "Where will the interns be placed?",
@@ -92,5 +92,6 @@
             "Professional Development",
             "Cooperatives"
         ]
-    }
+    },
+    "id": "001610"
 }

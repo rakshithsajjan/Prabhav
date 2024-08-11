@@ -5,15 +5,15 @@
         "department": "Department of Social Justice",
         "type": "Financial Assistance",
         "beneficiary": "Differently Abled Women",
-        "details": "The scheme 'Marriage Assistance to Differently Abled Women (Parinayam-II)' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, the Government of Kerala is providing marriage assistance of \u20b930,000/- to differently-abled girls who have completed 18 years of age for their marriage.",
+        "details": "The scheme 'Marriage Assistance to Differently Abled Women (Parinayam-II)' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, the Government of Kerala is providing marriage assistance of ₹30,000/- to differently-abled girls who have completed 18 years of age for their marriage.",
         "benefits": [
-            "A one-time assistance of \u20b930,000/- is provided to the eligible beneficiaries."
+            "A one-time assistance of ₹30,000/- is provided to the eligible beneficiaries."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Kerala.",
             "The parents of differently abled girls or differently abled girls should be eligible to apply under the scheme.",
             "The girl who intends to be married should have completed 18 years of age.",
-            "The combined annual family income should not exceed \u20b91,00,000/-."
+            "The combined annual family income should not exceed ₹1,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Online and Offline. To avail of the benefits of the scheme, the applicant needs to visit SUNEETHI- Online Service Application Portal.",
@@ -27,14 +27,14 @@
             "Attested copy of Ration card",
             "Applicant's Marriage Certificate/Marriage Confirmation Details",
             "Copy of Family Income certificate",
-            "Fianc\u00e9's Affidavit",
+            "Fiancé's Affidavit",
             "Bank details- Copy of Pass Book",
             "Other documents, if any"
         ],
         "faqs": [
             {
                 "question": "What is the 'Marriage Assistance to Differently Abled Women (Parinayam-II)' Scheme?",
-                "answer": "Under the scheme, the government of Kerala is providing marriage assistance of \u20b930,000/- to differently-abled girls who have completed 18 years of age for their marriage."
+                "answer": "Under the scheme, the government of Kerala is providing marriage assistance of ₹30,000/- to differently-abled girls who have completed 18 years of age for their marriage."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -58,11 +58,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, a one-time assistance of \u20b930,000/- is provided to the eligible beneficiaries."
+                "answer": "Under the scheme, a one-time assistance of ₹30,000/- is provided to the eligible beneficiaries."
             },
             {
                 "question": "Is there any criterion for annual family income?",
-                "answer": "The combined annual family income should not exceed \u20b91,00,000/-."
+                "answer": "The combined annual family income should not exceed ₹1,00,000/-."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -96,5 +96,6 @@
             "Financial Assistance",
             "Differently Abled Women"
         ]
-    }
+    },
+    "id": "001089"
 }

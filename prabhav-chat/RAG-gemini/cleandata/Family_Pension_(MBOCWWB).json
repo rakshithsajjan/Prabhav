@@ -8,7 +8,7 @@
         "details": "The scheme 'Family Pension' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, in the event of the death of a pensioner who was receiving a pension from the Board, a family pension shall be given to the surviving spouse by the Board.",
         "benefits": [
             "In the event of the death of the pensioner, a family pension shall be given to the surviving spouse.",
-            "The amount of pension will be 50% of the pension received by the pensioner or \u20b9100/- whichever is higher."
+            "The amount of pension will be 50% of the pension received by the pensioner or ₹100/- whichever is higher."
         ],
         "eligibility": [
             "The beneficiary should be a resident of Meghalaya.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "How is the amount of family pension determined?",
-                "answer": "The family pension is calculated as 50% of the pension received by the deceased pensioner or \u20b9100, whichever is higher."
+                "answer": "The family pension is calculated as 50% of the pension received by the deceased pensioner or ₹100, whichever is higher."
             },
             {
                 "question": "Are there any specific eligibility criteria for the surviving spouse?",
@@ -81,5 +81,6 @@
             "Labour",
             "Pension"
         ]
-    }
+    },
+    "id": "000505"
 }

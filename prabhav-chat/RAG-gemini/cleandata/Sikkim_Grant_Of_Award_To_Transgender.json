@@ -7,9 +7,9 @@
         "beneficiary": "Transgender",
         "details": "The scheme 'Sikkim Grant of Award To Transgender (SGATT)' was launched in 2013 by the Department of Women & Child Welfare, Govt. of Sikkim. Under this scheme, the state government provides financial assistance to transgender belonging to a household of the Below Poverty Line category. The scheme helps the transgender who has no regular source of income, no financial support from family members, and is non-recipient of any other pension from the State Government/Central Government or any other sources.",
         "benefits": [
-            "A monthly amount of \u20b9 12000/- to the transgender of the age group of 0-6 years.",
+            "A monthly amount of ₹ 12000/- to the transgender of the age group of 0-6 years.",
             "100% free education up to graduation level.",
-            "A monthly amount of \u20b9 500/- is to be given, if remained unemployed after possessing the required educational or technical qualification."
+            "A monthly amount of ₹ 500/- is to be given, if remained unemployed after possessing the required educational or technical qualification."
         ],
         "eligibility": [
             "The applicant should be a resident of the state of Sikkim.",
@@ -21,7 +21,7 @@
         "exclusions": [],
         "application_process": "Offline and Online. The applicant has to approach their concerned Gram Panchayat /Municipality / Municipal Corporation office. Consult with the designated authority about the applying procedure and the local department office for this scheme. Collect the application form, fill in all the mandatory fields, attach all the (self-attested) mandatory documents, and submit it to the designated receiving authority.",
         "documents_required": [
-            "Recent passport size photographs \u2013 3 Number",
+            "Recent passport size photographs – 3 Number",
             "Attested photocopy of Sikkim Subject Certificate / Certificate of Identification as the case may be i.e. Income certificate, Caste certificate.",
             "Attested photocopy of Below Poverty Line Certificate.",
             "Birth Certificate or Electoral photo Identity Card or any other valid document having recorded the date as proof of age.",
@@ -32,7 +32,7 @@
         "faqs": [
             {
                 "question": "What is the benefit given to the transgender if remained unemployed after possessing the required educational or technical qualification?",
-                "answer": "A sum of \u20b9 500/- per month will be provided as financial assistance if the transgender remained unemployed after possessing the required educational or technical qualification."
+                "answer": "A sum of ₹ 500/- per month will be provided as financial assistance if the transgender remained unemployed after possessing the required educational or technical qualification."
             },
             {
                 "question": "Who can avail of the benefits of the scheme?",
@@ -88,5 +88,6 @@
             "Free Education",
             "Transgender"
         ]
-    }
+    },
+    "id": "001800"
 }

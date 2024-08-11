@@ -7,8 +7,8 @@
         "beneficiary": "Building Workers, Construction Workers",
         "details": "The scheme 'Disability Pension' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board shall provide financial assistance in the form of a disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc. Additionally, the worker will be eligible for an ex-gratia payment based on the percentage of disability and subject to conditions as may fixed by the Board.",
         "benefits": [
-            "The financial assistance of \u20b9150/- per month as disability pension shall be given to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc.",
-            "In addition to this pension, the worker will also be eligible for an ex-gratia payment of not more than \u20b95,000/- depending upon the percentage of disability and subject to such conditions as may fixed by the Board."
+            "The financial assistance of ₹150/- per month as disability pension shall be given to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc.",
+            "In addition to this pension, the worker will also be eligible for an ex-gratia payment of not more than ₹5,000/- depending upon the percentage of disability and subject to such conditions as may fixed by the Board."
         ],
         "eligibility": [
             "The beneficiary should be a resident of Meghalaya.",
@@ -42,11 +42,11 @@
             },
             {
                 "question": "How much is the monthly disability pension?",
-                "answer": "The monthly disability pension provided under the scheme is \u20b9150/-."
+                "answer": "The monthly disability pension provided under the scheme is ₹150/-."
             },
             {
                 "question": "How is the ex-gratia payment determined?",
-                "answer": "The ex-gratia payment, which can be up to \u20b95,000/-, depends on the percentage of disability and is subject to conditions established by the Board."
+                "answer": "The ex-gratia payment, which can be up to ₹5,000/-, depends on the percentage of disability and is subject to conditions established by the Board."
             },
             {
                 "question": "Can a beneficiary receive both the disability pension and the ex-gratia payment?",
@@ -108,5 +108,6 @@
             "Labour",
             "Pension"
         ]
-    }
+    },
+    "id": "000402"
 }

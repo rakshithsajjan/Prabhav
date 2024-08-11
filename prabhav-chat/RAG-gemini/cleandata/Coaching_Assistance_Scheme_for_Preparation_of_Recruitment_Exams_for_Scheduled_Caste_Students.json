@@ -5,9 +5,9 @@
         "department": "Department of Social Justice & Empowerment",
         "type": "Financial Assistance",
         "beneficiary": "Scheduled Caste Students",
-        "details": "The scheme 'Coaching Assistance Scheme for Preparation of Recruitment Exams for Scheduled Caste Students' was launched by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was launched during the year 2017-18. Under the scheme, financial assistance is provided to Students of the Scheduled Castes category who are preparing for all State Government and Central Government Recruitment Examinations of Class\u2013 1, 2 & 3 conducted by UPSC/GPSC/State Commission/Bank/LIC/Subordinate Services Selection Board/District Panchayat Selection Board.",
+        "details": "The scheme 'Coaching Assistance Scheme for Preparation of Recruitment Exams for Scheduled Caste Students' was launched by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was launched during the year 2017-18. Under the scheme, financial assistance is provided to Students of the Scheduled Castes category who are preparing for all State Government and Central Government Recruitment Examinations of Class– 1, 2 & 3 conducted by UPSC/GPSC/State Commission/Bank/LIC/Subordinate Services Selection Board/District Panchayat Selection Board.",
         "benefits": [
-            "Under this scheme, \u20b920,000/- or the actual fee to be paid, whichever is less.",
+            "Under this scheme, ₹20,000/- or the actual fee to be paid, whichever is less.",
             "The assistance amount is directly credited to the student's bank account through DBT (Direct Benefit Transfer)."
         ],
         "eligibility": [
@@ -41,7 +41,7 @@
         "faqs": [
             {
                 "question": "What are the benefits provided under this scheme?",
-                "answer": "Under this scheme, eligible students can receive financial assistance of up to \u20b920,000 or the actual fee, whichever is less. The amount is directly credited to the student's bank account through DBT."
+                "answer": "Under this scheme, eligible students can receive financial assistance of up to ₹20,000 or the actual fee, whichever is less. The amount is directly credited to the student's bank account through DBT."
             },
             {
                 "question": "Who is eligible to apply for this scheme as a student?",
@@ -65,7 +65,7 @@
             },
             {
                 "question": "Can students preparing for specific types of exams avail this scheme?",
-                "answer": "Yes, students preparing for all State Government and Central Government Recruitment Examinations of Class\u2013 1, 2 & 3 conducted by UPSC/GPSC/State Commission/ Bank/ LIC/Subordinate Services Selection Board/District Panchayat Selection Board can avail this scheme."
+                "answer": "Yes, students preparing for all State Government and Central Government Recruitment Examinations of Class– 1, 2 & 3 conducted by UPSC/GPSC/State Commission/ Bank/ LIC/Subordinate Services Selection Board/District Panchayat Selection Board can avail this scheme."
             },
             {
                 "question": "Can students from other states apply for this scheme?",
@@ -98,5 +98,6 @@
                 "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/35_4_11022022.pdf"
             }
         ]
-    }
+    },
+    "id": "000314"
 }

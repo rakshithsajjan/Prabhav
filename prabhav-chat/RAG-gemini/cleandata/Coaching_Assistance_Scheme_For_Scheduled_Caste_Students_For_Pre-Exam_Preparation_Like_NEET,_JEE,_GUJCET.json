@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste Students",
         "details": "The scheme 'Coaching Assistance Scheme for Scheduled Caste Students for Pre-Exam Preparation like NEET, JEE, GUJCET' was launched by the Government of Gujarat during the year 2014-15 to provide coaching assistance to the students of the Scheduled Caste category who are preparing for exams like NEET, JEE, GUJCET. The scheme is being implemented for the development of Scheduled Castes of Gujarat State by the Director, of Scheduled Caste Welfare.",
         "benefits": [
-            "Under this scheme, \u20b920000/- or the actual fee to be paid whichever is less.",
+            "Under this scheme, ₹20000/- or the actual fee to be paid whichever is less.",
             "The assistance amount is directly credited to the student's bank account through DBT (Direct Benefit Transfer)."
         ],
         "eligibility": [
@@ -36,7 +36,7 @@
         "faqs": [
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, \u20b920000/- or the actual fee, whichever is less, is to be paid by the state government who are preparing for exams like NEET, JEE, and GUJCET."
+                "answer": "Under this scheme, ₹20000/- or the actual fee, whichever is less, is to be paid by the state government who are preparing for exams like NEET, JEE, and GUJCET."
             },
             {
                 "question": "How to get the benefit of the student school scheme?",
@@ -98,5 +98,6 @@
             "Scheduled Caste",
             "Students"
         ]
-    }
+    },
+    "id": "000313"
 }

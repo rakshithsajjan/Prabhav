@@ -5,15 +5,15 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Women Workers or Daughters of Workers",
-        "details": "The scheme 'Financial Assistance in Marriage of Women Workers or Daughters of Workers' is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. Under this scheme, financial assistance of \u20b951,000/- is provided to the workers employed in the industrial and commercial establishments of the state of Haryana for the marriage of their daughters and for the self-marriage of the working women workers as Kanyadaan. From 23.02.2015, the benefit of the said scheme is being extended from 02 girls to 03 girls for marriage and from 15.01.2019, the amount of kanyadaan will be provided three days before the date of solemnization of marriage. With the implementation of this scheme, the girl child will not be considered a burden in society and the boy-girl discrimination will also be reduced to some extent. This assistance will have no effect on the financial assistance received by the workers from other sources.",
+        "details": "The scheme 'Financial Assistance in Marriage of Women Workers or Daughters of Workers' is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. Under this scheme, financial assistance of ₹51,000/- is provided to the workers employed in the industrial and commercial establishments of the state of Haryana for the marriage of their daughters and for the self-marriage of the working women workers as Kanyadaan. From 23.02.2015, the benefit of the said scheme is being extended from 02 girls to 03 girls for marriage and from 15.01.2019, the amount of kanyadaan will be provided three days before the date of solemnization of marriage. With the implementation of this scheme, the girl child will not be considered a burden in society and the boy-girl discrimination will also be reduced to some extent. This assistance will have no effect on the financial assistance received by the workers from other sources.",
         "benefits": [
-            "Financial assistance of \u20b951,000/- for the marriage of daughters",
-            "Financial assistance of \u20b951,000/- for self-marriage of women workers"
+            "Financial assistance of ₹51,000/- for the marriage of daughters",
+            "Financial assistance of ₹51,000/- for self-marriage of women workers"
         ],
         "eligibility": [
             "The applicant should be employed in an industrial or commercial establishment in Haryana.",
             "The applicant should be registered with the Haryana Labour Welfare Board.",
-            "The monthly salary of the applicant should not exceed \u20b925,000/-.",
+            "The monthly salary of the applicant should not exceed ₹25,000/-.",
             "The applicant must have a minimum of three years of regular membership of the Board till the Marriage date.",
             "The applicant should apply within six months after the marriage date.",
             "The benefits are provided to workers for the marriage of up to three daughters and for the self-marriage of female workers."
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "A financial assistance of \u20b951,000/- is provided to eligible workers."
+                "answer": "A financial assistance of ₹51,000/- is provided to eligible workers."
             },
             {
                 "question": "Who is eligible to avail of the benefits under this scheme?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "Is there a maximum monthly salary limit for eligibility?",
-                "answer": "Yes, the monthly salary of the applicant should not exceed \u20b925,000/-."
+                "answer": "Yes, the monthly salary of the applicant should not exceed ₹25,000/-."
             },
             {
                 "question": "How long should a worker be a member of the Board to be eligible?",
@@ -110,5 +110,6 @@
             "Women Workers",
             "Haryana"
         ]
-    }
+    },
+    "id": "000585"
 }

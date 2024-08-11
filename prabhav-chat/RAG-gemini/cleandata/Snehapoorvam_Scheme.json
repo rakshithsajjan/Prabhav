@@ -5,19 +5,19 @@
         "department": "Social Welfare Department",
         "type": "Financial Assistance",
         "beneficiary": "Orphans",
-        "details": "Kerala Government has launched a noble initiative \u201cSnehapoorvam Scheme\u201d to provide financial assistance to orphans who are living in the family, with their relatives, friends, or the support of the community under the Social Welfare Department implemented through Social Security Mission. The mission has initiated this scheme that aims at bringing these children to the mainstream of society.",
+        "details": "Kerala Government has launched a noble initiative “Snehapoorvam Scheme” to provide financial assistance to orphans who are living in the family, with their relatives, friends, or the support of the community under the Social Welfare Department implemented through Social Security Mission. The mission has initiated this scheme that aims at bringing these children to the mainstream of society.",
         "benefits": [
-            "\u20b9300/- per month for Children below 5 years and Class I to V",
-            "\u20b9500/- per month for Class VI to Class X",
-            "\u20b9750/- per month for Class XI and Class XII",
-            "\u20b91000/- per month for Degree Courses / Professional Degree"
+            "₹300/- per month for Children below 5 years and Class I to V",
+            "₹500/- per month for Class VI to Class X",
+            "₹750/- per month for Class XI and Class XII",
+            "₹1000/- per month for Degree Courses / Professional Degree"
         ],
         "eligibility": [
             "The applicant should be a resident of Kerala State.",
             "The child who has lost either father or mother or both.",
             "The applicant should belong to Below Poverty Line (BPL) category.",
             "The students from the first standard to degree classes are eligible to apply under the scheme.",
-            "For children belonging to Above Poverty Line (APL) category, annual income should be below \u20b9 20,000 in rural areas and \u20b922,375 in urban areas."
+            "For children belonging to Above Poverty Line (APL) category, annual income should be below ₹ 20,000 in rural areas and ₹22,375 in urban areas."
         ],
         "exclusions": [],
         "application_process": "Offline. To avail of the benefits of the scheme, the application form duly filled and necessary documents should be submitted to the head of Aided/Govt. institutions (Schools and Colleges) before 31st October of every year.",
@@ -33,8 +33,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cSnehapoorvam Scheme\u201d?",
-                "answer": "Kerala Government has launched \u201cSnehapoorvam Scheme\u201d to provide financial assistance to orphans who are living in the family, with their relatives, friends, or the support of the community under the Social Welfare Department implemented through Social Security Mission."
+                "question": "What is the “Snehapoorvam Scheme”?",
+                "answer": "Kerala Government has launched “Snehapoorvam Scheme” to provide financial assistance to orphans who are living in the family, with their relatives, friends, or the support of the community under the Social Welfare Department implemented through Social Security Mission."
             },
             {
                 "question": "What is the objective of the scheme?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance is provided to the eligible applicant- Children below 5 years and Class I to V @ \u20b9300/- per month, for Class VI to Class X @ \u20b9500/- per month, for Class XI and class XII @ \u20b9750/- per month and for degree courses / professional degree @ \u20b91000/- per month."
+                "answer": "Under the scheme, financial assistance is provided to the eligible applicant- Children below 5 years and Class I to V @ ₹300/- per month, for Class VI to Class X @ ₹500/- per month, for Class XI and class XII @ ₹750/- per month and for degree courses / professional degree @ ₹1000/- per month."
             },
             {
                 "question": "Who is eligible to get the benefits under the scheme?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the income criterion to avail of the benefits of the scheme?",
-                "answer": "For children belonging to the APL category, annual income should be below \u20b920,000 in rural areas and \u20b922,375 in urban areas."
+                "answer": "For children belonging to the APL category, annual income should be below ₹20,000 in rural areas and ₹22,375 in urban areas."
             },
             {
                 "question": "Is this scheme for both BPL and APL category children?",
@@ -100,5 +100,6 @@
             "School",
             "Student"
         ]
-    }
+    },
+    "id": "001818"
 }

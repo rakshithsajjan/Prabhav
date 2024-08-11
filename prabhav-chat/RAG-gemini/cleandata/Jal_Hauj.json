@@ -7,7 +7,7 @@
         "beneficiary": "Farmers",
         "details": "A Jal Hauj scheme under the Agriculture Department of Rajasthan Provides the benefit of subsidy on Jal Hauj. According to this scheme, farmers have to construct a Jal Hauj on the elevated part of their land. Which can be filled with borewell water overnight and in the morning crops can be irrigated with the water collected in the Hauj. The department is providing financial assistance to the farmers. After filling the Jal Hauj with water, farmers can easily irrigate their crops through the pipeline.",
         "benefits": [
-            "Grant for all farmers: 60% of the cost or max \u20b990,000/-"
+            "Grant for all farmers: 60% of the cost or max ₹90,000/-"
         ],
         "eligibility": [
             "The applicant must be a native of Rajasthan.",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What will be the maximum amount covered under 60%?",
-                "answer": "Maximum amount covered under will be \u20b990,000/-."
+                "answer": "Maximum amount covered under will be ₹90,000/-."
             },
             {
                 "question": "What is the official website for registration and apply?",
@@ -86,5 +86,6 @@
             "Jal Hauj",
             "Tube Well"
         ]
-    }
+    },
+    "id": "000931"
 }

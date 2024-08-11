@@ -5,13 +5,13 @@
         "department": "Department of Women & Child Development",
         "type": "Financial Assistance",
         "beneficiary": "Girl Child",
-        "details": "The scheme 'Balika Samrithi Yojana' by the Department of Women & Child Development, Government of Pondicherry was introduced to improve the status of the girl child and provide nutritious food to the girl child. Through this scheme, assistance of \u20b9500 in the form of a National Savings Certificate is provided to lactating mothers. The target beneficiaries are girl children born on or after 15-8-97.",
+        "details": "The scheme 'Balika Samrithi Yojana' by the Department of Women & Child Development, Government of Pondicherry was introduced to improve the status of the girl child and provide nutritious food to the girl child. Through this scheme, assistance of ₹500 in the form of a National Savings Certificate is provided to lactating mothers. The target beneficiaries are girl children born on or after 15-8-97.",
         "benefits": [
-            "Assistance of \u20b9500 in the form of a National Savings Certificate."
+            "Assistance of ₹500 in the form of a National Savings Certificate."
         ],
         "eligibility": [
             "The applicant should be a girl child born on or after 15-8-97.",
-            "The annual income of the family of the applicant should not exceed \u20b915,000.",
+            "The annual income of the family of the applicant should not exceed ₹15,000.",
             "The applicant should be a citizen of India.",
             "The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 3 years."
         ],
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What does the scheme aim to provide to lactating mothers?",
-                "answer": "Lactating mothers receive assistance in the form of a \u20b9500 National Savings Certificate under the BALIKA SAMRITHI YOJANA."
+                "answer": "Lactating mothers receive assistance in the form of a ₹500 National Savings Certificate under the BALIKA SAMRITHI YOJANA."
             },
             {
                 "question": "How can individuals contact the authorities for further information about the scheme?",
@@ -69,7 +69,7 @@
             },
             {
                 "question": "How is the financial assistance provided to eligible mothers?",
-                "answer": "Assistance is given in the form of a National Savings Certificate, valuing \u20b9500."
+                "answer": "Assistance is given in the form of a National Savings Certificate, valuing ₹500."
             },
             {
                 "question": "Who are the targeted beneficiaries under the scheme?",
@@ -101,5 +101,6 @@
             "Mother",
             "Women"
         ]
-    }
+    },
+    "id": "000168"
 }

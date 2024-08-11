@@ -12,12 +12,12 @@
         "eligibility": [
             "Applicant must be a disable person with 40% of disability.",
             "The disabled person must be declared unsuitable for physical work by the respective Medical officer with following disabilities: Deaf and Dumb, Blind, Orthopedically handicapped, Mentally retarded, Permanently incapacitated.",
-            "His / Her family income, if any, must not exceed \u20b9 1,000/- per month.",
+            "His / Her family income, if any, must not exceed ₹ 1,000/- per month.",
             "The applicant must be a citizen of India and a resident of West Bengal or have been a resident of the state of West Bengal for at least 10 years at the time of applying for the pension."
         ],
         "exclusions": [
             "Individuals engaged in begging as a profession are not eligible for pension under this scheme.",
-            "Disabled persons already receiving 'Widow Pension,' 'Old Age Pension,' 'Farmers\u2019 Pension,' or pension under the 'Family Pension Scheme' from the State Government, Central Government, or other concerns are not entitled to the pension under this scheme."
+            "Disabled persons already receiving 'Widow Pension,' 'Old Age Pension,' 'Farmers’ Pension,' or pension under the 'Family Pension Scheme' from the State Government, Central Government, or other concerns are not entitled to the pension under this scheme."
         ],
         "application_process": "Offline",
         "documents_required": [
@@ -26,7 +26,7 @@
             "Copy of Voter Id.",
             "Copy of Disability Certificate.",
             "Copy of Income Certificate.",
-            "Copy of Husband\u2019s Death Certificate.",
+            "Copy of Husband’s Death Certificate.",
             "Copy of Bank Pass Book.",
             "Nomination Form (In case of death).",
             "Passport Size photograph."
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the financial eligibility criteria?",
-                "answer": "Family income must be upto \u20b91,000/-."
+                "answer": "Family income must be upto ₹1,000/-."
             },
             {
                 "question": "Can applicant from other states also get the benefit of this scheme?",
@@ -70,7 +70,7 @@
             },
             {
                 "question": "What documents are required?",
-                "answer": "1. Copy of Aadhaar self-attested. 2. Copy of Ration Card. 3. Copy of Voter Id. 4. Copy of Disability Certificate. 5. Copy of Income Certificate. 6. Copy of Husband\u2019s Death Certificate. 7. Copy of Bank Pass Book. 8. Nomination Form (In case of death). 9. Passport Size photograph."
+                "answer": "1. Copy of Aadhaar self-attested. 2. Copy of Ration Card. 3. Copy of Voter Id. 4. Copy of Disability Certificate. 5. Copy of Income Certificate. 6. Copy of Husband’s Death Certificate. 7. Copy of Bank Pass Book. 8. Nomination Form (In case of death). 9. Passport Size photograph."
             }
         ],
         "sources": [
@@ -88,5 +88,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000403"
 }

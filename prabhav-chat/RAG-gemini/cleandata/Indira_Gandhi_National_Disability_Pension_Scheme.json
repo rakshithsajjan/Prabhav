@@ -14,7 +14,7 @@
             "The age of the applicant should range between 18-79 years.",
             "The applicant should be a resident of India.",
             "The applicant should be a physically or mentally disabled person.",
-            "The applicant\u2019s disability should be more than 80%.",
+            "The applicant’s disability should be more than 80%.",
             "Dwarfs are also eligible for this scheme.",
             "The applicant should belong to Below Poverty Line."
         ],
@@ -65,5 +65,6 @@
             "BPL",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000832"
 }

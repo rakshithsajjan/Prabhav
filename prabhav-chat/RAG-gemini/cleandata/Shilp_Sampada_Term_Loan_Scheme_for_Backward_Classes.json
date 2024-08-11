@@ -5,16 +5,16 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Artisans and handicraft persons from backward classes",
-        "details": "The scheme 'Shilp Sampada Term Loan Scheme for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans of up to \u20b910,00,000/- are provided to artisans and handicraft persons from backward classes to preserve traditional arts and crafts. The scheme also offers training to upgrade their existing skills with the latest technological inputs, such as the use of computers, CAD, etc. The applicants must be between 18 and 35 years old, permanent residents of Haryana, and belong to the backward class.",
+        "details": "The scheme 'Shilp Sampada Term Loan Scheme for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans of up to ₹10,00,000/- are provided to artisans and handicraft persons from backward classes to preserve traditional arts and crafts. The scheme also offers training to upgrade their existing skills with the latest technological inputs, such as the use of computers, CAD, etc. The applicants must be between 18 and 35 years old, permanent residents of Haryana, and belong to the backward class.",
         "benefits": [
-            "Loans of up to \u20b910,00,000/- for artisans and handicraft persons from backward classes to preserve traditional arts and crafts.",
+            "Loans of up to ₹10,00,000/- for artisans and handicraft persons from backward classes to preserve traditional arts and crafts.",
             "Training to upgrade skills with the latest technological inputs, such as the use of computers, CAD, etc."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The applicant should be between 18 and 35 years old.",
             "The applicant should belong to the backward class category.",
-            "The applicant's annual family income should not exceed \u20b93,00,000/- in rural and urban areas."
+            "The applicant's annual family income should not exceed ₹3,00,000/- in rural and urban areas."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "Loans up to \u20b910,00,000/- for artisans and handicraft persons. Training to upgrade skills with latest technological inputs like computers and CAD."
+                "answer": "Loans up to ₹10,00,000/- for artisans and handicraft persons. Training to upgrade skills with latest technological inputs like computers and CAD."
             },
             {
                 "question": "Is there an age limit to apply for this scheme?",
@@ -45,8 +45,8 @@
                 "answer": "Training to upgrade skills with the latest technological inputs, such as the use of computers and CAD."
             },
             {
-                "question": "Can I apply if my family's annual income is more than \u20b93,00,000/-?",
-                "answer": "No, the annual family income must not exceed \u20b93,00,000/-."
+                "question": "Can I apply if my family's annual income is more than ₹3,00,000/-?",
+                "answer": "No, the annual family income must not exceed ₹3,00,000/-."
             },
             {
                 "question": "Is the scheme available to artisans from urban areas?",
@@ -82,5 +82,6 @@
             "Shilp Sampada",
             "Term Loan"
         ]
-    }
+    },
+    "id": "001781"
 }

@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Grant",
         "beneficiary": "Ex-servicemen/Widows of Ex-servicemen",
-        "details": "Spectacle Grant is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, \u20b92,000/- is provided to the Ex-servicemen/Widows of Ex-servicemen for the purchase of spectacles. Members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
+        "details": "Spectacle Grant is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, ₹2,000/- is provided to the Ex-servicemen/Widows of Ex-servicemen for the purchase of spectacles. Members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/- for the purchase of spectacles.",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/NEFT."
+            "Financial Assistance of ₹2,000/- for the purchase of spectacles.",
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/NEFT."
         ],
         "eligibility": [
             "The applicant should be an Ex-serviceman/Widow of an Ex-serviceman.",
@@ -69,5 +69,6 @@
             "Spectacle",
             "Widow"
         ]
-    }
+    },
+    "id": "001833"
 }

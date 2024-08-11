@@ -60,8 +60,8 @@
                 "answer": "Candidates interested in applying for the scheme can do so by through the official portal of RE-SVAYEM. Aspirants will have to log in and complete the filling up the application form."
             },
             {
-                "question": "What is \u2018seed money\u2019?",
-                "answer": "It is the \u2018seed money\u2019 the initial amount to be provided to start new businesses, therefore, creating more businesses in the state."
+                "question": "What is ‘seed money’?",
+                "answer": "It is the ‘seed money’ the initial amount to be provided to start new businesses, therefore, creating more businesses in the state."
             },
             {
                 "question": "List of required documents?",
@@ -78,5 +78,6 @@
                 "url": "https://industriescom.assam.gov.in/sites/default/files/Application%20Form%20for%20SVAYEM%20Scheme.pdf"
             }
         ]
-    }
+    },
+    "id": "001904"
 }

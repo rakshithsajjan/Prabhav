@@ -8,17 +8,17 @@
         "details": "The objective of the scheme is to appreciably increase the Gross Enrolment Ratio of SC students in higher education with a focus on those from the poorest households, by providing financial assistance at post-matriculation or post-secondary stage to enable them to complete their education. These scholarships are available for studies in India only and the awardees are selected by the State Government/Union Territory to which the applicant actually belongs.",
         "benefits": [
             "Financial assistance for various groups of courses",
-            "\u20b9 13,000/- for Group-1 hostellers, \u20b9 7,000/- for day scholars",
-            "\u20b9 9,500/- for Group-2 hostellers, \u20b9 6,500/- for day scholars",
-            "\u20b9 6,000/- for Group-3 hostellers, \u20b9 3,000/- for day scholars",
-            "\u20b9 4,000/- for Group-4 hostellers, \u20b9 2,500/- for day scholars",
+            "₹ 13,000/- for Group-1 hostellers, ₹ 7,000/- for day scholars",
+            "₹ 9,500/- for Group-2 hostellers, ₹ 6,500/- for day scholars",
+            "₹ 6,000/- for Group-3 hostellers, ₹ 3,000/- for day scholars",
+            "₹ 4,000/- for Group-4 hostellers, ₹ 2,500/- for day scholars",
             "10% extra allowances for Divyang students"
         ],
         "eligibility": [
             "Open to Indian nationals only",
             "Candidates must belong to Scheduled Castes",
             "Must have passed Matriculation, Higher Secondary, or a higher examination",
-            "Parents' or guardians' income must not exceed \u20b9 2,50,000/- per annum",
+            "Parents' or guardians' income must not exceed ₹ 2,50,000/- per annum",
             "Candidates studying in the same stage of education in a different subject are not eligible",
             "Students pursuing studies through correspondence or online courses are eligible",
             "All children of any parent or guardian are entitled to receive benefits",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What is the eligible income criteria?",
-                "answer": "Scholarships will be paid to students whose parents' or guardians' income from all sources does not exceed \u20b9 2,50,000/- per annum."
+                "answer": "Scholarships will be paid to students whose parents' or guardians' income from all sources does not exceed ₹ 2,50,000/- per annum."
             },
             {
                 "question": "What is the procedure to apply?",
@@ -92,5 +92,6 @@
             "Scholarship",
             "Student Finance"
         ]
-    }
+    },
+    "id": "001458"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Children of Widows",
         "details": "The scheme 'Reimbursement of Tuition Fees for Typewriting and Shorthand Courses for Children of Widows' by the Department of Women & Child Development, Government of Pondicherry, was introduced to encourage the children of widows to pursue Typewriting and Shorthand courses and facilitate the reimbursement of the course fees.",
         "benefits": [
-            "Financial Assistance of \u20b9 50/- per month, as a reimbursement of the tuition fees.",
+            "Financial Assistance of ₹ 50/- per month, as a reimbursement of the tuition fees.",
             "The reimbursement shall be allowed only for a maximum period of ten months for a course and for the first attempt only.",
             "The reimbursement shall be allowed only for any two children of the widow."
         ],
@@ -15,7 +15,7 @@
             "The applicant should be a citizen of India.",
             "The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 5 years.",
             "The applicant should be a widow.",
-            "The annual income of the applicant should not exceed \u20b924,000.",
+            "The annual income of the applicant should not exceed ₹24,000.",
             "The child of the widow should be a Student.",
             "The child of the widow should be enrolled in an approved institution recognized by the Government of Tamilnadu/Government of Kerala/Government of Andhra Pradesh for the purpose of technical examinations.",
             "The child should have passed/appeared for SSLC/Matriculation or any other equivalent examination recognized by the Education Department, Puducherry.",
@@ -119,5 +119,6 @@
             "Student",
             "Widow"
         ]
-    }
+    },
+    "id": "001590"
 }

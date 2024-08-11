@@ -5,16 +5,16 @@
         "department": "Ministry of Education",
         "type": "Scholarship",
         "beneficiary": "Single Girl Child",
-        "details": "A scholarship scheme by the Ministry of Education for meritorious Single Girl Students, who are the only child of their parents; and have passed the CBSE Class 10th Examination with 60% or more marks and are continuing their further school education of Class 11th and 12th. The scheme is aimed to recognize the efforts of the parents in promoting education among girls and to provide encouragement to meritorious students. The rate of the scholarship shall be \u20b9500/- per month. A scholarship awarded under the scheme shall be paid for a maximum period of two years. Payment will be made through ECS/NEFT. The tuition fee should not be more than \u20b91,500/- per month during the academic year, shall be considered for the purpose. In the next two years, the total enhancement in tuition fees in such a school shall not be more than 10% of the tuition fee charged. The scholarship shall be awarded to Indian Nationals only.",
+        "details": "A scholarship scheme by the Ministry of Education for meritorious Single Girl Students, who are the only child of their parents; and have passed the CBSE Class 10th Examination with 60% or more marks and are continuing their further school education of Class 11th and 12th. The scheme is aimed to recognize the efforts of the parents in promoting education among girls and to provide encouragement to meritorious students. The rate of the scholarship shall be ₹500/- per month. A scholarship awarded under the scheme shall be paid for a maximum period of two years. Payment will be made through ECS/NEFT. The tuition fee should not be more than ₹1,500/- per month during the academic year, shall be considered for the purpose. In the next two years, the total enhancement in tuition fees in such a school shall not be more than 10% of the tuition fee charged. The scholarship shall be awarded to Indian Nationals only.",
         "benefits": [
-            "The rate of the scholarship shall be Rupees Five Hundred (\u20b9500/-) per month.",
+            "The rate of the scholarship shall be Rupees Five Hundred (₹500/-) per month.",
             "A Scholarship awarded under the scheme shall be paid for a maximum period of two years.",
             "Payment will be made through ECS/NEFT."
         ],
         "eligibility": [
             "The applicant should be the single girl child of her family.",
             "The applicant should have secured 60% or more marks in the CBSE Class 10th Examination and be studying Class 11th & 12th in School (affiliated with CBSE).",
-            "The tuition fee should not be more than \u20b91,500/- per month during the academic year. In the next two years, the total enhancement in tuition fees in such a school shall not be more than 10% of the tuition fee charged.",
+            "The tuition fee should not be more than ₹1,500/- per month during the academic year. In the next two years, the total enhancement in tuition fees in such a school shall not be more than 10% of the tuition fee charged.",
             "The applicant must be an Indian National.",
             "The student must continue her school studies in Classes 11th and 12th.",
             "The applicant should have passed the CBSE Class 10th Examination in 2019 and will be considered."
@@ -29,10 +29,10 @@
             "Income certificate and admission proof",
             "Details of bank account and fees structure",
             "Passport size photos and scanned signature",
-            "Student\u2019s ID card",
+            "Student’s ID card",
             "Class 11th mark sheet for scholarship renewal",
             "Bank account linked aadhaar card, bank passbook, and canceled cheque.",
-            "An affidavit on \u20b950 stamp paper from the girl or her parents duly attested by the gazette officer SDM or first-class magistrate, not below the rank of tehsildar."
+            "An affidavit on ₹50 stamp paper from the girl or her parents duly attested by the gazette officer SDM or first-class magistrate, not below the rank of tehsildar."
         ],
         "faqs": [
             {
@@ -92,5 +92,6 @@
             "Education",
             "CBSE"
         ]
-    }
+    },
+    "id": "000230"
 }

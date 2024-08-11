@@ -7,7 +7,7 @@
         "beneficiary": "Industrial Establishments, Labour Welfare Centres, Clubs, Recreation Rooms",
         "details": "'Scheme for Supply of TV Sets to Industrial Establishments/Labour Welfare Centres/Clubs/Recreation Rooms' was launched by the Goa Labour Welfare Board, Department of Labour and Employment, Goa. The scheme aims to provide television sets to enable the workers/employees to witness programmes of national importance and to inculcate in themselves ideas of national integration besides broadening their outlook.",
         "benefits": [
-            "One TV Set (coloured) of up to \u20b925,000, including all accessories."
+            "One TV Set (coloured) of up to ₹25,000, including all accessories."
         ],
         "eligibility": [
             "Industrial Establishment/Labour Welfare Centre run by the Government of Goa.",
@@ -28,7 +28,7 @@
             },
             {
                 "question": "What is the maximum cost of a T.V. set that can be provided under the scheme?",
-                "answer": "The cost of the T.V. sets, including all accessories, should not exceed \u20b925,000 for coloured sets. However, for Black and White T.V. sets, the maximum reimbursable amount is \u20b912,000."
+                "answer": "The cost of the T.V. sets, including all accessories, should not exceed ₹25,000 for coloured sets. However, for Black and White T.V. sets, the maximum reimbursable amount is ₹12,000."
             },
             {
                 "question": "What obligations do the management or unions have regarding the operation of the T.V. sets?",
@@ -78,5 +78,6 @@
             "TV",
             "Worker"
         ]
-    }
+    },
+    "id": "001708"
 }

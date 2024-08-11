@@ -12,7 +12,7 @@
         ],
         "eligibility": [
             "Applicants should be registered with the Haryana Building & Other Construction Workers Welfare Board.",
-            "Registered workers must have a minimum of two year\u2019s regular membership.",
+            "Registered workers must have a minimum of two year’s regular membership.",
             "Workers must have an active membership with the Board.",
             "Registered construction workers, along with four family members, are eligible to avail benefits under the scheme on a visit to religious or historical places once every four years.",
             "The duration of visiting religious and historical places should not exceed 10 days."
@@ -75,7 +75,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Registration fee \u20b925/- once in lifetime and \u20b95/- per month (\u20b960/- P.A) as subscription fee shall be paid to the Board by the beneficiary."
+                "answer": "Registration fee ₹25/- once in lifetime and ₹5/- per month (₹60/- P.A) as subscription fee shall be paid to the Board by the beneficiary."
             }
         ],
         "sources": [
@@ -104,5 +104,6 @@
             "Labour",
             "Religious Places"
         ]
-    }
+    },
+    "id": "000644"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Law Students",
         "details": "Ministry of Law and Justice under the Department of Justice (DoJ) has introduced an Internship Programme named 'LLB Internship Programme' for young law students. The purpose of this Programme is to well acquaint young law students with the working of Department of Justice by giving training in the field of research & referencing work, in various specialized areas of justice delivery.",
         "benefits": [
-            "Honorarium of \u20b9 5,000/- on completion of their internship.",
+            "Honorarium of ₹ 5,000/- on completion of their internship.",
             "Certificate of Internship shall be awarded on satisfactory completion."
         ],
         "eligibility": [
@@ -36,7 +36,7 @@
         "faqs": [
             {
                 "question": "What Shall Be The Amount Of Stipend Paid To The Interns?",
-                "answer": "The interns may be given an honorarium of \u20b9 5,000/- on completion of their internship."
+                "answer": "The interns may be given an honorarium of ₹ 5,000/- on completion of their internship."
             },
             {
                 "question": "To Which Divisions Of The DoLA Will The Interns Be Attached?",
@@ -91,5 +91,6 @@
             "Law Students",
             "Research"
         ]
-    }
+    },
+    "id": "001005"
 }

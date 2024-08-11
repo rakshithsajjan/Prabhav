@@ -5,13 +5,13 @@
         "department": "Social Welfare and Nutritious Meal Programme Department",
         "type": "Financial Assistance",
         "beneficiary": "BPL households",
-        "details": "The 'Distress Relief Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme's objective is to provide financial assistance of \u20b920,000/- to the BPL households on the death of their primary breadwinner (male or female).",
+        "details": "The 'Distress Relief Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme's objective is to provide financial assistance of ₹20,000/- to the BPL households on the death of their primary breadwinner (male or female).",
         "benefits": [
-            "Financial Assistance of \u20b920,000/-."
+            "Financial Assistance of ₹20,000/-."
         ],
         "eligibility": [
             "The applicant should be the legal heir of the deceased primary breadwinner.",
-            "The family of the applicant should be solely dependent on agriculture (agricultural labourers/ small and marginal farmers) OR the annual income of the family should not exceed \u20b924,000/-.",
+            "The family of the applicant should be solely dependent on agriculture (agricultural labourers/ small and marginal farmers) OR the annual income of the family should not exceed ₹24,000/-.",
             "The family should be from the 'Below Poverty Line' category."
         ],
         "exclusions": [],
@@ -28,11 +28,11 @@
             },
             {
                 "question": "How much financial assistance is provided upon the death of the primary breadwinner?",
-                "answer": "A sum of \u20b920,000 is paid to households below the poverty line upon the death of the primary breadwinner."
+                "answer": "A sum of ₹20,000 is paid to households below the poverty line upon the death of the primary breadwinner."
             },
             {
                 "question": "Who are the eligible persons to receive assistance under this scheme?",
-                "answer": "Eligible persons include legal heirs of the deceased primary breadwinner, families solely dependent on agriculture, agricultural laborers, small and marginal farmers, and individuals with an annual income not exceeding \u20b924,000."
+                "answer": "Eligible persons include legal heirs of the deceased primary breadwinner, families solely dependent on agriculture, agricultural laborers, small and marginal farmers, and individuals with an annual income not exceeding ₹24,000."
             },
             {
                 "question": "What documents need to be submitted along with the application?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "Is there a specific income limit for eligibility?",
-                "answer": "Yes, an annual income not exceeding \u20b924,000/-, is eligible to apply."
+                "answer": "Yes, an annual income not exceeding ₹24,000/-, is eligible to apply."
             },
             {
                 "question": "Are legal heirs the only ones eligible to apply for assistance under this scheme?",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "Are there any additional benefits or support provided to families who qualify for distress relief?",
-                "answer": "Apart from the financial assistance of \u20b920,000, no additional benefits or support are mentioned under the scheme."
+                "answer": "Apart from the financial assistance of ₹20,000, no additional benefits or support are mentioned under the scheme."
             }
         ],
         "sources": [
@@ -80,5 +80,6 @@
             "Financial Assistance",
             "Relief"
         ]
-    }
+    },
+    "id": "000412"
 }

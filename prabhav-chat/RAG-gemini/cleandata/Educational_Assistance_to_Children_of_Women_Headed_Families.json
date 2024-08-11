@@ -7,17 +7,17 @@
         "beneficiary": "Children of Women Headed Families",
         "details": "The scheme 'Educational Assistance to Children of Women Headed Families' was launched by the Social Justice Department, Government of Kerala. The number of women-headed families in Kerala is very high. The majority of these families are living in deplorable conditions. The scheme proposes to extend a helping hand to these families by providing financial assistance for children's education. The women belong to Below Poverty Line (BPL) families/Priority families (Children of HIV/AIDS affected persons, socially discriminated persons, war widows, etc. are eligible irrespective of their BPL status). A family in which the husband of a woman is bedridden and unable to cover livelihood, due to stroke/or spinal injury can also get benefits under this scheme.",
         "benefits": [
-            "Category I - Children below 5 years and between 1st to 5th standard: \u20b9300/- per month",
-            "Category II - Between 6th to 10th standard: \u20b9500/- per month",
-            "Category III - Plus one (11th Standard) & Plus two (12th Standard): \u20b9750/- per month",
-            "Category IV - Degree and above: \u20b91000/- per month"
+            "Category I - Children below 5 years and between 1st to 5th standard: ₹300/- per month",
+            "Category II - Between 6th to 10th standard: ₹500/- per month",
+            "Category III - Plus one (11th Standard) & Plus two (12th Standard): ₹750/- per month",
+            "Category IV - Degree and above: ₹1000/- per month"
         ],
         "eligibility": [
             "The applicant should be a resident of Kerala State.",
             "The applicant should belong to the Below Poverty Line Family.",
             "HIV/AIDS-affected persons, socially discriminated persons, war widows, etc. are eligible irrespective of their BPL status.",
             "A family in which the husband of the woman is bedridden and not able to cover livelihood, due to stroke/or spinal injury is eligible to apply under the scheme.",
-            "Only two children\u2019s per family are eligible for this scheme.",
+            "Only two children’s per family are eligible for this scheme.",
             "The child should study in Government or Government aided School or College."
         ],
         "exclusions": [
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b9300/- to \u20b91000/- is provided to the education of children."
+                "answer": "Under the scheme, financial assistance of ₹300/- to ₹1000/- is provided to the education of children."
             },
             {
                 "question": "Who is eligible to get the benefits under the scheme?",
@@ -61,7 +61,7 @@
             },
             {
                 "question": "How many children in a family are eligible to apply under the scheme?",
-                "answer": "Only two children\u2019s per family are eligible for this scheme."
+                "answer": "Only two children’s per family are eligible for this scheme."
             },
             {
                 "question": "Can a child study in private school/college be eligible to apply under the scheme?",
@@ -102,5 +102,6 @@
             "Scholarship",
             "Woman"
         ]
-    }
+    },
+    "id": "000483"
 }

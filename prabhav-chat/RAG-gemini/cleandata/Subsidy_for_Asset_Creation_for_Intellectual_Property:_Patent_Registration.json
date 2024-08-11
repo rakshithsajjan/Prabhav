@@ -5,9 +5,9 @@
         "department": "Micro Small and Medium Enterprises Department",
         "type": "Subsidy",
         "beneficiary": "Micro, small, and medium manufacturing enterprises",
-        "details": "The scheme \"Subsidy for Asset Creation for Intellectual Property: Patent Registration\" by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced to incentivize MSMEs to innovate and create intellectual property in India and Abroad as a differentiator. No documents are required to avail of the benefits for reimbursement upto \u20b91,00,000.",
+        "details": "The scheme \"Subsidy for Asset Creation for Intellectual Property: Patent Registration\" by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced to incentivize MSMEs to innovate and create intellectual property in India and Abroad as a differentiator. No documents are required to avail of the benefits for reimbursement upto ₹1,00,000.",
         "benefits": [
-            "75% subsidy on the cost of filing of the application for Patent Registration including the cost of the first-time maintenance fee of the granted application, subject to a maximum of \u20b9 3,00,000 per Patent registered."
+            "75% subsidy on the cost of filing of the application for Patent Registration including the cost of the first-time maintenance fee of the granted application, subject to a maximum of ₹ 3,00,000 per Patent registered."
         ],
         "eligibility": [
             "All new and existing micro, small, and medium manufacturing enterprises located anywhere in Tamil Nadu."
@@ -71,7 +71,7 @@
             },
             {
                 "question": "Could you elaborate on the reimbursement process for the scheme, especially regarding the maximum limit and documentation required?",
-                "answer": "MSMEs can avail benefits up to \u20b91,00,000 without submitting any documents. The scheme offers a 75% subsidy, capped at \u20b93,00,000, for the cost of filing a patent, including the first-time maintenance fee."
+                "answer": "MSMEs can avail benefits up to ₹1,00,000 without submitting any documents. The scheme offers a 75% subsidy, capped at ₹3,00,000, for the cost of filing a patent, including the first-time maintenance fee."
             }
         ],
         "sources": [
@@ -107,5 +107,6 @@
             "Property",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001872"
 }

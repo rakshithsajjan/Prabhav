@@ -8,7 +8,7 @@
         "details": "The scheme aims to establish an effective seed production chain, build capacity among state functionaries and livestock owners in forage production, and create synergy among ongoing programs for fodder resource development.",
         "benefits": [
             "Affordable quality fodder",
-            "Increased farmer\u2019s income",
+            "Increased farmer’s income",
             "50% direct capital subsidy to beneficiaries",
             "100% subsidy on fodder seed production to identified beneficiaries",
             "Assistance for procuring machinery like Bailers, Block making machines, TMR machines/equipment, and Forage Harvesters"
@@ -36,7 +36,7 @@
         "faqs": [
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "Affordable quality fodder, increased farmer\u2019s income, and assistance in procuring machinery."
+                "answer": "Affordable quality fodder, increased farmer’s income, and assistance in procuring machinery."
             },
             {
                 "question": "Who are eligible for the scheme?",
@@ -75,5 +75,6 @@
             "Subsidy",
             "Fodder Production"
         ]
-    }
+    },
+    "id": "000514"
 }

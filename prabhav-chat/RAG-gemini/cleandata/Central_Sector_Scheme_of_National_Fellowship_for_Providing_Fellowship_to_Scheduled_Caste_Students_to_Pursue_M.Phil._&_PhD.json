@@ -30,7 +30,7 @@
             "Passport Sized Photograph",
             "Aadhaar Number",
             "Self-attested Degree/Mark Sheet of the last qualifying exam",
-            "Fee Receipt of \u2018Current Course Year\u2019",
+            "Fee Receipt of ‘Current Course Year’",
             "Bank Details of the Aadhaar-linked Bank Account",
             "Caste certificate (issued by SDM or Tehsildar or any competent authority)",
             "Declaration Certificate"
@@ -65,5 +65,6 @@
             "Higher Education",
             "Research"
         ]
-    }
+    },
+    "id": "000258"
 }

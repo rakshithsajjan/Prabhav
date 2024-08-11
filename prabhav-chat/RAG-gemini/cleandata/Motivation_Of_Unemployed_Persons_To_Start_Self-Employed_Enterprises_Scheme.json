@@ -5,11 +5,11 @@
         "department": "District Industries Centre, Union Territory of Puducherry",
         "type": "Loan",
         "beneficiary": "Unemployed Men and Women of the Union Territory of Puducherry",
-        "details": "The scheme 'Motivation of Unemployed Persons To Start Self-Employed Enterprises Scheme (MUPSES)' was launched by the Union Territory of Puducherry in the year 2006 with a view to encouraging self-employment among the youth in manufacturing and service activities largely in support of the growing economy of the Union Territory of Puducherry. Objective: To encourage unemployed persons in the U.T. of Puducherry to start self-employment in manufacturing or service sector enterprises. Activities Covered: All economically viable service and industrial activities. Mechanized laundry, Beauty Parlour (Saloon), Tailoring units, and Setting up of Hygienic Tea / Coffee Stalls are presently encouraged under the scheme. Project cost: Up to \u20b92, 00,000/-. Means of finance: Finance from Banks / Financial Institutions. Interest: Normal bank rate of interest on the date shall be charged.",
+        "details": "The scheme 'Motivation of Unemployed Persons To Start Self-Employed Enterprises Scheme (MUPSES)' was launched by the Union Territory of Puducherry in the year 2006 with a view to encouraging self-employment among the youth in manufacturing and service activities largely in support of the growing economy of the Union Territory of Puducherry. Objective: To encourage unemployed persons in the U.T. of Puducherry to start self-employment in manufacturing or service sector enterprises. Activities Covered: All economically viable service and industrial activities. Mechanized laundry, Beauty Parlour (Saloon), Tailoring units, and Setting up of Hygienic Tea / Coffee Stalls are presently encouraged under the scheme. Project cost: Up to ₹2, 00,000/-. Means of finance: Finance from Banks / Financial Institutions. Interest: Normal bank rate of interest on the date shall be charged.",
         "benefits": [
-            "Under the scheme, the applicant may get a loan from \u20b910,000/- to \u20b92,00,000/- to set up a startup in the manufacturing and/or service sectors.",
-            "50% of the project cost excluding pre-operative and preliminary expenses will be granted as a subsidy for the projects not exceeding \u20b950,000/-",
-            "35% of the project cost excluding pre-operative and preliminary expenses to a maximum of \u20b935,000 will be granted as a subsidy for project costs exceeding \u20b950,000 but less than \u20b92.00 lakhs."
+            "Under the scheme, the applicant may get a loan from ₹10,000/- to ₹2,00,000/- to set up a startup in the manufacturing and/or service sectors.",
+            "50% of the project cost excluding pre-operative and preliminary expenses will be granted as a subsidy for the projects not exceeding ₹50,000/-",
+            "35% of the project cost excluding pre-operative and preliminary expenses to a maximum of ₹35,000 will be granted as a subsidy for project costs exceeding ₹50,000 but less than ₹2.00 lakhs."
         ],
         "eligibility": [
             "Unemployed Men and Women of the Union Territory of Puducherry are eligible to apply under the scheme.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the applicant may get a loan from \u20b910,000/- to \u20b92,00,000/- to set up a start-up in the manufacturing and/or service sectors."
+                "answer": "Under the scheme, the applicant may get a loan from ₹10,000/- to ₹2,00,000/- to set up a start-up in the manufacturing and/or service sectors."
             },
             {
                 "question": "Who is eligible to get the benefits of the scheme?",
@@ -77,7 +77,7 @@
             },
             {
                 "question": "What should be the project cost under the scheme?",
-                "answer": "The project cost should be up to \u20b92, 00,000/-."
+                "answer": "The project cost should be up to ₹2, 00,000/-."
             },
             {
                 "question": "Where can an applicant get the application form?",
@@ -103,5 +103,6 @@
             "Unemployed",
             "Youth"
         ]
-    }
+    },
+    "id": "001159"
 }

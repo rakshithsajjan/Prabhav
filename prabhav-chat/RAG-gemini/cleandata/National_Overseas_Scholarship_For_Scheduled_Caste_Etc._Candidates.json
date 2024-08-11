@@ -20,7 +20,7 @@
             "The applicant must have been admitted to or received an unconditional offer of admission for pursuing a master's / Ph.D. from an institute/university located abroad.",
             "The institute/university of the applicant must be accredited by the Government/authorized body of that country.",
             "The applicant must have secured at least 60% marks or equivalent grade in the qualifying examination.",
-            "The total income of the family of the applicant (from all sources) is less than or equal to \u20b9 8 lakh per annum.",
+            "The total income of the family of the applicant (from all sources) is less than or equal to ₹ 8 lakh per annum.",
             "Two or more of the applicant's siblings must not be already availing of this scholarship.",
             "30% of the awards for each year shall be earmarked for women candidates."
         ],
@@ -73,7 +73,7 @@
         "faqs": [
             {
                 "question": "Is there a duration to the prescribed financial assistance?",
-                "answer": "Yes, the prescribed financial assistance will be provided up to the completion of the course / research or the following period, whichever is earlier: PhD - 04 years, Master\u2019s Degree - 03 years."
+                "answer": "Yes, the prescribed financial assistance will be provided up to the completion of the course / research or the following period, whichever is earlier: PhD - 04 years, Master’s Degree - 03 years."
             },
             {
                 "question": "Are there any terms to availing the Maintenance Allowance?",
@@ -88,5 +88,6 @@
                 "answer": "Yes, there is 30% of the awards for each year shall be earmarked for women candidates."
             }
         ]
-    }
+    },
+    "id": "001318"
 }

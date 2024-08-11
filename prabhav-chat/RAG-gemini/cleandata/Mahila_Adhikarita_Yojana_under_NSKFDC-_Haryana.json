@@ -5,11 +5,11 @@
         "department": "Haryana Scheduled Castes Finance and Development Corporation (HSFDC)",
         "type": "Loan",
         "beneficiary": "Women Safai Karamchari and their dependent daughters",
-        "details": "The scheme 'Mahila Adhikarita Yojana under NSKFDC' is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC). The HSFDC is a Company registered under the Companies Act, 1956 on 02.01.1971. It is a wholly Government-owned Corporation with a 51% share of the State Government and a 49% share of the Government of India. Under this scheme, the loan is provided to woman Safai Karamchari and their dependent daughters for projects with a maximum project cost of up to \u20b92,00,000/- for small and petty trade/businesses, and various other income-generating activities such as beauty parlors, boutiques, cosmetic shops, bangle shop, etc.",
+        "details": "The scheme 'Mahila Adhikarita Yojana under NSKFDC' is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC). The HSFDC is a Company registered under the Companies Act, 1956 on 02.01.1971. It is a wholly Government-owned Corporation with a 51% share of the State Government and a 49% share of the Government of India. Under this scheme, the loan is provided to woman Safai Karamchari and their dependent daughters for projects with a maximum project cost of up to ₹2,00,000/- for small and petty trade/businesses, and various other income-generating activities such as beauty parlors, boutiques, cosmetic shops, bangle shop, etc.",
         "benefits": [
-            "The Corporation provides loans of up to \u20b92,00,000/- per beneficiary/unit for small and petty trade/business and various income-generating activities.",
+            "The Corporation provides loans of up to ₹2,00,000/- per beneficiary/unit for small and petty trade/business and various income-generating activities.",
             "Margin money @ 10% of the project cost.",
-            "Subsidy @ 50% of the total project cost (Maximum subsidy amount is \u20b910,000/-)."
+            "Subsidy @ 50% of the total project cost (Maximum subsidy amount is ₹10,000/-)."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "What is the maximum loan amount under the Mahila Adhikarita Yojana?",
-                "answer": "The maximum loan amount provided under this scheme is \u20b92,00,000 per beneficiary/unit."
+                "answer": "The maximum loan amount provided under this scheme is ₹2,00,000 per beneficiary/unit."
             },
             {
                 "question": "What types of activities can the loan be used for?",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "Is there any subsidy provided under the scheme?",
-                "answer": "Yes, a subsidy at 50% of the total project cost is provided, with a maximum subsidy amount of \u20b910,000/-."
+                "answer": "Yes, a subsidy at 50% of the total project cost is provided, with a maximum subsidy amount of ₹10,000/-."
             },
             {
                 "question": "What defines a permanent Safai Karamchari?",
@@ -76,5 +76,6 @@
             "Self-Employment",
             "Safai Karamchari"
         ]
-    }
+    },
+    "id": "001056"
 }

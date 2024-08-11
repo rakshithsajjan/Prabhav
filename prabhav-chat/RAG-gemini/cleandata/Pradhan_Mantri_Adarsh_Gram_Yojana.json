@@ -5,7 +5,7 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Government Scheme",
         "beneficiary": "Scheduled Castes majority villages",
-        "details": "With a view to enabling an area-based development approach, a new scheme Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched during 2009-10. The Scheme aims at integrated development of Scheduled Castes majority villages. The principal objective of PMAGY is the integrated development of SC majority Villages primarily through convergent implementation of the relevant Central and State/UT Government Schemes and by taking up identified activities, which do not get covered under the existing Central and State Government Schemes, through \u2018Gap-filling\u2019 funds provided as Central Assistance to the extent of \u20b920,00,000 per village.",
+        "details": "With a view to enabling an area-based development approach, a new scheme Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched during 2009-10. The Scheme aims at integrated development of Scheduled Castes majority villages. The principal objective of PMAGY is the integrated development of SC majority Villages primarily through convergent implementation of the relevant Central and State/UT Government Schemes and by taking up identified activities, which do not get covered under the existing Central and State Government Schemes, through ‘Gap-filling’ funds provided as Central Assistance to the extent of ₹20,00,000 per village.",
         "benefits": [
             "Should be connected to the nearest major road by an all-weather road.",
             "Access for all to safe drinking water on a sustainable basis.",
@@ -51,5 +51,6 @@
             "Rural Development",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001477"
 }

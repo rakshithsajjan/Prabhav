@@ -7,7 +7,7 @@
         "beneficiary": "Transgender individuals above the age of 40 who are destitute",
         "details": "The scheme 'Pension Scheme for Destitute Transgender' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to help poor transgender who are above the age of 40 years and are unable to earn their livelihood. Interested and eligible applicants should apply via Common Service Centres (CSC).",
         "benefits": [
-            "Pension of \u20b9 1,000/- per month."
+            "Pension of ₹ 1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be Transgender.",
@@ -70,7 +70,7 @@
             },
             {
                 "question": "Can I withdraw the entire pension amount at once, or is it disbursed in installments?",
-                "answer": "The pension amount of \u20b91,000/- is typically credited to your bank account on a monthly basis."
+                "answer": "The pension amount of ₹1,000/- is typically credited to your bank account on a monthly basis."
             },
             {
                 "question": "What happens if I miss receiving a pension payment in a month?",
@@ -93,5 +93,6 @@
             "Pension",
             "Transgender"
         ]
-    }
+    },
+    "id": "001427"
 }

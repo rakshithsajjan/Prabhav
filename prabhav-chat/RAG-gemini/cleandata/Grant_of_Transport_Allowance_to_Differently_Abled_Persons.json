@@ -5,14 +5,14 @@
         "department": "Department of Social Welfare",
         "type": "Grant",
         "beneficiary": "Differently Abled Persons",
-        "details": "The scheme 'Grant of Transport Allowance to Differently Abled Persons' was launched by the Department of Social Welfare, Government of Puducherry. In this scheme, a fixed sum \u20b9 300/- per month shall be paid as Transport Allowance to the differently abled individuals.",
+        "details": "The scheme 'Grant of Transport Allowance to Differently Abled Persons' was launched by the Department of Social Welfare, Government of Puducherry. In this scheme, a fixed sum ₹ 300/- per month shall be paid as Transport Allowance to the differently abled individuals.",
         "benefits": [
-            "\u20b9 300/- per month shall be paid through Anganwadi Centres as Transport Allowance."
+            "₹ 300/- per month shall be paid through Anganwadi Centres as Transport Allowance."
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
             "The applicant should have orthopaedic disability of 40% or above.",
-            "The annual income of the applicant should not exceed \u20b9 75,000/-.",
+            "The annual income of the applicant should not exceed ₹ 75,000/-.",
             "The applicant should not be in receipt of any other financial assistance for conveyance purpose from the department or any other source.",
             "The age of the applicant should be 5 years and above.",
             "The applicant should not have a formal education qualification.",
@@ -34,7 +34,7 @@
         "faqs": [
             {
                 "question": "Where will the monthly Transport Allowance be disbursed?",
-                "answer": "The \u20b9300/- monthly Transport Allowance will be paid through Anganwadi Centres."
+                "answer": "The ₹300/- monthly Transport Allowance will be paid through Anganwadi Centres."
             },
             {
                 "question": "Is the scheme exclusive, or can beneficiaries receive financial assistance from other sources?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the maximum annual income allowed for eligibility?",
-                "answer": "The annual income of the applicant should not exceed \u20b975,000/- to be eligible for the scheme."
+                "answer": "The annual income of the applicant should not exceed ₹75,000/- to be eligible for the scheme."
             },
             {
                 "question": "What percentage of orthopaedic disability is necessary for eligibility?",
@@ -113,5 +113,6 @@
             "PwD",
             "Transport"
         ]
-    }
+    },
+    "id": "000740"
 }

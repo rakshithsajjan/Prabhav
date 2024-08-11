@@ -5,9 +5,9 @@
         "department": "School & Mass Education Department",
         "type": "Scholarship",
         "beneficiary": "Students",
-        "details": "The Government of Odisha in School & Mass Education Department is awarding the \u201cPathani Samanta Mathematics Talent Scholarship (PSMTS)\u201d out of the State budget to provide financial assistance to the meritorious Higher Secondary School Students of Odisha having proficiency in Mathematics studying in Odia medium Government/Aided/Recognized Institutions. The scholarship is awarded to students pursuing their studies in Class XI and XII in Higher Secondary Schools affiliated with the Council of Higher Secondary Education, Odisha. Under this scheme, the top 1000 students fulfilling the eligibility criteria will receive \u20b9 5,000 per month for 10 months in a year.",
+        "details": "The Government of Odisha in School & Mass Education Department is awarding the “Pathani Samanta Mathematics Talent Scholarship (PSMTS)” out of the State budget to provide financial assistance to the meritorious Higher Secondary School Students of Odisha having proficiency in Mathematics studying in Odia medium Government/Aided/Recognized Institutions. The scholarship is awarded to students pursuing their studies in Class XI and XII in Higher Secondary Schools affiliated with the Council of Higher Secondary Education, Odisha. Under this scheme, the top 1000 students fulfilling the eligibility criteria will receive ₹ 5,000 per month for 10 months in a year.",
         "benefits": [
-            "The students of Class XI and XII fulfilling the eligibility criteria will receive \u20b9 5,000 per month for 10 months in a year.",
+            "The students of Class XI and XII fulfilling the eligibility criteria will receive ₹ 5,000 per month for 10 months in a year.",
             "A student may enjoy more than one scholarship at a time including PSMTS."
         ],
         "eligibility": [
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the scholarship amount under the scheme?",
-                "answer": "Under this scheme, the students fulfilling the eligibility criteria will receive \u20b9 5,000 per month for 10 months in a year."
+                "answer": "Under this scheme, the students fulfilling the eligibility criteria will receive ₹ 5,000 per month for 10 months in a year."
             },
             {
                 "question": "How many students will be given scholarships?",
@@ -101,5 +101,6 @@
             "Scholarship",
             "Students"
         ]
-    }
+    },
+    "id": "001417"
 }

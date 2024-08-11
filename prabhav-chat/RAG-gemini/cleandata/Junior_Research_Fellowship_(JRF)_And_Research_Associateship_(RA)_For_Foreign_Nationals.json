@@ -15,7 +15,7 @@
             "HRA as per the rule of the concerned institution"
         ],
         "eligibility": [
-            "For JRF: 35 years for male candidates, 40 years for female candidates as of 1st July of the year of application. Must have at least a high-class master\u2019s degree with a second-class bachelor\u2019s degree or a second-class master\u2019s degree with a first-class bachelor\u2019s degree.",
+            "For JRF: 35 years for male candidates, 40 years for female candidates as of 1st July of the year of application. Must have at least a high-class master’s degree with a second-class bachelor’s degree or a second-class master’s degree with a first-class bachelor’s degree.",
             "For RA: 40 years for male candidates, 45 years for female candidates as of 1st July of the year of application. Must have a doctorate degree, published research work, and evidence of independent research work."
         ],
         "exclusions": [
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Is There Any Eligibility Criteria Regarding The Educational Qualification Of The Candidate?",
-                "answer": "For JRF: At least a high-class master\u2019s degree with a second-class bachelor\u2019s degree or second-class master\u2019s degree with a first-class bachelor\u2019s degree. For RA: A doctorate degree, published research work, and evidence of independent research work."
+                "answer": "For JRF: At least a high-class master’s degree with a second-class bachelor’s degree or second-class master’s degree with a first-class bachelor’s degree. For RA: A doctorate degree, published research work, and evidence of independent research work."
             },
             {
                 "question": "How Many Slots Are Available Under The Scheme For Junior Research Fellowship (JRF) And For Research Associateship (RA)?",
@@ -78,5 +78,6 @@
             "Foreign Nationals",
             "Education"
         ]
-    }
+    },
+    "id": "000941"
 }

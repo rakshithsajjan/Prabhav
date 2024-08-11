@@ -2,10 +2,10 @@
     "content": {
         "title": "Fruit Processing Centre",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Demonstration",
         "beneficiary": "Farmer",
-        "details": "The scheme 'Fruit Processing Centre' was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to disseminate technical knowhow to youth entrepreneurs, farmers, and housewives through the practical demonstration on the importance of fruit preservation and to manufacture quality processed fruit products such as Squashes, Jams, Jelly, canned fruits and Juices under the trade name \u2018Meg Fruits Products\u2019.",
+        "details": "The scheme 'Fruit Processing Centre' was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to disseminate technical knowhow to youth entrepreneurs, farmers, and housewives through the practical demonstration on the importance of fruit preservation and to manufacture quality processed fruit products such as Squashes, Jams, Jelly, canned fruits and Juices under the trade name ‘Meg Fruits Products’.",
         "benefits": [
             "Training and Demonstration",
             "Awareness, Capacity building on fruit and vegetable processing"
@@ -28,7 +28,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya"
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya"
             },
             {
                 "question": "What is the type of assistance/service?",
@@ -47,7 +47,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/ Horticulture circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers shall be selected on a first come first serve basis."
             }
         ],
@@ -64,5 +64,6 @@
             "Vegetable Processing",
             "Youth Entrepreneur"
         ]
-    }
+    },
+    "id": "000646"
 }

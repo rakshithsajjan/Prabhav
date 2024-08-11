@@ -7,24 +7,24 @@
         "beneficiary": "Students",
         "details": "Swami Vivekananda Scholarship has been operated in the state of West Bengal by the Higher Education department, for students who are not able to afford their fees. The scheme benefits students studying at under Graduate level in Science/Arts/Commerce, Engineering, Medical and Technical / Professional courses, Post Graduate level students pursuing Science/Arts/Commerce & Technical/Management. These scholarships will be sanctioned to deserving students on merit-cum-means criteria.",
         "benefits": [
-            "UG (Art): \u20b9 1000/-",
-            "UG (Commerce): \u20b9 1000/-",
-            "UG (Science): \u20b9 1500/-",
-            "UG (Other Professional Courses, UGC Approved): \u20b9 1500/-",
-            "PG (Arts): \u20b9 2000/-",
-            "PG (Commerce): \u20b9 2000/-",
-            "PG (Science): \u20b9 2500/-",
-            "PG (Other Professional Courses, UGC Approved): \u20b9 2500/-",
-            "Non NET M.Phil./Non NET Ph.D.: \u20b9 5000/- / \u20b9 8000/- respectively",
-            "HS: \u20b9 1000/-",
-            "D.El.Ed: \u20b9 1000/-",
-            "UG (Engg.), PG (Engg.) And Other Professional Courses (AICTE Approved): \u20b9 5000/-",
-            "Polytechnic (Diploma Courses): \u20b9 1500/-",
-            "UG (Medical-Degree) And Diploma Courses: \u20b9 5000/- and \u20b9 1500/- respectively"
+            "UG (Art): ₹ 1000/-",
+            "UG (Commerce): ₹ 1000/-",
+            "UG (Science): ₹ 1500/-",
+            "UG (Other Professional Courses, UGC Approved): ₹ 1500/-",
+            "PG (Arts): ₹ 2000/-",
+            "PG (Commerce): ₹ 2000/-",
+            "PG (Science): ₹ 2500/-",
+            "PG (Other Professional Courses, UGC Approved): ₹ 2500/-",
+            "Non NET M.Phil./Non NET Ph.D.: ₹ 5000/- / ₹ 8000/- respectively",
+            "HS: ₹ 1000/-",
+            "D.El.Ed: ₹ 1000/-",
+            "UG (Engg.), PG (Engg.) And Other Professional Courses (AICTE Approved): ₹ 5000/-",
+            "Polytechnic (Diploma Courses): ₹ 1500/-",
+            "UG (Medical-Degree) And Diploma Courses: ₹ 5000/- and ₹ 1500/- respectively"
         ],
         "eligibility": [
             "Student must be a domicile of West Bengal.",
-            "Applicant family annual income must not more than \u20b9 2,50,000/-.",
+            "Applicant family annual income must not more than ₹ 2,50,000/-.",
             "High School (HS): Minimum 60% marks in the Madhyamik Pariksha exam.",
             "Diploma Courses: Minimum 60% marks in the qualifying exam (excluding optional subjects).",
             "Undergraduate (UG): Minimum 60% marks in aggregate in the HS exam conducted by WBCHSE/Madrasha Siksha Parishad.",
@@ -87,5 +87,6 @@
                 "url": "https://svmcm.wbhed.gov.in/page/faq.php"
             }
         ]
-    }
+    },
+    "id": "001905"
 }

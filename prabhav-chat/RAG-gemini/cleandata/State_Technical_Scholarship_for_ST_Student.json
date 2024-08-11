@@ -5,7 +5,7 @@
         "department": "Directorate of Technical Education",
         "type": "Scholarship",
         "beneficiary": "Scheduled Tribe Students",
-        "details": "The \u201cState Technical Scholarship for ST Student\u201d is a scholarship scheme, implemented by the Directorate of Technical Education, Government of Nagaland. Under the scheme, financial assistance is provided to students of Scheduled Tribe Communities who are pursuing Diploma/Degree/Post Graduated/course in Engineering Institutes recognized by All India Council for Technical Education. Assistance is also provided to students who are pursuing UG or PG in Forestry courses.",
+        "details": "The “State Technical Scholarship for ST Student” is a scholarship scheme, implemented by the Directorate of Technical Education, Government of Nagaland. Under the scheme, financial assistance is provided to students of Scheduled Tribe Communities who are pursuing Diploma/Degree/Post Graduated/course in Engineering Institutes recognized by All India Council for Technical Education. Assistance is also provided to students who are pursuing UG or PG in Forestry courses.",
         "benefits": [
             "Under the scheme, financial assistance/scholarships will be given to students according to the course/programme in which they are enrolled.",
             "Scholarship shall be provided for a maximum period of 3 years for Diploma, 4 years for Degree (B.E/B.Tech.), and 2 years for (M.E/M.Tech)."
@@ -13,7 +13,7 @@
         "eligibility": [
             "The applicant/student should be an inhabitant of Nagaland.",
             "The applicant should belong to the Scheduled Tribe Community.",
-            "The annual income of the applicant\u2019s parents from all sources must not exceed \u20b96 lakhs.",
+            "The annual income of the applicant’s parents from all sources must not exceed ₹6 lakhs.",
             "The applicant pursuing Diploma/Degree/Post Graduated/course in Engineering Institutes recognized by the All India Council for Technical Education can apply.",
             "The applicants pursuing UG or PG in Forestry courses are eligible for this scheme.",
             "Applicant must not be an employee of any government/semi-government establishment."
@@ -54,7 +54,7 @@
             },
             {
                 "question": "Who is eligible to apply for this scholarship?",
-                "answer": "To be eligible, applicants must be residents of Nagaland, belong to the Scheduled Tribe Community, have parents with an annual income not exceeding \u20b96 lakhs, and be pursuing eligible courses in engineering or forestry."
+                "answer": "To be eligible, applicants must be residents of Nagaland, belong to the Scheduled Tribe Community, have parents with an annual income not exceeding ₹6 lakhs, and be pursuing eligible courses in engineering or forestry."
             },
             {
                 "question": "Can applicants pursuing other courses apart from engineering or forestry apply for this scholarship?",
@@ -101,5 +101,6 @@
             "Technical Education",
             "Nagaland"
         ]
-    }
+    },
+    "id": "001853"
 }

@@ -7,12 +7,12 @@
         "beneficiary": "Other Backward Class (OBC) students",
         "details": "Centrally Sponsored Scheme of Pre-matric Scholarship to Other Backward Classes (OBC) for Studies in India is a Scholarship Scheme by the Department of Social Justice and Empowerment. The objective is to award scholarships to school-going children of poorer OBC parents whose annual income is below double the poverty line. The scholarships may be given to the students enrolled in class 1st or any subsequent class of the pre-matric stage in the case of day scholars, and class 3rd or any subsequent class of the pre-matric stage in the case of hostlers. The scholarship will terminate at the end of class 10th. The duration of the scholarship in an academic year will be 10 months.",
         "benefits": [
-            "Hostellers: Class 3rd to 10th: \u20b9 500/- per month for 10 months.",
-            "Day Scholars: Class 1st to 10th: \u20b9 100/- per month for 10 months.",
-            "An ad-hoc grant of \u20b9 500/- per student per annum to all students."
+            "Hostellers: Class 3rd to 10th: ₹ 500/- per month for 10 months.",
+            "Day Scholars: Class 1st to 10th: ₹ 100/- per month for 10 months.",
+            "An ad-hoc grant of ₹ 500/- per student per annum to all students."
         ],
         "eligibility": [
-            "Parents/guardians' income from all sources does not exceed \u20b9 2,50,000/- per annum.",
+            "Parents/guardians' income from all sources does not exceed ₹ 2,50,000/- per annum.",
             "The scholarship is tenable only in recognized institutions and pre-matriculation courses.",
             "Regular attendance records of not less than 60% in the previous year.",
             "Scholar recipients cannot avail benefits under any other pre-matric scholarship scheme.",
@@ -101,5 +101,6 @@
             "Education",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000261"
 }

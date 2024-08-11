@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Pension",
         "beneficiary": "Construction Worker",
-        "details": "The scheme 'Disability Pension for Registered Worker (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, a monthly pension of \u20b93000/- is given to the registered worker in case of disability due to any infectious disease or accident at the workplace. Further, it is necessary for the registered worker to have minimum three-year regular membership and is not taking a disability pension from any other Haryana Government Department/ Board/ Corporation.",
+        "details": "The scheme 'Disability Pension for Registered Worker (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, a monthly pension of ₹3000/- is given to the registered worker in case of disability due to any infectious disease or accident at the workplace. Further, it is necessary for the registered worker to have minimum three-year regular membership and is not taking a disability pension from any other Haryana Government Department/ Board/ Corporation.",
         "benefits": [
-            "A pension of \u20b93000/- per month is given to the worker in case of disability due to any infectious disease or accident at the workplace."
+            "A pension of ₹3000/- per month is given to the worker in case of disability due to any infectious disease or accident at the workplace."
         ],
         "eligibility": [
             "The worker should be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
@@ -34,7 +34,7 @@
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "Under the scheme, a monthly pension of \u20b93000/- is given to the registered worker in case of disability due to any infectious disease or accident at the workplace who has minimum three-year regular membership and is not taking a disability pension from any other Haryana Government Department/ Board/ Corporation."
+                "answer": "Under the scheme, a monthly pension of ₹3000/- is given to the registered worker in case of disability due to any infectious disease or accident at the workplace who has minimum three-year regular membership and is not taking a disability pension from any other Haryana Government Department/ Board/ Corporation."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "A pension of \u20b93000/- per month is given to the worker in case of disability due to any infectious disease or accident at the workplace."
+                "answer": "A pension of ₹3000/- per month is given to the worker in case of disability due to any infectious disease or accident at the workplace."
             },
             {
                 "question": "What should be the percentage of disability to apply under the scheme?",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Yes, the first-time registration charges are \u20b925/- and the registration fees vary according to the renewal time period."
+                "answer": "Yes, the first-time registration charges are ₹25/- and the registration fees vary according to the renewal time period."
             },
             {
                 "question": "How can a construction worker apply under the scheme?",
@@ -105,5 +105,6 @@
             "Pension",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000404"
 }

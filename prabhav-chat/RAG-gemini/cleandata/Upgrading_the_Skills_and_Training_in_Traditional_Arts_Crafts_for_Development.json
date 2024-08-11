@@ -39,7 +39,7 @@
             },
             {
                 "question": "How much stipend is provided?",
-                "answer": "\u20b9 10,000/- per trainee for the non-residential programme. \u20b9 13,000/- per trainee for the residential programme."
+                "answer": "₹ 10,000/- per trainee for the non-residential programme. ₹ 13,000/- per trainee for the residential programme."
             },
             {
                 "question": "Who can get the benefits?",
@@ -81,5 +81,6 @@
             "Traditional Arts",
             "Minority Welfare"
         ]
-    }
+    },
+    "id": "001994"
 }

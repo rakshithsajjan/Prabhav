@@ -5,9 +5,9 @@
         "department": "Department of Telecommunications",
         "type": "Internship",
         "beneficiary": "Students",
-        "details": "The \u2018TEC Internship Scheme\u2019 by the Telecommunication Engineering Centre (TEC), Department of Telecommunications, New Delhi intends to engage 25 Interns in order to study/formulate/operationalize/assess various works/projects/policies etc. The internship Programme will allow young talent to be associated with the TEC work for mutual benefit. It will enable TEC to interact with young scholars and get fresh ideas and study/ research support from academics. At the same time, it will provide an opportunity for young scholars to contribute to the TEC work and have insight into the related technical work.",
+        "details": "The ‘TEC Internship Scheme’ by the Telecommunication Engineering Centre (TEC), Department of Telecommunications, New Delhi intends to engage 25 Interns in order to study/formulate/operationalize/assess various works/projects/policies etc. The internship Programme will allow young talent to be associated with the TEC work for mutual benefit. It will enable TEC to interact with young scholars and get fresh ideas and study/ research support from academics. At the same time, it will provide an opportunity for young scholars to contribute to the TEC work and have insight into the related technical work.",
         "benefits": [
-            "Interns will be paid a token amount of \u20b9 15,000/- per month.",
+            "Interns will be paid a token amount of ₹ 15,000/- per month.",
             "Interns will be issued a Certificate at the end of the internship."
         ],
         "eligibility": [
@@ -70,7 +70,7 @@
             },
             {
                 "question": "Will I Receive Any Remuneration During The Internship?",
-                "answer": "Yes, selected interns will receive a monthly token remuneration of \u20b915,000."
+                "answer": "Yes, selected interns will receive a monthly token remuneration of ₹15,000."
             }
         ],
         "sources": [
@@ -91,5 +91,6 @@
                 "url": "https://www.tec.gov.in/"
             }
         ]
-    }
+    },
+    "id": "001915"
 }

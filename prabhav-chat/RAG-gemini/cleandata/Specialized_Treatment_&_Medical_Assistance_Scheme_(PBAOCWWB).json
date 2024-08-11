@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Welfare Scheme",
         "beneficiary": "Registered Construction Workers",
-        "details": "The 'Specialized Treatment & Medical Assistance Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. The Board provides for upto \u20b92,00,000/- for taking specialized medical treatment in Hospitals having tie-up with Government General Hospitals. The amount for the medical treatment is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker. The applications are accepted offline.",
+        "details": "The 'Specialized Treatment & Medical Assistance Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. The Board provides for upto ₹2,00,000/- for taking specialized medical treatment in Hospitals having tie-up with Government General Hospitals. The amount for the medical treatment is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of upto \u20b92,00,000/- for taking specialized medical treatment in Hospitals having tie-ups with Government General Hospitals."
+            "Financial Assistance of upto ₹2,00,000/- for taking specialized medical treatment in Hospitals having tie-ups with Government General Hospitals."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What financial assistance does the 'Specialized Treatment & Medical Assistance Scheme' offer?",
-                "answer": "The scheme provides financial assistance of up to \u20b92,00,000/- for taking specialized medical treatment in hospitals having tie-ups with Government General Hospitals."
+                "answer": "The scheme provides financial assistance of up to ₹2,00,000/- for taking specialized medical treatment in hospitals having tie-ups with Government General Hospitals."
             },
             {
                 "question": "What is the role of the Direct Benefit Transfer (DBT) in the disbursement of financial assistance under the scheme?",
@@ -98,5 +98,6 @@
             "Medical",
             "Worker"
         ]
-    }
+    },
+    "id": "001832"
 }

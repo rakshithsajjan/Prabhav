@@ -7,13 +7,13 @@
         "beneficiary": "Persons with Disabilities",
         "details": "The 'Free Motorized Tricycle Scheme for Persons with Disabilities' aims to empower individuals facing mobility challenges due to disabilities. Launched in 2020 by the Government of Uttar Pradesh, the program provides free motorized tricycles to those struggling to integrate into society due to physical limitations. This initiative seeks to facilitate their economic and social rehabilitation, granting them greater independence and participation in daily life.",
         "benefits": [
-            "The maximum grant amount under this scheme is the motorized actual price of tricycles or \u20b925,000/- whichever minimum per person with disabilities will be permissible.",
-            "If the cost of a motorized bicycle exceeds \u20b925,000/-, the expenditure incurred in addition to the maximum grant amount of \u20b925,000/- will be borne by the beneficiary himself."
+            "The maximum grant amount under this scheme is the motorized actual price of tricycles or ₹25,000/- whichever minimum per person with disabilities will be permissible.",
+            "If the cost of a motorized bicycle exceeds ₹25,000/-, the expenditure incurred in addition to the maximum grant amount of ₹25,000/- will be borne by the beneficiary himself."
         ],
         "eligibility": [
             "Beneficiary should be resident of Uttar Pradesh.",
             "Beneficiary age should be 16 old or above.",
-            "Family annual income must not exceed \u20b91,50,000/- from all the sources.",
+            "Family annual income must not exceed ₹1,50,000/- from all the sources.",
             "Beneficiary can get the benefits only at once.",
             "Beneficiary must not be previously benefited by a motorized tricycle from the Government of India/Local Bodies/Member of Legislative Assembly Fund/MPLADS or other Government or Government funded sources.",
             "Applicants must have disability of 80% or more and certified by the Chief Medical Officer of the district."
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the maximum grant amount under the Motorized Tricycle Scheme?",
-                "answer": "The maximum grant amount is either the actual price of the motorized tricycle or \u20b925,000/-, whichever is higher, as permissible for each person with disabilities."
+                "answer": "The maximum grant amount is either the actual price of the motorized tricycle or ₹25,000/-, whichever is higher, as permissible for each person with disabilities."
             },
             {
                 "question": "Can individuals from outside Uttar Pradesh avail of the benefits under this scheme?",
@@ -86,5 +86,6 @@
             "Empowerment",
             "Uttar Pradesh"
         ]
-    }
+    },
+    "id": "000638"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste Students",
         "details": "The scheme 'Dr. B.R. Ambedkar Memorial Award to Scheduled Caste Students' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The award is granted to top ranking boy and girl student in each region (Pondicherry, Karaikal and Yanam) who have secured not less than 55% of marks in the aggregate in the Higher Secondary Examination.",
         "benefits": [
-            "Cash award of \u20b915,000"
+            "Cash award of ₹15,000"
         ],
         "eligibility": [
             "The applicant should be from a Scheduled Caste.",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the monetary benefit provided under this scheme?",
-                "answer": "Eligible students receive a cash award of \u20b915,000 as part of the Dr. B.R. Ambedkar Memorial Award."
+                "answer": "Eligible students receive a cash award of ₹15,000 as part of the Dr. B.R. Ambedkar Memorial Award."
             },
             {
                 "question": "Is There Any Compensation For The Delay In The Disbursal Of The Scheme Benefits?",
@@ -81,5 +81,6 @@
             "Scheduled Caste",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000431"
 }

@@ -7,12 +7,12 @@
         "beneficiary": "Students with Disabilities",
         "details": "The scheme 'Scholarships to Students with Disabilities Scheme' was started by the Department of Social Security and Women & Child Development, Government of Punjab in the year 1996. The objective of the scheme is to assist students with disabilities to secure education, academic, technical, or professional training to enable them to earn a living and become useful members of society. This scheme is fully state-sponsored.",
         "benefits": [
-            "Scholarship @ \u20b9200/- per month per Student with Disability for education for class 1st to 8th.",
-            "Scholarship @ \u20b9300/- per month per student with Disability for education/training from 9th Class onwards."
+            "Scholarship @ ₹200/- per month per Student with Disability for education for class 1st to 8th.",
+            "Scholarship @ ₹300/- per month per student with Disability for education/training from 9th Class onwards."
         ],
         "eligibility": [
             "All students of Punjab having 40 % and above disability (In any disability contained in the schedule of RPwD Act 2016) certificate.",
-            "The monthly income of family/guardians should not exceed \u20b95,000/- per month.",
+            "The monthly income of family/guardians should not exceed ₹5,000/- per month.",
             "The candidate should have secured at least 40% marks in the previous annual examination.",
             "The scholarship will be provided to each student with disability from 1st class onwards."
         ],
@@ -20,7 +20,7 @@
         "application_process": "Offline. Application for the scholarship is submitted to the Head of school/college/institution who after verifying it shall forward it to the District Social Security Officer (DSSO) of the concerned district.",
         "documents_required": [
             "Disability Certificate/ UDID showing 40% and above disability",
-            "Income certificate showing less than \u20b9 60,000/- per year income of parents",
+            "Income certificate showing less than ₹ 60,000/- per year income of parents",
             "Copy of the bank account details"
         ],
         "faqs": [
@@ -34,11 +34,11 @@
             },
             {
                 "question": "What is the scholarship amount provided under this scheme for students in classes 1st to 8th?",
-                "answer": "Under this scheme, students in classes 1st to 8th are eligible for a scholarship of \u20b9200 per month per student with a disability."
+                "answer": "Under this scheme, students in classes 1st to 8th are eligible for a scholarship of ₹200 per month per student with a disability."
             },
             {
                 "question": "How much scholarship is awarded to students with disabilities in 9th class onwards or during advanced education and training?",
-                "answer": "Students with disabilities in 9th class onwards or those pursuing advanced education and training are eligible for a higher scholarship amount of \u20b9300 per month per student."
+                "answer": "Students with disabilities in 9th class onwards or those pursuing advanced education and training are eligible for a higher scholarship amount of ₹300 per month per student."
             },
             {
                 "question": "How is the scholarship disbursed to the students under this scheme?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "Is there a specific income limit for the family or guardians of the student to qualify for the scholarship?",
-                "answer": "Yes, the monthly income of the family or guardians of the student should not exceed \u20b95,000 to be eligible for the scholarship."
+                "answer": "Yes, the monthly income of the family or guardians of the student should not exceed ₹5,000 to be eligible for the scholarship."
             },
             {
                 "question": "What academic requirement must a candidate meet to be eligible for the scholarship?",
@@ -77,5 +77,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001759"
 }

@@ -2,12 +2,12 @@
     "content": {
         "title": "Tea Development Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Tea Grower",
-        "details": "The scheme \u201cTea Development Scheme\u201d was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to continue the experimental plantation of tea and to find the possibility of growing tea economically as well as on a commercial scale. Further, seedlings are raised in the experimental station and distributed free to farmers.",
+        "details": "The scheme “Tea Development Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to continue the experimental plantation of tea and to find the possibility of growing tea economically as well as on a commercial scale. Further, seedlings are raised in the experimental station and distributed free to farmers.",
         "benefits": [
-            "Seedlings are offered for sale at the rate \u20b91/- per tea seedling and one-time financial assistance at the rate \u20b910,000/- per hectare.",
+            "Seedlings are offered for sale at the rate ₹1/- per tea seedling and one-time financial assistance at the rate ₹10,000/- per hectare.",
             "PP chemicals, equipment, brush cutters, tea harvesters, etc. on sale at the rate of 50% subsidy."
         ],
         "eligibility": [
@@ -30,15 +30,15 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya has launched this scheme."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya has launched this scheme."
             },
             {
                 "question": "What is the type of assistance/service?",
-                "answer": "Providing tea seedlings, bio-pesticides, bio-fungicides, plant protection equipment, brush cutters, harvesters\u2019 etc. One-time financial assistance @ \u20b910,000/- per hectare and training and capacity building are also provided to the Tea growers."
+                "answer": "Providing tea seedlings, bio-pesticides, bio-fungicides, plant protection equipment, brush cutters, harvesters’ etc. One-time financial assistance @ ₹10,000/- per hectare and training and capacity building are also provided to the Tea growers."
             },
             {
                 "question": "What is the pattern of assistance?",
-                "answer": "(i) Sale @ \u20b91/- per seedling (ii) One-time financial assistance @ \u20b910,000/- per hectare. (iii)50% subsidy on bio-fertilizers bio-pesticides, bio-fungicides, plant protection equipment, brush cutters, harvesters, etc."
+                "answer": "(i) Sale @ ₹1/- per seedling (ii) One-time financial assistance @ ₹10,000/- per hectare. (iii)50% subsidy on bio-fertilizers bio-pesticides, bio-fungicides, plant protection equipment, brush cutters, harvesters, etc."
             },
             {
                 "question": "Who can apply for the scheme?",
@@ -49,7 +49,7 @@
                 "answer": "Bonafide farmers can apply in plain paper along with supported land documents through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "Bonafide farmers on first come first serve basis."
             },
             {
@@ -76,5 +76,6 @@
             "Tea",
             "Tea Grower"
         ]
-    }
+    },
+    "id": "001921"
 }

@@ -5,11 +5,11 @@
         "department": "Industries and Commerce Dept.",
         "type": "Scholarship",
         "beneficiary": "Children of Artisans/Weavers",
-        "details": "A scholarship scheme by the Industries and Commerce Dept., Govt. of Jammu and Kashmir to provide financial support to the children of Artisans/Weavers of Handicrafts and Handloom Depts. in completion of education. The scholarship shall be provided to a maximum of two children of Weaver/Artisan. The payment shall be made on Direct Benefit Transfer (DBT) to the student. \u20b91500 per year up to primary education; \u20b9 2000 per year for Classes 6th to 10th; \u20b9 3000 per year for Classes 11th and 12th; As per actual course fee fixed by the Government for Technical/Professional Courses.",
+        "details": "A scholarship scheme by the Industries and Commerce Dept., Govt. of Jammu and Kashmir to provide financial support to the children of Artisans/Weavers of Handicrafts and Handloom Depts. in completion of education. The scholarship shall be provided to a maximum of two children of Weaver/Artisan. The payment shall be made on Direct Benefit Transfer (DBT) to the student. ₹1500 per year up to primary education; ₹ 2000 per year for Classes 6th to 10th; ₹ 3000 per year for Classes 11th and 12th; As per actual course fee fixed by the Government for Technical/Professional Courses.",
         "benefits": [
-            "\u20b91500 per year up to primary education",
-            "\u20b92000 per year for Classes 6th to 10th",
-            "\u20b93000 per year for Classes 11th and 12th",
+            "₹1500 per year up to primary education",
+            "₹2000 per year for Classes 6th to 10th",
+            "₹3000 per year for Classes 11th and 12th",
             "As per the actual course fee fixed by the Government for Technical/Professional Courses",
             "The payment shall be made on Direct Benefit Transfer (DBT) to the student"
         ],
@@ -17,7 +17,7 @@
             "The parent of the applicant should be a Weaver/Artisan.",
             "The parent should be registered with the Handicrafts and Handloom Departments having valid registration card/certificate.",
             "The applicant should not have availed benefits under the following schemes being implemented by the departments: Pre-Matric Scholarship Scheme; Post-Matric Scholarship Scheme; Prime Minister's Scholarship Scheme; Any other scheme. The applicant shall seek NOC from the concerned Zonal Educational Officer and Tehsil Social Welfare Officer.",
-            "The applicant should fulfill one of the following conditions: The applicant should have a Below Poverty Line (BPL) Card, Antyodaya Anna Yojana (AAY) Ration Card, Priority Household (PHH) Card; The applicant should have Economically Weaker Section (EWS) Certificate; The total annual income of the parents of the applicant should be less than or equal to \u20b990,000. The Income Certificate should be issued by 1st Class Magistrate/Tehsildar concerned."
+            "The applicant should fulfill one of the following conditions: The applicant should have a Below Poverty Line (BPL) Card, Antyodaya Anna Yojana (AAY) Ration Card, Priority Household (PHH) Card; The applicant should have Economically Weaker Section (EWS) Certificate; The total annual income of the parents of the applicant should be less than or equal to ₹90,000. The Income Certificate should be issued by 1st Class Magistrate/Tehsildar concerned."
         ],
         "exclusions": [
             "Pre-Matric Scholarship",
@@ -29,7 +29,7 @@
         "documents_required": [
             "Aadhaar Number of Self",
             "Registration Card/Certificate of the parent (Handicrafts and Handloom Department, Govt. of Jammu and Kashmir)",
-            "Below Poverty Line (BPL) Card / Priority Household (PHH) Card / Antyodaya Anna Yojana (AAY) Ration Card (OR) Economic Weaker Section (EWS) Certificate (OR) Income Certificate (less than \u20b990,000 per annum) issued by 1st Class Magistrate/Tehsildar concerned.",
+            "Below Poverty Line (BPL) Card / Priority Household (PHH) Card / Antyodaya Anna Yojana (AAY) Ration Card (OR) Economic Weaker Section (EWS) Certificate (OR) Income Certificate (less than ₹90,000 per annum) issued by 1st Class Magistrate/Tehsildar concerned.",
             "Proof of Educational Qualification",
             "Bank Details",
             "Domicile Certificate"
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What Is A Ration Card?",
-                "answer": "A ration card is a document issued by the State Government that serves as identity proof and indicates an individual\u2019s economic status. It is a document that helps an individual to avail of various government benefits provided to the holders of the card."
+                "answer": "A ration card is a document issued by the State Government that serves as identity proof and indicates an individual’s economic status. It is a document that helps an individual to avail of various government benefits provided to the holders of the card."
             },
             {
                 "question": "How Many Children Of A Weaver/Artisan Can Be Eligible To Receive The Scholarship?",
@@ -72,5 +72,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001602"
 }

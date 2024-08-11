@@ -58,7 +58,7 @@
                 "answer": "No, farmers with land holdings greater than 5 Ha are not eligible to apply."
             },
             {
-                "question": "I am a landless farmer however I want to apply for the activity which doesn\u2019t need land, am I eligible to apply and what additional document am I supposed to be produced?",
+                "question": "I am a landless farmer however I want to apply for the activity which doesn’t need land, am I eligible to apply and what additional document am I supposed to be produced?",
                 "answer": "Yes, you can apply for certain activities and need to provide a landless farmer certificate."
             },
             {
@@ -78,7 +78,7 @@
                 "answer": "You need to link your Aadhaar card with your bank account to receive financial benefits."
             },
             {
-                "question": "I have received an SMS that disbursement is made on my account for the activity which I have completed, however, I haven\u2019t received the funds in my account. What should I do?",
+                "question": "I have received an SMS that disbursement is made on my account for the activity which I have completed, however, I haven’t received the funds in my account. What should I do?",
                 "answer": "Visit Citizen Service Centre to activate your Aadhaar."
             },
             {
@@ -102,5 +102,6 @@
             "Climate Resilience",
             "Farmers"
         ]
-    }
+    },
+    "id": "001265"
 }

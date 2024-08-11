@@ -5,9 +5,9 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Legal heirs of deceased construction workers",
-        "details": "The \u201cAccidental Death Assistance Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under this scheme, financial assistance shall be provided to the legal heirs of the deceased construction workers, registered or unregistered with the Board, in case of accidental death or permanent disability during ongoing work at the construction site.",
+        "details": "The “Accidental Death Assistance Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). Under this scheme, financial assistance shall be provided to the legal heirs of the deceased construction workers, registered or unregistered with the Board, in case of accidental death or permanent disability during ongoing work at the construction site.",
         "benefits": [
-            "Financial assistance of \u20b93,00,000/- shall be given to the legal heirs of the deceased construction workers."
+            "Financial assistance of ₹3,00,000/- shall be given to the legal heirs of the deceased construction workers."
         ],
         "eligibility": [
             "The applicant should be a legal heir of the deceased worker.",
@@ -36,11 +36,11 @@
         "faqs": [
             {
                 "question": "Who administers this Scheme?",
-                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker’s Welfare Board."
             },
             {
                 "question": "What benefits does the scheme offer?",
-                "answer": "The scheme provides a financial assistance amounting to \u20b93,00,000/- to the legal heirs of the deceased construction workers."
+                "answer": "The scheme provides a financial assistance amounting to ₹3,00,000/- to the legal heirs of the deceased construction workers."
             },
             {
                 "question": "Who is eligible to apply for assistance under this scheme?",
@@ -89,5 +89,6 @@
             "Heir",
             "Permanent Disability"
         ]
-    }
+    },
+    "id": "000046"
 }

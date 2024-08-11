@@ -1,20 +1,20 @@
 {
     "content": {
-        "title": "Chief Minister\u2019s Girl Child Protection Scheme-II",
+        "title": "Chief Minister’s Girl Child Protection Scheme-II",
         "state": "Tamil Nadu",
         "department": "Social Welfare and Women Empowerment Department",
         "type": "Financial Assistance",
         "beneficiary": "Girl children of poor families",
-        "details": "The 'Chief Minister\u2019s Girl Child Protection Scheme-I' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to provide financial assistance to girl children of poor families as well as to promote girl child education, small family norms, increase the child sex ratio, discourage the preference for male child & eradicate female infanticide.",
+        "details": "The 'Chief Minister’s Girl Child Protection Scheme-I' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to provide financial assistance to girl children of poor families as well as to promote girl child education, small family norms, increase the child sex ratio, discourage the preference for male child & eradicate female infanticide.",
         "benefits": [
-            "A fixed deposit (FD) of \u20b925,000/- each in the name of the two girl children (A copy of the FD receipt is given to the family).",
+            "A fixed deposit (FD) of ₹25,000/- each in the name of the two girl children (A copy of the FD receipt is given to the family).",
             "Renewal of FD after five years.",
-            "An annual incentive of \u20b91,800/- from the 6th year of the FD.",
+            "An annual incentive of ₹1,800/- from the 6th year of the FD.",
             "The amount deposited along with accrued interest is given to the girl child when she attains 18 years of age."
         ],
         "eligibility": [
             "The assistance is provided only for two girl children of the family.",
-            "The annual income of the parents of the girl child should not exceed \u20b972,000/-.",
+            "The annual income of the parents of the girl child should not exceed ₹72,000/-.",
             "One of the parents must have undergone sterilization before turning 40 years old.",
             "The family should have only one female child and no male child. In the future, no male child should be adopted.",
             "The parents/grandparents should be a native of Tamil Nadu by birth or continuous residence of not less than ten years at the time of applying to this scheme.",
@@ -85,5 +85,6 @@
             "Girl Child",
             "Poor"
         ]
-    }
+    },
+    "id": "000299"
 }

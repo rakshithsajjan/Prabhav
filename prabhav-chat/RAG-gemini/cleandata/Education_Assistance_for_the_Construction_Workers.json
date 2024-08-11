@@ -7,15 +7,15 @@
         "beneficiary": "Construction Workers",
         "details": "The 'Education Assistance for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. The objective of the scheme is to provide scholarships to the students studying in various classes for enabling them to bear the expenses required for their studies.",
         "benefits": [
-            "Class 1 to 8: \u20b9 500/- per month",
-            "Class 9 to 10: \u20b9 700/- per month",
-            "Class 11 to 12: \u20b9 1,000/- per month",
-            "Graduation level: \u20b9 3,000/- per month",
-            "ITI Course: \u20b9 4,000/- per month",
-            "L.LB. Course (5 Years): \u20b9 4,000/- per month",
-            "L.LB Course (3 years): \u20b9 3,000/- per month",
-            "Polytechnic Diploma: \u20b9 5,000/- per month",
-            "Technical Course such as Engineering, Medical, MBA: \u20b9 10,000/- per month"
+            "Class 1 to 8: ₹ 500/- per month",
+            "Class 9 to 10: ₹ 700/- per month",
+            "Class 11 to 12: ₹ 1,000/- per month",
+            "Graduation level: ₹ 3,000/- per month",
+            "ITI Course: ₹ 4,000/- per month",
+            "L.LB. Course (5 Years): ₹ 4,000/- per month",
+            "L.LB Course (3 years): ₹ 3,000/- per month",
+            "Polytechnic Diploma: ₹ 5,000/- per month",
+            "Technical Course such as Engineering, Medical, MBA: ₹ 10,000/- per month"
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -74,5 +74,6 @@
             "Construction Workers",
             "Scholarship"
         ]
-    }
+    },
+    "id": "000470"
 }

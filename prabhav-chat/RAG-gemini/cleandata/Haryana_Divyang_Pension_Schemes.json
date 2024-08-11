@@ -5,7 +5,7 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Pension",
         "beneficiary": "Disabled Persons",
-        "details": "To provide social security to Disabled Persons, the scheme called \u201cThe Haryana Disabled Persons Pension Schemes\u201d was introduced in the year 1981-82. The aim of the scheme is to provide social security to Disabled persons who are unable to sustain themselves with their own resources and are in need of financial assistance from the State. The rate of pension has been increased over the years, currently set at Rs. 2500/- per month as of 01.04.2021.",
+        "details": "To provide social security to Disabled Persons, the scheme called “The Haryana Disabled Persons Pension Schemes” was introduced in the year 1981-82. The aim of the scheme is to provide social security to Disabled persons who are unable to sustain themselves with their own resources and are in need of financial assistance from the State. The rate of pension has been increased over the years, currently set at Rs. 2500/- per month as of 01.04.2021.",
         "benefits": [
             "Pension amount increased from Rs. 50/- to Rs. 2500/- over the years.",
             "Financial assistance for disabled individuals who cannot sustain themselves."
@@ -70,5 +70,6 @@
             "Social Security",
             "Haryana"
         ]
-    }
+    },
+    "id": "000764"
 }

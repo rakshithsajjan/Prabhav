@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste Girl Students",
         "details": "The scheme 'Award of Opportunity Cost to Parents of Scheduled Caste Girl Students' was implemented by the Adi Dravidar Welfare Department, Government of Puducherry to financially assist the Scheduled Caste parents for sending school their daughters who otherwise earn livelihood for the family engaging themselves in menial labour. The objective of the scheme is to eliminate the Scheduled Caste girl child labour and encourage Scheduled Castes parents to send their girl children to educational institutions by paying opportunity cost in lieu of the income shortage suffered by them.",
         "benefits": [
-            "\u20b93,000/- per academic year is payable to the Scheduled Caste parent for each daughter studying in classes VI to XII standard.",
+            "₹3,000/- per academic year is payable to the Scheduled Caste parent for each daughter studying in classes VI to XII standard.",
             "The opportunity cost is payable to the parents of the Scheduled Caste girl in addition to the Pre-Matric Scholarship payable to the children.",
             "The opportunity cost is not payable in respect of girls re-admitted in a class for a second academic year, owing to failure or discontinuance in the class previously."
         ],
@@ -15,7 +15,7 @@
             "The student should be a girl student studying in Class VI Standard to XII Standard of a Government or Government recognized educational institution in the Union Territory of Puducherry.",
             "The students should belong to the Scheduled Caste community.",
             "The girl student and her parent/guardian should be a native of the Union Territory of Puducherry either by virtue of birth or by continuous residence for a period of not less than 3 years.",
-            "The annual income of the parents shall not be more than \u20b924,000/-."
+            "The annual income of the parents shall not be more than ₹24,000/-."
         ],
         "exclusions": [],
         "application_process": "Online submission of the application form can be done through the website of the National Scholarship Portal.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What does 'Opportunity cost' means?",
-                "answer": "'Opportunity cost' means the amount payable to the parents of Scheduled Caste of students to compensate them for the loss of income suffered by them on account of sending their girl children to schools, who are compelled by the Socio-economic system to work and earn for their families\u2019 subsistence income."
+                "answer": "'Opportunity cost' means the amount payable to the parents of Scheduled Caste of students to compensate them for the loss of income suffered by them on account of sending their girl children to schools, who are compelled by the Socio-economic system to work and earn for their families’ subsistence income."
             },
             {
                 "question": "Which is the implementing agency of this scheme?",
@@ -55,11 +55,11 @@
             },
             {
                 "question": "What is the income criterion for applying under the scheme?",
-                "answer": "The annual income of the parents shall not be more than \u20b924,000/-."
+                "answer": "The annual income of the parents shall not be more than ₹24,000/-."
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, \u20b93,000/- per academic year is payable to the Scheduled Caste parent for each daughter studying in classes VI to XII standard."
+                "answer": "Under this scheme, ₹3,000/- per academic year is payable to the Scheduled Caste parent for each daughter studying in classes VI to XII standard."
             },
             {
                 "question": "Can a girl student also avail of the benefits of Pre-Matric Scholarship?",
@@ -94,5 +94,6 @@
             "Financial Assistance",
             "Education"
         ]
-    }
+    },
+    "id": "000149"
 }

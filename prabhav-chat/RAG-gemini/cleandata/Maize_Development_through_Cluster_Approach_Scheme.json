@@ -2,10 +2,10 @@
     "content": {
         "title": "Maize Development through Cluster Approach Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmer",
-        "details": "The scheme 'Maize Development through Cluster Approach' was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is to increase food grain production in order to attain self-sufficiency by growing high-yielding varieties of maize and also by adopting crop and location-specific production technology.",
+        "details": "The scheme 'Maize Development through Cluster Approach' was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to increase food grain production in order to attain self-sufficiency by growing high-yielding varieties of maize and also by adopting crop and location-specific production technology.",
         "benefits": [
             "Under the scheme, quality seeds shall be supplied to farmers at subsidized rates for higher yield."
         ],
@@ -29,7 +29,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -37,14 +37,14 @@
             },
             {
                 "question": "What is the pattern of assistance?",
-                "answer": "Under the scheme, quality seeds shall be supplied to farmers at subsidized rates for higher yield thereby enhancing the farmers\u2019 economy."
+                "answer": "Under the scheme, quality seeds shall be supplied to farmers at subsidized rates for higher yield thereby enhancing the farmers’ economy."
             },
             {
                 "question": "How to avail the benefits of the scheme?",
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/Agriculture circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The beneficiaries will be selected on a first come first served basis."
             },
             {
@@ -63,5 +63,6 @@
             "Quality Seeds",
             "Agriculture"
         ]
-    }
+    },
+    "id": "001074"
 }

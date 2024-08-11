@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The 'Ex-gratia Payment for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, an ex-gratia amount of \u20b91,00,000/- is provided to the registered workers of the board in case of permanent disability.",
+        "details": "The 'Ex-gratia Payment for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, an ex-gratia amount of ₹1,00,000/- is provided to the registered workers of the board in case of permanent disability.",
         "benefits": [
-            "Ex-gratia payment of \u20b91,00,000/- in case of permanent disability."
+            "Ex-gratia payment of ₹1,00,000/- in case of permanent disability."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -71,5 +71,6 @@
             "Labour",
             "Permanently Disability"
         ]
-    }
+    },
+    "id": "000495"
 }

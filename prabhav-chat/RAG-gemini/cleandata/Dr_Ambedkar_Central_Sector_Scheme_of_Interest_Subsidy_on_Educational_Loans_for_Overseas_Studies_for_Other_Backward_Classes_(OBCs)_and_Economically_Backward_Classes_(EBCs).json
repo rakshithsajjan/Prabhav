@@ -8,13 +8,13 @@
         "details": "The scheme provides interest subsidy to the students belonging to the OBCs and EBCs on the interest payable for the period of the moratorium for the Education Loans for overseas studies to pursue approved courses of studies abroad at Masters, M.Phil. and PhD level.",
         "benefits": [
             "Interest payable by the students availing the education loans of the IBA for the period of moratorium shall be borne by the Government of India.",
-            "The eligible loan component shall be the actual loan taken subject to a maximum of \u20b9 20,00,000 for the purpose of an Interest subsidy claim."
+            "The eligible loan component shall be the actual loan taken subject to a maximum of ₹ 20,00,000 for the purpose of an Interest subsidy claim."
         ],
         "eligibility": [
             "The applicant should be a Student.",
             "The student should have secured admission in the approved course at Masters, M.Phil or PhD levels abroad.",
             "The applicant should have availed loan from a scheduled bank under the Education Loan Scheme of the Indian Banks Association (IBA).",
-            "The total income of the applicant shall not exceed \u20b9 8,00,000 per annum."
+            "The total income of the applicant shall not exceed ₹ 8,00,000 per annum."
         ],
         "exclusions": [],
         "application_process": "The interest Subsidy shall be linked with the existing Educational Loan Scheme of the Indian Banks Association (IBA) and restricted to students enrolled for courses at Master, M.Phil and PhD levels. The Nodal Bank will lay down the detailed procedure for processing and sanctioning interest subsidies to eligible students.",
@@ -99,5 +99,6 @@
             "OBC",
             "EBC"
         ]
-    }
+    },
+    "id": "000447"
 }

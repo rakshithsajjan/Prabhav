@@ -5,9 +5,9 @@
         "department": "Department of Information & Publicity",
         "type": "Grant",
         "beneficiary": "Journalists",
-        "details": "The 'Scheme for Grant of Pension Benefits to Journalists' by the Department of Information & Publicity, Union Territory of Puducherry, aims to provide financial support and recognition to eligible media professionals. The scheme offers a monthly pension of \u20b96,000/- to qualified journalists who are 58 years or above in age, and have served for a minimum of 20 years in roles such as Full-time Editor, Reporter, Sub-Editor, Press Photographer / Videographer / Correspondent.",
+        "details": "The 'Scheme for Grant of Pension Benefits to Journalists' by the Department of Information & Publicity, Union Territory of Puducherry, aims to provide financial support and recognition to eligible media professionals. The scheme offers a monthly pension of ₹6,000/- to qualified journalists who are 58 years or above in age, and have served for a minimum of 20 years in roles such as Full-time Editor, Reporter, Sub-Editor, Press Photographer / Videographer / Correspondent.",
         "benefits": [
-            "Pension Amount: \u20b96,000/- per month, or as may be fixed by the Government from time to time.",
+            "Pension Amount: ₹6,000/- per month, or as may be fixed by the Government from time to time.",
             "Date of Payment: Payment will be made on the 10th of every month.",
             "Mode of Payment: Payment will be made through the Electronic Clearing System."
         ],
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the quantum of pension provided under the scheme?",
-                "answer": "The quantum of pension under the Scheme for Grant of Pension Benefits to Journalists is \u20b96,000 per month, subject to adjustments as fixed by the government from time to time."
+                "answer": "The quantum of pension under the Scheme for Grant of Pension Benefits to Journalists is ₹6,000 per month, subject to adjustments as fixed by the government from time to time."
             },
             {
                 "question": "When does the pension become payable, and what is the mode of payment?",
@@ -78,5 +78,6 @@
             "Pension",
             "Press"
         ]
-    }
+    },
+    "id": "001694"
 }

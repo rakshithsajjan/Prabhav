@@ -7,7 +7,7 @@
         "beneficiary": "Students",
         "details": "Inland Waterways Authority of India (IWAI); a statutory body under the Ministry of Ports, Shipping and Waterways has introduced a scheme named 'The Inland Waterways Authority of India Internship Scheme'. This Internship Programme will provide an excellent opportunity to interns to familiarize them with the overall process of development of Inland Waterways Authority of India at the macro level.",
         "benefits": [
-            "Stipend @ \u20b9 10,000/- for Undergraduates and \u20b9 20,000/- for Post Graduate/ Research Scholars per month",
+            "Stipend @ ₹ 10,000/- for Undergraduates and ₹ 20,000/- for Post Graduate/ Research Scholars per month",
             "Experience Certificate upon successful completion of the Internship"
         ],
         "eligibility": [
@@ -53,11 +53,11 @@
             },
             {
                 "question": "How Much Shall The Remuneration Be To The Undergraduate Interns?",
-                "answer": "The remuneration to the Undergraduate Interns will be \u20b9 10,000/- per month."
+                "answer": "The remuneration to the Undergraduate Interns will be ₹ 10,000/- per month."
             },
             {
                 "question": "How Much Shall The Remuneration Be To The Post Graduate/ Research Scholar Interns?",
-                "answer": "The remuneration to the Post Graduate/ Research Scholar Interns will be \u20b9 20,000/- per month."
+                "answer": "The remuneration to the Post Graduate/ Research Scholar Interns will be ₹ 20,000/- per month."
             },
             {
                 "question": "When Will The Amount Of Stipend Be Disbursed To The Interns?",
@@ -92,5 +92,6 @@
             "Student",
             "IWAI"
         ]
-    }
+    },
+    "id": "001949"
 }

@@ -5,7 +5,7 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Registered construction workers",
-        "details": "The 'Shramik Parivahan Yojana' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under the scheme, the registered construction workers will be provided a bus pass through the Municipal Corporation at a concessional rate for commuting from Kadianaka to the workplace.",
+        "details": "The 'Shramik Parivahan Yojana' is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). Under the scheme, the registered construction workers will be provided a bus pass through the Municipal Corporation at a concessional rate for commuting from Kadianaka to the workplace.",
         "benefits": [
             "Registered construction workers will receive a bus pass at a concessional rate for commuting from Kadianaka to the workplace.",
             "Beneficiaries are required to contribute 20% of the pass amount, while the board covers the remaining 80%.",
@@ -13,7 +13,7 @@
         ],
         "eligibility": [
             "The applicant should be engaged in any Building or Other Construction Work.",
-            "The construction workers who are registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board will be eligible to get the benefit of this scheme."
+            "The construction workers who are registered with the Gujarat Building and Other Construction Worker’s Welfare Board will be eligible to get the benefit of this scheme."
         ],
         "exclusions": [],
         "application_process": "Offline. The applicant needs to visit the nearest municipal corporation office, collect the application form, fill in all the details, attach all the required documents, and submit it to the concerned official in the municipal corporation office. After verification of the details, a bus pass may be issued to the applicant by the authority. Note: 4 municipalities of the state (Ahmedabad, Vadodara, Surat, and Rajkot) are included in this scheme.",
@@ -25,7 +25,7 @@
         "faqs": [
             {
                 "question": "Who implements the Shramik Parivahan Yojana?",
-                "answer": "The scheme is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB), under the Labour, Skill Development & Employment Department, Government of Gujarat."
+                "answer": "The scheme is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), under the Labour, Skill Development & Employment Department, Government of Gujarat."
             },
             {
                 "question": "What are the benefits of the scheme?",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "Who is eligible for the scheme?",
-                "answer": "Applicants must be engaged in any Building or Other Construction Work, and they must be registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+                "answer": "Applicants must be engaged in any Building or Other Construction Work, and they must be registered with the Gujarat Building and Other Construction Worker’s Welfare Board."
             },
             {
                 "question": "How to apply under the scheme?",
@@ -68,5 +68,6 @@
             "Construction Worker",
             "Labour"
         ]
-    }
+    },
+    "id": "001791"
 }

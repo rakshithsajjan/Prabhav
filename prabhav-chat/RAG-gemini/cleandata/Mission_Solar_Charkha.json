@@ -15,7 +15,7 @@
         "eligibility": [
             "Existing Khadi and Village Industry Institution (KVI) with a positive balance sheet and assets.",
             "KVI having an artisan base of not less than 200.",
-            "KVI having a sales turnover of not less than \u20b91.00 Crore in each of the preceding three financial years.",
+            "KVI having a sales turnover of not less than ₹1.00 Crore in each of the preceding three financial years.",
             "Other Institutions such as SPV, Society, Trust, Section 8 Company or LLP under the Companies Act, 2013.",
             "First Timers with a commitment to social and rural upliftment."
         ],
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the maximum subsidy involved for one cluster of Solar Charkha?",
-                "answer": "One cluster of Solar Charkha would involve a maximum subsidy of \u20b99.599 cr."
+                "answer": "One cluster of Solar Charkha would involve a maximum subsidy of ₹9.599 cr."
             },
             {
                 "question": "Who can apply under the scheme?",
@@ -75,5 +75,6 @@
             "Rural Development",
             "Women Empowerment"
         ]
-    }
+    },
+    "id": "001144"
 }

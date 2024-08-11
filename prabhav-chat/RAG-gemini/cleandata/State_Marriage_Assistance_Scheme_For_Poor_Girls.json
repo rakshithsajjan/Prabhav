@@ -5,9 +5,9 @@
         "department": "Social Welfare Department",
         "type": "Financial Assistance",
         "beneficiary": "Poor Girls of Marriageable Age",
-        "details": "A social welfare scheme by the Social Welfare Department of the Government of Jammu & Kashmir, for Poor Girls of Marriageable Age who belong to either AAY (Antyodaya Anna Yojana) or PHH (Priority Households) ration card holder families. Through this scheme, they shall be paid one-time financial assistance @ \u20b950,000/- (rupees fifty thousand only) for getting married. The financial assistance shall have to be paid before her marriage. The financial assistance shall be directly transferred into the individual bank accounts of the beneficiaries (marriageable girls) through DBT mode. The receipt of applications as well as the transfer of assistance shall be in online mode only. The District Social Welfare Officer (DSWO) shall verify the details of the beneficiary regarding her marital status & age and shall submit the case before the Deputy Commissioner along with all requisite documents and his/her recommendations. The Deputy Commissioner shall sanction the financial assistance in favor of the beneficiary girl after determining the eligibility, and reasonably satisfying himself/herself about the genuineness of the case. The scheme is operational in all the districts across the Union Territory of Jammu and Kashmir.",
+        "details": "A social welfare scheme by the Social Welfare Department of the Government of Jammu & Kashmir, for Poor Girls of Marriageable Age who belong to either AAY (Antyodaya Anna Yojana) or PHH (Priority Households) ration card holder families. Through this scheme, they shall be paid one-time financial assistance @ ₹50,000/- (rupees fifty thousand only) for getting married. The financial assistance shall have to be paid before her marriage. The financial assistance shall be directly transferred into the individual bank accounts of the beneficiaries (marriageable girls) through DBT mode. The receipt of applications as well as the transfer of assistance shall be in online mode only. The District Social Welfare Officer (DSWO) shall verify the details of the beneficiary regarding her marital status & age and shall submit the case before the Deputy Commissioner along with all requisite documents and his/her recommendations. The Deputy Commissioner shall sanction the financial assistance in favor of the beneficiary girl after determining the eligibility, and reasonably satisfying himself/herself about the genuineness of the case. The scheme is operational in all the districts across the Union Territory of Jammu and Kashmir.",
         "benefits": [
-            "The eligible beneficiary girl shall receive an amount of \u20b950,000/- (rupees fifty thousand only) as one-time financial assistance before her marriage.",
+            "The eligible beneficiary girl shall receive an amount of ₹50,000/- (rupees fifty thousand only) as one-time financial assistance before her marriage.",
             "The financial assistance shall be directly transferred into the individual bank accounts of the beneficiaries (marriageable girls) through DBT mode."
         ],
         "eligibility": [
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the maximum amount of financial Assistance that a beneficiary girl can avail through this scheme?",
-                "answer": "The eligible beneficiary girl shall receive an amount of \u20b950,000/- (rupees fifty thousand only) as one time financial assistance before her marriage."
+                "answer": "The eligible beneficiary girl shall receive an amount of ₹50,000/- (rupees fifty thousand only) as one time financial assistance before her marriage."
             }
         ],
         "sources": [
@@ -67,5 +67,6 @@
             "Women Empowerment",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001845"
 }

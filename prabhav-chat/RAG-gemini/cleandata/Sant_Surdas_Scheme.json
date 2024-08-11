@@ -7,7 +7,7 @@
         "beneficiary": "Persons with Disabilities aged between 0 and 17 years",
         "details": "The scheme 'Sant Surdas Scheme' was launched by the Director Social Defence, Department of Social Justice & Empowerment, Government of Gujarat. Under the scheme, monthly financial assistance is provided to Persons with Disabilities aged between 0 and 17 years, who have a disability of more than 80% and are registered in the Below Poverty Line (BPL) list.",
         "benefits": [
-            "Under the scheme, a monthly assistance of \u20b91,000/- is paid to the beneficiary by the State Government through DBT."
+            "Under the scheme, a monthly assistance of ₹1,000/- is paid to the beneficiary by the State Government through DBT."
         ],
         "eligibility": [
             "The applicant should be a native of Gujarat.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the financial assistance provided under the Scheme?",
-                "answer": "Beneficiaries receive a monthly assistance of \u20b91,000/- from the State Government through Direct Benefit Transfer (DBT)."
+                "answer": "Beneficiaries receive a monthly assistance of ₹1,000/- from the State Government through Direct Benefit Transfer (DBT)."
             },
             {
                 "question": "Is there a cutoff age for receiving assistance under the scheme?",
@@ -81,5 +81,6 @@
             "PwD",
             "Social Defence"
         ]
-    }
+    },
+    "id": "001645"
 }

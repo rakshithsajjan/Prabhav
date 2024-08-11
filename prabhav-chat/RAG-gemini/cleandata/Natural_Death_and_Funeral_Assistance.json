@@ -7,8 +7,8 @@
         "beneficiary": "Registered folk artistes and their families",
         "details": "The Art and Culture Department, Government of Tamil Nadu was launched the scheme 'Natural Death and Funeral Assistance'. This scheme provides financial assistance for the funeral and natural death of registered folk artistes to support their families during difficult times. The applications are accepted offline in the prescribed form available at the Regional Office.",
         "benefits": [
-            "For Funeral \u20b92,000/-",
-            "For Natural Death \u20b915,000/-"
+            "For Funeral ₹2,000/-",
+            "For Natural Death ₹15,000/-"
         ],
         "eligibility": [
             "The applicant should be the Nominee of the registered folk artist.",
@@ -27,11 +27,11 @@
             },
             {
                 "question": "What is the amount provided for funeral assistance?",
-                "answer": "The amount provided for funeral assistance is \u20b92000."
+                "answer": "The amount provided for funeral assistance is ₹2000."
             },
             {
                 "question": "What is the amount provided for natural death assistance?",
-                "answer": "The amount provided for natural death assistance is \u20b915000."
+                "answer": "The amount provided for natural death assistance is ₹15000."
             },
             {
                 "question": "Who can claim the assistance?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the contact information for the appellate authority?",
-                "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamilnadu Folk Artiste\u2019s Welfare Board, Government Music College Campus, Greenways Road, Chennai - 28. Phone Nos. 044-615156 & 24613430."
+                "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamilnadu Folk Artiste’s Welfare Board, Government Music College Campus, Greenways Road, Chennai - 28. Phone Nos. 044-615156 & 24613430."
             },
             {
                 "question": "Is the nominee required to be a family member of the deceased?",
@@ -82,5 +82,6 @@
             "Financial Assistance",
             "Folk Artistes"
         ]
-    }
+    },
+    "id": "001343"
 }

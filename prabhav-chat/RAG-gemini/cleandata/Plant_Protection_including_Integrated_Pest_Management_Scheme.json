@@ -2,10 +2,10 @@
     "content": {
         "title": "Plant Protection including Integrated Pest Management Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya",
+        "department": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya",
         "type": "State Plan Scheme",
         "beneficiary": "Farmer",
-        "details": "The \u201cPlant Protection including Integrated Pest Management (IPM) Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is to mobilize and support farmers to use bio-pesticides and bio-agents for plant health management through the distribution of bio-pesticides and other IPM tools and through the sale of Sprayers and Plant Protection Equipment to encourage organic crop production.",
+        "details": "The “Plant Protection including Integrated Pest Management (IPM) Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to mobilize and support farmers to use bio-pesticides and bio-agents for plant health management through the distribution of bio-pesticides and other IPM tools and through the sale of Sprayers and Plant Protection Equipment to encourage organic crop production.",
         "benefits": [
             "Distribution of bio-pesticide and other IPM tools to farmers.",
             "Sale of Sprayers and Plant Protection Equipment.",
@@ -31,7 +31,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "What is the type of assistance/entitlement?",
@@ -50,7 +50,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/Agriculture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
             },
             {
@@ -77,5 +77,6 @@
             "Pest Management",
             "Plant Protection"
         ]
-    }
+    },
+    "id": "001449"
 }

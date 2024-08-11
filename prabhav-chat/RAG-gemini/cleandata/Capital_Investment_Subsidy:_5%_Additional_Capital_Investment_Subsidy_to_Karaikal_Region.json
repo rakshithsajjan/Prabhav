@@ -7,11 +7,11 @@
         "beneficiary": "Units in Karaikal Region",
         "details": "The 'Capital Investment Subsidy: 5% Additional Capital Investment Subsidy to Karaikal Region' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. Through this scheme, 5% Additional Incentive on the Existing Subsidy Schemes is provided to the Units in Karaikal Region. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "30% subject to a limit of \u20b930,00,000/- in case of SC/ST/Women Entrepreneurs.",
-            "25% subject to a limit of \u20b925,00,000/- for IT Industries.",
-            "40% subject to a limit of \u20b935,00,000/- for Small and Micro Thrust Area Enterprises.",
-            "25% Subject to a Maximum of \u20b925,00,000/- for Medium and Large Thrust Area Enterprises.",
-            "Priority industries eligible for subsidy at the rate of 25% on fixed asset viz., land, building and plant and machinery subject to a maximum of \u20b940,00,000/-."
+            "30% subject to a limit of ₹30,00,000/- in case of SC/ST/Women Entrepreneurs.",
+            "25% subject to a limit of ₹25,00,000/- for IT Industries.",
+            "40% subject to a limit of ₹35,00,000/- for Small and Micro Thrust Area Enterprises.",
+            "25% Subject to a Maximum of ₹25,00,000/- for Medium and Large Thrust Area Enterprises.",
+            "Priority industries eligible for subsidy at the rate of 25% on fixed asset viz., land, building and plant and machinery subject to a maximum of ₹40,00,000/-."
         ],
         "eligibility": [
             "The applicant should have an industrial unit in the Karaikal Region of Puducherry.",
@@ -25,7 +25,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
+            "Engineer’s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
             "Registered Lease Agreement for the Building Executed Between the Developer and the Unit.",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
@@ -36,7 +36,7 @@
         "faqs": [
             {
                 "question": "Are there any provisions for units in the Karaikal Region to receive subsidies for fixed assets like land, building, and plant and machinery?",
-                "answer": "Priority industries set up in Karaikal district are eligible for a 25% subsidy on fixed assets, including land, building, and plant and machinery, subject to a maximum of \u20b940,00,000."
+                "answer": "Priority industries set up in Karaikal district are eligible for a 25% subsidy on fixed assets, including land, building, and plant and machinery, subject to a maximum of ₹40,00,000."
             },
             {
                 "question": "Can industrial units expect any variations in the subsidy amount based on the availability of funds during the financial year?",
@@ -80,5 +80,6 @@
             "Machinery",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000240"
 }

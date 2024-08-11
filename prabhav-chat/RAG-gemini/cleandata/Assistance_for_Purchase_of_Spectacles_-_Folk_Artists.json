@@ -5,9 +5,9 @@
         "department": "Art and Culture Department",
         "type": "Financial Assistance",
         "beneficiary": "Registered Folk Artists",
-        "details": "The 'Assistance for Purchase of Spectacles' scheme was launched by the Art and Culture Department, Government of Tamil Nadu. Under this scheme, The Tamil Nadu Folk Artiste's Welfare Board provides assistance of \u20b9500/- for the purchase of spectacles to registered folk artists. The assistance shall be restricted to two thousand registered folk artists per year on 'First come \u2013 First serve' basis.",
+        "details": "The 'Assistance for Purchase of Spectacles' scheme was launched by the Art and Culture Department, Government of Tamil Nadu. Under this scheme, The Tamil Nadu Folk Artiste's Welfare Board provides assistance of ₹500/- for the purchase of spectacles to registered folk artists. The assistance shall be restricted to two thousand registered folk artists per year on 'First come – First serve' basis.",
         "benefits": [
-            "Financial Assistance maximum of \u20b9500/-"
+            "Financial Assistance maximum of ₹500/-"
         ],
         "eligibility": [
             "The applicant must be a registered folk artist.",
@@ -28,7 +28,7 @@
             },
             {
                 "question": "What is the maximum assistance amount?",
-                "answer": "The maximum assistance amount is \u20b9500/-."
+                "answer": "The maximum assistance amount is ₹500/-."
             },
             {
                 "question": "How many folk artists can receive assistance per year?",
@@ -102,5 +102,6 @@
             "Financial Assistance",
             "Spectacles"
         ]
-    }
+    },
+    "id": "000121"
 }

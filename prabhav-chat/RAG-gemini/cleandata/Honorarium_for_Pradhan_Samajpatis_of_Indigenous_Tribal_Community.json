@@ -7,7 +7,7 @@
         "beneficiary": "Pradhan Samajpatis (Chief Community Headman) of indigenous tribal communities",
         "details": "The scheme 'Honorarium for Pradhan Samajpatis of Indigenous Tribal Community' was launched by the Directorate of Social Welfare and Social Education, Government of Tripura on 1st July 2021 to provide financial assistance to the Pradhan Samajpatis (Chief Community Headman) of indigenous tribal communities in Tripura.",
         "benefits": [
-            "Honorarium of \u20b92000/- per month."
+            "Honorarium of ₹2000/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the monthly honorarium provided under this scheme?",
-                "answer": "Beneficiaries receive a monthly honorarium of \u20b92000/-."
+                "answer": "Beneficiaries receive a monthly honorarium of ₹2000/-."
             },
             {
                 "question": "How can applicants ensure a valid application submission?",
@@ -90,5 +90,6 @@
             "Indigenous",
             "Tribal"
         ]
-    }
+    },
+    "id": "000784"
 }

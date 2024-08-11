@@ -5,11 +5,11 @@
         "department": "Kerala Biotechnology Commission, KSCSTE",
         "type": "Fellowship",
         "beneficiary": "Young Scientists",
-        "details": "The programme \u201cYoung Investigator\u2019s Programme in Biotechnology (YIPB)\u201d is a research support programme that aims to provide quick research support to young researchers to pursue their ideas in newly emerging and front-line areas of research in Biotechnology. The scheme is implemented by Kerala Biotechnology Commission, KSCSTE to provide quick research support to young scientists to pursue their bright ideas in newly emerging and front-line areas of research in Biotechnology. Proposals can be submitted in any branch of biotechnology related to medical, agriculture, veterinary, environment, marine, industrial or bio-resources. Post-doctoral students/Research Associates not having permanent positions can also be Principal Investigator provided a senior faculty/scientist holding permanent positions shall associate as Co-Principal Investigator. A maximum research grant of \u20b930 lakh will be provided to the selected projects for a maximum duration of 3 years. Grants will be paid for specific projects to cover expenditure on manpower, equipment, consumables, contingencies and travel.",
+        "details": "The programme “Young Investigator’s Programme in Biotechnology (YIPB)” is a research support programme that aims to provide quick research support to young researchers to pursue their ideas in newly emerging and front-line areas of research in Biotechnology. The scheme is implemented by Kerala Biotechnology Commission, KSCSTE to provide quick research support to young scientists to pursue their bright ideas in newly emerging and front-line areas of research in Biotechnology. Proposals can be submitted in any branch of biotechnology related to medical, agriculture, veterinary, environment, marine, industrial or bio-resources. Post-doctoral students/Research Associates not having permanent positions can also be Principal Investigator provided a senior faculty/scientist holding permanent positions shall associate as Co-Principal Investigator. A maximum research grant of ₹30 lakh will be provided to the selected projects for a maximum duration of 3 years. Grants will be paid for specific projects to cover expenditure on manpower, equipment, consumables, contingencies and travel.",
         "benefits": [
-            "Young Scientists without fellowship/salary are eligible for a fellowship of \u20b945,000/- plus 10% HRA per month, in addition to the support for travel, contingency, consumables, and minor equipment.",
+            "Young Scientists without fellowship/salary are eligible for a fellowship of ₹45,000/- plus 10% HRA per month, in addition to the support for travel, contingency, consumables, and minor equipment.",
             "A Principal Investigator having a regular position can seek manpower.",
-            "Maximum support up to \u20b930 lakhs (excluding overhead charges @ 10% of the project cost subject to a ceiling of \u20b9 1.0 lakh) for a period not exceeding three years."
+            "Maximum support up to ₹30 lakhs (excluding overhead charges @ 10% of the project cost subject to a ceiling of ₹ 1.0 lakh) for a period not exceeding three years."
         ],
         "eligibility": [
             "The applicant should possess a Ph.D. in any branch of Life Sciences.",
@@ -31,8 +31,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cYoung Investigator\u2019s Programme in Biotechnology\u201d?",
-                "answer": "The programme \u201cYoung Investigator\u2019s Programme in Biotechnology (YIPB)\u201d is a research support programme that aims to provide quick research support to young researchers to pursue their ideas in newly emerging and front-line areas of research in Biotechnology."
+                "question": "What is the “Young Investigator’s Programme in Biotechnology”?",
+                "answer": "The programme “Young Investigator’s Programme in Biotechnology (YIPB)” is a research support programme that aims to provide quick research support to young researchers to pursue their ideas in newly emerging and front-line areas of research in Biotechnology."
             },
             {
                 "question": "Which is the implementing agency of this programme?",
@@ -52,11 +52,11 @@
             },
             {
                 "question": "What is the monthly remuneration given to young scientists?",
-                "answer": "Young Scientists without fellowship/salary are eligible for a fellowship of \u20b945,000/- plus 10% HRA per month, in addition to the support for travel, contingency, consumables, and minor equipment."
+                "answer": "Young Scientists without fellowship/salary are eligible for a fellowship of ₹45,000/- plus 10% HRA per month, in addition to the support for travel, contingency, consumables, and minor equipment."
             },
             {
                 "question": "How much will the maximum support be given under the programme?",
-                "answer": "Maximum support up to \u20b930 lakhs (excluding overhead charges @ 10% of the project cost subject to a ceiling of \u20b9 1.0 lakh) for a period not exceeding three years."
+                "answer": "Maximum support up to ₹30 lakhs (excluding overhead charges @ 10% of the project cost subject to a ceiling of ₹ 1.0 lakh) for a period not exceeding three years."
             },
             {
                 "question": "In which branch of biotechnology proposal can be submitted?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "Where can I contact regarding the programme?",
-                "answer": "The applicant may contact at the following address: The Scientist-in-charge, Kerala Biotechnology Commission, Kerala State Council for Science, Technology and Environment (KSCSTE), Sasthra Bhavan, Pattom, Thiruvananthapuram \u2013 695 004, Telephone: (0471) 2548254, 2548406, E-mail: kbc.kscste@kerala.gov.in."
+                "answer": "The applicant may contact at the following address: The Scientist-in-charge, Kerala Biotechnology Commission, Kerala State Council for Science, Technology and Environment (KSCSTE), Sasthra Bhavan, Pattom, Thiruvananthapuram – 695 004, Telephone: (0471) 2548254, 2548406, E-mail: kbc.kscste@kerala.gov.in."
             }
         ],
         "sources": [
@@ -129,5 +129,6 @@
             "Young Investigator",
             "Young Scientist"
         ]
-    }
+    },
+    "id": "002076"
 }

@@ -40,7 +40,7 @@
             },
             {
                 "question": "How much assistance is given to such girl student?",
-                "answer": "In class 11th and 12th, the assistance given is \u20b915,000, which can be increased to a maximum of \u20b91,00,000 on presenting hostel / coaching bills. In graduation / Post graduation, The Assistance Given Is \u20b925,000, which Can Be Increased To A Maximum Of \u20b92,00,000 On Presenting Hostel / Coaching Bills."
+                "answer": "In class 11th and 12th, the assistance given is ₹15,000, which can be increased to a maximum of ₹1,00,000 on presenting hostel / coaching bills. In graduation / Post graduation, The Assistance Given Is ₹25,000, which Can Be Increased To A Maximum Of ₹2,00,000 On Presenting Hostel / Coaching Bills."
             },
             {
                 "question": "Is this scheme available only in Rajasthan state?",
@@ -69,5 +69,6 @@
             "DBT",
             "Scheme For Girls"
         ]
-    }
+    },
+    "id": "001171"
 }

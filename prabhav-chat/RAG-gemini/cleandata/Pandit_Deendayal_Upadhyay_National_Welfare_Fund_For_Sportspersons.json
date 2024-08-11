@@ -24,7 +24,7 @@
         "exclusions": [],
         "application_process": "Offline and Online. An application for financial assistance from the Fund shall be addressed to the Member-Secretary of the Executive Committee in the prescribed Performa given in the scheme guidelines.",
         "documents_required": [
-            "Applicant\u2019s Passport Size Photo and Signature",
+            "Applicant’s Passport Size Photo and Signature",
             "Proof of Age / DOB",
             "Proof of Achievements / Participation in National or International Level sports events",
             "Bank Details",
@@ -85,5 +85,6 @@
             "Sportsperson",
             "Welfare"
         ]
-    }
+    },
+    "id": "001412"
 }

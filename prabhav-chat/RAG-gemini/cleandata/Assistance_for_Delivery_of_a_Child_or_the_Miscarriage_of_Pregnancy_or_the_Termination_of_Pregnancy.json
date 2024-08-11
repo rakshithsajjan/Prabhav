@@ -7,9 +7,9 @@
         "beneficiary": "Pregnant Women",
         "details": "The scheme 'Assistance for Delivery of a Child or the Miscarriage of Pregnancy or the Termination of Pregnancy' was launched by the Art and Culture Department, Government of Tamil Nadu. Under this scheme, The Tamil Nadu Folk Artiste's Welfare Board offers assistance for the delivery of a child, miscarriage, or termination of pregnancy to registered female folk artists.",
         "benefits": [
-            "Child Delivery \u2013 \u20b96,000/- (\u20b91,000/- per month for six months)",
-            "Miscarriage \u2013 \u20b93,000/-",
-            "Termination \u2013 \u20b93,000/-"
+            "Child Delivery – ₹6,000/- (₹1,000/- per month for six months)",
+            "Miscarriage – ₹3,000/-",
+            "Termination – ₹3,000/-"
         ],
         "eligibility": [
             "The applicant should be a registered female folk artist.",
@@ -38,15 +38,15 @@
             },
             {
                 "question": "What is the amount of assistance provided for the delivery of a child?",
-                "answer": "The amount of assistance provided for the delivery of a child is \u20b96000, which is distributed as \u20b91000 per month for six months."
+                "answer": "The amount of assistance provided for the delivery of a child is ₹6000, which is distributed as ₹1000 per month for six months."
             },
             {
                 "question": "How much assistance is provided for a miscarriage?",
-                "answer": "The amount of assistance provided for a miscarriage is \u20b93000."
+                "answer": "The amount of assistance provided for a miscarriage is ₹3000."
             },
             {
                 "question": "What is the amount of assistance for the termination of pregnancy?",
-                "answer": "The amount of assistance for the termination of pregnancy is \u20b93000."
+                "answer": "The amount of assistance for the termination of pregnancy is ₹3000."
             },
             {
                 "question": "What form is required to apply for this assistance?",
@@ -88,5 +88,6 @@
             "Pregnant Women",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "000113"
 }

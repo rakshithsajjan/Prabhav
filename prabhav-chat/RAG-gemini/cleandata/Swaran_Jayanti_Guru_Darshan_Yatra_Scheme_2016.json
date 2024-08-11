@@ -7,7 +7,7 @@
         "beneficiary": "Pilgrims of Haryana",
         "details": "The scheme 'Swaran Jayanti Guru Darshan Yatra Scheme 2016' was launched by the Tourism Department, Government of Haryana on 12th July 2016. The government of Haryana launched the scheme for Sri Hazoor Sahib Gurudwara (Nanded Sahib), Sri Nankana Sahib, Sri Hemkunt Sahib, and Sri Patna Sahib to provide financial assistance to the pilgrims of the State of Haryana. Under the scheme, financial assistance shall be provided to a maximum of 50 (fifty) numbers of pilgrims who are residents of Haryana and have completed the 'Swaran Jayanti Guru Darshan Yatra' through the State Government/Centre Government/Society. This scheme will be commenced w.e.f. 1st April 2016 and financial assistance will be provided to those applicants who complete the Yatra after this date.",
         "benefits": [
-            "The financial assistance will be provided up to the extent of \u20b96,000/- or 50% of the actual expenditure per person, whichever is less.",
+            "The financial assistance will be provided up to the extent of ₹6,000/- or 50% of the actual expenditure per person, whichever is less.",
             "The financial assistance shall be provided to a maximum of 50 (fifty) numbers of pilgrims."
         ],
         "eligibility": [
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The financial assistance will be provided up to the extent of \u20b96,000/- or 50% of the actual expenditure per person, whichever is less."
+                "answer": "The financial assistance will be provided up to the extent of ₹6,000/- or 50% of the actual expenditure per person, whichever is less."
             },
             {
                 "question": "How many pilgrims shall be benefited under the scheme?",
@@ -92,5 +92,6 @@
             "Tourism",
             "Yatra"
         ]
-    }
+    },
+    "id": "001910"
 }

@@ -5,7 +5,7 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Scheme",
         "beneficiary": "Farmers",
-        "details": "Rashtriya Krishi Vikas Yojana (RKVY) - Remunerative Approaches for Agriculture and Allied sector Rejuvenation (RAFTAAR) aims at making farming a remunerative economic activity by strengthening the farmers\u2019 efforts, risk mitigation and promoting agri-business entrepreneurship.",
+        "details": "Rashtriya Krishi Vikas Yojana (RKVY) - Remunerative Approaches for Agriculture and Allied sector Rejuvenation (RAFTAAR) aims at making farming a remunerative economic activity by strengthening the farmers’ efforts, risk mitigation and promoting agri-business entrepreneurship.",
         "benefits": [
             "To strengthen the farmers efforts through the creation of required pre and post-harvest agri-infrastructure that increases access to quality inputs, storage, market facilities etc. and enables farmers to make informed choices.",
             "To provide autonomy, and flexibility to States to plan and execute schemes as per local/ farmers needs.",
@@ -21,7 +21,7 @@
             "Expenditure towards maintenance of assets or any such recurring expenses.",
             "Expenses towards Salary, Transport, Travelling Allowances (TA), Daily Allowances (DA) of permanent /semi-permanent employees.",
             "Expenses towards POL (Petrol, Oil, Lubricants).",
-            "Financing State\u2019s share and/or topping up subsidy level in respect with other Central/State Schemes.",
+            "Financing State’s share and/or topping up subsidy level in respect with other Central/State Schemes.",
             "Foreign Visits/Tours including study tours of farmers abroad.",
             "Purchase of vehicles.",
             "Financing any kind of debt waiver, interest subvention, payment of insurance premium, compensation to farmers and calamity relief expenditure."
@@ -61,5 +61,6 @@
             "Farmers",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001573"
 }

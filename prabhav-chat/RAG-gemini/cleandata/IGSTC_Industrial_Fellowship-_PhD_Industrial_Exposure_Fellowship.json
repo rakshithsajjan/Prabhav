@@ -7,9 +7,9 @@
         "beneficiary": "PhD students/researchers in Science and Technology",
         "details": "The Indo-German Science & Technology Centre (IGSTC) Industrial Fellowship Programme was launched to support young Indian researchers for industrial exposure at German industries and industrial R&D institutions. This programme encourages PhD students/researchers with an appreciable track record and aptitude for applied research and technology development.",
         "benefits": [
-            "Fellowship amount of \u20ac1500 per month",
-            "Single round trip economy class airfare including visa fees and travel insurance: up to \u20ac1000",
-            "Health Insurance: As per actuals with a maximum limit of \u20ac100 per month"
+            "Fellowship amount of €1500 per month",
+            "Single round trip economy class airfare including visa fees and travel insurance: up to €1000",
+            "Health Insurance: As per actuals with a maximum limit of €100 per month"
         ],
         "eligibility": [
             "The applicant should be an Indian citizen",
@@ -72,5 +72,6 @@
             "Industrial Exposure",
             "PhD"
         ]
-    }
+    },
+    "id": "000801"
 }

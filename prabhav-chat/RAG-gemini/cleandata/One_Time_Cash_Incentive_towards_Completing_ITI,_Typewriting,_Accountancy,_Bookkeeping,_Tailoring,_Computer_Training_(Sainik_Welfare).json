@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Welfare Scheme",
         "beneficiary": "Unemployed Ex-servicemen (ESM) / Widow of the ESM / Dependent of the Widow of the ESM",
-        "details": "One Time Cash Incentive towards Completing ITI, Typewriting, Accountancy, Bookkeeping, Tailoring, Computer Training is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to \u20b910,000/- is provided to the unemployed Ex-servicemen (ESM) / Widow of the ESM / Dependent of the Widow of the ESM, to pursue the mentioned programs/courses from a Government-recognized School/Institution, upon prior permission from the Department. The application should be submitted offline within three months from the date of successful completion of the course.",
+        "details": "One Time Cash Incentive towards Completing ITI, Typewriting, Accountancy, Bookkeeping, Tailoring, Computer Training is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to ₹10,000/- is provided to the unemployed Ex-servicemen (ESM) / Widow of the ESM / Dependent of the Widow of the ESM, to pursue the mentioned programs/courses from a Government-recognized School/Institution, upon prior permission from the Department. The application should be submitted offline within three months from the date of successful completion of the course.",
         "benefits": [
-            "The actual cost of the program/course or \u20b910,000/- is provided to the beneficiary.",
-            "The amount, as decided by the Management Committee, is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT"
+            "The actual cost of the program/course or ₹10,000/- is provided to the beneficiary.",
+            "The amount, as decided by the Management Committee, is credited to the beneficiary’s Bank Account through RTGS/ NEFT"
         ],
         "eligibility": [
             "The applicant should be an Ex-serviceman/Widow of the ESM/Dependent of the Widow of the ESM.",
@@ -70,5 +70,6 @@
             "Training",
             "Widow"
         ]
-    }
+    },
+    "id": "001388"
 }

@@ -5,15 +5,15 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Insurance",
         "beneficiary": "Coconut Tree Climbers, Neera Technicians, Coconut Harvesters, Trainees",
-        "details": "The \u2018Kera Suraksha Insurance Scheme\u2019 is a comprehensive Group Personal Accident Insurance Scheme, implemented by the Coconut Development Board, Ministry of Agriculture and Farmers Welfare, Government of India in association with Public Insurance companies for Coconut Tree Climbers/Neera Technicians/Coconut Harvesters. The annual premium is \u20b9375/- and is shared between the Board and the beneficiary in the ratio of 75:25. For the trainees' ongoing skill development training of the Board viz. Friends of Coconut Tree (FoCT)/Neera Technician Training Programme, the first-year premium is fully borne by the Board from the date of commencement of training. The period of insurance is one year and needs to be renewed every year by paying \u20b994/- as the contribution from the beneficiary. The scheme is implemented in all coconut-growing States.",
+        "details": "The ‘Kera Suraksha Insurance Scheme’ is a comprehensive Group Personal Accident Insurance Scheme, implemented by the Coconut Development Board, Ministry of Agriculture and Farmers Welfare, Government of India in association with Public Insurance companies for Coconut Tree Climbers/Neera Technicians/Coconut Harvesters. The annual premium is ₹375/- and is shared between the Board and the beneficiary in the ratio of 75:25. For the trainees' ongoing skill development training of the Board viz. Friends of Coconut Tree (FoCT)/Neera Technician Training Programme, the first-year premium is fully borne by the Board from the date of commencement of training. The period of insurance is one year and needs to be renewed every year by paying ₹94/- as the contribution from the beneficiary. The scheme is implemented in all coconut-growing States.",
         "benefits": [
-            "Death/Permanent Total disability: \u20b95,00,000/-",
-            "Permanent Partial Disablement: \u20b92,50,000/-",
-            "Hospital expenses reimbursement (minimum 24 hours hospitalization): \u20b91,00,000/-",
-            "Ambulance charges: \u20b93,000/-",
-            "Weekly Compensation in case of TTD: \u20b918,000/- (Maximum 1 claim in a year for a maximum of six weeks @\u20b93,000/- per week)",
-            "Bystander expenses in case of hospitalization: \u20b93,000/- (Maximum for 15 days @ \u20b9200 per day)",
-            "Funeral expenses in case of accidental death (subject to production of bills): \u20b95,000/-"
+            "Death/Permanent Total disability: ₹5,00,000/-",
+            "Permanent Partial Disablement: ₹2,50,000/-",
+            "Hospital expenses reimbursement (minimum 24 hours hospitalization): ₹1,00,000/-",
+            "Ambulance charges: ₹3,000/-",
+            "Weekly Compensation in case of TTD: ₹18,000/- (Maximum 1 claim in a year for a maximum of six weeks @₹3,000/- per week)",
+            "Bystander expenses in case of hospitalization: ₹3,000/- (Maximum for 15 days @ ₹200 per day)",
+            "Funeral expenses in case of accidental death (subject to production of bills): ₹5,000/-"
         ],
         "eligibility": [
             "The applicant should be a Coconut Tree Climber/Neera Technician/Coconut Harvester/Trainee.",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the annual premium for the insurance?",
-                "answer": "The annual premium for the insurance is \u20b9375, shared between the Coconut Development Board and the beneficiary in the ratio of 75:25. Trainees undergoing skill development training have the first-year premium covered by the Board."
+                "answer": "The annual premium for the insurance is ₹375, shared between the Coconut Development Board and the beneficiary in the ratio of 75:25. Trainees undergoing skill development training have the first-year premium covered by the Board."
             },
             {
                 "question": "How long is the insurance coverage valid?",
-                "answer": "The insurance coverage is valid for one year and needs to be renewed annually by paying \u20b994 as a contribution from the beneficiary."
+                "answer": "The insurance coverage is valid for one year and needs to be renewed annually by paying ₹94 as a contribution from the beneficiary."
             },
             {
                 "question": "What is the objective of the Kera Suraksha Insurance Scheme?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What benefits are provided under the scheme?",
-                "answer": "The scheme provides various components and compensation: 1. Death/Permanent Total Disability: \u20b95.00 lakhs 2. Permanent Partial Disability: \u20b92.50 lakhs 3. Hospital Expense (24 hours IP): \u20b91,00,000/- (Maximum) 4. Weekly Compensation in case of Temporary Total Disability (TTD): \u20b918,000/- 5. Bystander Expense: \u20b93,000/- (Maximum 15 days @ \u20b9200 per day) 6. Ambulance Charges: \u20b93,000/- 7. Funeral Expenses (subject to producing bills): \u20b95,000/-"
+                "answer": "The scheme provides various components and compensation: 1. Death/Permanent Total Disability: ₹5.00 lakhs 2. Permanent Partial Disability: ₹2.50 lakhs 3. Hospital Expense (24 hours IP): ₹1,00,000/- (Maximum) 4. Weekly Compensation in case of Temporary Total Disability (TTD): ₹18,000/- 5. Bystander Expense: ₹3,000/- (Maximum 15 days @ ₹200 per day) 6. Ambulance Charges: ₹3,000/- 7. Funeral Expenses (subject to producing bills): ₹5,000/-"
             },
             {
                 "question": "In which states is the scheme implemented?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "How can beneficiaries renew their insurance coverage each year?",
-                "answer": "Beneficiaries can renew their insurance coverage by paying a yearly contribution of \u20b994. The renewal process should be completed annually to ensure continuous coverage under the scheme."
+                "answer": "Beneficiaries can renew their insurance coverage by paying a yearly contribution of ₹94. The renewal process should be completed annually to ensure continuous coverage under the scheme."
             },
             {
                 "question": "What is the age criterion for eligibility?",
@@ -125,5 +125,6 @@
             "Coconut",
             "Skill Development"
         ]
-    }
+    },
+    "id": "000974"
 }

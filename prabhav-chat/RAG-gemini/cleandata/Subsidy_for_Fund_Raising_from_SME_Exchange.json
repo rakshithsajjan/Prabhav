@@ -7,7 +7,7 @@
         "beneficiary": "Micro and Small Enterprises",
         "details": "The scheme 'Subsidy for Fund Raising from SME Exchange' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective to facilitate high growth potential SMEs in the State to raise equity capital through SME Exchange utilizing IPOs, in both the manufacturing and services sector. The government will provide assistance for listing & raising money in the SME stock exchange.",
         "benefits": [
-            "Assistance with a maximum of \u20b9 30,00,000, subject to 50% of the total expenditure incurred on SME IPO."
+            "Assistance with a maximum of ₹ 30,00,000, subject to 50% of the total expenditure incurred on SME IPO."
         ],
         "eligibility": [
             "All new Micro and Small enterprises set up in declared 254 industrially backward blocks are eligible.",
@@ -20,7 +20,7 @@
             "Copy of UDYAM Registration Certificate.",
             "Attested Copy of Tangedco Meter Card.",
             "If the Enterprise is Functioning in Its Own Land: Copy of the Land Purchase Deed, Duly Signed by the Applicant.",
-            "If the Enterprise is Functioning in a Leased Land/building: Copy of the Lease Agreement Deed Executed in Stamp Paper of \u20b9 100/-, for a Minimum Period of 11 Months From the Date of Commencement of Commercial Production.",
+            "If the Enterprise is Functioning in a Leased Land/building: Copy of the Lease Agreement Deed Executed in Stamp Paper of ₹ 100/-, for a Minimum Period of 11 Months From the Date of Commencement of Commercial Production.",
             "Copy of Machinery Invoice.",
             "Copy of First Sale Invoice Raised After the Commencement of Commercial Production.",
             "Copy of Sme Exchange Registration.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What is the maximum assistance one can receive under the 'Subsidy for Fund Raising from SME Exchange' scheme?",
-                "answer": "The scheme provides assistance of up to \u20b930,00,000, covering 50% of the total expenditure incurred on SME IPO."
+                "answer": "The scheme provides assistance of up to ₹30,00,000, covering 50% of the total expenditure incurred on SME IPO."
             },
             {
                 "question": "Who is eligible to apply for this scheme according to the Micro Small and Medium Enterprises Department, Government of Tamil Nadu?",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the documents required for applying to the scheme, particularly for enterprises functioning in leased land/building?",
-                "answer": "For enterprises in leased land/building, documents include a copy of the lease agreement deed executed on a \u20b9100 stamp paper for a minimum period of 11 months, among other specified documents."
+                "answer": "For enterprises in leased land/building, documents include a copy of the lease agreement deed executed on a ₹100 stamp paper for a minimum period of 11 months, among other specified documents."
             },
             {
                 "question": "Where can an applicant track the status of their application for the 'Subsidy for Fund Raising from SME Exchange' scheme?",
@@ -90,5 +90,6 @@
             "MSME",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001876"
 }

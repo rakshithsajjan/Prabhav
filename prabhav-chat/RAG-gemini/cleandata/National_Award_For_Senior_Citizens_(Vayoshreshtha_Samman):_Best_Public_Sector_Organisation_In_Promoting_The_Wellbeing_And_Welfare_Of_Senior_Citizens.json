@@ -5,7 +5,7 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Senior Citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Private Sector Organisation in Promoting the Wellbeing and Welfare of Senior Citizens' award shall be given to the Public Sector Undertakings Undertaking Service to the Community Through Activities Under Corporate Social Responsibility and Also Through Programmes for Retired Employees. The activities taken for the benefit of senior citizens should be away from the mainline business of the organization.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Private Sector Organisation in Promoting the Wellbeing and Welfare of Senior Citizens' award shall be given to the Public Sector Undertakings Undertaking Service to the Community Through Activities Under Corporate Social Responsibility and Also Through Programmes for Retired Employees. The activities taken for the benefit of senior citizens should be away from the mainline business of the organization.",
         "benefits": [
             "Citation and Memento",
             "Cash Award",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "Who confers these awards?",
-                "answer": "The awards are conferred by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi."
+                "answer": "The awards are conferred by the Hon’ble President of India at Vigyan Bhawan, New Delhi."
             },
             {
                 "question": "How many categories are there in this award?",
@@ -71,5 +71,6 @@
             "Social Welfare",
             "Public Sector"
         ]
-    }
+    },
+    "id": "001274"
 }

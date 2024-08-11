@@ -5,10 +5,10 @@
         "department": "Department of Labour and Employment",
         "type": "Welfare Scheme",
         "beneficiary": "Workers",
-        "details": "Medical Assistance (GBOCWWB) is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the worker who is hospitalized for 5 or more days due to an accident or any disease is provided with \u20b9400/- for the first 5 days and \u20b940/- for the remaining days, subject to a maximum \u20b92,000/-.",
+        "details": "Medical Assistance (GBOCWWB) is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the worker who is hospitalized for 5 or more days due to an accident or any disease is provided with ₹400/- for the first 5 days and ₹40/- for the remaining days, subject to a maximum ₹2,000/-.",
         "benefits": [
-            "Financial Assistance of \u20b9400/- for the first 5 days.",
-            "Financial Assistance of \u20b940/- for remaining days, subject to a maximum of \u20b92,000/-."
+            "Financial Assistance of ₹400/- for the first 5 days.",
+            "Financial Assistance of ₹40/- for remaining days, subject to a maximum of ₹2,000/-."
         ],
         "eligibility": [
             "The applicant should be a Worker.",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             }
         ],
         "sources": [
@@ -104,5 +104,6 @@
             "Patient",
             "Surgery"
         ]
-    }
+    },
+    "id": "001120"
 }

@@ -5,13 +5,13 @@
         "department": "Ministry Of Road Transport & Highways",
         "type": "Grant",
         "beneficiary": "Good Samaritans who assist accident victims",
-        "details": "Launched on 3rd Oct 2021 by the Ministry of Road Transport & Highways, the 'Scheme for Good Samaritan' grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment. The amount of award for each Good Samaritan would be \u20b9 5,000/- per incident. The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026.",
+        "details": "Launched on 3rd Oct 2021 by the Ministry of Road Transport & Highways, the 'Scheme for Good Samaritan' grants an award to the good samaritan who has saved the life of a victim of a fatal accident (involving a motor vehicle) by administering immediate assistance and rushing to Hospital/Trauma Care Centre within the Golden Hour of the accident to provide medical treatment. The amount of award for each Good Samaritan would be ₹ 5,000/- per incident. The scheme will remain operational till the completion of the 15th Financial Cycle, i.e. till 31st March 2026.",
         "benefits": [
-            "If one Good Samaritan saves the life of one or more victims of a single fatal accident involving a motor vehicle, the amount of the award will be \u20b9 5000/- only.",
-            "If more than one Good Samaritan saves the life of one victim of a fatal accident involving a motor vehicle, the amount of the award i.e. \u20b9 5000/- will be divided equally among them.",
-            "If more than one Good Samaritan saves the life of more than one victim of a fatal accident involving a motor vehicle, the amount of award will be \u20b9 5000/- per victim saved subject to a maximum of \u20b9 5000/- per Good Samaritan.",
+            "If one Good Samaritan saves the life of one or more victims of a single fatal accident involving a motor vehicle, the amount of the award will be ₹ 5000/- only.",
+            "If more than one Good Samaritan saves the life of one victim of a fatal accident involving a motor vehicle, the amount of the award i.e. ₹ 5000/- will be divided equally among them.",
+            "If more than one Good Samaritan saves the life of more than one victim of a fatal accident involving a motor vehicle, the amount of award will be ₹ 5000/- per victim saved subject to a maximum of ₹ 5000/- per Good Samaritan.",
             "Every cash award would be accompanied by a 'Certification of Appreciation'.",
-            "There will be 10 National Level Awards for the most worthy Good Samaritans (who will be selected from all those who have been awarded during the whole year) and they would be given an Award of \u20b9 1,00,000/- each.",
+            "There will be 10 National Level Awards for the most worthy Good Samaritans (who will be selected from all those who have been awarded during the whole year) and they would be given an Award of ₹ 1,00,000/- each.",
             "An individual Good Samaritan can be awarded a maximum of 5 times a year."
         ],
         "eligibility": [
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What is the Award For Each Good Samaritan?",
-                "answer": "The amount of award for each Good Samaritan would be \u20b9 5,000/- per incident."
+                "answer": "The amount of award for each Good Samaritan would be ₹ 5,000/- per incident."
             },
             {
                 "question": "Till when shall this scheme Remain Operational?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "How many National Level Awards are granted each year For The Most Worthy Good Samaritans?",
-                "answer": "There will be 10 National Level Awards for the most worthy Good Samaritans (who will be selected from all those who have been awarded during the whole year) and they would be given an Award of \u20b9 1,00,000/- each."
+                "answer": "There will be 10 National Level Awards for the most worthy Good Samaritans (who will be selected from all those who have been awarded during the whole year) and they would be given an Award of ₹ 1,00,000/- each."
             },
             {
                 "question": "How many times can a Good Samaritan be awarded?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What if More Than One Good Samaritan Saves The Life Of More Than One Victim?",
-                "answer": "If more than one Good Samaritan saves the life of more than one victim of a fatal accident involving a motor vehicle, the amount of award will be \u20b9 5000/- per victim saved subject to a maximum of \u20b9 5000/- per Good Samaritan."
+                "answer": "If more than one Good Samaritan saves the life of more than one victim of a fatal accident involving a motor vehicle, the amount of award will be ₹ 5000/- per victim saved subject to a maximum of ₹ 5000/- per Good Samaritan."
             }
         ],
         "sources": [
@@ -82,5 +82,6 @@
             "Citizen Empowerment",
             "Health"
         ]
-    }
+    },
+    "id": "000694"
 }

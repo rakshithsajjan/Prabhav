@@ -7,12 +7,12 @@
         "beneficiary": "Girl Child",
         "details": "Mukhyamantri Rajshri Yojana has been started on June 01, 2016 by the Rajasthan Government to develop positive thinking towards girls to improve their health and educational level and to make them self-reliant. The benefit of this scheme will be given to all those girls of the state who were born after June 1, 2016.",
         "benefits": [
-            "At the time of birth: \u20b92,500/-",
-            "1 year after vaccination: \u20b92,500/-",
-            "On admission to first class: \u20b94,000/-",
-            "On taking admission in sixth class: \u20b95,000/-",
-            "On taking admission in the tenth class: \u20b911,000/-",
-            "On taking admission in class 12th: \u20b925,000/-"
+            "At the time of birth: ₹2,500/-",
+            "1 year after vaccination: ₹2,500/-",
+            "On admission to first class: ₹4,000/-",
+            "On taking admission in sixth class: ₹5,000/-",
+            "On taking admission in the tenth class: ₹11,000/-",
+            "On taking admission in class 12th: ₹25,000/-"
         ],
         "eligibility": [
             "The girl child must be a resident of Rajasthan.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What are the benefits of Mukhyamantri Rajshri Yojana?",
-                "answer": "Girls of the state will get \u20b950,000/- in 6 installments."
+                "answer": "Girls of the state will get ₹50,000/- in 6 installments."
             },
             {
                 "question": "Is there a Caste-related Eligibility Criteria in this scheme?",
@@ -86,5 +86,6 @@
             "Financial",
             "Women"
         ]
-    }
+    },
+    "id": "001225"
 }

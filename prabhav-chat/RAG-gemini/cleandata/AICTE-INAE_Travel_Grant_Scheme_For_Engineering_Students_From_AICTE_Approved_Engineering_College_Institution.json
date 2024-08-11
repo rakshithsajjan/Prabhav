@@ -7,10 +7,10 @@
         "beneficiary": "Student",
         "details": "A Travel Grant Scheme by the All India Council for Technical Education (AICTE) and by the Indian National Academy of Engineering (INAE), for the students from AICTE approved Engineering College/institutions. The scheme aims at enhancing the quality of engineering education in the country and to inculcate a culture of research amongst the students. The scheme aims to provide partial travel assistance and registration fees to Bachelors's and Masters's Level engineering students for presenting a research paper at an international scientific event (conference/seminar/symposium/workshop/exhibition etc) to encourage engineering students to engage in research. Pre-final and final year students of B.E./B.Tech or Integrated M.Tech and first and second-year students of M.E./M. Tech from AICTE-approved Engineering Institutions is eligible under the scheme. The student must have scored a minimum 7 CGPA or 65% in order to be eligible to apply under this scheme. The student should have a letter of acceptance for presenting a research paper that has been accepted in a conference/seminar/symposium/workshop/exhibition abroad.",
         "benefits": [
-            "The reimbursement of 100% Registration Fee, Visa Fee including travel insurance up to \u20b95000.",
+            "The reimbursement of 100% Registration Fee, Visa Fee including travel insurance up to ₹5000.",
             "The reimbursement of 50% of the actual Airfare or discounted/concessional air tickets along with local transport from the airport to the venue for presentation, in case not claimed from any other source.",
             "Actual fare not exceeding AC II-Class train fare will be admissible for travel from the Technical Institution to the nearest airport and back in India.",
-            "The maximum financial support per student for all the above reimbursements is limited to \u20b91,00,000."
+            "The maximum financial support per student for all the above reimbursements is limited to ₹1,00,000."
         ],
         "eligibility": [
             "The applicant must EITHER be a Pre-final/final year student of B.E./B.Tech, OR Integrated M.Tech and first/second-year student of M.E./M. Tech, OR Students pursuing MS Research, M.Sc. in Engineering, dual degree B.Tech and M.Tech or any degree with a minimum of 4 years of engineering studies.",
@@ -66,5 +66,6 @@
             "AICTE",
             "Research"
         ]
-    }
+    },
+    "id": "000011"
 }

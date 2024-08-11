@@ -22,7 +22,7 @@
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "\u2018Mukhyamantri Aanchal Amrit Yojana\u2019 is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand, that aims to reduce malnutrition among the children of the state through providing vitamin added food."
+                "answer": "‘Mukhyamantri Aanchal Amrit Yojana’ is a social security scheme by the Department of Women Empowerment and Child Development, Government of Uttarakhand, that aims to reduce malnutrition among the children of the state through providing vitamin added food."
             },
             {
                 "question": "Which department has launched this Scheme?",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What should be the age criteria for the beneficiaries?",
-                "answer": "Beneficiary\u2019s age should be between 3-6 years."
+                "answer": "Beneficiary’s age should be between 3-6 years."
             },
             {
                 "question": "How can the benefits be availed?",
@@ -69,5 +69,6 @@
             "Nutrition",
             "Vitamin"
         ]
-    }
+    },
+    "id": "001187"
 }

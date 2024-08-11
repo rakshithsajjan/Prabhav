@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "What is AICTE-Technical University Joint Training Programs For Teachers scheme?",
-                "answer": "AICTE \u2013 University training programs provides training for faculty members to prepare them for being successful in the chosen profession and thereby enabling an improvement in teaching learning methodology."
+                "answer": "AICTE – University training programs provides training for faculty members to prepare them for being successful in the chosen profession and thereby enabling an improvement in teaching learning methodology."
             },
             {
                 "question": "Who manages this scheme?",
@@ -76,5 +76,6 @@
             "Technical Education",
             "Faculty Development"
         ]
-    }
+    },
+    "id": "000022"
 }

@@ -5,16 +5,16 @@
         "department": "Directorate of Social Welfare and Social Education",
         "type": "Pension",
         "beneficiary": "Blind persons aged 10 years and above with 100% blindness",
-        "details": "The scheme 'Allowance for 100% Blind' is a Pension Scheme launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of \u20b92,000/- to the blind persons of Tripura aged 10 years and above having 100% blindness. The application should be submitted to the nearest Child Development Project Officer (CDPO).",
+        "details": "The scheme 'Allowance for 100% Blind' is a Pension Scheme launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of ₹2,000/- to the blind persons of Tripura aged 10 years and above having 100% blindness. The application should be submitted to the nearest Child Development Project Officer (CDPO).",
         "benefits": [
-            "Pension of \u20b92,000/- per month.",
+            "Pension of ₹2,000/- per month.",
             "Existing beneficiaries who are on receipt of benefits under the scheme can continue to do so."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
             "The applicant should be 100% visually handicapped.",
             "The applicant's age should be 10 years and above.",
-            "The annual income of the applicant's family should be up to \u20b9 1,00,000/-."
+            "The annual income of the applicant's family should be up to ₹ 1,00,000/-."
         ],
         "exclusions": [
             "No member of the applicant's family should be a government employee."
@@ -83,7 +83,7 @@
             },
             {
                 "question": "What is the income criterion for eligibility?",
-                "answer": "The family's annual income should not exceed \u20b91,00,000 for the applicant to be eligible."
+                "answer": "The family's annual income should not exceed ₹1,00,000 for the applicant to be eligible."
             }
         ],
         "sources": [
@@ -115,5 +115,6 @@
             "Financial Assistance",
             "Pension"
         ]
-    }
+    },
+    "id": "000075"
 }

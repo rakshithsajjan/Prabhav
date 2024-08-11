@@ -7,8 +7,8 @@
         "beneficiary": "Law Students and Law Graduates",
         "details": "The 'Indirect Tax Internship Scheme' by the Central Board of Indirect Taxes and Customs (CBIC) takes 10 Law Students and 10 Law Graduates as Interns every year. The interns are expected to study case files, assist in legal research and drafting of petitions, brief the counsels and extend any other related legal/general assistance to officers/counsels. The interns may also accompany the departmental officers to the briefing meetings if needed. This is a full-time internship and is to be attended physically and the interns are not expected to pursue any other course/work during the tenure of the internship.",
         "benefits": [
-            "Stipend of \u20b9 5,000/- per month for student interns",
-            "Stipend of \u20b9 15,000/- per month for graduate interns",
+            "Stipend of ₹ 5,000/- per month for student interns",
+            "Stipend of ₹ 15,000/- per month for graduate interns",
             "Certificate of Internship upon satisfactory completion"
         ],
         "eligibility": [
@@ -84,5 +84,6 @@
             "Tax",
             "Student"
         ]
-    }
+    },
+    "id": "000848"
 }

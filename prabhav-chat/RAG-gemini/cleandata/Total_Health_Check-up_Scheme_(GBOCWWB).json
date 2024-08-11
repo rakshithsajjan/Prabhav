@@ -5,14 +5,14 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Health Check-up",
         "beneficiary": "Construction Workers",
-        "details": "The \u201cTotal Health Check-up Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). This scheme facilitates a complete physical examination of the construction workers, which can diagnose potential illnesses and early treatment can prevent major illnesses. Hence, major illness can be avoided and the construction worker can lead a healthy life.",
+        "details": "The “Total Health Check-up Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). This scheme facilitates a complete physical examination of the construction workers, which can diagnose potential illnesses and early treatment can prevent major illnesses. Hence, major illness can be avoided and the construction worker can lead a healthy life.",
         "benefits": [
             "Preventive health check-ups for workers, with a view to initiate proper treatment/health restoration measures.",
             "Regular health check-ups recommended for every individual for diagnosis of any disease at its initial stage.",
-            "Includes routine doctors, pathology, radiology and cardiology check-ups with a limit of \u20b91950/- per beneficiary paid to the empanelled hospital/institution."
+            "Includes routine doctors, pathology, radiology and cardiology check-ups with a limit of ₹1950/- per beneficiary paid to the empanelled hospital/institution."
         ],
         "eligibility": [
-            "Construction workers who are registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+            "Construction workers who are registered with the Gujarat Building and Other Construction Worker’s Welfare Board."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -46,15 +46,15 @@
             },
             {
                 "question": "How much does the scheme cover for each beneficiary?",
-                "answer": "The scheme covers up to \u20b91950/- per beneficiary for the health check-up expenses at empanelled hospitals or institutions."
+                "answer": "The scheme covers up to ₹1950/- per beneficiary for the health check-up expenses at empanelled hospitals or institutions."
             },
             {
                 "question": "Who is eligible for the Scheme?",
-                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible for this scheme."
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board are eligible for this scheme."
             },
             {
                 "question": "Are there any specific terms and conditions for availing the benefits?",
-                "answer": "Yes, beneficiaries must adhere to the spending limit of \u20b91950/- and utilize Ayushman Bharat Yojana empanelled hospitals for check-ups and treatments."
+                "answer": "Yes, beneficiaries must adhere to the spending limit of ₹1950/- and utilize Ayushman Bharat Yojana empanelled hospitals for check-ups and treatments."
             },
             {
                 "question": "Where can beneficiaries avail themselves of the scheme's benefits?",
@@ -90,5 +90,6 @@
             "Illnesses",
             "Labour"
         ]
-    }
+    },
+    "id": "001965"
 }

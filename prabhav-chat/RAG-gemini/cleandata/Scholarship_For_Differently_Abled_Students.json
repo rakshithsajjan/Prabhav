@@ -7,11 +7,11 @@
         "beneficiary": "Differently Abled Students",
         "details": "The scheme 'Scholarship for Differently Abled Students' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, the differently abled students studying in Schools, Colleges, and those who attend Professional, PG courses and technical training are being given scholarships by Social Justice Department. The disability category of students (Blind/Deaf/Orthopedically handicapped/Mental Retardation) with a disability of 40% or more and who obtain 40% marks in the examination in the previous year are eligible to apply for the scholarships.",
         "benefits": [
-            "\u20b9300/- per month for Students from Class 1 to Class 4",
-            "\u20b9500/- per month for Students from Class 5 to Class 10",
-            "\u20b9750/- per month for +1, +2, IT Equivalent courses",
-            "\u20b91000/- per month for Degree, Polytechnic, Equivalent training courses",
-            "\u20b91000/- per month for Professional, PG courses"
+            "₹300/- per month for Students from Class 1 to Class 4",
+            "₹500/- per month for Students from Class 5 to Class 10",
+            "₹750/- per month for +1, +2, IT Equivalent courses",
+            "₹1000/- per month for Degree, Polytechnic, Equivalent training courses",
+            "₹1000/- per month for Professional, PG courses"
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Kerala.",
@@ -20,7 +20,7 @@
             "Disability category of students (Blind / Deaf / Orthopedically handicapped/ Mental Retardation).",
             "The differently abled students studying in Schools, Colleges and attending Professional, PG courses and technical training are eligible to apply under the scheme.",
             "Students with disabilities who have secured at least 40% marks in the previous year can apply under the scheme.",
-            "The annual family income of the applicant should be below \u20b936,000/-."
+            "The annual family income of the applicant should be below ₹36,000/-."
         ],
         "exclusions": [],
         "application_process": "Online and Offline. Registration Process involves visiting the SUNEETHI- Online Service Application Portal, registering, and then applying through the portal.",
@@ -72,11 +72,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the scholarship is being provided to students of class 1st to Post-Graduation whose disability percentage is 40% or above @ \u20b9300/- per month to \u20b91500/- per month as per the eligibility criteria."
+                "answer": "Under the scheme, the scholarship is being provided to students of class 1st to Post-Graduation whose disability percentage is 40% or above @ ₹300/- per month to ₹1500/- per month as per the eligibility criteria."
             },
             {
                 "question": "Is there any criterion for annual family income?",
-                "answer": "Yes, the annual family income of the applicant should be below \u20b936,000/-."
+                "answer": "Yes, the annual family income of the applicant should be below ₹36,000/-."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -107,5 +107,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001747"
 }

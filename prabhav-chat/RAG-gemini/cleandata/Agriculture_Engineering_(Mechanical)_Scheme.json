@@ -2,10 +2,10 @@
     "content": {
         "title": "Agriculture Engineering (Mechanical) Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya",
+        "department": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya",
         "type": "Subsidy",
         "beneficiary": "Farmer",
-        "details": "The \u201cAgriculture Engineering (Mechanical) Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is to provide agricultural machinery such as power tillers/bulldozers/tractors etc. on hiring at subsidised rate.",
+        "details": "The “Agriculture Engineering (Mechanical) Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide agricultural machinery such as power tillers/bulldozers/tractors etc. on hiring at subsidised rate.",
         "benefits": [
             "Providing a 60% subsidy for the purchase of improved farm machinery and equipment (Proposed for Power Tiller and Diesel Water Pumpset).",
             "Subsidy for hiring of farm machinery and equipment."
@@ -30,7 +30,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya"
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya"
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -49,7 +49,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/Agriculture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "Selection of farmers on first come first basis."
             }
         ],
@@ -67,5 +67,6 @@
             "Mechanical",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000064"
 }

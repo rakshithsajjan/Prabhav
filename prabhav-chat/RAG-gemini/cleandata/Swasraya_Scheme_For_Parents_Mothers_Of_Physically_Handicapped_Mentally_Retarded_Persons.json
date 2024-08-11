@@ -5,9 +5,9 @@
         "department": "Department of Social Justice",
         "type": "Financial Assistance",
         "beneficiary": "Mentally Retarded Mothers/Parents",
-        "details": "The scheme 'Swasraya Scheme for Parents/Mothers of Physically Handicapped/Mentally Retarded Persons' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, financial assistance is provided to women of Below Poverty Line (BPL) families to find self-employment, whose husbands have died/abandoned, and who have to take care of their sons/children with severe physical and mental challenges. Parents of severely mentally retarded and differently-abled persons require emotional strength and flexibility. Older parents can find themselves overwhelmed by various medical, caregiving, and financial responsibilities. Physically Handicapped/Mentally Retarded (PH/MR) persons always need special care and attention since they cannot perform their day-to-day activities without someone else\u2019s assistance. Sometimes it can be quite challenging for older parents in BPL families, especially mothers, who have to take care of household tasks and work apart from taking care of MR persons. Looking after such a Mentally challenged/PH person is expensive. These expenses can arise from medical equipment and supplies, medical care, caregiving expenses, specialized transportation, etc. Even though an amount of \u20b9600/- is being provided as 'Aswasakiranam Pension' to caregivers (family members) of bedridden PH/MR persons, it cannot cover the expenses completely. Single mothers face tremendous challenges. Often, a custodial parent must fulfill the roles of primary provider and caregiver without the benefit of a partner. It is a difficult task under the best of circumstances.",
+        "details": "The scheme 'Swasraya Scheme for Parents/Mothers of Physically Handicapped/Mentally Retarded Persons' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, financial assistance is provided to women of Below Poverty Line (BPL) families to find self-employment, whose husbands have died/abandoned, and who have to take care of their sons/children with severe physical and mental challenges. Parents of severely mentally retarded and differently-abled persons require emotional strength and flexibility. Older parents can find themselves overwhelmed by various medical, caregiving, and financial responsibilities. Physically Handicapped/Mentally Retarded (PH/MR) persons always need special care and attention since they cannot perform their day-to-day activities without someone else’s assistance. Sometimes it can be quite challenging for older parents in BPL families, especially mothers, who have to take care of household tasks and work apart from taking care of MR persons. Looking after such a Mentally challenged/PH person is expensive. These expenses can arise from medical equipment and supplies, medical care, caregiving expenses, specialized transportation, etc. Even though an amount of ₹600/- is being provided as 'Aswasakiranam Pension' to caregivers (family members) of bedridden PH/MR persons, it cannot cover the expenses completely. Single mothers face tremendous challenges. Often, a custodial parent must fulfill the roles of primary provider and caregiver without the benefit of a partner. It is a difficult task under the best of circumstances.",
         "benefits": [
-            "Under the scheme, a one-time financial assistance of \u20b935,000/- will be provided to women of BPL families to find self-employment, whose husbands have died/abandoned, and who have to take care of their sons/children with severe physical and mental challenges."
+            "Under the scheme, a one-time financial assistance of ₹35,000/- will be provided to women of BPL families to find self-employment, whose husbands have died/abandoned, and who have to take care of their sons/children with severe physical and mental challenges."
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, a one-time financial assistance of \u20b935,000/- will be provided to women of BPL families to find self-employment, whose husbands have died/abandoned, and who have to take care of their sons/children with severe physical and mental challenges."
+                "answer": "Under the scheme, a one-time financial assistance of ₹35,000/- will be provided to women of BPL families to find self-employment, whose husbands have died/abandoned, and who have to take care of their sons/children with severe physical and mental challenges."
             },
             {
                 "question": "Who will get preference under the scheme?",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "What is 'Aswasakiranam Scheme'?",
-                "answer": "The 'Aswasakiranam Scheme' envisages assisting the caregivers of physically and mentally disabled bedridden patients, who are their family members or relatives. This scheme intends to provide a monthly assistance of \u20b9600/- to those caregivers who are unable to take up employment for self-sustenance."
+                "answer": "The 'Aswasakiranam Scheme' envisages assisting the caregivers of physically and mentally disabled bedridden patients, who are their family members or relatives. This scheme intends to provide a monthly assistance of ₹600/- to those caregivers who are unable to take up employment for self-sustenance."
             },
             {
                 "question": "Can the beneficiaries of the 'Aswasakiranam Scheme' apply under the scheme?",
@@ -101,5 +101,6 @@
             "Physically Handicapped",
             "Self-employment"
         ]
-    }
+    },
+    "id": "001912"
 }

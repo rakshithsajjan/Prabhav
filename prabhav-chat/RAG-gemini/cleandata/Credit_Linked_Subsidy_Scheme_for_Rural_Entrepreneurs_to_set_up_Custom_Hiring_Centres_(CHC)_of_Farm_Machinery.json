@@ -8,14 +8,14 @@
         "details": "Credit Linked Subsidy Scheme for Rural Entrepreneurs to set up Custom Hiring Centres (CHC) of Farm Machinery under the Farm Mechanization Umbrella Scheme, was launched on 22nd October 2014, by the Agriculture Department, Government of West Bengal with the purpose to provide opportunity to rural entrepreneurs for setting up of Custom Hiring Centres to enable the farmers to hire different high end farm machinery from them at a reasonable rate with the objective of rural employment, enhanced productivity and risk mitigation during calamities. The scheme is applicable uniformly throughout the State, except Kolkata district.",
         "benefits": [
             "Maximum subsidy limited to 40% of the Total Financial Outlay (TFO)",
-            "Minimum TFO of \u20b920,00,000/-",
-            "Maximum subsidy amounting \u20b916,00,000/- or 40% of the TFO, whichever is less",
+            "Minimum TFO of ₹20,00,000/-",
+            "Maximum subsidy amounting ₹16,00,000/- or 40% of the TFO, whichever is less",
             "Subsidy applicable for purchase of farm machinery/equipment from approved manufacturers and dealers"
         ],
         "eligibility": [
             "Individual farmers registered under Krishak Bandhu (New) Scheme",
             "Groups like SKUS/PACS/FPO/FPC/FIG/SHG duly graded/recognized by any Govt. Institutions/Departments",
-            "Project cost/TFO should be between minimum \u20b920,00,000/- to maximum as per SMAM Guideline",
+            "Project cost/TFO should be between minimum ₹20,00,000/- to maximum as per SMAM Guideline",
             "Sufficient land under possession for setting up the CHC",
             "Beneficiary age should be minimum 18 years at the time of application"
         ],
@@ -75,5 +75,6 @@
             "Financial Assistance",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000347"
 }

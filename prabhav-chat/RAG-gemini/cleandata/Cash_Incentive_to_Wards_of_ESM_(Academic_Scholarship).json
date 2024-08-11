@@ -5,9 +5,9 @@
         "department": "Department of Sainik Welfare",
         "type": "Incentive",
         "beneficiary": "Wards of Ex-Servicemen and Widows of Ex-Servicemen",
-        "details": "'Cash Incentive to Wards of ESM (Academic Scholarship)' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the academically meritorious wards of the ESM / Widows of ESM pursuing higher education are provided cash incentive of \u20b91,000 per month. The application should be submitted within three months from the date of publication of the result of the respective exam.",
+        "details": "'Cash Incentive to Wards of ESM (Academic Scholarship)' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the academically meritorious wards of the ESM / Widows of ESM pursuing higher education are provided cash incentive of ₹1,000 per month. The application should be submitted within three months from the date of publication of the result of the respective exam.",
         "benefits": [
-            "Cash Incentive of \u20b91,000 per month."
+            "Cash Incentive of ₹1,000 per month."
         ],
         "eligibility": [
             "The applicant should be a Ward of an ESM / Ward of the Widow of an ESM.",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the procedure for seeking information through 'Right To Information (RTI)'?",
-                "answer": "The required information may be asked through an application along with IPO/DD for a sum of \u20b910/- in favour of the Director, Department of Sainik Welfare, Puducherry."
+                "answer": "The required information may be asked through an application along with IPO/DD for a sum of ₹10/- in favour of the Director, Department of Sainik Welfare, Puducherry."
             },
             {
                 "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
@@ -102,5 +102,6 @@
             "Student",
             "Widow"
         ]
-    }
+    },
+    "id": "000254"
 }

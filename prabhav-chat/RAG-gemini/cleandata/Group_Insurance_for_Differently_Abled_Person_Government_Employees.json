@@ -7,10 +7,10 @@
         "beneficiary": "Differently Abled Government Employees",
         "details": "The scheme 'Group Insurance for Differently Abled Person Government Employees' was launched by the Department of Social Welfare, Government of Puducherry. In this scheme, in the case of death due to accident while in service the sum insured will be given to the family of the deceased employee.",
         "benefits": [
-            "Group A: \u20b9 1,20,000/-",
-            "Group B: \u20b9 60,000/-",
-            "Group C: \u20b9 30,000/-",
-            "Group D: \u20b9 15,000/-"
+            "Group A: ₹ 1,20,000/-",
+            "Group B: ₹ 60,000/-",
+            "Group C: ₹ 30,000/-",
+            "Group D: ₹ 15,000/-"
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "How is the sum insured determined under this scheme?",
-                "answer": "The sum insured varies based on the employee's group: Group A - \u20b91,20,000/-, Group B - \u20b960,000/-, Group C - \u20b930,000/-, and Group D - \u20b915,000/-."
+                "answer": "The sum insured varies based on the employee's group: Group A - ₹1,20,000/-, Group B - ₹60,000/-, Group C - ₹30,000/-, and Group D - ₹15,000/-."
             },
             {
                 "question": "Who is eligible to apply for the scheme?",
@@ -78,5 +78,6 @@
             "Government",
             "Insurance"
         ]
-    }
+    },
+    "id": "000751"
 }

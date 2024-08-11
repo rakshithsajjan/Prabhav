@@ -5,16 +5,16 @@
         "department": "Directorate of Social Welfare and Social Education",
         "type": "Pension",
         "beneficiary": "Differently-abled persons with a disability of 60% and above",
-        "details": "'60% and Disability Allowance' is a pension scheme by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide financial assistance in the form of a monthly pension of \u20b92,000/- to differently-abled persons with a disability of 60% and above. The applicant should be submitted in person to the Child Development Project Officer.",
+        "details": "'60% and Disability Allowance' is a pension scheme by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide financial assistance in the form of a monthly pension of ₹2,000/- to differently-abled persons with a disability of 60% and above. The applicant should be submitted in person to the Child Development Project Officer.",
         "benefits": [
-            "Pension of \u20b92,000/- per month."
+            "Pension of ₹2,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
             "The applicant should be a Person with Disability.",
             "The percentage of disability should be 60% and above.",
             "The applicant's age should be 10 years and above.",
-            "The family income of the applicant should be \u20b91,00,000/- per annum.",
+            "The family income of the applicant should be ₹1,00,000/- per annum.",
             "None of the family members of the applicant should be a government employee."
         ],
         "exclusions": [],
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the income criterion for eligibility?",
-                "answer": "The family income of the applicant should not exceed \u20b91,00,000 per annum."
+                "answer": "The family income of the applicant should not exceed ₹1,00,000 per annum."
             },
             {
                 "question": "Is there a specific office to submit the application?",
@@ -98,5 +98,6 @@
             "PwD",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000003"
 }

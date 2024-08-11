@@ -7,7 +7,7 @@
         "beneficiary": "Newly married couples with one spouse from Scheduled Caste/Scheduled Tribe and the other from a different Community",
         "details": "The 'Dr. Muthulakshmi Reddy Ninaivu Inter-caste Marriage Assistance Scheme' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme's objective is to abolish caste and community discrimination by encouraging inter-caste marriage by giving financial assistance to newly married couples of whom one spouse should be from a Scheduled Caste / Scheduled Tribe and the other from a different Community.",
         "benefits": [
-            "Financial Assistance of \u20b925,000/-",
+            "Financial Assistance of ₹25,000/-",
             "1 Sovereign (8gm) 22-carat gold coin for making Thirumangalyam"
         ],
         "eligibility": [
@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "Can you explain the process of disbursal of financial assistance in detail?",
-                "answer": "\u20b915,000 is disbursed through Electronic Clearing Service, and \u20b910,000 is provided in the form of National Savings Certificate as part of the scheme."
+                "answer": "₹15,000 is disbursed through Electronic Clearing Service, and ₹10,000 is provided in the form of National Savings Certificate as part of the scheme."
             },
             {
                 "question": "What is the deadline for submitting the application under the scheme?",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "How is the financial assistance disbursed under the scheme?",
-                "answer": "\u20b915,000 is disbursed through Electronic Clearing Service, and \u20b910,000 is provided in the form of National Savings Certificate."
+                "answer": "₹15,000 is disbursed through Electronic Clearing Service, and ₹10,000 is provided in the form of National Savings Certificate."
             },
             {
                 "question": "What financial assistance is provided to newly married couples under this scheme?",
-                "answer": "Couples receive \u20b925,000 along with a 1 Sovereign (8gm) 22-carat gold coin for making Thirumangalyam."
+                "answer": "Couples receive ₹25,000 along with a 1 Sovereign (8gm) 22-carat gold coin for making Thirumangalyam."
             },
             {
                 "question": "Which department of the government launched this scheme, and in which state is it implemented?",
@@ -86,5 +86,6 @@
             "Scheduled Tribe",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "000438"
 }

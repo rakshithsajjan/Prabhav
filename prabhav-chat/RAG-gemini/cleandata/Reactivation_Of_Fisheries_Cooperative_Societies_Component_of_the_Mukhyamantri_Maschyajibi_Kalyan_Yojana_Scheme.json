@@ -5,9 +5,9 @@
         "department": "Fisheries & Animal Resources Development Department",
         "type": "Financial Assistance",
         "beneficiary": "Fishermen Society",
-        "details": "The 'Reactivation Of Fisheries Cooperative Societies' Component of the 'Mukhyamantri Maschyajibi Kalyan Yojana' Scheme was launched by the Fisheries & Animal Resources Development Department, Government of Odisha. The objective of this scheme is to provide a one-time revolving fund of \u20b92,00,000/- to each eligible Primary Fishermen Cooperative Society for working capital of the society and improvement of the socio-economic status of the members in the long run. The scheme shall be implemented by the Directorate of Fisheries through the respective District Fisheries Officer.",
+        "details": "The 'Reactivation Of Fisheries Cooperative Societies' Component of the 'Mukhyamantri Maschyajibi Kalyan Yojana' Scheme was launched by the Fisheries & Animal Resources Development Department, Government of Odisha. The objective of this scheme is to provide a one-time revolving fund of ₹2,00,000/- to each eligible Primary Fishermen Cooperative Society for working capital of the society and improvement of the socio-economic status of the members in the long run. The scheme shall be implemented by the Directorate of Fisheries through the respective District Fisheries Officer.",
         "benefits": [
-            "A one-time revolving fund of \u20b92,00,000/-."
+            "A one-time revolving fund of ₹2,00,000/-."
         ],
         "eligibility": [
             "The applicant should be an active Primary Fisherman Cooperative Society (PFCS).",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "How are credit support and loans provided to PFCS members?",
-                "answer": "PFCS members can apply for loans from the revolving fund for socio-economic development. Loans, up to \u20b91.00 Lakh, are granted with an interest rate of 4% per annum, to be recovered within one year."
+                "answer": "PFCS members can apply for loans from the revolving fund for socio-economic development. Loans, up to ₹1.00 Lakh, are granted with an interest rate of 4% per annum, to be recovered within one year."
             },
             {
                 "question": "Who is responsible for monitoring and supervision of the scheme's implementation?",
@@ -83,5 +83,6 @@
             "Financial Assistance",
             "Odisha"
         ]
-    }
+    },
+    "id": "001578"
 }

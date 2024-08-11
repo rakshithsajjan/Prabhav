@@ -7,17 +7,17 @@
         "beneficiary": "Scheduled Caste Medical Graduate Doctors",
         "details": "The scheme 'Dr. P. G. Solanki Scheme for Loan/Assistance to Medical Graduate Doctors of Scheduled Caste' was launched by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was launched in the year 1976. Under the scheme, loans/financial assistance is provided to the Scheduled Caste Medical Graduates possessing qualifications such as M.B.B.S, B.S.A.M, B.A.M.S, B.A.M (Ayurveda), B.D.S (Dental) Homeopathic Degree/ BHMS and DHMS in Diploma, and Homeopathic Degree/Diploma (BHMS and DHMS in Diploma) to start their independent profession.",
         "benefits": [
-            "Subsidy/assistance of \u20b925,000/-",
-            "Loan up to \u20b92,50,000/- at the rate of interest 4%"
+            "Subsidy/assistance of ₹25,000/-",
+            "Loan up to ₹2,50,000/- at the rate of interest 4%"
         ],
         "eligibility": [
             "The applicant should be a Medical Graduate Doctor possessing qualifications such as M.B.B.S, B.S.A.M, B.A.M.S, B.A.M (Ayurveda), B.D.S (Dental) Homeopathic Degree/ BHMS and DHMS in Diploma, and Homeopathic Degree/Diploma (BHMS and DHMS in Diploma).",
             "The applicant should belong to the Scheduled Caste category.",
             "The benefit of this scheme will be given only to natives of Gujarat state.",
-            "The annual income limit should not exceed \u20b96,00,000/- for rural areas and \u20b96,00,000/- for urban areas.",
+            "The annual income limit should not exceed ₹6,00,000/- for rural areas and ₹6,00,000/- for urban areas.",
             "The applicant should not be employed in a government hospital or any private organization.",
             "The benefit of this scheme will be available to one person in the family only once. If the involvement of another person is found, all loan assistance and other expenses will be recovered from the applicant.",
-            "After sanctioning the loan to the applicant, repayment will be made in monthly installments of \u20b95,000/- for 12 months.",
+            "After sanctioning the loan to the applicant, repayment will be made in monthly installments of ₹5,000/- for 12 months.",
             "The applicant will have to start the clinic in 3 months after receiving government assistance.",
             "Homeopathic doctors must practice only in pure homeopathy."
         ],
@@ -54,11 +54,11 @@
             },
             {
                 "question": "What financial assistance is provided under this scheme?",
-                "answer": "Beneficiaries receive a subsidy/assistance of \u20b925,000/- and a loan of up to \u20b92,50,000/- at an interest rate of 4%."
+                "answer": "Beneficiaries receive a subsidy/assistance of ₹25,000/- and a loan of up to ₹2,50,000/- at an interest rate of 4%."
             },
             {
                 "question": "What are the eligibility criteria for applicants?",
-                "answer": "Applicants must be Medical Graduate Doctors belonging to the Scheduled Caste category and natives of Gujarat state. Their annual income limit should not exceed \u20b96,00,000/- for rural and urban areas."
+                "answer": "Applicants must be Medical Graduate Doctors belonging to the Scheduled Caste category and natives of Gujarat state. Their annual income limit should not exceed ₹6,00,000/- for rural and urban areas."
             },
             {
                 "question": "Can applicants be employed in government hospitals or private organizations?",
@@ -70,7 +70,7 @@
             },
             {
                 "question": "What is the repayment plan for the loan?",
-                "answer": "Repayment is made in monthly installments of \u20b95,000/- for 12 months after loan sanction."
+                "answer": "Repayment is made in monthly installments of ₹5,000/- for 12 months after loan sanction."
             },
             {
                 "question": "Within what timeframe should the clinic be started after receiving government assistance?",
@@ -115,5 +115,6 @@
                 "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/tharav_9_22122021.pdf"
             }
         ]
-    }
+    },
+    "id": "000441"
 }

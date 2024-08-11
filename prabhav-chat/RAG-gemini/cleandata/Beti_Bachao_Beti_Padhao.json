@@ -5,12 +5,12 @@
         "department": "Ministry of Women and Child Development",
         "type": "Government Scheme",
         "beneficiary": "Girl Child",
-        "details": "In 2015, the Indian government introduced the Beti Bachao, Beti Padhao (BBBP) scheme to address concerns about gender discrimination and women empowerment in the country. The name Beti Bachao, Beti Padhao translates to \u2018Save the girl child, educate the girl child\u2019. The scheme aims to educate citizens against gender bias and improve the efficacy of welfare services for girls. It was launched with initial funding of Rs. 100 crore (US$ 13.5 million).",
+        "details": "In 2015, the Indian government introduced the Beti Bachao, Beti Padhao (BBBP) scheme to address concerns about gender discrimination and women empowerment in the country. The name Beti Bachao, Beti Padhao translates to ‘Save the girl child, educate the girl child’. The scheme aims to educate citizens against gender bias and improve the efficacy of welfare services for girls. It was launched with initial funding of Rs. 100 crore (US$ 13.5 million).",
         "benefits": [
             "Digital Guddi-Gudda Board: A digital platform for exhibiting gender disparity in birth rates and providing information on schemes and programmes created for safeguarding the girl child",
             "Udaan - Sapne Di Duniya De Rubaru: Initiative offering girls an opportunity to shadow professionals in fields of their choice",
             "My Aim My Target Campaign: Recognition programme to felicitate top academic performances by girls in higher secondary schools",
-            "Lakshya Se Rubaru: Internship programme for female students in colleges \u2013 for encouraging them to make informed decisions about their careers",
+            "Lakshya Se Rubaru: Internship programme for female students in colleges – for encouraging them to make informed decisions about their careers",
             "Noor Jeevan Ka Betiyan: A week-long campaign celebrated with gender empowerment theme-based interactive activities organised in Panchayats, schools, and colleges",
             "Bitiya and Birba: Awareness campaign on the BBBP initiative, along with environmental protection. Under this, each mother of a newly born girl child is celebrated and honored with a plant",
             "Aao School Chalein: Enrolment campaign involving door-to-door visits and registrations to ensure 100% enrolment of girls in schools",
@@ -74,5 +74,6 @@
             "Gender Equality",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000192"
 }

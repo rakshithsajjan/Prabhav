@@ -10,7 +10,7 @@
             "Eligible applicants are entitled to a lump sum grant of Rs. 20,000/"
         ],
         "eligibility": [
-            "The deceased\u2019s age should be between 18 to 59 years.",
+            "The deceased’s age should be between 18 to 59 years.",
             "The deceased should belong to Below Poverty Line.",
             "The deceased should be the primary breadwinner of the family."
         ],
@@ -28,7 +28,7 @@
             },
             {
                 "question": "What is the deceased eligible age?",
-                "answer": "The deceased\u2019s age should be between 18 to 59 years."
+                "answer": "The deceased’s age should be between 18 to 59 years."
             },
             {
                 "question": "What is the financial eligibility criteria for deceased?",
@@ -70,5 +70,6 @@
             "Financial Assistance",
             "Social Justice"
         ]
-    }
+    },
+    "id": "001574"
 }

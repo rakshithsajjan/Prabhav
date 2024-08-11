@@ -7,9 +7,9 @@
         "beneficiary": "Superannuated Scientists",
         "details": "There are a few chairs/professorships available in the country instituted by various ministries/departments/ academies with public funds. Considering the limited number of such opportunities, Science and Engineering Research Board (SERB) has been catering to one such scheme - National Science Chair: Scientific Excellence & Science Leadership. The main aim of the scheme is to recognize active eminent senior resident Indian superannuated scientists for their outstanding contributions both nationally and internationally, in the areas of Science, Technology, Engineering, Mathematics (STEM,) and Medicine, to promote excellence and growth in R&D.",
         "benefits": [
-            "An amount of \u20b91.5 lakhs per month will be given to the awardee as a fellowship.",
-            "The Research Grant in this case will be \u20b95 lakhs per annum.",
-            "For overhead expenses, \u20b91.0 lakh per annum will be given to the host institution."
+            "An amount of ₹1.5 lakhs per month will be given to the awardee as a fellowship.",
+            "The Research Grant in this case will be ₹5 lakhs per annum.",
+            "For overhead expenses, ₹1.0 lakh per annum will be given to the host institution."
         ],
         "eligibility": [
             "The nominee should be a distinguished resident Indian scientist/ academician in any one or more areas of expertise in STEM and Medicine, particularly during the last 10 years.",
@@ -17,7 +17,7 @@
             "The nominee could be affiliated with an academic institutions/R&D lab or should have consent on the subject from the future host institution.",
             "The nominee should not hold any administrative roles and functions and is not in receipt of any honorarium/fellowship/salary from any other institute or organization at the time of initiation of the NSC award, if offered by SERB."
         ],
-        "application_process": "Nomination Procedure: Call for nomination will not be periodic in nature and will be made from time to time subject to vacancies available every year. Proposal in the prescribed form will be invited from the current and former Presidents of any of the national science academies (including Engineering, Agriculture, Medicine, etc.), Directors of premier institutes like IISc, Bangalore, IISERs, IITs, NITs, National Laboratories, etc., Vice-Chancellors of Universities as well as members of Scientific Advisory Councils to the Hon\u2019ble PM & Cabinet and members of governing bodies of Science and Engineering Research Board and Secretaries to Govt. of India in Ministries / Departments. The proposed nomination duly completed in all respects, signed, and routed through the Head of the Institution wherein a scientist/technologist intends to work or get associated with, should be submitted online at www.serbonline.in as and when the calls are announced.",
+        "application_process": "Nomination Procedure: Call for nomination will not be periodic in nature and will be made from time to time subject to vacancies available every year. Proposal in the prescribed form will be invited from the current and former Presidents of any of the national science academies (including Engineering, Agriculture, Medicine, etc.), Directors of premier institutes like IISc, Bangalore, IISERs, IITs, NITs, National Laboratories, etc., Vice-Chancellors of Universities as well as members of Scientific Advisory Councils to the Hon’ble PM & Cabinet and members of governing bodies of Science and Engineering Research Board and Secretaries to Govt. of India in Ministries / Departments. The proposed nomination duly completed in all respects, signed, and routed through the Head of the Institution wherein a scientist/technologist intends to work or get associated with, should be submitted online at www.serbonline.in as and when the calls are announced.",
         "documents_required": [
             "Recent Passport Size Photograph",
             "Educational Certificates",
@@ -86,7 +86,7 @@
             },
             {
                 "question": "Will my host institute receive any additional funds for the costs it incurs in connection with my research stay?",
-                "answer": "In general, the host institute will receive overhead @ \u20b91,00,000/- per annum, apart from this there is no provision to provide additional funds."
+                "answer": "In general, the host institute will receive overhead @ ₹1,00,000/- per annum, apart from this there is no provision to provide additional funds."
             },
             {
                 "question": "Is the grants received under NSC Award taxable?",
@@ -112,5 +112,6 @@
             "SERB",
             "Superannuated"
         ]
-    }
+    },
+    "id": "001329"
 }

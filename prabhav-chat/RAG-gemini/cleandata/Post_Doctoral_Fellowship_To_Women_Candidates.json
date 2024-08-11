@@ -7,10 +7,10 @@
         "beneficiary": "Women candidates holding Ph.D. degrees",
         "details": "The UGC has initiated a scheme of 'Post Doctoral Fellowship for Women' to those candidates, who are unemployed holding Ph.D. degrees in their respective subject areas with an aim to accelerate the talented instincts of the women candidates to carry out the advanced studies and research. The total duration of the fellowship is five years with no provision for further extension. The number of slots available under the scheme is 100 per year.",
         "benefits": [
-            "Fellowship of \u20b938,800/- per month for fresh candidates",
-            "Fellowship of \u20b946,500/- per month after two years",
-            "Annual contingency of \u20b950,000/- for five years",
-            "Escorts/Reader assistance of \u20b92000/- per month for PWD"
+            "Fellowship of ₹38,800/- per month for fresh candidates",
+            "Fellowship of ₹46,500/- per month after two years",
+            "Annual contingency of ₹50,000/- for five years",
+            "Escorts/Reader assistance of ₹2000/- per month for PWD"
         ],
         "eligibility": [
             "The candidate should be unemployed",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "How much amount of fellowship is paid under scheme?",
-                "answer": "The fellowship under the scheme is @ \u20b938,800/- per month for fresh candidates and @ \u20b946,500/- per month after two years."
+                "answer": "The fellowship under the scheme is @ ₹38,800/- per month for fresh candidates and @ ₹46,500/- per month after two years."
             },
             {
                 "question": "How many slots are available under the scheme per year?",
@@ -78,5 +78,6 @@
             "Research",
             "Higher Education"
         ]
-    }
+    },
+    "id": "001461"
 }

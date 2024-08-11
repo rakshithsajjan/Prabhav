@@ -5,15 +5,15 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Children of registered workers",
-        "details": "The scheme 'Financial Assistance for Education of Children of Registered Worker (HBOCWWB)' was launched to provide annual financial assistance of \u20b98,000/- to \u20b920,000/- to the children of registered workers from Class I to Diploma, Graduation, and Post-Graduation. Additionally, a one-time incentive of \u20b921,000/- to \u20b951,000/- will be given to children with outstanding performance in Class 10th examinations.",
+        "details": "The scheme 'Financial Assistance for Education of Children of Registered Worker (HBOCWWB)' was launched to provide annual financial assistance of ₹8,000/- to ₹20,000/- to the children of registered workers from Class I to Diploma, Graduation, and Post-Graduation. Additionally, a one-time incentive of ₹21,000/- to ₹51,000/- will be given to children with outstanding performance in Class 10th examinations.",
         "benefits": [
-            "\u20b98,000/- per annum for Elementary Education (1st to 8th grade)",
-            "\u20b910,000/- per annum for Secondary Education (9th to 12th Class)/ITI Course",
-            "\u20b915,000/- per annum for Higher education (first year to final year of bachelor's degree)",
-            "\u20b920,000/- per annum for Postgraduate (from first year to final year of Master's degree)",
-            "One-time incentive based on Class 10th examination performance ranging from \u20b921,000/- to \u20b951,000/-",
+            "₹8,000/- per annum for Elementary Education (1st to 8th grade)",
+            "₹10,000/- per annum for Secondary Education (9th to 12th Class)/ITI Course",
+            "₹15,000/- per annum for Higher education (first year to final year of bachelor's degree)",
+            "₹20,000/- per annum for Postgraduate (from first year to final year of Master's degree)",
+            "One-time incentive based on Class 10th examination performance ranging from ₹21,000/- to ₹51,000/-",
             "All educational expenditure for study in engineering, medical, technical education, management, and other professional courses will be borne by the Board",
-            "Hostel expenditure up to a maximum of \u20b91,20,000/- will be borne by the Board"
+            "Hostel expenditure up to a maximum of ₹1,20,000/- will be borne by the Board"
         ],
         "eligibility": [
             "The worker should be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB)",
@@ -45,7 +45,7 @@
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "To provide annual financial assistance of \u20b98,000/- to \u20b920,000/- to the children of registered workers from Class I to Diploma, Degree, Graduation, and post-graduation."
+                "answer": "To provide annual financial assistance of ₹8,000/- to ₹20,000/- to the children of registered workers from Class I to Diploma, Degree, Graduation, and post-graduation."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -90,5 +90,6 @@
             "Scholarship",
             "Students"
         ]
-    }
+    },
+    "id": "000525"
 }

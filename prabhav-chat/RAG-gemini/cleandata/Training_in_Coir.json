@@ -7,9 +7,9 @@
         "beneficiary": "Rural Poor",
         "details": "The scheme 'Training in Coir' Component of the 'Development of Coir' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry aims to promote and develop Coir and Coir-based industries in the region. Additionally, it focuses on providing a 6-month training to the rural poor in producing coir products with the objective of generating employment.",
         "benefits": [
-            "Stipend of \u20b91,500 per month per trainee during the 6-month training period.",
-            "An honorarium of \u20b9300 per month per trainee for the trainer, with a maximum of \u20b93,000 per month.",
-            "Compensation for wastage of raw materials: \u20b9200 per month per trainee, with a maximum of \u20b92,000 per month."
+            "Stipend of ₹1,500 per month per trainee during the 6-month training period.",
+            "An honorarium of ₹300 per month per trainee for the trainer, with a maximum of ₹3,000 per month.",
+            "Compensation for wastage of raw materials: ₹200 per month per trainee, with a maximum of ₹2,000 per month."
         ],
         "eligibility": [
             "The applicant should be a native of Puducherry Union Territory or a continuous resident for the past three years.",
@@ -32,15 +32,15 @@
             },
             {
                 "question": "What financial support does a trainee receive during the 6-month training period?",
-                "answer": "Trainees are entitled to a stipend of \u20b91,500 per month, providing support during the training."
+                "answer": "Trainees are entitled to a stipend of ₹1,500 per month, providing support during the training."
             },
             {
                 "question": "How does the scheme address the issue of wastage of raw materials during training?",
-                "answer": "Compensation for wastage of raw materials is provided at \u20b9200 per month per trainee, with a maximum of \u20b92,000 per month."
+                "answer": "Compensation for wastage of raw materials is provided at ₹200 per month per trainee, with a maximum of ₹2,000 per month."
             },
             {
                 "question": "What is the honorarium for trainers under this scheme?",
-                "answer": "Trainers receive an honorarium of \u20b9300 per month per trainee, capped at a maximum of \u20b93,000 per month."
+                "answer": "Trainers receive an honorarium of ₹300 per month per trainee, capped at a maximum of ₹3,000 per month."
             },
             {
                 "question": "What age group is eligible to apply for the 'Training in Coir' component?",
@@ -117,5 +117,6 @@
             "Skill",
             "Training"
         ]
-    }
+    },
+    "id": "001967"
 }

@@ -5,9 +5,9 @@
         "department": "Arts and Culture Department",
         "type": "Grant",
         "beneficiary": "Artists and Associations",
-        "details": "The 'Scheme of Financial Assistance for Dance and Drama Troupes/Associations' was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide a grant of \u20b92,000/- for dance and drama troupes/associations who have a standing of at least two years. The applications are accepted offline.",
+        "details": "The 'Scheme of Financial Assistance for Dance and Drama Troupes/Associations' was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide a grant of ₹2,000/- for dance and drama troupes/associations who have a standing of at least two years. The applications are accepted offline.",
         "benefits": [
-            "Grant of \u20b92,000/- given to the dance and drama troupes/associations."
+            "Grant of ₹2,000/- given to the dance and drama troupes/associations."
         ],
         "eligibility": [
             "The dance and drama troupes should be presenting new classical or folk dance programs or for staging new dramas, enacted by any cultural body registered in the territory.",
@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "What is the maximum grant amount for dance and drama troupes?",
-                "answer": "The grant shall not exceed \u20b92,000/- in each case."
+                "answer": "The grant shall not exceed ₹2,000/- in each case."
             },
             {
                 "question": "What type of programs are eligible for the financial assistance?",
@@ -86,5 +86,6 @@
             "Grant",
             "Troupes"
         ]
-    }
+    },
+    "id": "001721"
 }

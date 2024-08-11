@@ -5,7 +5,7 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Migrant Labourers",
-        "details": "The \u201cShramyogi Home Town Scheme\u201d is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to facilitate the payment of railway fares for migrant labourers employed in the organized sector in Gujarat, enabling them to travel to or from their home country to the nearest railway station. Considering the stagnant pace of industrial development in the state of Gujarat, some labourers come from other regions for livelihood. Most of these Shramyogis live away from their families. Due to social or accidental reasons, the economic burden of going to and from the labourers to their native place cannot be compensated by short salary. Hence, the plan for a labourer to visit his hometown once in two years.",
+        "details": "The “Shramyogi Home Town Scheme” is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to facilitate the payment of railway fares for migrant labourers employed in the organized sector in Gujarat, enabling them to travel to or from their home country to the nearest railway station. Considering the stagnant pace of industrial development in the state of Gujarat, some labourers come from other regions for livelihood. Most of these Shramyogis live away from their families. Due to social or accidental reasons, the economic burden of going to and from the labourers to their native place cannot be compensated by short salary. Hence, the plan for a labourer to visit his hometown once in two years.",
         "benefits": [
             "Under the scheme, migrant laborers employed in the organized sector can avail of payment for railway fare to travel to or from their home country, to the nearest railway station.",
             "The assistance amount will be credited to the beneficiary's bank account through DBT."
@@ -79,5 +79,6 @@
             "Organized Worker",
             "Payment Of Railway Fares"
         ]
-    }
+    },
+    "id": "001793"
 }

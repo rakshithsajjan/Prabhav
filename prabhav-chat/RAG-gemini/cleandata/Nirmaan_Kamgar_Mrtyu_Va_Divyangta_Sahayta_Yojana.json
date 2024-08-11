@@ -7,12 +7,12 @@
         "beneficiary": "Registered construction workers and their families",
         "details": "The Nirman Kamgar Mrtyu Va Divyangta Sahayata Yojana Uttar Pradesh is a crucial scheme launched by the Uttar Pradesh government for the welfare of registered construction workers in the state. It provides financial assistance to the families of construction workers in case of death or disability due to accident or illness.",
         "benefits": [
-            "Death Benefits for registered construction worker who die due to an accident: Total amount will be \u20b95,25,000/-.",
-            "Death Benefits for registered construction worker who die due to natural causes: Total amount will be \u20b92,25,000/-.",
-            "Death Benefits for registered construction worker who die at the workplace: Total amount: \u20b91,00,000/- lump sum.",
-            "Disability Benefits for registered construction worker who suffer 100% permanent disability due to an accident or illness: Total amount will be \u20b94,00,000/-.",
-            "Disability Benefits for registered construction workers with permanent disabilities between 50% and 99% due to accidents or illness: Total amount will be \u20b93,00,000/-.",
-            "Disability Benefits for registered construction workers with permanent disabilities between 26% and 49% due to accidents or illness: Total amount will be \u20b92,00,000/-."
+            "Death Benefits for registered construction worker who die due to an accident: Total amount will be ₹5,25,000/-.",
+            "Death Benefits for registered construction worker who die due to natural causes: Total amount will be ₹2,25,000/-.",
+            "Death Benefits for registered construction worker who die at the workplace: Total amount: ₹1,00,000/- lump sum.",
+            "Disability Benefits for registered construction worker who suffer 100% permanent disability due to an accident or illness: Total amount will be ₹4,00,000/-.",
+            "Disability Benefits for registered construction workers with permanent disabilities between 50% and 99% due to accidents or illness: Total amount will be ₹3,00,000/-.",
+            "Disability Benefits for registered construction workers with permanent disabilities between 26% and 49% due to accidents or illness: Total amount will be ₹2,00,000/-."
         ],
         "eligibility": [
             "Applicant/Beneficiary must be registered with labor department.",
@@ -45,11 +45,11 @@
             },
             {
                 "question": "How much financial benefits are provided under death?",
-                "answer": "1. Death Benefits for registered construction worker who die due to an accident: Total amount will be \u20b95,25,000/-. 2. Death Benefits for registered construction worker who die due to natural causes: Total amount will be \u20b92,25,000/-. 3. Death Benefits for registered construction worker who die at the workplace: Total amount: \u20b91,00,000/- lump sum."
+                "answer": "1. Death Benefits for registered construction worker who die due to an accident: Total amount will be ₹5,25,000/-. 2. Death Benefits for registered construction worker who die due to natural causes: Total amount will be ₹2,25,000/-. 3. Death Benefits for registered construction worker who die at the workplace: Total amount: ₹1,00,000/- lump sum."
             },
             {
                 "question": "How much financial benefits are provided under disability?",
-                "answer": "Disability Benefits for registered construction worker who suffer 100% permanent disability due to an accident or illness: Total amount will be \u20b94,00,000/-. Disability Benefits for registered construction workers with permanent disabilities between 50% and 99% due to accidents or illness: Total amount will be \u20b93,00,000/-. Disability Benefits for registered construction workers with permanent disabilities between 26% and 49% due to accidents or illness: Total amount will be \u20b92,00,000/-."
+                "answer": "Disability Benefits for registered construction worker who suffer 100% permanent disability due to an accident or illness: Total amount will be ₹4,00,000/-. Disability Benefits for registered construction workers with permanent disabilities between 50% and 99% due to accidents or illness: Total amount will be ₹3,00,000/-. Disability Benefits for registered construction workers with permanent disabilities between 26% and 49% due to accidents or illness: Total amount will be ₹2,00,000/-."
             },
             {
                 "question": "What is the procedure to get the scheme benefits?",
@@ -95,5 +95,6 @@
             "Health & Wellness",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001356"
 }

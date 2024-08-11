@@ -7,7 +7,7 @@
         "beneficiary": "SC/ST Micro and Small Enterprises (MSEs)",
         "details": "Reimbursement of Membership fee of Government promoted e-commerce portals Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. The component has provision for reimbursement of Annual Membership / Subscription fee of Government promoted e-commerce portals such as GeM, e-khadi, Tribal Cooperative Marketing Development Federation of India (TRIFED), Tribes India, MSME Mart, etc. to SC/ST Micro and Small Enterprises (MSEs).",
         "benefits": [
-            "Financial assistance may be provided 80% or a maximum of \u20b9 25,000/- (excluding applicable taxes) whichever is less, per financial year for new as well as renewals for SC/ST MSE."
+            "Financial assistance may be provided 80% or a maximum of ₹ 25,000/- (excluding applicable taxes) whichever is less, per financial year for new as well as renewals for SC/ST MSE."
         ],
         "eligibility": [
             "Applicant should belong to Scheduled Caste(SC) / Scheduled Tribe (ST) category.",
@@ -53,5 +53,6 @@
             "Entrepreneurship",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001592"
 }

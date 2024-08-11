@@ -7,8 +7,8 @@
         "beneficiary": "Sportspersons of Odisha",
         "details": "The Scheme was launched to provide financial assistance to sportspersons of Odisha to help them become qualified coaches, by undertaking SAI, NSNIS coaching courses, so as to improve their employability.",
         "benefits": [
-            "Sportspersons under the BPL category: 100% Course Fee plus an amount of \u20b910,000/- for Diploma and long-term courses and \u20b95,000/- for Six Weeks Certificate Courses to meet traveling and other miscellaneous expenses.",
-            "Sportspersons of Non-BPL category: 75% of the Course Fee plus an amount \u20b95,000/- for Diploma and long-term courses and \u20b92,500/- for Six Weeks Certificate Courses to meet traveling and other miscellaneous expenses."
+            "Sportspersons under the BPL category: 100% Course Fee plus an amount of ₹10,000/- for Diploma and long-term courses and ₹5,000/- for Six Weeks Certificate Courses to meet traveling and other miscellaneous expenses.",
+            "Sportspersons of Non-BPL category: 75% of the Course Fee plus an amount ₹5,000/- for Diploma and long-term courses and ₹2,500/- for Six Weeks Certificate Courses to meet traveling and other miscellaneous expenses."
         ],
         "eligibility": [
             "The applicant belonging to the BPL or Non-BPL category both are eligible.",
@@ -32,7 +32,7 @@
             },
             {
                 "question": "What are the benefits offered under this scheme?",
-                "answer": "The benefits provided under this scheme are as follows: 1. Sportspersons under the BPL category: 100% Course Fee plus an amount of \u20b910,000/- for Diploma and long-term courses and \u20b95,000/- for Six Weeks Certificate Courses to meet travelling and other miscellaneous expenses. 2. Sportspersons of Non-BPL category: 75% of the Course Fee plus an amount \u20b95,000/- for Diploma and long-term courses and \u20b92,500/- for Six Weeks Certificate Courses to meet traveling and other miscellaneous expenses."
+                "answer": "The benefits provided under this scheme are as follows: 1. Sportspersons under the BPL category: 100% Course Fee plus an amount of ₹10,000/- for Diploma and long-term courses and ₹5,000/- for Six Weeks Certificate Courses to meet travelling and other miscellaneous expenses. 2. Sportspersons of Non-BPL category: 75% of the Course Fee plus an amount ₹5,000/- for Diploma and long-term courses and ₹2,500/- for Six Weeks Certificate Courses to meet traveling and other miscellaneous expenses."
             },
             {
                 "question": "What courses are covered under this scheme?",
@@ -98,5 +98,6 @@
             "Sports Coaching",
             "Sportsperson"
         ]
-    }
+    },
+    "id": "000608"
 }

@@ -9,8 +9,8 @@
         "benefits": [
             "Lump sum amounts awarded for different grades and courses",
             "Bicycle subsidy for school commute (once only)",
-            "Passing high school/intermediate with 70% marks: \u20b95,000/- (boys) or \u20b98,000/- (girls)",
-            "Passing graduation/post-graduation with 60% marks: \u20b910,000/- (boys) or \u20b912,000/- (girls)"
+            "Passing high school/intermediate with 70% marks: ₹5,000/- (boys) or ₹8,000/- (girls)",
+            "Passing graduation/post-graduation with 60% marks: ₹10,000/- (boys) or ₹12,000/- (girls)"
         ],
         "eligibility": [
             "The construction worker must be registered with the Board and be actively updated.",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "How much Bicycle subsidy is provided?",
-                "answer": "Passing high school/intermediate with 70% marks: \u20b95,000/- (boys) or \u20b98,000/- (girls). Passing graduation/post-graduation with 60% marks: \u20b910,000/- (boys) or \u20b912,000/- (girls)."
+                "answer": "Passing high school/intermediate with 70% marks: ₹5,000/- (boys) or ₹8,000/- (girls). Passing graduation/post-graduation with 60% marks: ₹10,000/- (boys) or ₹12,000/- (girls)."
             },
             {
                 "question": "What is the procedure to get the scheme benefits?",
@@ -95,5 +95,6 @@
             "Financial Assistance",
             "Scholarship"
         ]
-    }
+    },
+    "id": "001644"
 }

@@ -5,16 +5,16 @@
         "department": "Department of Women & Child Development",
         "type": "Financial Assistance",
         "beneficiary": "Widows",
-        "details": "The scheme 'Incentive to Widow's Remarriage (IWR)' is a social welfare scheme by the Department of Women & Child Development, Government of Puducherry. The objective of this scheme is to encourage and support widows to remarry and lead a normal life in society. Through this scheme, eligible individuals receive financial assistance of \u20b950,000/- in the form of a National Saving Certificate. The bridegroom should be a bachelor or a widower.",
+        "details": "The scheme 'Incentive to Widow's Remarriage (IWR)' is a social welfare scheme by the Department of Women & Child Development, Government of Puducherry. The objective of this scheme is to encourage and support widows to remarry and lead a normal life in society. Through this scheme, eligible individuals receive financial assistance of ₹50,000/- in the form of a National Saving Certificate. The bridegroom should be a bachelor or a widower.",
         "benefits": [
-            "Financial assistance of \u20b950,000/- in the form of a National Saving Certificate."
+            "Financial assistance of ₹50,000/- in the form of a National Saving Certificate."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a Widow.",
             "The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence of not less than 5 years.",
             "The applicant should not be carrying a child.",
-            "The applicant's annual income should not exceed \u20b975,000/- per annum.",
+            "The applicant's annual income should not exceed ₹75,000/- per annum.",
             "The bridegroom should be a bachelor or a widower.",
             "The Bride and the Bridegroom should be of legal marriage age, i.e. 18 years for the Bride and 21 years for the Bridegroom."
         ],
@@ -65,7 +65,7 @@
             },
             {
                 "question": "Is there an upper limit on the annual income of the IWR scheme applicants?",
-                "answer": "Yes, the annual income of the applicant should not exceed \u20b975,000/-, ensuring the financial assistance reaches those who need it most."
+                "answer": "Yes, the annual income of the applicant should not exceed ₹75,000/-, ensuring the financial assistance reaches those who need it most."
             },
             {
                 "question": "Are there specific criteria regarding the legal age for marriage under the IWR scheme?",
@@ -113,5 +113,6 @@
             "Social Welfare",
             "Widow"
         ]
-    }
+    },
+    "id": "000825"
 }

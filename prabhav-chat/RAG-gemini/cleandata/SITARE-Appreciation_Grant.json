@@ -5,11 +5,11 @@
         "department": "Ministry Of Science And Technology",
         "type": "Grant",
         "beneficiary": "Undergraduate Student",
-        "details": "Students Innovations for Translation & Advancement of Research Explorations (SITARE) Scheme is started by the Biotechnology Industry Research Assistance Council (BIRAC) for supporting innovative student projects in the area of biotechnology. The scheme\u2019s mandate is to promote and encourage young students for embracing translational research to develop innovative products and technologies addressing unmet needs. The scheme has two components: SITARE-Gandhian Young Technological Innovation Award Grant (SITARE-GYTI) and SITARE-Appreciation Grant. Residential workshops called as Biotech Innovation Ignition School (BIIS) for undergraduate students are organized to provide hands-on technical training and mentorship for problem identification in 3-4 weeks duration. Out of 30-40 students per workshop, 10 students are selected and provided grant support of up to INR 1 lakh each to encourage their inquisitiveness and sustained efforts. The recipients are recognized as BIRAC\u2019s SITARE-Appreciation beneficiaries. In a year, 3 such workshops are conducted.",
+        "details": "Students Innovations for Translation & Advancement of Research Explorations (SITARE) Scheme is started by the Biotechnology Industry Research Assistance Council (BIRAC) for supporting innovative student projects in the area of biotechnology. The scheme’s mandate is to promote and encourage young students for embracing translational research to develop innovative products and technologies addressing unmet needs. The scheme has two components: SITARE-Gandhian Young Technological Innovation Award Grant (SITARE-GYTI) and SITARE-Appreciation Grant. Residential workshops called as Biotech Innovation Ignition School (BIIS) for undergraduate students are organized to provide hands-on technical training and mentorship for problem identification in 3-4 weeks duration. Out of 30-40 students per workshop, 10 students are selected and provided grant support of up to INR 1 lakh each to encourage their inquisitiveness and sustained efforts. The recipients are recognized as BIRAC’s SITARE-Appreciation beneficiaries. In a year, 3 such workshops are conducted.",
         "benefits": [
             "Under the scheme, the residential workshops called as Biotech Innovation Ignition School (BIIS) for undergraduate students are organized to provide hands-on technical training and mentorship for problem identification in 3-4 weeks duration.",
             "Out of 30-40 students per workshop, 10 students are selected and provided grant support of up to INR 1 lakh each to encourage their inquisitiveness and sustained efforts.",
-            "The recipients are recognized as BIRAC\u2019s SITARE-Appreciation beneficiaries.",
+            "The recipients are recognized as BIRAC’s SITARE-Appreciation beneficiaries.",
             "In a year, 3 such workshops are conducted."
         ],
         "eligibility": [
@@ -28,11 +28,11 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cSITARE\u201d Scheme?",
+                "question": "What is the “SITARE” Scheme?",
                 "answer": "Students Innovations for Translation & Advancement of Research Explorations (SITARE) Scheme is aimed at supporting innovative student projects in the area of biotechnology."
             },
             {
-                "question": "What is the \u201cSITARE-Appreciation Grant\u201d?",
+                "question": "What is the “SITARE-Appreciation Grant”?",
                 "answer": "Under the SITARE-Appreciation Grant, Residential workshops called as Biotech Innovation Ignition School (BIIS) for undergraduate students are organized to provide hands-on technical training and mentorship for problem identification in 3-4 weeks duration."
             },
             {
@@ -40,7 +40,7 @@
                 "answer": "Biotechnology Industry Research Assistance Council (BIRAC)"
             },
             {
-                "question": "What is the \u201cBiotech Innovation Ignition School\u201d?",
+                "question": "What is the “Biotech Innovation Ignition School”?",
                 "answer": "The mandate of Biotech Innovation Ignition School (BIIS) is to provide exposure and orientation for the entrepreneurial journey through hands-on-technical training, interactive sessions with experts, access to a bio incubation center, etc."
             },
             {
@@ -89,5 +89,6 @@
             "Innovation",
             "Undergraduate"
         ]
-    }
+    },
+    "id": "001618"
 }

@@ -7,14 +7,14 @@
         "beneficiary": "Adolescent girls and women",
         "details": "Recognizing the importance of menstrual hygiene management, the Uttarakhand government's Department of Women Empowerment and Child Development introduced the 'Sanitary Napkin Scheme,' a social security initiative focused on adolescent girls and women. This program tackles the issue of period poverty by making sanitary napkins readily available at a subsidized cost. By ensuring affordability, the scheme empowers girls and women to manage their menstrual cycles hygienically and confidently. This not only promotes good health but also allows them to participate fully in all aspects of daily life, including education and work. The 'Sanitary Napkin Scheme' serves as a significant step towards breaking the silence around menstruation and fostering a culture of menstrual health awareness in Uttarakhand.",
         "benefits": [
-            "Sanitary napkins are distributed to adolescent girls/women at \u20b9 6/-."
+            "Sanitary napkins are distributed to adolescent girls/women at ₹ 6/-."
         ],
         "eligibility": [
             "Beneficiary should be a permanent resident of Uttarakhand.",
             "Beneficiary should be a girl/woman."
         ],
         "exclusions": [],
-        "application_process": "Step-1: Concerned girls/women should visit their nearest Anganwadi Centre. Step-2: They can buy sanitary napkins from there at a minimum cost of \u20b9 6/-.",
+        "application_process": "Step-1: Concerned girls/women should visit their nearest Anganwadi Centre. Step-2: They can buy sanitary napkins from there at a minimum cost of ₹ 6/-.",
         "documents_required": [
             "No documents are required."
         ],
@@ -33,7 +33,7 @@
             },
             {
                 "question": "What kind of assistance can be availed through this scheme?",
-                "answer": "This scheme provides sanitary napkins at a minimum cost of \u20b9 6/- to the girls/women of the state."
+                "answer": "This scheme provides sanitary napkins at a minimum cost of ₹ 6/- to the girls/women of the state."
             },
             {
                 "question": "What should be the age criteria for the beneficiaries?",
@@ -63,5 +63,6 @@
             "Women Empowerment",
             "Social Security"
         ]
-    }
+    },
+    "id": "001641"
 }

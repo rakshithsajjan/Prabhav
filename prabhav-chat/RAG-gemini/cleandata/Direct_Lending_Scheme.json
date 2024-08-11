@@ -7,10 +7,10 @@
         "beneficiary": "Person With Disability, Scheduled Caste",
         "details": "Through the 'Direct Lending Scheme', the Punjab Scheduled Castes Land Development & Finance Corporation (PSCLDFC) provides direct loans for the economic upliftment of the members of the Scheduled Castes and Handicapped People in the state of Punjab. In order to be eligible, the applicant should be from the Scheduled Caste category, and the age should be between 18 to 55 years. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Punjab can apply for this scheme.",
         "benefits": [
-            "Loan Amount: The loanees are eligible for a subsidy of special Central Assistance @ 50% of the loan amount or \u20b9 10,000/- (whichever is less).",
+            "Loan Amount: The loanees are eligible for a subsidy of special Central Assistance @ 50% of the loan amount or ₹ 10,000/- (whichever is less).",
             "Sources of Funds: Share Capital Funds",
             "Repayment Period: The period varies according to the kind of project with monthly, bimonthly, quarterly, or half-yearly installments with a maximum period of repayment of 15 years for land purchase cases.",
-            "Rate of Interest: Up To 50,000/- @ 5% and above \u20b9 50,000/- @8%.",
+            "Rate of Interest: Up To 50,000/- @ 5% and above ₹ 50,000/- @8%.",
             "Note: Penal Interest @ 5% is charged for delayed payment/ non-repayment/violation of terms and conditions of the loan."
         ],
         "eligibility": [
@@ -19,7 +19,7 @@
             "The applicant should be from Below Poverty Line (BPL).",
             "The applicant should be from the Scheduled Caste category OR the applicant should be a Person with Disability (PwD).",
             "The age of the applicant should be between 18 to 55 years.",
-            "(At the time of considering the loan case of the applicant) The annual family income of the applicant (from all sources) should be less than or equal to \u20b9 1,00,000/- (In case the applicant is unemployed, and intends to start his/her own business, his/her family income may not be taken into consideration).",
+            "(At the time of considering the loan case of the applicant) The annual family income of the applicant (from all sources) should be less than or equal to ₹ 1,00,000/- (In case the applicant is unemployed, and intends to start his/her own business, his/her family income may not be taken into consideration).",
             "The applicant should not already be availing the benefits of the scheme."
         ],
         "exclusions": [],
@@ -47,7 +47,7 @@
             },
             {
                 "question": "In What Cases Will The Family Income Of The Applicant May Not Be Taken Into Consideration?",
-                "answer": "(At the time of considering the loan case of the applicant) The annual family income of the applicant (from all sources) should be less than or equal to \u20b9 1,00,000/-. In case the applicant is unemployed, and intends to start his/her own business, his/her family income may not be taken into consideration."
+                "answer": "(At the time of considering the loan case of the applicant) The annual family income of the applicant (from all sources) should be less than or equal to ₹ 1,00,000/-. In case the applicant is unemployed, and intends to start his/her own business, his/her family income may not be taken into consideration."
             },
             {
                 "question": "Is It Mandatory For The Applicant To Be A Person With Disability (PwD) In Order To Be Eligible For This Scheme?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What Shall Be The Amount Of The Loan?",
-                "answer": "The loanees are eligible for a subsidy of special Central Assistance @ 50% of the loan amount or \u20b9 10,000/- (whichever is less)."
+                "answer": "The loanees are eligible for a subsidy of special Central Assistance @ 50% of the loan amount or ₹ 10,000/- (whichever is less)."
             },
             {
                 "question": "What Would Be The Sources Of Funds?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "How Much Shall Be The Rate Of Interest On The Loan?",
-                "answer": "Rate of Interest: Up To 50,000/- @ 5% and above \u20b9 50,000/- @8%."
+                "answer": "Rate of Interest: Up To 50,000/- @ 5% and above ₹ 50,000/- @8%."
             },
             {
                 "question": "Will There Be A Penal Interest In The Case Of Delayed Payment/ Non-Repayment/Violation Of Terms And Conditions Of The Loan?",
@@ -95,7 +95,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That One Can Receive Through This Scheme?",
-                "answer": "The maximum amount of loan that one can receive through this scheme is \u20b9 1,00,000."
+                "answer": "The maximum amount of loan that one can receive through this scheme is ₹ 1,00,000."
             },
             {
                 "question": "Is The Residential Certificate / Domicile Certificate Of The State Of Punjab, A Mandatory Document For This Scheme?",
@@ -155,5 +155,6 @@
             "Scheduled Caste",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000396"
 }

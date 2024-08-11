@@ -7,9 +7,9 @@
         "beneficiary": "Micro, Small, Medium and Large Enterprises, Women/SC/ST Entrepreneurs",
         "details": "'Capital Investment Subsidy (for New and Existing Industries)' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Capital Intensive Industries' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, the enterprises and entrepreneurs are provided subsidy of upto 45% on the investments made on land, buildings, plant and machinery. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "For Micro and Small Enterprises, a 40% subsidy on the investments made on land, building, plant and machinery, subject to a maximum of \u20b940,00,000/-",
-            "For Medium and Large Enterprises, a 35% subsidy on the investments made on land, building, plant and machinery, subject to a maximum of \u20b935,00,000/-",
-            "For Women/SC/ST Entrepreneurs, a 45% subsidy on the investments made on land, building, plant and machinery, subject to a maximum of \u20b975,00,000/-"
+            "For Micro and Small Enterprises, a 40% subsidy on the investments made on land, building, plant and machinery, subject to a maximum of ₹40,00,000/-",
+            "For Medium and Large Enterprises, a 35% subsidy on the investments made on land, building, plant and machinery, subject to a maximum of ₹35,00,000/-",
+            "For Women/SC/ST Entrepreneurs, a 45% subsidy on the investments made on land, building, plant and machinery, subject to a maximum of ₹75,00,000/-"
         ],
         "eligibility": [
             "The scheme applies to the Micro, Small, Medium and Large Enterprises, and to the Women/SC/ST Entrepreneurs.",
@@ -27,7 +27,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
+            "Engineer’s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
             "Registered Lease Agreement for the Building Executed Between the Developer and the Unit.",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
@@ -111,5 +111,6 @@
                 "url": "https://industry.py.gov.in/state-helpline"
             }
         ]
-    }
+    },
+    "id": "000245"
 }

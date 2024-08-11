@@ -7,7 +7,7 @@
         "beneficiary": "Student",
         "details": "The scheme 'Award of Pre-matric Scholarship to the Students Whose Parents Are Engaged in Unclean Occupation' by the Adi Dravidar Welfare Department, Government of Puducherry, provides scholarships to the students whose parents are engaged in unclean occupation (scavenger, Flayers & Tarner) to improve the status of the unprivileged society. The scheme provides scholarships irrespective of income and caste.",
         "benefits": [
-            "Financial assistance of \u20b91850/- per annum"
+            "Financial assistance of ₹1850/- per annum"
         ],
         "eligibility": [
             "The applicant should be from a Scheduled Caste.",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What financial assistance does the scheme provide annually?",
-                "answer": "The scheme offers \u20b91850/- per annum as financial assistance to the eligible students in Puducherry."
+                "answer": "The scheme offers ₹1850/- per annum as financial assistance to the eligible students in Puducherry."
             },
             {
                 "question": "Does the scheme consider the income and caste of the applicant for eligibility?",
@@ -90,5 +90,6 @@
             "Scheduled Caste",
             "Unclean Occupation"
         ]
-    }
+    },
+    "id": "000151"
 }

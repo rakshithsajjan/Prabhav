@@ -7,8 +7,8 @@
         "beneficiary": "Unorganized workers and their families",
         "details": "In 2019, Chhattisgarh State Government started a scheme 'Asangathit Karmakaar Mrtyu Evan Divyaang Sahaayata Yojana' for unorganized workers. With this scheme, families will be able to get financial benefits after the death or disability of the unorganized worker.",
         "benefits": [
-            "\u20b9 1,00,000/- on Death",
-            "\u20b9 50,000/- on Permanent Disability"
+            "₹ 1,00,000/- on Death",
+            "₹ 50,000/- on Permanent Disability"
         ],
         "eligibility": [
             "Unorganized workers must be between the ages of 18 and 60.",
@@ -86,5 +86,6 @@
             "Family Benefits",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000097"
 }

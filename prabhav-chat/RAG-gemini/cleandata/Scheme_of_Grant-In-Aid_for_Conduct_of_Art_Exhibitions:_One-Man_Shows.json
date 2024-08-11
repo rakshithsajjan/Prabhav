@@ -5,9 +5,9 @@
         "department": "Art and Culture Department",
         "type": "Grant",
         "beneficiary": "Artist",
-        "details": "The 'Scheme of Grant-In-Aid for Conduct of Art Exhibitions: One-Man Shows' was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to encourage talented artists in the field of painting and sculpture by granting \u20b925,000/- for conducting 'one-man show' art exhibitions. The applications are accepted offline in the prescribed form available at the Oviya Nunkalai Kuzhu.",
+        "details": "The 'Scheme of Grant-In-Aid for Conduct of Art Exhibitions: One-Man Shows' was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to encourage talented artists in the field of painting and sculpture by granting ₹25,000/- for conducting 'one-man show' art exhibitions. The applications are accepted offline in the prescribed form available at the Oviya Nunkalai Kuzhu.",
         "benefits": [
-            "Financial Assistance of \u20b925,000/-"
+            "Financial Assistance of ₹25,000/-"
         ],
         "eligibility": [
             "The applicant should be an artist.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What is the objective of the 'Scheme of Grant-In-Aid for Conduct of Art Exhibitions: One-Man Shows'?",
-                "answer": "The scheme aims to encourage talented artists in the field of painting and sculpture by granting \u20b925,000/- for conducting 'one-man show' art exhibitions."
+                "answer": "The scheme aims to encourage talented artists in the field of painting and sculpture by granting ₹25,000/- for conducting 'one-man show' art exhibitions."
             },
             {
                 "question": "How are applications for the scheme accepted?",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the grant amount provided under this scheme?",
-                "answer": "The grant amount provided is \u20b925,000/-."
+                "answer": "The grant amount provided is ₹25,000/-."
             },
             {
                 "question": "Where can interested applicants obtain the application form?",
@@ -93,5 +93,6 @@
             "Financial Assistance",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001731"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Information Technology, Electronics and Communications",
         "type": "Reimbursement",
         "beneficiary": "Startups of Goa",
-        "details": "The scheme 'Trademark Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. For start-ups that have successfully entered the production/service delivery phase, and want to trademark their company name and logo, 50% of the cost of trade-mark registration of their company name and logo will be reimbursed up to \u20b9 25,000/-.",
+        "details": "The scheme 'Trademark Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. For start-ups that have successfully entered the production/service delivery phase, and want to trademark their company name and logo, 50% of the cost of trade-mark registration of their company name and logo will be reimbursed up to ₹ 25,000/-.",
         "benefits": [
-            "50% reimbursement of trademark registration costs up to \u20b9 25,000/-",
+            "50% reimbursement of trademark registration costs up to ₹ 25,000/-",
             "Up to 200 applicants can avail benefits per year",
             "Disbursal within 60 days of application approval"
         ],
@@ -105,5 +105,6 @@
             "Startup",
             "Trademark"
         ]
-    }
+    },
+    "id": "001966"
 }

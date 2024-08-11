@@ -7,11 +7,11 @@
         "beneficiary": "Construction Worker",
         "details": "The state government launched the 'Nirman Shramik Pucca Ghar Yojana (NSPGY)' scheme to meet the housing needs of the building and other construction workers in rural areas, registered under the Odisha Building & Other Construction Workers Welfare Board (OB&OCWWB), who play a pivotal role in the construction of individual and community assets and do not have their own pucca house.",
         "benefits": [
-            "Unit cost for new construction of dwelling houses is \u20b91,20,000/- for Non-IAP districts and \u20b91,30,000/- for IAP districts.",
+            "Unit cost for new construction of dwelling houses is ₹1,20,000/- for Non-IAP districts and ₹1,30,000/- for IAP districts.",
             "Beneficiaries will get a wage component for 90 person days in Non-IAP and 95 person days in IAP districts under MGNREGS.",
-            "Beneficiaries will avail \u20b912,000 for IHHL under MGNREGS/SBM(G).",
+            "Beneficiaries will avail ₹12,000 for IHHL under MGNREGS/SBM(G).",
             "Entitled to convergence for potable drinking water supply system, electrification under DDU GJY/BGJY, wages for land development under MGNREGS, social security under AABY/RSBY.",
-            "Incentives for early completion of the house: \u20b920,000 for completion within 4 months and \u20b910,000 for completion within 6 months of receipt of 1st installment."
+            "Incentives for early completion of the house: ₹20,000 for completion within 4 months and ₹10,000 for completion within 6 months of receipt of 1st installment."
         ],
         "eligibility": [
             "Permanent resident of Odisha.",
@@ -41,11 +41,11 @@
             },
             {
                 "question": "How much financial assistance will be provided under the scheme for constructing a new house?",
-                "answer": "The unit cost under NSPGY for new construction of dwelling houses is \u20b91,20,000/- for Non-IAP districts and \u20b91,30,000/- for IAP districts."
+                "answer": "The unit cost under NSPGY for new construction of dwelling houses is ₹1,20,000/- for Non-IAP districts and ₹1,30,000/- for IAP districts."
             },
             {
                 "question": "Is there any incentive to be given to the beneficiary in case of early completion of the house?",
-                "answer": "Yes, for early completion of the house, the beneficiary will avail incentives of \u20b920,000 & \u20b910,000 if completed within 4 months & 6 months of receipt of 1st installment respectively."
+                "answer": "Yes, for early completion of the house, the beneficiary will avail incentives of ₹20,000 & ₹10,000 if completed within 4 months & 6 months of receipt of 1st installment respectively."
             }
         ],
         "sources": [
@@ -72,5 +72,6 @@
             "Financial Assistance",
             "Odisha"
         ]
-    }
+    },
+    "id": "001258"
 }

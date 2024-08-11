@@ -11,8 +11,8 @@
             "Credit-linked subsidies to the eligible beneficiaries will be facilitated by the Housing Department, as per the existing scheme."
         ],
         "eligibility": [
-            "Monthly family income should be \u20b915,000 or less for the Lower Income Group (LIG).",
-            "Monthly family income should be \u20b930,000 or less for the Middle Income Group (MIG).",
+            "Monthly family income should be ₹15,000 or less for the Lower Income Group (LIG).",
+            "Monthly family income should be ₹30,000 or less for the Middle Income Group (MIG).",
             "The beneficiary should not have any pucca house/flat in his/her name, or in the name of any family member in the state.",
             "The applicant must be an inhabitant of the same district in which the project is to be implemented.",
             "One applicant can apply for one flat only for his/her family."
@@ -45,11 +45,11 @@
             },
             {
                 "question": "What should be the monthly family income of the person belonging to LIG?",
-                "answer": "The monthly family income should be \u20b915,000 or less."
+                "answer": "The monthly family income should be ₹15,000 or less."
             },
             {
                 "question": "What should be the monthly family income of the person belonging to MIG?",
-                "answer": "The monthly family income should be \u20b930,000."
+                "answer": "The monthly family income should be ₹30,000."
             },
             {
                 "question": "Is a beneficiary having any pucca house/flat in his/her name eligible under this scheme?",
@@ -89,5 +89,6 @@
             "LIG",
             "MIG"
         ]
-    }
+    },
+    "id": "001257"
 }

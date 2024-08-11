@@ -1,11 +1,11 @@
 {
     "content": {
-        "title": "Prime Minister\u2019s Fellowship for Doctoral Research",
+        "title": "Prime Minister’s Fellowship for Doctoral Research",
         "state": "India",
         "department": "Department of Science & Technology",
         "type": "Fellowship",
         "beneficiary": "Full-time PhD scholars",
-        "details": "Prime Minister\u2019s Fellowship for Doctoral Research scheme is a prestigious initiative of Science and Engineering Research Board, Department of Science & Technology, Government of India towards the advancement of university research engagements in line with industry requirement. The scheme encourages full time PhD scholars to pursue research in \u201cfocus areas\u201d identified by industries as well as of national priorities.",
+        "details": "Prime Minister’s Fellowship for Doctoral Research scheme is a prestigious initiative of Science and Engineering Research Board, Department of Science & Technology, Government of India towards the advancement of university research engagements in line with industry requirement. The scheme encourages full time PhD scholars to pursue research in “focus areas” identified by industries as well as of national priorities.",
         "benefits": [
             "Attractive scholarship",
             "National and international exposure",
@@ -51,5 +51,6 @@
             "Scholarship",
             "Industry Partnership"
         ]
-    }
+    },
+    "id": "001526"
 }

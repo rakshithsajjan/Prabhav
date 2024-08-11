@@ -5,7 +5,7 @@
         "department": "Labour Department, Government of Uttarakhand",
         "type": "Welfare Scheme",
         "beneficiary": "Registered building & construction workers",
-        "details": "The 'Solar Energy Assistance Scheme' is a welfare scheme which is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, Solar Light/Lantern (LED/CFL) will be provided to registered building & construction workers. The beneficiary will receive the benefit only once in their entire lifetime, even if both spouses are registered under the Board.",
+        "details": "The 'Solar Energy Assistance Scheme' is a welfare scheme which is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, Solar Light/Lantern (LED/CFL) will be provided to registered building & construction workers. The beneficiary will receive the benefit only once in their entire lifetime, even if both spouses are registered under the Board.",
         "benefits": [
             "Solar Light/Lantern (LED/CFL) will be provided to registered building & construction workers.",
             "Maintenance or service charges can be contacted through the concerned supplier."
@@ -13,7 +13,7 @@
         "eligibility": [
             "The applicant/beneficiary should be a resident of Uttarakhand.",
             "The applicant should be engaged in any building or construction work.",
-            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board.",
             "The applicant will become eligible for benefits only after three months from their registration.",
             "The applicant should have an active membership of the Board.",
             "The beneficiary will receive the benefit only once in their entire lifetime, even if both spouses are registered under the Board.",
@@ -35,7 +35,7 @@
         "faqs": [
             {
                 "question": "Who implements the Solar Energy Assistance Scheme?",
-                "answer": "The scheme is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand."
+                "answer": "The scheme is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB) under the Labour Department, Government of Uttarakhand."
             },
             {
                 "question": "What benefits are provided under the scheme?",
@@ -99,5 +99,6 @@
             "Solar Lantern",
             "Solar Light"
         ]
-    }
+    },
+    "id": "001823"
 }

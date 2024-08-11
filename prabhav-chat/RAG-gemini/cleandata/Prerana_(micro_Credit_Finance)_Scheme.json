@@ -16,7 +16,7 @@
             "The applicant should belong to the Scheduled caste/Scheduled Tribe community.",
             "The applicant should be a resident of Karnataka.",
             "The applicant should be above 21 years of age.",
-            "The family\u2019s annual income should not exceed Rs. 1,50,000 for rural and Rs. 2,00,000 for Urban applicant.",
+            "The family’s annual income should not exceed Rs. 1,50,000 for rural and Rs. 2,00,000 for Urban applicant.",
             "Applicant will be considered ineligible if they/their family member has earlier availed a subsidy from the Corporation/Government of Karnataka.",
             "The applicant should be a member or should avail membership of such self-help group.",
             "The self-help group seeking self-employment opportunity should possess a stall/unit with minimum of 200 sft (rent/lease/own).",
@@ -77,5 +77,6 @@
             "Scheduled Tribe",
             "Self Help Groups"
         ]
-    }
+    },
+    "id": "001520"
 }

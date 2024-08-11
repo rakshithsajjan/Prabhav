@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Welfare Scheme",
         "beneficiary": "Construction Workers",
-        "details": "The 'Medical Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction financial assistance to the Construction Workers who are hospitalized for five or more days due to an accident or any disease. The financial assistance shall be \u20b9500/- for the first 5 days and \u20b950/- each for the remaining days, subject to a maximum of \u20b91,500/-.",
+        "details": "The 'Medical Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board may sanction financial assistance to the Construction Workers who are hospitalized for five or more days due to an accident or any disease. The financial assistance shall be ₹500/- for the first 5 days and ₹50/- each for the remaining days, subject to a maximum of ₹1,500/-.",
         "benefits": [
-            "Financial Assistance of \u20b9500/- for initial minimum period of 5 days and thereafter \u20b950/- per day up to maximum of \u20b91500/- per month, credited within 15 days through Direct Benefit Transfer (DBT)."
+            "Financial Assistance of ₹500/- for initial minimum period of 5 days and thereafter ₹50/- per day up to maximum of ₹1500/- per month, credited within 15 days through Direct Benefit Transfer (DBT)."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What financial assistance does the Medical Assistance scheme provide?",
-                "answer": "The scheme offers \u20b9500/- for the initial 5 days and \u20b950/- per day thereafter, up to a maximum of \u20b91,500/- per month, credited through Direct Benefit Transfer (DBT)."
+                "answer": "The scheme offers ₹500/- for the initial 5 days and ₹50/- per day thereafter, up to a maximum of ₹1,500/- per month, credited through Direct Benefit Transfer (DBT)."
             },
             {
                 "question": "How quickly are the benefits disbursed after hospitalization?",
@@ -71,7 +71,7 @@
             },
             {
                 "question": "Is there a maximum limit on the total benefits a worker can receive?",
-                "answer": "The maximum benefit under the scheme is \u20b91,500/- per month."
+                "answer": "The maximum benefit under the scheme is ₹1,500/- per month."
             },
             {
                 "question": "Are the benefits taxable?",
@@ -83,7 +83,7 @@
             },
             {
                 "question": "Are there any conditions for extending the benefit period beyond 5 days?",
-                "answer": "The benefit period extends beyond 5 days only if the hospitalization continues, with a daily assistance rate of \u20b950/-."
+                "answer": "The benefit period extends beyond 5 days only if the hospitalization continues, with a daily assistance rate of ₹50/-."
             },
             {
                 "question": "Can the beneficiary choose the mode of receiving the financial assistance?",
@@ -117,5 +117,6 @@
             "Medical",
             "Worker"
         ]
-    }
+    },
+    "id": "001122"
 }

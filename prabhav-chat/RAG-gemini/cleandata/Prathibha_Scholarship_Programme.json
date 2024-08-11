@@ -8,7 +8,7 @@
         "details": "Scholarships are awarded to students of Kerala origin who have qualified meritoriously in the Higher Secondary Examination, for pursuing Undergraduate and Postgraduate degree courses in Basic/ Natural Science in Institutions/ Universities in India. The objective of the programme is to motivate aspiring students to higher studies and a career in Science.",
         "benefits": [
             "Scholarship is awarded for studies in Basic / Natural Sciences.",
-            "The selected students are eligible for scholarship as follows: U.G. Course/ First 3 years of Integrated P.G. Course: 1st Year - \u20b912,000/-, 2nd Year - \u20b918,000/-, 3rd Year - \u20b924,000/-; P.G. Course (subject to scoring minimum 75% marks for Undergraduate course): 1st Year/ 4th Year of Integrated P.G. Course - \u20b940,000/-, 2nd Year/ 5th Year of Integrated P.G. Course - \u20b960,000/-",
+            "The selected students are eligible for scholarship as follows: U.G. Course/ First 3 years of Integrated P.G. Course: 1st Year - ₹12,000/-, 2nd Year - ₹18,000/-, 3rd Year - ₹24,000/-; P.G. Course (subject to scoring minimum 75% marks for Undergraduate course): 1st Year/ 4th Year of Integrated P.G. Course - ₹40,000/-, 2nd Year/ 5th Year of Integrated P.G. Course - ₹60,000/-",
             "Offers opportunities for attending Science Enrichment Programmes and summer internships in reputed National and State level R&D institutions in Kerala.",
             "Eight Prathibha Scholars (two scholars in each of the disciplines- Biology, Chemistry, Mathematics and Physics) are eligible to be considered for summer programmes at IISER-Trivandrum."
         ],
@@ -16,7 +16,7 @@
             "Applicant should be of Kerala origin.",
             "Applicant should have qualified Higher Secondary Examination from Kerala.",
             "Applicant should have qualified Higher Secondary Board Examination with minimum 90% marks or equivalent grade for all subjects put together and minimum 90% marks or equivalent grade for all Science subjects put together. (For SC/ST reservation category, the eligibility is stipulated to minimum marks of 80% or equivalent grade for all subjects in total and minimum 80% marks or equivalent grade for all Science subjects in total).",
-            "Applicant should have secured admission for 3 year B.Sc. / 5 year Integrated M.Sc. / 5 year Integrated BS-MS course in Basic or Natural Science (23 subjects enlisted in the \u2018guidelines\u2019) in any of the Institutions or Universities in India."
+            "Applicant should have secured admission for 3 year B.Sc. / 5 year Integrated M.Sc. / 5 year Integrated BS-MS course in Basic or Natural Science (23 subjects enlisted in the ‘guidelines’) in any of the Institutions or Universities in India."
         ],
         "application_process": "Online registration is required. Applicants should register online before the stipulated date as per the notification issued by KSCSTE.",
         "documents_required": [
@@ -25,7 +25,7 @@
             "Student Data-sheet, duly signed by the applicant and endorsed by the Head of the Institution where they are admitted for Degree Course.",
             "Copy of Mark list of Higher Secondary Board Examination- self attested",
             "Community Certificate for SC/ST applicants.",
-            "Certificate in proof of \u2018Place of Origin\u2019 [Applicant should be of Kerala origin]",
+            "Certificate in proof of ‘Place of Origin’ [Applicant should be of Kerala origin]",
             "Terms & Conditions, duly signed",
             "E-payment form- in prescribed format"
         ],
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the maximum grant amount and duration of scholarship?",
-                "answer": "Annual scholarship @ \u20b912,000/-, \u20b918,000/-, \u20b9 24,000/- respectively for 1st, 2nd and 3rd years at U.G. level and @ \u20b940,000/- & \u20b960,000/- respectively for 1st and 2nd years at P.G. level."
+                "answer": "Annual scholarship @ ₹12,000/-, ₹18,000/-, ₹ 24,000/- respectively for 1st, 2nd and 3rd years at U.G. level and @ ₹40,000/- & ₹60,000/- respectively for 1st and 2nd years at P.G. level."
             },
             {
                 "question": "Is this scheme only for a resident of Kerala?",
@@ -92,5 +92,6 @@
                 "url": "https://prathibha.kscste.kerala.gov.in/"
             }
         ]
-    }
+    },
+    "id": "001508"
 }

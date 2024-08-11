@@ -7,7 +7,7 @@
         "beneficiary": "Senior Citizens",
         "details": "Indira Gandhi National Vridhavastha Pension Yojana, Under the Department of Social Justice and Empowerment Government of Rajasthan, provides financial support to the citizens whose families live below the poverty line. To empower senior citizens by ensuring their financial independence and dignity in old age, thereby enabling them to lead a dignified life.",
         "benefits": [
-            "Pension amount: \u20b9 1000 /- per month."
+            "Pension amount: ₹ 1000 /- per month."
         ],
         "eligibility": [
             "The applicant should be a native of Rajasthan.",
@@ -76,5 +76,6 @@
             "Old Age",
             "Pension"
         ]
-    }
+    },
+    "id": "000839"
 }

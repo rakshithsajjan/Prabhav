@@ -7,8 +7,8 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Kotwar Cycle Evam Torch Sahayata Yojana' for unorganized worker on 10 September 2013. The main objective of the scheme to empower unorganized worker by providing financial assistance of Cycle or Torch.",
         "benefits": [
-            "Financial Assistance of \u20b9 3,000/- per person for bicycle or the rate fixed by CSIDC for bicycle which will be lower",
-            "Financial Assistance of \u20b9 750/- per person for torch"
+            "Financial Assistance of ₹ 3,000/- per person for bicycle or the rate fixed by CSIDC for bicycle which will be lower",
+            "Financial Assistance of ₹ 750/- per person for torch"
         ],
         "eligibility": [
             "Applicant must be registered as an unorganized worker in any district of the state.",
@@ -82,5 +82,6 @@
             "Financial Assistance",
             "Vehicles"
         ]
-    }
+    },
+    "id": "000988"
 }

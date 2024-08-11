@@ -8,9 +8,9 @@
         "details": "The Credit Card Scheme for Artisans & Weavers is a loan scheme by the Department of Handicraft & Handloom (Govt. of Jammu & Kashmir) under which adequate and timely assistance from the financial institutions is provided to the Artisans and Weavers to meet their credit requirements of both investment needs as well as working capital in a flexible and cost-effective manner. The scheme would be implemented both in rural and urban areas. All Artisans and Weavers who are duly registered with the Handicrafts and Handloom Department, J&K, and are involved in production and manufacturing processes (otherwise eligible for credit facilities for carrying out the proposed activities under any of the existing bank schemes) shall be eligible. The limit shall be valid for a period of five years subject to annual review by the competent authorities.",
         "benefits": [
             "No collateral security required",
-            "Maximum credit limit of \u20b92,00,000.",
+            "Maximum credit limit of ₹2,00,000.",
             "7% interest subvention over a period of 5 years.",
-            "A maximum credit limit of \u20b92,00,000 will be fixed with a loan component of \u20b91,80,000 and the beneficiary's contribution of \u20b920,000/-."
+            "A maximum credit limit of ₹2,00,000 will be fixed with a loan component of ₹1,80,000 and the beneficiary's contribution of ₹20,000/-."
         ],
         "eligibility": [
             "All Artisans and Weavers who are duly registered with the Handicrafts and Handloom Department, J&K, and are involved in production and manufacturing processes (otherwise eligible for credit facilities for carrying out the proposed activities under any of the existing bank schemes) shall be eligible.",
@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "What Is The Maximum Credit Limit That Can Be Sanctioned Under This Scheme?",
-                "answer": "The maximum credit limit to be sanctioned under the scheme would, however, be fixed at \u20b9 2,00,000."
+                "answer": "The maximum credit limit to be sanctioned under the scheme would, however, be fixed at ₹ 2,00,000."
             },
             {
                 "question": "What Would Be The Basis Of Fixing Of The Credit Limit?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How Can The Credit Limit Be Renewed?",
-                "answer": "Based on assessment of performance during inspection by field staff and operations in the account, the review exercise may be carried out annually and a decision on continuation or otherwise of the limit sanctioned, below the cap of \u20b9 1,80,000 may be taken. Need for enhancement in the limit sanctioned may also be considered as part of the review."
+                "answer": "Based on assessment of performance during inspection by field staff and operations in the account, the review exercise may be carried out annually and a decision on continuation or otherwise of the limit sanctioned, below the cap of ₹ 1,80,000 may be taken. Need for enhancement in the limit sanctioned may also be considered as part of the review."
             },
             {
                 "question": "What Would Be Fees For The Review/ Renewal Of The Limit?",
@@ -68,5 +68,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "000344"
 }

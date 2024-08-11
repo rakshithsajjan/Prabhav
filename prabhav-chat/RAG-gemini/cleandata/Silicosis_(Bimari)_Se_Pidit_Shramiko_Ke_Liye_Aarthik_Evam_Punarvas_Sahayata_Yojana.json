@@ -7,8 +7,8 @@
         "beneficiary": "Unorganized Worker",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Silicosis (Bimari) Se Pidit Shramiko Ke Liye Aarthik Evam Punarvas Sahayata Yojana' for unorganized worker on 16 April 2018. The main objective of the scheme to provide the financial assistance to the person who are suffering from Silicosis disease.",
         "benefits": [
-            "Unorganized workers with silicosis will get \u20b9 300,000.",
-            "If the worker dies, their family will get \u20b9100,000 and the rest will be paid as a fixed deposit with monthly interest."
+            "Unorganized workers with silicosis will get ₹ 300,000.",
+            "If the worker dies, their family will get ₹100,000 and the rest will be paid as a fixed deposit with monthly interest."
         ],
         "eligibility": [
             "Workers registered with the Chhattisgarh Unorganized Workers State Social Security Board.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Provide the Financial Assistance of \u20b9 3,00,000/-"
+                "answer": "Provide the Financial Assistance of ₹ 3,00,000/-"
             },
             {
                 "question": "Who can get the benefits?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "Will the benefit amount be paid in one go to the family?",
-                "answer": "If the worker dies, their family will get \u20b9100,000 and the rest will be paid as a fixed deposit with monthly interest."
+                "answer": "If the worker dies, their family will get ₹100,000 and the rest will be paid as a fixed deposit with monthly interest."
             },
             {
                 "question": "Can unregistered workers also get benefits?",
@@ -75,5 +75,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001801"
 }

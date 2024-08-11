@@ -7,14 +7,14 @@
         "beneficiary": "Poor Scheduled Caste People suffering from prolonged diseases",
         "details": "The scheme 'Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide assistance to poor patients from Scheduled Castes who are suffering from prolonged illness and unable to earn their livelihood.",
         "benefits": [
-            "Financial Assistance of \u20b9500/- per month."
+            "Financial Assistance of ₹500/- per month."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should have resided continuously in the Union Territory of Puducherry for at least five years.",
             "The applicant should be from Scheduled Caste.",
             "The applicant should be at least 18 years of age.",
-            "The annual income of the applicant should not be more than \u20b92,00,000/-."
+            "The annual income of the applicant should not be more than ₹2,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "What is the duration of financial assistance provided to eligible beneficiaries?",
-                "answer": "Eligible beneficiaries receive a monthly financial assistance of \u20b9500/- for the duration of their prolonged illness."
+                "answer": "Eligible beneficiaries receive a monthly financial assistance of ₹500/- for the duration of their prolonged illness."
             },
             {
                 "question": "Are there any specific guidelines regarding the submission of photographs for the application?",
@@ -103,5 +103,6 @@
             "Health",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000602"
 }

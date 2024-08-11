@@ -5,15 +5,15 @@
         "department": "Department of Women & Child Development",
         "type": "Allowance",
         "beneficiary": "Student",
-        "details": "Launched in 2010, the scheme \u201cEducational Allowances to the Children of Widows\u201d by the Department of Women & Child Development, Government of Pondicherry, was introduced to provide financial assistance for the education of poor widows' children up to higher secondary or equivalent. Through this scheme, an annual amount ranging from \u20b925 to \u20b9125 is given based on the student's standard.",
+        "details": "Launched in 2010, the scheme “Educational Allowances to the Children of Widows” by the Department of Women & Child Development, Government of Pondicherry, was introduced to provide financial assistance for the education of poor widows' children up to higher secondary or equivalent. Through this scheme, an annual amount ranging from ₹25 to ₹125 is given based on the student's standard.",
         "benefits": [
-            "Financial assistance ranging from \u20b925 to \u20b9125 for the purchase of textbooks, notebooks, etc."
+            "Financial assistance ranging from ₹25 to ₹125 for the purchase of textbooks, notebooks, etc."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a native of the Union Territory of Pondicherry by birth or continuous residence for not less than 3 years.",
             "The applicant should be a widow.",
-            "The annual income of the applicant should not exceed \u20b924,000.",
+            "The annual income of the applicant should not exceed ₹24,000.",
             "The child of the applicant should be a Student.",
             "The child of the applicant should have obtained not less than 50% marks in every class."
         ],
@@ -35,7 +35,7 @@
             },
             {
                 "question": "Is there any flexibility in the income criteria for applicants facing exceptional circumstances?",
-                "answer": "The annual income of \u20b924,000 is a fixed criterion, but applicants can provide a declaration or undertake special circumstances if needed."
+                "answer": "The annual income of ₹24,000 is a fixed criterion, but applicants can provide a declaration or undertake special circumstances if needed."
             },
             {
                 "question": "What types of expenses does the financial assistance cover for students under this scheme?",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How is the annual amount determined for beneficiaries under the scheme?",
-                "answer": "The annual amount, ranging from \u20b925 to \u20b9125, is based on the student's standard."
+                "answer": "The annual amount, ranging from ₹25 to ₹125, is based on the student's standard."
             },
             {
                 "question": "Is there a grievance redressal mechanism available for scheme-related issues?",
@@ -89,5 +89,6 @@
             "Education",
             "Widow"
         ]
-    }
+    },
+    "id": "000477"
 }

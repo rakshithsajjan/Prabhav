@@ -7,7 +7,7 @@
         "beneficiary": "Individuals and Organizations",
         "details": "The 'Biju Patnaik Sports Award for Best Contribution to Promotion of Sports and Games' is a category of award under the 'Biju Patnaik Sports Award' Scheme. The scheme was launched by the Sports & Youth Services Department, Government of Odisha to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The award is given to individuals who have substantially contributed in various ways such as Sports Administration and sports Support Staff (other than Coaches) and also to the organizations that have substantially contributed by recruiting sportspersons, providing financial support to sportspersons for advanced coaching & International participation, and sponsorship support for the organization of National and international sporting events.",
         "benefits": [
-            "The award shall be presented every year subject to the availability of a suitable candidate, which will carry a cash award of \u20b91,00,000/-",
+            "The award shall be presented every year subject to the availability of a suitable candidate, which will carry a cash award of ₹1,00,000/-",
             "A statue, a scroll of honour, and a blazer with a tie shall be given along with all the Cash Awards",
             "The Awardees shall be invited to receive the awards in person. They shall be given T.A. and D.A. at the rate admissible to a Grade 'A' Officer"
         ],
@@ -35,7 +35,7 @@
             },
             {
                 "question": "How often is the award presented, and what is the cash award associated with it?",
-                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of \u20b91,00,000/-."
+                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of ₹1,00,000/-."
             },
             {
                 "question": "What additional recognitions and items are provided to the awardees?",
@@ -66,5 +66,6 @@
             "Odisha",
             "Biju Patnaik"
         ]
-    }
+    },
+    "id": "000207"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Building Workers, Construction Workers, Labour",
         "details": "The scheme 'Maternity Benefit' was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, female employees who are registered beneficiaries for a period of one year shall receive financial assistance as maternity benefits during the period of maternity. Additionally, male employees who are registered beneficiaries for a period of one year, and whose wives are 19 years or older and not registered beneficiaries shall also be eligible for financial assistance as maternity benefits.",
         "benefits": [
-            "Women employees, who are registered beneficiaries for a period of one year, shall be given a sum of \u20b920,000/- as maternity benefit during the period of maternity.",
-            "Male employees, who are registered beneficiaries for a period of one year, and whose wives are 19 years or older and not registered beneficiaries, shall also receive a sum of \u20b910,000/- as maternity benefit."
+            "Women employees, who are registered beneficiaries for a period of one year, shall be given a sum of ₹20,000/- as maternity benefit during the period of maternity.",
+            "Male employees, who are registered beneficiaries for a period of one year, and whose wives are 19 years or older and not registered beneficiaries, shall also receive a sum of ₹10,000/- as maternity benefit."
         ],
         "eligibility": [
             "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What are the benefits provided under the Scheme?",
-                "answer": "Women employees receive \u20b920,000/- as maternity benefit, while eligible male employees receive \u20b910,000/-."
+                "answer": "Women employees receive ₹20,000/- as maternity benefit, while eligible male employees receive ₹10,000/-."
             },
             {
                 "question": "What are the eligibility criteria for female beneficiaries?",
@@ -93,5 +93,6 @@
             "Construction Worker",
             "Labour"
         ]
-    }
+    },
+    "id": "001104"
 }

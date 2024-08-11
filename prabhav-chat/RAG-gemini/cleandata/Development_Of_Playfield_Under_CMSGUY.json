@@ -10,7 +10,7 @@
             "Improvement of the existing playfield with earth-filling, leveling with approved soil or as per requirement.",
             "Turfing with local suitable grass.",
             "Dressing room for boys, girls, and officials with electricity and provision for adequate running water in the toilet.",
-            "Fixing of Football Goal Post of standard size (one pair) 24 feet x 8 feet made of GI Pipe of 4\u201d to 5\u201d in diameter with white paint.",
+            "Fixing of Football Goal Post of standard size (one pair) 24 feet x 8 feet made of GI Pipe of 4” to 5” in diameter with white paint.",
             "Boundary Wall."
         ],
         "eligibility": [
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What Is The Standard Size Of A Goal Post Of A Football Field?",
-                "answer": "The standard size of a goal post of a football field (one pair) is 24 feet x 8 feet made of a GI Pipe 4\u201d to 5\u201d in diameter."
+                "answer": "The standard size of a goal post of a football field (one pair) is 24 feet x 8 feet made of a GI Pipe 4” to 5” in diameter."
             },
             {
                 "question": "Will There Also Be A Dressing Room For The Officials?",
@@ -107,5 +107,6 @@
             "Infrastructure",
             "School"
         ]
-    }
+    },
+    "id": "000381"
 }

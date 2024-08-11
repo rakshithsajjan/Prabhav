@@ -7,16 +7,16 @@
         "beneficiary": "Retired journalists",
         "details": "The 'Pension Scheme for the Journalists' was launched by the Tamil Development, Religious Endowments, and Information Department, Government of Tamil Nadu. The scheme aims to give a monthly pension to retired journalists who fit with the eligibility criteria.",
         "benefits": [
-            "Pension Amount of \u20b94,000/- per month."
+            "Pension Amount of ₹4,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a retired journalist.",
             "The age of the applicant should be 58 years or above.",
             "The applicant should have worked full-time for 20 years in one of the posts of teacher, assistant teacher, reporter, photographer, proofreader, or news correspondent.",
             "10 years of journalism experience is sufficient if the applicant is terminally ill or physically disabled.",
-            "The applicant's annual family income should not exceed \u20b920,000/-.",
-            "The applicant received gratuity and pension from previous companies should not exceed \u20b930,000/-.",
-            "In any year when the applicant was employed, their income should not exceed \u20b950,000/-."
+            "The applicant's annual family income should not exceed ₹20,000/-.",
+            "The applicant received gratuity and pension from previous companies should not exceed ₹30,000/-.",
+            "In any year when the applicant was employed, their income should not exceed ₹50,000/-."
         ],
         "exclusions": [],
         "application_process": "Offline. The interested applicant can download the application form from the official website. Fill in all mandatory fields, attach copies of all mandatory documents, and submit to the Tamil Development, Religious Endowment & Information Department.",
@@ -36,7 +36,7 @@
         "faqs": [
             {
                 "question": "What is the Journalists Pension Scheme?",
-                "answer": "A pension scheme providing \u20b94000/- monthly to retired journalists in indigent circumstances."
+                "answer": "A pension scheme providing ₹4000/- monthly to retired journalists in indigent circumstances."
             },
             {
                 "question": "Which department oversees the Journalists Pension Scheme?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "What income criteria must applicants meet to be eligible for the pension?",
-                "answer": "The applicant's annual family income should not exceed \u20b920,000 at the time of application. The total amount received through gratuity and pension from previous employers should not exceed \u20b930,000, and in any year of employment, the applicant's income should not have exceeded \u20b950,000."
+                "answer": "The applicant's annual family income should not exceed ₹20,000 at the time of application. The total amount received through gratuity and pension from previous employers should not exceed ₹30,000, and in any year of employment, the applicant's income should not have exceeded ₹50,000."
             }
         ],
         "sources": [
@@ -95,5 +95,6 @@
             "Financial Assistance",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001430"
 }

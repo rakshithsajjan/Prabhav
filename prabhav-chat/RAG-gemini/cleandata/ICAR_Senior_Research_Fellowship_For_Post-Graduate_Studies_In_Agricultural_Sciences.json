@@ -7,11 +7,11 @@
         "beneficiary": "Students pursuing Ph.D. in Agricultural Sciences",
         "details": "ICAR awards a certain number of Senior Research Fellowships for Ph.D. in an Agricultural University (AU), in different disciplines of agriculture and allied sciences. This is done to encourage talented students to undertake higher agricultural education. The ICAR supports specific time-bound schemes/projects to address the emerging challenges of agricultural research and education.",
         "benefits": [
-            "Veterinary Sciences: \u20b9 12,000/- per month with a contingency grant of \u20b9 6,000/- per annum.",
-            "All disciplines other than Veterinary Sciences: \u20b9 8,640/- per month with a contingency grant of \u20b9 6,000/- per annum."
+            "Veterinary Sciences: ₹ 12,000/- per month with a contingency grant of ₹ 6,000/- per annum.",
+            "All disciplines other than Veterinary Sciences: ₹ 8,640/- per month with a contingency grant of ₹ 6,000/- per annum."
         ],
         "eligibility": [
-            "Candidates having completed their Master\u2019s degree program with a minimum of 55% marks or an OGPA of 5.5/10.00 or equivalent.",
+            "Candidates having completed their Master’s degree program with a minimum of 55% marks or an OGPA of 5.5/10.00 or equivalent.",
             "Candidates appearing in the final semester would also be eligible provided they complete their postgraduate degree by the date of examination.",
             "The upper age limit would be 30 years as of the date of the examination, with relaxations for SC/ST/PH and OBC categories."
         ],
@@ -20,8 +20,8 @@
         ],
         "application_process": "Online application process involving registration, filling details, uploading documents, and payment of application fees.",
         "documents_required": [
-            "Candidate\u2019s Photograph",
-            "Candidate\u2019s Signature",
+            "Candidate’s Photograph",
+            "Candidate’s Signature",
             "Thumb impression",
             "Govt Identity Details",
             "Three identical copies of the latest passport-size colored photographs",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "If I have made any mistake(s) while registering/applying, can I make changes later in the Application Form?",
-                "answer": "Once the \u2018Final Submit\u2019 button has been clicked, the candidate\u2019s details cannot be edited/changed. However, NTA shall open the 'Correction Window' as per the schedule."
+                "answer": "Once the ‘Final Submit’ button has been clicked, the candidate’s details cannot be edited/changed. However, NTA shall open the 'Correction Window' as per the schedule."
             }
         ],
         "sources": [
@@ -75,5 +75,6 @@
             "Fellowship",
             "Research"
         ]
-    }
+    },
+    "id": "000797"
 }

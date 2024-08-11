@@ -7,8 +7,8 @@
         "beneficiary": "Scheduled Caste",
         "details": "The scheme 'Mukhyamantri Aarthik Kalyan Yojana' was launched by the Department of Industrial Policy and Investment Promotion, Government of Madhya Pradesh on 1st August 2014. The objective of the scheme is to provide low-cost equipment and/or working capital to the Below Poverty Line (BPL) category beneficiaries of Scheduled Castes. The benefit of the scheme will be given for the establishment of new industries/businesses etc.",
         "benefits": [
-            "The maximum cost of the project under this scheme will be \u20b950000/-",
-            "Under this scheme, the margin money assistance at 50% of the project cost (maximum \u20b915,000/-) will be payable by the government to the beneficiary",
+            "The maximum cost of the project under this scheme will be ₹50000/-",
+            "Under this scheme, the margin money assistance at 50% of the project cost (maximum ₹15,000/-) will be payable by the government to the beneficiary",
             "The minimum period of the initial moratorium will be 6 months and after the initial moratorium, the loan repayment will be in 5 years"
         ],
         "eligibility": [
@@ -22,7 +22,7 @@
         "exclusions": [
             "If a person is receiving assistance under any government entrepreneur/self-employment scheme, he will not be eligible under this scheme"
         ],
-        "application_process": "To apply under the Scheme, the applicant should visit the Official Website. On the home page, the applicant will have the option to Apply for the Mukhyamantri Aarthik Kalyan Yojana, click on it. After clicking on apply, a list of departments related to the scheme appears. Select the concerned department\u2019s scheme and click on it. A new page will open and click on the 'sign up' option. Further, fill in all the mandatory details and click on the option of 'Sign up now'.",
+        "application_process": "To apply under the Scheme, the applicant should visit the Official Website. On the home page, the applicant will have the option to Apply for the Mukhyamantri Aarthik Kalyan Yojana, click on it. After clicking on apply, a list of departments related to the scheme appears. Select the concerned department’s scheme and click on it. A new page will open and click on the 'sign up' option. Further, fill in all the mandatory details and click on the option of 'Sign up now'.",
         "documents_required": [
             "Voter ID / Driving License / Aadhaar Certificate (anyone)",
             "Ration Card",
@@ -55,11 +55,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, the margin money assistance at 50% of the project cost (maximum \u20b915,000/-) will be payable by the government to the beneficiary."
+                "answer": "Under this scheme, the margin money assistance at 50% of the project cost (maximum ₹15,000/-) will be payable by the government to the beneficiary."
             },
             {
                 "question": "What is the maximum cost of the project under this scheme?",
-                "answer": "The maximum cost of the project under this scheme will be \u20b950000/-."
+                "answer": "The maximum cost of the project under this scheme will be ₹50000/-."
             },
             {
                 "question": "What should be the minimum period of the initial moratorium?",
@@ -103,5 +103,6 @@
             "Loan",
             "Scheduled Caste"
         ]
-    }
+    },
+    "id": "001188"
 }

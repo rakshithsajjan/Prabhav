@@ -5,9 +5,9 @@
         "department": "Department of Education",
         "type": "Scholarship",
         "beneficiary": "Students belonging to the Tribal Community",
-        "details": "The scheme 'Thakur Sen Negi Utkrisht Chatravriti Yojana' is a Scholarship Scheme by the Department of Education, Government of Himachal Pradesh. In this scheme, a scholarship of \u20b911,000/- per annum is awarded to the top 100 Girls and top 100 Boys students belonging to the Tribal Community of Himachal Pradesh, declared as such in the result of the Matric Examination conducted by the Himachal Pradesh Board of School Education, Dharamshala. The renewal in the 12th Class/2nd Year of the course will be subject to satisfactory performance in internal examinations of the 11th Class/1st Year Course.",
+        "details": "The scheme 'Thakur Sen Negi Utkrisht Chatravriti Yojana' is a Scholarship Scheme by the Department of Education, Government of Himachal Pradesh. In this scheme, a scholarship of ₹11,000/- per annum is awarded to the top 100 Girls and top 100 Boys students belonging to the Tribal Community of Himachal Pradesh, declared as such in the result of the Matric Examination conducted by the Himachal Pradesh Board of School Education, Dharamshala. The renewal in the 12th Class/2nd Year of the course will be subject to satisfactory performance in internal examinations of the 11th Class/1st Year Course.",
         "benefits": [
-            "A total of 100 girls and 100 boys will receive \u20b911,000 per annum for two years."
+            "A total of 100 girls and 100 boys will receive ₹11,000 per annum for two years."
         ],
         "eligibility": [
             "The applicant should be a bona fide of Himachal Pradesh.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What are the rates of scholarship under this scheme?",
-                "answer": "The scholarship is given \u20b911,000/- p.a."
+                "answer": "The scholarship is given ₹11,000/- p.a."
             },
             {
                 "question": "What documents do I need to submit with my application?",
@@ -91,5 +91,6 @@
             "Skill Development",
             "Student"
         ]
-    }
+    },
+    "id": "001941"
 }

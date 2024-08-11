@@ -7,8 +7,8 @@
         "beneficiary": "Students pursuing higher education",
         "details": "This scheme is designed to support the students to pursue secondary, higher secondary, madrasah, undergraduate and post graduate studies including professional degree and other equivalent courses in any School, Madrasah, College, University and other affiliated institutes within and outside India. Students studying in various coaching institutions for appearing in different competitive examinations like Engineering, Medical, Law, IAS, IPS, WBCS etc, can also avail the loan under this scheme.",
         "benefits": [
-            "The Scheme provides a maximum loan of \u20b910,00,000/- at a 4% simple annual interest rate after interest subvention.",
-            "The interest rate for loans up to \u20b910,00,000/- is set at the prevailing 3-year MCLR of State Bank of India plus 1%, fixed at the time of sanction.",
+            "The Scheme provides a maximum loan of ₹10,00,000/- at a 4% simple annual interest rate after interest subvention.",
+            "The interest rate for loans up to ₹10,00,000/- is set at the prevailing 3-year MCLR of State Bank of India plus 1%, fixed at the time of sanction.",
             "Students can access the loan at any point during their course of study.",
             "Both the student and the parent/legal guardian must co-submit the loan application.",
             "An agreement between the student, parents/legal guardians, and the bank will formalize the loan terms.",
@@ -26,23 +26,23 @@
             "Colored Photograph of the applicant.",
             "Colored Photograph of the co-applicant/coborrower.",
             "Signature of the student.",
-            "Co-borrower/Guardian\u2019s signature.",
-            "Student\u2019s AADHAR Card.",
+            "Co-borrower/Guardian’s signature.",
+            "Student’s AADHAR Card.",
             "Age Proof of the Applicant.",
             "Address Proof of Co-applicant/Co-borrower.",
             "Admission Receipt.",
-            "Student\u2019s PAN Card/undertaking if there is no PAN Card.",
-            "Guardian\u2019s PAN Card/undertaking if there is no PAN Card.",
+            "Student’s PAN Card/undertaking if there is no PAN Card.",
+            "Guardian’s PAN Card/undertaking if there is no PAN Card.",
             "Prospectus/Certificate from the competent authority of the institution.",
             "Marksheet/Certificate of Last Qualifying Exam of applicant."
         ],
         "faqs": [
             {
                 "question": "What is the key benefit of this scheme?",
-                "answer": "A maximum amount of \u20b910,000,00/- loan can be availed at 4% simple rate of interest per annum, after interest subvention."
+                "answer": "A maximum amount of ₹10,000,00/- loan can be availed at 4% simple rate of interest per annum, after interest subvention."
             },
             {
-                "question": "Is there any age limit to apply for Student\u2019s Credit Card Scheme?",
+                "question": "Is there any age limit to apply for Student’s Credit Card Scheme?",
                 "answer": "Yes, the applying student should not be aged more than 40 (forty) years at the time of applying for loan."
             },
             {
@@ -70,5 +70,6 @@
             "Financial Assistance",
             "Higher Study"
         ]
-    }
+    },
+    "id": "002043"
 }

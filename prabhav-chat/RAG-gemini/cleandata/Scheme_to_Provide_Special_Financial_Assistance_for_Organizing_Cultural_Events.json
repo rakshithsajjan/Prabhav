@@ -7,8 +7,8 @@
         "beneficiary": "NGOs, cultural groups, and individuals",
         "details": "'Scheme to Provide Special Financial Assistance for Organizing Cultural Events' is a Grant-In-Aid to the NGOs designed to provide financial support to institutions, cultural groups and individuals to organize/conduct various types of Cultural Events/Programmes/ Exhibitions/Festivals/Workshops. This scheme intends to give opportunity to young Goan artists to develop their talents, so also to give opportunity to the artists as well as the general public to witness various standard cultural performances/Events/Exhibitions/Festivals/ Workshops.",
         "benefits": [
-            "Financial grant maximum upto \u20b9 5,00,000 or 80% of the expenditure incurred for organizing the cultural events, whichever is less, based on the nature of the cultural events.",
-            "In cases where the Directorate of Art & Culture identifies any institution or group or individual to organize any Cultural Event/Programme/Exhibition/Festival/Camp & Workshop, the grant can be a maximum upto \u20b9 5,00,000 or 100% of the expenditure incurred for organizing the event, whichever is less."
+            "Financial grant maximum upto ₹ 5,00,000 or 80% of the expenditure incurred for organizing the cultural events, whichever is less, based on the nature of the cultural events.",
+            "In cases where the Directorate of Art & Culture identifies any institution or group or individual to organize any Cultural Event/Programme/Exhibition/Festival/Camp & Workshop, the grant can be a maximum upto ₹ 5,00,000 or 100% of the expenditure incurred for organizing the event, whichever is less."
         ],
         "eligibility": [
             "The applicant should be an individual or a cultural group/organization/institution, registered or unregistered.",
@@ -61,7 +61,7 @@
             },
             {
                 "question": "How does the Directorate of Art & Culture decide the amount of financial grant an applicant can receive for organizing a cultural event?",
-                "answer": "The financial grant can be a maximum of \u20b95,00,000 or 80% of the expenditure incurred for organizing the cultural event, whichever is less. However, if the Directorate of Art & Culture identifies an institution or individual to organize an event, the grant can be a maximum of \u20b95,00,000 or 100% of the expenditure, whichever is less."
+                "answer": "The financial grant can be a maximum of ₹5,00,000 or 80% of the expenditure incurred for organizing the cultural event, whichever is less. However, if the Directorate of Art & Culture identifies an institution or individual to organize an event, the grant can be a maximum of ₹5,00,000 or 100% of the expenditure, whichever is less."
             },
             {
                 "question": "Are there any conditions that may disqualify an applicant from receiving financial assistance for cultural events?",
@@ -85,5 +85,6 @@
             "NGO",
             "Grant"
         ]
-    }
+    },
+    "id": "001742"
 }

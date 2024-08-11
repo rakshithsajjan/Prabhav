@@ -5,11 +5,11 @@
         "department": "Ministry of Electronics and Information Technology",
         "type": "Incentive Program",
         "beneficiary": "Indian citizens",
-        "details": "The scheme 'FutureSkills Prime Incentive Program' is being administered by the MeitY (Ministry of Electronics and Information Technology) to promote a novel skilling ecosystem in the country. The program incentivizes the cost of eligible courses, providing authentic and accredited certifications that are acceptable in the industry. FutureSkills Prime has introduced a first-of-its-kind incentive program for digital upskilling, allowing learners to upskill in 10 of the most in-demand technologies and earn incentives up to \u20b9 14,500. The program covers Foundation, Bridge, and Deep Skilling courses across technologies, including AI, IoT, Big Data Analytics, Cloud Computing, Cybersecurity, etc.",
+        "details": "The scheme 'FutureSkills Prime Incentive Program' is being administered by the MeitY (Ministry of Electronics and Information Technology) to promote a novel skilling ecosystem in the country. The program incentivizes the cost of eligible courses, providing authentic and accredited certifications that are acceptable in the industry. FutureSkills Prime has introduced a first-of-its-kind incentive program for digital upskilling, allowing learners to upskill in 10 of the most in-demand technologies and earn incentives up to ₹ 14,500. The program covers Foundation, Bridge, and Deep Skilling courses across technologies, including AI, IoT, Big Data Analytics, Cloud Computing, Cybersecurity, etc.",
         "benefits": [
-            "Incentives up to \u20b914,500 for eligible courses",
+            "Incentives up to ₹14,500 for eligible courses",
             "50% reimbursement of course fees for Deep Skilling courses",
-            "Assessment reimbursement of \u20b9600 for successful certifications",
+            "Assessment reimbursement of ₹600 for successful certifications",
             "Multiple course enrollment options"
         ],
         "eligibility": [
@@ -64,5 +64,6 @@
             "FutureSkills Prime",
             "Skill Development"
         ]
-    }
+    },
+    "id": "000662"
 }

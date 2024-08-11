@@ -11,7 +11,7 @@
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The applicant should have an annual income not exceeding \u20b975,000/- per annum.",
+            "The applicant should have an annual income not exceeding ₹75,000/- per annum.",
             "The disability of the applicant should be 40% and above.",
             "The applicant should be a beneficiary under the 'Grant of Financial Assistance to Differently Abled Person' scheme."
         ],
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What is the income criterion for eligibility under this scheme?",
-                "answer": "To qualify, the applicant's annual income should not exceed \u20b975,000."
+                "answer": "To qualify, the applicant's annual income should not exceed ₹75,000."
             },
             {
                 "question": "How is the selection of beneficiaries conducted for this scheme?",
@@ -111,5 +111,6 @@
             "PwD",
             "Rice"
         ]
-    }
+    },
+    "id": "000635"
 }

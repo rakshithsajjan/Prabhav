@@ -8,8 +8,8 @@
         "details": "The 'Award of Puducherry State Post-Matric Scholarship Scheme' initiated by the Directorate of School Education, Union Territory of Puducherry, is designed to make sure that no brilliant student is prevented on the grounds of poverty alone from pursuing an academic career. Through this scheme, scholarship is awarded to students studying in 11th and 12th standards and have secured promotion to the next higher class with 60% & 50% of marks in 10th and 11th standards respectively.",
         "benefits": [
             "90 scholarships for 11th Standard and 90 scholarships for 12th Standard are awarded every year.",
-            "Day Scholar: \u20b960/month per student (\u20b9600/year/student).",
-            "Hosteller: \u20b9100/month per student (\u20b91,000/year/student).",
+            "Day Scholar: ₹60/month per student (₹600/year/student).",
+            "Hosteller: ₹100/month per student (₹1,000/year/student).",
             "The amount is disbursed directly into Aadhaar-seeded bank account of the applicant through Direct Benefit Transfer (DBT) and Public Financial Management System (PFMS)."
         ],
         "eligibility": [
@@ -17,7 +17,7 @@
             "The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years.",
             "The applicant should be studying in 11th or 12th standard.",
             "The applicant should have secured promotion to the next higher class.",
-            "The family income of the applicant should not exceed \u20b975,000 per annum.",
+            "The family income of the applicant should not exceed ₹75,000 per annum.",
             "If the applicant is studying in 11th standard, she/he should have secured 60% marks in 10th standard.",
             "If the applicant is studying in 12th standard, she/he should have secured 50% marks in 11th standard."
         ],
@@ -35,7 +35,7 @@
         "faqs": [
             {
                 "question": "Is there any specific duration for the scholarship disbursement, and how many months does it cover?",
-                "answer": "Scholarships are disbursed for ten months in an academic year. Day scholars receive \u20b960/month (\u20b9600/year/student), and hostellers receive \u20b9100/month (\u20b91,000/year/student)."
+                "answer": "Scholarships are disbursed for ten months in an academic year. Day scholars receive ₹60/month (₹600/year/student), and hostellers receive ₹100/month (₹1,000/year/student)."
             },
             {
                 "question": "Can applicants from outside the Union Territory of Puducherry apply for the scholarship?",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How are the scholarships disbursed, and what is the mode of payment?",
-                "answer": "Scholarships are disbursed directly into Aadhaar-seeded bank accounts through Direct Benefit Transfer (DBT) and Public Financial Management System (PFMS). Day scholars receive \u20b960/month (\u20b9600/year/student), and hostellers receive \u20b9100/month (\u20b91,000/year/student) for ten months in an academic year."
+                "answer": "Scholarships are disbursed directly into Aadhaar-seeded bank accounts through Direct Benefit Transfer (DBT) and Public Financial Management System (PFMS). Day scholars receive ₹60/month (₹600/year/student), and hostellers receive ₹100/month (₹1,000/year/student) for ten months in an academic year."
             },
             {
                 "question": "Can students from private schools apply for the Puducherry State Post-Matric Scholarship?",
@@ -79,7 +79,7 @@
             },
             {
                 "question": "How is the scholarship amount determined for day scholars and hostellers in the Puducherry State Post-Matric Scholarship Scheme?",
-                "answer": "The scholarship amount is \u20b960 per month for day scholars (\u20b9600 per year per student) and \u20b9100 per month for hostellers (\u20b91,000 per year per student)."
+                "answer": "The scholarship amount is ₹60 per month for day scholars (₹600 per year per student) and ₹100 per month for hostellers (₹1,000 per year per student)."
             }
         ],
         "sources": [
@@ -103,5 +103,6 @@
             "School",
             "Student"
         ]
-    }
+    },
+    "id": "000152"
 }

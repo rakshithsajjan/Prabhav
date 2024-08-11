@@ -7,9 +7,9 @@
         "beneficiary": "Youth in distress",
         "details": "The scheme 'Sympathetic Assistance And Handholding For Youth Transformation And Amelioration' is a Jammu and Kashmir initiative with the aim to provide financial assistance to youth in distress for setting up gainful self-employment ventures.",
         "benefits": [
-            "The total amount of self employment assistance provided shall be \u20b92,00,000/- or the actual cost of self employment unit, which is lower.",
-            "The amount of \u20b92,00,000/- has to be compulsorily utilized for self employment generation.",
-            "If the total project cost exceeds \u20b92,00,000/-, the excess amount shall be self financed by the applicant."
+            "The total amount of self employment assistance provided shall be ₹2,00,000/- or the actual cost of self employment unit, which is lower.",
+            "The amount of ₹2,00,000/- has to be compulsorily utilized for self employment generation.",
+            "If the total project cost exceeds ₹2,00,000/-, the excess amount shall be self financed by the applicant."
         ],
         "eligibility": [
             "Applicant must be between 18 to 40 age group.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "How much financial benefits are provided?",
-                "answer": "The total amount of self employment assistance provided shall be \u20b92,00,000/- or the actual cost of self employment unit, which is lower."
+                "answer": "The total amount of self employment assistance provided shall be ₹2,00,000/- or the actual cost of self employment unit, which is lower."
             },
             {
                 "question": "Can a beneficiary get the scheme benefits multiple times?",
@@ -83,5 +83,6 @@
             "Self Employment",
             "Jammu and Kashmir"
         ]
-    }
+    },
+    "id": "001914"
 }

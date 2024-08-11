@@ -7,14 +7,14 @@
         "beneficiary": "Daughters of Widows/Destitute Women belonging to the Scheduled Caste",
         "details": "This program aims to uplift widows belonging to the Scheduled Caste community. Widows, particularly from marginalized groups, often face financial struggles and social isolation. By providing financial aid for their daughters' weddings, the program helps alleviate these burdens and promotes their overall well-being. The initiative empowers these widows by supporting their daughters' marriages. Marriage expenses can be substantial, and this assistance enables them to fulfill their parental duties and ensure a respectable marriage for their daughters.",
         "benefits": [
-            "Financial grant: \u20b920,000/- for the marriage of daughters."
+            "Financial grant: ₹20,000/- for the marriage of daughters."
         ],
         "eligibility": [
             "The bride's mother must belong to a Scheduled Caste community.",
             "Financial help is available for the marriage of up to two daughters in a family.",
             "The bride must be at least 18 years old on the date of marriage.",
             "This assistance is only for the first marriage of each daughter.",
-            "Your family's monthly income cannot be more than \u20b92,000/-. (Verified by the Tehsildar).",
+            "Your family's monthly income cannot be more than ₹2,000/-. (Verified by the Tehsildar).",
             "Applicant must have lived in Chandigarh for at least 3 years.",
             "If both the bride's parents are deceased, her legal guardian can apply for this help."
         ],
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What is the financial benefit amount?",
-                "answer": "Financial benefit of \u20b9 20,000/- will be provided."
+                "answer": "Financial benefit of ₹ 20,000/- will be provided."
             },
             {
                 "question": "Is there any age criteria?",
@@ -90,5 +90,6 @@
             "Scheduled Caste",
             "Widow Women"
         ]
-    }
+    },
+    "id": "000582"
 }

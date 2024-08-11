@@ -5,7 +5,7 @@
         "department": "Social Welfare",
         "type": "Clothes",
         "beneficiary": "Senior Citizen",
-        "details": "The scheme \u201cFree Distribution of Blankets and Chappals to Senior Citizen\" was launched by the Department of Social Welfare, Government of Puducherry. The objective of this scheme is to enable the poor senior citizens, aged 60 years and above and residing in Puducherry, to receive blankets and chappals. The applicant should be a recipient of Old Age Pension.",
+        "details": "The scheme “Free Distribution of Blankets and Chappals to Senior Citizen\" was launched by the Department of Social Welfare, Government of Puducherry. The objective of this scheme is to enable the poor senior citizens, aged 60 years and above and residing in Puducherry, to receive blankets and chappals. The applicant should be a recipient of Old Age Pension.",
         "benefits": [
             "One Blanket and One Pair of Chappals Every Year."
         ],
@@ -106,5 +106,6 @@
             "Social Welfare",
             "Clothes"
         ]
-    }
+    },
+    "id": "000634"
 }

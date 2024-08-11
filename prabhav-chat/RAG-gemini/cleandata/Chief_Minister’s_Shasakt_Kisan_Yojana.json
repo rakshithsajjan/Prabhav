@@ -1,18 +1,18 @@
 {
     "content": {
-        "title": "Chief Minister\u2019s Shasakt Kisan Yojana",
+        "title": "Chief Minister’s Shasakt Kisan Yojana",
         "state": "Arunachal Pradesh",
         "department": "Department of Agriculture",
         "type": "Financial Assistance",
         "beneficiary": "Farmer",
-        "details": "To increase production and productivity and also to maintain a marketable surplus of major fruit crops in the State as well as to double farmer\u2019s income, the government has adopted region-wise feasible and need-based Horticulture activities in the various districts of Arunachal Pradesh under budget announcement during the financial year 2019-20, targeted up to 2021-22. The main aim of the government scheme is to uplift the status of women, marginal and small farmers of the state for self-employment generation & commercialization of horticulture activities to double their income as per immediate felt needs of the farmers, according to thrust areas enumerated district-wise on suitable crops grown in the specific areas.",
+        "details": "To increase production and productivity and also to maintain a marketable surplus of major fruit crops in the State as well as to double farmer’s income, the government has adopted region-wise feasible and need-based Horticulture activities in the various districts of Arunachal Pradesh under budget announcement during the financial year 2019-20, targeted up to 2021-22. The main aim of the government scheme is to uplift the status of women, marginal and small farmers of the state for self-employment generation & commercialization of horticulture activities to double their income as per immediate felt needs of the farmers, according to thrust areas enumerated district-wise on suitable crops grown in the specific areas.",
         "benefits": [
-            "Cash assistance of \u20b91.00 lakh per hectare for tea plantation",
-            "Cash assistance of \u20b980,000 per hectare for rubber plantation",
+            "Cash assistance of ₹1.00 lakh per hectare for tea plantation",
+            "Cash assistance of ₹80,000 per hectare for rubber plantation",
             "Provision of seedlings and planting material",
-            "Provision of Fencing Material \u2013 Barbed wire, nails, GI angle post, etc.",
+            "Provision of Fencing Material – Barbed wire, nails, GI angle post, etc.",
             "Tools and implement for tea, rubber, and double cropping farming like Khurpi, spade, dao, and sprayer machine.",
-            "Cultivation assistance for land development \u2013 manure and fertilizer, plant protection chemicals."
+            "Cultivation assistance for land development – manure and fertilizer, plant protection chemicals."
         ],
         "eligibility": [
             "The applicant/farmer should be a permanent resident of Arunachal Pradesh.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "How much cash/financial assistance is to be provided to the farmers?",
-                "answer": "The cash assistance for tea and rubber plantation of \u20b91.00 lakh per hectare and \u20b980,000 per hectare respectively are to be provided to the farmers."
+                "answer": "The cash assistance for tea and rubber plantation of ₹1.00 lakh per hectare and ₹80,000 per hectare respectively are to be provided to the farmers."
             },
             {
                 "question": "Is there any provision for seedlings and planting material?",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "Is this scheme providing any cultivation assistance for land development?",
-                "answer": "Yes, this scheme provides cultivation assistance for land development \u2013 manure, fertilizer, and plant protection chemicals."
+                "answer": "Yes, this scheme provides cultivation assistance for land development – manure, fertilizer, and plant protection chemicals."
             },
             {
                 "question": "How are the crops selected for double cropping?",
@@ -95,5 +95,6 @@
             "Tea",
             "Rubber"
         ]
-    }
+    },
+    "id": "000302"
 }

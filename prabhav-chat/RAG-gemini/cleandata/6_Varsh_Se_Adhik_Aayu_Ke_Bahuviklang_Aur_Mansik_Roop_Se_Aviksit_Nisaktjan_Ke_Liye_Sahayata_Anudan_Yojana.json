@@ -5,9 +5,9 @@
         "department": "Department of Social Justice and Empowerment of Persons with Disabilities",
         "type": "Grant",
         "beneficiary": "Disabled individuals above the age of six years",
-        "details": "Chhe Varsh Se Adhik Aayu Ke Bahuviklang Aur Mansik Roop Se Aviksit Nisaktjan Ke Liye Sahayata Anudan Yojana aims to assist multiple handicapped and mentally underdeveloped persons above the age of six years who are unable to earn a living. The scheme provides \u20b9600/- per month as a grant-in-aid to help meet their special needs and provide financial support.",
+        "details": "Chhe Varsh Se Adhik Aayu Ke Bahuviklang Aur Mansik Roop Se Aviksit Nisaktjan Ke Liye Sahayata Anudan Yojana aims to assist multiple handicapped and mentally underdeveloped persons above the age of six years who are unable to earn a living. The scheme provides ₹600/- per month as a grant-in-aid to help meet their special needs and provide financial support.",
         "benefits": [
-            "Cash Benefits- \u20b9 600/- per month"
+            "Cash Benefits- ₹ 600/- per month"
         ],
         "eligibility": [
             "The applicant should be a native of Madhya Pradesh.",
@@ -29,7 +29,7 @@
             },
             {
                 "question": "What are the benefits of this scheme?",
-                "answer": "The government gives \u20b9600/- per month to handicapped and mentally underdeveloped persons."
+                "answer": "The government gives ₹600/- per month to handicapped and mentally underdeveloped persons."
             },
             {
                 "question": "Is this Scheme for all Indian citizens?",
@@ -85,5 +85,6 @@
             "Mentally Underdeveloped",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000004"
 }

@@ -5,9 +5,9 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Pension",
         "beneficiary": "Widows of registered construction workers",
-        "details": "The scheme 'Widow Pension' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a monthly pension of \u20b93,000/- is given to the widow of a registered construction worker who is not receiving a similar benefit from any other Government/ Department/ Board/Corporation/PSU.",
+        "details": "The scheme 'Widow Pension' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a monthly pension of ₹3,000/- is given to the widow of a registered construction worker who is not receiving a similar benefit from any other Government/ Department/ Board/Corporation/PSU.",
         "benefits": [
-            "\u20b93,000/- per month as a widow pension"
+            "₹3,000/- per month as a widow pension"
         ],
         "eligibility": [
             "The applicant should be the widow of a deceased construction worker.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "How much pension is provided under this scheme?",
-                "answer": "A monthly pension of \u20b93,000/- is provided."
+                "answer": "A monthly pension of ₹3,000/- is provided."
             },
             {
                 "question": "Can the widow receive this pension if she remarries?",
@@ -89,5 +89,6 @@
             "Pension",
             "Widow"
         ]
-    }
+    },
+    "id": "002056"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Education",
         "type": "Educational Loan",
         "beneficiary": "Students of Bihar",
-        "details": "The Department of Education introduced a scheme named 'Bihar Student Credit Card Scheme'. Its aim is to provide financial aid to students to complete their higher education. In this scheme, the students can avail loans of up to \u20b94 lakhs at minimal interest rates. They can utilize these funds for financing courses like B.Sc, B.A, B.Tech, or MBBS. This scheme is specifically for all those students who are interested in pursuing higher education but due to lack of financial resources, they are not able to pursue the same.",
+        "details": "The Department of Education introduced a scheme named 'Bihar Student Credit Card Scheme'. Its aim is to provide financial aid to students to complete their higher education. In this scheme, the students can avail loans of up to ₹4 lakhs at minimal interest rates. They can utilize these funds for financing courses like B.Sc, B.A, B.Tech, or MBBS. This scheme is specifically for all those students who are interested in pursuing higher education but due to lack of financial resources, they are not able to pursue the same.",
         "benefits": [
-            "A maximum loan amount of \u20b94 lakh.",
+            "A maximum loan amount of ₹4 lakh.",
             "Loan can be availed for polytechnic, technical and general courses.",
             "This assistance may be utilized for purchasing of books and laptops or pay any kind of fees.",
             "Repayment of the loan starts once the course has been completed and student have secured a job.",
@@ -32,9 +32,9 @@
             "Proof of admission",
             "Fee schedule",
             "Photographs",
-            "Previous year\u2019s income certificate",
-            "Previous two year\u2019s income tax return",
-            "Previous six months\u2019 bank statement",
+            "Previous year’s income certificate",
+            "Previous two year’s income tax return",
+            "Previous six months’ bank statement",
             "Proof of residence (Passport, ID, driving license, Voter ID)",
             "Tax receipt"
         ],
@@ -99,5 +99,6 @@
             "Higher Education",
             "Student Empowerment"
         ]
-    }
+    },
+    "id": "000205"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Registered construction workers",
         "details": "The NIRMAN SHRAMIK AUZAAR TOOLKIT SAHAYATA YOJANA is a social welfare scheme launched by the Government of Jharkhand to provide financial assistance to registered construction workers in the state for the purchase of essential tools and equipment required for their work.",
         "benefits": [
-            "Actual cost of purchasing tools/toolkit or \u20b9 2,000/-, whichever is less"
+            "Actual cost of purchasing tools/toolkit or ₹ 2,000/-, whichever is less"
         ],
         "eligibility": [
             "The applicant must be a native of the Rajasthan state.",
@@ -85,5 +85,6 @@
             "Labor",
             "Tools"
         ]
-    }
+    },
+    "id": "001359"
 }

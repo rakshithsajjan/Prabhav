@@ -5,11 +5,11 @@
         "department": "Director of Insurance, Gandhinagar",
         "type": "Insurance",
         "beneficiary": "Farmers, their children, and spouses aged 5 to 70 years",
-        "details": "'Janta Juth' is a Farmer's Accidental Insurance Scheme launched by the Govt. of Gujarat on 26th January 1996 to provide economic assistance of upto \u20b9 2,00,000 to Farmers in case of Death or Disability. It is a 100% state-sponsored scheme. The main objective is to assist the successor of the farmer in case of death or disability due to an accident. In this scheme, insurance premium is paid by the State Government for all farmers. This scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar.",
+        "details": "'Janta Juth' is a Farmer's Accidental Insurance Scheme launched by the Govt. of Gujarat on 26th January 1996 to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. It is a 100% state-sponsored scheme. The main objective is to assist the successor of the farmer in case of death or disability due to an accident. In this scheme, insurance premium is paid by the State Government for all farmers. This scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar.",
         "benefits": [
-            "In case of accidental death or permanent disability 100% assistance of \u20b9 2,00,000.",
-            "In case of accidental loss of two eyes / two limbs / hand and leg / one eye and one hand or leg 100% assistance of \u20b9 2,00,000.",
-            "In case of accidental loss of one eye or one limb 50% assistance of \u20b9 1,00,000."
+            "In case of accidental death or permanent disability 100% assistance of ₹ 2,00,000.",
+            "In case of accidental loss of two eyes / two limbs / hand and leg / one eye and one hand or leg 100% assistance of ₹ 2,00,000.",
+            "In case of accidental loss of one eye or one limb 50% assistance of ₹ 1,00,000."
         ],
         "eligibility": [
             "The Deceased or the Person with Permanent Disability Should Be a Registered Farmer (Have Individual or Joint Name Land) or Child of a Registered Farmer (Son or Daughter) or the Husband/ Wife.",
@@ -46,15 +46,15 @@
             },
             {
                 "question": "What Shall Be The Amount Of Financial Assistance In Case Of Accidental Death Or Permanent Disability?",
-                "answer": "In case of accidental death or permanent disability, there shall be 100% assistance of \u20b9 2,00,000."
+                "answer": "In case of accidental death or permanent disability, there shall be 100% assistance of ₹ 2,00,000."
             },
             {
                 "question": "What Shall Be The Amount Of Financial Assistance In Case Of Loss Of Both Eyes?",
-                "answer": "In case of loss of both eyes, a 100% financial assistance of \u20b9 2,00,000 is provided."
+                "answer": "In case of loss of both eyes, a 100% financial assistance of ₹ 2,00,000 is provided."
             },
             {
                 "question": "What Shall Be The Amount Of Financial Assistance In Case Of Loss Of One Eye Or One Limb?",
-                "answer": "In case of accidental loss of one eye or one limb, 50% financial assistance of \u20b9 1,00,000 is provided."
+                "answer": "In case of accidental loss of one eye or one limb, 50% financial assistance of ₹ 1,00,000 is provided."
             },
             {
                 "question": "Who Is The Implementing Agency Under 'Janta Juth' Scheme?",
@@ -102,5 +102,6 @@
             "Insurance",
             "Person With Disability"
         ]
-    }
+    },
+    "id": "000934"
 }

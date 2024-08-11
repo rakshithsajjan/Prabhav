@@ -7,8 +7,8 @@
         "beneficiary": "Fishermen",
         "details": "Financial Assistance to Purchase/Construct New Fishing Craft less than 26 feet for Fishing in Inland Waters of Goa is a scheme by the Department of Fisheries, Government of Goa. The scheme has been introduced to uplift the sizeable community of traditional Fishermen, by providing them financial help in the form of a subsidy on the construction/ purchase of Fishing Craft less than 26 feet for fishing in inland waters of Goa. The applications are accepted only in offline mode.",
         "benefits": [
-            "50% subsidy, limited to \u20b930,000, on a unit cost of \u20b960,000 (excluding GST) for General Category",
-            "60% subsidy, limited to \u20b936,000, on a unit cost of \u20b960,000 (excluding GST) for SC/ST/Woman Category",
+            "50% subsidy, limited to ₹30,000, on a unit cost of ₹60,000 (excluding GST) for General Category",
+            "60% subsidy, limited to ₹36,000, on a unit cost of ₹60,000 (excluding GST) for SC/ST/Woman Category",
             "Benefits can be availed after every 7 years against the replacement of the existing Canoe"
         ],
         "eligibility": [
@@ -17,7 +17,7 @@
             "The Fishing Canoe should be registered with the Department of Captain of Ports, Government of Goa."
         ],
         "exclusions": [],
-        "application_process": "The interested applicant should request the prescribed format of the application form from the department by paying \u20b950/-. In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
+        "application_process": "The interested applicant should request the prescribed format of the application form from the department by paying ₹50/-. In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
         "documents_required": [
             "Original Invoice towards Purchase/Construction of New Fibre Reinforced Plastic (FRP)",
             "Vessel Registration Certificate issued by Captain of Ports",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "Can applicants from SC/ST/Woman categories avail a higher subsidy, and what is the limit?",
-                "answer": "Yes, they can avail a 60% subsidy, limited to \u20b936,000, on a unit cost of \u20b960,000 (excluding GST)."
+                "answer": "Yes, they can avail a 60% subsidy, limited to ₹36,000, on a unit cost of ₹60,000 (excluding GST)."
             },
             {
                 "question": "What is the role of the Department of Captain of Ports in the eligibility process?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "What are the specific benefits provided for the General Category under the scheme, and is there a subsidy limit?",
-                "answer": "General Category applicants receive a 50% subsidy, limited to \u20b930,000, on a unit cost of \u20b960,000 (excluding GST)."
+                "answer": "General Category applicants receive a 50% subsidy, limited to ₹30,000, on a unit cost of ₹60,000 (excluding GST)."
             }
         ],
         "sources": [
@@ -88,5 +88,6 @@
             "Fishermen",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000603"
 }

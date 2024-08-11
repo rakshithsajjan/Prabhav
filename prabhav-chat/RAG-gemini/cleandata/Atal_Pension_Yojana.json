@@ -8,7 +8,7 @@
         "details": "Atal Pension Yojana (APY) is an old age income security scheme for a savings account holder in the age group of 18-40 years who is not an income tax-payee. The scheme helps in addressing the longevity risks among the workers in the unorganized sector and encourages the workers to voluntarily save for their retirement.",
         "benefits": [
             "Guaranteed minimum pension amount of Rs. 1000/- to Rs. 5000/- per month after the age of 60 years until death.",
-            "Guaranteed minimum pension amount to the spouse after the subscriber\u2019s demise.",
+            "Guaranteed minimum pension amount to the spouse after the subscriber’s demise.",
             "Return of the pension wealth to the nominee after the demise of both the subscriber and the spouse.",
             "Tax benefits under section 80CCD(1)."
         ],
@@ -62,5 +62,6 @@
             "Unorganized Sector",
             "Financial Security"
         ]
-    }
+    },
+    "id": "000138"
 }

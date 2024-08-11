@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Welfare Scheme",
         "beneficiary": "Ex-servicemen, Widows of Ex-servicemen, Dependents of Ex-servicemen",
-        "details": "'Relief During Natural Calamities Such as Cyclone, Flood or Fire' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to \u20b940,000/- is provided to the registered ESM / Widows of ESM / Dependents of ESM as a relief during natural calamities such as cyclones, floods or fires. The applications are accepted offline.",
+        "details": "'Relief During Natural Calamities Such as Cyclone, Flood or Fire' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to ₹40,000/- is provided to the registered ESM / Widows of ESM / Dependents of ESM as a relief during natural calamities such as cyclones, floods or fires. The applications are accepted offline.",
         "benefits": [
-            "The actual cost of damage or a maximum of \u20b940,000/- is provided as a relief during natural calamities such as cyclone, flood or fire.",
-            "The amount, as decided by the Management Committee, is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "The actual cost of damage or a maximum of ₹40,000/- is provided as a relief during natural calamities such as cyclone, flood or fire.",
+            "The amount, as decided by the Management Committee, is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be an Ex-serviceman/Widow of an Ex-serviceman/Dependent of an Ex-serviceman.",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the procedure for seeking information through 'Right To Information (RTI)'?",
-                "answer": "The required information may be asked through an application along with IPO/DD for a sum of \u20b910/- in favour of the Director, Department of Sainik Welfare, Puducherry."
+                "answer": "The required information may be asked through an application along with IPO/DD for a sum of ₹10/- in favour of the Director, Department of Sainik Welfare, Puducherry."
             },
             {
                 "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
@@ -95,5 +95,6 @@
             "Sainik Welfare",
             "Ex-servicemen"
         ]
-    }
+    },
+    "id": "001593"
 }

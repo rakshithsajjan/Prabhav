@@ -8,8 +8,8 @@
         "details": "AICTE- Technical University Joint Training Programs for Librarians, launched by the All India Council for Technical Education, aims to provide financial assistance in conducting training for Librarians to prepare them for being successful and effective in a knowledge society.",
         "benefits": [
             "Financial assistance for conducting training programs",
-            "Maximum total expenditure for one training program is \u20b9 3,00,000/-",
-            "AICTE will release a grant of \u20b9 1,50,000/- to Technical university for the training program"
+            "Maximum total expenditure for one training program is ₹ 3,00,000/-",
+            "AICTE will release a grant of ₹ 1,50,000/- to Technical university for the training program"
         ],
         "eligibility": [
             "AICTE approved institutions"
@@ -73,5 +73,6 @@
             "AICTE",
             "Technical University"
         ]
-    }
+    },
+    "id": "000023"
 }

@@ -5,14 +5,14 @@
         "department": "Social Justice and Empowerment Department",
         "type": "Financial Assistance",
         "beneficiary": "Persons suffering from Rare Diseases",
-        "details": "The scheme 'Financial Assistance to Persons Suffering from Rare Diseases' was launched by the Social Justice and Empowerment Department, Government of Haryana. This scheme shall be applicable for all the persons of Haryana domicile, who are suffering from Rare Diseases; and also to extend the benefit of the Scheme to such persons, whose family income should be less than \u20b93,00,000/-. Under this scheme, \u20b93000/- per month will be provided starting from 01.01.2024. The financial assistance will be provided in addition to any benefits received by the applicant under other social security pension schemes.",
+        "details": "The scheme 'Financial Assistance to Persons Suffering from Rare Diseases' was launched by the Social Justice and Empowerment Department, Government of Haryana. This scheme shall be applicable for all the persons of Haryana domicile, who are suffering from Rare Diseases; and also to extend the benefit of the Scheme to such persons, whose family income should be less than ₹3,00,000/-. Under this scheme, ₹3000/- per month will be provided starting from 01.01.2024. The financial assistance will be provided in addition to any benefits received by the applicant under other social security pension schemes.",
         "benefits": [
-            "Financial assistance of \u20b93,000/- per month starting from 01.01.2024."
+            "Financial assistance of ₹3,000/- per month starting from 01.01.2024."
         ],
         "eligibility": [
             "The applicant must be a domicile and bonafide resident of Haryana.",
             "There are no age restrictions for applicants.",
-            "The applicant's annual family income should be less than \u20b93,00,000/-.",
+            "The applicant's annual family income should be less than ₹3,00,000/-.",
             "The applicant must possess a Parivar Pehchan Patra.",
             "The applicant should be suffering from any of the Rare Diseases mentioned in the National Policy for Rare Diseases, 2021, and diagnosed at any of the notified 'Centres of Excellence'."
         ],
@@ -30,7 +30,7 @@
             },
             {
                 "question": "Who is eligible for this scheme?",
-                "answer": "Applicants must be Haryana domiciles, possess a Parivar Pehchan Patra (PPP), have a family income less than \u20b93,00,000/- per year, and be diagnosed with a rare disease by a designated Centre of Excellence."
+                "answer": "Applicants must be Haryana domiciles, possess a Parivar Pehchan Patra (PPP), have a family income less than ₹3,00,000/- per year, and be diagnosed with a rare disease by a designated Centre of Excellence."
             },
             {
                 "question": "Is there an age limit for applicants?",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "How much financial assistance is provided under the scheme?",
-                "answer": "Eligible individuals receive \u20b93,000/- per month."
+                "answer": "Eligible individuals receive ₹3,000/- per month."
             },
             {
                 "question": "When does the financial assistance start?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What is the maximum family income allowed for eligibility?",
-                "answer": "The family income must be less than \u20b93,00,000/- per year."
+                "answer": "The family income must be less than ₹3,00,000/- per year."
             }
         ],
         "sources": [
@@ -80,5 +80,6 @@
             "Rare Diseases",
             "Haryana"
         ]
-    }
+    },
+    "id": "000600"
 }

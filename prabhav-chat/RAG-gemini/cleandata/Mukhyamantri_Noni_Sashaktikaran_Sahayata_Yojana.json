@@ -7,7 +7,7 @@
         "beneficiary": "Girl child of construction workers",
         "details": "In 2022, Chhattisgarh State Government started the 'Mukhyamantri Noni Sashaktikaran Sahayata Yojana' for the girl child of the family. With this scheme, daughters of workers will be able to get education, employment and self-employment.",
         "benefits": [
-            "Financial Benefits: \u20b9 20,000/- only for first two girl child."
+            "Financial Benefits: ₹ 20,000/- only for first two girl child."
         ],
         "eligibility": [
             "The girl's father or mother or both should be registered as a construction worker in the Board for a period of at least one year.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Financial Benefits: \u20b9 20,000/- only for first two girl child."
+                "answer": "Financial Benefits: ₹ 20,000/- only for first two girl child."
             },
             {
                 "question": "May same beneficiary will get the benefits twice?",
@@ -87,5 +87,6 @@
             "Financial Assistance",
             "Girl Education"
         ]
-    }
+    },
+    "id": "001222"
 }

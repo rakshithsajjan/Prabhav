@@ -5,11 +5,11 @@
         "department": "Department of Social Justice & Empowerment",
         "type": "Financial Assistance",
         "beneficiary": "Hindu individuals in inter-caste marriages",
-        "details": "The scheme 'Dr. Savitaben Ambedkar Inter Caste Marriage Assistance Scheme' is implemented by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme has been implemented as part of social empowerment by addressing inequality through marriages between individuals from Scheduled Castes of Hinduism and those from castes other than Scheduled Castes of Hinduism. Under the scheme, the couple is to be provided financial assistance of \u20b92,50,000/- to encourage inter-caste marriages between Scheduled Castes and other Hindus. This scheme is a centrally sponsored initiative with a 50% contribution from both the state and central governments.",
+        "details": "The scheme 'Dr. Savitaben Ambedkar Inter Caste Marriage Assistance Scheme' is implemented by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme has been implemented as part of social empowerment by addressing inequality through marriages between individuals from Scheduled Castes of Hinduism and those from castes other than Scheduled Castes of Hinduism. Under the scheme, the couple is to be provided financial assistance of ₹2,50,000/- to encourage inter-caste marriages between Scheduled Castes and other Hindus. This scheme is a centrally sponsored initiative with a 50% contribution from both the state and central governments.",
         "benefits": [
-            "An assistance of \u20b91,00,000/- is provided to the couple for domestic expenses, for purchasing household appliances.",
-            "An assistance of \u20b91,50,000/- is provided in the form of National Savings Certificates in the joint name of the married couple.",
-            "A total financial assistance of \u20b92,50,000/- will be provided to the couple under the scheme."
+            "An assistance of ₹1,00,000/- is provided to the couple for domestic expenses, for purchasing household appliances.",
+            "An assistance of ₹1,50,000/- is provided in the form of National Savings Certificates in the joint name of the married couple.",
+            "A total financial assistance of ₹2,50,000/- will be provided to the couple under the scheme."
         ],
         "eligibility": [
             "One person of the inter-caste marriage couple should be a native of Gujarat.",
@@ -39,11 +39,11 @@
         "faqs": [
             {
                 "question": "What financial assistance is provided under the scheme?",
-                "answer": "A financial assistance of \u20b92,50,000/- is provided to encourage inter-caste marriages between Scheduled Castes and other Hindus."
+                "answer": "A financial assistance of ₹2,50,000/- is provided to encourage inter-caste marriages between Scheduled Castes and other Hindus."
             },
             {
                 "question": "How is the financial assistance distributed?",
-                "answer": "The assistance is distributed in two parts: \u20b91,00,000/- for domestic expenses and \u20b91,50,000/- in the form of National Savings Certificates in the joint name of the married couple."
+                "answer": "The assistance is distributed in two parts: ₹1,00,000/- for domestic expenses and ₹1,50,000/- in the form of National Savings Certificates in the joint name of the married couple."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -106,5 +106,6 @@
             "Scheduled Caste",
             "Gujarat"
         ]
-    }
+    },
+    "id": "000445"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Girls from economically weaker sections",
         "details": "Launched in 2012-13 by the Government of Himachal Pradesh in honor of the late astronaut Kalpana Chawla, the 'Kalpana Chawla Chatravriti Yojana' is a scholarship scheme that provides financial assistance to girls of Himachal Pradesh who belong to economically weaker sections and wish to pursue higher education without any financial burden, achieve their career goals and become self-reliant. The scheme is applicable to all the eligible girl students who are residents of Himachal Pradesh and studying in recognized institutions within the state.",
         "benefits": [
-            "The scholarship amount is \u20b9 15,000 per annum, which will be disbursed to the beneficiary's bank account directly.",
+            "The scholarship amount is ₹ 15,000 per annum, which will be disbursed to the beneficiary's bank account directly.",
             "The scholarship is renewable for up to five years, subject to the student meeting the eligibility criteria."
         ],
         "eligibility": [
@@ -93,5 +93,6 @@
             "Himachal Pradesh",
             "Kalpana Chawla"
         ]
-    }
+    },
+    "id": "000958"
 }

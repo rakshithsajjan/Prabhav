@@ -1,6 +1,6 @@
 {
     "content": {
-        "title": "Chief Ministergi Artistesinggi Tengbang (CMAT) \u2013 Scheme Of Festival Assistance For Participating In International & National Festival",
+        "title": "Chief Ministergi Artistesinggi Tengbang (CMAT) – Scheme Of Festival Assistance For Participating In International & National Festival",
         "state": "Manipur",
         "department": "Department of Art and Culture, Govt. of Manipur",
         "type": "State Sponsored",
@@ -37,7 +37,7 @@
                 "answer": "The application should reach the Directorate of Art & Culture latest by a month before the travel schedule."
             },
             {
-                "question": "Can I apply to this scheme if the annual income of my family is more than \u20b9 8,00,000?",
+                "question": "Can I apply to this scheme if the annual income of my family is more than ₹ 8,00,000?",
                 "answer": "There are no income-related criteria for this scheme. You can apply to this scheme irrespective of your family income."
             },
             {
@@ -93,5 +93,6 @@
             "Manipur",
             "State Sponsored Scheme"
         ]
-    }
+    },
+    "id": "000290"
 }

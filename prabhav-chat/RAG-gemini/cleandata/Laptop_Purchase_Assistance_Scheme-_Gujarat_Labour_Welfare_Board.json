@@ -5,9 +5,9 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Assistance",
         "beneficiary": "Children of industrial workers",
-        "details": "The \u201cLaptop Purchase Assistance Scheme\u201d is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to encourage the children of laborers who are enrolled in professional or design courses by providing assistance for purchasing laptops, thereby reducing the financial burden of education.",
+        "details": "The “Laptop Purchase Assistance Scheme” is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to encourage the children of laborers who are enrolled in professional or design courses by providing assistance for purchasing laptops, thereby reducing the financial burden of education.",
         "benefits": [
-            "50% of the amount or \u20b925,000/- whichever is less will be given to the student admitted in a professional or designing course, with consideration to the laptop price limit of \u20b950,000/-."
+            "50% of the amount or ₹25,000/- whichever is less will be given to the student admitted in a professional or designing course, with consideration to the laptop price limit of ₹50,000/-."
         ],
         "eligibility": [
             "Workers who are employed in a factory/institute within the state of Gujarat and have been contributing to the Labour Welfare Fund for at least one year at the local office are eligible to apply for benefits under this scheme for their children.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the benefits of the Scheme?",
-                "answer": "Under the scheme, eligible students can receive 50% of the laptop's cost or \u20b925,000, whichever is less. The maximum laptop price limit eligible for assistance is \u20b950,000."
+                "answer": "Under the scheme, eligible students can receive 50% of the laptop's cost or ₹25,000, whichever is less. The maximum laptop price limit eligible for assistance is ₹50,000."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -84,5 +84,6 @@
             "Laptop",
             "Student"
         ]
-    }
+    },
+    "id": "001019"
 }

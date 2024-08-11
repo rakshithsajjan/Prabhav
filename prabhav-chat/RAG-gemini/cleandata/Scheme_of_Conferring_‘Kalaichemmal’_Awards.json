@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "Scheme of Conferring \u2018Kalaichemmal\u2019 Awards",
+        "title": "Scheme of Conferring ‘Kalaichemmal’ Awards",
         "state": "Tamil Nadu",
         "department": "Art and Culture Department",
         "type": "Award",
         "beneficiary": "Eminent artists in the field of paintings and sculptures",
-        "details": "The 'Scheme of Conferring Kalaichemmal Awards' was launched by the Art and Culture Department, Tamil Nadu. The scheme aims to encourage eminent artists in the field of paintings and sculptures in recognition of their meritorious service in the fields of Traditional Art and Contemporary Art. The Kalaichemmal awardees are given a citation and a cash award of \u20b91,00,000/-. The exhibitions are conducted by Oviya Nunkalai Kuzhu at the state level and creations works will be on display for public view in the exhibition.",
+        "details": "The 'Scheme of Conferring Kalaichemmal Awards' was launched by the Art and Culture Department, Tamil Nadu. The scheme aims to encourage eminent artists in the field of paintings and sculptures in recognition of their meritorious service in the fields of Traditional Art and Contemporary Art. The Kalaichemmal awardees are given a citation and a cash award of ₹1,00,000/-. The exhibitions are conducted by Oviya Nunkalai Kuzhu at the state level and creations works will be on display for public view in the exhibition.",
         "benefits": [
-            "Financial Assistance of \u20b91,00,000/-",
+            "Financial Assistance of ₹1,00,000/-",
             "Copper Citation Plaque"
         ],
         "eligibility": [
@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "What benefits are provided to the recipients of the Kalaichemmal Awards?",
-                "answer": "Recipients of the Kalaichemmal Awards receive a citation and a cash award of \u20b91,00,000/- in recognition of their meritorious service in the fields of Traditional Art and Contemporary Art."
+                "answer": "Recipients of the Kalaichemmal Awards receive a citation and a cash award of ₹1,00,000/- in recognition of their meritorious service in the fields of Traditional Art and Contemporary Art."
             },
             {
                 "question": "Are there any additional benefits provided to the awardees?",
@@ -85,5 +85,6 @@
             "Culture",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001712"
 }

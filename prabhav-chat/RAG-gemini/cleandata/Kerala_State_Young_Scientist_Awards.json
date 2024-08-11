@@ -5,10 +5,10 @@
         "department": "Kerala State Council for Science, Technology and Environment (KSCSTE)",
         "type": "Award",
         "beneficiary": "Young Scientists",
-        "details": "The \u201cKerala State Young Scientist Awards\u201d by the KSCSTE are intended to honour talented young Scientists in recognition of their outstanding contributions in any branch of science and technology coming within the purview of the Council. The research carried out independently in Kerala by young scientists of Indian origin with Ph.D. in any branch of Science and technology who have been working in Kerala for the last three years will be taken into consideration for the award.",
+        "details": "The “Kerala State Young Scientist Awards” by the KSCSTE are intended to honour talented young Scientists in recognition of their outstanding contributions in any branch of science and technology coming within the purview of the Council. The research carried out independently in Kerala by young scientists of Indian origin with Ph.D. in any branch of Science and technology who have been working in Kerala for the last three years will be taken into consideration for the award.",
         "benefits": [
-            "Each Awardee will be presented with a certificate and a cash prize of \u20b950,000/-.",
-            "The recipient may be considered by the Council for a research grant of \u20b950 lakhs after due consideration of the research project with the help of an expert committee.",
+            "Each Awardee will be presented with a certificate and a cash prize of ₹50,000/-.",
+            "The recipient may be considered by the Council for a research grant of ₹50 lakhs after due consideration of the research project with the help of an expert committee.",
             "The Awardee, within 3 years of the receipt of the award, will be considered for a visit abroad to present the research work at a conference."
         ],
         "eligibility": [
@@ -30,8 +30,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cKerala State Young Scientist Awards\u201d?",
-                "answer": "The \u201cKerala State Young Scientist Awards\u201d by the KSCSTE are intended to honour talented young Scientists in recognition of their outstanding contributions in any branch of science and technology coming within the purview of the Council."
+                "question": "What is the “Kerala State Young Scientist Awards”?",
+                "answer": "The “Kerala State Young Scientist Awards” by the KSCSTE are intended to honour talented young Scientists in recognition of their outstanding contributions in any branch of science and technology coming within the purview of the Council."
             },
             {
                 "question": "Which is the implementing agency of this scheme?",
@@ -55,11 +55,11 @@
             },
             {
                 "question": "How much amount to be given to the selected candidate as a cash prize?",
-                "answer": "Each Awardee will be presented with a certificate and a cash prize of \u20b950,000/-."
+                "answer": "Each Awardee will be presented with a certificate and a cash prize of ₹50,000/-."
             },
             {
                 "question": "Can the selected candidate also be eligible for the research grant?",
-                "answer": "Yes, the recipient may be considered by the Council for a research grant of \u20b950 lakhs after due consideration of the research project with the help of an expert committee."
+                "answer": "Yes, the recipient may be considered by the Council for a research grant of ₹50 lakhs after due consideration of the research project with the help of an expert committee."
             },
             {
                 "question": "Can the awardee also be eligible for a visit to abroad?",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "Whom can a candidate contact regarding the award?",
-                "answer": "The Head, Science, Technology Promotion Division Kerala State Council for Science, Technology and Environment (KSCSTE) Sasthra Bhavan, Pattom, Thiruvananthapuram \u2013 695 004 Tel: +91 471 2548214 e-mail: stpd.kscste@kerala.gov.in"
+                "answer": "The Head, Science, Technology Promotion Division Kerala State Council for Science, Technology and Environment (KSCSTE) Sasthra Bhavan, Pattom, Thiruvananthapuram – 695 004 Tel: +91 471 2548214 e-mail: stpd.kscste@kerala.gov.in"
             }
         ],
         "sources": [
@@ -108,5 +108,6 @@
             "Technology",
             "Young Scientist"
         ]
-    }
+    },
+    "id": "000976"
 }

@@ -11,7 +11,7 @@
         ],
         "eligibility": [
             "Should have contributed to Labour Welfare Fund.",
-            "Employee\u2019s monthly salary not exceeding Rs.25,000/- (Basic pay + DA)."
+            "Employee’s monthly salary not exceeding Rs.25,000/- (Basic pay + DA)."
         ],
         "exclusions": [],
         "application_process": "Offline",
@@ -23,7 +23,7 @@
             "Salary slip of the Employee.",
             "Labour Welfare Fund contribution Receipt Xerox.",
             "Name list of the paid Labour Welfare Fund.",
-            "Bank passbook front page \u2013 2 copies."
+            "Bank passbook front page – 2 copies."
         ],
         "faqs": [
             {
@@ -67,5 +67,6 @@
             "Financial Assistance",
             "Welfare Scheme"
         ]
-    }
+    },
+    "id": "001082"
 }

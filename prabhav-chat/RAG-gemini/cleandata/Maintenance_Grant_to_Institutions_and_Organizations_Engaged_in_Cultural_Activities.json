@@ -7,8 +7,8 @@
         "beneficiary": "Cultural organizations",
         "details": "The 'Maintenance Grant to Institutions and Organizations Engaged in Cultural Activities' scheme was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide a maintenance grant to the organizations engaged in cultural activities. The applications are accepted offline.",
         "benefits": [
-            "Financial assistance for maintenance \u20b93,000/-",
-            "Financial assistance for cultural activities \u20b95,000/-"
+            "Financial assistance for maintenance ₹3,000/-",
+            "Financial assistance for cultural activities ₹5,000/-"
         ],
         "eligibility": [
             "A cultural organization should be engaged in cultural activities for a minimum period of two years.",
@@ -34,7 +34,7 @@
             },
             {
                 "question": "What are the financial requirements for a cultural organization applying for the maintenance grant?",
-                "answer": "The organization\u2019s accounts must be duly audited and approved by a competent person or body, as per the rules accompanying the Memorandum of Association."
+                "answer": "The organization’s accounts must be duly audited and approved by a competent person or body, as per the rules accompanying the Memorandum of Association."
             },
             {
                 "question": "Can a cultural organization that operates for profit apply for the maintenance grant?",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the amount of the maintenance grant provided to eligible institutions?",
-                "answer": "The maintenance grant provided is \u20b93000/-."
+                "answer": "The maintenance grant provided is ₹3000/-."
             },
             {
                 "question": "What is the amount provided for cultural activities under the grant scheme?",
-                "answer": "The grant for cultural activities is \u20b95000/-."
+                "answer": "The grant for cultural activities is ₹5000/-."
             },
             {
                 "question": "Who is considered a competent person or body for auditing the accounts of the institution?",
@@ -88,5 +88,6 @@
             "Financial Assistance",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001071"
 }

@@ -12,7 +12,7 @@
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The applicant should have an annual income not exceeding \u20b975,000/- per annum.",
+            "The applicant should have an annual income not exceeding ₹75,000/- per annum.",
             "The vehicle should be registered in the name of the applicant.",
             "The distance between the residence of the applicant and the duty point should be greater than 6km.",
             "The disability of the applicant should be 40% and above.",
@@ -57,7 +57,7 @@
             },
             {
                 "question": "What is the eligibility criterion for annual income under the scheme?",
-                "answer": "The applicant's annual income should not exceed \u20b975,000."
+                "answer": "The applicant's annual income should not exceed ₹75,000."
             },
             {
                 "question": "What is the required distance between the applicant's residence and duty point for eligibility?",
@@ -68,8 +68,8 @@
                 "answer": "The selection is periodical and depends on the availability of funds."
             },
             {
-                "question": "Can an applicant with an annual income exceeding \u20b975,000 qualify for the scheme?",
-                "answer": "No, the annual income should not exceed \u20b975,000 for eligibility."
+                "question": "Can an applicant with an annual income exceeding ₹75,000 qualify for the scheme?",
+                "answer": "No, the annual income should not exceed ₹75,000 for eligibility."
             }
         ],
         "sources": [
@@ -110,5 +110,6 @@
             "Subsidy",
             "Vehicle"
         ]
-    }
+    },
+    "id": "000726"
 }

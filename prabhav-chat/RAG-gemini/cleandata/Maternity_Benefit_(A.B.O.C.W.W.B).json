@@ -7,7 +7,7 @@
         "beneficiary": "Registered women beneficiaries",
         "details": "The scheme 'Maternity Benefit' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the registered women beneficiaries as maternity benefits during the period of maternity. This benefit shall be allowed twice only.",
         "benefits": [
-            "\u20b920,000/- each as maternity benefit during the period of maternity"
+            "₹20,000/- each as maternity benefit during the period of maternity"
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Assam.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the financial benefits provided under the Scheme?",
-                "answer": "The registered woman beneficiary is entitled to receive \u20b920,000/- as maternity benefit during the period of maternity."
+                "answer": "The registered woman beneficiary is entitled to receive ₹20,000/- as maternity benefit during the period of maternity."
             },
             {
                 "question": "How many times can a beneficiary avail of the Maternity Benefit?",
@@ -93,5 +93,6 @@
             "Construction Worker",
             "Woman"
         ]
-    }
+    },
+    "id": "001103"
 }

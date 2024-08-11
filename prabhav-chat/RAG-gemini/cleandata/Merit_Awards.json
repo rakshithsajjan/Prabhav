@@ -7,9 +7,9 @@
         "beneficiary": "Students with Disabilities (SwDs)",
         "details": "The objective of this scheme is to award the students with disability who rank 1st, 2nd, and 3rd among disabled students in the Secondary School Certificate (S.S.C.) and Higher Secondary Certificate (H.S.C.) in their respective divisional boards of education.",
         "benefits": [
-            "Cash award of \u20b91,000/-",
+            "Cash award of ₹1,000/-",
             "Certificate of merit",
-            "Travel expenses up to \u20b9100/- per student to attend the award ceremony"
+            "Travel expenses up to ₹100/- per student to attend the award ceremony"
         ],
         "eligibility": [
             "Must rank 1st, 2nd, or 3rd among disabled students in S.S.C. or H.S.C.",
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What is the maximum amount of financial assistance that one can receive through this scheme?",
-                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b91,000/- along with a certificate."
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is ₹1,000/- along with a certificate."
             },
             {
                 "question": "Is there any application fee?",
@@ -87,5 +87,6 @@
             "Financial Assistance",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "001131"
 }

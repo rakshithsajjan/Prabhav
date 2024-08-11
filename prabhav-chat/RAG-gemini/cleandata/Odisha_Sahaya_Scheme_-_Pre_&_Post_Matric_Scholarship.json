@@ -9,7 +9,7 @@
         "benefits": [
             "Students shall submit applications in the prescribed format to the DSSO with certification/recommendation by the head of the educational institutions.",
             "Eligible students will get a scholarship for a maximum period of 10 months in an academic year.",
-            "Rate of scholarship: Pre-Matric (From Std. V to X) \u20b9 800 Per month, Post-Matric (From Std. XI\u2013XII) \u20b9 1,000 Per month, General Graduate/Post Graduate Courses \u20b9 1,500 Per month, Professional Degrees/Diplomas/Certificates \u20b9 2,000 Per month.",
+            "Rate of scholarship: Pre-Matric (From Std. V to X) ₹ 800 Per month, Post-Matric (From Std. XI–XII) ₹ 1,000 Per month, General Graduate/Post Graduate Courses ₹ 1,500 Per month, Professional Degrees/Diplomas/Certificates ₹ 2,000 Per month.",
             "DSSOs will scrutinize the applications and submit requirement of funds to the Department by the end of September.",
             "The scholarship required will be remitted in advance for one year and roll over to the next academic session.",
             "Utilization certificate on the expenditure shall be submitted by the DSSO by 28th February of each year."
@@ -88,5 +88,6 @@
             "Pre-Matric",
             "Post-Matric"
         ]
-    }
+    },
+    "id": "001370"
 }

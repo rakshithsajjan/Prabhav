@@ -7,8 +7,8 @@
         "beneficiary": "Women entrepreneurs",
         "details": "The Indira Mahila Shakti Udyam Protsahan Yojana (IMSUPY) is a scheme launched by the Rajasthan government to empower women entrepreneurs by providing them with financial assistance and support. The main objective of the scheme is to encourage women to start their own businesses and become financially independent. Promote self-employment and reduce unemployment among women in Rajasthan. Support the growth of micro, small, and medium enterprises (MSMEs) led by women.",
         "benefits": [
-            "Loan amount of \u20b9 50,00,000/- to individual women.",
-            "Loan amount of \u20b9 1,00,00,000/- to self-help groups.",
+            "Loan amount of ₹ 50,00,000/- to individual women.",
+            "Loan amount of ₹ 1,00,00,000/- to self-help groups.",
             "Margin money of 25% of the sanctioned loan amount.",
             "For women belonging to Scheduled Castes/Tribes, the margin money will be 30%."
         ],
@@ -82,5 +82,6 @@
             "Empowerment",
             "Women"
         ]
-    }
+    },
+    "id": "000847"
 }

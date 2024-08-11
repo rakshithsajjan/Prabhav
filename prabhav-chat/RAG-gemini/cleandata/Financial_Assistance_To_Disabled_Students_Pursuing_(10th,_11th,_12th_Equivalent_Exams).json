@@ -7,9 +7,9 @@
         "beneficiary": "Disabled Students",
         "details": "The scheme 'Financial Assistance to Disabled Students Pursuing (10th, 11th, 12th Equivalent Exams)' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, financial assistance will be provided to such school dropouts to pursue SSLC, +1, +2 equivalent courses implemented by State Literacy Mission. A person becomes disabled by birth or because of an accident or disease. The differently-abled persons face many hurdles in their day-to-day life. About 90% of disabled persons may not have received even primary education. They are forced to give up studies due to various factors, such as difficulty in going to educational institutions and inadequate road facilities.",
         "benefits": [
-            "SSLC/10th Class: \u20b91750/- for Course Fee, \u20b9500/- for Exam Fee, \u20b9100/- for Registration Fee",
-            "11th Class: \u20b91950/- for Course Fee, \u20b9700/- for Exam Fee, \u20b9100/- for Registration Fee, \u20b9200/- for Admission Fee",
-            "12th Class: \u20b91950/- for Course Fee"
+            "SSLC/10th Class: ₹1750/- for Course Fee, ₹500/- for Exam Fee, ₹100/- for Registration Fee",
+            "11th Class: ₹1950/- for Course Fee, ₹700/- for Exam Fee, ₹100/- for Registration Fee, ₹200/- for Admission Fee",
+            "12th Class: ₹1950/- for Course Fee"
         ],
         "eligibility": [
             "The applicant should be a resident of Kerala State.",
@@ -91,5 +91,6 @@
             "PwD",
             "Student"
         ]
-    }
+    },
+    "id": "000539"
 }

@@ -9,7 +9,7 @@
         "benefits": [
             "A Memento",
             "Citation",
-            "Financial purse of \u20b9 5,00,000/-"
+            "Financial purse of ₹ 5,00,000/-"
         ],
         "eligibility": [
             "The applicant should possess distinguished and exceptional achievements/services in fields of activities/disciplines such as art & culture, literature & education, sports, medicine, social work, civil services, public affairs, trade, science & engineering, industry, economics, philosophy, politics, or any other field at national & international level.",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What benefits do recipients of the Gomant Vibhushan Award receive?",
-                "answer": "Recipients of the Gomant Vibhushan Award are honored with a memento, a citation, and a financial purse of \u20b95,00,000."
+                "answer": "Recipients of the Gomant Vibhushan Award are honored with a memento, a citation, and a financial purse of ₹5,00,000."
             },
             {
                 "question": "Who constitutes the Task Force Committee responsible for considering posthumous awards?",
@@ -105,5 +105,6 @@
             "Literature",
             "Philosophy"
         ]
-    }
+    },
+    "id": "000693"
 }

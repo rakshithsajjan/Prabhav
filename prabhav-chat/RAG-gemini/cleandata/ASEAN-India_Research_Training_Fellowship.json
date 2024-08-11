@@ -15,7 +15,7 @@
         "eligibility": [
             "Indian nationals are not eligible for the Fellowship.",
             "Applicant must be holding the nationality of any of the ASEAN Member Countries.",
-            "Applicant should possess at least a Master\u2019s Degree in any Natural Sciences or an equivalent degree in Technology/Engineering/Medicine/allied disciplines.",
+            "Applicant should possess at least a Master’s Degree in any Natural Sciences or an equivalent degree in Technology/Engineering/Medicine/allied disciplines.",
             "Applicant should be working/studying and/or affiliated with any national R&D or academic institution in his/her home ASEAN Member Country.",
             "The application should be endorsed by the Head of his/her institution.",
             "The upper age limit for the applicant is 45 years as of the date of submission of the application.",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What are the eligibility criteria for applying/availing the Fellowship?",
-                "answer": "Applicant must be holding the nationality of any of the ASEAN Member Countries and possess at least a Master\u2019s Degree in any Natural Sciences or an equivalent degree."
+                "answer": "Applicant must be holding the nationality of any of the ASEAN Member Countries and possess at least a Master’s Degree in any Natural Sciences or an equivalent degree."
             }
         ],
         "sources": [
@@ -78,5 +78,6 @@
             "Science",
             "Technology"
         ]
-    }
+    },
+    "id": "000035"
 }

@@ -2,10 +2,10 @@
     "content": {
         "title": "Organic Manure Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Training",
         "beneficiary": "Farmer",
-        "details": "The \u201cOrganic Manure Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is to provide hands-on training at the village level on the production of organic compost inputs such as compost for plant health management for sustainable agriculture.",
+        "details": "The “Organic Manure Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide hands-on training at the village level on the production of organic compost inputs such as compost for plant health management for sustainable agriculture.",
         "benefits": [
             "Training and awareness campaign in the production of organic composts."
         ],
@@ -28,7 +28,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -43,7 +43,7 @@
                 "answer": "Bona fide farmers can apply in plain paper to the District Agriculture Officer of the concerned Districts through the Agriculture Development officer of C & RD Block/ Agriculture Circle/Sub-Divisional Agricultural Officers of the concerned Sub-Divisions."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
             }
         ],
@@ -58,5 +58,6 @@
             "Agriculture",
             "Training"
         ]
-    }
+    },
+    "id": "001394"
 }

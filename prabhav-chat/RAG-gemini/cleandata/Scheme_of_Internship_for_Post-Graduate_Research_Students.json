@@ -7,9 +7,9 @@
         "beneficiary": "Post-Graduate/Research Students",
         "details": "The Ministry of Statistics & Programme Implementation (MoSPI) is implementing a scheme of Internship for Post-graduate/Research Students of Statistics/ Mathematical Statistics/Operations Research/ Economics/ Demography or any of the applied fields of Statistics of recognized Universities/Institutions during 2023-24. The scheme aims to facilitate students in familiarizing themselves with the Official Statistical System in the Country.",
         "benefits": [
-            "A token stipend of \u20b910,000/- (consolidated) @ \u20b95,000/- per month.",
+            "A token stipend of ₹10,000/- (consolidated) @ ₹5,000/- per month.",
             "Certificate issued upon successful completion of the internship.",
-            "Additional amount of \u20b9250/- per day for field visits (maximum of 10 days).",
+            "Additional amount of ₹250/- per day for field visits (maximum of 10 days).",
             "Minimum logistics support provided by internship offices."
         ],
         "eligibility": [
@@ -40,7 +40,7 @@
             },
             {
                 "question": "Will The Amount Of The Token Stipend Be Paid As A Lump Sum Or In Installments?",
-                "answer": "A token stipend of \u20b910,000/- (consolidated) @ \u20b95,000/- per month would be paid at the end of the internship period."
+                "answer": "A token stipend of ₹10,000/- (consolidated) @ ₹5,000/- per month would be paid at the end of the internship period."
             },
             {
                 "question": "Will MoSPI Pay Travelling Allowance Or Daily Allowance To The Interns?",
@@ -59,5 +59,6 @@
             "Statistics",
             "Student"
         ]
-    }
+    },
+    "id": "001734"
 }

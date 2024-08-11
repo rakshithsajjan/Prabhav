@@ -7,8 +7,8 @@
         "beneficiary": "Fresh Ph.D./MD/MS holders",
         "details": "ICMR- Post Doctoral Fellowship (ICMR-PDF) Scheme is being instituted to foster high-quality research opportunities for promising fresh Ph.D./MD/MS holders in the cutting-edge areas of basic science, communicable and non-communicable diseases, and reproductive health including nutrition at ICMR Institutes /Centers. Special focus will be on fundamental research in areas of science and other priority areas identified by ICMR from time to time. ICMR intends to offer fifty (50) such fellowships every year for working in ICMR Institutes/Centers with state-of-the-art R&D facilities.",
         "benefits": [
-            "Consolidated fellowship of \u20b965,000/- per month plus House Rent Allowance (HRA) as per Govt. of India rule and Non-Practicing allowance (NPA) as admissible.",
-            "Contingency grant of \u20b93,00,000/- per annum.",
+            "Consolidated fellowship of ₹65,000/- per month plus House Rent Allowance (HRA) as per Govt. of India rule and Non-Practicing allowance (NPA) as admissible.",
+            "Contingency grant of ₹3,00,000/- per annum.",
             "25% of the contingency grant can be used for travel including per diem expenses (only for National travel, related to ICMR-PDF proposed research work only).",
             "Accommodation may be provided by ICMR Institutes/Centers, if available.",
             "ICMR-PDFs will be entitled to medical benefits and leave as per the ICMR rules for JRF/Research Associates."
@@ -20,7 +20,7 @@
             "The maximum age limit is 32 years, relaxable up to 5 years in case of SC/ST/OBC/PH and women candidates.",
             "For deserving candidates age can be relaxed maximum up to a maximum of 3 years based on earlier work done, publications, awards, etc.",
             "The PDF Guide should have the minimum designation of Scientist-C grade.",
-            "Postgraduate medical students are also permitted to carry out ICMR\u2019s PDF in MCI-recognized postgraduate medical colleges."
+            "Postgraduate medical students are also permitted to carry out ICMR’s PDF in MCI-recognized postgraduate medical colleges."
         ],
         "application_process": "Offline. Eligible candidates can visit the official website of ICMR and download the application form. Applications must be sent to the Director General, ICMR Headquarters, New Delhi.",
         "documents_required": [
@@ -43,7 +43,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cICMR- Post Doctoral Fellowship\u201d Scheme?",
+                "question": "What is the “ICMR- Post Doctoral Fellowship” Scheme?",
                 "answer": "ICMR- Post Doctoral Fellowship (ICMR-PDF) Scheme is being instituted to foster high-quality research opportunities for promising fresh Ph.D./MD/MS holders."
             },
             {
@@ -77,5 +77,6 @@
                 "url": "https://www.myscheme.gov.in/schemes/icmr-pdf"
             }
         ]
-    }
+    },
+    "id": "000799"
 }

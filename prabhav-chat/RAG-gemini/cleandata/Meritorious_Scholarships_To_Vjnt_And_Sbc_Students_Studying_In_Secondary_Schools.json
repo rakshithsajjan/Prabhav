@@ -5,13 +5,13 @@
         "department": "Government of Maharashtra",
         "type": "Scholarship",
         "beneficiary": "VJNT and SBC students studying in Secondary Schools",
-        "details": "The government of Maharashtra introduced the scheme of Meritorious Scholarships to VJNT and SBC students studying in Secondary Schools. To motivate Backward Class students for education. The students will get \u20b9 200/- for 5th to 7th and \u20b9 400/- for 8th to 10th standard per annum.",
+        "details": "The government of Maharashtra introduced the scheme of Meritorious Scholarships to VJNT and SBC students studying in Secondary Schools. To motivate Backward Class students for education. The students will get ₹ 200/- for 5th to 7th and ₹ 400/- for 8th to 10th standard per annum.",
         "benefits": [
-            "The students will get \u20b9 200/- for 5th to 7th standard per annum.",
-            "The students will get \u20b9 400/- for 8th to 10th standard per annum."
+            "The students will get ₹ 200/- for 5th to 7th standard per annum.",
+            "The students will get ₹ 400/- for 8th to 10th standard per annum."
         ],
         "eligibility": [
-            "Students who secured more than 50 percent marks in the previous year\u2019s annual examination and stood first or second in the class.",
+            "Students who secured more than 50 percent marks in the previous year’s annual examination and stood first or second in the class.",
             "He should belong to VJNT / SBC category.",
             "He should be studying in 5th to 10th standard.",
             "There is no income limit for this scholarship."
@@ -74,5 +74,6 @@
             "SBC",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "001135"
 }

@@ -7,18 +7,18 @@
         "beneficiary": "Children of workers employed in establishments covered under the Goa, Daman & Diu Labour Welfare Fund Act, 1986",
         "details": "The scheme aims to provide financial assistance to children of workers employed in establishments covered under the Goa, Daman & Diu Labour Welfare Fund Act, 1986. Through this scheme, scholarships are awarded to support the educational pursuits of these children.",
         "benefits": [
-            "Group 1: \u20b92,000 for Class 5th & 6th",
-            "Group 2: \u20b92,800 for Class 7th, 8th, 9th & 10th",
-            "Group 3: \u20b93,600 for Class 11th, 12th, University Admission Index Supplementary Courses (UAI SC), etc.",
-            "Group 4: \u20b910,000 for Graduation and Post Graduation Degree Courses in Arts, Science, Commerce, and Lower Technical courses",
-            "Group 5: \u20b920,000 for Higher Technical courses, Research, and Doctorate Studies"
+            "Group 1: ₹2,000 for Class 5th & 6th",
+            "Group 2: ₹2,800 for Class 7th, 8th, 9th & 10th",
+            "Group 3: ₹3,600 for Class 11th, 12th, University Admission Index Supplementary Courses (UAI SC), etc.",
+            "Group 4: ₹10,000 for Graduation and Post Graduation Degree Courses in Arts, Science, Commerce, and Lower Technical courses",
+            "Group 5: ₹20,000 for Higher Technical courses, Research, and Doctorate Studies"
         ],
         "eligibility": [
             "The applicant should be a regular worker.",
             "The applicant should be employed in an industrial establishment for at least six months.",
             "The industrial establishment should be covered under the Goa, Daman & Diu Labour Welfare Fund Act, 1986.",
             "The applicant should be performing any skilled or unskilled, manual or clerical labour, other than in a position of supervision or management.",
-            "The total income of the applicant from the salary should not exceed \u20b920,000 per month, including all allowances and perks but exclusive of bonus.",
+            "The total income of the applicant from the salary should not exceed ₹20,000 per month, including all allowances and perks but exclusive of bonus.",
             "The child of the applicant should be enrolled in a recognized institution in India.",
             "The child of the applicant should be pursuing general or technical education, including medical, engineering and agricultural studies.",
             "The child of the applicant should have qualified for promotion in the last annual examination with at least 45% marks."
@@ -40,7 +40,7 @@
             },
             {
                 "question": "Is there any income criterion for applicants to meet?",
-                "answer": "Yes, the total income of the applicant from salary, including all allowances and perks but exclusive of bonus, should not exceed \u20b920,000 per month."
+                "answer": "Yes, the total income of the applicant from salary, including all allowances and perks but exclusive of bonus, should not exceed ₹20,000 per month."
             },
             {
                 "question": "Are there any restrictions on the educational institutions where the child should be enrolled?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What are the different groups and amounts of scholarships provided under the scheme?",
-                "answer": "Scholarships are categorized into five groups, ranging from \u20b92,000 to \u20b920,000, depending on the educational level and course pursued by the child."
+                "answer": "Scholarships are categorized into five groups, ranging from ₹2,000 to ₹20,000, depending on the educational level and course pursued by the child."
             },
             {
                 "question": "How is the scholarship amount disbursed to the beneficiaries?",
@@ -96,5 +96,6 @@
             "Student",
             "Worker"
         ]
-    }
+    },
+    "id": "001680"
 }

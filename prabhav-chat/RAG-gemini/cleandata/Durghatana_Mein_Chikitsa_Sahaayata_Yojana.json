@@ -7,7 +7,7 @@
         "beneficiary": "Labor Workers",
         "details": "'Chhattisgarh Durghatana Mein Chikitsa Sahaayata Yojana' has been started by the Chhattisgarh Government and manage/run by the Chhattisgarh, Labor Department.",
         "benefits": [
-            "To the registered beneficiaries, medical assistance of \u20b9 20,000/- or the actual expenditure incurred on the treatment, whichever is less, will be provided."
+            "To the registered beneficiaries, medical assistance of ₹ 20,000/- or the actual expenditure incurred on the treatment, whichever is less, will be provided."
         ],
         "eligibility": [
             "The applicant must be a permanent resident of Chhattisgarh state.",
@@ -29,7 +29,7 @@
             },
             {
                 "question": "What is the maximum limit of Financial assistance?",
-                "answer": "Up to \u20b9 20,000/- (Maximum)"
+                "answer": "Up to ₹ 20,000/- (Maximum)"
             },
             {
                 "question": "What is the eligibility criteria?",
@@ -63,5 +63,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "000451"
 }

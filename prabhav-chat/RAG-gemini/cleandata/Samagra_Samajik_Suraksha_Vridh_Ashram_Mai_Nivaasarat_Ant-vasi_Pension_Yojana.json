@@ -7,7 +7,7 @@
         "beneficiary": "Citizens of Madhya Pradesh living in old age homes",
         "details": "Samagra Samajik Suraksha Vridh Ashram Mai Nivastan Athavasi Pension Yojana under the Department of Social Justice government of Madhya Pradesh provides financial support to the citizens of Madhya Pradesh who live in old age homes recognized by the Department of Social Justice.",
         "benefits": [
-            "Pension amount: \u20b9 600/- per month."
+            "Pension amount: ₹ 600/- per month."
         ],
         "eligibility": [
             "The applicant is a native of Madhya Pradesh.",
@@ -74,5 +74,6 @@
             "Pension",
             "Vridvashram"
         ]
-    }
+    },
+    "id": "001640"
 }

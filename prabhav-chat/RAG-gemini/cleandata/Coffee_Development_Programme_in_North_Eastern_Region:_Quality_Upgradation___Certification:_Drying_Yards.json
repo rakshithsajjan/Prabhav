@@ -7,8 +7,8 @@
         "beneficiary": "Tribal Growers",
         "details": "The scheme 'Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Drying Yards' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings.",
         "benefits": [
-            "For holdings up to 2 hectares: Unit Cost \u20b915,000/- with 75% subsidy.",
-            "For holdings of 2 hectares and above: Unit Cost \u20b945,000/- with 75% subsidy."
+            "For holdings up to 2 hectares: Unit Cost ₹15,000/- with 75% subsidy.",
+            "For holdings of 2 hectares and above: Unit Cost ₹45,000/- with 75% subsidy."
         ],
         "eligibility": [
             "The applicant should be a tribal grower.",
@@ -60,5 +60,6 @@
             "Farmer",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000319"
 }

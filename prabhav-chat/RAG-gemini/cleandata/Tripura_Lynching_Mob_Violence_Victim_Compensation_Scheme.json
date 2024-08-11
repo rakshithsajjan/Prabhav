@@ -7,13 +7,13 @@
         "beneficiary": "Victims of lynching/mob violence and their dependents",
         "details": "The 'Tripura Lynching/Mob Violence Victim Compensation Scheme' was launched on 14th August 2018 to provide financial support to victims or their dependents who have suffered loss or injury due to lynching/mob violence. This scheme was formulated following the Supreme Court's order on 17.07.2018.",
         "benefits": [
-            "Minimum compensation of \u20b94 Lakhs for death",
-            "\u20b92 Lakhs for permanent disability (80% or more)",
-            "\u20b91 Lakh for partial disability (40% to 80%)",
-            "\u20b995,000 for fully damaged/destroyed house",
-            "\u20b950,000 for kutcha house/shop/commercial establishment",
-            "\u20b95,000 for partially damaged/destroyed house",
-            "\u20b94,000 per hut for damaged/destroyed huts"
+            "Minimum compensation of ₹4 Lakhs for death",
+            "₹2 Lakhs for permanent disability (80% or more)",
+            "₹1 Lakh for partial disability (40% to 80%)",
+            "₹95,000 for fully damaged/destroyed house",
+            "₹50,000 for kutcha house/shop/commercial establishment",
+            "₹5,000 for partially damaged/destroyed house",
+            "₹4,000 per hut for damaged/destroyed huts"
         ],
         "eligibility": [
             "The victim must be a resident of Tripura.",
@@ -86,5 +86,6 @@
             "Mob Violence",
             "Victim Support"
         ]
-    }
+    },
+    "id": "001975"
 }

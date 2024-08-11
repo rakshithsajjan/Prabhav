@@ -7,12 +7,12 @@
         "beneficiary": "Faculty and researchers in AICTE approved institutions",
         "details": "AICTE-Technical Book Writing & Translation scheme has been launched by the All India Council for Technical Education (AICTE) to promote the use of 'Scheduled Regional Language' in Technical Education for creating knowledge base in local language and to encourage creation of treasure of latest technical knowledge incorporating the newest developments by grant of financial support to the distinguished faculty/writers/translators.",
         "benefits": [
-            "Original book writer for UG: \u20b9 2,00,000/-",
-            "Original book writer for Diploma: \u20b9 1,50,000/-",
-            "Reviewer for UG: \u20b9 40,000/-",
-            "Reviewer for Diploma: \u20b9 30,000/-",
-            "Translator for UG & Diploma: \u20b9 1,00,000/-",
-            "Reviewer of translated books in regional languages for UG & Diploma: \u20b9 20,000/-"
+            "Original book writer for UG: ₹ 2,00,000/-",
+            "Original book writer for Diploma: ₹ 1,50,000/-",
+            "Reviewer for UG: ₹ 40,000/-",
+            "Reviewer for Diploma: ₹ 30,000/-",
+            "Translator for UG & Diploma: ₹ 1,00,000/-",
+            "Reviewer of translated books in regional languages for UG & Diploma: ₹ 20,000/-"
         ],
         "eligibility": [
             "The Faculty- retired or working in AICTE approved institutions (Degree/Diploma/Pharmacy/Management/Architecture etc.) or researchers of such institutions.",
@@ -21,7 +21,7 @@
             "The proposed author(s) should have been recognized in the similar nature work earlier."
         ],
         "exclusions": [],
-        "application_process": "Offline. Kindly visit AICTE Website > Schemes > Staff Development Schemes > Technical Book Writing and Translation or visit https://www.aicteindia.org/schemes/staff-development-schemes. Click and download the Application for Technical Book Writing and Translation. Fill in the required information. Verify that every page of the application form has signature and stamp of the Institute\u2019s Head. Attach all the essential documents along with the filled application form. Kindly ensure all the information is correct and then send the Application form along with all the essential documents through registered post/ speed post to: Prof. Dileep N Malkhede, Adviser RIFD, All India Council for Technical Education, Nelson Madela Marg, Vasant Kunj, New Delhi - 110070.",
+        "application_process": "Offline. Kindly visit AICTE Website > Schemes > Staff Development Schemes > Technical Book Writing and Translation or visit https://www.aicteindia.org/schemes/staff-development-schemes. Click and download the Application for Technical Book Writing and Translation. Fill in the required information. Verify that every page of the application form has signature and stamp of the Institute’s Head. Attach all the essential documents along with the filled application form. Kindly ensure all the information is correct and then send the Application form along with all the essential documents through registered post/ speed post to: Prof. Dileep N Malkhede, Adviser RIFD, All India Council for Technical Education, Nelson Madela Marg, Vasant Kunj, New Delhi - 110070.",
         "documents_required": [
             "Institute Details.",
             "Details of the Writer of the book/Translator.",
@@ -57,27 +57,27 @@
             },
             {
                 "question": "What is the amount of assistance for Original book writer for UG?",
-                "answer": "The amount of assistance for the Original book writer for UG is \u20b9 2,00,000/- each."
+                "answer": "The amount of assistance for the Original book writer for UG is ₹ 2,00,000/- each."
             },
             {
                 "question": "What is the amount of assistance for Original book writer for Diploma?",
-                "answer": "The amount of assistance for the Original book writer for the Diploma is \u20b9 1,50,000/- each."
+                "answer": "The amount of assistance for the Original book writer for the Diploma is ₹ 1,50,000/- each."
             },
             {
                 "question": "What is the amount of assistance for Reviewer for UG?",
-                "answer": "The amount of assistance for the Reviewer for UG is \u20b9 40,000/- each."
+                "answer": "The amount of assistance for the Reviewer for UG is ₹ 40,000/- each."
             },
             {
                 "question": "What is the amount of assistance for the Reviewer for Diploma?",
-                "answer": "The amount of assistance for the Reviewer for the Diploma is \u20b9 30,000/- each."
+                "answer": "The amount of assistance for the Reviewer for the Diploma is ₹ 30,000/- each."
             },
             {
                 "question": "What is the amount of assistance for Translator for UG & Diploma?",
-                "answer": "The amount of assistance for the Translator for UG & Diploma \u20b9 1,00,000/- each."
+                "answer": "The amount of assistance for the Translator for UG & Diploma ₹ 1,00,000/- each."
             },
             {
                 "question": "What is the amount of assistance for Reviewer of translated books in regional languages for UG & Diploma?",
-                "answer": "The amount of assistance for Reviewer of translated books in regional languages for UG & Diploma is \u20b9 20,000/- each."
+                "answer": "The amount of assistance for Reviewer of translated books in regional languages for UG & Diploma is ₹ 20,000/- each."
             }
         ],
         "sources": [
@@ -101,5 +101,6 @@
             "AICTE",
             "Financial Support"
         ]
-    }
+    },
+    "id": "000020"
 }

@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "What is the maximum amount of financial assistance that one can receive through this scheme?",
-                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b91,000/-."
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is ₹1,000/-."
             },
             {
                 "question": "Is this a state funded or a centrally funded scheme?",
@@ -69,5 +69,6 @@
             "Self-Employment",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "000550"
 }

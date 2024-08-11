@@ -2,10 +2,10 @@
     "content": {
         "title": "Farmers Training Institute Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Training",
         "beneficiary": "Farmer",
-        "details": "The \u201cFarmers Training Institute Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is to provide training to farmers at the village level on updated and innovative agriculture technology. The Training Institute facilitates exposure visits for farmers to agriculturally advanced states. The Scheme also facilitates exposure visits for farmers within and outside the State.",
+        "details": "The “Farmers Training Institute Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide training to farmers at the village level on updated and innovative agriculture technology. The Training Institute facilitates exposure visits for farmers to agriculturally advanced states. The Scheme also facilitates exposure visits for farmers within and outside the State.",
         "benefits": [
             "Farmers are imparted specialised training at the center including in the farmers' field.",
             "Exposure programmes and field tours are also conducted for farmers' groups.",
@@ -30,7 +30,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "What is the type of assistance/entitlement?",
@@ -49,7 +49,7 @@
                 "answer": "Bona fide farmers can apply in plain paper to the District Agriculture Officer, Jowai and District Training Officers, Tura/Shillong to avail the benefits of training and exposure visits."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
             }
         ],
@@ -66,5 +66,6 @@
             "Training",
             "Training Institute"
         ]
-    }
+    },
+    "id": "000510"
 }

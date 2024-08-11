@@ -7,7 +7,7 @@
         "beneficiary": "Vulnerable groups including daily wage earners and those without a regular source of income",
         "details": "The COVID-19 Pandemic and the resulting economic dislocations have severely affected the livelihood of a large percentage of the population, especially vulnerable groups including daily wage earners, those without a regular source of income, and without sufficient savings to fall back upon. There is a need to have additional direct income support for these vulnerable groups.",
         "benefits": [
-            "Direct Cash Transfer of \u20b9 5,000/- in 2 equal installments (\u20b9 2,500/- per installment) to every identified family."
+            "Direct Cash Transfer of ₹ 5,000/- in 2 equal installments (₹ 2,500/- per installment) to every identified family."
         ],
         "eligibility": [
             "Only those domiciled in Manipur can apply.",
@@ -38,11 +38,11 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That I Can Receive Through This Scheme?",
-                "answer": "Direct Cash Transfer of \u20b9 5,000/- in 2 equal installments (\u20b9 2,500/- per installment) to every identified family."
+                "answer": "Direct Cash Transfer of ₹ 5,000/- in 2 equal installments (₹ 2,500/- per installment) to every identified family."
             },
             {
                 "question": "Will The Financial Assistance Be Paid In Installments Or As A Lump Sum?",
-                "answer": "The financial assistance will be paid in 2 equal installments (\u20b9 2,500/- per installment)."
+                "answer": "The financial assistance will be paid in 2 equal installments (₹ 2,500/- per installment)."
             },
             {
                 "question": "What Is The Eligible Criteria Related To The Annual Income Of The Applicant?",
@@ -73,5 +73,6 @@
             "Financial Assistance",
             "Manipur"
         ]
-    }
+    },
+    "id": "000269"
 }

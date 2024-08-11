@@ -7,13 +7,13 @@
         "beneficiary": "Students from economically disadvantaged backgrounds",
         "details": "The Post Matric and Top Class Scholarship under the Higher Education Department of the Madhya Pradesh government is to support students from economically disadvantaged backgrounds in pursuing higher education. Specifically, it aims to alleviate financial constraints by covering tuition fees, maintenance allowances, and other educational expenses. It aims to empower deserving students to excel academically and professionally, fostering their socio-economic development and contributing to the overall advancement of society.",
         "benefits": [
-            "Hostel students receive a subsistence allowance of \u20b91,200 per month.",
-            "Non-hostel residents are provided with a subsistence allowance of \u20b9650 per month.",
+            "Hostel students receive a subsistence allowance of ₹1,200 per month.",
+            "Non-hostel residents are provided with a subsistence allowance of ₹650 per month.",
             "Reimbursement of mandatory and non-refundable fees."
         ],
         "eligibility": [
             "The applicant should be studying in graduate/post-graduate courses.",
-            "The maximum annual income of the guardian should be \u20b92,50,000 for post-matric and \u20b96,00,000 for top class.",
+            "The maximum annual income of the guardian should be ₹2,50,000 for post-matric and ₹6,00,000 for top class.",
             "The applicant has 40 percent or more disability."
         ],
         "exclusions": [],
@@ -43,11 +43,11 @@
             },
             {
                 "question": "How much subsistence allowance do hostel students receive?",
-                "answer": "Hostel students receive \u20b91,200 per month as a subsistence allowance."
+                "answer": "Hostel students receive ₹1,200 per month as a subsistence allowance."
             },
             {
                 "question": "What is the subsistence allowance for non-hostel residents?",
-                "answer": "Non-hostel residents receive \u20b9650 per month as a subsistence allowance."
+                "answer": "Non-hostel residents receive ₹650 per month as a subsistence allowance."
             },
             {
                 "question": "What expenses are reimbursed under this scholarship?",
@@ -86,5 +86,6 @@
             "Scholarships",
             "Student"
         ]
-    }
+    },
+    "id": "001472"
 }

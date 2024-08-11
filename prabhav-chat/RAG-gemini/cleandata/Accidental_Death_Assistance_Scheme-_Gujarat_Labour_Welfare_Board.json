@@ -5,9 +5,9 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Family members of workers (Shramyogis)",
-        "details": "The \u201cAccidental Death Assistance Scheme\u201d is implemented by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to the family members of workers (Shramyogis) in the event of their death due to an accident during their course of employment. This assistance aims to help the worker's family cope with the sudden calamity. However, post-sickness and natural death of workers will not be admissible under the scheme.",
+        "details": "The “Accidental Death Assistance Scheme” is implemented by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to the family members of workers (Shramyogis) in the event of their death due to an accident during their course of employment. This assistance aims to help the worker's family cope with the sudden calamity. However, post-sickness and natural death of workers will not be admissible under the scheme.",
         "benefits": [
-            "Families of workers (Shramyogis) will receive financial assistance of \u20b92,00,000/- in the event of the worker's death due to an accident during their course of employment."
+            "Families of workers (Shramyogis) will receive financial assistance of ₹2,00,000/- in the event of the worker's death due to an accident during their course of employment."
         ],
         "eligibility": [
             "In case of the death of a worker due to an accident, the family of the worker will be eligible for assistance under the scheme.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What are the benefits provided under the Scheme?",
-                "answer": "Families of workers (Shramyogis) will receive financial assistance of \u20b92,00,000/- in the event of the worker's death due to an accident during their course of employment."
+                "answer": "Families of workers (Shramyogis) will receive financial assistance of ₹2,00,000/- in the event of the worker's death due to an accident during their course of employment."
             },
             {
                 "question": "Who is eligible for the benefits under the scheme?",
@@ -85,5 +85,6 @@
             "Labour",
             "Organized Worker"
         ]
-    }
+    },
+    "id": "000045"
 }

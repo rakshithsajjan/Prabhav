@@ -5,12 +5,12 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The \u201cShree Nanaji Deshmukh Awas Yojana\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). In urban areas, where EWS/LIG houses have been allotted by the Local Self-Government Organization/Urban Development Authority and Gujarat Housing Board under the Chief Minister/Prime Minister Awas Yojana, the benefit of this scheme is given once per family to the construction worker registered in the board.",
+        "details": "The “Shree Nanaji Deshmukh Awas Yojana” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). In urban areas, where EWS/LIG houses have been allotted by the Local Self-Government Organization/Urban Development Authority and Gujarat Housing Board under the Chief Minister/Prime Minister Awas Yojana, the benefit of this scheme is given once per family to the construction worker registered in the board.",
         "benefits": [
-            "Financial assistance of \u20b91,60,000/- is provided to registered construction workers."
+            "Financial assistance of ₹1,60,000/- is provided to registered construction workers."
         ],
         "eligibility": [
-            "The construction workers who are registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board will be eligible to get the benefit of this scheme.",
+            "The construction workers who are registered with the Gujarat Building and Other Construction Worker’s Welfare Board will be eligible to get the benefit of this scheme.",
             "A house is allotted jointly to a registered construction worker husband or wife and either of the husband or wife is a registered construction worker will be eligible for the benefit of this scheme.",
             "No land/property or building should be in the name of the registered construction worker husband or wife or any of their family members.",
             "The benefit of this scheme is given once per family to the registered construction worker.",
@@ -50,7 +50,7 @@
         "faqs": [
             {
                 "question": "Who is eligible to benefit from this scheme?",
-                "answer": "Construction workers who are registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible to benefit from this scheme."
+                "answer": "Construction workers who are registered with the Gujarat Building and Other Construction Worker’s Welfare Board are eligible to benefit from this scheme."
             },
             {
                 "question": "Can both husband and wife, if registered construction workers, avail the benefit jointly?",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "What financial assistance is provided under the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b91,60,000/- is provided to registered construction workers."
+                "answer": "Under the scheme, financial assistance of ₹1,60,000/- is provided to registered construction workers."
             },
             {
                 "question": "Can registered construction workers from rural areas avail of this scheme?",
@@ -107,5 +107,6 @@
                 "url": "https://enirmanbocw.gujarat.gov.in/Index.aspx"
             }
         ]
-    }
+    },
+    "id": "001796"
 }

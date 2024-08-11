@@ -7,9 +7,9 @@
         "beneficiary": "Female Scientists",
         "details": "A Research Grant by MoST for female candidates with break in their career interested in addressing societal challenges through viable S&T interventions. This scheme will provide a research grant for a well-defined project proposal for a period of maximum three years. This grant will cover the fellowship of the applicant and cost of small equipments, contingencies, travel, consumables, etc. Institutional overhead charges will be extra.",
         "benefits": [
-            "\u20b9 55,000/- pm (and HRA as applicable) for Ph.D. or equivalent (total project cost not exceeding \u20b9 30 lakh excluding HRA and Overhead)",
-            "\u20b9 40,000/- pm (and HRA as applicable) for M.Phil./MTech or equivalent (total project cost not exceeding \u20b9 25 lakh excluding HRA and Overhead)",
-            "\u20b9 31,000/- pm (and HRA as applicable) for M.Sc. or equivalent (total project cost not exceeding \u20b9 20 lakh excluding HRA and Overhead)"
+            "₹ 55,000/- pm (and HRA as applicable) for Ph.D. or equivalent (total project cost not exceeding ₹ 30 lakh excluding HRA and Overhead)",
+            "₹ 40,000/- pm (and HRA as applicable) for M.Phil./MTech or equivalent (total project cost not exceeding ₹ 25 lakh excluding HRA and Overhead)",
+            "₹ 31,000/- pm (and HRA as applicable) for M.Sc. or equivalent (total project cost not exceeding ₹ 20 lakh excluding HRA and Overhead)"
         ],
         "eligibility": [
             "The applicant must be a FEMALE.",
@@ -20,11 +20,11 @@
         "exclusions": [
             "The female candidate who is employed in a regular/permanent position are not eligible to apply."
         ],
-        "application_process": "Online. Step 1: Register at the online portal https://online-wosa.gov.in/wosb/ using your active email ID. An auto-generated mail will be received with an ID and link to create a password. Step 2: After logging in to the WOS-B portal, fill out and submit the full Project Proposal under WOS-B. Step 3: Before submission preview your full proposal to make sure that everything is correct and in order. Step 4: Click on the 'Final Submit' button for the final submission of the proposal. Send one hard copy of the submitted proposal to the address provided below, superscribing the envelope with \u2018Women Scientist Scheme-B (WOS-B)\u2019 - Mrs. Namita Gupta, Scientist-\u2018G\u2019, KIRAN Division, Department of Science and Technology (DST), Technology Bhawan, New Mehrauli Road, New Delhi-110016.",
+        "application_process": "Online. Step 1: Register at the online portal https://online-wosa.gov.in/wosb/ using your active email ID. An auto-generated mail will be received with an ID and link to create a password. Step 2: After logging in to the WOS-B portal, fill out and submit the full Project Proposal under WOS-B. Step 3: Before submission preview your full proposal to make sure that everything is correct and in order. Step 4: Click on the 'Final Submit' button for the final submission of the proposal. Send one hard copy of the submitted proposal to the address provided below, superscribing the envelope with ‘Women Scientist Scheme-B (WOS-B)’ - Mrs. Namita Gupta, Scientist-‘G’, KIRAN Division, Department of Science and Technology (DST), Technology Bhawan, New Mehrauli Road, New Delhi-110016.",
         "documents_required": [
             "Project Proposal Document (Refer source for Format)",
             "Biodata of PI (Signed) (Refer source for Format)",
-            "Mentor\u2019s Biodata (Signed)",
+            "Mentor’s Biodata (Signed)",
             "Caste Certificate (If SC/ST/OBC/PH)",
             "DOB certificate (10th class passed only)",
             "Photograph of PI",
@@ -119,5 +119,6 @@
             "Research",
             "Fellowship"
         ]
-    }
+    },
+    "id": "002063"
 }

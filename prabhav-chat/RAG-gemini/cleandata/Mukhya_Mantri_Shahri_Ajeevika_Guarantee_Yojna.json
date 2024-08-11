@@ -8,7 +8,7 @@
         "details": "The 'Mukhya Mantri Shahri Ajeevika Guarantee Yojna' was launched to enhance livelihood security in urban areas by providing 120 days of guaranteed wage employment to every household in a financial year. The scheme will be implemented in all the Urban Local Bodies (ULBs) and Cantonment Boards (CBs) in Himachal Pradesh.",
         "benefits": [
             "Guaranteed 120 days of employment to eligible beneficiaries in urban local bodies",
-            "Unemployment allowance of \u20b975 per day if employment is not provided within 15 days of registration",
+            "Unemployment allowance of ₹75 per day if employment is not provided within 15 days of registration",
             "Skill training under the Deen Dyal Antodaya-National Urban Livelihood Mission (DAY-NULM)",
             "Bank linkage for self-employment opportunities"
         ],
@@ -84,5 +84,6 @@
             "Urban Development",
             "Skill Training"
         ]
-    }
+    },
+    "id": "001178"
 }

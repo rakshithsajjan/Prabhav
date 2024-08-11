@@ -7,7 +7,7 @@
         "beneficiary": "MSME units and trainees",
         "details": "The scheme 'MSME Skill Training and Employment Scheme' was launched by the Department of Micro, Small and Medium Enterprises, Government of Tamil Nadu during the years 2021-22. The scheme is implemented by the Commissionerate of Industries and Commerce at the State level, the Regional Joint Director of Industries and Commerce for Chennai district, and General Managers of the District Industries Centre for other districts in Tamil Nadu. The objective of the scheme is to fulfill the skilled manpower requirement of MSMEs by imparting necessary on-the-job training by the MSMEs themselves and thereby creating employment. The scheme will assist the MSME sector by sharing the training cost which otherwise would be borne by the enterprises themselves.",
         "benefits": [
-            "Under the scheme, the subsidy will be provided to the MSMEs for training; subject to a maximum of \u20b92000/- per month per candidate for a maximum of 6 months.",
+            "Under the scheme, the subsidy will be provided to the MSMEs for training; subject to a maximum of ₹2000/- per month per candidate for a maximum of 6 months.",
             "Certificates will be provided by the National Skill Development Corporation (NSDC), after the assessment of acquired skills by the trained candidates."
         ],
         "eligibility": [
@@ -15,7 +15,7 @@
             "Only in respect of vocation/trade in which MSMEs have expertise will be encouraged, MSME units should have experience, expertise, and running business.",
             "The trainees selected by the applicant (MSME) shall be between 18 to 25 years of age.",
             "The trainees selected by the applicant shall have an engineering degree, a polytechnic diploma, or an Industrial Training Institute (ITI) certificate, or qualification as prescribed by the respective sector skill council.",
-            "The applicant shall provide the trainee with a stipend of \u20b95000/- per month, for a maximum of 6 months.",
+            "The applicant shall provide the trainee with a stipend of ₹5000/- per month, for a maximum of 6 months.",
             "The applicant, MSME Unit, should not have been blacklisted at any point in time by any Government Norms/Rules/Acts."
         ],
         "application_process": "The applicant (MSME) may apply online through the Official Website of the Micro, Small and Medium Enterprises Department, Government of Tamil Nadu. On the home page, click on 'Apply Online' and then click on 'Apply New MSME'. If not registered, click on 'Register' and fill in all mandatory details. After successful registration, click on 'login' to apply for the scheme. Fill in all the mandatory details in the application form and upload all the necessary documents. Submit the application form.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What is the stipend provided by MSME units during training?",
-                "answer": "MSME shall provide the trainee with a stipend of \u20b95000/- per month, for a maximum of 6 months."
+                "answer": "MSME shall provide the trainee with a stipend of ₹5000/- per month, for a maximum of 6 months."
             },
             {
                 "question": "Anyone residing outside Tamil Nadu State can apply under MSME Skill Training and Employment Scheme?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "How much will subsidy be provided to the MSMEs for training?",
-                "answer": "Under the scheme, the subsidy will be provided to the MSMEs for training; subject to a maximum of \u20b92000/- per month per candidate for a maximum of 6 months."
+                "answer": "Under the scheme, the subsidy will be provided to the MSMEs for training; subject to a maximum of ₹2000/- per month per candidate for a maximum of 6 months."
             },
             {
                 "question": "How can an applicant (MSME unit) apply under the scheme?",
@@ -89,5 +89,6 @@
             "Trainee",
             "Training"
         ]
-    }
+    },
+    "id": "001164"
 }

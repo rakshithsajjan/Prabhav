@@ -70,7 +70,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             },
             {
                 "question": "What is the role of the Account Officer in the registration process under the Building and Other Construction Workers Act?",
@@ -102,5 +102,6 @@
             "Student",
             "Worker"
         ]
-    }
+    },
+    "id": "000559"
 }

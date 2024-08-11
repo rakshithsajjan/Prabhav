@@ -7,8 +7,8 @@
         "beneficiary": "Private Sector, Fishermen, Fisherwomen Cooperative Societies, Entrepreneurs",
         "details": "The scheme 'Grant of Subsidy For Setting up of Ice-Plant /Cold Storage/Fish Processing Unit' is a fisheries development scheme by the Department of Fisheries and Fishermen Welfare, Government of India. This scheme aims to preserve fish and fishery products by facilitating the establishment of Ice Plant-cum-Cold Storage Units and Fish Processing Units. Through this scheme, eligible entities can avail of a 10% subsidy.",
         "benefits": [
-            "10% subsidy, subject to a maximum of \u20b93,00,000 per unit, for the establishment of Ice Plant-cum-Cold Storage.",
-            "10% subsidy, subject to a maximum of \u20b910,00,000 per unit, for the establishment of a Processing Unit.",
+            "10% subsidy, subject to a maximum of ₹3,00,000 per unit, for the establishment of Ice Plant-cum-Cold Storage.",
+            "10% subsidy, subject to a maximum of ₹10,00,000 per unit, for the establishment of a Processing Unit.",
             "Grant-in-aid for construction and maintenance of fishing harbor, fish landing center, fish landing jetty, fish drying platform, fish curing yard, work sheds, cyclone shelters, community halls, etc."
         ],
         "eligibility": [
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the maximum subsidy for establishing a Fish Processing Unit under this scheme?",
-                "answer": "The maximum subsidy for the Fish Processing Unit is \u20b910,00,000 per unit."
+                "answer": "The maximum subsidy for the Fish Processing Unit is ₹10,00,000 per unit."
             },
             {
                 "question": "What are the different components for which the scheme provides grant-in-aid?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "What is the maximum subsidy amount provided for establishing an Ice Plant-cum-Cold Storage under this scheme?",
-                "answer": "The maximum subsidy for the Ice Plant-cum-Cold Storage Unit is \u20b93,00,000 per unit."
+                "answer": "The maximum subsidy for the Ice Plant-cum-Cold Storage Unit is ₹3,00,000 per unit."
             },
             {
                 "question": "Who are the eligible entities that can benefit from this fisheries development scheme?",
@@ -99,5 +99,6 @@
             "Plant",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000737"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Castes Students",
         "details": "The scheme 'Loan Assistance to Scheduled Castes Students for Commercial Pilot Training' is administered by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was commenced in the year 1987 with the objective to provide financial assistance to bright Scheduled Castes Students who want to undergo training for commercial pilot license. Loan assistance is provided to all eligible Scheduled Castes candidates who are unable to afford training for a commercial pilot license due to poor economic conditions.",
         "benefits": [
-            "Under this scheme, a loan of \u20b925 lakhs is provided at an interest rate of 4% to the eligible candidates."
+            "Under this scheme, a loan of ₹25 lakhs is provided at an interest rate of 4% to the eligible candidates."
         ],
         "eligibility": [
             "The applicant should be a native of Gujarat state.",
@@ -33,13 +33,13 @@
             "Annual total annual income of the family",
             "Copy of the first page of Bank Passbook/Canceled Check (in applicant's name)",
             "Valuation certificate of property of surety",
-            "Acknowledgment letter (on fixed stamp of \u20b950/-)",
+            "Acknowledgment letter (on fixed stamp of ₹50/-)",
             "SSC or Marksheets/Certificates of previous studies",
             "Student's Affidavit",
             "Eligibility Pattern for Repayment of Loan",
             "Passport (if training abroad)",
             "Visa (if training abroad)",
-            "Will serve in India for at least five years after completing training abroad. Submitting a written guarantee to that effect (on stamp paper of \u20b9100/-)",
+            "Will serve in India for at least five years after completing training abroad. Submitting a written guarantee to that effect (on stamp paper of ₹100/-)",
             "Surety bond, Annexure-C",
             "Any other documents as required"
         ],
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What amount of loan is provided under this scheme?",
-                "answer": "A loan of \u20b925 lakhs is provided at an interest rate of 4% to eligible candidates."
+                "answer": "A loan of ₹25 lakhs is provided at an interest rate of 4% to eligible candidates."
             },
             {
                 "question": "What are the eligibility criteria for availing this loan assistance?",
@@ -124,5 +124,6 @@
             "Pilot Training",
             "SC"
         ]
-    }
+    },
+    "id": "001030"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Voluntary Buddhist/Tibetan organizations including Monasteries",
         "details": "The scheme 'Financial Assistance for Development of Buddhist/Tibetan Arts and Culture' was launched by the Ministry of Culture, Government of India to provide financial assistance to voluntary Buddhist/Tibetan organizations including Monasteries engaged in the propagation and scientific development of Buddhist/Tibetan culture, tradition and research in related fields.",
         "benefits": [
-            "Financial assistance up to \u20b930.00 lakhs per year for any single organization.",
+            "Financial assistance up to ₹30.00 lakhs per year for any single organization.",
             "Grants for maintenance, research projects, purchase of books, scholarships, special courses, audio-visual documentation, IT upgrades, transport facilities, and repairs/restoration of heritage buildings."
         ],
         "eligibility": [
@@ -49,7 +49,7 @@
             },
             {
                 "question": "How much financial assistance will be provided under the scheme?",
-                "answer": "Financial assistance is given up to a maximum of \u20b930.00 lakhs per year for any single organization."
+                "answer": "Financial assistance is given up to a maximum of ₹30.00 lakhs per year for any single organization."
             },
             {
                 "question": "Which organization will be given preference for providing funds?",
@@ -74,5 +74,6 @@
             "Monasteries",
             "Tibetan"
         ]
-    }
+    },
+    "id": "000524"
 }

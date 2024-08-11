@@ -92,7 +92,7 @@
             },
             {
                 "question": "Is there any application fee for applying under the scheme?",
-                "answer": "Yes, A non-refundable application fees shall be payable for registration/renewal of Bed & Breakfast units and Homestay units as follows: For Gold Category: \u20b95,000/- For Silver Category: \u20b93,000/-"
+                "answer": "Yes, A non-refundable application fees shall be payable for registration/renewal of Bed & Breakfast units and Homestay units as follows: For Gold Category: ₹5,000/- For Silver Category: ₹3,000/-"
             }
         ],
         "sources": [
@@ -109,5 +109,6 @@
                 "url": "https://eservices.punjab.gov.in/serviceLinkHome.html?serviceToken=RMaeWxfIrR&newLink=N&%3Ccsrf:token%20uri=%27serviceLinkHome.html%27/%3E"
             }
         ]
-    }
+    },
+    "id": "000189"
 }

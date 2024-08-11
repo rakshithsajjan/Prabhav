@@ -7,15 +7,15 @@
         "beneficiary": "Children of industrial workers/employees",
         "details": "The 'Grant of Financial Assistance for Purchase of Textbooks/Notebooks to School-Going Children of Industrial Workers/Employees (GLWB)' is a Welfare Scheme by the Goa Labour Welfare Board, Department of Labour and Employment, Goa. It aims to provide financial support for the educational needs of children of industrial workers/employees. Through this scheme, children studying in classes 1st to 4th in recognized/approved schools are provided financial assistance for the purchase of textbooks/notebooks.",
         "benefits": [
-            "Financial Assistance based on the child's Level of Education: Class 1st: \u20b91,200, Class 2nd: \u20b91,200, Class 3rd: \u20b91,800, Class 4th: \u20b91,800.",
+            "Financial Assistance based on the child's Level of Education: Class 1st: ₹1,200, Class 2nd: ₹1,200, Class 3rd: ₹1,800, Class 4th: ₹1,800.",
             "Purpose: Purchase of Textbooks / Notebooks.",
             "Disbursement through the management of the Head of the Institutions where their children are studying."
         ],
         "eligibility": [
             "The applicant should be a regular industrial worker/employee of the Goa Labour Welfare Board.",
             "The applicant should have at least 6 months of continuous service.",
-            "The applicant should not be employed in supervisory or managerial roles earning \u20b91,600/- and above per month.",
-            "The applicant should have wages/salary not exceeding \u20b920,000/-.",
+            "The applicant should not be employed in supervisory or managerial roles earning ₹1,600/- and above per month.",
+            "The applicant should have wages/salary not exceeding ₹20,000/-.",
             "The applicant should have children studying in classes 1st to 4th in recognized/approved schools."
         ],
         "exclusions": [],
@@ -36,7 +36,7 @@
             },
             {
                 "question": "Are there any restrictions on the salary or wage level of the applicants?",
-                "answer": "Yes, applicants should not be employed in supervisory or managerial roles earning \u20b91,600/- and above per month. Their wages/salary should not exceed \u20b920,000/-."
+                "answer": "Yes, applicants should not be employed in supervisory or managerial roles earning ₹1,600/- and above per month. Their wages/salary should not exceed ₹20,000/-."
             },
             {
                 "question": "Do applicants need to have children enrolled in specific classes to qualify for assistance?",
@@ -88,5 +88,6 @@
             "Student",
             "Worker"
         ]
-    }
+    },
+    "id": "000720"
 }

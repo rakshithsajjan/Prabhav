@@ -33,7 +33,7 @@
             "Latest Electricity Bill Copy",
             "Face of Audited Balance Sheet, Profit and Loss A/cs, Schedule of Fixed Assets, and Schedule of Revenue from Operations (For the last 3 years, duly signed by the authorized person under his seal.)",
             "Statement showing the Results of Operation for the last 3 years duly signed by the Chartered Accountant by indicating UDIN.",
-            "Bankers\u2019 Report giving details of the financial status of the applicant firm as per Performa.",
+            "Bankers’ Report giving details of the financial status of the applicant firm as per Performa.",
             "Declaration signed by the applicant MSE Unit accepting conditions of registration.",
             "List of Directors & their Share Holding, Memorandum of Article, Board Resolution (In case of Private Limited/Public Limited)",
             "Partnership Deed, General Power of Attorney (In case of Partnership Concern)",
@@ -76,5 +76,6 @@
             "Small Enterprises",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001807"
 }

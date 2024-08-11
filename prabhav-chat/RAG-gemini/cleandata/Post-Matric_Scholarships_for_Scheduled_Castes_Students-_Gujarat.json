@@ -5,7 +5,7 @@
         "department": "Department of Social Justice & Empowerment",
         "type": "Scholarship",
         "beneficiary": "Scheduled Caste Students",
-        "details": "The \u201cPost-Matric Scholarships for Scheduled Castes Students\u201d scheme was launched by the Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment, Government of India. The scheme is implemented by the Director, Scheduled Caste Welfare in the state of Gujarat. The scheme is centrally sponsored scheme and there will be a 60:40 sharing ratio between the Centre and States. The objective of the scheme is to appreciably increase the Gross Enrolment Ratio of SC students in higher education with a focus on those from the poorest households, by providing financial assistance at post-matriculation or postsecondary stage to enable them to complete their education.",
+        "details": "The “Post-Matric Scholarships for Scheduled Castes Students” scheme was launched by the Department of Social Justice & Empowerment, Ministry of Social Justice & Empowerment, Government of India. The scheme is implemented by the Director, Scheduled Caste Welfare in the state of Gujarat. The scheme is centrally sponsored scheme and there will be a 60:40 sharing ratio between the Centre and States. The objective of the scheme is to appreciably increase the Gross Enrolment Ratio of SC students in higher education with a focus on those from the poorest households, by providing financial assistance at post-matriculation or postsecondary stage to enable them to complete their education.",
         "benefits": [
             "Academic allowance for hostellers and day scholars based on course category.",
             "10% extra allowances for Divyang students."
@@ -13,7 +13,7 @@
         "eligibility": [
             "The student should belong to the Scheduled Caste Category of Gujarat.",
             "Students who have passed the Matriculation or Higher Secondary or any higher examination of a recognized University or Board of Secondary Education.",
-            "Parents/guardians' income from all sources does not exceed \u20b92,50,000/- during the last Financial Year.",
+            "Parents/guardians' income from all sources does not exceed ₹2,50,000/- during the last Financial Year.",
             "Candidates studying in the same stage of education in a different subject are not eligible.",
             "Students pursuing studies through correspondence/online courses are eligible for non-refundable fees only.",
             "All children of any parent/guardian are entitled to receive the benefits of the scheme.",
@@ -63,11 +63,11 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Benefits include academic allowances ranging from \u20b92500/- to \u20b913500/- per annum, depending on the level of education and residential status."
+                "answer": "Benefits include academic allowances ranging from ₹2500/- to ₹13500/- per annum, depending on the level of education and residential status."
             },
             {
                 "question": "Who is eligible to apply for the scholarship?",
-                "answer": "Eligible applicants are students belonging to the Scheduled Caste category of Gujarat who have passed Matriculation or Higher Secondary exams and whose parents' income does not exceed \u20b92,50,000/- per annum."
+                "answer": "Eligible applicants are students belonging to the Scheduled Caste category of Gujarat who have passed Matriculation or Higher Secondary exams and whose parents' income does not exceed ₹2,50,000/- per annum."
             },
             {
                 "question": "Are students pursuing correspondence or online courses eligible?",
@@ -100,5 +100,6 @@
                 "url": "https://www.digitalgujarat.gov.in/"
             }
         ]
-    }
+    },
+    "id": "001459"
 }

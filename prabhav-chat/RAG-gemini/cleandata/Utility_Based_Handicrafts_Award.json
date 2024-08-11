@@ -5,9 +5,9 @@
         "department": "Handlooms, Handicrafts, Textiles, and Khadi Department",
         "type": "Award",
         "beneficiary": "Artisans",
-        "details": "The 'Utility Based Handicrafts Award' scheme was launched by the Handlooms, Handicrafts, Textiles, and Khadi Department, Government of Tamil Nadu. The scheme aims to encourage artisans to produce utility based handicrafts. This award will be given to 3 artisans. This award consists of a cash prize of \u20b940,000/-, a 4 gm gold medal, one thamirapattiram and a certificate. The applicant applies through poompucar sales and manufacturing plant managers.",
+        "details": "The 'Utility Based Handicrafts Award' scheme was launched by the Handlooms, Handicrafts, Textiles, and Khadi Department, Government of Tamil Nadu. The scheme aims to encourage artisans to produce utility based handicrafts. This award will be given to 3 artisans. This award consists of a cash prize of ₹40,000/-, a 4 gm gold medal, one thamirapattiram and a certificate. The applicant applies through poompucar sales and manufacturing plant managers.",
         "benefits": [
-            "Cash Prize of \u20b940,000/-",
+            "Cash Prize of ₹40,000/-",
             "4 gm gold medal",
             "One Thamirapattiram",
             "Certificate"
@@ -28,7 +28,7 @@
             "Front Page of Passbook",
             "Non-toxic and Non-polluting Material Certificate",
             "Photograph of the subject matter",
-            "Artisan's Affidavit on \u20b920/- Stamp Paper, attested by a First Class Criminal Judge or Notary Public",
+            "Artisan's Affidavit on ₹20/- Stamp Paper, attested by a First Class Criminal Judge or Notary Public",
             "Recommendation Certificate, attested by any of the Managers of Poombucar Outlets and Manufacturing Plants / the respective Area Assistant Directors (Handicrafts / Craft Council (Tamil Nadu/India/World) under the Office of the Development Commissioner, New Delhi"
         ],
         "faqs": [
@@ -114,5 +114,6 @@
             "Manufacturer",
             "Prize"
         ]
-    }
+    },
+    "id": "001996"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Building Worker",
         "details": "The scheme 'General Pension' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, a pension shall be given to a registered beneficiary working as a building worker for not less than one year after the commencement of the Rules on completion of sixty years of age. The pension will become payable from the first day of the succeeding to the month in which the worker completed 60 years of age.",
         "benefits": [
-            "A pension of \u20b92,000/- plus \u20b9100/- shall be given to a registered beneficiary for every completed year of service from the year of his/her registration.",
+            "A pension of ₹2,000/- plus ₹100/- shall be given to a registered beneficiary for every completed year of service from the year of his/her registration.",
             "The pension will become payable from the first day of the succeeding to the month in which the registered worker completed 60 years of age."
         ],
         "eligibility": [
@@ -37,11 +37,11 @@
             },
             {
                 "question": "What are the key benefits of the Scheme?",
-                "answer": "A pension of \u20b92,000/- plus \u20b9100/- will be given to a registered beneficiary for every completed year of service from the year of his/her registration."
+                "answer": "A pension of ₹2,000/- plus ₹100/- will be given to a registered beneficiary for every completed year of service from the year of his/her registration."
             },
             {
                 "question": "Is the pension amount fixed, or does it vary based on any factors?",
-                "answer": "The pension amount is fixed at \u20b92,000/- plus \u20b9100/- for every completed year of service from the year of registration. The total pension amount will depend on the number of years the individual has actively worked as a building worker."
+                "answer": "The pension amount is fixed at ₹2,000/- plus ₹100/- for every completed year of service from the year of registration. The total pension amount will depend on the number of years the individual has actively worked as a building worker."
             },
             {
                 "question": "Can non-residents of Assam apply for the Scheme?",
@@ -84,5 +84,6 @@
             "Labour",
             "Pension"
         ]
-    }
+    },
+    "id": "000673"
 }

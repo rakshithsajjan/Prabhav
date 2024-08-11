@@ -22,7 +22,7 @@
             "The applicant / entrepreneur group should have their own premises / rented building with lease agreement for at least four years."
         ],
         "exclusions": [],
-        "application_process": "Offline. Step 01: Identification of individual beneficiary i.e. village level young entrepreneur and community based beneficiaries i.e., PACS, SHGs, School, Agriculture University, etc., in a transparent and time-bound manner. Step 02: Identification of premises for establishment of VLSTL. Step 03: Verification of proof of procure land equipment / inputs. Step 04: SLEC will finalise the entrepreneur\u2019s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month. Step 05: State government will release financial assistance to entrepreneurs within a week after approval of application. Step 06: Entrepreneurs after receiving fund will submit receipts of procurement of lab equipment, consumables, etc. to DLEC within 15 days.",
+        "application_process": "Offline. Step 01: Identification of individual beneficiary i.e. village level young entrepreneur and community based beneficiaries i.e., PACS, SHGs, School, Agriculture University, etc., in a transparent and time-bound manner. Step 02: Identification of premises for establishment of VLSTL. Step 03: Verification of proof of procure land equipment / inputs. Step 04: SLEC will finalise the entrepreneur’s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month. Step 05: State government will release financial assistance to entrepreneurs within a week after approval of application. Step 06: Entrepreneurs after receiving fund will submit receipts of procurement of lab equipment, consumables, etc. to DLEC within 15 days.",
         "documents_required": [
             "Aadhaar number",
             "Land documents",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "How much time will the approval from SLEC take?",
-                "answer": "SLEC will finalise the entrepreneur\u2019s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month."
+                "answer": "SLEC will finalise the entrepreneur’s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month."
             },
             {
                 "question": "Post approval from SLEC, how much time will it take for release of funds?",
@@ -83,5 +83,6 @@
             "Soil Testing Lab",
             "Rural Entrepreneur"
         ]
-    }
+    },
+    "id": "001549"
 }

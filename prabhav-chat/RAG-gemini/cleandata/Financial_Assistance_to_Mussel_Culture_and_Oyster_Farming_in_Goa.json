@@ -7,8 +7,8 @@
         "beneficiary": "Fishermen",
         "details": "Financial Assistance to Mussel Culture and Oyster Farming in Goa is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for setting up units in estuarine waters, and in open sea. The applications are accepted only in offline mode.",
         "benefits": [
-            "50% subsidy limited to \u20b9 25,000 per unit, maximum for 2 units in estuarine waters.",
-            "50% subsidy limited to \u20b9 40,000 per unit, maximum for 2 units in open sea."
+            "50% subsidy limited to ₹ 25,000 per unit, maximum for 2 units in estuarine waters.",
+            "50% subsidy limited to ₹ 40,000 per unit, maximum for 2 units in open sea."
         ],
         "eligibility": [
             "The applicant should be a Fish Farmer/ Individual/ Registered Self Help Groups/ Societies/ Associations, interested in setting up the Mussel Culture/ Oyster Farming Unit in Goa.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "Can the subsidy be availed for units exceeding the specified sizes in estuarine waters and open sea?",
-                "answer": "No, the subsidy is limited to \u20b925,000 and \u20b940,000 per unit for specified sizes in estuarine waters and open sea, respectively."
+                "answer": "No, the subsidy is limited to ₹25,000 and ₹40,000 per unit for specified sizes in estuarine waters and open sea, respectively."
             },
             {
                 "question": "Are there any exceptions to the fifteen-year residency requirement for applicants?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "How many units can an applicant set up, and what are the subsidy limits?",
-                "answer": "Applicants can set up a maximum of 2 units, with a subsidy limit of \u20b925,000 per unit for estuarine waters and \u20b940,000 per unit for open sea."
+                "answer": "Applicants can set up a maximum of 2 units, with a subsidy limit of ₹25,000 per unit for estuarine waters and ₹40,000 per unit for open sea."
             },
             {
                 "question": "Is there a prescribed format for the application form, and where can it be obtained?",
@@ -104,5 +104,6 @@
             "Fishermen",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000596"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Senior resident Indian superannuated scientists",
         "details": "The National Science Chair: Scientific Excellence & Science Leadership scheme aims to recognize active eminent senior resident Indian superannuated scientists for their outstanding contributions in the areas of Science, Technology, Engineering, Mathematics (STEM), and Medicine, to promote excellence and growth in R&D. The scheme provides chairs/professorships instituted by various ministries/departments/academies with public funds.",
         "benefits": [
-            "An amount of \u20b91.5 lakhs per month will be given to the awardee as a fellowship.",
-            "The Research Grant will be \u20b925 lakhs per annum.",
-            "For overhead expenses, \u20b91.0 lakh per annum will be given to the host institution."
+            "An amount of ₹1.5 lakhs per month will be given to the awardee as a fellowship.",
+            "The Research Grant will be ₹25 lakhs per annum.",
+            "For overhead expenses, ₹1.0 lakh per annum will be given to the host institution."
         ],
         "eligibility": [
             "The nominee should be an active resident Indian scientist/academician, with an outstanding research track record in any one or more areas of STEM and medicine, particularly during the last five years.",
@@ -54,5 +54,6 @@
             "SERB",
             "Superannuated"
         ]
-    }
+    },
+    "id": "001330"
 }

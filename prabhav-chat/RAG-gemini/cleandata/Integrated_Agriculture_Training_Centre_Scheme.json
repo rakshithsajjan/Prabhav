@@ -2,10 +2,10 @@
     "content": {
         "title": "Integrated Agriculture Training Centre Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Training",
         "beneficiary": "Farmer",
-        "details": "The 'Integrated Agriculture Training Centre (IATC) Scheme' was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to provide training for enhancing the skills of farmers besides imparting updated agricultural technologies to departmental functionaries. Awareness Programmes/ trainings conducted periodically.",
+        "details": "The 'Integrated Agriculture Training Centre (IATC) Scheme' was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to provide training for enhancing the skills of farmers besides imparting updated agricultural technologies to departmental functionaries. Awareness Programmes/ trainings conducted periodically.",
         "benefits": [
             "Conduct trainings and awareness programmes."
         ],
@@ -28,7 +28,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -43,7 +43,7 @@
                 "answer": "The bonafide farmers can approach the nearest Agriculture Development Officer of a CD Block / Agriculture circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers shall be selected on a first come first served basis."
             },
             {
@@ -67,5 +67,6 @@
             "Training",
             "Training Centre"
         ]
-    }
+    },
+    "id": "000866"
 }

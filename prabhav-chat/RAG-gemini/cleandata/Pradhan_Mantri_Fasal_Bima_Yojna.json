@@ -22,7 +22,7 @@
         ],
         "exclusions": [
             "War & kindred perils, nuclear risks, riots, malicious damage, theft, act of enmity, grazed and/or destroyed by domestic and/or wild animals.",
-            "In case of Post\u2013Harvest losses the harvested crop bundled and heaped at a place before threshing.",
+            "In case of Post–Harvest losses the harvested crop bundled and heaped at a place before threshing.",
             "Other preventable risks."
         ],
         "application_process": "Online",
@@ -39,7 +39,7 @@
         "faqs": [
             {
                 "question": "I am not the owner of land, can I get crop insurance under this scheme?",
-                "answer": "Yes, if you are a tenant on someone else\u2019s farm, you are eligible to get your crop insured under this scheme."
+                "answer": "Yes, if you are a tenant on someone else’s farm, you are eligible to get your crop insured under this scheme."
             },
             {
                 "question": "How can I calculate my insurance premium in NCIP?",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "Am I eligible for a claim if only my land is affected by a calamity?",
-                "answer": "Yes, you need to inform through the crop insurance app or toll free number, insurance company, the bank or the concerned official within 72 hours of the incident, you\u2019ll be eligible for the loss assessment and claim."
+                "answer": "Yes, you need to inform through the crop insurance app or toll free number, insurance company, the bank or the concerned official within 72 hours of the incident, you’ll be eligible for the loss assessment and claim."
             },
             {
                 "question": "Which documents do I need to apply for the scheme?",
@@ -55,11 +55,11 @@
             },
             {
                 "question": "Can I apply for the scheme online myself?",
-                "answer": "Yes, create your farmer\u2019s login account in the NCIP https://pmfby.gov.in/ and select 'Farmer Corner' on the portal. There you can apply for the scheme after logging in."
+                "answer": "Yes, create your farmer’s login account in the NCIP https://pmfby.gov.in/ and select 'Farmer Corner' on the portal. There you can apply for the scheme after logging in."
             },
             {
                 "question": "How do I check the status of my application?",
-                "answer": "In the NCIP https://pmfby.gov.in/ select 'Application Status', fill in the receipt number as prompted and you\u2019ll be able to see the status of your application."
+                "answer": "In the NCIP https://pmfby.gov.in/ select 'Application Status', fill in the receipt number as prompted and you’ll be able to see the status of your application."
             },
             {
                 "question": "When should I report the crop loss?",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "How will I know if I have received the claim?",
-                "answer": "You\u2019ll be intimated by SMS about the benefit transfer on your registered mobile number."
+                "answer": "You’ll be intimated by SMS about the benefit transfer on your registered mobile number."
             }
         ],
         "sources": [
@@ -98,5 +98,6 @@
             "Kharif",
             "Rabi"
         ]
-    }
+    },
+    "id": "001483"
 }

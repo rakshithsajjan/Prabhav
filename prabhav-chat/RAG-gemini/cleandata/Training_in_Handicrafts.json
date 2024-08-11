@@ -7,8 +7,8 @@
         "beneficiary": "Rural poor",
         "details": "The 'Training in Handicrafts' Component of the 'Development Of Handicrafts' Scheme aims to create better employment opportunities and enhance the livelihood of the rural poor. The training adopts a Gurukulam model, emphasizing learning the craft within its environment.",
         "benefits": [
-            "Trainees will receive a stipend of \u20b91,500 per month.",
-            "Master craftspersons will be compensated with an honorarium of \u20b9300 per trainee (up to \u20b93,000 per month), and \u20b9150 per trainee per month for raw material wastage (up to \u20b91,500 per month).",
+            "Trainees will receive a stipend of ₹1,500 per month.",
+            "Master craftspersons will be compensated with an honorarium of ₹300 per trainee (up to ₹3,000 per month), and ₹150 per trainee per month for raw material wastage (up to ₹1,500 per month).",
             "The Training commences in December and is for a period of 6 months."
         ],
         "eligibility": [
@@ -40,11 +40,11 @@
             },
             {
                 "question": "What stipend will trainees receive during the 6-month training period?",
-                "answer": "Trainees will receive a stipend of \u20b91500 per month."
+                "answer": "Trainees will receive a stipend of ₹1500 per month."
             },
             {
                 "question": "How are master craftspersons compensated under the scheme?",
-                "answer": "Master craftspersons receive an honorarium of \u20b9300 per trainee (up to \u20b93000 per month) and \u20b9150 per trainee per month for raw material wastage (up to \u20b91500 per month)."
+                "answer": "Master craftspersons receive an honorarium of ₹300 per trainee (up to ₹3000 per month) and ₹150 per trainee per month for raw material wastage (up to ₹1500 per month)."
             },
             {
                 "question": "Can you list some of the crafts practiced under the scheme?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What is the compensation for raw material wastage for master craftspersons?",
-                "answer": "Master craftspersons receive \u20b9150 per trainee per month for raw material wastage (up to \u20b91500 per month)."
+                "answer": "Master craftspersons receive ₹150 per trainee per month for raw material wastage (up to ₹1500 per month)."
             }
         ],
         "sources": [
@@ -95,5 +95,6 @@
             "Employment",
             "Livelihood"
         ]
-    }
+    },
+    "id": "001968"
 }

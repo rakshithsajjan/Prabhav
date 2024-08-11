@@ -7,8 +7,8 @@
         "beneficiary": "Entrepreneurs (SC/ST/Women/Physically Handicapped/Ex-Servicemen)",
         "details": "The 'Interest Subsidy' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Industries and Commerce Department, Union Territory of Puducherry. The industrial units which have availed loans from financial institutions towards the creation of fixed assets and for working capital shall be eligible for an interest incentive to an extent of 25% of the annual interest amount paid. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "An interest incentive to an extent of 25% of the annual interest amount paid for five years for industries set up by SC/ST/Women entrepreneurs that commenced production on or after 2-8-2004, with a maximum of \u20b975,000/- per financial year.",
-            "25% interest subsidy subject to a maximum of \u20b95,00,000/- per annum for a period of 5 years for industries set up by SC/ST/Women/Physically Handicapped/Ex-Servicemen entrepreneurs that commenced production on or after 24-8-2011."
+            "An interest incentive to an extent of 25% of the annual interest amount paid for five years for industries set up by SC/ST/Women entrepreneurs that commenced production on or after 2-8-2004, with a maximum of ₹75,000/- per financial year.",
+            "25% interest subsidy subject to a maximum of ₹5,00,000/- per annum for a period of 5 years for industries set up by SC/ST/Women/Physically Handicapped/Ex-Servicemen entrepreneurs that commenced production on or after 24-8-2011."
         ],
         "eligibility": [
             "The industry should be set up by SC/ST/Women Entrepreneur OR The industry should be a 'Thrust Area Industry' or an 'IT Sector Industry'.",
@@ -65,7 +65,7 @@
             },
             {
                 "question": "What is the maximum annual subsidy amount for industries set up by SC/ST/Women/Physically Handicapped/Ex-Servicemen entrepreneurs?",
-                "answer": "The maximum annual subsidy amount for these industries is \u20b95,00,000/- per annum for a period of 5 years, subject to specific conditions outlined in the scheme."
+                "answer": "The maximum annual subsidy amount for these industries is ₹5,00,000/- per annum for a period of 5 years, subject to specific conditions outlined in the scheme."
             },
             {
                 "question": "Through what mode is the subsidy disbursed for self-financed units under the Interest Subsidy scheme?",
@@ -77,7 +77,7 @@
             },
             {
                 "question": "What is the maximum amount of interest incentive admissible to an industry under the Interest Subsidy scheme?",
-                "answer": "The maximum amount of interest incentive admissible to each industry is \u20b975,000/- in any financial year, as per the scheme guidelines."
+                "answer": "The maximum amount of interest incentive admissible to each industry is ₹75,000/- in any financial year, as per the scheme guidelines."
             },
             {
                 "question": "Where can applicants find the prescribed form for applying for the Interest Subsidy scheme?",
@@ -106,5 +106,6 @@
                 "url": "https://industry.py.gov.in/state-helpline"
             }
         ]
-    }
+    },
+    "id": "000882"
 }

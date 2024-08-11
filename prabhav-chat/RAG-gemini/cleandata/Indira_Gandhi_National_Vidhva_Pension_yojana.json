@@ -7,8 +7,8 @@
         "beneficiary": "Widows",
         "details": "The scheme 'Indira Gandhi National Vidhva Pension Yojana (IGNWPS)' started on 7-10-2009 under the Social Justice and Empowerment Department, Government of Rajasthan. Under this scheme, financial support is provided to the widows of the state of Rajasthan. A widow whose household is below the poverty line is eligible to get the benefits of the pension scheme. The beneficiary receives a monthly pension amount consisting of the Central and State governments' share.",
         "benefits": [
-            "Women who are more than 40 to less than 75 years old monthly pension of \u20b9 1000/-",
-            "Women who are more than 75 years old monthly pension of \u20b9 1500/-"
+            "Women who are more than 40 to less than 75 years old monthly pension of ₹ 1000/-",
+            "Women who are more than 75 years old monthly pension of ₹ 1500/-"
         ],
         "eligibility": [
             "The applicant should have a domicile in the state of Rajasthan.",
@@ -84,5 +84,6 @@
             "Widow",
             "Women"
         ]
-    }
+    },
+    "id": "000838"
 }

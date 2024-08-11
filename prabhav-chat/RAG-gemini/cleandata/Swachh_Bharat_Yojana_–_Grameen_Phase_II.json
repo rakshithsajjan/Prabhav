@@ -1,6 +1,6 @@
 {
     "content": {
-        "title": "Swachh Bharat Yojana \u2013 Grameen Phase II",
+        "title": "Swachh Bharat Yojana – Grameen Phase II",
         "state": "Grameen",
         "department": "Ministry Of Jal Shakti",
         "type": "Sanitation",
@@ -58,5 +58,6 @@
             "Rural",
             "Toilet"
         ]
-    }
+    },
+    "id": "001902"
 }

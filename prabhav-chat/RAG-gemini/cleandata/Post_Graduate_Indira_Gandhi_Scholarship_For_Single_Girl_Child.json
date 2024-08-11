@@ -5,9 +5,9 @@
         "department": "Ministry of Education",
         "type": "Scholarship",
         "beneficiary": "Single Girl Child",
-        "details": "A scholarship scheme by the University Grants Commission for Girl students who are admitted in the first year of PG courses in any designated university or a postgraduate college, and happen to be the only girl child in the family. The amount of fellowship is \u20b9 36,200/- p.a. for the full duration of a PG course. The scheme has been introduced with an aim to compensate direct costs of girl education at all levels, especially for such girls who happen to be the only girl child in their families.",
+        "details": "A scholarship scheme by the University Grants Commission for Girl students who are admitted in the first year of PG courses in any designated university or a postgraduate college, and happen to be the only girl child in the family. The amount of fellowship is ₹ 36,200/- p.a. for the full duration of a PG course. The scheme has been introduced with an aim to compensate direct costs of girl education at all levels, especially for such girls who happen to be the only girl child in their families.",
         "benefits": [
-            "Amount of fellowship: \u20b936,200/- per annum for a period of two years only i.e. full duration of a PG course.",
+            "Amount of fellowship: ₹36,200/- per annum for a period of two years only i.e. full duration of a PG course.",
             "3,000 fresh scholarships will be awarded every year and will be paid on DBT mode on annual basis."
         ],
         "eligibility": [
@@ -27,7 +27,7 @@
         "application_process": "The candidates fulfilling the eligibility conditions are required to apply online on the National Scholarship Portal after initiation of the application process and notice to be published on the UGC website.",
         "documents_required": [
             "Aadhaar Card",
-            "Proof of admission into a recognized Master\u2019s degree course in an institute located in India and recognized by the UGC.",
+            "Proof of admission into a recognized Master’s degree course in an institute located in India and recognized by the UGC.",
             "Joining report (as per format given in Annexure-I)",
             "Affidavit regarding Single girl child status (as per format given in Annexure-II)",
             "Copy of the Bank Passbook",
@@ -79,5 +79,6 @@
             "Girl Child",
             "Post Graduation"
         ]
-    }
+    },
+    "id": "001463"
 }

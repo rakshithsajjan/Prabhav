@@ -5,9 +5,9 @@
         "department": "Ministry Of Youth Affairs & Sports",
         "type": "Award",
         "beneficiary": "Individuals in the field of Adventure",
-        "details": "The Ministry of Youth Affairs and Sports, Government of India confers the National Adventure Award called \u201cTenzing Norgay National Adventure Award\u201d (TNNAA) in order to recognize the achievements of persons associated in the field of adventure and to encourage young people to develop the spirit of endurance, risk-taking, cooperative teamwork and quick, ready and effective reflexes in challenging situations. The award consists of a bronze statuette, a certificate, a blazer with a silken tie/a saree, and award money of \u20b9 15,00,000. The Awards are presented to the winners along with Arjuna Awards by the Government of India.",
+        "details": "The Ministry of Youth Affairs and Sports, Government of India confers the National Adventure Award called “Tenzing Norgay National Adventure Award” (TNNAA) in order to recognize the achievements of persons associated in the field of adventure and to encourage young people to develop the spirit of endurance, risk-taking, cooperative teamwork and quick, ready and effective reflexes in challenging situations. The award consists of a bronze statuette, a certificate, a blazer with a silken tie/a saree, and award money of ₹ 15,00,000. The Awards are presented to the winners along with Arjuna Awards by the Government of India.",
         "benefits": [
-            "The award consists of a bronze statuette, a certificate, a blazer with a silken tie/a saree, and award money of \u20b9 15,00,000.",
+            "The award consists of a bronze statuette, a certificate, a blazer with a silken tie/a saree, and award money of ₹ 15,00,000.",
             "The Status of the Award will be the same as the Arjuna Awards conferred in the field of Sports by the Ministry of Youth Affairs and Sports.",
             "The Awards will be presented to the winners along with Arjuna Awards by the Government of India.",
             "The Awardees will be reimbursed to and fro airfare (economy class) and such other fare of conveyance as relevant in the journey through the shortest route from his/her place of stay to the place of the award ceremony and back subject to production of the original boarding passes/ Tickets etc. along with duly filled in proforma. Awardees would be given reimbursement for AC 1-tier rail journey if opted.",
@@ -66,5 +66,6 @@
             "Sports",
             "Youth"
         ]
-    }
+    },
+    "id": "001935"
 }

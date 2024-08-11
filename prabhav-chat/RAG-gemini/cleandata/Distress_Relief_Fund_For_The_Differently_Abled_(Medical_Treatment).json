@@ -7,12 +7,12 @@
         "beneficiary": "Differently Abled Persons",
         "details": "The scheme 'Distress Relief Fund for the Differently Abled (Medical Treatment)' was launched by the Department of Social Justice, Government of Kerala. As per G.O.(MS) 4/95 SWD dated 24-01-1995, the Government of Kerala sanctioned the Distress Relief Fund for disabled persons. An amount of Rupees One crore has been deposited in Treasury as a corpus fund. The interest accrued from the fund is being utilized for giving financial assistance to disabled persons for the following purposes: 1. For medical treatment, including surgery. 2. To persons who become handicapped due to accidents. 3. For any other purpose which is not covered by the existing schemes for the handicapped.",
         "benefits": [
-            "Financial assistance of \u20b95,000/- per person in a year for medical treatment, including surgery."
+            "Financial assistance of ₹5,000/- per person in a year for medical treatment, including surgery."
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
             "The disabled person or who has become handicapped due to an accident is eligible to apply under the scheme for their medical treatment, including surgery.",
-            "Those differently-abled persons whose annual income does not exceed (\u20b920,000/- in Rural areas and \u20b922,375/- in Urban areas) shall be eligible for financial assistance.",
+            "Those differently-abled persons whose annual income does not exceed (₹20,000/- in Rural areas and ₹22,375/- in Urban areas) shall be eligible for financial assistance.",
             "Physically handicapped persons shall include the following disabilities/categories: a. Blind b. Deaf and Dumb c. Orthopedically Handicapped d. Mentally Challenged e. Persons in the Below Poverty Line (BPL) category having 40 % disability or more."
         ],
         "exclusions": [],
@@ -46,11 +46,11 @@
             },
             {
                 "question": "Is there any criterion for annual family income?",
-                "answer": "Yes, the annual income of the applicant should not exceed (\u20b920,000/- in Rural areas and \u20b922,375/- in Urban areas)."
+                "answer": "Yes, the annual income of the applicant should not exceed (₹20,000/- in Rural areas and ₹22,375/- in Urban areas)."
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the maximum amount of financial assistance per person a year has been fixed at \u20b95,000/- for medical treatment, including surgery."
+                "answer": "Under the scheme, the maximum amount of financial assistance per person a year has been fixed at ₹5,000/- for medical treatment, including surgery."
             },
             {
                 "question": "For what purpose will financial assistance be given to disabled persons?",
@@ -96,5 +96,6 @@
             "Medical Treatment",
             "PwD"
         ]
-    }
+    },
+    "id": "000411"
 }

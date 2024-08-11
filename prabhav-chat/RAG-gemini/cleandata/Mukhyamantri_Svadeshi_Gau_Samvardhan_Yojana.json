@@ -7,7 +7,7 @@
         "beneficiary": "Farmers",
         "details": "The 'Mukhyamantri Svadeshi Gau Samvardhan Yojana' under the 'Nand Baba Milk Mission' aims to enhance milk productivity and per capita milk availability in Uttar Pradesh by encouraging the purchase of indigenous improved breed cows from outside the state. The scheme seeks to increase the number of indigenous improved breed cows, improve their breeds, and provide employment opportunities in rural areas through animal husbandry. This scheme will be implemented in all the districts of the state.",
         "benefits": [
-            "Grants covering up to 40% of the total cost per unit (maximum \u20b980,000), which includes purchasing cows, transportation, insurance, fodder cutting machine, and shed construction."
+            "Grants covering up to 40% of the total cost per unit (maximum ₹80,000), which includes purchasing cows, transportation, insurance, fodder cutting machine, and shed construction."
         ],
         "eligibility": [
             "The applicant should be a resident of Uttar Pradesh.",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the maximum grant available per unit?",
-                "answer": "The permissible grant per unit is 40% of the total cost, up to a maximum of \u20b980,000."
+                "answer": "The permissible grant per unit is 40% of the total cost, up to a maximum of ₹80,000."
             },
             {
                 "question": "What is the selection process for beneficiaries?",
@@ -92,7 +92,7 @@
             },
             {
                 "question": "Where will the advertisement for the scheme be published?",
-                "answer": "Advertisements will be published state-wide, available on the departmental portal and the mission\u2019s portal, and displayed on notice boards of relevant offices."
+                "answer": "Advertisements will be published state-wide, available on the departmental portal and the mission’s portal, and displayed on notice boards of relevant offices."
             },
             {
                 "question": "How will the selection be verified?",
@@ -120,5 +120,6 @@
             "Milk Mission",
             "Production"
         ]
-    }
+    },
+    "id": "001236"
 }

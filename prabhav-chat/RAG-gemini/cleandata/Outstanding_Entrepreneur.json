@@ -5,9 +5,9 @@
         "department": "Industries and Commerce Department",
         "type": "Award",
         "beneficiary": "Entrepreneurs/Enterprises",
-        "details": "'Outstanding Entrepreneur' under \u201cMotivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises\u201d is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme is formulated under the New Industrial Policy 2016, introduced on 4th October 2016. The 'State Award' Schemes are formulated to provide awards for the best outstanding Entrepreneurs/Enterprises conforming to the New Industrial Policy 2016. The scheme is in operation in the whole of the UT of Puducherry. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Outstanding Entrepreneur' under “Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises” is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme is formulated under the New Industrial Policy 2016, introduced on 4th October 2016. The 'State Award' Schemes are formulated to provide awards for the best outstanding Entrepreneurs/Enterprises conforming to the New Industrial Policy 2016. The scheme is in operation in the whole of the UT of Puducherry. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Cash Award of \u20b92,00,000/-",
+            "Cash Award of ₹2,00,000/-",
             "Citation"
         ],
         "eligibility": [
@@ -30,7 +30,7 @@
             },
             {
                 "question": "What are the financial benefits provided under this scheme?",
-                "answer": "Recipients of the awards are granted a cash award of \u20b92,00,000/- along with a citation."
+                "answer": "Recipients of the awards are granted a cash award of ₹2,00,000/- along with a citation."
             },
             {
                 "question": "Who constitutes the Committee responsible for granting these awards?",
@@ -80,5 +80,6 @@
             "Entrepreneurship",
             "Awards"
         ]
-    }
+    },
+    "id": "001397"
 }

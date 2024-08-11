@@ -7,9 +7,9 @@
         "beneficiary": "Children of those engaged in occupations involving cleaning and prone to health hazards",
         "details": "Launched in the year 1977-78, the scheme aims to provide financial assistance to children whose parents/guardians belong to categories such as Tanners, Flayers, Waste Pickers, and Persons engaged in Manual Scavenging.",
         "benefits": [
-            "Day Scholars: \u20b9 110/- per month for ten months.",
-            "Hostellers: \u20b9 700/- per month for ten months.",
-            "Ad-Hoc Grant: \u20b9 750/- per student per annum for day scholars and \u20b9 1000/- per student per annum for hostellers.",
+            "Day Scholars: ₹ 110/- per month for ten months.",
+            "Hostellers: ₹ 700/- per month for ten months.",
+            "Ad-Hoc Grant: ₹ 750/- per student per annum for day scholars and ₹ 1000/- per student per annum for hostellers.",
             "Additional provisions for students with disabilities including reader allowance, transport allowance, special pay, escort allowance, and extra coaching allowance."
         ],
         "eligibility": [
@@ -69,5 +69,6 @@
             "Social Justice",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001515"
 }

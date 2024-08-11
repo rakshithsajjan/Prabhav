@@ -5,9 +5,9 @@
         "department": "Directorate of Youth Affairs & Sports, Government of Tripura",
         "type": "Employment",
         "beneficiary": "Retired sportspersons",
-        "details": "Launched on 9th February 2024, the 'Mukhyamantri Sports Development Scheme-Retired Person' aims to generate employment opportunities (Gymnastics, Swimming) for retired persons (Senior Physical Instructors) to give a monthly fixed remuneration of \u20b930,000/-. The contract is tenable for a maximum period of 6 months, it may be extended or curtailed (The total period of engagement of consultants shall not exceed 5 years or 64 years of age whichever is earlier).",
+        "details": "Launched on 9th February 2024, the 'Mukhyamantri Sports Development Scheme-Retired Person' aims to generate employment opportunities (Gymnastics, Swimming) for retired persons (Senior Physical Instructors) to give a monthly fixed remuneration of ₹30,000/-. The contract is tenable for a maximum period of 6 months, it may be extended or curtailed (The total period of engagement of consultants shall not exceed 5 years or 64 years of age whichever is earlier).",
         "benefits": [
-            "Fixed remuneration of \u20b930,000/- per month."
+            "Fixed remuneration of ₹30,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What is the monthly remuneration for retired sportspersons under the Mukhyamantri Sports Development Scheme-Retired Person?",
-                "answer": "The monthly remuneration for retired sportspersons under the Mukhyamantri Sports Development Scheme-Retired Person is \u20b930,000."
+                "answer": "The monthly remuneration for retired sportspersons under the Mukhyamantri Sports Development Scheme-Retired Person is ₹30,000."
             },
             {
                 "question": "Who is eligible to apply for the Gymnastic and Swimming discipline under the scheme?",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "How does the remuneration differ between the Gymnastics and Swimming disciplines?",
-                "answer": "The remuneration is the same for both Gymnastics and Swimming disciplines, at \u20b930,000 per month."
+                "answer": "The remuneration is the same for both Gymnastics and Swimming disciplines, at ₹30,000 per month."
             },
             {
                 "question": "How many positions are available for the Swimming discipline under the scheme?",
@@ -78,5 +78,6 @@
             "Sports",
             "Retired Persons"
         ]
-    }
+    },
+    "id": "001234"
 }

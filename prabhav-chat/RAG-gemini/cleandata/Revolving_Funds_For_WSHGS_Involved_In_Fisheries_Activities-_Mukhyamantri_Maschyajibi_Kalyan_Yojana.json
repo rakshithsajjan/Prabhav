@@ -5,9 +5,9 @@
         "department": "Fisheries & Animal Resources Development Department",
         "type": "Financial Assistance",
         "beneficiary": "Women Self Help Groups (WSHG)",
-        "details": "The 'Revolving Funds For WSHGS Involved In Fisheries Activities' Component of the 'Mukhyamantri Maschyajibi Kalyan Yojana' was launched by the Fisheries & Animal Resources Development Department, Government of Odisha to support the WSHG (Women Self Help Groups) through the provision of a revolving fund to meet the higher demand of fisheries-related activities. To encourage their business, the scheme provides funds of \u20b910,000/- to carry out their activities.",
+        "details": "The 'Revolving Funds For WSHGS Involved In Fisheries Activities' Component of the 'Mukhyamantri Maschyajibi Kalyan Yojana' was launched by the Fisheries & Animal Resources Development Department, Government of Odisha to support the WSHG (Women Self Help Groups) through the provision of a revolving fund to meet the higher demand of fisheries-related activities. To encourage their business, the scheme provides funds of ₹10,000/- to carry out their activities.",
         "benefits": [
-            "A one-time assistance of \u20b910,000/- per WSHG."
+            "A one-time assistance of ₹10,000/- per WSHG."
         ],
         "eligibility": [
             "The applicant should be a WSHG.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "How is the revolving fund released to eligible WSHGs, and what is the disbursement timeline?",
-                "answer": "After verification, the District Fisheries Officer releases \u20b910,000 to the WSHGs through DBT/NEFT/RTGS within 15 days of receiving the necessary documents."
+                "answer": "After verification, the District Fisheries Officer releases ₹10,000 to the WSHGs through DBT/NEFT/RTGS within 15 days of receiving the necessary documents."
             },
             {
                 "question": "Can WSHGs previously benefiting from 'Input Assistance for Pisciculture in GP tanks' apply for the revolving fund?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the pattern of assistance provided to eligible WSHGs?",
-                "answer": "Each eligible WSHG receives a one-time Revolving Fund of \u20b910,000."
+                "answer": "Each eligible WSHG receives a one-time Revolving Fund of ₹10,000."
             },
             {
                 "question": "How is the authenticity of WSHGs and their fisheries activities ensured during the application process?",
@@ -85,5 +85,6 @@
             "Financial Assistance",
             "Women Self Help Groups"
         ]
-    }
+    },
+    "id": "001604"
 }

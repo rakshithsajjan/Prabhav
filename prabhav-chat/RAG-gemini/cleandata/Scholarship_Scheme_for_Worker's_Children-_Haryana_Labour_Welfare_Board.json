@@ -7,19 +7,19 @@
         "beneficiary": "Children of workers employed in industrial and commercial institutions",
         "details": "The scheme 'Scholarship Scheme for Worker's Children' is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. The objective of this scheme is to provide financial assistance to children of workers and workers employed in industrial and commercial institutions of Haryana state to continue their studies. The amount of scholarship is given to workers and children of workers (3 girls and 2 boys) on passing the examination and continuing their studies in the next grade.",
         "benefits": [
-            "\u20b910,000/- for 9th to 10th Class",
-            "\u20b910,000/- for ITI Diploma",
-            "\u20b912,000/- for 11th to 12th Class",
-            "\u20b915,000/- for All Types of Bachelor's Degrees",
-            "\u20b915,000/- for Polytechnic Diploma, C.A.D. Pharmacy, A.N.M., G.N.M. and Other Undergraduate Diploma Courses",
-            "\u20b920,000/- for All types of Engineering Degrees, B. Pharmacy",
-            "\u20b920,000/- for All Types of Post Graduate Degrees Diplomas/B.Sc Nursing",
+            "₹10,000/- for 9th to 10th Class",
+            "₹10,000/- for ITI Diploma",
+            "₹12,000/- for 11th to 12th Class",
+            "₹15,000/- for All Types of Bachelor's Degrees",
+            "₹15,000/- for Polytechnic Diploma, C.A.D. Pharmacy, A.N.M., G.N.M. and Other Undergraduate Diploma Courses",
+            "₹20,000/- for All types of Engineering Degrees, B. Pharmacy",
+            "₹20,000/- for All Types of Post Graduate Degrees Diplomas/B.Sc Nursing",
             "Amount for All Types of Medical Degrees (MBBS, BDS, BAMS, etc.)"
         ],
         "eligibility": [
             "The applicant should be employed in an industrial or commercial establishment in Haryana.",
             "The worker should be registered with the Haryana Labour Welfare Board.",
-            "The monthly salary of the worker should not exceed \u20b925,000/-.",
+            "The monthly salary of the worker should not exceed ₹25,000/-.",
             "The service period of the worker is fixed for one year.",
             "The worker or the worker's children studying in 9th grade or above are eligible for the scheme's benefits.",
             "The scheme benefits are available to three girls and two boys per worker."
@@ -55,11 +55,11 @@
             },
             {
                 "question": "What are the scholarship amounts provided under this scheme?",
-                "answer": "Scholarships ranging from \u20b910,000 to \u20b921,000 are provided for different classes."
+                "answer": "Scholarships ranging from ₹10,000 to ₹21,000 are provided for different classes."
             },
             {
                 "question": "Who is eligible to apply for this scholarship?",
-                "answer": "Workers employed in industrial or commercial establishments in Haryana, registered with the HLWB, earning a monthly salary of up to \u20b925,000, with a service period of one year are eligible to apply under the scheme."
+                "answer": "Workers employed in industrial or commercial establishments in Haryana, registered with the HLWB, earning a monthly salary of up to ₹25,000, with a service period of one year are eligible to apply under the scheme."
             },
             {
                 "question": "How many children per worker can benefit from this scheme?",
@@ -118,5 +118,6 @@
             "Student",
             "Worker"
         ]
-    }
+    },
+    "id": "001751"
 }

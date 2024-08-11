@@ -7,15 +7,15 @@
         "beneficiary": "Scheduled Caste individuals",
         "details": "'Laghu Vyavassay Scheme' is an economic empowerment scheme by the Haryana Scheduled Castes Finance and Development Corporation, Government of Haryana. Through this scheme, loans are provided to individuals from Scheduled Castes for the betterment of their economic status through self-employment/ income-generating activities. The applicant should be in the age group of 18 and 45 years, and should be a permanent resident of Haryana.",
         "benefits": [
-            "Loan for various economic development schemes having unit cost up to \u20b92,00,000/-",
+            "Loan for various economic development schemes having unit cost up to ₹2,00,000/-",
             "Margin Money at 10% of the project cost",
-            "Subsidy at 50% of the total project cost, subject to a maximum of \u20b910,000/-"
+            "Subsidy at 50% of the total project cost, subject to a maximum of ₹10,000/-"
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana",
             "The applicant should be from a Scheduled Caste",
             "The applicant should be in the age group of 18 to 45 years",
-            "The income ceiling is at least 50% of the beneficiaries having annual family income up to \u20b91,50,000/- and balance 50% of the beneficiaries having annual family income up to \u20b93,00,000/-"
+            "The income ceiling is at least 50% of the beneficiaries having annual family income up to ₹1,50,000/- and balance 50% of the beneficiaries having annual family income up to ₹3,00,000/-"
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "Is there any application fee applicable?",
-                "answer": "No, however \u20b910/- may be applicable as service charges."
+                "answer": "No, however ₹10/- may be applicable as service charges."
             },
             {
                 "question": "How to track the applications?",
@@ -66,8 +66,8 @@
                 "answer": "Yes, all the intermediary payment steps can be made through the portal itself and acknowledge slip will be generated."
             },
             {
-                "question": "What type of assistance shall be provided by The Corporation in collaboration with NSFDC for a single unit cost upto \u20b92,00,000/-?",
-                "answer": "The Corporation in collaboration with NSFDC can provide loan for various economic development schemes having unit cost upto \u20b92,00,000/-."
+                "question": "What type of assistance shall be provided by The Corporation in collaboration with NSFDC for a single unit cost upto ₹2,00,000/-?",
+                "answer": "The Corporation in collaboration with NSFDC can provide loan for various economic development schemes having unit cost upto ₹2,00,000/-."
             },
             {
                 "question": "What percentage of the project cost does the Corporation provide as margin money?",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "How much subsidy does the HSFDC corporation provide, and what is the maximum amount of subsidy one can receive for a project?",
-                "answer": "The corporation (HSFDC) provides subsidy at 50% and maximum amount of subsidy is \u20b910,000/- of the total project cost."
+                "answer": "The corporation (HSFDC) provides subsidy at 50% and maximum amount of subsidy is ₹10,000/- of the total project cost."
             }
         ],
         "sources": [
@@ -91,5 +91,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001012"
 }

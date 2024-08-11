@@ -7,10 +7,10 @@
         "beneficiary": "Meritorious children of construction workers",
         "details": "The scheme 'Incentives for Meritorious Children (Students) of Workers (10th and 12th Class)' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a scholarship (prize money) in the form of a fixed deposit will be provided to meritorious children of construction workers who have achieved academic excellence in the Class X/XII examination. Registered workers with a one-year regular membership are eligible to apply for benefits for up to three of their children.",
         "benefits": [
-            "\u20b951,000/- for 90% and above",
-            "\u20b941,000/- for 80% and above",
-            "\u20b931,000/- for 70% and above",
-            "\u20b921,000/- for 60% and above"
+            "₹51,000/- for 90% and above",
+            "₹41,000/- for 80% and above",
+            "₹31,000/- for 70% and above",
+            "₹21,000/- for 60% and above"
         ],
         "eligibility": [
             "The applicant should be engaged in building or construction work.",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What are the benefits offered under this scheme?",
-                "answer": "Scholarships/prize money are provided as follows: 1. 90% and above: \u20b951,000/- 2. 80% and above: \u20b941,000/- 3. 70% and above: \u20b931,000/- 4. 60% and above: \u20b921,000/-"
+                "answer": "Scholarships/prize money are provided as follows: 1. 90% and above: ₹51,000/- 2. 80% and above: ₹41,000/- 3. 70% and above: ₹31,000/- 4. 60% and above: ₹21,000/-"
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -102,5 +102,6 @@
             "Construction Workers",
             "Meritorious Students"
         ]
-    }
+    },
+    "id": "000826"
 }

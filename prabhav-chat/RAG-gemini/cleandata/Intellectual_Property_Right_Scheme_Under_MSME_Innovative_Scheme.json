@@ -7,7 +7,7 @@
         "beneficiary": "Micro, Small and Medium Enterprises (MSMEs)",
         "details": "Launched by the Ministry of Micro, Small & Medium Enterprises, the Intellectual Property Right Scheme offers legal and intellectual property filing support including patents, trademarks, copyrights, designs, geographical indications (GI) etc. The programme also provides IP advisory, consultation, Patentability Searches, Technology Gap Analyses and IP commercialisation through the establishment of Intellectual Property Facilitation Centres (IPFCs) across the country.",
         "benefits": [
-            "A Grant of up to \u20b9 1,00,00,000/- would be provided to an IPFC in milestone-based (three or more) instalments.",
+            "A Grant of up to ₹ 1,00,00,000/- would be provided to an IPFC in milestone-based (three or more) instalments.",
             "Reimbursement for registration of Patent, Trademark, Geographical Indications (G.I.), and Design."
         ],
         "eligibility": [
@@ -87,5 +87,6 @@
             "Grant",
             "Legal Support"
         ]
-    }
+    },
+    "id": "000877"
 }

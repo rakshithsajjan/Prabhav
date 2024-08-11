@@ -2,10 +2,10 @@
     "content": {
         "title": "Vegetable Development Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmer",
-        "details": "The scheme \u201cVegetable Development Scheme\u201d was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to promote vegetable production through HYV seeds/Hybrids/Improved/Open Pollinated seedlings, including assistance to farmers.",
+        "details": "The scheme “Vegetable Development Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to promote vegetable production through HYV seeds/Hybrids/Improved/Open Pollinated seedlings, including assistance to farmers.",
         "benefits": [
             "Supply of seeds/seedlings and garden tools at 50% sales subsidy.",
             "Demonstration on improved methods of vegetable cultivation at the rate 2,600 per farmer is provisioned.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department Of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya has launched this scheme."
+                "answer": "Department Of Agriculture & Farmers’ Welfare, Government of Meghalaya has launched this scheme."
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -52,7 +52,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The beneficiaries will be selected on a first come first served basis."
             },
             {
@@ -76,5 +76,6 @@
             "Poly House",
             "Agriculture"
         ]
-    }
+    },
+    "id": "002007"
 }

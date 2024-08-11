@@ -1,21 +1,21 @@
 {
     "content": {
-        "title": "West Bengal Migrant Workers\u2019 Welfare Scheme: Accidental Disability",
+        "title": "West Bengal Migrant Workers’ Welfare Scheme: Accidental Disability",
         "state": "West Bengal",
         "department": "Labour Department, Government of West Bengal",
         "type": "Social Welfare Scheme",
         "beneficiary": "Registered Migrant Workers",
-        "details": "Launched on 25th April 2023, 'West Bengal Migrant Workers\u2019 Welfare Scheme: Accidental Disability' is a social welfare scheme by the West Bengal Migrant Workers\u2019 Welfare Board. Under this scheme, one-time assistance is provided to the registered Migrant Worker in case of disability arising out of accidents during work.",
+        "details": "Launched on 25th April 2023, 'West Bengal Migrant Workers’ Welfare Scheme: Accidental Disability' is a social welfare scheme by the West Bengal Migrant Workers’ Welfare Board. Under this scheme, one-time assistance is provided to the registered Migrant Worker in case of disability arising out of accidents during work.",
         "benefits": [
-            "\u20b9 50,000/- in case of 40% to 80% disability.",
-            "\u20b9 1,00,000/- in case of more than 80% disability."
+            "₹ 50,000/- in case of 40% to 80% disability.",
+            "₹ 1,00,000/- in case of more than 80% disability."
         ],
         "eligibility": [
             "The applicant must be a resident of West Bengal.",
-            "The applicant\u2019s age should be between 18 and 60 years.",
+            "The applicant’s age should be between 18 and 60 years.",
             "The applicant must be ordinarily a worker who is employed/likely to be employed in any State/Union Territories other than the state of West Bengal/Outside India.",
             "The applicant should be a migrant worker.",
-            "The applicant should be registered with the West Bengal Migrant Workers\u2019 Welfare Board.",
+            "The applicant should be registered with the West Bengal Migrant Workers’ Welfare Board.",
             "The migrant worker should have a disability of 40%.",
             "The disability should have been caused due to an accident during work.",
             "The disability should be certified by a Government Hospital."
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "'West Bengal Migrant Workers\u2019 Welfare Scheme: Accidental Disability' provides one-time assistance to the registered migrant worker in case of disability arising out of accidents during work."
+                "answer": "'West Bengal Migrant Workers’ Welfare Scheme: Accidental Disability' provides one-time assistance to the registered migrant worker in case of disability arising out of accidents during work."
             },
             {
                 "question": "When was this scheme launched?",
@@ -63,7 +63,7 @@
             },
             {
                 "question": "What kind of assistance can be availed through this scheme?",
-                "answer": "Under this scheme, \u20b9 50,000/- in case of 40% to 80% disability and \u20b9 1,00,000/- in case of more than 80% disability is provided."
+                "answer": "Under this scheme, ₹ 50,000/- in case of 40% to 80% disability and ₹ 1,00,000/- in case of more than 80% disability is provided."
             },
             {
                 "question": "How can the benefits be availed?",
@@ -101,5 +101,6 @@
             "Social Welfare",
             "Worker"
         ]
-    }
+    },
+    "id": "002039"
 }

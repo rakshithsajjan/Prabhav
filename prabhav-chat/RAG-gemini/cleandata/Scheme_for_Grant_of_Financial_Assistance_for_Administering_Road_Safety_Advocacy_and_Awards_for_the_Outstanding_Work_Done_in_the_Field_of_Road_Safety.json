@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the amount of prize money?",
-                "answer": "1st prize: \u20b95 Lakhs + Certificate, 2nd prize: \u20b92 Lakhs + Certificate, 3rd prize: \u20b91 Lakh + Certificate."
+                "answer": "1st prize: ₹5 Lakhs + Certificate, 2nd prize: ₹2 Lakhs + Certificate, 3rd prize: ₹1 Lakh + Certificate."
             },
             {
                 "question": "How to apply under the scheme?",
@@ -86,5 +86,6 @@
             "NGO",
             "Awards"
         ]
-    }
+    },
+    "id": "001692"
 }

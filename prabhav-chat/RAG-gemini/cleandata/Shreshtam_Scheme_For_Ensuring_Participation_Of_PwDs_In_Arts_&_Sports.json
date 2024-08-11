@@ -7,14 +7,14 @@
         "beneficiary": "Persons with Disabilities (PwDs)",
         "details": "The scheme 'Shreshtam Scheme for Ensuring Participation of PwDs in Arts & Sports' was launched by the Department of Social Justice, Government of Kerala. The Government of Kerala has started the scheme to ensure equal opportunities for PwDs in sports and recreation activities equally along with others without discrimination. Under the scheme, support will be provided to persons with disabilities who have showcased special talent and expertise in arts and sporting activities. The objective of the scheme is to ensure access, inclusion, and effective participation of persons with disabilities in the field of arts and sports. This scheme will enable such promising talents to undergo specialized training in State/National Academies/Centres which will help them to increase their potential and competence level. This scheme will encourage and mainstream Persons with Disabilities to accomplish great achievements and help them to be self-sufficient.",
         "benefits": [
-            "Under the scheme, a maximum amount of \u20b910,000/- will be provided to each beneficiary who has showcased their talents in State/ National level championships.",
+            "Under the scheme, a maximum amount of ₹10,000/- will be provided to each beneficiary who has showcased their talents in State/ National level championships.",
             "The amount will be provided to a total of 10 beneficiaries from each district of Kerala."
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
             "The participants who have showcased their talents in arts and sporting activities in State/ National level championships will be eligible to apply.",
             "The applicant should be a Person with Disability (PwD) having 40% or more disability.",
-            "The annual family income of the applicant should be below \u20b91,00,000/-.",
+            "The annual family income of the applicant should be below ₹1,00,000/-.",
             "The applicant should be undergoing training from State/National Academies/Centers."
         ],
         "exclusions": [],
@@ -60,7 +60,7 @@
             },
             {
                 "question": "What is the income criterion to apply under the scheme?",
-                "answer": "The annual family income of the applicant should be below \u20b91,00,000/-."
+                "answer": "The annual family income of the applicant should be below ₹1,00,000/-."
             },
             {
                 "question": "Shall only the applicant be eligible to apply who is undergoing training from State/National Academies/Centres?",
@@ -68,7 +68,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, a maximum amount of \u20b910,000/- will be provided to each beneficiary who has showcased their talents in State/ National level championships."
+                "answer": "Under the scheme, a maximum amount of ₹10,000/- will be provided to each beneficiary who has showcased their talents in State/ National level championships."
             },
             {
                 "question": "How many beneficiaries will get the amount in a district?",
@@ -106,5 +106,6 @@
             "Sports",
             "Talent"
         ]
-    }
+    },
+    "id": "001797"
 }

@@ -5,9 +5,9 @@
         "department": "Art and Culture Department",
         "type": "Financial Assistance",
         "beneficiary": "Legal Heirs of Deceased Artists",
-        "details": "The 'Scheme for Giving Financial Assistance to the Legal Heirs of the Deceased Artist (Wife/Husband) on the Death of the Indigent Artist who was Receiving Financial Assistance' was launched by the Art and Culture Department, Government of Tamil Nadu. Through this scheme, financial assistance of \u20b93,000/- is given to the eligible legal heir (wife/husband) of the deceased artist.",
+        "details": "The 'Scheme for Giving Financial Assistance to the Legal Heirs of the Deceased Artist (Wife/Husband) on the Death of the Indigent Artist who was Receiving Financial Assistance' was launched by the Art and Culture Department, Government of Tamil Nadu. Through this scheme, financial assistance of ₹3,000/- is given to the eligible legal heir (wife/husband) of the deceased artist.",
         "benefits": [
-            "Financial Assistance of \u20b93,000/- per month."
+            "Financial Assistance of ₹3,000/- per month."
         ],
         "eligibility": [
             "The applicant should be the legal heir (wife/husband) of the deceased.",
@@ -16,7 +16,7 @@
             "The deceased should have been 58 years or older.",
             "The benefit of the scheme will be given only on the death of the indigent artist.",
             "The deceased should have professionally served for the enrichment of any one of the art disciplines or more such as music, dance, drama, film, folk arts, etc.",
-            "The annual income of the deceased artist or their legal spouse should not have exceeded \u20b912,000/-."
+            "The annual income of the deceased artist or their legal spouse should not have exceeded ₹12,000/-."
         ],
         "exclusions": [],
         "application_process": "Offline. The interested applicant should visit (during office hours) the office of the Commissioner of Art and Culture and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Fill in all mandatory fields, paste the passport-sized photograph, and attach copies of all mandatory documents. Submit the application form along with the documents to the Commissioner, Directorate of Art and Culture, Thendral, Dr. D.G.S. Dinakaran Road, Chennai - 600 028.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the income limit for the deceased artist or their legal spouse to be eligible for this scheme?",
-                "answer": "The annual income of the deceased artist or their legal spouse should not have exceeded \u20b912,000/-."
+                "answer": "The annual income of the deceased artist or their legal spouse should not have exceeded ₹12,000/-."
             },
             {
                 "question": "What disciplines of art should the deceased artist have professionally served in to qualify for this scheme?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the amount of financial assistance provided to the eligible legal heirs under this scheme?",
-                "answer": "Under this scheme, eligible legal heirs receive a financial assistance of \u20b93,000/- per month."
+                "answer": "Under this scheme, eligible legal heirs receive a financial assistance of ₹3,000/- per month."
             },
             {
                 "question": "What are the age criteria for the deceased artist under this scheme?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "How long is the financial assistance provided to the legal heirs?",
-                "answer": "The financial assistance of \u20b93,000/- per month is provided on an ongoing basis until further notice or changes in the scheme."
+                "answer": "The financial assistance of ₹3,000/- per month is provided on an ongoing basis until further notice or changes in the scheme."
             },
             {
                 "question": "Can legal heirs receive any other benefits or support under this scheme?",
@@ -94,5 +94,6 @@
             "Financial Assistance",
             "Heir"
         ]
-    }
+    },
+    "id": "001689"
 }

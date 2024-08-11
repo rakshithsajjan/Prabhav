@@ -7,13 +7,13 @@
         "beneficiary": "School Going Children of Industrial Workers/Employees",
         "details": "Grant of Financial Assistance to the School Going Children of Industrial Workers/Employees Studying in 1st to 4th Standard for Supply of One Set of Uniform by the Goa Labour Welfare Board aims to provide financial assistance for the purchase of one set of uniform to school-going children of industrial workers/employees studying in 1st to 4th standard. Through this scheme, assistance is extended to alleviate the financial burden associated with uniform procurement for eligible beneficiaries.",
         "benefits": [
-            "Financial Assistance of \u20b91,600/- per student per annum for the purchase of one set of uniforms (shorts/trousers and shirts for male children, and frock for female children)."
+            "Financial Assistance of ₹1,600/- per student per annum for the purchase of one set of uniforms (shorts/trousers and shirts for male children, and frock for female children)."
         ],
         "eligibility": [
             "The applicant should be an industrial worker/employee.",
             "The applicant should be registered with the Goa Labour Welfare Board.",
             "The applicant should have a minimum of 6 months of continuous service to the Board at the time of application.",
-            "The monthly salary of the applicant should not exceed \u20b920,000/-.",
+            "The monthly salary of the applicant should not exceed ₹20,000/-.",
             "The age of the child of the applicant should be between 5 to 10 years.",
             "The child of the applicant should be studying in 1st to 4th standard.",
             "The child of the applicant should be enrolled in a recognized, aided, or private school.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "Is the assistance provided as a one-time payment or on a recurring basis?",
-                "answer": "The scheme specifies an annual assistance amount of \u20b91,600 per student, suggesting that it is provided on a yearly basis."
+                "answer": "The scheme specifies an annual assistance amount of ₹1,600 per student, suggesting that it is provided on a yearly basis."
             },
             {
                 "question": "How is the assistance amount intended to be utilized?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What benefits are provided under this scheme?",
-                "answer": "Financial assistance of \u20b91,600 per student per annum is provided for the purchase of one set of uniforms."
+                "answer": "Financial assistance of ₹1,600 per student per annum is provided for the purchase of one set of uniforms."
             },
             {
                 "question": "In which grades should the applicant's child be enrolled to qualify for assistance?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What is the income criterion for applicants?",
-                "answer": "The monthly salary of the applicant should not exceed \u20b920,000."
+                "answer": "The monthly salary of the applicant should not exceed ₹20,000."
             },
             {
                 "question": "Is there a minimum service duration requirement for eligibility?",
@@ -106,5 +106,6 @@
             "Uniform",
             "Worker"
         ]
-    }
+    },
+    "id": "000725"
 }

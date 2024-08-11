@@ -7,8 +7,8 @@
         "beneficiary": "Coir artisans and interested individuals",
         "details": "The 'Advance/High Skill Training in Coir' Component of the 'Development of Coir' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to enhance the skills of Coir artisans and interested individuals. The objective is to acquire the latest skills and modern technologies through advanced/high-skilled training available across various locations in India, offering valuable benefits to eligible candidates.",
         "benefits": [
-            "Trainees receive a stipend of \u20b92,500 per month.",
-            "Accommodation charges for trainees are \u20b9500 per month.",
+            "Trainees receive a stipend of ₹2,500 per month.",
+            "Accommodation charges for trainees are ₹500 per month.",
             "Travelling allowance covers to-and-fro 2nd class sleeper train fare.",
             "Full course fees are paid to the training units/institutions as prescribed."
         ],
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What are the accommodation charges for trainees participating in the Coir skill development program?",
-                "answer": "Trainees are charged \u20b9500 per month for accommodation as part of the scheme."
+                "answer": "Trainees are charged ₹500 per month for accommodation as part of the scheme."
             },
             {
                 "question": "Does the scheme cover the traveling expenses of Coir trainees?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "How much is the monthly stipend provided to trainees in the Coir training program?",
-                "answer": "Trainees receive a monthly stipend of \u20b92,500 as part of the 'Advance/High Skill Training in Coir' component."
+                "answer": "Trainees receive a monthly stipend of ₹2,500 as part of the 'Advance/High Skill Training in Coir' component."
             }
         ],
         "sources": [
@@ -103,5 +103,6 @@
             "Training",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000051"
 }

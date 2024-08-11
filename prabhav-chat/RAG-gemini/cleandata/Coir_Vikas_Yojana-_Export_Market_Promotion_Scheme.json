@@ -13,7 +13,7 @@
             "Publicity abroad",
             "External Market Development Assistance",
             "Coir Industry Awards",
-            "Financial assistance includes assistance for participation in International Exhibitions/Trade Fairs/Buyer seller Meets held in foreign countries: 100% of the space rent subject to a maximum of \u20b91.00 lakh or actual rent paid in the case of foreign countries, whichever is lower per exporter/enterprise; 100% of the economy class airfare subject to a maximum of \u20b91.50 lakh/ and \u20b91 Lakh in India or actual fare paid, whichever is lower to one representative of the exporter; Freight charges- Actual subject to a maximum of \u20b925,000/- in foreign countries and \u20b920,000/- in India- per exporter/enterprise."
+            "Financial assistance includes assistance for participation in International Exhibitions/Trade Fairs/Buyer seller Meets held in foreign countries: 100% of the space rent subject to a maximum of ₹1.00 lakh or actual rent paid in the case of foreign countries, whichever is lower per exporter/enterprise; 100% of the economy class airfare subject to a maximum of ₹1.50 lakh/ and ₹1 Lakh in India or actual fare paid, whichever is lower to one representative of the exporter; Freight charges- Actual subject to a maximum of ₹25,000/- in foreign countries and ₹20,000/- in India- per exporter/enterprise."
         ],
         "eligibility": [
             "Manufacturers, Entrepreneurs, and Exporters of Coir are eligible to apply under the scheme.",
@@ -58,15 +58,15 @@
             },
             {
                 "question": "What is the amount of space rent which is paid to the applicant unit?",
-                "answer": "100% of the space rent subject to a maximum of \u20b91.00 lakh or actual rent paid in the case of foreign countries, whichever is lower per exporter/enterprise."
+                "answer": "100% of the space rent subject to a maximum of ₹1.00 lakh or actual rent paid in the case of foreign countries, whichever is lower per exporter/enterprise."
             },
             {
                 "question": "What is the amount of airfare which is paid to the applicant unit?",
-                "answer": "100% of the economy class airfare subject to a maximum of \u20b91.50 lakh/ and \u20b91 Lakh in India or actual fare paid, whichever is lower to one representative of the exporter."
+                "answer": "100% of the economy class airfare subject to a maximum of ₹1.50 lakh/ and ₹1 Lakh in India or actual fare paid, whichever is lower to one representative of the exporter."
             },
             {
                 "question": "What is the amount of Freight charges which is paid to the applicant unit?",
-                "answer": "Freight charges- Actual subject to a maximum of \u20b925,000/- in foreign countries and \u20b920,000/- in India- per exporter/enterprise."
+                "answer": "Freight charges- Actual subject to a maximum of ₹25,000/- in foreign countries and ₹20,000/- in India- per exporter/enterprise."
             },
             {
                 "question": "Which types of entrepreneurs are not eligible for assistance?",
@@ -100,5 +100,6 @@
             "MSME",
             "Promotion"
         ]
-    }
+    },
+    "id": "000327"
 }

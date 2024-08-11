@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste/Scheduled Tribe entrepreneurs",
         "details": "Launched by the Ministry Of Micro, Small & Medium Enterprises, Special Credit Linked Capital Subsidy Scheme (SCLCSS) for Scheduled Caste / Scheduled Tribe is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. This scheme aims to facilitate capacity augmentation of existing SC/ST MSEs and for creation on new enterprises among SC/ST communities, 25 percent capital subsidy is provided for purchase of plant & machinery / equipment through institutional finance (bank loan).",
         "benefits": [
-            "25% subsidy to SC/ST MSEs on institutional finance for procurement of Plant & Machinery/equipment (i.e. a subsidy cap of \u20b9 25,00,000/-) without any sector-specific restrictions."
+            "25% subsidy to SC/ST MSEs on institutional finance for procurement of Plant & Machinery/equipment (i.e. a subsidy cap of ₹ 25,00,000/-) without any sector-specific restrictions."
         ],
         "eligibility": [
             "Sole proprietorships, partnerships, co-operatives, private/public limited companies owned by SC/ST entrepreneurs in manufacturing or service sectors.",
@@ -83,5 +83,6 @@
             "Scheduled Tribe",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001827"
 }

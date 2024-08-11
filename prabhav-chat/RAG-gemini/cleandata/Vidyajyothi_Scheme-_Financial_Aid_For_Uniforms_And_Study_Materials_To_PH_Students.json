@@ -15,7 +15,7 @@
             "The applicant should be studying in Government / Aided Institution in Kerala.",
             "The financial assistance will be given to the students who are studying in Class 9th to Post-Graduation.",
             "The applicant who has 40% or more disability is eligible to apply under the scheme.",
-            "The applicant\u2019s annual family income is not applicable under this scheme."
+            "The applicant’s annual family income is not applicable under this scheme."
         ],
         "exclusions": [],
         "application_process": "Online and Offline. Applicants need to register on the SUNEETHI- Online Service Application Portal.",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "Is there any criterion for annual family income?",
-                "answer": "No, the applicant\u2019s annual family income is not applicable under this scheme."
+                "answer": "No, the applicant’s annual family income is not applicable under this scheme."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -105,5 +105,6 @@
             "Education",
             "Kerala"
         ]
-    }
+    },
+    "id": "002010"
 }

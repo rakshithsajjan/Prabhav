@@ -7,7 +7,7 @@
         "beneficiary": "Person With Disability",
         "details": "The 'Maintenance Allowance Scheme for Intellectually Disabled Persons,' implemented by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, addresses the distinct needs of this population group. This program offers a targeted form of monthly financial assistance, ensuring greater financial security for those diagnosed with a significant intellectual disability. The scheme not only promotes their well-being but also fosters their increased participation within their communities. This initiative underscores the government's dedication to building a more inclusive society, one where every individual, regardless of their intellectual abilities, has the opportunity to flourish. By providing this crucial support, the program empowers intellectually disabled persons to achieve greater independence and lead more fulfilling lives.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/- per month.",
+            "Financial Assistance of ₹2,000/- per month.",
             "Allowance sent through ECS to their accounts directly from the Treasury."
         ],
         "eligibility": [
@@ -71,5 +71,6 @@
             "Person With Disability",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001069"
 }

@@ -7,17 +7,17 @@
         "beneficiary": "Wards of Construction Workers",
         "details": "The 'Higher Educational Finance Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance is extended to the wards of the Construction Workers who get admission into higher education programs through CENTAC, Puducherry. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the ward of the worker. The applications are accepted offline.",
         "benefits": [
-            "Qualification: M.B.B.S / B.D.S (CENTAC); Benefit: \u20b9 1,00,000/- (One Time Payment)",
-            "Qualification: B.E. / B.Tech. (CENTAC); Benefit: \u20b9 50,000/- (One Time Payment)",
-            "Qualification: Diploma in Engineering; Benefit: \u20b9 20,000/- (One Time Payment)",
-            "Qualification: UG; Benefit: \u20b9 2,000/- per annum",
-            "Qualification: PG; Benefit: \u20b9 4,000/- per annum",
-            "Qualification: Diploma; Benefit: \u20b9 2,000/- per annum",
-            "Qualification: PG Diploma; Benefit: \u20b9 3,000/- per annum",
-            "Qualification: MD General Medicine & Related; Benefit: \u20b9 1,00,000/- (One Time Payment)",
-            "Qualification: MS Orthopaedics & Related; Benefit: \u20b9 1,00,000/- (One Time Payment)",
-            "Qualification: MD Clinical Pharmacology & Related; Benefit: \u20b9 1,50,000/- (One Time Payment)",
-            "Qualification: M.Tech / M.E Engineering Courses; Benefit: \u20b9 75,000/- (One Time Payment)"
+            "Qualification: M.B.B.S / B.D.S (CENTAC); Benefit: ₹ 1,00,000/- (One Time Payment)",
+            "Qualification: B.E. / B.Tech. (CENTAC); Benefit: ₹ 50,000/- (One Time Payment)",
+            "Qualification: Diploma in Engineering; Benefit: ₹ 20,000/- (One Time Payment)",
+            "Qualification: UG; Benefit: ₹ 2,000/- per annum",
+            "Qualification: PG; Benefit: ₹ 4,000/- per annum",
+            "Qualification: Diploma; Benefit: ₹ 2,000/- per annum",
+            "Qualification: PG Diploma; Benefit: ₹ 3,000/- per annum",
+            "Qualification: MD General Medicine & Related; Benefit: ₹ 1,00,000/- (One Time Payment)",
+            "Qualification: MS Orthopaedics & Related; Benefit: ₹ 1,00,000/- (One Time Payment)",
+            "Qualification: MD Clinical Pharmacology & Related; Benefit: ₹ 1,50,000/- (One Time Payment)",
+            "Qualification: M.Tech / M.E Engineering Courses; Benefit: ₹ 75,000/- (One Time Payment)"
         ],
         "eligibility": [
             "The applicant should be a citizen of India",
@@ -40,7 +40,7 @@
         "faqs": [
             {
                 "question": "My father is a registered construction worker, and I recently secured admission to an MBBS program through CENTAC, Puducherry. Am I eligible for the Higher Educational Finance Assistance scheme?",
-                "answer": "Yes, you are eligible for the scheme. The scheme specifically extends financial assistance to wards of registered construction workers pursuing MBBS/BDS through CENTAC, offering a one-time payment of \u20b91,00,000."
+                "answer": "Yes, you are eligible for the scheme. The scheme specifically extends financial assistance to wards of registered construction workers pursuing MBBS/BDS through CENTAC, offering a one-time payment of ₹1,00,000."
             },
             {
                 "question": "I secured admission to an MBBS program outside Puducherry through the National Eligibility Entrance Test (NEET). Am I eligible for the scheme?",
@@ -112,5 +112,6 @@
             "Student",
             "Worker"
         ]
-    }
+    },
+    "id": "000772"
 }

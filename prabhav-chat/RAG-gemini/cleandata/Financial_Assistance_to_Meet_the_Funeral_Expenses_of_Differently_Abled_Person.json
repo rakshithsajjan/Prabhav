@@ -5,9 +5,9 @@
         "department": "Department for the Welfare of Differently Abled Persons",
         "type": "Financial Assistance",
         "beneficiary": "Legal heir of the deceased differently abled person",
-        "details": "The scheme 'Financial Assistance to Meet the Funeral Expenses of Differently Abled Person' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. In this scheme, financial assistance of \u20b92,000/- is provided to the legal heir of the deceased differently abled person, to meet the expenses in connection with the funeral.",
+        "details": "The scheme 'Financial Assistance to Meet the Funeral Expenses of Differently Abled Person' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. In this scheme, financial assistance of ₹2,000/- is provided to the legal heir of the deceased differently abled person, to meet the expenses in connection with the funeral.",
         "benefits": [
-            "Financial assistance of \u20b92,000/- is paid to the legal heir of the deceased."
+            "Financial assistance of ₹2,000/- is paid to the legal heir of the deceased."
         ],
         "eligibility": [
             "The applicant should be the legal heir of the differently abled person.",
@@ -24,7 +24,7 @@
         "faqs": [
             {
                 "question": "What is the amount of financial assistance provided for funeral expenses?",
-                "answer": "The financial assistance provided for funeral expenses is a sum of \u20b92000."
+                "answer": "The financial assistance provided for funeral expenses is a sum of ₹2000."
             },
             {
                 "question": "Are there any income criteria for availing this assistance?",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "Where should grievances regarding this assistance be addressed?",
-                "answer": "Grievances, if any, should be addressed to the Assistant Director (DAW) at the Commissionerate for Welfare of the Differently Abled No.5, Kamarajar Salai, Chennai \u2013 600 005."
+                "answer": "Grievances, if any, should be addressed to the Assistant Director (DAW) at the Commissionerate for Welfare of the Differently Abled No.5, Kamarajar Salai, Chennai – 600 005."
             },
             {
                 "question": "Can the application be submitted online?",
@@ -75,5 +75,6 @@
             "Financial Assistance",
             "Funeral"
         ]
-    }
+    },
+    "id": "000595"
 }

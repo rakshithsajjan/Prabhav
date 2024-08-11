@@ -5,15 +5,15 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Children of workers",
-        "details": "The 'Financial Assistance for Coaching' scheme is implemented by the Haryana Labour Welfare Board (HLWB), under the Labour Department, Government of Haryana. This scheme was launched on 15.01.2019 with the objective to provide financial assistance up to \u20b920,000/- for coaching of entrance examinations for professional courses and \u20b91,00,000/- to the children of workers for preparing for the main examination after passing the preliminary examination of UPSC and HPSC.",
+        "details": "The 'Financial Assistance for Coaching' scheme is implemented by the Haryana Labour Welfare Board (HLWB), under the Labour Department, Government of Haryana. This scheme was launched on 15.01.2019 with the objective to provide financial assistance up to ₹20,000/- for coaching of entrance examinations for professional courses and ₹1,00,000/- to the children of workers for preparing for the main examination after passing the preliminary examination of UPSC and HPSC.",
         "benefits": [
-            "An amount of \u20b920,000/- or 75% of the coaching fee (whichever is less) will be payable to the children of workers for coaching in entrance examinations in professional courses.",
-            "An amount of \u20b91,00,000/- will be provided to the children of workers for coaching to prepare for the main examination on passing the Preliminary Examination of UPSC and HPSC."
+            "An amount of ₹20,000/- or 75% of the coaching fee (whichever is less) will be payable to the children of workers for coaching in entrance examinations in professional courses.",
+            "An amount of ₹1,00,000/- will be provided to the children of workers for coaching to prepare for the main examination on passing the Preliminary Examination of UPSC and HPSC."
         ],
         "eligibility": [
             "The applicant should be employed in an industrial or commercial establishment in Haryana.",
             "The applicant should be registered with the Haryana Labour Welfare Board.",
-            "The applicant's monthly salary must not exceed \u20b925,000/-.",
+            "The applicant's monthly salary must not exceed ₹25,000/-.",
             "The applicant must have a minimum of one year of service.",
             "Benefits are provided to children of registered workers who are receiving coaching for entrance examinations in professional courses, as well as for those preparing for the main examination after passing the preliminary examination of UPSC and HPSC.",
             "The child/candidate should have scored at least 60% marks in the qualifying examination.",
@@ -63,15 +63,15 @@
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
-                "answer": "Workers employed in industrial or commercial establishments in Haryana, registered with the Haryana Labour Welfare Board, with a monthly salary not exceeding \u20b925,000 and a minimum of one year of service, can apply for their children."
+                "answer": "Workers employed in industrial or commercial establishments in Haryana, registered with the Haryana Labour Welfare Board, with a monthly salary not exceeding ₹25,000 and a minimum of one year of service, can apply for their children."
             },
             {
                 "question": "What is the financial assistance provided for coaching for professional courses?",
-                "answer": "Up to \u20b920,000/- or 75% of the coaching fee (whichever is less) will be provided for coaching in entrance examinations for professional courses."
+                "answer": "Up to ₹20,000/- or 75% of the coaching fee (whichever is less) will be provided for coaching in entrance examinations for professional courses."
             },
             {
                 "question": "What financial assistance is available for UPSC and HPSC main examination coaching?",
-                "answer": "\u20b91,00,000 will be provided to children of workers for coaching after passing the preliminary examination of UPSC and HPSC."
+                "answer": "₹1,00,000 will be provided to children of workers for coaching after passing the preliminary examination of UPSC and HPSC."
             },
             {
                 "question": "Can a worker's child avail this scheme if they are self-employed or employed?",
@@ -120,5 +120,6 @@
                 "url": "https://saralharyana.gov.in/"
             }
         ]
-    }
+    },
+    "id": "000556"
 }

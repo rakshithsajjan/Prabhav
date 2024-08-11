@@ -8,7 +8,7 @@
         "details": "The objective of the scheme is to extend financial assistance to the children of the beneficiaries under KALIA for pursuing Professional/Technical courses in the State of Odisha. It will lead to better access to Higher Education for children of Small and marginal farmers (SF/MF), Actual cultivators (sharecroppers), and Landless Agricultural households (LAH). KALIA Scholarship will support SF/MF & LAH in empowering their families.",
         "benefits": [
             "The tuition fees, annual fees, one-time fees, hostel charges, and any other fees deposited by the student in the colleges/universities/institutions except the caution money/any other refundable money as admissible shall be released to the concerned student Account directly through DBT.",
-            "The mess /hostel charges of \u20b91200/- per month & \u20b91000/- per month for ten months shall be provided to the Degree & Diploma/Polytechnic/ITI students respectively as per the guideline of ST & SC Development, Minorities and BCW Department."
+            "The mess /hostel charges of ₹1200/- per month & ₹1000/- per month for ten months shall be provided to the Degree & Diploma/Polytechnic/ITI students respectively as per the guideline of ST & SC Development, Minorities and BCW Department."
         ],
         "eligibility": [
             "The children of all the eligible beneficiaries under the KALIA scheme under the two different components, namely Support to Cultivators for Cultivation and Livelihood Support to Landless Agricultural Households are eligible for the scholarship.",
@@ -23,7 +23,7 @@
         "application_process": "Online",
         "documents_required": [
             "Copy of Aadhaar Card",
-            "Applicant\u2019s Photograph",
+            "Applicant’s Photograph",
             "Proof of age",
             "Mark Sheets/Grade Cards & Degrees",
             "Resident certificate",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "How much amount is given to the students for mess/hostel charges?",
-                "answer": "The mess/hostel charges of \u20b91200/- per month & \u20b91000/- per month for ten months shall be provided to the Degree & Diploma/Polytechnic/ITI students respectively as per the guideline of ST & SC Development, Minorities and BCW Department."
+                "answer": "The mess/hostel charges of ₹1200/- per month & ₹1000/- per month for ten months shall be provided to the Degree & Diploma/Polytechnic/ITI students respectively as per the guideline of ST & SC Development, Minorities and BCW Department."
             },
             {
                 "question": "Who is eligible to apply under scheme?",
@@ -98,5 +98,6 @@
             "Education",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000947"
 }

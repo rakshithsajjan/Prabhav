@@ -7,13 +7,13 @@
         "beneficiary": "Economically weak students",
         "details": "Financial Support Scheme implemented by the Delhi University aims to provide equity and access to quality education to the economically weak students. This scheme also provides financial support for such students which will include fee waiver of all components of fee paid by students (except examination fee & hostel fee).",
         "benefits": [
-            "Up to 100% fee waiver for families with income less than or equal to \u20b9 4,00,000",
-            "Up to 50% fee waiver for families with income between \u20b9 4,00,000 and \u20b9 8,00,000"
+            "Up to 100% fee waiver for families with income less than or equal to ₹ 4,00,000",
+            "Up to 50% fee waiver for families with income between ₹ 4,00,000 and ₹ 8,00,000"
         ],
         "eligibility": [
             "Should be a bonafide student.",
             "The student should be studying in any UG/ PG Degree program at a Department/ Institution/Centre of University of Delhi.",
-            "Family income of the student\u2019s should be less than \u20b9 8,00,000/-."
+            "Family income of the student’s should be less than ₹ 8,00,000/-."
         ],
         "exclusions": [
             "Students with Essential Repeat papers are not eligible for the fee waiver.",
@@ -71,5 +71,6 @@
             "Financial Assistance",
             "OBC"
         ]
-    }
+    },
+    "id": "000618"
 }

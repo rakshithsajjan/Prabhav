@@ -5,7 +5,7 @@
         "department": "Ministry Of Micro, Small and Medium Enterprises",
         "type": "Marketing Scheme",
         "beneficiary": "Micro & Small Enterprises",
-        "details": "Promotion of the product of Micro and Small Entrepreneurs is one of the major objectives of the Corporation. In the present competitive scenario a need has been felt to facilitate Micro and Small Enterprises to market their goods / services individually or collectively through \u2018Consortium\u2019. Accordingly, the scheme for promoting the products of the MSEs has been reviewed in 2011 & named as \u201cConsortia and Tender Marketing Scheme\u201d. This scheme will especially help the units to enlist themselves for participating in Govt. /private tenders.",
+        "details": "Promotion of the product of Micro and Small Entrepreneurs is one of the major objectives of the Corporation. In the present competitive scenario a need has been felt to facilitate Micro and Small Enterprises to market their goods / services individually or collectively through ‘Consortium’. Accordingly, the scheme for promoting the products of the MSEs has been reviewed in 2011 & named as “Consortia and Tender Marketing Scheme”. This scheme will especially help the units to enlist themselves for participating in Govt. /private tenders.",
         "benefits": [
             "Enlistment of the Unit for participating in Government/Private tenders.",
             "Benefit of 0.5% in service charges to consortium members."
@@ -15,7 +15,7 @@
             "Micro & Small Enterprises who apply to get themselves registered with NSIC under the SPRS along with all required documents in terms of the scheme."
         ],
         "exclusions": [
-            "The scheme shall not cover unit(s) engaging in \u2018trading activities\u2019 without value addition/packing/ branding."
+            "The scheme shall not cover unit(s) engaging in ‘trading activities’ without value addition/packing/ branding."
         ],
         "application_process": "Offline. The application form, in the prescribed format for enlistment under the Tender Marketing Scheme is to be submitted by the applicant Micro & Small Enterprise (MSE), duly signed by the authorized signatory along with the documents mentioned in the application form.",
         "documents_required": [
@@ -60,5 +60,6 @@
             "Small Enterprises",
             "Tender Participation"
         ]
-    }
+    },
+    "id": "000336"
 }

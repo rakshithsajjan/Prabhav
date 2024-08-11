@@ -7,7 +7,7 @@
         "beneficiary": "Legal Heirs of registered workers",
         "details": "The scheme 'Funeral Assistance' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance shall be given to the legal heirs, in case of death of registered workers under the CBOCWWB.",
         "benefits": [
-            "Financial assistance of \u20b95000/- shall be given to the legal heirs, in case of death of registered beneficiary."
+            "Financial assistance of ₹5000/- shall be given to the legal heirs, in case of death of registered beneficiary."
         ],
         "eligibility": [
             "The deceased worker should have been working at the establishment, registered under Punjab Labour Welfare Fund Act, 1965 and his contributions to the labour welfare fund should have been regularly received by the board.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the financial assistance provided under the scheme?",
-                "answer": "The scheme offers financial assistance of \u20b95000/- to the legal heirs in the unfortunate event of the death of a registered beneficiary."
+                "answer": "The scheme offers financial assistance of ₹5000/- to the legal heirs in the unfortunate event of the death of a registered beneficiary."
             },
             {
                 "question": "Who is eligible for the Funeral Assistance Scheme?",
@@ -57,7 +57,7 @@
             },
             {
                 "question": "How to apply under the scheme?",
-                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme \u2018FUNERAL ASSISTANCE\u2019 under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme ‘FUNERAL ASSISTANCE’ under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
             }
         ],
         "sources": [
@@ -81,5 +81,6 @@
             "Labour",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000651"
 }

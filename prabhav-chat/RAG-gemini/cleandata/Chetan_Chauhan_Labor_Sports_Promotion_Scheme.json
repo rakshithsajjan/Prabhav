@@ -8,14 +8,14 @@
         "details": "The Chetan Chauhan Shramik Krida Protsahan Yojana (CCSKPY) stands out as a remarkable initiative launched by the Uttar Pradesh government in 2022. Recognizing the potential for sporting talent to blossom even from underprivileged backgrounds, the scheme bridges the financial gap for the children of registered construction workers. By offering a one-time grant, the CCSKPY empowers these young athletes who have excelled at district, state, national, and even international levels. This financial support proves to be a game-changer, allowing them to focus on rigorous training, acquire necessary equipment, and participate in upcoming competitions. The CCSKPY not only fosters a love for sports among these children but also paves the way for them to achieve recognition and success in the sporting arena, etching their names in the history of Indian athletics.",
         "benefits": [
             "Provide financial assistance who have been selected in district, state, national and international sports.",
-            "District level: \u20b925,000/- per son/daughter in lump sum once.",
-            "State level: \u20b950,000/- per son/daughter in lump sum.",
-            "National level: \u20b975,000/- lump sum per son/daughter.",
-            "International level: \u20b91,00,000/- lump sum per son/daughter."
+            "District level: ₹25,000/- per son/daughter in lump sum once.",
+            "State level: ₹50,000/- per son/daughter in lump sum.",
+            "National level: ₹75,000/- lump sum per son/daughter.",
+            "International level: ₹1,00,000/- lump sum per son/daughter."
         ],
         "eligibility": [
             "The worker must be working in an establishment registered under the Factories Act, 1948.",
-            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-.",
+            "The monthly salary (basic salary + dearness allowance) of the worker should not exceed ₹15,000/-.",
             "The worker must have worked continuously for at least six months in the establishment/factory and must be in service at the time of applying.",
             "The benefit will be admissible to the worker or his two daughters only.",
             "The benefit will be admissible to the worker or his two children only.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "How much financial benefits are provided under the scheme?",
-                "answer": "A one-time grant ranging from \u20b925,000 to \u20b91,00,000, the CCSKPY empowers these young athletes who have excelled at district, state, national, and even international levels."
+                "answer": "A one-time grant ranging from ₹25,000 to ₹1,00,000, the CCSKPY empowers these young athletes who have excelled at district, state, national, and even international levels."
             },
             {
                 "question": "How many daughters can get the scheme benefit?",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What the financial eligibility criteria?",
-                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed \u20b915,000/-."
+                "answer": "The monthly salary (basic salary + dearness allowance) of the worker should not exceed ₹15,000/-."
             },
             {
                 "question": "What is procedure to get the scheme benefits?",
@@ -83,5 +83,6 @@
             "Sports",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000265"
 }

@@ -5,7 +5,7 @@
         "department": "Finance, Planning, and Investment Department (Planning & Investment Division)",
         "type": "Innovation Scheme",
         "beneficiary": "Deputy Commissioners",
-        "details": "District Innovation and Challenge Fund (DICF) is an innovation scheme by the Finance, Planning, and Investment Department (Planning & Investment Division), Govt. of Arunachal Pradesh. The objectives of the scheme are to instill a sense of competitiveness amongst the Deputy Commissioners for developmental interventions, bring innovation in the design, planning, and implementation of critical infrastructure, introduce cutting-edge technology in filling up infrastructural gaps, foster partnerships between State Government and the community, and deliver effective outcomes from State\u2019s policies and fund allocation.",
+        "details": "District Innovation and Challenge Fund (DICF) is an innovation scheme by the Finance, Planning, and Investment Department (Planning & Investment Division), Govt. of Arunachal Pradesh. The objectives of the scheme are to instill a sense of competitiveness amongst the Deputy Commissioners for developmental interventions, bring innovation in the design, planning, and implementation of critical infrastructure, introduce cutting-edge technology in filling up infrastructural gaps, foster partnerships between State Government and the community, and deliver effective outcomes from State’s policies and fund allocation.",
         "benefits": [
             "Encourages new and creative approaches to address infrastructural gaps",
             "Relevance to solving a critical problem or meeting a critical need in an innovative way",
@@ -75,5 +75,6 @@
             "Innovation",
             "Policy"
         ]
-    }
+    },
+    "id": "000415"
 }

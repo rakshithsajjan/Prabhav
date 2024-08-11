@@ -7,7 +7,7 @@
         "beneficiary": "Newly married couples from Backward Class / Most Backward Class Community",
         "details": "The 'Dr. Muthulakshmi Reddy Ninaivu Inter-caste Marriage Assistance Scheme' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme's objective is to abolish caste and community discrimination by encouraging inter-caste marriage by giving financial assistance to newly married couples of whom one spouse is from other community (Forward Community) and the other from the Backward Class / Most Backward Class Community.",
         "benefits": [
-            "Financial assistance of \u20b950,000 given to the newly married couple.",
+            "Financial assistance of ₹50,000 given to the newly married couple.",
             "1 Sovereign (8 gm) 22-carat gold coin for making Thirumangalyam."
         ],
         "eligibility": [
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the mode of disbursal for the financial assistance?",
-                "answer": "\u20b930,000 is disbursed through Electronic Clearing Service, and \u20b920,000 is provided in the form of National Savings Certificate."
+                "answer": "₹30,000 is disbursed through Electronic Clearing Service, and ₹20,000 is provided in the form of National Savings Certificate."
             },
             {
                 "question": "How much financial assistance is provided to the newly married couple under the scheme?",
-                "answer": "\u20b950,000 is given to the newly married couple, along with a 1 Sovereign (8 gm) 22-carat gold coin for making Thirumangalyam."
+                "answer": "₹50,000 is given to the newly married couple, along with a 1 Sovereign (8 gm) 22-carat gold coin for making Thirumangalyam."
             },
             {
                 "question": "Who launched the 'Dr. Muthulakshmi Reddy Ninaivu Inter-caste Marriage Assistance Scheme'?",
@@ -89,5 +89,6 @@
             "Backward Class",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "000439"
 }

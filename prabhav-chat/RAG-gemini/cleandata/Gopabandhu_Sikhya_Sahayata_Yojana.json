@@ -5,9 +5,9 @@
         "department": "Higher Education Dept., Govt. of Odisha",
         "type": "Financial Assistance",
         "beneficiary": "Students from underprivileged sections of society",
-        "details": "'Gopabandhu Sikhya Sahayata Yojana' is a Financial Assistance Scheme launched by the Higher Education Dept., Govt. of Odisha. The scheme was launched as an endeavor to make higher education inclusive and to increase the gross enrollment ratio. The scheme aims to further widen the access to higher education to the students belonging to under privileged sections of society, which in turn shall benefit immensely the students of said strata of society. The objective of the scheme is to extend financial assistance to the students of under privileged sections for pursuing Graduation and Post-Graduation courses in the State of Odisha on an annual basis. It is anticipated that the scheme will lead to their access to higher education. The assistance will be offered on means basis to General, OBC, SC/ST, SEBC/EBC category students. The selected students will receive financial assistance of \u20b9 20,000 per annum.",
+        "details": "'Gopabandhu Sikhya Sahayata Yojana' is a Financial Assistance Scheme launched by the Higher Education Dept., Govt. of Odisha. The scheme was launched as an endeavor to make higher education inclusive and to increase the gross enrollment ratio. The scheme aims to further widen the access to higher education to the students belonging to under privileged sections of society, which in turn shall benefit immensely the students of said strata of society. The objective of the scheme is to extend financial assistance to the students of under privileged sections for pursuing Graduation and Post-Graduation courses in the State of Odisha on an annual basis. It is anticipated that the scheme will lead to their access to higher education. The assistance will be offered on means basis to General, OBC, SC/ST, SEBC/EBC category students. The selected students will receive financial assistance of ₹ 20,000 per annum.",
         "benefits": [
-            "The annual Financial assistance will be \u20b9 20,000/- for pursuing both Graduate and Post Graduate courses.",
+            "The annual Financial assistance will be ₹ 20,000/- for pursuing both Graduate and Post Graduate courses.",
             "The student can avail of financial assistance under this scheme even if the student is in receipt of financial assistance under other schemes.",
             "The financial assistance shall be limited to the normal duration of the course and will be given each year till the completion of the course."
         ],
@@ -15,7 +15,7 @@
             "The student should belong to any of the following categories of families: HIV/AIDS-affected family, Households Without Shelter, Destitute / Living on Alms, Manual Scavengers, Particularly Vulnerable Tribal Groups, Legally released Bonded Labourers, Single Mother Family.",
             "He/ She should be a Permanent Resident of Odisha.",
             "The student should have been enrolled for graduate/postgraduate courses (Non-Technical/Technical/Professional) on a regular mode from the Colleges/ Institutes/ Universities in the State of Odisha recognized by the State Government.",
-            "The income of the household from all sources should be less than \u20b9 10,000/- per month."
+            "The income of the household from all sources should be less than ₹ 10,000/- per month."
         ],
         "application_process": "Online",
         "documents_required": [
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That A Student Can Receive Through GSSY?",
-                "answer": "The selected students will receive financial assistance of \u20b9 20,000 per annum."
+                "answer": "The selected students will receive financial assistance of ₹ 20,000 per annum."
             },
             {
                 "question": "Can The Student Avail Of The Scheme Benefits If She/He Is Already In Receipt Of Financial Assistance Under Some Other Scheme?",
@@ -79,8 +79,8 @@
                 "answer": "The student should have been enrolled for graduate/postgraduate courses (Non-Technical/Technical/Professional) on a regular mode from the Colleges/ Institutes/ Universities in the State of Odisha recognized by the State Government."
             },
             {
-                "question": "Will I Be Eligible To Apply If The Income Of The Household (From All Sources) Is \u20b9 8,000/- Per Month?",
-                "answer": "Yes, in order to be eligible, the income of the household from all sources should be less than \u20b9 10,000/- per month."
+                "question": "Will I Be Eligible To Apply If The Income Of The Household (From All Sources) Is ₹ 8,000/- Per Month?",
+                "answer": "Yes, in order to be eligible, the income of the household from all sources should be less than ₹ 10,000/- per month."
             },
             {
                 "question": "Can I Apply Offline For This Scheme?",
@@ -102,5 +102,6 @@
             "Financial Assistance",
             "Higher Education"
         ]
-    }
+    },
+    "id": "000696"
 }

@@ -16,7 +16,7 @@
             "The Minimum Educational qualification for Computer Course is 12th Pass."
         ],
         "exclusions": [],
-        "application_process": "Offline. The application form can be downloaded from the Department\u2019s website or collected from the District Social Welfare Offices. Fill in the mandatory fields of the Application Form, attach the supporting documents and the passport-sized photograph, and submit the form to the Office of the District Social Welfare Officer concerned.",
+        "application_process": "Offline. The application form can be downloaded from the Department’s website or collected from the District Social Welfare Offices. Fill in the mandatory fields of the Application Form, attach the supporting documents and the passport-sized photograph, and submit the form to the Office of the District Social Welfare Officer concerned.",
         "documents_required": [
             "Residential / Domicile Certificate of the state of Manipur.",
             "Details of the Bank Account.",
@@ -104,5 +104,6 @@
             "Skill Development",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "002025"
 }

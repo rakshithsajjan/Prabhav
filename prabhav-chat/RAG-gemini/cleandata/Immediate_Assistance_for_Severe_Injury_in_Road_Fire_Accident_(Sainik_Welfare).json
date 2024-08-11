@@ -5,9 +5,9 @@
         "department": "Department of Sainik Welfare",
         "type": "Welfare Scheme",
         "beneficiary": "Ex-servicemen/Widows of Ex-servicemen",
-        "details": "Immediate Assistance for Severe Injury in Road/Fire Accident is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, \u20b925,000/- is provided to the registered Ex-servicemen/Widows of Ex-servicemen who have suffered a severe injury in a Road/Fire Accident. The members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
+        "details": "Immediate Assistance for Severe Injury in Road/Fire Accident is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, ₹25,000/- is provided to the registered Ex-servicemen/Widows of Ex-servicemen who have suffered a severe injury in a Road/Fire Accident. The members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b925,000/-, credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "Financial Assistance of ₹25,000/-, credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be an Ex-serviceman/Widow of an Ex-serviceman.",
@@ -65,5 +65,6 @@
             "Road",
             "Widow"
         ]
-    }
+    },
+    "id": "000805"
 }

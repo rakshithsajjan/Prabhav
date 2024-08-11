@@ -7,8 +7,8 @@
         "beneficiary": "Industrial Workers/Employees",
         "details": "The 'Scheme for Grant of Financial Assistance to Industrial Workers/Employee for Purchase of Spectacles' by the Goa Labour Welfare Board aims to provide financial aid to industrial workers/employees for acquiring spectacles. Through this scheme, assistance is extended to enhance the vision of eligible workers.",
         "benefits": [
-            "A financial assistance of up to \u20b92,000 is provided to cover the cost of the frame and lens of the spectacle (If the expenses exceed this amount, the worker/employee will have to bear the additional cost).",
-            "Replacement of spectacles is allowed only after five years after the initial purchase. However, if the lens power requires a change, replacement can be done after one year, with expenses not exceeding \u20b9400."
+            "A financial assistance of up to ₹2,000 is provided to cover the cost of the frame and lens of the spectacle (If the expenses exceed this amount, the worker/employee will have to bear the additional cost).",
+            "Replacement of spectacles is allowed only after five years after the initial purchase. However, if the lens power requires a change, replacement can be done after one year, with expenses not exceeding ₹400."
         ],
         "eligibility": [
             "The applicant should be an industrial worker/employee covered under clause (C) of Section 2 of the Goa, Daman and Diu Labour Welfare Fund Act, 1986.",
@@ -96,5 +96,6 @@
             "Spectacles",
             "Goa"
         ]
-    }
+    },
+    "id": "001693"
 }

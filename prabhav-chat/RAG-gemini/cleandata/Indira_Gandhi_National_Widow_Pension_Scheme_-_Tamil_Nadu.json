@@ -5,9 +5,9 @@
         "department": "Social Welfare and Women Empowerment Department",
         "type": "Pension Scheme",
         "beneficiary": "Destitute widows aged 40 years and above",
-        "details": "The 'Indira Gandhi National Widow Pension Scheme' is a state scheme launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to provide a pension of \u20b91,000/- to the destitute widows who are 40 years and above in age and belong to households below the poverty line. The widow is also provided with one free saree during Pongal and Deepavali, and free rice in the Anganwadi Centres.",
+        "details": "The 'Indira Gandhi National Widow Pension Scheme' is a state scheme launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to provide a pension of ₹1,000/- to the destitute widows who are 40 years and above in age and belong to households below the poverty line. The widow is also provided with one free saree during Pongal and Deepavali, and free rice in the Anganwadi Centres.",
         "benefits": [
-            "\u20b91,000/- per month pension",
+            "₹1,000/- per month pension",
             "One free saree during Pongal and Deepavali",
             "2kg/month of free rice for those taking nutritious meals",
             "4kg/month of free rice for those not taking nutritious meals"
@@ -27,7 +27,7 @@
             "Aadhaar Consent Form",
             "Smart Ration Card or Any Address Proof",
             "Husband Death Certificate",
-            "Self\u2013declaration of Applicant",
+            "Self–declaration of Applicant",
             "Widow Certificate",
             "Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License)",
             "Bank Passbook",
@@ -101,5 +101,6 @@
             "Widow",
             "Women"
         ]
-    }
+    },
+    "id": "000843"
 }

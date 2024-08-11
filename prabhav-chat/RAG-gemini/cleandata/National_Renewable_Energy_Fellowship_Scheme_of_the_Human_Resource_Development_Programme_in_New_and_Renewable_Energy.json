@@ -7,11 +7,11 @@
         "beneficiary": "Students pursuing higher studies in renewable energy",
         "details": "The objective of the 'National Renewable Energy Fellowship Scheme' Component of the Human Resource Development Programme in New and Renewable Energy, Human Resources Development Division, Ministry of New and Renewable Energy, is to institutionalize renewable energy education and training to meet the requirement of qualified and trained manpower in the country. The HRD Programme has been with a total financial outlay of Rs. 200 crore for the period of FY 2021-22 to 2025-26.",
         "benefits": [
-            "Fellowship for M.Tech: \u20b912,400 per month",
-            "Fellowship for M.Sc: \u20b94,000 per month",
-            "JRF: \u20b931,000 per month",
-            "SRF: \u20b935,000 per month",
-            "Post-Doctoral Fellow/Research Associate: \u20b947,000 to \u20b954,000 per month"
+            "Fellowship for M.Tech: ₹12,400 per month",
+            "Fellowship for M.Sc: ₹4,000 per month",
+            "JRF: ₹31,000 per month",
+            "SRF: ₹35,000 per month",
+            "Post-Doctoral Fellow/Research Associate: ₹47,000 to ₹54,000 per month"
         ],
         "eligibility": [
             "The applicant should be pursuing higher studies in renewable energy viz. M.Sc, M. Tech, PhD in Renewable Energy technologies.",
@@ -60,5 +60,6 @@
             "Higher Studies",
             "Research"
         ]
-    }
+    },
+    "id": "001323"
 }

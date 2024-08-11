@@ -5,16 +5,16 @@
         "department": "Department of Women & Child Development",
         "type": "Grant",
         "beneficiary": "Bridegroom from Weaker Section",
-        "details": "The scheme 'Grant of Subsidy for Purchase of Mangalyam to the Bridegroom of Weaker Section' by the Department of Women & Child Development, Government of Pondicherry, was introduced to provide Financial Assistance of \u20b9 2,500/- to the Bridegroom from Weaker Section. The application for this scheme should be submitted 15 days before the date of marriage.",
+        "details": "The scheme 'Grant of Subsidy for Purchase of Mangalyam to the Bridegroom of Weaker Section' by the Department of Women & Child Development, Government of Pondicherry, was introduced to provide Financial Assistance of ₹ 2,500/- to the Bridegroom from Weaker Section. The application for this scheme should be submitted 15 days before the date of marriage.",
         "benefits": [
-            "Financial Assistance of \u20b9 2,500/-."
+            "Financial Assistance of ₹ 2,500/-."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The bridegroom should be above 21 years of age.",
             "The bride should be above 18 years of age.",
             "The bridegroom should be a native of the UT of Pondicherry.",
-            "The annual income of the bridegroom and his parents should be less than \u20b9 24,000.",
+            "The annual income of the bridegroom and his parents should be less than ₹ 24,000.",
             "The application should be submitted 15 days before the date of marriage."
         ],
         "exclusions": [],
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What is the income limit for eligibility?",
-                "answer": "The annual income of the bridegroom and his parents should be less than \u20b924,000."
+                "answer": "The annual income of the bridegroom and his parents should be less than ₹24,000."
             },
             {
                 "question": "What is the age criterion for bridegrooms and brides to be eligible?",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "Eligible bridegrooms receive a subsidy of \u20b92,500 as financial assistance."
+                "answer": "Eligible bridegrooms receive a subsidy of ₹2,500 as financial assistance."
             },
             {
                 "question": "Are there awareness campaigns to educate potential beneficiaries about the scheme?",
@@ -108,5 +108,6 @@
             "Marriage",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000738"
 }

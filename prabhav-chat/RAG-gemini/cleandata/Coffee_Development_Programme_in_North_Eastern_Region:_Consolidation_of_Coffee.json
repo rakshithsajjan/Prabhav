@@ -7,8 +7,8 @@
         "beneficiary": "Farmers",
         "details": "The scheme 'Coffee Development Programme in North Eastern Region: Consolidation of Coffee' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to increase the productivity of the existing coffee holdings by gap filling or rejuvenation, followed by improved cultivation methods such as application of compost, bush management, shade management, pest and disease control, etc.",
         "benefits": [
-            "Unit Cost: \u20b960,000 per hectare.",
-            "Scale of Subsidy: 50% of the Unit Cost, which is \u20b930,000 per hectare.",
+            "Unit Cost: ₹60,000 per hectare.",
+            "Scale of Subsidy: 50% of the Unit Cost, which is ₹30,000 per hectare.",
             "Release of Subsidy in two installments: 1st installment: 60% of the unit cost; 2nd installment: 40% of the unit cost.",
             "Mode of Payment through EFT/RTGS/NEFT."
         ],
@@ -34,7 +34,7 @@
             },
             {
                 "question": "How is the subsidy calculated for different coffee growers based on their land area?",
-                "answer": "The subsidy is calculated as 50% of the unit cost (\u20b930,000 per hectare) for each eligible grower."
+                "answer": "The subsidy is calculated as 50% of the unit cost (₹30,000 per hectare) for each eligible grower."
             },
             {
                 "question": "What are the acceptable forms of photo identity for the subsidy application?",
@@ -82,5 +82,6 @@
             "Financial Assistance",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000318"
 }

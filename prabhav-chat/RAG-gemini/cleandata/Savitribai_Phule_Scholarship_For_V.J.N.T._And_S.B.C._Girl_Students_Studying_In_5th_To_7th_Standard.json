@@ -5,9 +5,9 @@
         "department": "Social Justice and Special Assistance Department",
         "type": "Scholarship",
         "beneficiary": "Girl Students of Vimukta Jati and Nomadic Tribes (VJNT) and Special Backward Classes (SBC)",
-        "details": "Savitribai Phule Scholarship is a Scholarship Scheme by the Social Justice and Special Assistance Department, Government of Maharashtra. The scheme was introduced on 12th January 1996 and amended on 29th October 1996 to include S.B.C. Students. The objective of the scheme is to encourage the enrollment and decrease the dropout ratio of Girl Students of Maharashtra from VJNT and SBC, studying in Class 5th to Class 7th. The beneficiary is provided \u20b9 60/- per month, i.e. \u20b9 600/- for ten months.",
+        "details": "Savitribai Phule Scholarship is a Scholarship Scheme by the Social Justice and Special Assistance Department, Government of Maharashtra. The scheme was introduced on 12th January 1996 and amended on 29th October 1996 to include S.B.C. Students. The objective of the scheme is to encourage the enrollment and decrease the dropout ratio of Girl Students of Maharashtra from VJNT and SBC, studying in Class 5th to Class 7th. The beneficiary is provided ₹ 60/- per month, i.e. ₹ 600/- for ten months.",
         "benefits": [
-            "Financial assistance of \u20b9 60/- per month for ten months"
+            "Financial assistance of ₹ 60/- per month for ten months"
         ],
         "eligibility": [
             "The applicant must be a girl.",
@@ -28,7 +28,7 @@
             "Domicile Certificate of Maharashtra",
             "Caste Certificate VJNT or SBC Community (duly signed by an authorized Revenue Officer not below the rank of Tehsildar)",
             "Marksheet of the Latest Educational Qualification",
-            "Fee Receipt of \u2018Current Course Year\u2019",
+            "Fee Receipt of ‘Current Course Year’",
             "Bank Account Details",
             "Passport-sized Photograph"
         ],
@@ -143,5 +143,6 @@
             "Maharashtra",
             "Girl Students"
         ]
-    }
+    },
+    "id": "001656"
 }

@@ -14,7 +14,7 @@
             "An additional 10% investment subsidy on the capital investments shall be provided in case of units owned by the Goan Diaspora.",
             "Incentives shall be disbursed on a pro-rata basis based on the percentage of Employees of Goan origin or Goan Graduates.",
             "In case of any expansions, the unit can avail the investment subsidy, provided it meets the criteria of the Expansion Unit.",
-            "The maximum rebate under this provision would be as follows: Smaller Business Units: \u20b9 10,00,000; Other Business Units: \u20b9 50,00,000; Mega Business Units: \u20b9 1,00,00,000."
+            "The maximum rebate under this provision would be as follows: Smaller Business Units: ₹ 10,00,000; Other Business Units: ₹ 50,00,000; Mega Business Units: ₹ 1,00,00,000."
         ],
         "eligibility": [
             "The applicant should be a New/Existing Unit.",
@@ -84,7 +84,7 @@
             },
             {
                 "question": "What is the maximum rebate available for smaller business units and other business units under the expansion provision?",
-                "answer": "Smaller Business Units can avail a maximum rebate of \u20b910,00,000, while other Business Units can avail \u20b950,00,000 under the expansion provision. Mega Business Units can avail \u20b91,00,00,000."
+                "answer": "Smaller Business Units can avail a maximum rebate of ₹10,00,000, while other Business Units can avail ₹50,00,000 under the expansion provision. Mega Business Units can avail ₹1,00,00,000."
             },
             {
                 "question": "Where Can I Find The Link To The Scheme Guidelines?",
@@ -108,5 +108,6 @@
             "Investment",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000246"
 }

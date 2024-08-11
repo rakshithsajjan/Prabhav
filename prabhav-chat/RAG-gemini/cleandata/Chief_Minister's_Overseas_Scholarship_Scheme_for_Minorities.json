@@ -7,7 +7,7 @@
         "beneficiary": "Minority students",
         "details": "The scheme 'Chief Minister's Overseas Scholarship Scheme for Minorities' was launched by the Minorities Welfare Department, Government of Telangana in the year 2015-16 for students belonging to the Minority community to pursue Higher Studies in Post Graduate Courses in Foreign Universities. Financial Assistance under this Scheme for studies abroad will be sanctioned to 500 minority students/graduates per year to pursue Postgraduate/Doctoral studies abroad.",
         "benefits": [
-            "Fees shall be payable in two installments: \u20b910.00 Lakhs or the actual fee (whichever is less) upon production of the landing permit/1-94 Card and 1st Semester Results.",
+            "Fees shall be payable in two installments: ₹10.00 Lakhs or the actual fee (whichever is less) upon production of the landing permit/1-94 Card and 1st Semester Results.",
             "Assistance amount sanctioned towards fees and living expenses by way of a grant subject to joining the course.",
             "Eligibility for an educational loan from any Nationalized Bank at prevailing rates of interest.",
             "Awardees permitted to supplement their allowances by undertaking a Research/Teaching Assistantship.",
@@ -22,7 +22,7 @@
             "The applicant should have a valid TOEFL/IELTS & GRE/GMAT.",
             "The applicant should have obtained admission to an accredited Foreign University.",
             "The applicant should possess a valid Passport.",
-            "Family income should be less than \u20b95 lakhs per annum from all sources."
+            "Family income should be less than ₹5 lakhs per annum from all sources."
         ],
         "application_process": "Online",
         "documents_required": [
@@ -61,7 +61,7 @@
             },
             {
                 "question": "What is the scholarship amount given to the eligible students?",
-                "answer": "The scholarship amount will be up to \u20b920 lakhs or as per admission letter, whichever is less."
+                "answer": "The scholarship amount will be up to ₹20 lakhs or as per admission letter, whichever is less."
             },
             {
                 "question": "Who is eligible for the scheme?",
@@ -85,7 +85,7 @@
             },
             {
                 "question": "What is the income criterion to avail of the benefits of the scheme?",
-                "answer": "Family income should be less than \u20b95 lakhs per annum from all sources."
+                "answer": "Family income should be less than ₹5 lakhs per annum from all sources."
             },
             {
                 "question": "What is the educational qualification required to apply under the scheme?",
@@ -122,5 +122,6 @@
                 "url": "https://goir.telangana.gov.in/pdfshow.aspx"
             }
         ]
-    }
+    },
+    "id": "000273"
 }

@@ -5,13 +5,13 @@
         "department": "Directorate of Social Welfare and Social Education",
         "type": "Financial Assistance",
         "beneficiary": "Cancer Patients",
-        "details": "The scheme 'Pension Scheme for Cancer Patients' was launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of \u20b92,000/- to persons suffering from cancer.",
+        "details": "The scheme 'Pension Scheme for Cancer Patients' was launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of ₹2,000/- to persons suffering from cancer.",
         "benefits": [
-            "\u20b92,000/- per month."
+            "₹2,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
-            "The income of the applicant should not exceed \u20b91,50,000/- per annum.",
+            "The income of the applicant should not exceed ₹1,50,000/- per annum.",
             "No member of the family (father, mother, son(s), or unmarried daughter(s)) of the applicant should be in government service.",
             "The applicant should be suffering from cancer."
         ],
@@ -93,5 +93,6 @@
             "Patient",
             "Pension"
         ]
-    }
+    },
+    "id": "001426"
 }

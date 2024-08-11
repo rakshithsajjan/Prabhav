@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Theka Shramik Evan Hamaal Shramik Baahy Rogi Chikitsa Sahaayata Yojana' for unorganized worker on 27 August 2015. The main objective of the scheme to provide financial assistance for the medical treatment.",
         "benefits": [
-            "Financial Assistance : \u20b9 2,000/-"
+            "Financial Assistance : ₹ 2,000/-"
         ],
         "eligibility": [
             "Applicant should be registered in any district of the state.",
@@ -32,7 +32,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Financial Assistance : \u20b9 2,000/-"
+                "answer": "Financial Assistance : ₹ 2,000/-"
             },
             {
                 "question": "Who can get the benefits?",
@@ -78,5 +78,6 @@
             "Health",
             "Treatment"
         ]
-    }
+    },
+    "id": "001958"
 }

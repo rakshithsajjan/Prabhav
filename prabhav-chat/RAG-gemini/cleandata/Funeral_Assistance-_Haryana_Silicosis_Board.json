@@ -5,9 +5,9 @@
         "department": "Haryana Labour Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Dependent/Nominee of deceased worker",
-        "details": "The scheme 'Funeral Assistance' is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, financial assistance of \u20b915,000/- is given to the dependent/nominee of a deceased worker, who was confirmed to have Silicosis by the Silicosis Diagnosis Board, Haryana, for performing the funerary rituals.",
+        "details": "The scheme 'Funeral Assistance' is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, financial assistance of ₹15,000/- is given to the dependent/nominee of a deceased worker, who was confirmed to have Silicosis by the Silicosis Diagnosis Board, Haryana, for performing the funerary rituals.",
         "benefits": [
-            "Financial assistance of \u20b915,000/- is given to the dependent/nominee of the deceased worker for performing the funerary rituals."
+            "Financial assistance of ₹15,000/- is given to the dependent/nominee of the deceased worker for performing the funerary rituals."
         ],
         "eligibility": [
             "The applicant should be the dependent/nominee of the deceased worker.",
@@ -35,7 +35,7 @@
             },
             {
                 "question": "How much financial assistance is provided under the scheme?",
-                "answer": "The scheme provides financial assistance of \u20b915,000/-."
+                "answer": "The scheme provides financial assistance of ₹15,000/-."
             },
             {
                 "question": "What is Silicosis?",
@@ -79,5 +79,6 @@
             "Silicosis",
             "Worker"
         ]
-    }
+    },
+    "id": "000648"
 }

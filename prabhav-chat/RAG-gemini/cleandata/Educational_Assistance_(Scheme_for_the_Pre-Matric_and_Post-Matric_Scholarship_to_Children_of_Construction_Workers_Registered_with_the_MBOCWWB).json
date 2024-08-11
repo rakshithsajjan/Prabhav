@@ -7,9 +7,9 @@
         "beneficiary": "Children of construction workers registered with the Meghalaya Building and Other Construction Workers Welfare Board",
         "details": "The Educational Assistance scheme provides scholarships in the form of financial assistance to children of construction workers registered under the Board for Pre-Matric and Post-Matric studies. The scholarships are applicable for courses of study specified by the Board from time to time.",
         "benefits": [
-            "Monthly stipend ranging from \u20b9400 to \u20b91,600 depending on the level of study",
+            "Monthly stipend ranging from ₹400 to ₹1,600 depending on the level of study",
             "One-time book and uniform grant",
-            "Additional \u20b9200 per month for blind students"
+            "Additional ₹200 per month for blind students"
         ],
         "eligibility": [
             "Resident of Meghalaya",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What are the benefits provided under this scholarship?",
-                "answer": "The scholarship includes stipends ranging from \u20b9400 to \u20b91,600 per month depending on the level of study, along with one-time book and uniform grants."
+                "answer": "The scholarship includes stipends ranging from ₹400 to ₹1,600 per month depending on the level of study, along with one-time book and uniform grants."
             },
             {
                 "question": "How can the application be submitted?",
@@ -85,5 +85,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "000480"
 }

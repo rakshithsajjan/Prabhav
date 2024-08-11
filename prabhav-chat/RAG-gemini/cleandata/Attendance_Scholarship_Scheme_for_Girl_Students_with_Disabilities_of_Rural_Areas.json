@@ -7,13 +7,13 @@
         "beneficiary": "Girl Students with Disabilities in Rural Areas",
         "details": "The scheme 'Attendance Scholarship Scheme for Girl Students with Disabilities of Rural Areas' was launched by the Department of Social Security and Women & Child Development, Government of Punjab. The objective of this scheme is to uplift the status of the girls with disabilities in rural areas & also to make them reliant by paying incentives in the form of Attendance Scholarship to these girls. The scheme encourages the girl students with disabilities in rural areas to continue their studies and reduce dropouts.",
         "benefits": [
-            "\u20b92,500/- per annum to the girl students up to 10th standard.",
-            "\u20b93,000/- per annum to the girl students from 10+1 onwards up to higher education.",
+            "₹2,500/- per annum to the girl students up to 10th standard.",
+            "₹3,000/- per annum to the girl students from 10+1 onwards up to higher education.",
             "Scholarship credited online in the bank account of the student."
         ],
         "eligibility": [
             "All rural girl students of Punjab having 40% and above disability (In any disability contained in the schedule of RPwD Act 2016).",
-            "The monthly income of the family/guardians of the girl student should not exceed \u20b95,000/- per month.",
+            "The monthly income of the family/guardians of the girl student should not exceed ₹5,000/- per month.",
             "The minimum attendance of the girl students should be 70%.",
             "The scholarship will be provided to the girl students from 1st Standard onwards up to higher education."
         ],
@@ -21,7 +21,7 @@
         "application_process": "Offline. Application for the scholarship is submitted to the Head of school/college/institution who after verifying it shall forward it to the DSSO of the concerned district.",
         "documents_required": [
             "Disability Certificate/ UDID showing 40% and above disability",
-            "Income certificate showing less than \u20b960,000/- P.A. income of parents",
+            "Income certificate showing less than ₹60,000/- P.A. income of parents",
             "Copy of the bank account details",
             "Any other document, as required"
         ],
@@ -40,11 +40,11 @@
             },
             {
                 "question": "What is the rate of scholarship for girl students up to 10th standard?",
-                "answer": "Girl students up to 10th standard are eligible for a scholarship of \u20b92,500/- per annum."
+                "answer": "Girl students up to 10th standard are eligible for a scholarship of ₹2,500/- per annum."
             },
             {
                 "question": "What is the rate of scholarship for girl students from 10+1 onwards up to higher education?",
-                "answer": "Girl students from 10+1 onwards up to higher education are eligible for a higher scholarship amount of \u20b93,000/- per annum."
+                "answer": "Girl students from 10+1 onwards up to higher education are eligible for a higher scholarship amount of ₹3,000/- per annum."
             },
             {
                 "question": "How is the scholarship amount disbursed to the eligible students?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the financial eligibility criterion for families or guardians of the students?",
-                "answer": "To qualify for the scholarship, the monthly income of the family or guardians of the girl student should not exceed \u20b95,000/-."
+                "answer": "To qualify for the scholarship, the monthly income of the family or guardians of the girl student should not exceed ₹5,000/-."
             },
             {
                 "question": "What is the minimum attendance requirement for students to be eligible for the scholarship?",
@@ -97,5 +97,6 @@
             "Rural Area",
             "Scholarship"
         ]
-    }
+    },
+    "id": "000143"
 }

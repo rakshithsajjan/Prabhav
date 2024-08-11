@@ -1,15 +1,15 @@
 {
     "content": {
-        "title": "Prime Minister\u2019s Scholarship Scheme for the Wards of States/UTs Police Personnel",
+        "title": "Prime Minister’s Scholarship Scheme for the Wards of States/UTs Police Personnel",
         "state": "India",
         "department": "Ministry Of Home Affairs",
         "type": "Scholarship",
         "beneficiary": "Dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks",
-        "details": "The \u201cPrime Minister\u2019s Scholarship Scheme (PMSS) for the Wards of States/UTs Police Personnel\u201d is a scholarship scheme which was introduced by the Ministry of Home Affairs, Government of India during the academic session 2019-20 to encourage higher technical & professional education for the dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks. A total of 500 scholarships will be given to the wards of State Police Personnel who are martyred during Terror/Naxal attacks in equal numbers to the Boys and Girls (i.e. 250 for boys and 250 for girls).",
+        "details": "The “Prime Minister’s Scholarship Scheme (PMSS) for the Wards of States/UTs Police Personnel” is a scholarship scheme which was introduced by the Ministry of Home Affairs, Government of India during the academic session 2019-20 to encourage higher technical & professional education for the dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks. A total of 500 scholarships will be given to the wards of State Police Personnel who are martyred during Terror/Naxal attacks in equal numbers to the Boys and Girls (i.e. 250 for boys and 250 for girls).",
         "benefits": [
-            "\u20b93,000/- per month for girls.",
-            "\u20b92,500/- per month for boys.",
-            "The above scholarship amount is to be paid annually after selection @ \u20b936,000/- to each girl & \u20b930,000/- to each boy.",
+            "₹3,000/- per month for girls.",
+            "₹2,500/- per month for boys.",
+            "The above scholarship amount is to be paid annually after selection @ ₹36,000/- to each girl & ₹30,000/- to each boy.",
             "Duration of Scholarship: Up to 5 years (depending upon the duration of the course being pursued by the applicant and as approved by the respective regulatory body)."
         ],
         "eligibility": [
@@ -41,8 +41,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the 'Prime Minister\u2019s Scholarship Scheme for the Wards of States/UTs Police Personnel'?",
-                "answer": "The Prime Minister\u2019s Scholarship Scheme (PMSS) is a scholarship program introduced by the Ministry of Home Affairs, Government of India, aimed at encouraging higher technical and professional education for the dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks."
+                "question": "What is the 'Prime Minister’s Scholarship Scheme for the Wards of States/UTs Police Personnel'?",
+                "answer": "The Prime Minister’s Scholarship Scheme (PMSS) is a scholarship program introduced by the Ministry of Home Affairs, Government of India, aimed at encouraging higher technical and professional education for the dependent wards of States/UTs Police Personnel who are martyred during Terror/Naxal attacks."
             },
             {
                 "question": "When was the scheme introduced?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What are the benefits of the Scheme?",
-                "answer": "Under the scheme, selected students receive financial assistance as follows: \u20b93,000/- per month for girls. \u20b92,500/- per month for boys."
+                "answer": "Under the scheme, selected students receive financial assistance as follows: ₹3,000/- per month for girls. ₹2,500/- per month for boys."
             },
             {
                 "question": "How long does the scholarship last?",
@@ -89,5 +89,6 @@
             "Higher Education",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001528"
 }

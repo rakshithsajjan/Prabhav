@@ -7,13 +7,13 @@
         "beneficiary": "Traditional workers of Viswakarma Communities",
         "details": "The Scheme 'Viswakarma Pension' was launched by the Backward Classes Development Department, Government of Kerala to give a pension to traditional workers of Viswakarma Communities (Carpenters (wood, iron, stone), Goldsmiths, Moosari) who have completed 60 years of age in the Kerala State.",
         "benefits": [
-            "The monthly pension amount of \u20b91100/- will be given to the persons belonging to the traditional Viswakarma Communities."
+            "The monthly pension amount of ₹1100/- will be given to the persons belonging to the traditional Viswakarma Communities."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of the Kerala State.",
             "The applicant should belong to the traditional Viswakarma Community of Kerala State.",
             "The age of the applicant should be more than 60 years.",
-            "The annual family income of the applicant should be \u20b91,00,000/-."
+            "The annual family income of the applicant should be ₹1,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Offline and Online. The applicant should visit the Official Website of the Backward Classes Development Department, Government of Kerala, and download the application form. Fill out the application form completely and send it along with all the relevant documents to the specified address.",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The monthly pension amount of \u20b91100/- will be given to the persons belonging to the traditional Viswakarma Communities."
+                "answer": "The monthly pension amount of ₹1100/- will be given to the persons belonging to the traditional Viswakarma Communities."
             },
             {
                 "question": "What should be the minimum age limit of the applicant?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What is the criterion for annual family income under the scheme?",
-                "answer": "The annual family income of the applicant from all sources does not exceed \u20b91,00,000/-."
+                "answer": "The annual family income of the applicant from all sources does not exceed ₹1,00,000/-."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -107,5 +107,6 @@
             "Viswakarma Community",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "002021"
 }

@@ -5,10 +5,10 @@
         "department": "Social Welfare and Nutritious Meal Programme Department",
         "type": "Financial Assistance",
         "beneficiary": "Legal heirs of the primary breadwinner",
-        "details": "The scheme 'Accident Relief Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to provide financial assistance of \u20b920,000/- to the legal heirs of the household below poverty line on the death of a 'Primary breadwinner' (male or female) due to an accident in respect of 44 occupational categories of notified employment as per G.O.Ms.No.471, Finance (CMPRF) Department dated.23.05.1989.",
+        "details": "The scheme 'Accident Relief Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to provide financial assistance of ₹20,000/- to the legal heirs of the household below poverty line on the death of a 'Primary breadwinner' (male or female) due to an accident in respect of 44 occupational categories of notified employment as per G.O.Ms.No.471, Finance (CMPRF) Department dated.23.05.1989.",
         "benefits": [
-            "Financial assistance of \u20b920,000/- is given to the legal heirs of the household below poverty line.",
-            "Depending upon the nature of the injury sustained and the degree of physical impairment, relief of \u20b95,000 to \u20b915,000 is given."
+            "Financial assistance of ₹20,000/- is given to the legal heirs of the household below poverty line.",
+            "Depending upon the nature of the injury sustained and the degree of physical impairment, relief of ₹5,000 to ₹15,000 is given."
         ],
         "eligibility": [
             "The breadwinner of the family, whether male or female, must be an earning member.",
@@ -36,11 +36,11 @@
             },
             {
                 "question": "How much financial assistance is provided in case of death of the primary breadwinner?",
-                "answer": "\u20b920,000 is given to the legal heirs of the household below the poverty line in case of the primary breadwinner's death."
+                "answer": "₹20,000 is given to the legal heirs of the household below the poverty line in case of the primary breadwinner's death."
             },
             {
                 "question": "What is the maximum relief amount provided for injury sustained due to an accident?",
-                "answer": "Relief amounts range from \u20b95,000 to \u20b915,000 based on the nature of the injury and degree of physical impairment."
+                "answer": "Relief amounts range from ₹5,000 to ₹15,000 based on the nature of the injury and degree of physical impairment."
             },
             {
                 "question": "How many categories of employments are covered under this scheme?",
@@ -87,5 +87,6 @@
             "Death",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000044"
 }

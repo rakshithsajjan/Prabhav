@@ -5,9 +5,9 @@
         "department": "Labour Department, Union Territory of Puducherry",
         "type": "Financial Assistance",
         "beneficiary": "Unorganized Workers",
-        "details": "The 'Deepawali Cash Gift Scheme (PULWS)' is a Welfare Scheme for the Unorganized Workers in Puducherry by the 'Puducherry Unorganised Labourers' Welfare Society'. The Society extends \u20b9500/- to the Unorganised Workers as a Cash Gift during the festival of Diwali. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the worker. The applications are accepted offline.",
+        "details": "The 'Deepawali Cash Gift Scheme (PULWS)' is a Welfare Scheme for the Unorganized Workers in Puducherry by the 'Puducherry Unorganised Labourers' Welfare Society'. The Society extends ₹500/- to the Unorganised Workers as a Cash Gift during the festival of Diwali. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the worker. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b9500/- as a Cash Gift during the festival of Diwali.",
+            "Financial Assistance of ₹500/- as a Cash Gift during the festival of Diwali.",
             "The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee."
         ],
         "eligibility": [
@@ -16,8 +16,8 @@
             "The applicant should be an Unorganized Worker: Taxi and Auto Drivers, Workers Employed in Shops & Catering Establishments, Carpenters, Nathaswara Vidwans, Hair Dressers, Tailors, Cycle Rickshaw Drivers, Cobblers, Washermans, Goldsmith, Blacksmith, Brass Vessel Makers, Sculptors, Loading and Unloading Workers, Tree Climbers, Pottery Workers, Coir Workers, Toddy Neera Tappers, Bullock Cart Drivers, Thatchers, Cooks, Hawkers, News Paper Vendors, Workers Engaged in Bricks and Tiles Manufacturing, One Hundred, Workers Engaged in Distribution of Liquid Petroleum Gas Cylinder, Domestic Workers, Light Music Instrument Players, Automobile Workshop Workers.",
             "The applicant should be enrolled with the Puducherry Unorganised Labourers' Welfare Society.",
             "The applicant should be between 18 to 59 years of age.",
-            "The applicant should be taking an Annual Subscription of \u20b9100/- every year.",
-            "The applicant should be paying a Registration Fee of \u20b925/-."
+            "The applicant should be taking an Annual Subscription of ₹100/- every year.",
+            "The applicant should be paying a Registration Fee of ₹25/-."
         ],
         "application_process": "Offline. The interested applicant should visit the Office of the Puducherry Unorganised Labourer's Welfare Society, No.1, Rue Sufferen, Puducherry, and obtain the prescribed format of the application form free of cost from the concerned authority exclusively entrusted to issue and collect filled-in applications.",
         "documents_required": [
@@ -53,7 +53,7 @@
             },
             {
                 "question": "How much is the Annual Subscription? Who is required to pay it?",
-                "answer": "The worker needs to pay an annual subscription of \u20b9100 every year."
+                "answer": "The worker needs to pay an annual subscription of ₹100 every year."
             },
             {
                 "question": "Where can an interested applicant obtain the application form for the scheme?",
@@ -88,5 +88,6 @@
             "Gift",
             "Worker"
         ]
-    }
+    },
+    "id": "000369"
 }

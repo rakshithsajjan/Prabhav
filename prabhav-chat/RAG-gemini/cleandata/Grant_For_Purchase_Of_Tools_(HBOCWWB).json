@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Grant",
         "beneficiary": "Construction Worker",
-        "details": "The scheme 'Grant for Purchase of Tools (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, a grant of \u20b98000/- is given to the registered construction workers to buy new and suitable tool kits once in 3 years.",
+        "details": "The scheme 'Grant for Purchase of Tools (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, a grant of ₹8000/- is given to the registered construction workers to buy new and suitable tool kits once in 3 years.",
         "benefits": [
-            "A grant of \u20b98000/- is given to the registered construction workers to buy new and suitable tool kits.",
+            "A grant of ₹8000/- is given to the registered construction workers to buy new and suitable tool kits.",
             "The grant facility is available once in three years."
         ],
         "eligibility": [
@@ -31,7 +31,7 @@
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "Under the scheme, a grant of \u20b98000/- is given to the registered construction workers to buy new and suitable tool kits once in 3 years."
+                "answer": "Under the scheme, a grant of ₹8000/- is given to the registered construction workers to buy new and suitable tool kits once in 3 years."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "A grant of \u20b98000/- is given to the registered construction workers to buy new and suitable tool kits."
+                "answer": "A grant of ₹8000/- is given to the registered construction workers to buy new and suitable tool kits."
             },
             {
                 "question": "When will a worker be eligible to apply again under the scheme?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Yes, the first-time registration charges are \u20b925/- and the registration fees vary according to the renewal time period."
+                "answer": "Yes, the first-time registration charges are ₹25/- and the registration fees vary according to the renewal time period."
             },
             {
                 "question": "How can a construction worker apply under the scheme?",
@@ -97,5 +97,6 @@
             "Labour",
             "Tools"
         ]
-    }
+    },
+    "id": "000711"
 }

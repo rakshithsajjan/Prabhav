@@ -7,7 +7,7 @@
         "beneficiary": "Sex Workers and Sexually Abused Women",
         "details": "The 'Goa (Technical/ Vocational Training to Sex Workers and Sexually Abused Women) Scheme, 2013 (PRABHAT)' provides technical/vocational training for sex workers and sexually abused women to enable them to earn for their livelihood through such technical/vocational training and skill. The department will take the assistance of members of reputed NGOs/Trust/Society/professionals/expert bodies, who are involved in the rehabilitation of sex workers.",
         "benefits": [
-            "Financial Assistance: \u20b9 2,500/- per month for three months or until joining a livelihood programme.",
+            "Financial Assistance: ₹ 2,500/- per month for three months or until joining a livelihood programme.",
             "Technical/Vocational Training: Assistance in joining training programmes with covered fees and expenses.",
             "Education: Support for education up to 12th Standard.",
             "Shelter: Admission to shelter homes if needed.",
@@ -61,5 +61,6 @@
             "Skill",
             "Vocational Education"
         ]
-    }
+    },
+    "id": "000684"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Labour, Employment & Training, Andaman & Nicobar Administration",
         "type": "Pension",
         "beneficiary": "Building Worker, Construction Worker, Labour",
-        "details": "The scheme \u201cPension Benefit\u201d was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, a pension shall be provided to the Building and Other Construction Workers who are registered under the A&N Islands Building and Other Construction Workers Welfare Board upon attaining the age of 55 years.",
+        "details": "The scheme “Pension Benefit” was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, a pension shall be provided to the Building and Other Construction Workers who are registered under the A&N Islands Building and Other Construction Workers Welfare Board upon attaining the age of 55 years.",
         "benefits": [
-            "Registered construction worker, who has completed 55 years of age, is eligible for pension @ \u20b91,000/- per month."
+            "Registered construction worker, who has completed 55 years of age, is eligible for pension @ ₹1,000/- per month."
         ],
         "eligibility": [
             "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What is the pension amount provided under the scheme?",
-                "answer": "The registered construction worker, upon attaining 55 years of age, is eligible for a pension of \u20b91,000 per month under the scheme."
+                "answer": "The registered construction worker, upon attaining 55 years of age, is eligible for a pension of ₹1,000 per month under the scheme."
             },
             {
                 "question": "Is there any age requirement for applying for the scheme?",
@@ -95,5 +95,6 @@
             "Construction Worker",
             "Labour"
         ]
-    }
+    },
+    "id": "001420"
 }

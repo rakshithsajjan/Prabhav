@@ -8,10 +8,10 @@
         "details": "The scheme 'Organizing/ Participation in Exhibitions /Trade Fairs /Expo /Seminars /Investors Meets, etc' under 'Marketing And Publicity' was launched by the Department of Industries and Commerce, Union Territory of Puducherry. Through this scheme, Promotion Campaigns, Investors Meets, Seminars etc., are arranged both within India and abroad, to attract industries to invest in Puducherry. This will help them in increasing the marketability of these products.",
         "benefits": [
             "Promotion Campaigns, Exhibitions, Trade Fairs, Investors Meets, Seminars etc., are arranged in important towns/cities of India and abroad, for the market promotion (display cum sale) for (MSME) products (industrial products, handicraft products, cottage industries products, etc).",
-            "The participating artisans/unit industrialists are paid traveling expenses restricted to second-class railway fare and Daily Allowance (DA) at the rate of \u20b9400/- per day per person.",
+            "The participating artisans/unit industrialists are paid traveling expenses restricted to second-class railway fare and Daily Allowance (DA) at the rate of ₹400/- per day per person.",
             "Payment of honorarium and winter clothing for the officials of this department on duty in India International Trade Fair, New Delhi and other Fair/ Exhibitions held in other major cities.",
-            "Honorarium at the rate of \u20b9400/- per day in addition to the normal DA.",
-            "Winter clothing allowance not exceeding \u20b93,500/- during such trade fair."
+            "Honorarium at the rate of ₹400/- per day in addition to the normal DA.",
+            "Winter clothing allowance not exceeding ₹3,500/- during such trade fair."
         ],
         "eligibility": [
             "The applicant should be an artisan/unit industrialist from Puducherry."
@@ -61,7 +61,7 @@
             },
             {
                 "question": "What expenses are covered for artisans/unit industrialists participating in events under the scheme?",
-                "answer": "Traveling expenses, including second-class railway fare, and a Daily Allowance (DA) at the rate of \u20b9400/- per day per person are covered for participating artisans/unit industrialists."
+                "answer": "Traveling expenses, including second-class railway fare, and a Daily Allowance (DA) at the rate of ₹400/- per day per person are covered for participating artisans/unit industrialists."
             },
             {
                 "question": "Are there any restrictions on the payment of traveling expenses for participants?",
@@ -98,5 +98,6 @@
             "Investment",
             "Marketing"
         ]
-    }
+    },
+    "id": "001395"
 }

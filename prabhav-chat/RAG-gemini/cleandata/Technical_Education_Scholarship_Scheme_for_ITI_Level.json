@@ -7,7 +7,7 @@
         "beneficiary": "Students belonging to SC/ST/OBC Categories",
         "details": "The scheme 'Technical Education Scholarship Scheme for ITI Level' was started by the Department of Technical Education, Himachal Pradesh. The objective of awarding this scholarship is two-fold, firstly to improve the quality of training by attracting promising trainees belonging to Scheduled Caste, Scheduled Tribe, and Other Backward Classes, who otherwise would not be in a position to pursue training due to financial constraints and secondly to popularize technical training among these categories, so as to make them able to earn their livelihood respectably and honourably.",
         "benefits": [
-            "The scholarships shall be paid at the rate of \u20b9250/- per month per trainee subject to the condition that the corresponding decrease shall be affected in the rate of scholarship if the trainees receive a stipend from any other department of the Government or any organization."
+            "The scholarships shall be paid at the rate of ₹250/- per month per trainee subject to the condition that the corresponding decrease shall be affected in the rate of scholarship if the trainees receive a stipend from any other department of the Government or any organization."
         ],
         "eligibility": [
             "The students belonging to the SC/ST/OBC Categories studying in the I.T.Is and I.T.Is for women in Himachal Pradesh, who are bonafide Himachali, and as per categories notified by the State Government shall be eligible for the grant of these scholarships.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The scholarships shall be paid at the rate of \u20b9250/- per month per trainee subject to the condition that the corresponding decrease shall be affected in the rate of scholarship if the trainees receive a stipend from any other department of the Government or any organization."
+                "answer": "The scholarships shall be paid at the rate of ₹250/- per month per trainee subject to the condition that the corresponding decrease shall be affected in the rate of scholarship if the trainees receive a stipend from any other department of the Government or any organization."
             },
             {
                 "question": "What should be the percentage of attendance to receive the scholarship?",
@@ -86,5 +86,6 @@
             "Himachal Pradesh",
             "SC/ST/OBC"
         ]
-    }
+    },
+    "id": "001927"
 }

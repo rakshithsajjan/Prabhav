@@ -1,11 +1,11 @@
 {
     "content": {
-        "title": "Chief Minister\u2019s Comprehensive Health Insurance Scheme - Tamil Nadu",
+        "title": "Chief Minister’s Comprehensive Health Insurance Scheme - Tamil Nadu",
         "state": "Tamil Nadu",
         "department": "Department for the Welfare of Differently Abled Persons",
         "type": "Health Insurance",
         "beneficiary": "Differently Abled Persons and their family members",
-        "details": "The 'Chief Minister\u2019s Comprehensive Health Insurance Scheme' was launched by the Department for the Welfare of Differently Abled Persons, Govt. of Tamil Nadu. To achieve the objective of universal health care, the government has implemented a comprehensive health insurance scheme to benefit differently abled persons. Under this scheme, all the differently abled persons and their family members are enrolled without any income ceiling.",
+        "details": "The 'Chief Minister’s Comprehensive Health Insurance Scheme' was launched by the Department for the Welfare of Differently Abled Persons, Govt. of Tamil Nadu. To achieve the objective of universal health care, the government has implemented a comprehensive health insurance scheme to benefit differently abled persons. Under this scheme, all the differently abled persons and their family members are enrolled without any income ceiling.",
         "benefits": [
             "Comprehensive health insurance scheme to benefit differently abled persons."
         ],
@@ -22,8 +22,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the purpose of the Chief Minister\u2019s Comprehensive Health Insurance Scheme?",
-                "answer": "The Chief Minister\u2019s Comprehensive Health Insurance Scheme aims to provide universal health care by offering comprehensive health insurance coverage to differently abled persons and their family members."
+                "question": "What is the purpose of the Chief Minister’s Comprehensive Health Insurance Scheme?",
+                "answer": "The Chief Minister’s Comprehensive Health Insurance Scheme aims to provide universal health care by offering comprehensive health insurance coverage to differently abled persons and their family members."
             },
             {
                 "question": "Who is eligible to benefit from this health insurance scheme?",
@@ -74,5 +74,6 @@
             "Health",
             "Insurance"
         ]
-    }
+    },
+    "id": "000296"
 }

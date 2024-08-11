@@ -13,7 +13,7 @@
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
             "The applicant should be blind.",
             "The applicant should have disability of 40% or above.",
-            "The annual income of the applicant should not exceed \u20b9 75,000/-."
+            "The annual income of the applicant should not exceed ₹ 75,000/-."
         ],
         "exclusions": [],
         "application_process": "Offline",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How does one qualify as an eligible applicant for the scheme?",
-                "answer": "To qualify, an applicant must be a resident of Puducherry for at least 5 years, have a disability of 40% or above, and an annual income below \u20b9 75,000/-."
+                "answer": "To qualify, an applicant must be a resident of Puducherry for at least 5 years, have a disability of 40% or above, and an annual income below ₹ 75,000/-."
             },
             {
                 "question": "Is There Any Compensation For The Delay In The Disbursal Of The Scheme Benefits?",
@@ -94,5 +94,6 @@
             "Disability",
             "PwD"
         ]
-    }
+    },
+    "id": "001891"
 }

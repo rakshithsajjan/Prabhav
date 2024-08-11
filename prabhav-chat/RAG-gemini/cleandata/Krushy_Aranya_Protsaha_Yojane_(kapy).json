@@ -38,14 +38,14 @@
             "all types of citrus species",
             "grafted mango"
         ],
-        "application_process": "Step 01: Visit the nearest Range Forest Office and obtain the prescribed Application Form. Step 02: Fill out the application form with the following details- name, address, and passport-sized photograph of the applicant, Pahani of the land where planting is being proposed, Hand-sketch of the land, Details of seedlings (species, number of seedlings, size of poly-bags, etc.), and Details of the applicant's bank account. Step 03: Submit the application form along with a registration fee of Rs 10. Step 04: Once registered, the applicant should visit the nearby nursery to obtain the seedlings. The seedlings are available at subsidized rates as follows- Re 1/- for each seedling in poly-bags of size 5\u201dx8\u201d and 6\u201dx9\u201d, Rs 3/- for each seedling in poly-bags of size 8\u201dx12\u201d, and Rs 5/- for each seedling in poly-bag of size 10\u201dx16\u201d and 14\u201dx 20\u201d. The farmer can choose the appropriate size of the poly-bag based on the seedling species and size.",
+        "application_process": "Step 01: Visit the nearest Range Forest Office and obtain the prescribed Application Form. Step 02: Fill out the application form with the following details- name, address, and passport-sized photograph of the applicant, Pahani of the land where planting is being proposed, Hand-sketch of the land, Details of seedlings (species, number of seedlings, size of poly-bags, etc.), and Details of the applicant's bank account. Step 03: Submit the application form along with a registration fee of Rs 10. Step 04: Once registered, the applicant should visit the nearby nursery to obtain the seedlings. The seedlings are available at subsidized rates as follows- Re 1/- for each seedling in poly-bags of size 5”x8” and 6”x9”, Rs 3/- for each seedling in poly-bags of size 8”x12”, and Rs 5/- for each seedling in poly-bag of size 10”x16” and 14”x 20”. The farmer can choose the appropriate size of the poly-bag based on the seedling species and size.",
         "documents_required": [
             "Copy of Aadhaar Card",
             "Passport-sized photograph of the applicant",
             "Pahani of the land where planting is being proposed",
             "Hand-sketch of the land",
             "Details of seedlings (species, number of seedlings, size of poly-bags, etc.)",
-            "Details of the applicant\u2019s bank account."
+            "Details of the applicant’s bank account."
         ],
         "faqs": [
             {
@@ -90,7 +90,7 @@
             },
             {
                 "question": "What are the required documents?",
-                "answer": "Copy of Aadhaar Card, Passport-sized photograph of the applicant, Pahani of the land where planting is being proposed, Hand-sketch of the land, Details of seedlings (species, number of seedlings, size of poly-bags, etc.) and Details of applicant\u2019s bank account."
+                "answer": "Copy of Aadhaar Card, Passport-sized photograph of the applicant, Pahani of the land where planting is being proposed, Hand-sketch of the land, Details of seedlings (species, number of seedlings, size of poly-bags, etc.) and Details of applicant’s bank account."
             },
             {
                 "question": "How to obtain Pahani (RTC)?",
@@ -113,5 +113,6 @@
             "Karnataka",
             "Farmers"
         ]
-    }
+    },
+    "id": "000998"
 }

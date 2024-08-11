@@ -8,10 +8,10 @@
         "details": "Chhattisgarh 'Medhaavee Chhaatr/ Chhaatra Shiksha Protsaahan Yojana' has been started by the Government of Chhattisgarh and operated by the Labor Department of Chhattisgarh. Benefits will be provided to applicants studying in 10th, 12th, graduation, post graduation, and some selected courses.",
         "benefits": [
             "Financial Assistance",
-            "Annual Incentive Amount for Class 10th & 12th: \u20b9 5,000/- for boys and \u20b9 5,500/- for girls",
-            "Annual Incentive Amount for All Graduate Courses: \u20b9 7,500/- for both boys and girls",
-            "Annual Incentive Amount for All Post Graduate Courses: \u20b9 10,000/- for boys and \u20b9 10,500/- for girls",
-            "Annual Incentive Amount for vocational education: \u20b9 12,000/- for boys and \u20b9 12,500/- for girls",
+            "Annual Incentive Amount for Class 10th & 12th: ₹ 5,000/- for boys and ₹ 5,500/- for girls",
+            "Annual Incentive Amount for All Graduate Courses: ₹ 7,500/- for both boys and girls",
+            "Annual Incentive Amount for All Post Graduate Courses: ₹ 10,000/- for boys and ₹ 10,500/- for girls",
+            "Annual Incentive Amount for vocational education: ₹ 12,000/- for boys and ₹ 12,500/- for girls",
             "Reimbursement of admission fees and academic expenses for students in government institutions"
         ],
         "eligibility": [
@@ -89,5 +89,6 @@
             "Scholarship",
             "Student Finance"
         ]
-    }
+    },
+    "id": "001115"
 }

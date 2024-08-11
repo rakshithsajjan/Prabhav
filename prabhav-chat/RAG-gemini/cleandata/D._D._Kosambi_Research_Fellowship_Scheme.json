@@ -7,9 +7,9 @@
         "beneficiary": "Goan Scholars",
         "details": "The scheme 'Goa State Best Library and Best Librarian Award' has been designed by the Directorate of Art and Culture, Government of Goa to encourage Goan Scholars to undertake research in the field of Goan history, culture, arts, social studies etc. Three fellowships shall be awarded, upto one at junior, upto one at senior & upto one at the post-doctoral level each for research in the specified areas every year.",
         "benefits": [
-            "Eligible scholars for the junior category shall be awarded a fellowship up to \u20b9 15,000/- per month for a maximum period of 2 years, on a case-to-case basis.",
-            "Eligible scholars for senior & post-doctoral categories shall be awarded a fellowship of \u20b9 20,000/- per month for a maximum period of 2 years, on a case-to-case basis.",
-            "However, the applicant who undertakes to complete the research work on a full-time basis may be awarded the scholarship upto \u20b9 30,000/- per month."
+            "Eligible scholars for the junior category shall be awarded a fellowship up to ₹ 15,000/- per month for a maximum period of 2 years, on a case-to-case basis.",
+            "Eligible scholars for senior & post-doctoral categories shall be awarded a fellowship of ₹ 20,000/- per month for a maximum period of 2 years, on a case-to-case basis.",
+            "However, the applicant who undertakes to complete the research work on a full-time basis may be awarded the scholarship upto ₹ 30,000/- per month."
         ],
         "eligibility": [
             "Any individual who has completed post-graduation and is upto 35 years of age shall be eligible to undertake research in the junior category.",
@@ -75,5 +75,6 @@
             "Research",
             "Social Studies"
         ]
-    }
+    },
+    "id": "000351"
 }

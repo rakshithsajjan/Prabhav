@@ -7,8 +7,8 @@
         "beneficiary": "Wards and widows of Central Police Force personnel",
         "details": "The scheme was introduced by the Ministry of Home Affairs, Government of India in the Academic year 2006-07 to encourage higher technical and professional education for the wards of widows and ex-CPFs personnel. It provides 5000 scholarships for the wards of ex-servicemen/widows of army personnel and para-military forces for pursuing advanced education in various fields.",
         "benefits": [
-            "\u20b91250/- per month for boys",
-            "\u20b91500/- per month for girls",
+            "₹1250/- per month for boys",
+            "₹1500/- per month for girls",
             "Duration of the scholarship: Two to five years as approved by the concerned regulatory body for the programme."
         ],
         "eligibility": [
@@ -24,7 +24,7 @@
             "An Attested photocopy of the mark sheet of 10 + 2/equivalent examination.",
             "In the case of MBA/MCA applicants, an attested copy of the minimum entry qualification certificate.",
             "Bonafide studentship certificate to be issued by Registrar/Dean/Principal of College/Institution pertaining to the particular course for which scholarship is claimed.",
-            "Attested photocopy of the previous academic year\u2019s mark sheet for the continuation of the scholarship.",
+            "Attested photocopy of the previous academic year’s mark sheet for the continuation of the scholarship.",
             "Certificate in original from College/Institution that the applicant has not dropped in any year of the course.",
             "Certificate from College/Institute that the Institution is approved by AICTE/MCI etc.",
             "Attested copy of discharge certificate / I-card issued by the unit commander of the concerned force as proof of ex-CPF personnel.",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "What is the amount of Scholarship given under the scheme?",
-                "answer": "The amount of scholarship of \u20b91250/- per month & \u20b91500/- per month will be given to the boys & girls respectively."
+                "answer": "The amount of scholarship of ₹1250/- per month & ₹1500/- per month will be given to the boys & girls respectively."
             },
             {
                 "question": "What is the duration of the Scholarship?",
@@ -106,5 +106,6 @@
             "Wards",
             "Widow"
         ]
-    }
+    },
+    "id": "001525"
 }

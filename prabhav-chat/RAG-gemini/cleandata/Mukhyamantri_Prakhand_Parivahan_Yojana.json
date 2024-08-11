@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled castes, scheduled tribes, extremely backward classes, backward classes, and minority communities",
         "details": "Under the Transport Department of the Bihar Government, has implemented the 'Mukhyamantri Prakhand Parivahan Yojana' to provide transportation facilities connecting blocks and remote Panchayats with district headquarters. This scheme aims to enhance connectivity and facilitate mobility for residents across the state of Bihar. To encourage scheduled castes, scheduled tribes, extremely backward classes, backward classes, and minority communities entrepreneurship by providing financial support to purchase buses.",
         "benefits": [
-            "Subsidy of \u20b95,00,000/- per bus to beneficiaries."
+            "Subsidy of ₹5,00,000/- per bus to beneficiaries."
         ],
         "eligibility": [
             "The beneficiary should be a resident of the block where they apply.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What financial assistance is provided under the scheme?",
-                "answer": "A grant of \u20b95,00,000/- per bus."
+                "answer": "A grant of ₹5,00,000/- per bus."
             },
             {
                 "question": "Can beneficiaries sell their vehicles?",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "How do I apply for the scheme?",
-                "answer": "Applications are submitted online through the Transport Department\u2019s website."
+                "answer": "Applications are submitted online through the Transport Department’s website."
             },
             {
                 "question": "How are beneficiaries selected?",
@@ -83,5 +83,6 @@
             "Subsidy",
             "Transport"
         ]
-    }
+    },
+    "id": "001224"
 }

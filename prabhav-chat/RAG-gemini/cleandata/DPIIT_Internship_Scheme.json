@@ -7,7 +7,7 @@
         "beneficiary": "Students pursuing Under Graduate/Post Graduate degrees or Research Scholars",
         "details": "DPIIT Internship Scheme is implemented for students pursuing Under Graduate/Post Graduate degrees or Research Scholars enrolled in recognized University/Institution within India or abroad. The objective is to give exposure to students to understand the working culture of the Government of India and the schemes being run by this Department.",
         "benefits": [
-            "Stipend of \u20b910,000/- per month",
+            "Stipend of ₹10,000/- per month",
             "Maximum number of interns selected at a time will not be more than 20",
             "Experience Certificate awarded after completing the internship"
         ],
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Is there a deadline for submitting the application for the internship?",
-                "answer": "Online portal on DPIIT\u2019s shall be open during the period from 1st March to 30th April and 1st September to 31st October of every year for receiving applications from Students for internship."
+                "answer": "Online portal on DPIIT’s shall be open during the period from 1st March to 30th April and 1st September to 31st October of every year for receiving applications from Students for internship."
             },
             {
                 "question": "How long will the internship be?",
@@ -94,5 +94,6 @@
             "Government Scheme",
             "Education"
         ]
-    }
+    },
+    "id": "000353"
 }

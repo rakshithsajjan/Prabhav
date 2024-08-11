@@ -5,9 +5,9 @@
         "department": "Social Welfare and Women Empowerment Department",
         "type": "Pension",
         "beneficiary": "Destitute/Deserted Wives",
-        "details": "The 'Destitute/Deserted Wives Pension Scheme' is a state scheme launched by the Social Welfare and Women Empowerment Department, Tamil Nadu. The objective is to provide financial assistance of \u20b91,000/- to the destitute/deserted wives. The scheme provides other benefits every year during the Pongal and Deepavali festival, including one priceless saree and a nutritious meal supplied through the Anganwadi Centres.",
+        "details": "The 'Destitute/Deserted Wives Pension Scheme' is a state scheme launched by the Social Welfare and Women Empowerment Department, Tamil Nadu. The objective is to provide financial assistance of ₹1,000/- to the destitute/deserted wives. The scheme provides other benefits every year during the Pongal and Deepavali festival, including one priceless saree and a nutritious meal supplied through the Anganwadi Centres.",
         "benefits": [
-            "\u20b91,000/- per month pension",
+            "₹1,000/- per month pension",
             "One free saree during Pongal and Deepavali",
             "2kg/month of free rice for those taking nutritious meals",
             "4kg/month of free rice for those not taking nutritious meals"
@@ -16,7 +16,7 @@
             "The applicant should be legally divorced or deserted for a minimum of 5 years.",
             "The applicant should be a destitute woman.",
             "The applicant's age should be 30 years and above.",
-            "The applicant's fixed assets should not exceed \u20b91,00,000."
+            "The applicant's fixed assets should not exceed ₹1,00,000."
         ],
         "exclusions": [],
         "application_process": "Online - via Common Service Centers (CSCs). The applicant should gather necessary documents, visit the nearest CSC for biometric verification, fill in the application form, and request a receipt from the concerned authority.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What is the amount of the monthly pension?",
-                "answer": "The monthly pension under this scheme is \u20b91,000."
+                "answer": "The monthly pension under this scheme is ₹1,000."
             },
             {
                 "question": "Do I get the free saree and rice every month?",
@@ -51,8 +51,8 @@
                 "answer": "No, the minimum age requirement is 30 years old."
             },
             {
-                "question": "My husband left me 5 years ago, but I have savings of \u20b91.5 lakh. Can I still apply?",
-                "answer": "The maximum limit for fixed assets is \u20b91 lakh. Your savings exceed the limit, so you might not be eligible."
+                "question": "My husband left me 5 years ago, but I have savings of ₹1.5 lakh. Can I still apply?",
+                "answer": "The maximum limit for fixed assets is ₹1 lakh. Your savings exceed the limit, so you might not be eligible."
             },
             {
                 "question": "Can I track the status of my application?",
@@ -72,11 +72,11 @@
             },
             {
                 "question": "How often is the pension disbursed to the beneficiaries?",
-                "answer": "Beneficiaries receive the pension amount of \u20b91,000 per month."
+                "answer": "Beneficiaries receive the pension amount of ₹1,000 per month."
             },
             {
                 "question": "Are there any specific guidelines regarding the fixed assets of the applicant?",
-                "answer": "Yes, to be eligible, the applicant's fixed assets should not exceed \u20b91,00,000."
+                "answer": "Yes, to be eligible, the applicant's fixed assets should not exceed ₹1,00,000."
             }
         ],
         "sources": [
@@ -96,5 +96,6 @@
             "Financial Assistance",
             "Pension"
         ]
-    }
+    },
+    "id": "000378"
 }

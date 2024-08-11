@@ -7,8 +7,8 @@
         "beneficiary": "Individual Weavers",
         "details": "Assistance to Individual Handloom Weaver is a sub-scheme under West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024, implemented by the MSME and Textiles Dept, Government of West Bengal aims to provide one-time financial assistance to the individual Handloom weavers.",
         "benefits": [
-            "\u20b95000/- per weaver towards repair/renovation of work shed and/or repair/modification of loom & accessories",
-            "\u20b910,000/- towards raw material assistance for production of handloom products"
+            "₹5000/- per weaver towards repair/renovation of work shed and/or repair/modification of loom & accessories",
+            "₹10,000/- towards raw material assistance for production of handloom products"
         ],
         "eligibility": [
             "Individual Weavers of the state",
@@ -20,7 +20,7 @@
         "faqs": [
             {
                 "question": "What is the definition of 'PWCS'?",
-                "answer": "'PWCS' means the Primary Weavers\u2019 Cooperative Societies registered under the West Bengal Cooperative Societies Act."
+                "answer": "'PWCS' means the Primary Weavers’ Cooperative Societies registered under the West Bengal Cooperative Societies Act."
             },
             {
                 "question": "What is the definition of 'Tantuja'?",
@@ -28,7 +28,7 @@
             },
             {
                 "question": "What is the extent of financial support provided under this scheme?",
-                "answer": "\u20b95000/- per weaver towards repair/renovation of work shed and/or repair/modification of loom & accessories and \u20b910,000/- will also be provided towards raw material assistance for production of handloom products."
+                "answer": "₹5000/- per weaver towards repair/renovation of work shed and/or repair/modification of loom & accessories and ₹10,000/- will also be provided towards raw material assistance for production of handloom products."
             },
             {
                 "question": "What process will be followed by the department for the administration of this scheme?",
@@ -75,5 +75,6 @@
             "West Bengal",
             "Weavers"
         ]
-    }
+    },
+    "id": "002035"
 }

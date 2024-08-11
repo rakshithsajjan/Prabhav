@@ -5,11 +5,11 @@
         "department": "Labour Welfare Department, Government of Assam",
         "type": "Medical Assistance",
         "beneficiary": "Building & Other Construction Workers",
-        "details": "The scheme \u201cMedical Assistance\u201d was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, medical assistance shall be provided to the Building & Other Construction Workers who are registered under A.B.O.C.W.W.B during hospitalization, partial disability, and for critical diseases such as Cancer, Heart attack (bypass surgery), Failure of kidney (kidney transplantation), Liver cirrhosis, etc. as per decision of the Board. Medical assistance shall be provided to the beneficiaries immediately after registration.",
+        "details": "The scheme “Medical Assistance” was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, medical assistance shall be provided to the Building & Other Construction Workers who are registered under A.B.O.C.W.W.B during hospitalization, partial disability, and for critical diseases such as Cancer, Heart attack (bypass surgery), Failure of kidney (kidney transplantation), Liver cirrhosis, etc. as per decision of the Board. Medical assistance shall be provided to the beneficiaries immediately after registration.",
         "benefits": [
-            "Medical Assistance: \u20b91,000/- per day for the first 5 days hospitalized + \u20b9200/- each for the remaining days of hospitalized subject to maximum \u20b920,000/-.",
-            "Registered beneficiaries also avail of partial disability benefits of \u20b925,000/-, \u20b950,000/-, \u20b975,000/- and \u20b91.50 Lakhs on the percentage of disability upto 25%, upto 50%, upto 80% and more than 80% respectively.",
-            "Financial assistance of \u20b91.50 Lakh for critical diseases such as Cancer, Heart attack (bypass surgery), Failure of the kidney (kidney transplantation), Liver cirrhosis, etc. shall be given to registered beneficiaries as per the decision of the Board."
+            "Medical Assistance: ₹1,000/- per day for the first 5 days hospitalized + ₹200/- each for the remaining days of hospitalized subject to maximum ₹20,000/-.",
+            "Registered beneficiaries also avail of partial disability benefits of ₹25,000/-, ₹50,000/-, ₹75,000/- and ₹1.50 Lakhs on the percentage of disability upto 25%, upto 50%, upto 80% and more than 80% respectively.",
+            "Financial assistance of ₹1.50 Lakh for critical diseases such as Cancer, Heart attack (bypass surgery), Failure of the kidney (kidney transplantation), Liver cirrhosis, etc. shall be given to registered beneficiaries as per the decision of the Board."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Assam.",
@@ -54,11 +54,11 @@
             },
             {
                 "question": "What are the benefits offered under the Medical Assistance Scheme?",
-                "answer": "A. Medical Assistance: \u20b91,000/- per day for the first 5 days hospitalized + \u20b9200/- each for the remaining days of hospitalized subject to a maximum of \u20b920,000/-. b. Partial Disability Benefit: Registered beneficiaries can avail benefits of \u20b925,000/-, \u20b950,000/-, \u20b975,000/-, and \u20b91.50 Lakhs based on the percentage of disability - up to 25%, up to 50%, up to 80%, and more than 80% respectively. c. Critical Diseases Coverage: \u20b91.50 Lakhs for critical diseases such as Cancer, Heart attack (bypass surgery), Failure of kidney (kidney transplantation), Liver cirrhosis, etc., as per the decision of the Board."
+                "answer": "A. Medical Assistance: ₹1,000/- per day for the first 5 days hospitalized + ₹200/- each for the remaining days of hospitalized subject to a maximum of ₹20,000/-. b. Partial Disability Benefit: Registered beneficiaries can avail benefits of ₹25,000/-, ₹50,000/-, ₹75,000/-, and ₹1.50 Lakhs based on the percentage of disability - up to 25%, up to 50%, up to 80%, and more than 80% respectively. c. Critical Diseases Coverage: ₹1.50 Lakhs for critical diseases such as Cancer, Heart attack (bypass surgery), Failure of kidney (kidney transplantation), Liver cirrhosis, etc., as per the decision of the Board."
             },
             {
                 "question": "What is the maximum limit for hospitalization benefits under the scheme?",
-                "answer": "The maximum limit for hospitalization benefits is \u20b920,000/-, including \u20b91,000/- per day for the first 5 days hospitalized and \u20b9200/- each for the remaining days."
+                "answer": "The maximum limit for hospitalization benefits is ₹20,000/-, including ₹1,000/- per day for the first 5 days hospitalized and ₹200/- each for the remaining days."
             },
             {
                 "question": "How are critical diseases determined for coverage under the scheme?",
@@ -103,5 +103,6 @@
             "Medical",
             "Partial Disability"
         ]
-    }
+    },
+    "id": "001117"
 }

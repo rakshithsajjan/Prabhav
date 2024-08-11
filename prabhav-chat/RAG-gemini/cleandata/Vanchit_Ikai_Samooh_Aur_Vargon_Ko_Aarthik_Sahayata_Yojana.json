@@ -7,8 +7,8 @@
         "beneficiary": "Self Help Groups (SHGs) and individuals from OBC/SC",
         "details": "The VISVAS (Vanchit Ikai Samooh aur Vargon ko Aarthik Sahayata) Scheme aims to provide interest subvention to OBC/SC Self Help Groups (SHGs) or individuals. It is being implemented by the Ministry of Social Justice and Empowerment. The objective of the scheme is to provide the direct benefit of a lower rate of interest to the eligible beneficiaries who have availed loans through Public Sector Banks (PSBs), Regional Rural Banks (RRBs) and similar financial institutions. In December 2020, the VISVAS scheme got a major boost after the National Backward Classes Finance & Development Corporation (NBCFDC) and National Scheduled Castes Finance and Development Corporation (NSFDC) signed a Memorandum of Agreement (MoA) with the Central Bank of India and Punjab National Bank.",
         "benefits": [
-            "Maximum loan limit (for SHG): \u20b9 4,00,000",
-            "Maximum loan limit (for individual): \u20b9 2,00,000",
+            "Maximum loan limit (for SHG): ₹ 4,00,000",
+            "Maximum loan limit (for individual): ₹ 2,00,000",
             "Maximum Subvention Amount: @5% per annum",
             "Mode of payment of Subvention: Through Direct Transfer of Subvention Amount into operating account of SHG or Individual"
         ],
@@ -56,11 +56,11 @@
             },
             {
                 "question": "What is the Maximum Loan Limit for SHGs?",
-                "answer": "The Maximum loan limit for SHGs is \u20b9 4,00,000."
+                "answer": "The Maximum loan limit for SHGs is ₹ 4,00,000."
             },
             {
                 "question": "What Is The Maximum Loan Limit For individual?",
-                "answer": "The Maximum Loan Limit For an Individual Is \u20b9 2,00,000."
+                "answer": "The Maximum Loan Limit For an Individual Is ₹ 2,00,000."
             },
             {
                 "question": "What is the Maximum Subvention Amount for this scheme?",
@@ -83,5 +83,6 @@
             "SHG",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "002003"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Farmers",
         "details": "The scheme 'YSR Jala Kala' is one of the 'NAVARATNALU' schemes by the Department of Rural Development, Govt. of Andhra Pradesh. In this program, bore wells are drilled free of cost to the needy and eligible farmers in all thirteen districts of the state. NAVARATNALU is a concept coined to improve the delivery systems and improve the living standards of the people, and the quality of the governance in the state. Of the welfare schemes under NAVARATNALU, 'YSR Jala Kala' is aimed at utilizing the available groundwater resources for the improvement of the livelihoods of the farmers and thereby improving the GSDP under the primary sector. This shall help in optimally utilizing groundwater resources for the purpose of irrigating every acre of arable land. These bore wells shall be drilled after conducting integrated Hydrogeological and Geophysical surveys in the field for identifying feasible sites before taking up the drilling activity.",
         "benefits": [
-            "Drilling of the Borewells: A drilled borewell with a minimum yield of 1000 GPH (4500 liters per hour) by 900 \u2018V\u2019 notch method.",
+            "Drilling of the Borewells: A drilled borewell with a minimum yield of 1000 GPH (4500 liters per hour) by 900 ‘V’ notch method.",
             "In case, the bore well fails, the drilling contractor shall drill the second bore well in the land of the same farmer, if feasible, and refill the failed bore well with soil and stone pieces before shifting the rig or utilizing that as a recharge well.",
             "Construction of Recharge Pit / Water Harvesting Structure.",
             "A social Audit will be conducted for all the borewells drilled.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What Shall Be The Specifications Of The Borewells To Be Constructed Through This Scheme?",
-                "answer": "A drilled borewell with a minimum yield of 1000 GPH (4500 liters per hour) by 900 \u2018V\u2019 notch method shall be considered as successful borewell."
+                "answer": "A drilled borewell with a minimum yield of 1000 GPH (4500 liters per hour) by 900 ‘V’ notch method shall be considered as successful borewell."
             },
             {
                 "question": "What Would Happen In Case The Borewell Fails?",
@@ -90,5 +90,6 @@
             "Welfare Scheme",
             "Andhra Pradesh"
         ]
-    }
+    },
+    "id": "002067"
 }

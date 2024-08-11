@@ -2,10 +2,10 @@
     "content": {
         "title": "Plantation Crop Development Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmer",
-        "details": "The scheme \u201cPlantation Crop Development Scheme\u201d was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to boost up the area and production of all plantation crops like Arecanut, Cashewnut, Coconut, Pineapple etc., and to provide 50 % subsidy planting materials and construction of soakage tank.",
+        "details": "The scheme “Plantation Crop Development Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to boost up the area and production of all plantation crops like Arecanut, Cashewnut, Coconut, Pineapple etc., and to provide 50 % subsidy planting materials and construction of soakage tank.",
         "benefits": [
             "Financial assistance at a 50% subsidy for purchasing of planting materials, and polypipes.",
             "Financial assistance at a 50% subsidy for the construction of soakage tank."
@@ -30,7 +30,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department Of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya has launched this scheme."
+                "answer": "Department Of Agriculture & Farmers’ Welfare, Government of Meghalaya has launched this scheme."
             },
             {
                 "question": "What is the type of assistance/service?",
@@ -49,7 +49,7 @@
                 "answer": "Bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "Bonafide farmers on first come first serve basis."
             },
             {
@@ -74,5 +74,6 @@
             "Pineapple",
             "Plantation Crop"
         ]
-    }
+    },
+    "id": "001450"
 }

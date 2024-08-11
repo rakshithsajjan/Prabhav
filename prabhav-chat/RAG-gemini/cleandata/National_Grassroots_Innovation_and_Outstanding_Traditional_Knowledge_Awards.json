@@ -7,12 +7,12 @@
         "beneficiary": "Citizen Of India",
         "details": "National Innovation Foundation (NIF)-India, an autonomous body of the Department of Science and Technology, Government of India, invites entries of unaided technological innovations and traditional knowledge developed at grassroots by an individual (Citizen of India) or group. The innovations can be in the fields of agriculture, health, energy, household or utility, transportation, livestock, etc. leading to the reduction in drudgery, livelihood generation, development of plant varieties or herbal remedies for human/ animal/ farming problems, or any other low cost sustainable green technologies. These should be unaided/ unsupervised and an outcome of one's creativity, without any technical support from external agencies. Creative ideas for innovative technologies/ techniques to solve persistent problems of society, which may not have been developed into prototypes, may also be submitted. For the 14th National Biennial Competition for Green Grassroots Unaided Technological Innovations, Ideas & Outstanding Traditional Knowledge, the entries can be submitted from April 1, 2023, to March 31, 2025, which is the last date for submission.",
         "benefits": [
-            "Life Time Achievement Award \u2013 \u20b97,50,000/-, Trophy, Certificate.",
-            "National First Award \u2013 \u20b95,00,000/-, Trophy, Certificate.",
-            "National Second Award \u2013 \u20b93,00,000/-, Trophy, Certificate.",
-            "National Third Award \u2013 \u20b91,00,000/-, Trophy, Certificate.",
-            "State Award \u2013 \u20b950,000/-, Trophy, Certificate.",
-            "Consolation Award - \u20b910,000/-, Trophy, Certificate."
+            "Life Time Achievement Award – ₹7,50,000/-, Trophy, Certificate.",
+            "National First Award – ₹5,00,000/-, Trophy, Certificate.",
+            "National Second Award – ₹3,00,000/-, Trophy, Certificate.",
+            "National Third Award – ₹1,00,000/-, Trophy, Certificate.",
+            "State Award – ₹50,000/-, Trophy, Certificate.",
+            "Consolation Award - ₹10,000/-, Trophy, Certificate."
         ],
         "eligibility": [
             "Uneducated or school dropout.",
@@ -106,5 +106,6 @@
             "Grassroots",
             "Technology"
         ]
-    }
+    },
+    "id": "001307"
 }

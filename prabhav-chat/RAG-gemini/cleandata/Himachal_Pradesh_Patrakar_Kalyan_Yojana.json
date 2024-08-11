@@ -7,19 +7,19 @@
         "beneficiary": "Journalist",
         "details": "The scheme 'Himachal Pradesh Patrakar Kalyan Yojana' was launched by the Director of Information and Public Relations Department, Government of Himachal Pradesh under the Himachal Pradesh Journalists Welfare Fund Scheme, 2006. The purpose of the Yojana shall be to provide financial assistance to the serving accredited journalists and retired accredited journalists in adverse situations as accidents and illness etc.",
         "benefits": [
-            "In case of permanent incapacitation for further service while performing field duties as a journalist: \u20b9 1,00,000/-",
-            "In case of death while performing field duties: \u20b9 2,00,000/-",
-            "In case of death during attack or any untoward incidence of violence: \u20b9 3,00,000/-",
-            "In case of medical emergency or cancer: Upto \u20b9 50,000/- (as per emergent need for major disease as kidney transplant, heart disease etc.)",
-            "For retired accredited journalist in case of death: \u20b9 50,000/-",
-            "For retired accredited journalist in case of medical emergency or cancer: Upto \u20b9 50,000/- (as per emergent need for major disease as kidney transplant, heart disease etc.)",
-            "Immediate financial assistance of \u20b925,000/- for serving accredited journalists and retired accredited journalists or their dependents/legal heirs on production of documentary proof regarding death certificate, illness or accident etc."
+            "In case of permanent incapacitation for further service while performing field duties as a journalist: ₹ 1,00,000/-",
+            "In case of death while performing field duties: ₹ 2,00,000/-",
+            "In case of death during attack or any untoward incidence of violence: ₹ 3,00,000/-",
+            "In case of medical emergency or cancer: Upto ₹ 50,000/- (as per emergent need for major disease as kidney transplant, heart disease etc.)",
+            "For retired accredited journalist in case of death: ₹ 50,000/-",
+            "For retired accredited journalist in case of medical emergency or cancer: Upto ₹ 50,000/- (as per emergent need for major disease as kidney transplant, heart disease etc.)",
+            "Immediate financial assistance of ₹25,000/- for serving accredited journalists and retired accredited journalists or their dependents/legal heirs on production of documentary proof regarding death certificate, illness or accident etc."
         ],
         "eligibility": [
             "The applicant should be a legal heir (spouse, his/her dependent, children) of the deceased journalist.",
             "If the deceased serving/retired accredited journalist is unmarried or single, the financial assistance will be released in favour of his or her dependent father or mother.",
             "The medical emergency or any other adverse situation assistance will be released to the serving/retired accredited journalists.",
-            "The serving/retired accredited journalist's family annual income is less than \u20b91,80,000/-.",
+            "The serving/retired accredited journalist's family annual income is less than ₹1,80,000/-.",
             "The retired journalist should serve for at least twenty years as an accredited journalist with the Government of Himachal Pradesh and not taken other gainful employment besides journalism.",
             "The retired accredited journalist's age should be 58 years."
         ],
@@ -53,7 +53,7 @@
             },
             {
                 "question": "How much immediate financial assistance can be provided in emergencies?",
-                "answer": "Immediate assistance of \u20b925,000 can be provided by the Director (I&PR)."
+                "answer": "Immediate assistance of ₹25,000 can be provided by the Director (I&PR)."
             },
             {
                 "question": "What is the procedure for applying for financial assistance?",
@@ -65,15 +65,15 @@
             },
             {
                 "question": "Can the scheme be amended?",
-                "answer": "Yes, the Government of Himachal Pradesh can amend the scheme based on the Committee\u2019s recommendations."
+                "answer": "Yes, the Government of Himachal Pradesh can amend the scheme based on the Committee’s recommendations."
             },
             {
                 "question": "How often is the financial assistance reviewed and approved?",
-                "answer": "The Committee reviews and approves financial assistance on a case-by-case basis, as per the scheme\u2019s guidelines."
+                "answer": "The Committee reviews and approves financial assistance on a case-by-case basis, as per the scheme’s guidelines."
             },
             {
                 "question": "What support is available for medical emergencies?",
-                "answer": "Up to \u20b950,000 for major diseases like cancer, kidney transplants, or heart disease."
+                "answer": "Up to ₹50,000 for major diseases like cancer, kidney transplants, or heart disease."
             }
         ],
         "sources": [
@@ -87,5 +87,6 @@
             "Journalists Welfare",
             "Himachal Pradesh"
         ]
-    }
+    },
+    "id": "000775"
 }

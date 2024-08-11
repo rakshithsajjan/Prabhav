@@ -7,7 +7,7 @@
         "beneficiary": "Sales Emporia/Showrooms",
         "details": "The scheme 'Sales Rebate under Marketing And Publicity' was launched by the Department of Industries and Commerce, Union Territory of Puducherry. The scheme aims to provide a sales rebate of 15% to the existing and newly established Sales Emporia / Showrooms recognized by the Union Territory of Puducherry for the sale of Handicrafts, Micro and small enterprises products manufactured by the units in Puducherry. The objective of this is to promote the sale of the products of Micro/Small/Medium Enterprises (MSME) and the Cottage Sector.",
         "benefits": [
-            "15% as a rebate on the sales, subject to a maximum of \u20b915,00,000/- per annum."
+            "15% as a rebate on the sales, subject to a maximum of ₹15,00,000/- per annum."
         ],
         "eligibility": [
             "The applicant should be a Sales Emporia/Showroom.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "Is there a maximum limit on the annual rebate amount?",
-                "answer": "Yes, the rebate is subject to a maximum of \u20b915,00,000 per annum for eligible Sales Emporia/Showrooms."
+                "answer": "Yes, the rebate is subject to a maximum of ₹15,00,000 per annum for eligible Sales Emporia/Showrooms."
             },
             {
                 "question": "Can Sales Emporia outside Puducherry apply for the scheme?",
@@ -72,5 +72,6 @@
             "MSME",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001637"
 }

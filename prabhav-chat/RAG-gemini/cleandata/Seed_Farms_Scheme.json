@@ -2,10 +2,10 @@
     "content": {
         "title": "Seed Farms Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Cultivator",
-        "details": "The \u201cSeed Farms Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is the production of high-quality seeds of cereals, pulses, oilseeds etc., and for raising Horticultural seedlings such as orange, coconut, arecanut, etc. for distribution to cultivators.",
+        "details": "The “Seed Farms Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is the production of high-quality seeds of cereals, pulses, oilseeds etc., and for raising Horticultural seedlings such as orange, coconut, arecanut, etc. for distribution to cultivators.",
         "benefits": [
             "Supply of quality seeds to farmers.",
             "Subsidy sale"
@@ -29,7 +29,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department Of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya"
+                "answer": "Department Of Agriculture & Farmers’ Welfare, Government of Meghalaya"
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -48,7 +48,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/ Agriculture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
             }
         ],
@@ -66,5 +66,6 @@
             "Horticultural Seedlings",
             "Seed"
         ]
-    }
+    },
+    "id": "001763"
 }

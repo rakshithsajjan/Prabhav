@@ -5,9 +5,9 @@
         "department": "Industries and Commerce Department",
         "type": "Award",
         "beneficiary": "Micro, Small and Medium Enterprises",
-        "details": "'Green and Eco-Friendly Measures' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The award is conferred upon the industries that are green and eco-friendly as per the standards of the Department of Science, Technology and Environment (DSTE), Puducherry. The awardee is given a cash award of \u20b92,00,000/- and a citation. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Green and Eco-Friendly Measures' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The award is conferred upon the industries that are green and eco-friendly as per the standards of the Department of Science, Technology and Environment (DSTE), Puducherry. The awardee is given a cash award of ₹2,00,000/- and a citation. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Cash Award of \u20b92,00,000/-",
+            "Cash Award of ₹2,00,000/-",
             "Citation"
         ],
         "eligibility": [
@@ -28,7 +28,7 @@
             },
             {
                 "question": "What benefits do industries receive upon being awarded under this scheme?",
-                "answer": "Awardees receive a cash prize of \u20b92,00,000/- and a citation, recognizing their efforts in adopting green and eco-friendly measures in their operations."
+                "answer": "Awardees receive a cash prize of ₹2,00,000/- and a citation, recognizing their efforts in adopting green and eco-friendly measures in their operations."
             },
             {
                 "question": "Can you provide insight into the application process for industries interested in applying for the scheme?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What are the financial benefits provided under this scheme?",
-                "answer": "Recipients of the awards are granted a cash award of \u20b92,00,000/- along with a citation."
+                "answer": "Recipients of the awards are granted a cash award of ₹2,00,000/- along with a citation."
             },
             {
                 "question": "Who constitutes the Committee responsible for granting these awards?",
@@ -84,5 +84,6 @@
             "Eco-Friendly",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000749"
 }

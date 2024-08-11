@@ -7,8 +7,8 @@
         "beneficiary": "Dramatic groups, theatre groups, music ensembles, children's theatre, and all genres of performing arts activities",
         "details": "The scheme 'Financial Assistance for Promotion of Guru-Shishya Parampara (Repertory Grant)' was launched by the Ministry of Culture, Government of India. Under this scheme, financial assistance will be provided to dramatic groups, theatre groups, music ensembles, children's theatre, and all genres of performing arts activities. The Ministry of Culture will evaluate the grantees through periodical inspections, field visits, etc. as may be felt necessary for the scheme on a periodical basis.",
         "benefits": [
-            "Financial assistance of \u20b915,000/- per month will be given to each Guru/Director.",
-            "Financial assistance to each Shisya/Artist will be given based on age group: \u20b910,000/- for Adult Shisya/Artist, \u20b97,500/- for A category child Shisya/Artist, \u20b93,500/- for B category child Shisya/Artist, and \u20b92,000/- for C category child Shisya/Artist."
+            "Financial assistance of ₹15,000/- per month will be given to each Guru/Director.",
+            "Financial assistance to each Shisya/Artist will be given based on age group: ₹10,000/- for Adult Shisya/Artist, ₹7,500/- for A category child Shisya/Artist, ₹3,500/- for B category child Shisya/Artist, and ₹2,000/- for C category child Shisya/Artist."
         ],
         "eligibility": [
             "The arts activities performing organizations having dramatic groups, theatre groups, music ensembles, and children's theatre are eligible to apply under the scheme.",
@@ -18,7 +18,7 @@
         "exclusions": [],
         "application_process": "Offline",
         "documents_required": [
-            "Brief introduction of applicant organization along with press reviews, press advertisements, souvenir copies of tickets, etc. in respect of the previous year\u2019s activities of the organization.",
+            "Brief introduction of applicant organization along with press reviews, press advertisements, souvenir copies of tickets, etc. in respect of the previous year’s activities of the organization.",
             "Photocopy of the Registration Certificate and Memorandum of Association/Deed, Bye-laws.",
             "A copy of the Unique ID number of the organization obtained from the NGO-PS (NGO-DARPAN) Portal.",
             "A copy of the Permanent Account Number (PAN) issued by the Income Tax Department.",
@@ -26,12 +26,12 @@
             "Duly filled in indemnity Bond in the prescribed format (in original), signed on every page by the authorized signatory with the stamp of the organization along with the signature of two witnesses with their name and complete address.",
             "Complete details of Guru/Director and Shisya/Artists enrolled with the organization for which financial assistance is sought along with their respective bank account details.",
             "Justification for seeking financial assistance as Fresh Financial Assistance for Promotion of Guru-Shishya Parampara (Repertory Grant) or Renewal of Financial Assistance for Promotion of Guru-Shishya Parampara (Repertory Grant) or Enhancement of Financial Assistance for Promotion of Guru-Shishya Parampara (Repertory Grant).",
-            "Last three years\u2019 audited statement of accounts along with sources and pattern of receipt & payment and income & expenditure etc.",
-            "Last three years\u2019 Income Tax Assessment orders.",
-            "Last three years\u2019 balance sheet with auditor\u2019s certificate.",
+            "Last three years’ audited statement of accounts along with sources and pattern of receipt & payment and income & expenditure etc.",
+            "Last three years’ Income Tax Assessment orders.",
+            "Last three years’ balance sheet with auditor’s certificate.",
             "Utilization Certificate (in original) in the prescribed format and receipts & payment statement (in original) issued by Chartered Accountant (CA).",
             "Press reviews, press advertisements, souvenir copies of tickets, etc. of the productions of the previous years.",
-            "Documentary proof to the effect that the grantee organization has transferred the cash component of the last year\u2019s grant received electronically against the bank account of each and every individual beneficiary.",
+            "Documentary proof to the effect that the grantee organization has transferred the cash component of the last year’s grant received electronically against the bank account of each and every individual beneficiary.",
             "A duly filled-in and signed prescribed Bank Proforma/Authorization letter.",
             "Duly filled-in checklist accompanied with the application form.",
             "The application should be duly recommended by concerned State Governments /U.T. Administrations or any of the State Academies or National Academies.",
@@ -52,11 +52,11 @@
             },
             {
                 "question": "How much financial assistance will be given to each Guru of the organization under the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b915,000/- per month will be given to each Guru/Director."
+                "answer": "Under the scheme, financial assistance of ₹15,000/- per month will be given to each Guru/Director."
             },
             {
                 "question": "How much financial assistance will be given to each Shisya/Artist under the scheme?",
-                "answer": "The Financial assistance of \u20b92,000/- to \u20b910,000/- will be given to each Shisya/Artist as per age group."
+                "answer": "The Financial assistance of ₹2,000/- to ₹10,000/- will be given to each Shisya/Artist as per age group."
             },
             {
                 "question": "Who is eligible to apply under the scheme?",
@@ -106,5 +106,6 @@
             "Shishya",
             "Theatre"
         ]
-    }
+    },
+    "id": "000529"
 }

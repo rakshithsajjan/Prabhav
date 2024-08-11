@@ -5,13 +5,13 @@
         "department": "Department of Social Welfare",
         "type": "Grant",
         "beneficiary": "Differently Abled Individuals",
-        "details": "The scheme 'Grant of Incentive for Marriage Between Differently Abled Person' by the Department of Social Welfare, Government of Puducherry was introduced to encourage and support marriages between differently-abled individuals. Through this scheme, an incentive of \u20b92,00,000/- is provided, comprising \u20b940,000 in cash and \u20b91,60,000/- in the form of National Savings Certificate (NSC). The selection is periodical and depends on the availability of funds.",
+        "details": "The scheme 'Grant of Incentive for Marriage Between Differently Abled Person' by the Department of Social Welfare, Government of Puducherry was introduced to encourage and support marriages between differently-abled individuals. Through this scheme, an incentive of ₹2,00,000/- is provided, comprising ₹40,000 in cash and ₹1,60,000/- in the form of National Savings Certificate (NSC). The selection is periodical and depends on the availability of funds.",
         "benefits": [
-            "An Incentive of \u20b9 2,00,000/- (\u20b9 40,000 in cash and \u20b9 1,60,000/- in the form of NSC)"
+            "An Incentive of ₹ 2,00,000/- (₹ 40,000 in cash and ₹ 1,60,000/- in the form of NSC)"
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry.",
-            "The applicant should have an annual income not exceeding \u20b975,000/- per annum.",
+            "The applicant should have an annual income not exceeding ₹75,000/- per annum.",
             "The bride should be above 18 years of age.",
             "The bridegroom should be above 21 years of age.",
             "The disability of the bride and the bridegroom should be 40% and above.",
@@ -22,16 +22,16 @@
         "exclusions": [],
         "application_process": "Offline and Online. Interested applicants should visit the Office/Sub-Office of the Department of Social Welfare to request the hard copy of the application form or take a print of the prescribed format from the website.",
         "documents_required": [
-            "Aadhaar Card \u2013 Both Bride and Bridegroom.",
+            "Aadhaar Card – Both Bride and Bridegroom.",
             "Ration Card - Both Bride and Bridegroom.",
-            "Medical Certificate \u2013 Both Bride and Bridegroom.",
+            "Medical Certificate – Both Bride and Bridegroom.",
             "Income Certificate.",
             "Marriage Certificate.",
             "Caste Certificate - Both Bride and Bridegroom.",
-            "Anganwadi Teacher\u2019s Certificate.",
+            "Anganwadi Teacher’s Certificate.",
             "Financial Assistance ID Card.",
             "NOC in Case of Other State Candidates.",
-            "Voter ID Card \u2013 Both Bride and Bridegroom.",
+            "Voter ID Card – Both Bride and Bridegroom.",
             "Marriage Invitation.",
             "Marriage Photo.",
             "Residence-cum-Nativity Certificate, issued by the competent authority.",
@@ -40,19 +40,19 @@
         ],
         "faqs": [
             {
-                "question": "How is the incentive amount of \u20b92,00,000 distributed between cash and NSC?",
-                "answer": "The \u20b92,00,000 incentive is distributed as \u20b940,000 in cash and \u20b91,60,000 in the form of National Savings Certificate (NSC)."
+                "question": "How is the incentive amount of ₹2,00,000 distributed between cash and NSC?",
+                "answer": "The ₹2,00,000 incentive is distributed as ₹40,000 in cash and ₹1,60,000 in the form of National Savings Certificate (NSC)."
             },
             {
-                "question": "Are there any conditions or restrictions on the utilization of the \u20b940,000 cash component of the incentive?",
-                "answer": "The \u20b940,000 cash component is provided to support immediate financial needs related to the marriage, with no specific conditions on its utilization."
+                "question": "Are there any conditions or restrictions on the utilization of the ₹40,000 cash component of the incentive?",
+                "answer": "The ₹40,000 cash component is provided to support immediate financial needs related to the marriage, with no specific conditions on its utilization."
             },
             {
                 "question": "Is the incentive amount subject to change, and if so, what factors influence such adjustments?",
                 "answer": "The incentive amount is subject to periodic review, and adjustments may be made based on factors such as economic conditions and the scheme's objectives."
             },
             {
-                "question": "Are there any tax implications on the \u20b92,00,000 incentive provided under the scheme?",
+                "question": "Are there any tax implications on the ₹2,00,000 incentive provided under the scheme?",
                 "answer": "As of the current information available, there is no specific information on tax implications."
             },
             {
@@ -129,5 +129,6 @@
             "Marriage",
             "PwD"
         ]
-    }
+    },
+    "id": "000728"
 }

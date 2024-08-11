@@ -5,9 +5,9 @@
         "department": "Labour Welfare Department, Government of Assam",
         "type": "Financial Assistance",
         "beneficiary": "Registered construction workers",
-        "details": "The \u201cHealth Check-up\u201d benefit scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance will be provided annually to registered construction workers with continuous Board membership for their annual health check-up at any hospital.",
+        "details": "The “Health Check-up” benefit scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance will be provided annually to registered construction workers with continuous Board membership for their annual health check-up at any hospital.",
         "benefits": [
-            "Registered construction workers can avail an amount of \u20b95,000/- once in a year for his/her annual health check-up in any Hospital."
+            "Registered construction workers can avail an amount of ₹5,000/- once in a year for his/her annual health check-up in any Hospital."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Assam.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What are the benefits under this scheme?",
-                "answer": "Eligible workers can avail an amount of \u20b95,000/- once a year for their annual health check-up at any hospital."
+                "answer": "Eligible workers can avail an amount of ₹5,000/- once a year for their annual health check-up at any hospital."
             },
             {
                 "question": "How often can a registered construction worker claim the benefit?",
@@ -88,5 +88,6 @@
             "Financial Assistance",
             "Construction Worker"
         ]
-    }
+    },
+    "id": "000768"
 }

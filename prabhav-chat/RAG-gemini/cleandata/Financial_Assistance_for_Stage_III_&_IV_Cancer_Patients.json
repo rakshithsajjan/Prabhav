@@ -5,16 +5,16 @@
         "department": "Social Justice and Empowerment Department",
         "type": "Financial Assistance",
         "beneficiary": "Cancer Patient",
-        "details": "The scheme 'Financial Assistance for Stage III & IV Cancer Patients' was launched by the Social Justice and Empowerment Department, Government of Haryana. Under this scheme, monthly financial assistance/pension of \u20b93,000/- will be provided to Stage III and IV cancer patients of Haryana from 01.01.2024. The scheme will be applicable for all age groups, Stage III, and IV cancer patients throughout the State of Haryana. The financial assistance provided under this scheme will be in addition to the benefits received by the applicant under any other social security pension scheme. This scheme shall come into operation from the date of its publication in the official Gazette.",
+        "details": "The scheme 'Financial Assistance for Stage III & IV Cancer Patients' was launched by the Social Justice and Empowerment Department, Government of Haryana. Under this scheme, monthly financial assistance/pension of ₹3,000/- will be provided to Stage III and IV cancer patients of Haryana from 01.01.2024. The scheme will be applicable for all age groups, Stage III, and IV cancer patients throughout the State of Haryana. The financial assistance provided under this scheme will be in addition to the benefits received by the applicant under any other social security pension scheme. This scheme shall come into operation from the date of its publication in the official Gazette.",
         "benefits": [
-            "Financial assistance/pension of \u20b93,000/- per month will be provided to Stage III and IV cancer patients starting from 01.01.2024."
+            "Financial assistance/pension of ₹3,000/- per month will be provided to Stage III and IV cancer patients starting from 01.01.2024."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a bonafide resident of Haryana as per Government instructions issued from time to time.",
             "The applicant should have Parivar Pehchan Patar (PPP) - Family ID.",
             "All Stage III & IV cancer patients will be eligible under the scheme.",
-            "Cancer patients whose family income is less than \u20b93,00,000/- per annum, except the amount of other Social Security Pension Schemes will be eligible."
+            "Cancer patients whose family income is less than ₹3,00,000/- per annum, except the amount of other Social Security Pension Schemes will be eligible."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -34,7 +34,7 @@
             },
             {
                 "question": "Who is eligible for the scheme?",
-                "answer": "Stage III and IV cancer patients who are bonafide residents of Haryana, with a family income of less than \u20b93,00,000/- per annum, and have a Parivar Pehchan Patar (PPP) - Family ID."
+                "answer": "Stage III and IV cancer patients who are bonafide residents of Haryana, with a family income of less than ₹3,00,000/- per annum, and have a Parivar Pehchan Patar (PPP) - Family ID."
             },
             {
                 "question": "Is there an age limit for applicants?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the monthly financial assistance amount?",
-                "answer": "The monthly financial assistance amount is \u20b93,000/-."
+                "answer": "The monthly financial assistance amount is ₹3,000/-."
             },
             {
                 "question": "What is the purpose of the scheme?",
@@ -86,5 +86,6 @@
             "Stage III",
             "Stage IV"
         ]
-    }
+    },
+    "id": "000577"
 }

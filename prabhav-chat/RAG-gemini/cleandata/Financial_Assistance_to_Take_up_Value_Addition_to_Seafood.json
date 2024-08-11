@@ -7,8 +7,8 @@
         "beneficiary": "Individuals interested in setting up a unit for value-added fisheries products",
         "details": "Financial Assistance to Take up Value Addition to Seafood is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, individuals who have been residents of Goa for the last 15 years, and are interested in setting up a unit for value-added fisheries products are provided financial assistance as a subsidy of 50% of the cost for the Construction or Renovation of the Unit or for the Purchase of Equipment. The applications are accepted only in offline mode.",
         "benefits": [
-            "50% subsidy of the cost for Construction or Renovation of the Unit, limited to \u20b95,00,000 per unit.",
-            "50% subsidy of the cost for Purchase of Equipment, limited to \u20b92,00,000 per unit."
+            "50% subsidy of the cost for Construction or Renovation of the Unit, limited to ₹5,00,000 per unit.",
+            "50% subsidy of the cost for Purchase of Equipment, limited to ₹2,00,000 per unit."
         ],
         "eligibility": [
             "The applicant should be an individual interested in setting up a unit for value-added fisheries products.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What does the financial assistance cover for the purchase of equipment under the scheme?",
-                "answer": "50% subsidy of the cost, limited to \u20b92,00,000 per unit."
+                "answer": "50% subsidy of the cost, limited to ₹2,00,000 per unit."
             },
             {
                 "question": "Can the application be submitted online, and what is the contact information for submitting it offline?",
@@ -68,7 +68,7 @@
             },
             {
                 "question": "What is the maximum subsidy provided for the Construction or Renovation of the unit under the scheme?",
-                "answer": "50% subsidy, limited to \u20b95,00,000 per unit."
+                "answer": "50% subsidy, limited to ₹5,00,000 per unit."
             },
             {
                 "question": "Is there a specific age limit for applicants under the scheme, and are there any considerations for Persons with Disabilities (PwDs)?",
@@ -96,5 +96,6 @@
             "Fisheries",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000609"
 }

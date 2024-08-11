@@ -7,7 +7,7 @@
         "beneficiary": "Building Worker, Construction Worker, Labour",
         "details": "The scheme 'Pension Scheme' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a member of the fund who has been working as a building worker for not less than three years shall on completion of sixty years of age be eligible for a pension. The pension will become payable from the first day of the succeeding month in which he completes sixty years of age.",
         "benefits": [
-            "Under this scheme, a registered construction worker is given a pension of \u20b93,250/- per month after the age of 60 years."
+            "Under this scheme, a registered construction worker is given a pension of ₹3,250/- per month after the age of 60 years."
         ],
         "eligibility": [
             "Applicants should be registered with the Haryana Building & Other Construction Workers Welfare Board.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What is the monthly pension amount provided under the scheme?",
-                "answer": "The monthly pension amount is \u20b93,250/- per month for registered construction workers who are sixty years or older."
+                "answer": "The monthly pension amount is ₹3,250/- per month for registered construction workers who are sixty years or older."
             },
             {
                 "question": "What are the eligibility criteria for availing pension benefits?",
@@ -87,5 +87,6 @@
             "Building Worker",
             "Construction Worker"
         ]
-    }
+    },
+    "id": "001424"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Girl",
         "details": "The 'Chhaatron Ke Liye Protsahan Rashi' scheme Under the Agriculture Department of the Rajasthan government provides financial assistance to economically disadvantaged students who may face challenges in accessing education due to financial constraints. Studying agriculture aims to equip individuals with the knowledge and skills necessary to enhance agricultural productivity sustainably. This includes learning about innovative farming techniques, crop management practices, breeding strategies, and technological advancements that can increase yields and efficiency in agricultural production. Students learn about food safety standards, quality control measures, food processing techniques, and foodborne pathogens to ensure the safety and integrity of the food supply.",
         "benefits": [
-            "Girls studying agriculture in 11th and 12th standard will receive a scholarship of \u20b915,000 per year.",
-            "Girls enrolled in undergraduate agricultural programs (4/5 years) like Horticulture, Dairy, Agricultural Engineering, Food Processing, and Shri Karna Narendra Business School, Jobner will receive a scholarship of \u20b925,000 per year.",
-            "Girls pursuing M.Sc. Agriculture (2 years) will receive a scholarship of \u20b925,000 per year.",
-            "Girls pursuing PhD in Agriculture (maximum 3 years) will receive a scholarship of \u20b940,000 per year."
+            "Girls studying agriculture in 11th and 12th standard will receive a scholarship of ₹15,000 per year.",
+            "Girls enrolled in undergraduate agricultural programs (4/5 years) like Horticulture, Dairy, Agricultural Engineering, Food Processing, and Shri Karna Narendra Business School, Jobner will receive a scholarship of ₹25,000 per year.",
+            "Girls pursuing M.Sc. Agriculture (2 years) will receive a scholarship of ₹25,000 per year.",
+            "Girls pursuing PhD in Agriculture (maximum 3 years) will receive a scholarship of ₹40,000 per year."
         ],
         "eligibility": [
             "The applicant should be a Girl.",
@@ -96,5 +96,6 @@
             "Financial",
             "Girl"
         ]
-    }
+    },
+    "id": "000266"
 }

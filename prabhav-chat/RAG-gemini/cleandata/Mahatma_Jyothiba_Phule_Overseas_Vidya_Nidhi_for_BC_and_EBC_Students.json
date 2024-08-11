@@ -7,9 +7,9 @@
         "beneficiary": "Backward Classes and Economically Backward Classes students",
         "details": "The scheme 'Mahatma Jyothiba Phule Overseas Vidya Nidhi' was launched by the Backward Classes Welfare Department, Government of Telangana for meritorious students belonging to Backward Classes and Economically Backward Classes to pursue Higher Studies in foreign universities. The scheme will be initially sanctioned to (300) BC & EBC Students every year and is open to all eligible graduates to pursue postgraduate studies abroad.",
         "benefits": [
-            "Fees shall be payable in two installments: \u20b910.00 Lakhs upon production of landing permit/I-94 card/VISA Stamping/Boarding pass and \u20b910.00 Lakhs upon production of the 1st Semester results.",
-            "Sanction Proceedings specifying the amount of \u20b920.00 Lakhs will be issued to the individual towards fees and living expenses by way of a grant.",
-            "The Student shall be eligible for an educational loan of \u20b910.00 lakhs from any Nationalized bank at prevailing rates of interest.",
+            "Fees shall be payable in two installments: ₹10.00 Lakhs upon production of landing permit/I-94 card/VISA Stamping/Boarding pass and ₹10.00 Lakhs upon production of the 1st Semester results.",
+            "Sanction Proceedings specifying the amount of ₹20.00 Lakhs will be issued to the individual towards fees and living expenses by way of a grant.",
+            "The Student shall be eligible for an educational loan of ₹10.00 lakhs from any Nationalized bank at prevailing rates of interest.",
             "Awardees are permitted to supplement their prescribed allowances by undertaking Research/Teaching Assistance ship.",
             "One-way cheap ticket (Lower fare) by economy class shall be payable upon production of valid visa and admission particulars.",
             "Total visa fees shall be reimbursed to the student upon production of a valid visa and receipts."
@@ -17,8 +17,8 @@
         "eligibility": [
             "The applicant should be a resident of Telangana.",
             "The applicant should belong to the Backward Classes & Economically Backward Classes community.",
-            "The student\u2019s age should be less than 35 years as of 1st July of the year of advertisement.",
-            "Family income shall be less than \u20b95.00 Lakhs per annum from all sources.",
+            "The student’s age should be less than 35 years as of 1st July of the year of advertisement.",
+            "Family income shall be less than ₹5.00 Lakhs per annum from all sources.",
             "Only 1 child from a family is eligible.",
             "Qualification for Post-Graduation Course: 60% marks or equivalent grade in foundation Degree in Engineering/Management/Pure Sciences/Agriculture Sciences/Medicine & Nursing/Social Sciences/Humanities.",
             "The awardee cannot be considered for the second or subsequent times as the individual can be awarded only once in a lifetime.",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the scholarship amount given to the eligible students?",
-                "answer": "The scholarship amount will be up to \u20b920 lakhs or as per admission letter, whichever is less."
+                "answer": "The scholarship amount will be up to ₹20 lakhs or as per admission letter, whichever is less."
             },
             {
                 "question": "Who is eligible for the scheme?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "What is the age limit under the scheme?",
-                "answer": "The student\u2019s age should be less than 35 years as of 1st July of the year of advertisement."
+                "answer": "The student’s age should be less than 35 years as of 1st July of the year of advertisement."
             },
             {
                 "question": "Is this scheme only for the Backward Classes & Economically Backward Classes communities?",
@@ -83,7 +83,7 @@
             },
             {
                 "question": "What is the income criterion to avail of the benefits of the scheme?",
-                "answer": "Family income should be less than \u20b95 lakhs per annum from all sources."
+                "answer": "Family income should be less than ₹5 lakhs per annum from all sources."
             },
             {
                 "question": "What is the educational qualification required to apply under the scheme?",
@@ -116,5 +116,6 @@
                 "url": "https://telanganaepass.cgg.gov.in/OverseasLinks.do"
             }
         ]
-    }
+    },
+    "id": "001053"
 }

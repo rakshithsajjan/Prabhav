@@ -5,9 +5,9 @@
         "department": "Department of Social Justice",
         "type": "Financial Assistance",
         "beneficiary": "Transgender Students",
-        "details": "The scheme 'Financial Aid for Providing Hostel Facility to Transgender Students' was launched by the Department of Social Justice, Government of Kerala. Transgender share the same hopes and dreams as any other individual in our society. 58% of Transgender students drop out before completing 10th grade (24% of Transgender students drop out even before completion of 9th grade). Reasons for this include severe harassment making studies impossible and other gender-related negative experiences at school. In order to help such school dropouts continue their education, Social Justice Department has implemented a scholarship scheme for Transgender. The transgender community is still ostracized in society and cannot take up job offers or continue their education due to a lack of accommodation facilities. Though there has been improvement in the mindset of the people, still the stigma of giving transgender persons a house exists in society. Due to this problematic scenario, transgender who are pursuing the scholarship scheme are forced to discontinue their studies. For addressing this issue, the Department of Social Justice has introduced this scheme that provides an amount of \u20b94,000/- per month as financial assistance to the Transgender community as rent for finding hostel facilities/accommodation.",
+        "details": "The scheme 'Financial Aid for Providing Hostel Facility to Transgender Students' was launched by the Department of Social Justice, Government of Kerala. Transgender share the same hopes and dreams as any other individual in our society. 58% of Transgender students drop out before completing 10th grade (24% of Transgender students drop out even before completion of 9th grade). Reasons for this include severe harassment making studies impossible and other gender-related negative experiences at school. In order to help such school dropouts continue their education, Social Justice Department has implemented a scholarship scheme for Transgender. The transgender community is still ostracized in society and cannot take up job offers or continue their education due to a lack of accommodation facilities. Though there has been improvement in the mindset of the people, still the stigma of giving transgender persons a house exists in society. Due to this problematic scenario, transgender who are pursuing the scholarship scheme are forced to discontinue their studies. For addressing this issue, the Department of Social Justice has introduced this scheme that provides an amount of ₹4,000/- per month as financial assistance to the Transgender community as rent for finding hostel facilities/accommodation.",
         "benefits": [
-            "Financial assistance of \u20b94,000/- per month for rent",
+            "Financial assistance of ₹4,000/- per month for rent",
             "Support for continuing education"
         ],
         "eligibility": [
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "What is the 'Financial Aid for providing hostel facility to Transgender students' scheme?",
-                "answer": "The Department of Social Justice has introduced this scheme that provides an amount of \u20b94,000/- per month as financial assistance to the Transgender community as rent for finding hostel facilities/accommodation."
+                "answer": "The Department of Social Justice has introduced this scheme that provides an amount of ₹4,000/- per month as financial assistance to the Transgender community as rent for finding hostel facilities/accommodation."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -57,7 +57,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b94,000/- per month will be provided to Transgender students as rent for finding hostel facilities/accommodation during the course."
+                "answer": "Under the scheme, financial assistance of ₹4,000/- per month will be provided to Transgender students as rent for finding hostel facilities/accommodation during the course."
             },
             {
                 "question": "Does the Transgender ID card mandatory to submit for all students?",
@@ -89,5 +89,6 @@
             "Student",
             "Transgender"
         ]
-    }
+    },
+    "id": "000520"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Indian citizens",
         "details": "The Ministry of External Affairs of the Govt. of India launched the first edition of its Internship Programme in 2022. The internship policy aims to take foreign policy closer to the people; bring in more focus on MEA; provide value to the interns; ensure better gender inclusivity and increase diversity in terms of qualifications, domicile, and socio-economic status in the cohort of interns engaged by the MEA. During the course of the internship, the Interns would be introduced to various aspects of the functioning of the Ministry, its attached offices, the public interface of the Ministry and its role in helping Indian citizens, as well as a possible visit one of the Missions abroad, subject to prevailing conditions.",
         "benefits": [
-            "An honorarium of \u20b9 10,000 per month will be paid to each intern to defray basic costs.",
+            "An honorarium of ₹ 10,000 per month will be paid to each intern to defray basic costs.",
             "Introduction to the various aspects of the functioning of the MEA, its attached offices, the public interface of the Ministry, and its role in helping the Indian citizens.",
             "Possible visit one of the Missions abroad, subject to prevailing conditions.",
             "Cost of one-time to and fro air travel subject to a ceiling of the prevailing economy class airfare between the State capital and Delhi, from the domicile State or from the college/university of the selected candidates will be provided. The interns would be responsible for their boarding and lodging in Delhi during the period of their internship.",
@@ -64,5 +64,6 @@
             "Government Scheme",
             "Ministry of External Affairs"
         ]
-    }
+    },
+    "id": "000894"
 }

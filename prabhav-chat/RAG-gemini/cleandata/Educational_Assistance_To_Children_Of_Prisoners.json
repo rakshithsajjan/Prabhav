@@ -5,13 +5,13 @@
         "department": "Department of Social Justice, Government of Kerala",
         "type": "Scholarship",
         "beneficiary": "Children of Prisoners",
-        "details": "The scheme \u201cEducational Assistance to Children of Prisoners\u201d was launched by the Department of Social Justice, Government of Kerala. There are many persons imprisoned, some for known reasons and others for unknown reasons. Once they are lodged in jail their families that are suffering the most. They get ostracized from society. Due to the lack of money, their children might be denied education at a very early age itself. This might have huge repercussions later it may lead to the birth of new criminals in society. Therefore, the government has initiated such a scheme that aims at bringing these people to the mainstream of society.",
+        "details": "The scheme “Educational Assistance to Children of Prisoners” was launched by the Department of Social Justice, Government of Kerala. There are many persons imprisoned, some for known reasons and others for unknown reasons. Once they are lodged in jail their families that are suffering the most. They get ostracized from society. Due to the lack of money, their children might be denied education at a very early age itself. This might have huge repercussions later it may lead to the birth of new criminals in society. Therefore, the government has initiated such a scheme that aims at bringing these people to the mainstream of society.",
         "benefits": [
             "Under the scheme, scholarship/financial assistance will be provided to the children of prisoners for their expenses like food, clothing, school fees, etc.",
-            "\u20b9500/- per month for 1st Std. to 5th Std.",
-            "\u20b9750/- per month for 6th Std. to 10th Std.",
-            "\u20b91000/- per month for +1 (Plus one) & +2 (Plus two)",
-            "\u20b91500/- per month for Degree/Professional Course"
+            "₹500/- per month for 1st Std. to 5th Std.",
+            "₹750/- per month for 6th Std. to 10th Std.",
+            "₹1000/- per month for +1 (Plus one) & +2 (Plus two)",
+            "₹1500/- per month for Degree/Professional Course"
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
@@ -34,7 +34,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cEducational Assistance to Children of Prisoners\u201d scheme?",
+                "question": "What is the “Educational Assistance to Children of Prisoners” scheme?",
                 "answer": "Under the scheme, the Government of Kerala is providing financial assistance/Scholarships to the children of prisoners."
             },
             {
@@ -58,12 +58,12 @@
                 "answer": "Yes, the applicants should be from Below Poverty Line (BPL) category only."
             },
             {
-                "question": "Will financial assistance be provided to those children of prisoners living with their relatives\u2019 falling under the Above Poverty Line (APL) category?",
+                "question": "Will financial assistance be provided to those children of prisoners living with their relatives’ falling under the Above Poverty Line (APL) category?",
                 "answer": "Yes, financial aid can be provided to the children even though the relatives, who are liable to protect them and falls under the Above Poverty Line (APL) category, provided both the parents are in jail."
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the Government of Kerala is providing financial assistance/scholarships to the children of prisoners @ \u20b9500/- per month to \u20b91500/- per month from Class- I to Degree/Professional Courses."
+                "answer": "Under the scheme, the Government of Kerala is providing financial assistance/scholarships to the children of prisoners @ ₹500/- per month to ₹1500/- per month from Class- I to Degree/Professional Courses."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -92,5 +92,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "000482"
 }

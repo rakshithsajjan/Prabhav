@@ -5,9 +5,9 @@
         "department": "Tamil Development, Religious Endowments, and Information Department",
         "type": "Financial Assistance",
         "beneficiary": "Full-time working journalists",
-        "details": "The Tamil Development, Religious Endowments, and Information Department scheme was launched by the 'Financial Assistance for Medical Treatment of Journalists'. Under this scheme, financial assistance was provided to four Journalists for medical treatment and to the daughter of a journalist for surgery. The total financial assistance extended under the scheme was \u20b94,00,000/-.",
+        "details": "The Tamil Development, Religious Endowments, and Information Department scheme was launched by the 'Financial Assistance for Medical Treatment of Journalists'. Under this scheme, financial assistance was provided to four Journalists for medical treatment and to the daughter of a journalist for surgery. The total financial assistance extended under the scheme was ₹4,00,000/-.",
         "benefits": [
-            "Medical Assistant of \u20b94,00,000/-."
+            "Medical Assistant of ₹4,00,000/-."
         ],
         "eligibility": [
             "The petitioner should be working as a full-time working journalist.",
@@ -32,7 +32,7 @@
         "faqs": [
             {
                 "question": "What is the Journalists Medical Fund?",
-                "answer": "The Journalists Medical Fund provides financial assistance of up to \u20b94,00,000 for medical treatment to full-time working journalists in Tamil Nadu."
+                "answer": "The Journalists Medical Fund provides financial assistance of up to ₹4,00,000 for medical treatment to full-time working journalists in Tamil Nadu."
             },
             {
                 "question": "Who is eligible to apply for this fund?",
@@ -99,5 +99,6 @@
             "Journalists",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "000566"
 }

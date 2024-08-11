@@ -5,9 +5,9 @@
         "department": "Department of Labour and Employment, Goa",
         "type": "Financial Assistance",
         "beneficiary": "Workers registered with the Goa Building and Other Construction Workers Welfare Board",
-        "details": "'Advance for Purchase or Construction of House (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board, Department of Labour and Employment, Goa. Through this scheme, the worker registered with the Board is sanctioned financial assistance of upto \u20b950,000/- in advance for the outright purchase/construction of a house. The applications are accepted offline.",
+        "details": "'Advance for Purchase or Construction of House (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board, Department of Labour and Employment, Goa. Through this scheme, the worker registered with the Board is sanctioned financial assistance of upto ₹50,000/- in advance for the outright purchase/construction of a house. The applications are accepted offline.",
         "benefits": [
-            "\u20b950,000/- is sanctioned as advance and shall be recovered in equal instalments as may be fixed by the Board."
+            "₹50,000/- is sanctioned as advance and shall be recovered in equal instalments as may be fixed by the Board."
         ],
         "eligibility": [
             "The applicant should be a Worker registered with the Goa Building and Other Construction Workers Welfare Board.",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             },
             {
                 "question": "Can registration under the Building and Other Construction Workers Act be transferred or renewed?",
@@ -111,5 +111,6 @@
             "Labour",
             "Worker"
         ]
-    }
+    },
+    "id": "000053"
 }

@@ -11,12 +11,12 @@
         ],
         "eligibility": [
             "He should belong to the Vimukta Jatis & Nomadic Tribes (VJNT) category.",
-            "Reimbursement will be sanctioned to the students, whose parents' income is between \u20b9 1,00,000 to \u20b9 4,50,000."
+            "Reimbursement will be sanctioned to the students, whose parents' income is between ₹ 1,00,000 to ₹ 4,50,000."
         ],
         "exclusions": [
             "Students with one failure and those not covered under the Government of India Scholarship are also held eligible for such reimbursement."
         ],
-        "application_process": "Online. Step 1: Visit the official website to register yourself by clicking on 'New Applicant registration' and fill in all the mandatory details (Applicant\u2019s Name, Username, Password, Email, and Mobile Number). Step 2: Now, you may Login by filling Login details. Step 3: Create your profile by filling in all your updated personal details like address, qualifications, etc. Step 4: After filling in 100% of the profile information, you may apply for the eligible schemes. Scrutiny concerned college should forward his application to the concerned Asstt. Commissioner Social Welfare for sanction. Note: Online application is to be filled out for the first year of that course only. From Ian year to the completion of the course, the application is renewed by the concerned college and forwarded to the concerned Asstt. Comm. Social Welfare for sanction.",
+        "application_process": "Online. Step 1: Visit the official website to register yourself by clicking on 'New Applicant registration' and fill in all the mandatory details (Applicant’s Name, Username, Password, Email, and Mobile Number). Step 2: Now, you may Login by filling Login details. Step 3: Create your profile by filling in all your updated personal details like address, qualifications, etc. Step 4: After filling in 100% of the profile information, you may apply for the eligible schemes. Scrutiny concerned college should forward his application to the concerned Asstt. Commissioner Social Welfare for sanction. Note: Online application is to be filled out for the first year of that course only. From Ian year to the completion of the course, the application is renewed by the concerned college and forwarded to the concerned Asstt. Comm. Social Welfare for sanction.",
         "documents_required": [
             "Aadhaar Number",
             "Domicile Certificate of Maharashtra",
@@ -64,5 +64,6 @@
             "VJNT",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "001979"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Startups",
         "details": "The scheme 'Co-Working Space/ Incubators/ Accelerators Subsidy Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, the startups will be reimbursed a fixed amount for the seats occupied by them at co-working spaces/ incubators/ accelerators listed by the Startup Promotion Cell (SPC).",
         "benefits": [
-            "In the case of Seat Offered by the Co-Working Spaces: The startup will be reimbursed 50% of the seat cost or a maximum benefit of \u20b93000 per seat, and can claim this benefit for a maximum cap of 8 seats only. The benefits at co-working spaces can be availed for a maximum period of two years per startup. A total of 100 seats in co-working will be subsidized under this scheme each year.",
-            "In the case of Seat Offered by the Incubators: The startup will be reimbursed 50% of the seat cost or a maximum benefit of \u20b95000 per seat, and can claim this benefit for a maximum cap of 8 seats only. The benefits at incubators can be availed for a maximum period of one year per startup. A total of 50 seats in incubators will be subsidized under this scheme each year.",
-            "In the case of Seat Offered by the Accelerators: The startup will be reimbursed 50% of the seat cost or a maximum benefit of \u20b96000 per seat, and can claim this benefit for a maximum cap of 8 seats only. The benefits at accelerators can be availed for a maximum period of three months per startup. A total of 50 seats in accelerators will be subsidized under this scheme each year."
+            "In the case of Seat Offered by the Co-Working Spaces: The startup will be reimbursed 50% of the seat cost or a maximum benefit of ₹3000 per seat, and can claim this benefit for a maximum cap of 8 seats only. The benefits at co-working spaces can be availed for a maximum period of two years per startup. A total of 100 seats in co-working will be subsidized under this scheme each year.",
+            "In the case of Seat Offered by the Incubators: The startup will be reimbursed 50% of the seat cost or a maximum benefit of ₹5000 per seat, and can claim this benefit for a maximum cap of 8 seats only. The benefits at incubators can be availed for a maximum period of one year per startup. A total of 50 seats in incubators will be subsidized under this scheme each year.",
+            "In the case of Seat Offered by the Accelerators: The startup will be reimbursed 50% of the seat cost or a maximum benefit of ₹6000 per seat, and can claim this benefit for a maximum cap of 8 seats only. The benefits at accelerators can be availed for a maximum period of three months per startup. A total of 50 seats in accelerators will be subsidized under this scheme each year."
         ],
         "eligibility": [
             "The startup should be certified by the Startup Promotion Cell (SPC).",
@@ -29,7 +29,7 @@
             },
             {
                 "question": "How is the reimbursement calculated for seats at co-working spaces, and what is the maximum benefit per seat?",
-                "answer": "Start-ups are reimbursed 50% of the seat cost, with a maximum benefit of \u20b93000 per seat, and can claim this for a maximum of 8 seats."
+                "answer": "Start-ups are reimbursed 50% of the seat cost, with a maximum benefit of ₹3000 per seat, and can claim this for a maximum of 8 seats."
             },
             {
                 "question": "Can a startup claim reimbursement for seats on any plan offered by co-working spaces, incubators, or accelerators listed by the Startup Promotion Cell (SPC)?",
@@ -118,5 +118,6 @@
             "Startup",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000312"
 }

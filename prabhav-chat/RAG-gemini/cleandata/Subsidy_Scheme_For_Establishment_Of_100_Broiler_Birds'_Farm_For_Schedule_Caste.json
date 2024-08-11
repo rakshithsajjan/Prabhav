@@ -5,9 +5,9 @@
         "department": "Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Scheduled Caste",
-        "details": "The scheme 'Subsidy Scheme for Establishment of 100 Broiler Birds' Farm for Schedule Caste' was launched to provide supplementary income to Schedule Caste People of the society. Under this scheme, beneficiaries will have to bring 100 low-input broiler birds, poultry feed, and water & feed utensils. The subsidy will be given 75% (maximum \u20b927000/- cash in direct bank account) to the eligible beneficiary.",
+        "details": "The scheme 'Subsidy Scheme for Establishment of 100 Broiler Birds' Farm for Schedule Caste' was launched to provide supplementary income to Schedule Caste People of the society. Under this scheme, beneficiaries will have to bring 100 low-input broiler birds, poultry feed, and water & feed utensils. The subsidy will be given 75% (maximum ₹27000/- cash in direct bank account) to the eligible beneficiary.",
         "benefits": [
-            "Subsidy will be given 75% of the total unit cost (maximum \u20b927000/-) to the beneficiary for the establishment of 100 Broiler birds' Unit.",
+            "Subsidy will be given 75% of the total unit cost (maximum ₹27000/-) to the beneficiary for the establishment of 100 Broiler birds' Unit.",
             "The subsidy amount is directly credited into the bank account of the beneficiary.",
             "The birds will be given vaccination regularly."
         ],
@@ -53,15 +53,15 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, a subsidy will be given 75% of the total unit cost (maximum \u20b927000/-) to the beneficiary for the establishment of 100 Broiler birds' Unit."
+                "answer": "Under the scheme, a subsidy will be given 75% of the total unit cost (maximum ₹27000/-) to the beneficiary for the establishment of 100 Broiler birds' Unit."
             },
             {
                 "question": "What is the unit cost for the scheme?",
-                "answer": "The unit cost for the scheme is \u20b936000/-."
+                "answer": "The unit cost for the scheme is ₹36000/-."
             },
             {
                 "question": "What will the percentage of subsidy be given to the beneficiary?",
-                "answer": "The subsidy will be given 75% of the total unit cost (maximum \u20b927000/-)."
+                "answer": "The subsidy will be given 75% of the total unit cost (maximum ₹27000/-)."
             },
             {
                 "question": "Who will get priority under the scheme?",
@@ -113,5 +113,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001866"
 }

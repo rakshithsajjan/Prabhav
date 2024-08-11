@@ -5,11 +5,11 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Institutions providing services to Senior Citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Institution for Providing Services to Senior Citizens and Awareness Generation' award shall be given to institutions with a record of providing services to the elderly, especially indigent senior citizens.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Institution for Providing Services to Senior Citizens and Awareness Generation' award shall be given to institutions with a record of providing services to the elderly, especially indigent senior citizens.",
         "benefits": [
             "Citation",
             "Memento",
-            "Cash award of \u20b9 5,00,000",
+            "Cash award of ₹ 5,00,000",
             "Boarding and lodging expenses covered for awardees and one companion",
             "Reimbursement of to-and-fro travelling expenses and accommodation"
         ],
@@ -46,7 +46,7 @@
             },
             {
                 "question": "Who confers these awards?",
-                "answer": "The awards are conferred by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi."
+                "answer": "The awards are conferred by the Hon’ble President of India at Vigyan Bhawan, New Delhi."
             },
             {
                 "question": "How many categories are there in this award?",
@@ -77,5 +77,6 @@
             "Social Welfare",
             "Institutional Support"
         ]
-    }
+    },
+    "id": "001278"
 }

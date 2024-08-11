@@ -5,9 +5,9 @@
         "department": "Department of Information Technology",
         "type": "Grant",
         "beneficiary": "Smaller Business Units",
-        "details": "Launched in 2018, the 'Performance Linked Grant Scheme for Smaller Business Units' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Performance Linked Grant to the eligible Information Technology Units in the State of Goa. A performance grant of 5% of the reported net income subject to a total cap of \u20b9 25,00,000. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
+        "details": "Launched in 2018, the 'Performance Linked Grant Scheme for Smaller Business Units' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Performance Linked Grant to the eligible Information Technology Units in the State of Goa. A performance grant of 5% of the reported net income subject to a total cap of ₹ 25,00,000. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
         "benefits": [
-            "A performance grant of 5% of the reported net income, subject to a total cap of \u20b9 25,00,000."
+            "A performance grant of 5% of the reported net income, subject to a total cap of ₹ 25,00,000."
         ],
         "eligibility": [
             "The applicant should be a Smaller Business Unit.",
@@ -36,8 +36,8 @@
                 "answer": "The reported net income considered for the 5% performance grant is derived from the Income Tax Returns of the Unit. It encompasses the net income highlighted in these returns for all the years covered in the claimed period. The certified copy from the auditor or Chartered Accountant further certifies the accuracy of this reported income."
             },
             {
-                "question": "Could you elaborate on the significance of the cap of \u20b9 25,00,000 mentioned in relation to the performance grant of 5% of the reported net income?",
-                "answer": "The cap of \u20b9 25,00,000 serves as an upper limit on the performance grant, ensuring that regardless of the calculated 5% of the reported net income, the grant does not exceed this specified amount. This is a crucial detail to consider when assessing the potential benefits and limitations of the policy."
+                "question": "Could you elaborate on the significance of the cap of ₹ 25,00,000 mentioned in relation to the performance grant of 5% of the reported net income?",
+                "answer": "The cap of ₹ 25,00,000 serves as an upper limit on the performance grant, ensuring that regardless of the calculated 5% of the reported net income, the grant does not exceed this specified amount. This is a crucial detail to consider when assessing the potential benefits and limitations of the policy."
             },
             {
                 "question": "In the context of the y-o-y growth requirement, how should a situation where a company experiences a decline in turnover for one of the three consecutive years be addressed?",
@@ -92,5 +92,6 @@
             "Information Technology",
             "Goa"
         ]
-    }
+    },
+    "id": "001439"
 }

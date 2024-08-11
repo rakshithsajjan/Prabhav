@@ -8,13 +8,13 @@
         "details": "A scholarship scheme by the Ministry of Education and the University Grants Commission aimed at promoting higher education in the North Eastern Region (NER) by providing financial assistance to students from economically weaker sections. The scheme was launched from the academic session 2014-15.",
         "benefits": [
             "UGC will award 10,000 (ten thousand) fresh scholarships per year.",
-            "\u20b95,400/- per month for general degree courses and \u20b97,800/- per month for technical/medical/professional/paramedical courses.",
+            "₹5,400/- per month for general degree courses and ₹7,800/- per month for technical/medical/professional/paramedical courses.",
             "The scholar would be awarded from the date of joining the course as certified by the University/Institution/ College.",
             "Scholarship will be paid to the selected students by the UGC through DBT (Direct Benefit Transfer) Mode."
         ],
         "eligibility": [
             "The applicant must be a domicile of NER.",
-            "The parental annual income of the applicant should not exceed \u20b94,50,000 per annum from all sources.",
+            "The parental annual income of the applicant should not exceed ₹4,50,000 per annum from all sources.",
             "The applicant should have passed Class 12th or equivalent in the preceding year of study.",
             "The applicant should have secured admission in the first year of any degree course."
         ],
@@ -23,7 +23,7 @@
             "Students already availing scholarship for pursuing the Undergraduate program under any other scheme(s).",
             "Students gaining admission through 'management quota'.",
             "Students pursuing courses, such as Diploma Courses, do not lead to the award of a Degree.",
-            "Students whose parent's income exceeds \u20b94,50,000 per annum."
+            "Students whose parent's income exceeds ₹4,50,000 per annum."
         ],
         "application_process": "Visit the National Scholarships Portal to register and apply for the scholarship. Follow the guidelines provided on the portal for registration and application submission.",
         "documents_required": [
@@ -65,5 +65,6 @@
             "North Eastern Region",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000921"
 }

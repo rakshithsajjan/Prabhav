@@ -5,11 +5,11 @@
         "department": "Chief Minister's Secretariat, Govt. of Rajasthan",
         "type": "Financial Assistance",
         "beneficiary": "Residents of Rajasthan affected by accidents",
-        "details": "Launched in April 1999, 'Rajasthan Chief Minister's Relief Fund - Accident Assistance' provides \u20b9 1,00,000 to the dependent of the deceased in case of death due to accident, and up to \u20b9 20,000 for serious injuries. A revolving fund of \u20b920,00,000 is available to all district collectors for assistance.",
+        "details": "Launched in April 1999, 'Rajasthan Chief Minister's Relief Fund - Accident Assistance' provides ₹ 1,00,000 to the dependent of the deceased in case of death due to accident, and up to ₹ 20,000 for serious injuries. A revolving fund of ₹20,00,000 is available to all district collectors for assistance.",
         "benefits": [
-            "In case of death due to accident, \u20b9 1,00,000 is provided to the dependent of the deceased.",
-            "In case of serious injury, assistance should be approved up to \u20b9 20,000, keeping in view the seriousness of the injury.",
-            "A revolving fund of \u20b920,00,000 each has been made available to all district collectors.",
+            "In case of death due to accident, ₹ 1,00,000 is provided to the dependent of the deceased.",
+            "In case of serious injury, assistance should be approved up to ₹ 20,000, keeping in view the seriousness of the injury.",
+            "A revolving fund of ₹20,00,000 each has been made available to all district collectors.",
             "The assistance is 'one-time full-support' and is sanctioned by the concerned District Collector.",
             "In case of death of a seriously injured person in an accident while undergoing treatment, assistance is given on applying within a period of 6 months from the date of death."
         ],
@@ -50,15 +50,15 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance Provided In Case Of 'Death Due To Accident'?",
-                "answer": "In case of death due to an accident, \u20b9 1,00,000 is provided to the dependent of the deceased."
+                "answer": "In case of death due to an accident, ₹ 1,00,000 is provided to the dependent of the deceased."
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance Provided In Case Of 'Serious Injury'?",
-                "answer": "In case of serious injury, assistance should be approved up to \u20b9 20,000, keeping in view the seriousness of the injury."
+                "answer": "In case of serious injury, assistance should be approved up to ₹ 20,000, keeping in view the seriousness of the injury."
             },
             {
                 "question": "What Is The Amount Of Revolving Fund That Has Been Made Available To The District Collectors Of Rajasthan?",
-                "answer": "A revolving fund of \u20b920,00,000 each has been made available to all district collectors."
+                "answer": "A revolving fund of ₹20,00,000 each has been made available to all district collectors."
             },
             {
                 "question": "Is The Amount Of Financial Assistance Provided As A Lump Sum Or In Installments?",
@@ -117,5 +117,6 @@
             "Rajasthan",
             "Relief Fund"
         ]
-    }
+    },
+    "id": "001558"
 }

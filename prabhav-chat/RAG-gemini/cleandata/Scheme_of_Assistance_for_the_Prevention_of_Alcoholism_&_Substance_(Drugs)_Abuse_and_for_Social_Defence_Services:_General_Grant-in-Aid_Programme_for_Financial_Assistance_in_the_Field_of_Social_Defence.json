@@ -62,11 +62,11 @@
             },
             {
                 "question": "What is the ceiling for non-recurring grant-in-aid under the scheme?",
-                "answer": "The ceiling for non-recurring grant-in-aid is \u20b910,00,000 per annum per project."
+                "answer": "The ceiling for non-recurring grant-in-aid is ₹10,00,000 per annum per project."
             },
             {
                 "question": "What is the limitation on the government grant for building construction?",
-                "answer": "The government grant for building construction is limited to \u20b910,00,000."
+                "answer": "The government grant for building construction is limited to ₹10,00,000."
             },
             {
                 "question": "What are the eligible items for which organizations can receive assistance?",
@@ -92,5 +92,6 @@
             "Social Defence",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001710"
 }

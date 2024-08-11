@@ -7,7 +7,7 @@
         "beneficiary": "Students belonging to Scheduled Tribes of Andaman and Nicobar Islands",
         "details": "The scheme aims to provide additional financial assistance (scholarship) to ST students pursuing higher education after Senior Secondary (12th Standard) in Colleges/Universities anywhere in India, as an incentive to supplement the cost of their education.",
         "benefits": [
-            "An amount of \u20b91000/- per month shall be given to the eligible students.",
+            "An amount of ₹1000/- per month shall be given to the eligible students.",
             "The additional scholarship shall be payable for ten months in an academic session.",
             "The additional scholarship money shall be directly released to the bank account of the beneficiaries."
         ],
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "An amount of \u20b91000/- per month shall be given to the eligible students."
+                "answer": "An amount of ₹1000/- per month shall be given to the eligible students."
             },
             {
                 "question": "Is this scheme only for the students of Scheduled Tribes Category?",
@@ -70,5 +70,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001690"
 }

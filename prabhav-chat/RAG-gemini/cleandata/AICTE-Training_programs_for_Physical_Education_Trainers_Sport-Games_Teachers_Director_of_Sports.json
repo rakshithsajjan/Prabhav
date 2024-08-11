@@ -7,7 +7,7 @@
         "beneficiary": "Physical Education Trainers/Sport-Games Teachers/Directors of Sports",
         "details": "Training programs for Physical Education Trainers/Sport-Games Teachers/Director of Sports, launched by All India Council for Technical Education, aims to support institutions in conducting trainings to develop the skill of the participants to involve the masses in traditional sports/games and fun games for physical activity through recreation.",
         "benefits": [
-            "Funding to the institution: \u20b9 6,39,000/- per program.",
+            "Funding to the institution: ₹ 6,39,000/- per program.",
             "Financial assistance is provided to the host institution to conduct the program."
         ],
         "eligibility": [
@@ -72,5 +72,6 @@
             "Sports",
             "AICTE"
         ]
-    }
+    },
+    "id": "000021"
 }

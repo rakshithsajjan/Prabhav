@@ -8,7 +8,7 @@
         "details": "The scheme 'Fishing Ban Period Assistance' is a Sub-Component under the scheme 'Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme'. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective to assist fishermen families who are deprived of income during natural calamities and fishing ban periods, and to conserve the fishery wealth in sea during breeding season.",
         "benefits": [
             "100 kgs. of rice",
-            "Cash dole at \u20b9 750/- per fishermen's family during the period of ban on fishing"
+            "Cash dole at ₹ 750/- per fishermen's family during the period of ban on fishing"
         ],
         "eligibility": [
             "The applicant should be an ordinarily resident of the Union territory of Puducherry.",
@@ -106,5 +106,6 @@
             "Relief",
             "Welfare"
         ]
-    }
+    },
+    "id": "000621"
 }

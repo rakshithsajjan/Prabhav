@@ -7,7 +7,7 @@
         "beneficiary": "Unemployed Women with PhD in Science or Engineering",
         "details": "The 'Back-to-Lab' programme of the Women Scientists Division offers Research and Post-Doctoral Fellowship to women who have a break in their career, to facilitate their re-entry in science research. The fellowship is provided normally for a period of 2 years. The scheme is open to unemployed women who are permanent residents of Kerala and qualified with PhD in Science or Engineering. The objective of the scheme is to support women having career breaks, facilitating their re-entry in scientific research by providing a Post-Doctoral Fellowship.",
         "benefits": [
-            "The scheme offers a Post-doctoral fellowship of \u20b945,000/- + 10% HRA per month along with an annual contingency grant of \u20b975,000/-.",
+            "The scheme offers a Post-doctoral fellowship of ₹45,000/- + 10% HRA per month along with an annual contingency grant of ₹75,000/-.",
             "Duration of the Fellowship is limited to a maximum of 2 years."
         ],
         "eligibility": [
@@ -81,11 +81,11 @@
             },
             {
                 "question": "How much will the monthly fellowship be given to the eligible fellow?",
-                "answer": "The scheme offers a Post-doctoral fellowship of \u20b945,000/- + 10% HRA per month."
+                "answer": "The scheme offers a Post-doctoral fellowship of ₹45,000/- + 10% HRA per month."
             },
             {
                 "question": "How much will the contingency grant to be paid under the programme?",
-                "answer": "Annual contingency grant of \u20b975,000/- will also be paid under the programme."
+                "answer": "Annual contingency grant of ₹75,000/- will also be paid under the programme."
             },
             {
                 "question": "What is the duration of the fellowship?",
@@ -97,7 +97,7 @@
             },
             {
                 "question": "Where can an applicant contact regarding this programme?",
-                "answer": "The Head, Women Scientists Division, Kerala State Council of Science, Technology and Environment, Sasthra Bhavan, Pattom (P.O), Thiruvananthapuram \u2013 695 004, Ph: 0471 2548208."
+                "answer": "The Head, Women Scientists Division, Kerala State Council of Science, Technology and Environment, Sasthra Bhavan, Pattom (P.O), Thiruvananthapuram – 695 004, Ph: 0471 2548208."
             }
         ],
         "sources": [
@@ -130,5 +130,6 @@
                 "url": "https://kscste.kerala.gov.in/wp-content/uploads/2019/06/ENDORSEMENT.pdf"
             }
         ]
-    }
+    },
+    "id": "000163"
 }

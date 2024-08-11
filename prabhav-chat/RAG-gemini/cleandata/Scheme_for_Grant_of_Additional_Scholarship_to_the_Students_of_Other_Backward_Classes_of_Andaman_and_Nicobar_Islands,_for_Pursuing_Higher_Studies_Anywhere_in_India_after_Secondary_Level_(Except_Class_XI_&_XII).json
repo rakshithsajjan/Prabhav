@@ -7,7 +7,7 @@
         "beneficiary": "Students of Other Backward Classes (OBC)",
         "details": "The scheme provides additional financial assistance (Scholarship) to the OBC students belonging to the non-creamy layer of Andaman & Nicobar Islands for pursuing higher education after Secondary (X)/Senior Secondary (XII), in Government-recognized Polytechnic/ITI/College/University anywhere in India, as an incentive to supplement the cost of their education.",
         "benefits": [
-            "\u20b91000/- per month for eligible students",
+            "₹1000/- per month for eligible students",
             "Scholarship payable for a duration of ten months in an academic session",
             "Direct credit of scholarship amount to Aadhaar-linked bank account"
         ],
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "An amount of \u20b91000/- per month shall be sanctioned to the eligible students."
+                "answer": "An amount of ₹1000/- per month shall be sanctioned to the eligible students."
             },
             {
                 "question": "How to apply for this scholarship?",
@@ -72,5 +72,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001691"
 }

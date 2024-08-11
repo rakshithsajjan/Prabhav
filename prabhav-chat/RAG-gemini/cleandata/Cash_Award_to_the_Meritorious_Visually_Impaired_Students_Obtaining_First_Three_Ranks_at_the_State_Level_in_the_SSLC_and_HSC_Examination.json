@@ -7,9 +7,9 @@
         "beneficiary": "Visually Impaired Students",
         "details": "The scheme 'Cash Award to the Meritorious Visually Impaired Students Obtaining First Three Ranks at the State Level in the SSLC and HSC Examination' was launched by the Department of Social Welfare, Government of Puducherry. The objective of this scheme is to award cash prizes to meritorious differently-abled persons (visually challenged students) who are studying in government and private schools of Puducherry and secure first, second and third rank concerning total marks in the Secondary School Leaving Certificate (SSLC) and the Higher Secondary Certificate (HSC) examinations.",
         "benefits": [
-            "A cash award of \u20b920,000/- to the first rank holder",
-            "A cash award of \u20b915,000/- to the second rank holder",
-            "A cash award of \u20b910,000/- to the third rank holder"
+            "A cash award of ₹20,000/- to the first rank holder",
+            "A cash award of ₹15,000/- to the second rank holder",
+            "A cash award of ₹10,000/- to the third rank holder"
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the cash prizes awarded under this scheme?",
-                "answer": "\u20b920,000/-, \u20b915,000/-, and \u20b910,000/- for the first, second, and third rank holders respectively."
+                "answer": "₹20,000/-, ₹15,000/-, and ₹10,000/- for the first, second, and third rank holders respectively."
             }
         ],
         "sources": [
@@ -72,5 +72,6 @@
             "Education",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000251"
 }

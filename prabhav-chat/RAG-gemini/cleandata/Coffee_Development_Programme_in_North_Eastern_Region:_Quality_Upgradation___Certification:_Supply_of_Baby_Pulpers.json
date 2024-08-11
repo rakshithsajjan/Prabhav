@@ -7,7 +7,7 @@
         "beneficiary": "Tribal Growers",
         "details": "The scheme 'Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Supply of Baby Pulpers' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings.",
         "benefits": [
-            "Unit Cost: Actual cost of the unit or \u20b916,000 per unit, whichever is less.",
+            "Unit Cost: Actual cost of the unit or ₹16,000 per unit, whichever is less.",
             "Scale of Subsidy: 75% of the Unit Cost."
         ],
         "eligibility": [
@@ -77,7 +77,7 @@
             },
             {
                 "question": "What is the unit cost for the baby pulper, and how much subsidy is provided?",
-                "answer": "The unit cost is the actual cost or \u20b916,000 per unit, with a subsidy covering 75% of the unit cost."
+                "answer": "The unit cost is the actual cost or ₹16,000 per unit, with a subsidy covering 75% of the unit cost."
             }
         ],
         "sources": [
@@ -100,5 +100,6 @@
             "Farmer",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000320"
 }

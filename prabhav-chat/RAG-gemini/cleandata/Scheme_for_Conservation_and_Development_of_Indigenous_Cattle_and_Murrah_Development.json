@@ -7,8 +7,8 @@
         "beneficiary": "Farmers",
         "details": "The scheme aims to encourage farmers for conservation and development of Indigenous breeds of cows and buffaloes. It includes cash incentives for owners of identified Murrah buffaloes and indigenous cows based on their peak milk yield.",
         "benefits": [
-            "Cash incentives for Murrah buffaloes ranging from \u20b915,000 to \u20b930,000 based on peak yield.",
-            "Cash incentives for indigenous cows (Hariana, Sahiwal, Belahi) ranging from \u20b95,000 to \u20b920,000 based on peak yield.",
+            "Cash incentives for Murrah buffaloes ranging from ₹15,000 to ₹30,000 based on peak yield.",
+            "Cash incentives for indigenous cows (Hariana, Sahiwal, Belahi) ranging from ₹5,000 to ₹20,000 based on peak yield.",
             "Insurance for identified animals with part of the premium covered by the scheme."
         ],
         "eligibility": [
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What incentives are provided for Murrah buffalo owners?",
-                "answer": "Cash incentives ranging from \u20b915,000 to \u20b930,000 are provided to owners of identified Murrah buffaloes."
+                "answer": "Cash incentives ranging from ₹15,000 to ₹30,000 are provided to owners of identified Murrah buffaloes."
             },
             {
                 "question": "What breeds of cows are eligible under the scheme?",
@@ -94,5 +94,6 @@
             "Cash Incentive",
             "Dairying"
         ]
-    }
+    },
+    "id": "001681"
 }

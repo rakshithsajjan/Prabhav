@@ -7,7 +7,7 @@
         "beneficiary": "Nominees or dependents of deceased registered construction workers",
         "details": "The scheme 'Funeral Benefit' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to nominees or dependents of deceased registered construction workers, towards funeral expenses.",
         "benefits": [
-            "Financial assistance of \u20b95,000/- shall be given to nominees or dependents of deceased registered construction workers, towards funeral expenses."
+            "Financial assistance of ₹5,000/- shall be given to nominees or dependents of deceased registered construction workers, towards funeral expenses."
         ],
         "eligibility": [
             "The applicant should be a legal nominee or dependent of deceased worker.",
@@ -26,7 +26,7 @@
             "Bank Passbook",
             "Applicant Address Proof",
             "Succession Certificate",
-            "Nominee\u2019s Consent Letters",
+            "Nominee’s Consent Letters",
             "Guardian Certificate (in case Applicant is Minor)",
             "Any other documents as required"
         ],
@@ -45,7 +45,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "A financial assistance of \u20b95,000/- is provided to the nominees or dependents of deceased registered construction workers to cover funeral expenses."
+                "answer": "A financial assistance of ₹5,000/- is provided to the nominees or dependents of deceased registered construction workers to cover funeral expenses."
             },
             {
                 "question": "Can the financial assistance be transferred to a bank account?",
@@ -86,5 +86,6 @@
             "Funeral",
             "Labour"
         ]
-    }
+    },
+    "id": "000658"
 }

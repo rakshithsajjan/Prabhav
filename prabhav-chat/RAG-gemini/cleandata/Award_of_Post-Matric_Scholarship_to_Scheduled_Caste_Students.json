@@ -15,7 +15,7 @@
             "The applicant should be from a Scheduled Caste.",
             "The applicant should be a student studying at the Post-Matric level or Post Secondary Stage.",
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for not less than 5 years.",
-            "The annual income should not exceed \u20b9 2,00,000/-."
+            "The annual income should not exceed ₹ 2,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Offline and Online. Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the maximum annual income for eligibility?",
-                "answer": "To be eligible, the annual income of the applicant should not exceed \u20b92,00,000."
+                "answer": "To be eligible, the annual income of the applicant should not exceed ₹2,00,000."
             },
             {
                 "question": "What are the eligible benefits under this scheme?",
@@ -106,5 +106,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "000150"
 }

@@ -8,7 +8,7 @@
         "details": "The 'Advance / High Skill Training' Component of the 'Development of Industries' Scheme by the District Industries Centre, Department of Industries and Commerce, Union Territory of Puducherry aims to enhance the skill of those who have completed the basic training and are interested in advanced training in their trade or the candidates having technical qualification who are willing to undergo some special high skilled training to start their ventures or to get suitable employment opportunity in competitive fields.",
         "benefits": [
             "Skill Training: Selected candidates are sponsored to training in relevant courses offered by reputed Training Institutions situated in the neighbouring states.",
-            "Stipend to Trainee (per month): Higher Secondary / ITI: \u20b9 2,500/-, Any Graduate or 3 years Diploma in Engineering or equivalent: \u20b9 3,000/-.",
+            "Stipend to Trainee (per month): Higher Secondary / ITI: ₹ 2,500/-, Any Graduate or 3 years Diploma in Engineering or equivalent: ₹ 3,000/-.",
             "Travelling Allowances: One-time to and fro expenses restricted to 2nd class train fare and accommodation charges as fixed by the institute.",
             "Course Fees / Honorarium and Accommodation Charges: As prescribed by the training units/institutions will be paid.",
             "Period of Training: As prescribed by the Training Units/ Institutions."
@@ -38,11 +38,11 @@
             },
             {
                 "question": "What is the stipend amount for Higher Secondary / ITI trainees per month?",
-                "answer": "Higher Secondary / ITI trainees receive a stipend of \u20b92,500 per month."
+                "answer": "Higher Secondary / ITI trainees receive a stipend of ₹2,500 per month."
             },
             {
                 "question": "What is the stipend amount for Any Graduate or 3 years Diploma in Engineering trainees?",
-                "answer": "Any Graduate or 3 years Diploma in Engineering trainees receive a stipend of \u20b93,000 per month."
+                "answer": "Any Graduate or 3 years Diploma in Engineering trainees receive a stipend of ₹3,000 per month."
             },
             {
                 "question": "How are the traveling allowances provided to the trainees?",
@@ -97,5 +97,6 @@
             "Employment",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000052"
 }

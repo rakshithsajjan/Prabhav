@@ -5,14 +5,14 @@
         "department": "Directorate of Industries & Commerce, Government of Kerala",
         "type": "Rehabilitation",
         "beneficiary": "Micro, small and medium manufacturing enterprises",
-        "details": "The Kerala Stressed MSMEs Revival & Rehabilitation Scheme intends to provide financial and other handholding support to the MSMEs which show signs of stress and to convert their non-productive assets into productive assets. This scheme aims to revive micro, small and medium manufacturing enterprises in Kerala that suffer due to stressed assets. The maximum assistance admissible for each unit, all reliefs and assistances put together, under the scheme will be limited to \u20b95 Lakh.",
+        "details": "The Kerala Stressed MSMEs Revival & Rehabilitation Scheme intends to provide financial and other handholding support to the MSMEs which show signs of stress and to convert their non-productive assets into productive assets. This scheme aims to revive micro, small and medium manufacturing enterprises in Kerala that suffer due to stressed assets. The maximum assistance admissible for each unit, all reliefs and assistances put together, under the scheme will be limited to ₹5 Lakh.",
         "benefits": [
-            "Entitlement in the scheme shall be limited to an amount of \u20b95 lakhs per applicant unit to be availed as one-time assistance only.",
-            "Margin Money Grant: 50% of the margin insisted by the bank/Financial Institution towards additional working capital loan and term loan, will be payable as Grant Assistance limited to \u20b92 lakhs.",
-            "Interest Subvention Assistance: 6% per annum subject to a maximum amount of \u20b91 lakh for the first year on the loan sanctioned by the financial institution/bank.",
-            "Restart Expenses: 50% of the cost incurred for the inevitable repair and maintenance of the existing Plant and Machinery and Building limited to \u20b91.00 lakh will be reimbursed.",
-            "Clearance of Statutory Dues: 50% of the dues limited to \u20b940,000 shall be payable as one-time assistance.",
-            "Cost of preparation of Revival Project Report will be reimbursed @100%, \u20b910,000/- per unit."
+            "Entitlement in the scheme shall be limited to an amount of ₹5 lakhs per applicant unit to be availed as one-time assistance only.",
+            "Margin Money Grant: 50% of the margin insisted by the bank/Financial Institution towards additional working capital loan and term loan, will be payable as Grant Assistance limited to ₹2 lakhs.",
+            "Interest Subvention Assistance: 6% per annum subject to a maximum amount of ₹1 lakh for the first year on the loan sanctioned by the financial institution/bank.",
+            "Restart Expenses: 50% of the cost incurred for the inevitable repair and maintenance of the existing Plant and Machinery and Building limited to ₹1.00 lakh will be reimbursed.",
+            "Clearance of Statutory Dues: 50% of the dues limited to ₹40,000 shall be payable as one-time assistance.",
+            "Cost of preparation of Revival Project Report will be reimbursed @100%, ₹10,000/- per unit."
         ],
         "eligibility": [
             "MSME in the manufacturing category and set up in Kerala state.",
@@ -61,7 +61,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the financial assistance of \u20b95 lakhs will be given to an applicant unit."
+                "answer": "Under the scheme, the financial assistance of ₹5 lakhs will be given to an applicant unit."
             },
             {
                 "question": "How many times can an applicant unit avail the financial assistance under the scheme?",
@@ -102,5 +102,6 @@
             "Sick Unit",
             "Stressed"
         ]
-    }
+    },
+    "id": "000977"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Children studying in Government and Government-aided schools",
         "details": "PM POSHAN is a centrally sponsored scheme that provides one hot cooked meal to children studying in Government and Government-aided schools across the country. The scheme aims to improve the nutritional status of eligible children and encourage regular school attendance.",
         "benefits": [
-            "Nutrition norm per child per day: Primary - Calorie \u2013 450; Protein - 12 gms; Upper Primary - Calorie \u2013 700; Protein - 20 gms.",
+            "Nutrition norm per child per day: Primary - Calorie – 450; Protein - 12 gms; Upper Primary - Calorie – 700; Protein - 20 gms.",
             "Food norms per child per day: Primary - Food grains - 100 gms; Pulses - 20 gms; Vegetables - 50 gms; Oil & fat - 5 gms; Upper Primary - Food grains - 150 gms; Pulses - 30 gms; Vegetables - 75 gms."
         ],
         "eligibility": [
@@ -43,5 +43,6 @@
             "Children",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001403"
 }

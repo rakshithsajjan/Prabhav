@@ -5,9 +5,9 @@
         "department": "Tourism Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Pilgrims of Haryana",
-        "details": "The scheme 'Sindhu Dharshan Yatra Scheme 2016' was launched by the Tourism Department, Government of Haryana on 12th July 2016. Under the scheme, the government of Haryana provides financial assistance to the pilgrims of the State of Haryana. The financial assistance will be provided up to the extent of \u20b910,000/- or 50% of the actual expenditure per person whichever is less. This scheme will be commenced w.e.f. 1st April 2016 and financial assistance will be provided to those applicants who complete the Yatra after this date.",
+        "details": "The scheme 'Sindhu Dharshan Yatra Scheme 2016' was launched by the Tourism Department, Government of Haryana on 12th July 2016. Under the scheme, the government of Haryana provides financial assistance to the pilgrims of the State of Haryana. The financial assistance will be provided up to the extent of ₹10,000/- or 50% of the actual expenditure per person whichever is less. This scheme will be commenced w.e.f. 1st April 2016 and financial assistance will be provided to those applicants who complete the Yatra after this date.",
         "benefits": [
-            "The financial assistance will be provided up to the extent of \u20b910,000/- or 50% of the actual expenditure per person whichever is less.",
+            "The financial assistance will be provided up to the extent of ₹10,000/- or 50% of the actual expenditure per person whichever is less.",
             "Financial assistance shall be provided to a maximum of 50 (fifty) numbers of pilgrims."
         ],
         "eligibility": [
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What is the 'Sindhu Dharshan Yatra Scheme 2016' scheme?",
-                "answer": "Under the scheme, the government of Haryana provides financial assistance to the pilgrims of the State of Haryana. The financial assistance will be provided up to the extent of \u20b910,000/- or 50% of the actual expenditure per person whichever is less."
+                "answer": "Under the scheme, the government of Haryana provides financial assistance to the pilgrims of the State of Haryana. The financial assistance will be provided up to the extent of ₹10,000/- or 50% of the actual expenditure per person whichever is less."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The financial assistance will be provided up to the extent of \u20b910,000/- or 50% of the actual expenditure per person whichever is less."
+                "answer": "The financial assistance will be provided up to the extent of ₹10,000/- or 50% of the actual expenditure per person whichever is less."
             },
             {
                 "question": "How many pilgrims shall be benefited under the scheme?",
@@ -92,5 +92,6 @@
             "Financial Assistance",
             "Haryana"
         ]
-    }
+    },
+    "id": "001806"
 }

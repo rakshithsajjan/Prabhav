@@ -5,7 +5,7 @@
         "department": "Department of Social Justice",
         "type": "Financial Assistance",
         "beneficiary": "Destitute citizens, including elderly, disabled, and poor individuals",
-        "details": "In Madhya Pradesh, 'Samagra Samajik Suraksha Pension Yojana' was started for poor, disabled and destitute citizens. This scheme has been started by the Chief Minister of Madhya Pradesh. In which those people of the state who are destitute such as \u2013 old people, handicapped, disabled and poor class people have been kept under the scheme. In which all social security has been provided from women to children. The objective of Social Security Pension Scheme Madhya Pradesh is to provide financial assistance to destitute people so that they do not need any other person to meet their needs.",
+        "details": "In Madhya Pradesh, 'Samagra Samajik Suraksha Pension Yojana' was started for poor, disabled and destitute citizens. This scheme has been started by the Chief Minister of Madhya Pradesh. In which those people of the state who are destitute such as – old people, handicapped, disabled and poor class people have been kept under the scheme. In which all social security has been provided from women to children. The objective of Social Security Pension Scheme Madhya Pradesh is to provide financial assistance to destitute people so that they do not need any other person to meet their needs.",
         "benefits": [
             "Pension amount: Rs. 600/- per month."
         ],
@@ -87,5 +87,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001638"
 }

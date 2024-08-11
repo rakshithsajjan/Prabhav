@@ -5,9 +5,9 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Professionally educated unemployed disabled youth",
-        "details": "The scheme 'Subsidy for Disabled Young Professionals' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to \u20b925,00,000/- are provided to professionally educated unemployed disabled youth who fall under the OH, VH, HH, or MR categories, at different interest rates ranging from 4.5% to 8% per annum. The beneficiary should be a permanent resident of Haryana, aged between 18 and 45 years, who has obtained a professional degree from a recognized institute and has a disability of 40% or more to be eligible under this scheme.",
+        "details": "The scheme 'Subsidy for Disabled Young Professionals' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to ₹25,00,000/- are provided to professionally educated unemployed disabled youth who fall under the OH, VH, HH, or MR categories, at different interest rates ranging from 4.5% to 8% per annum. The beneficiary should be a permanent resident of Haryana, aged between 18 and 45 years, who has obtained a professional degree from a recognized institute and has a disability of 40% or more to be eligible under this scheme.",
         "benefits": [
-            "Loans up to \u20b925,00,000/- are provided to professionally educated unemployed disabled youth who fall under the OH, VH, HH, or MR categories.",
+            "Loans up to ₹25,00,000/- are provided to professionally educated unemployed disabled youth who fall under the OH, VH, HH, or MR categories.",
             "The loan is available at different interest rates ranging from 4.5% to 8% per annum."
         ],
         "eligibility": [
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount provided under this scheme?",
-                "answer": "The maximum loan amount provided is \u20b925,00,000/-."
+                "answer": "The maximum loan amount provided is ₹25,00,000/-."
             },
             {
                 "question": "What are the interest rates for the loans?",
@@ -90,5 +90,6 @@
             "Young Professional",
             "Youth"
         ]
-    }
+    },
+    "id": "001875"
 }

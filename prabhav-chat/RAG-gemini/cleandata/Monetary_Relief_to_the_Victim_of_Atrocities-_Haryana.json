@@ -5,9 +5,9 @@
         "department": "Directorate of Welfare of Scheduled Caste & Backward Classes, Government of Haryana",
         "type": "Monetary Relief",
         "beneficiary": "Members of Scheduled Caste who become victims of atrocities",
-        "details": "The scheme 'Monetary Relief to the Victim of Atrocities' provides financial assistance ranging from \u20b985,000/- to \u20b98,25,000/- to members of Scheduled Caste who become victims of atrocities by Non-Scheduled Caste persons for various acts such as damage and loss of properties, grievous hurt, temporary/permanent incapacitation, murder, death, rape, gang rape, kidnapping, and outrage of modesty. An FIR must be registered under the provisions of SC/ST(PoA) Act, 1989.",
+        "details": "The scheme 'Monetary Relief to the Victim of Atrocities' provides financial assistance ranging from ₹85,000/- to ₹8,25,000/- to members of Scheduled Caste who become victims of atrocities by Non-Scheduled Caste persons for various acts such as damage and loss of properties, grievous hurt, temporary/permanent incapacitation, murder, death, rape, gang rape, kidnapping, and outrage of modesty. An FIR must be registered under the provisions of SC/ST(PoA) Act, 1989.",
         "benefits": [
-            "Financial assistance ranging from \u20b985,000/- to \u20b98,25,000/-",
+            "Financial assistance ranging from ₹85,000/- to ₹8,25,000/-",
             "Direct deposit of financial assistance into the bank accounts of the victim or family/dependent of the victim"
         ],
         "eligibility": [
@@ -49,11 +49,11 @@
             },
             {
                 "question": "What is the minimum amount of financial assistance provided under the scheme?",
-                "answer": "The minimum amount of financial assistance is \u20b985,000/-."
+                "answer": "The minimum amount of financial assistance is ₹85,000/-."
             },
             {
                 "question": "What is the maximum amount of financial assistance provided under the scheme?",
-                "answer": "The maximum amount of financial assistance is \u20b98,25,000/-."
+                "answer": "The maximum amount of financial assistance is ₹8,25,000/-."
             },
             {
                 "question": "How is the financial assistance disbursed?",
@@ -109,5 +109,6 @@
             "Scheduled Tribe",
             "Victim Of Atrocities"
         ]
-    }
+    },
+    "id": "001153"
 }

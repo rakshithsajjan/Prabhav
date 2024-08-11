@@ -7,7 +7,7 @@
         "beneficiary": "Women artisans and coir workers",
         "details": "The scheme 'Skill Upgradation and Mahila Coir Yojana' is a component of 'Coir Vikas Yojana (CVY)' launched by the Ministry of Micro, Small & Medium Enterprises, Government of India. It consists of two components: Skill Upgradation and Mahila Coir Yojana, aimed at creating skilled manpower for the coir industry through various training programs.",
         "benefits": [
-            "Monthly stipend of \u20b93000 for trainees",
+            "Monthly stipend of ₹3000 for trainees",
             "Financial assistance for training sponsoring agencies",
             "Subsidy of 75% for coir processing equipment under Mahila Coir Yojana",
             "Training on modern technologies and management skills"
@@ -75,5 +75,6 @@
             "Self-employment",
             "MSME"
         ]
-    }
+    },
+    "id": "000325"
 }

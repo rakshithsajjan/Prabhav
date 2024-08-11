@@ -5,9 +5,9 @@
         "department": "Adi Dravidar Welfare Department",
         "type": "Financial Assistance",
         "beneficiary": "Poor Scheduled Caste Brides",
-        "details": "The scheme 'Financial Assistance for Marriage of Poor Scheduled Caste Brides' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide financial assistance to poor parents from Scheduled Castes for performing the marriage of their daughters. The financial assistance is given at the rate of \u20b915,000/- in each case for the marriage of their two daughters.",
+        "details": "The scheme 'Financial Assistance for Marriage of Poor Scheduled Caste Brides' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to provide financial assistance to poor parents from Scheduled Castes for performing the marriage of their daughters. The financial assistance is given at the rate of ₹15,000/- in each case for the marriage of their two daughters.",
         "benefits": [
-            "Financial Assistance of \u20b915,000/- in each case for the marriage of their two daughters."
+            "Financial Assistance of ₹15,000/- in each case for the marriage of their two daughters."
         ],
         "eligibility": [
             "The Parent/Guardian of the bride should be a citizen of India.",
@@ -17,7 +17,7 @@
             "The marriage should be registered.",
             "The assistance is available only for two daughters in a family.",
             "The application should be submitted 30 days prior to the date of marriage.",
-            "The annual income of the parent/guardian should not exceed \u20b92,00,000.",
+            "The annual income of the parent/guardian should not exceed ₹2,00,000.",
             "The applicant should not be receiving financial assistance from other sources.",
             "The marriage should be performed in accordance with the law.",
             "The bride should have attained the age of 18 years.",
@@ -103,5 +103,6 @@
             "Scheduled Caste",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000565"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Divyang youths/ girls who are about to get married",
         "details": "Divyang Youth / Girl Marriage Incentive Grant is a social security scheme by the Social Welfare Department, Government of Uttarakhand. The scheme aims to provide financial assistance to a couple when a young woman or young man marries a Divyang (person with disability) partner.",
         "benefits": [
-            "\u20b925,000/- to the beneficiaries."
+            "₹25,000/- to the beneficiaries."
         ],
         "eligibility": [
             "For the Boys (Groom): The youth must be citizens of India.",
@@ -30,7 +30,7 @@
         ],
         "application_process": "Offline. Step 1: Prescribed format can be collected from the nearest office of the Assistant Social Welfare Officer. Step 2: Fill the form properly and attach all the documents (attested, if required). Step 3: Submit the form to the nearest office of the Assistant Social Welfare Officer.",
         "documents_required": [
-            "Bride's and Groom\u2019s Aadhar Card.",
+            "Bride's and Groom’s Aadhar Card.",
             "Disability Certificate.",
             "Photocopy of Unique Disability ID Card.",
             "Certificate of Permanent Residence/ Proof of Residence in the State for 5 years.",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What kind of financial assistance can be availed through this scheme?",
-                "answer": "Financial assistance of \u20b925,000/- is provided to the beneficiaries to cover their expenses of marriage."
+                "answer": "Financial assistance of ₹25,000/- is provided to the beneficiaries to cover their expenses of marriage."
             },
             {
                 "question": "What should be the age criteria for the youths and girls?",
@@ -84,5 +84,6 @@
             "Divyang Marriage",
             "Marriage Grant"
         ]
-    }
+    },
+    "id": "000416"
 }

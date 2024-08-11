@@ -5,9 +5,9 @@
         "department": "Department of Women & Child Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Below Poverty Line families",
-        "details": "The scheme 'National Family Benefit Scheme (NFBS)' was launched in 2016 by the Department of Women & Child Welfare, Govt. of Sikkim. Under this scheme, a lump sum amount of \u20b9 30,000/- as financial assistance is provided to the bereaved household in the event of the death of the 'Primary breadwinner' belonging to the Below Poverty Line (BPL) Category. The one-time grant amount consists of Central and State Government Share (i.e. \u20b9 20,000/- as Central Share and \u20b9 10,000/- as State Share).",
+        "details": "The scheme 'National Family Benefit Scheme (NFBS)' was launched in 2016 by the Department of Women & Child Welfare, Govt. of Sikkim. Under this scheme, a lump sum amount of ₹ 30,000/- as financial assistance is provided to the bereaved household in the event of the death of the 'Primary breadwinner' belonging to the Below Poverty Line (BPL) Category. The one-time grant amount consists of Central and State Government Share (i.e. ₹ 20,000/- as Central Share and ₹ 10,000/- as State Share).",
         "benefits": [
-            "The beneficiary will receive a one-time grant of \u20b9 30,000/- as financial assistance.",
+            "The beneficiary will receive a one-time grant of ₹ 30,000/- as financial assistance.",
             "The assistance would be given to every case of death of a breadwinner in a family of the Below Poverty Line (BPL) category."
         ],
         "eligibility": [
@@ -21,7 +21,7 @@
         "exclusions": [],
         "application_process": "The application can be submitted both online and offline. The applicant has to approach their respective State Social Welfare Department and obtain the application form from the concerned officer. Fill in all the mandatory fields of the application form and attach all the (self-attested) mandatory documents and submit it to the designated receiving authority. The application will be scrutinized by the Selection Committee, and approval will be accorded by the Secretary. The grant and payment shall be distributed through Direct Benefit Transfer System or any other system as may be decided by the Sanctioning / Competent Authority from time to time.",
         "documents_required": [
-            "Recent passport size photographs \u2013 3 Number",
+            "Recent passport size photographs – 3 Number",
             "Attested photocopy of Sikkim Subject Certificate / Certificate of Identification as the case may be i.e. Income certificate, Caste certificate.",
             "Attested photocopy of the Below Poverty Line Certificate.",
             "Birth Certificate or EPIC or any other valid document having recorded the date as proof of age of the deceased 'Primary Breadwinner'.",
@@ -31,7 +31,7 @@
         "faqs": [
             {
                 "question": "How much financial assistance is to be provided to the family under the scheme?",
-                "answer": "The beneficiary will receive one time grant of \u20b930000/- as financial assistance under this scheme."
+                "answer": "The beneficiary will receive one time grant of ₹30000/- as financial assistance under this scheme."
             },
             {
                 "question": "Would financial assistance be given to every case of death?",
@@ -79,5 +79,6 @@
             "Family",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001301"
 }

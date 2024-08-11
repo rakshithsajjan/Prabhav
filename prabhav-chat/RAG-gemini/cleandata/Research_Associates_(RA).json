@@ -7,9 +7,9 @@
         "beneficiary": "Young researchers and scientists",
         "details": "The objective of DBT-Research Associateship (DBT-RA) Programme is to train and nurture young researchers, scientists and generate a critical mass of trained manpower in modern areas of biology and biotechnology and build a robust postdoctoral base for the growth of Biotechnology sectors in the country.",
         "benefits": [
-            "Stipend of \u20b955,000 per month",
+            "Stipend of ₹55,000 per month",
             "House rent allowance (HRA)",
-            "Research contingency grant of \u20b950,000 per year",
+            "Research contingency grant of ₹50,000 per year",
             "Access to state-of-the-art research facilities",
             "Mentorship from senior scientists"
         ],
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the benefits of the DBT-RA?",
-                "answer": "DBT-RA fellows receive a monthly stipend of \u20b955,000, plus house rent allowance (HRA) and other benefits. They are also provided with a research contingency grant of \u20b950,000 per year. In addition, DBT-RA fellows have access to state-of-the-art research facilities and mentorship from senior scientists."
+                "answer": "DBT-RA fellows receive a monthly stipend of ₹55,000, plus house rent allowance (HRA) and other benefits. They are also provided with a research contingency grant of ₹50,000 per year. In addition, DBT-RA fellows have access to state-of-the-art research facilities and mentorship from senior scientists."
             },
             {
                 "question": "How long is the DBT-RA fellowship?",
@@ -89,5 +89,6 @@
             "Fellowship",
             "Postdoctoral"
         ]
-    }
+    },
+    "id": "001597"
 }

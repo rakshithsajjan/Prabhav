@@ -5,7 +5,7 @@
         "department": "Housing Department",
         "type": "Grant",
         "beneficiary": "Economically Weaker Section (EWS) and Lower Income Group (LIG) families",
-        "details": "Housing is one of the basic human needs besides food, clothing and water. The improvement of the condition of the people also includes precision of decent housing. The Housing Department is intended to implement the Chief Minister\u2019s Housing Assistance Program in two components in which housing roofing materials are given as grant in aid to the Economically Weaker Section (EWS) families to improve their existing house and to provide a durable house to the Lower Income Group (LIG) families of the State, who are not in a position to build their own houses with their limited resources. The scheme will be implemented in rural and urban areas of the State, allocation of funds among the districts will be on the basis of the State Budget Allocation of the year.",
+        "details": "Housing is one of the basic human needs besides food, clothing and water. The improvement of the condition of the people also includes precision of decent housing. The Housing Department is intended to implement the Chief Minister’s Housing Assistance Program in two components in which housing roofing materials are given as grant in aid to the Economically Weaker Section (EWS) families to improve their existing house and to provide a durable house to the Lower Income Group (LIG) families of the State, who are not in a position to build their own houses with their limited resources. The scheme will be implemented in rural and urban areas of the State, allocation of funds among the districts will be on the basis of the State Budget Allocation of the year.",
         "benefits": [
             "This Scheme will be implemented with a cost sharing through Credit Linked Subsidy where financial assistance will be limited to a maximum of Rs. 75,000/- (Rupees Seventy five thousand) only and the balance amount either by beneficiary contribution or resources sourced from other schemes (SRWP, etc.) or in convergence with MGNREGS or bank loan.",
             "The cost of the house is Rs. 2.30 lakhs as per schedule of rate (SOR) of MPWD building 2015-16. The beneficiary will have to construct as per the model plan. Prior approval from the Competent Authority is necessary in case the beneficiary wants to differ the design of the house.",
@@ -70,5 +70,6 @@
             "Government Scheme",
             "Meghalaya"
         ]
-    }
+    },
+    "id": "000281"
 }

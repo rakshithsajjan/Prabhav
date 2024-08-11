@@ -5,9 +5,9 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Daughters of registered construction workers",
-        "details": "The scheme 'Incentive for Purchase of Electric Scooter for the Daughter of a Registered Construction Worker' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, an incentive of \u20b950,000/- or the actual ex-showroom price of electric scooter, whichever is lower, will be provided by the Board through e-RUPI to the daughter of a registered construction worker to facilitate her mobility while pursuing higher education. Only those girl students who are over 18 years old, have passed class 12th with 60% or higher marks, and are studying in any higher education institute/college in the state of Haryana will be eligible for this incentive assistance.",
+        "details": "The scheme 'Incentive for Purchase of Electric Scooter for the Daughter of a Registered Construction Worker' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, an incentive of ₹50,000/- or the actual ex-showroom price of electric scooter, whichever is lower, will be provided by the Board through e-RUPI to the daughter of a registered construction worker to facilitate her mobility while pursuing higher education. Only those girl students who are over 18 years old, have passed class 12th with 60% or higher marks, and are studying in any higher education institute/college in the state of Haryana will be eligible for this incentive assistance.",
         "benefits": [
-            "Maximum benefit of \u20b950,000/- or the actual ex-showroom price of an electric scooter, whichever is lower, will be provided."
+            "Maximum benefit of ₹50,000/- or the actual ex-showroom price of an electric scooter, whichever is lower, will be provided."
         ],
         "eligibility": [
             "The applicant should be engaged in any building or construction work.",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the maximum financial assistance provided under this scheme?",
-                "answer": "The maximum benefit is \u20b950,000 or the actual ex-showroom price of the electric scooter, whichever is lower."
+                "answer": "The maximum benefit is ₹50,000 or the actual ex-showroom price of the electric scooter, whichever is lower."
             },
             {
                 "question": "How is the incentive amount disbursed?",
@@ -120,5 +120,6 @@
                 "url": "https://saralharyana.gov.in/"
             }
         ]
-    }
+    },
+    "id": "000824"
 }

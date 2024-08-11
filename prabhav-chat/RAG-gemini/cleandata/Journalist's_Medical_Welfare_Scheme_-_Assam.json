@@ -5,12 +5,12 @@
         "department": "Information & Public Relations Department",
         "type": "Financial Assistance",
         "beneficiary": "Journalist and their dependent family members",
-        "details": "In consideration of the long pending demands of the journalists in the State for their welfare etc. the State Govt. has considered to introduce a new scheme viz. \u201cJournalist Medical Welfare Scheme\u201d for financial assistance to the Accredited Journalist as identified by the Director of Information & Public Relations (DIPR) Assam under the Rule of the Assam Press Correspondents (Accredited/ Recognitions) Rules, 1989 for Medical treatment of such journalists who suffer from complicated ailments needing long-term, highly expensive treatment/involving the transplant of organs/complicated surgeries/long-term medical treatments, etc. Under this scheme, one-time financial assistance is provided to the accredited and recognized journalists of Assam for their medical treatment. This scheme covers the medical requirements of the journalist as well as their dependent family members.",
+        "details": "In consideration of the long pending demands of the journalists in the State for their welfare etc. the State Govt. has considered to introduce a new scheme viz. “Journalist Medical Welfare Scheme” for financial assistance to the Accredited Journalist as identified by the Director of Information & Public Relations (DIPR) Assam under the Rule of the Assam Press Correspondents (Accredited/ Recognitions) Rules, 1989 for Medical treatment of such journalists who suffer from complicated ailments needing long-term, highly expensive treatment/involving the transplant of organs/complicated surgeries/long-term medical treatments, etc. Under this scheme, one-time financial assistance is provided to the accredited and recognized journalists of Assam for their medical treatment. This scheme covers the medical requirements of the journalist as well as their dependent family members.",
         "benefits": [
             "One-time financial assistance for treatment to Accredited and Recognized Journalist of Assam.",
             "Includes Recognised Journalists.",
             "Covers dependent family members of the journalist.",
-            "Financial assistance up to \u20b9 50,000/- for non-life-threatening disorders and up to \u20b9 1,00,000/- for life-threatening disorders."
+            "Financial assistance up to ₹ 50,000/- for non-life-threatening disorders and up to ₹ 1,00,000/- for life-threatening disorders."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -53,5 +53,6 @@
             "Financial Assistance",
             "Assam"
         ]
-    }
+    },
+    "id": "000937"
 }

@@ -7,13 +7,13 @@
         "beneficiary": "Scheduled Caste students pursuing M.Phil and Ph.D.",
         "details": "The 'Fellowship Scheme for M.Phil & Ph.D for Scheduled Caste Students' scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under this scheme, Scheduled Caste students pursuing M.Phil and Ph.D. programs at any recognized universities will receive a monthly fellowship.",
         "benefits": [
-            "For M.Phil: \u20b92,500/Per Month (For 10 Months)",
-            "For PhD: \u20b910,000/Per Month (For 10 Months)"
+            "For M.Phil: ₹2,500/Per Month (For 10 Months)",
+            "For PhD: ₹10,000/Per Month (For 10 Months)"
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste of Gujarat.",
             "The student should be enrolled in either an M.Phil or Ph.D. program.",
-            "The annual family income of the student should be up to \u20b96,00,000/-.",
+            "The annual family income of the student should be up to ₹6,00,000/-.",
             "This assistance is paid on the condition that the student submits a thesis."
         ],
         "exclusions": [],
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "For M.Phil students, the scholarship rate is \u20b92,500/- per month for 10 months. For Ph.D. students, it is \u20b910,000/- per month for 10 months."
+                "answer": "For M.Phil students, the scholarship rate is ₹2,500/- per month for 10 months. For Ph.D. students, it is ₹10,000/- per month for 10 months."
             },
             {
                 "question": "Who is eligible to apply for the fellowship?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "Is there any restriction on family income for eligibility?",
-                "answer": "Yes, the annual family income of the student should be up to \u20b96,00,000/-."
+                "answer": "Yes, the annual family income of the student should be up to ₹6,00,000/-."
             },
             {
                 "question": "What condition must be met to receive assistance under this scheme?",
@@ -98,5 +98,6 @@
             "Student",
             "Thesis"
         ]
-    }
+    },
+    "id": "000517"
 }

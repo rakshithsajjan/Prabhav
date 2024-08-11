@@ -7,14 +7,14 @@
         "beneficiary": "Visually Impaired Advocates",
         "details": "The scheme 'Financial Assistance to visually impaired Advocates' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, financial assistance will be provided to visually impaired Advocates who are practicing in any one or more Courts in Kerala. The applicant under this scheme shall be eligible for an exgratia non-recurring grant for the purchase of books, provisional suits, etc., and they are being paid a reader's allowance for a period of 10 years.",
         "benefits": [
-            "Under the scheme, the Visually Impaired Advocates shall be eligible for an exgratia non-recurring grant of \u20b93500/- for the purchase of books, provisional suits, etc.",
-            "The Visually Impaired Advocates are also being paid a reader's allowance @ \u20b95000/- per month for a period of 10 years."
+            "Under the scheme, the Visually Impaired Advocates shall be eligible for an exgratia non-recurring grant of ₹3500/- for the purchase of books, provisional suits, etc.",
+            "The Visually Impaired Advocates are also being paid a reader's allowance @ ₹5000/- per month for a period of 10 years."
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
             "The applicant should be a visually impaired Advocate.",
             "The applicant should be an advocate practicing in any one or more Courts in Kerala.",
-            "The combined annual income of the applicant and his/her family from all sources shall not exceed \u20b91,00,000/-."
+            "The combined annual income of the applicant and his/her family from all sources shall not exceed ₹1,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Online and Offline. To avail of the benefits of the scheme, the applicant needs to visit SUNEETHI- Online Service Application Portal.",
@@ -57,15 +57,15 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the Visually Impaired Advocates shall be eligible for an exgratia non-recurring grant of \u20b93500/- for the purchase of books, provisional suits, etc."
+                "answer": "Under the scheme, the Visually Impaired Advocates shall be eligible for an exgratia non-recurring grant of ₹3500/- for the purchase of books, provisional suits, etc."
             },
             {
-                "question": "How much amount of the reader\u2019s allowance will be given to advocates?",
-                "answer": "The visually impaired advocates are also being paid a reader's allowance @ \u20b95000/- per month for a period of 10 years."
+                "question": "How much amount of the reader’s allowance will be given to advocates?",
+                "answer": "The visually impaired advocates are also being paid a reader's allowance @ ₹5000/- per month for a period of 10 years."
             },
             {
                 "question": "Is there any criterion for annual family income?",
-                "answer": "The combined annual income of the applicant and his/her family from all sources shall not exceed \u20b91,00,000/-."
+                "answer": "The combined annual income of the applicant and his/her family from all sources shall not exceed ₹1,00,000/-."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -88,5 +88,6 @@
             "Advocates",
             "Kerala"
         ]
-    }
+    },
+    "id": "000551"
 }

@@ -17,7 +17,7 @@
             "Minimum Global Revenue defined as per the Scheme Guidelines",
             "Achievement of minimum threshold of cumulative incremental investment over four years",
             "Incremental sales of manufactured goods net of taxes",
-            "Minimum investment threshold of \u20b9 10 Crores for MSME and \u20b9 100 Crores for others"
+            "Minimum investment threshold of ₹ 10 Crores for MSME and ₹ 100 Crores for others"
         ],
         "exclusions": [
             "Companies declared as Non-Performing Asset (NPA) as per RBI guidelines",
@@ -57,5 +57,6 @@
             "Manufacturing",
             "Make in India"
         ]
-    }
+    },
+    "id": "001531"
 }

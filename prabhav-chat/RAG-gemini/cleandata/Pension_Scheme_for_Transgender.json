@@ -5,9 +5,9 @@
         "department": "Directorate of Social Welfare and Social Education",
         "type": "Pension",
         "beneficiary": "Transgender residents of Tripura",
-        "details": "Launched on 1st August 2015, the scheme 'Pension Scheme for Transgender' provides financial assistance of \u20b92,000/- to the transgender residents of Tripura who have no source of income.",
+        "details": "Launched on 1st August 2015, the scheme 'Pension Scheme for Transgender' provides financial assistance of ₹2,000/- to the transgender residents of Tripura who have no source of income.",
         "benefits": [
-            "\u20b92,000/- per month."
+            "₹2,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "How much pension is provided under the scheme?",
-                "answer": "\u20b92000/- per month per beneficiary."
+                "answer": "₹2000/- per month per beneficiary."
             },
             {
                 "question": "When was the scheme implemented?",
@@ -106,5 +106,6 @@
             "Social Welfare",
             "Transgender"
         ]
-    }
+    },
+    "id": "001429"
 }

@@ -5,12 +5,12 @@
         "department": "Department of Women and Child Development",
         "type": "Grant",
         "beneficiary": "Widows",
-        "details": "The scheme \u201cGrant of Marriage Allowance to the Widow's Daughter (GMAWD)\u201d is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to provide financial support to widows for the marriage of their daughters. Eligible widows can receive \u20b925,000/- to cover marriage expenses. The scheme is implemented through Puducherry's Department of Women and Child Development.",
+        "details": "The scheme “Grant of Marriage Allowance to the Widow's Daughter (GMAWD)” is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to provide financial support to widows for the marriage of their daughters. Eligible widows can receive ₹25,000/- to cover marriage expenses. The scheme is implemented through Puducherry's Department of Women and Child Development.",
         "benefits": [
-            "Financial assistance of \u20b925,000/- for marriage expenses."
+            "Financial assistance of ₹25,000/- for marriage expenses."
         ],
         "eligibility": [
-            "The applicant should be a widow with an annual income not exceeding \u20b975,000/-.",
+            "The applicant should be a widow with an annual income not exceeding ₹75,000/-.",
             "The widow should be a citizen of India and a native of the Union territory of Puducherry by birth or continuous residence of 5 years or more.",
             "The allowance is applicable only for the first marriage of the bride.",
             "The marriage must be performed in accordance with the law.",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the financial assistance provided under the scheme for marriage expenses?",
-                "answer": "Eligible widows can receive \u20b925,000/- to cover marriage expenses."
+                "answer": "Eligible widows can receive ₹25,000/- to cover marriage expenses."
             },
             {
                 "question": "Can applicants submit the online application without registering on the e-District Portal?",
@@ -78,12 +78,12 @@
                 "answer": "Yes, the bride should be above 18, and the groom's age should be above 21 to qualify for the scheme."
             },
             {
-                "question": "Can widows with an annual income exceeding \u20b975,000 apply for the scheme?",
-                "answer": "No, the scheme is applicable to widows with an annual income not exceeding \u20b975,000."
+                "question": "Can widows with an annual income exceeding ₹75,000 apply for the scheme?",
+                "answer": "No, the scheme is applicable to widows with an annual income not exceeding ₹75,000."
             },
             {
                 "question": "What is the purpose of the 'Grant of Marriage Allowance to the Widow's Daughter' scheme?",
-                "answer": "The scheme aims to provide financial support to widows in Puducherry for the marriage of their daughters, offering \u20b925,000 for marriage expenses."
+                "answer": "The scheme aims to provide financial support to widows in Puducherry for the marriage of their daughters, offering ₹25,000 for marriage expenses."
             }
         ],
         "sources": [
@@ -112,5 +112,6 @@
                 "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
             }
         ]
-    }
+    },
+    "id": "000733"
 }

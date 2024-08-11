@@ -7,8 +7,8 @@
         "beneficiary": "Craftspersons",
         "details": "The 'Design Development Training For Master Crafts Persons' Component of the 'Development of Handicrafts' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry aims to enhance the skills of craftspersons in moulding and designing their traditional crafts. The objective is to make these crafts more appealing to customers and increase marketability. The training is expected to have a significant impact on the development of modern art and techniques in crafts, potentially introducing new crafts from other regions.",
         "benefits": [
-            "Remuneration: \u20b93,000 per month.",
-            "Accommodation Charges: \u20b91,000 per month.",
+            "Remuneration: ₹3,000 per month.",
+            "Accommodation Charges: ₹1,000 per month.",
             "Travelling Allowances: To & Fro 2nd class (berth) train fare.",
             "Course Fee: As prescribed will be paid to the Training Unit/Institution."
         ],
@@ -34,7 +34,7 @@
             },
             {
                 "question": "How can craftspersons benefit financially under this scheme?",
-                "answer": "Craftspersons are eligible for a monthly remuneration of \u20b93,000, \u20b91,000 for accommodation, and 2nd class train fare for traveling."
+                "answer": "Craftspersons are eligible for a monthly remuneration of ₹3,000, ₹1,000 for accommodation, and 2nd class train fare for traveling."
             },
             {
                 "question": "What does the scheme offer to the Training Unit/Institution in terms of financial support?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What financial support does the scheme provide for craftspersons' accommodation?",
-                "answer": "Craftspersons are entitled to \u20b91,000 per month for accommodation charges."
+                "answer": "Craftspersons are entitled to ₹1,000 per month for accommodation charges."
             },
             {
                 "question": "What is the role of the Department of Industries and Commerce, Union Territory of Puducherry, in the scheme?",
@@ -105,5 +105,6 @@
             "Skill Development",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000375"
 }

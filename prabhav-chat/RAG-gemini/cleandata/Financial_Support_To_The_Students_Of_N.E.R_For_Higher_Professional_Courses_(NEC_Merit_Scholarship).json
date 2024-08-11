@@ -5,7 +5,7 @@
         "department": "Ministry Of Development Of North Eastern Region",
         "type": "Scholarship",
         "beneficiary": "Students of North Eastern States",
-        "details": "A scholarship scheme by the North Eastern Council (NEC), Ministry of Development of North Eastern Region for the students of the North Eastern States undergoing studies in different disciplines at different levels in Institutions inside as well as outside the North-East but within the country. The scholarship under this scheme shall be disbursed only through National Scholarship Portal (NSP). The scholarship shall be admissible to students who get admission in Diploma, Degree, Post-graduate or registration in M.Phil. / Ph.D. courses of any institute recognized by the Government. The grant of scholarship for M.Phil and Ph.D. would be after the registration of the students with the University. The scholarship shall be admissible to the students whose parent/guardian\u2019s annual income from all sources shall not exceed \u20b98,00,000.",
+        "details": "A scholarship scheme by the North Eastern Council (NEC), Ministry of Development of North Eastern Region for the students of the North Eastern States undergoing studies in different disciplines at different levels in Institutions inside as well as outside the North-East but within the country. The scholarship under this scheme shall be disbursed only through National Scholarship Portal (NSP). The scholarship shall be admissible to students who get admission in Diploma, Degree, Post-graduate or registration in M.Phil. / Ph.D. courses of any institute recognized by the Government. The grant of scholarship for M.Phil and Ph.D. would be after the registration of the students with the University. The scholarship shall be admissible to the students whose parent/guardian’s annual income from all sources shall not exceed ₹8,00,000.",
         "benefits": [
             "Diploma: 20,000/-",
             "Degree: 22,000/-",
@@ -15,7 +15,7 @@
         "eligibility": [
             "The applicant must be a permanent resident of any of the North Eastern States.",
             "The applicant must be admitted in Diploma, Degree, Post-graduate or registered in M.Phil. / Ph.D. courses of any institute recognized by the Government.",
-            "The total annual income of the applicant's parents/guardian (from all sources) shall not exceed \u20b98,00,000.",
+            "The total annual income of the applicant's parents/guardian (from all sources) shall not exceed ₹8,00,000.",
             "The applicant must fulfill the following eligibility criteria in the previous qualifying examination: Diploma - 60% marks; Degree - 60% marks; Post Graduate - 60% marks; M.Phil. / Ph.D. - 60% marks."
         ],
         "exclusions": [
@@ -28,7 +28,7 @@
         "documents_required": [
             "Permanent Residential Certificate (PRC) issued by the Dy. Commissioner /Addl. Dy. Commissioners/ Sub-divisional officers of civil sub-divisions in the NE States.",
             "Income Certificate issued by the Competent Authority.",
-            "Bank Account Pass Book \u2013 The account must be in the name of the applicant (Optional).",
+            "Bank Account Pass Book – The account must be in the name of the applicant (Optional).",
             "Details of qualifying examination.",
             "Synopsis signed by the project guide / Director (Research) or any official authorized by the Institute/University in the case of M.Phil/Ph.D. candidates."
         ],
@@ -39,7 +39,7 @@
             },
             {
                 "question": "Is There Any Income Criteria Under The Scheme?",
-                "answer": "Yes, the scholarship shall be admissible to the students whose parent / guardian\u2019s annual income from all sources shall not exceed \u20b98,00,000."
+                "answer": "Yes, the scholarship shall be admissible to the students whose parent / guardian’s annual income from all sources shall not exceed ₹8,00,000."
             },
             {
                 "question": "What Is The Criterion For Selection Of Students For Scholarships?",
@@ -62,5 +62,6 @@
             "Education",
             "Financial Support"
         ]
-    }
+    },
+    "id": "000620"
 }

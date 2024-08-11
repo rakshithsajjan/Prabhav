@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Children of registered construction workers with disabilities",
-        "details": "The scheme 'Financial Assistance to Disabled Children (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, financial assistance of \u20b92000/- per month is given to the children of registered workers who are declared by the medical authority 50% or more physically or mentally disabled. Further, it is necessary for the registered worker to have regular membership of one year for availing of the benefits of the scheme.",
+        "details": "The scheme 'Financial Assistance to Disabled Children (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, financial assistance of ₹2000/- per month is given to the children of registered workers who are declared by the medical authority 50% or more physically or mentally disabled. Further, it is necessary for the registered worker to have regular membership of one year for availing of the benefits of the scheme.",
         "benefits": [
-            "Financial assistance of \u20b92000/- per month is provided to the children of registered workers who are declared by the medical authority 50% or more physically or mentally disabled."
+            "Financial assistance of ₹2000/- per month is provided to the children of registered workers who are declared by the medical authority 50% or more physically or mentally disabled."
         ],
         "eligibility": [
             "The construction worker should be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
@@ -43,7 +43,7 @@
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "The objective of the scheme is to provide financial assistance of \u20b92000/- per month to the children of registered workers who are declared by the medical authority 50% or more physically or mentally disabled."
+                "answer": "The objective of the scheme is to provide financial assistance of ₹2000/- per month to the children of registered workers who are declared by the medical authority 50% or more physically or mentally disabled."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Financial assistance of \u20b92000/- per month is given to the children of registered workers who are declared by the medical authority to be 50 percent or more physically or mentally disabled."
+                "answer": "Financial assistance of ₹2000/- per month is given to the children of registered workers who are declared by the medical authority to be 50 percent or more physically or mentally disabled."
             },
             {
                 "question": "What should be the percentage of disability to apply under the scheme?",
@@ -87,7 +87,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Yes, the first-time registration charges are \u20b925/- and the registration fees vary according to the renewal time period."
+                "answer": "Yes, the first-time registration charges are ₹25/- and the registration fees vary according to the renewal time period."
             },
             {
                 "question": "How can a construction worker apply under the scheme?",
@@ -112,5 +112,6 @@
                 "url": "https://hrylabour.gov.in/staticdocs/labourActpdfdocs/HBOCW_Rules.pdf"
             }
         ]
-    }
+    },
+    "id": "000537"
 }

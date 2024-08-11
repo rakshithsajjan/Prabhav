@@ -25,7 +25,7 @@
         "application_process": "Online. You can apply for Akanksha Housing Scheme by following the steps outlined on the official website.",
         "documents_required": [
             "Copy of Identity Card",
-            "Online application with deposit amount of \u20b925,000 as 'Application money' in any branch of Bank of Baroda by generating challan through online system.",
+            "Online application with deposit amount of ₹25,000 as 'Application money' in any branch of Bank of Baroda by generating challan through online system.",
             "Copy of Aadhar Card",
             "Residence proof of the applicant of the state of West Bengal",
             "Income certificate of the applicant."
@@ -36,7 +36,7 @@
                 "answer": "No, only West Bengal state government employees are eligible for this scheme."
             },
             {
-                "question": "Can a person with higher grade pay than \u20b98900 apply for house under this scheme?",
+                "question": "Can a person with higher grade pay than ₹8900 apply for house under this scheme?",
                 "answer": "Yes, for them, the type of house available is 'Elegant', which is a 3 BHK house with 2 balconies."
             },
             {
@@ -73,11 +73,11 @@
             },
             {
                 "question": "What would be the payment schedule for Elegant, premium, and classic houses?",
-                "answer": "The payment will be made in 6 parts - Application Money (\u20b925,000/-), Allotment money (40% of the Tentative total price), and 4 Installments."
+                "answer": "The payment will be made in 6 parts - Application Money (₹25,000/-), Allotment money (40% of the Tentative total price), and 4 Installments."
             },
             {
                 "question": "What Would Be The Payment Schedule For Economy and standard flats?",
-                "answer": "The Payment Will Be Made In 3 Parts - Application Money (\u20b925,000/-), Allotment Money (20% of the tentative total price), And Residual amount of the final price."
+                "answer": "The Payment Will Be Made In 3 Parts - Application Money (₹25,000/-), Allotment Money (20% of the tentative total price), And Residual amount of the final price."
             }
         ],
         "sources": [
@@ -96,5 +96,6 @@
             "Government Scheme",
             "State Employees"
         ]
-    }
+    },
+    "id": "000070"
 }

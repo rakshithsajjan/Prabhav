@@ -7,7 +7,7 @@
         "beneficiary": "Professors, Students",
         "details": "The All India Council for Technical Education (AICTE), under the Ministry of Education, has launched the AICTE-Distinguished Professionals Scheme. This initiative aims to enhance the quality of technical education in India by leveraging the expertise of professionals, emeritus professors, and eminent personalities.",
         "benefits": [
-            "Honorarium of \u20b915,000 per day for full-day interaction with faculty members/students.",
+            "Honorarium of ₹15,000 per day for full-day interaction with faculty members/students.",
             "Travel and local hospitality arrangements will be managed by the host institution.",
             "Professionals are encouraged to visit at least three rural institutions per year."
         ],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "How much honorarium is provided to the professionals per day of interaction?",
-                "answer": "AICTE provides an honorarium of \u20b915,000 per day for full-day interactions with faculty members/students of the host institute and nearby institutions."
+                "answer": "AICTE provides an honorarium of ₹15,000 per day for full-day interactions with faculty members/students of the host institute and nearby institutions."
             },
             {
                 "question": "How can individuals apply for the DPS?",
@@ -69,5 +69,6 @@
             "Professors",
             "Students"
         ]
-    }
+    },
+    "id": "000072"
 }

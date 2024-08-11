@@ -5,9 +5,9 @@
         "department": "Agriculture",
         "type": "Subsidy",
         "beneficiary": "Farmer",
-        "details": "The Kisan Kaleva Scheme, initiated by the Rajasthan Government's Agriculture Department, provides food at concessional rates through coupons to farmers and their assistants selling crops in vegetable market premises. Registered farmers and their assistants can avail a plate of food for \u20b95/- under this provision. This initiative aims to alleviate the financial burden on farmers and their helpers while ensuring they have access to affordable and nutritious meals during their visits to the market. Through the Kisan Kaleva Scheme, the government demonstrates its commitment to supporting agricultural communities and promoting their well-being by offering practical assistance.",
+        "details": "The Kisan Kaleva Scheme, initiated by the Rajasthan Government's Agriculture Department, provides food at concessional rates through coupons to farmers and their assistants selling crops in vegetable market premises. Registered farmers and their assistants can avail a plate of food for ₹5/- under this provision. This initiative aims to alleviate the financial burden on farmers and their helpers while ensuring they have access to affordable and nutritious meals during their visits to the market. Through the Kisan Kaleva Scheme, the government demonstrates its commitment to supporting agricultural communities and promoting their well-being by offering practical assistance.",
         "benefits": [
-            "The scheme aims to provide affordable and nutritious meals to farmers and their helpers at a subsidized rate of \u20b95/- per plate.",
+            "The scheme aims to provide affordable and nutritious meals to farmers and their helpers at a subsidized rate of ₹5/- per plate.",
             "The meals will be provided in the mandi premises itself.",
             "The menu for the meal includes: 8 chapatis (made from 250 grams of flour), 1 bowl of dal (125 grams), 1 bowl of vegetables (125 grams), 50 grams of jaggery (in winter, from October to March), 200 ml of buttermilk (in summer, from April to September)."
         ],
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What is the maximum price for food under the Kisan Kaleva Yojana?",
-                "answer": "The maximum price for food is fixed at \u20b9 40, with \u20b935 subsidized by the market committee and \u20b9 5 contributed by the farmer and laborer."
+                "answer": "The maximum price for food is fixed at ₹ 40, with ₹35 subsidized by the market committee and ₹ 5 contributed by the farmer and laborer."
             },
             {
                 "question": "Will farmers get different types of food in winter and summer?",
@@ -82,5 +82,6 @@
             "Farmer",
             "Food"
         ]
-    }
+    },
+    "id": "000984"
 }

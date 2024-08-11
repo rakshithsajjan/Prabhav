@@ -5,14 +5,14 @@
         "department": "Labour Department, Government of Uttarakhand",
         "type": "Welfare Scheme",
         "beneficiary": "Daughters of registered construction workers and women construction workers",
-        "details": "The scheme 'Sanitary Napkin Scheme' is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB). Under the scheme, sanitary napkins will be provided to the daughters of registered construction workers and women construction workers, subject to the conditions specified by the Board. The beneficiary should not be receiving the same benefits under any other scheme of the central or state Governments, and should not have applied in any other department for the same benefits.",
+        "details": "The scheme 'Sanitary Napkin Scheme' is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB). Under the scheme, sanitary napkins will be provided to the daughters of registered construction workers and women construction workers, subject to the conditions specified by the Board. The beneficiary should not be receiving the same benefits under any other scheme of the central or state Governments, and should not have applied in any other department for the same benefits.",
         "benefits": [
             "Sanitary napkins will be provided to the daughters of registered construction workers and women construction workers."
         ],
         "eligibility": [
             "The applicant/beneficiary should be a resident of Uttarakhand.",
             "The applicant should be engaged in any building or construction work.",
-            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board.",
             "The applicant will become eligible for benefits only after three months from their registration.",
             "The applicant should have an active membership of the Board.",
             "The beneficiary should not be receiving the same benefits under any other scheme of the central or state Governments, and should not have applied in any other department for the same benefits."
@@ -58,7 +58,7 @@
             },
             {
                 "question": "Who are eligible to receive benefits under this scheme?",
-                "answer": "The beneficiary who is registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board is eligible to apply under the scheme."
+                "answer": "The beneficiary who is registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board is eligible to apply under the scheme."
             },
             {
                 "question": "Are there any additional notes regarding the registration process?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "Is there any cost for registration under UKBOCWWB?",
-                "answer": "Registration will be done free of cost, only \u20b9100/- contribution will be required to be deposited by the construction worker for every next three years."
+                "answer": "Registration will be done free of cost, only ₹100/- contribution will be required to be deposited by the construction worker for every next three years."
             }
         ],
         "sources": [
@@ -97,5 +97,6 @@
             "Construction Workers",
             "Uttarakhand"
         ]
-    }
+    },
+    "id": "001642"
 }

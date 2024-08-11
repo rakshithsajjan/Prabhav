@@ -5,9 +5,9 @@
         "department": "Sports & Youth Services Department",
         "type": "Award",
         "beneficiary": "Individuals performing acts of bravery",
-        "details": "The \u201cBiju Patnaik Bravery Award\u201d was launched by the Sports & Youth Services Department, Government of Odisha to recognize spectacular acts of Bravery performed by the people of Odisha. The award was presented to commemorate the service of the late Biju Patnaik, the ex-Chief Minister of Odisha who had shown in his lifetime many acts of bravery that inspire the youth of India till today. The award shall be given annually for the most outstanding act of bravery.",
+        "details": "The “Biju Patnaik Bravery Award” was launched by the Sports & Youth Services Department, Government of Odisha to recognize spectacular acts of Bravery performed by the people of Odisha. The award was presented to commemorate the service of the late Biju Patnaik, the ex-Chief Minister of Odisha who had shown in his lifetime many acts of bravery that inspire the youth of India till today. The award shall be given annually for the most outstanding act of bravery.",
         "benefits": [
-            "The award shall comprise of a cash award of \u20b91,00,000/-, one silver medal, and a scroll.",
+            "The award shall comprise of a cash award of ₹1,00,000/-, one silver medal, and a scroll.",
             "The awardee shall be invited to receive the award in person. The awardee shall be given TA/DA at the rate of 1st Class Rail/Bus fare and arrangements for his/her stay at Bhubaneswar shall be made by the Department."
         ],
         "eligibility": [
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the benefits of the award?",
-                "answer": "The award includes a cash prize of \u20b91,00,000/-, one silver medal, and a scroll."
+                "answer": "The award includes a cash prize of ₹1,00,000/-, one silver medal, and a scroll."
             },
             {
                 "question": "Are there any restrictions on canvassing for the award?",
@@ -103,5 +103,6 @@
             "Award",
             "Odisha"
         ]
-    }
+    },
+    "id": "000206"
 }

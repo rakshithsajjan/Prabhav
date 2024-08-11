@@ -7,9 +7,9 @@
         "beneficiary": "Pregnant women from registered construction worker families",
         "details": "The Rajasthan Prasuti Sahayata Yojana offers a lifeline to pregnant women from registered construction worker families in the state. Launched by the government, the scheme provides crucial financial support at a critical juncture, aiming to improve the well-being of both mother and child. This assistance empowers women to prioritize their health throughout pregnancy and ensure proper care for their newborns.",
         "benefits": [
-            "The birth of a daughter: \u20b9 21,000/-",
-            "The birth of a son: \u20b9 20,000/-",
-            "In case of not receiving cash benefits under Janani Suraksha Yojana, \u20b91,000/- additional assistance will be payable."
+            "The birth of a daughter: ₹ 21,000/-",
+            "The birth of a son: ₹ 20,000/-",
+            "In case of not receiving cash benefits under Janani Suraksha Yojana, ₹1,000/- additional assistance will be payable."
         ],
         "eligibility": [
             "The female worker must be holding a beneficiary identity card under Section 13 of the Maternity Benefit Act.",
@@ -87,5 +87,6 @@
             "Pregnancy",
             "Women"
         ]
-    }
+    },
+    "id": "001507"
 }

@@ -69,7 +69,7 @@
             },
             {
                 "question": "I have forgotten my password. What should I do?",
-                "answer": "In case you do not remember your password please click on \u2018Forgot Password\u2019 and enter your mobile number and a text message will be sent to you for the next steps."
+                "answer": "In case you do not remember your password please click on ‘Forgot Password’ and enter your mobile number and a text message will be sent to you for the next steps."
             }
         ],
         "sources": [
@@ -89,5 +89,6 @@
             "Farming",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001768"
 }

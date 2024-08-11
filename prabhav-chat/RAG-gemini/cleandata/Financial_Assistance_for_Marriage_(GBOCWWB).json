@@ -5,9 +5,9 @@
         "department": "Department of Labour and Employment, Goa",
         "type": "Welfare Scheme",
         "beneficiary": "Workers registered with the Goa Building and Other Construction Workers Welfare Board",
-        "details": "Financial Assistance for Marriage (GBOCWWB) is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, the worker registered with the Board, having a continuous membership for 3 years, is provided financial assistance of \u20b94,000/- for the marriage of their children. The applications are accepted offline.",
+        "details": "Financial Assistance for Marriage (GBOCWWB) is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, the worker registered with the Board, having a continuous membership for 3 years, is provided financial assistance of ₹4,000/- for the marriage of their children. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b94,000/-"
+            "Financial Assistance of ₹4,000/-"
         ],
         "eligibility": [
             "The applicant should be a Worker registered with the Goa Building and Other Construction Workers Welfare Board.",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             },
             {
                 "question": "What are the responsibilities of the Deputy Labour Commissioner (Registering Authority)?",
@@ -97,5 +97,6 @@
             "Labour",
             "Worker"
         ]
-    }
+    },
+    "id": "000563"
 }

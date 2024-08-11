@@ -5,9 +5,9 @@
         "department": "Department of Micro, Small and Medium Enterprises and Textiles",
         "type": "Welfare Assistance",
         "beneficiary": "Family of the deceased weavers & artisans",
-        "details": "West Bengal Migrant Workers\u2019 Welfare Scheme: Death Assistance is a social welfare scheme implemented by the West Bengal Migrant Workers\u2019 Welfare Board, Labour Department, Government of West Bengal, that provides one-time assistance to the nominee in case of natural death/accidental death of the registered migrant worker.",
+        "details": "West Bengal Migrant Workers’ Welfare Scheme: Death Assistance is a social welfare scheme implemented by the West Bengal Migrant Workers’ Welfare Board, Labour Department, Government of West Bengal, that provides one-time assistance to the nominee in case of natural death/accidental death of the registered migrant worker.",
         "benefits": [
-            "\u20b92,00,000/- only per deceased Weaver/ Artisan"
+            "₹2,00,000/- only per deceased Weaver/ Artisan"
         ],
         "eligibility": [
             "Claimant(s) must provide a certificate from the local BDO regarding eligibility of claim after the death of the artisan/weaver.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What kind of assistance can be availed through this scheme?",
-                "answer": "Under this scheme, \u20b92,00,000/- only per deceased Weaver/ Artisan is provided to the beneficiaries."
+                "answer": "Under this scheme, ₹2,00,000/- only per deceased Weaver/ Artisan is provided to the beneficiaries."
             },
             {
                 "question": "What is the frequency of the assistance?",
@@ -69,5 +69,6 @@
             "Death Benefit",
             "West Bengal"
         ]
-    }
+    },
+    "id": "001714"
 }

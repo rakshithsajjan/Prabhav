@@ -5,10 +5,10 @@
         "department": "Information and Public Relations Department, Government of Bihar",
         "type": "Insurance",
         "beneficiary": "Working media representatives",
-        "details": "The 'Bihar State Journalist Insurance Scheme, 2014' was launched to provide financial benefits of \u20b95,00,000/- & facilities under a group mediclaim & personal accident insurance scheme to working media representatives. Under this scheme, spouse and two dependent children of the media representative will be included in this Insurance Scheme. This insurance is valid for one year with provisions for annual renewal.",
+        "details": "The 'Bihar State Journalist Insurance Scheme, 2014' was launched to provide financial benefits of ₹5,00,000/- & facilities under a group mediclaim & personal accident insurance scheme to working media representatives. Under this scheme, spouse and two dependent children of the media representative will be included in this Insurance Scheme. This insurance is valid for one year with provisions for annual renewal.",
         "benefits": [
-            "Personal accident insurance coverage up to \u20b95,00,000/-",
-            "Medical expense coverage up to \u20b95,00,000/- for the insured and their dependents"
+            "Personal accident insurance coverage up to ₹5,00,000/-",
+            "Medical expense coverage up to ₹5,00,000/- for the insured and their dependents"
         ],
         "eligibility": [
             "The applicant should be a journalist/media representative.",
@@ -44,7 +44,7 @@
         "faqs": [
             {
                 "question": "What benefits are provided under the scheme?",
-                "answer": "Personal accident insurance up to \u20b95 lakhs and medical expense coverage up to \u20b95 lakhs for the insured and dependents."
+                "answer": "Personal accident insurance up to ₹5 lakhs and medical expense coverage up to ₹5 lakhs for the insured and dependents."
             },
             {
                 "question": "What is the contribution ratio for the premium?",
@@ -80,7 +80,7 @@
             },
             {
                 "question": "How is the insurance amount transferred?",
-                "answer": "The insurance becomes effective once the total amount, including the media representative\u2019s share, is transferred to the insurance company's account."
+                "answer": "The insurance becomes effective once the total amount, including the media representative’s share, is transferred to the insurance company's account."
             },
             {
                 "question": "How are premium payments made?",
@@ -111,5 +111,6 @@
             "Media",
             "Mediclaim"
         ]
-    }
+    },
+    "id": "000204"
 }

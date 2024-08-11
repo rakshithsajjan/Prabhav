@@ -7,13 +7,13 @@
         "beneficiary": "Children/Wards of Construction Workers",
         "details": "The scheme 'Scholarship to the Ward of Beneficiary' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance in the form of scholarship shall be granted to the children/wards of workers who are registered under the CBOCWWB on the basis of the percentage of marks obtained in 10th, 12th & Graduation.",
         "benefits": [
-            "\u20b95,000/- for 75% & above in 10th",
-            "\u20b94,000/- for 60% & above in 10th",
-            "\u20b93,000/- for 50% & above in 10th",
-            "\u20b95,000/- for 75% in 10+2",
-            "\u20b94,000/- for 60% & above in 10+2",
-            "\u20b93,000/- for 50% & above in 10+2",
-            "\u20b97,500/- (one time) for 60% & above in Graduation"
+            "₹5,000/- for 75% & above in 10th",
+            "₹4,000/- for 60% & above in 10th",
+            "₹3,000/- for 50% & above in 10th",
+            "₹5,000/- for 75% in 10+2",
+            "₹4,000/- for 60% & above in 10+2",
+            "₹3,000/- for 50% & above in 10+2",
+            "₹7,500/- (one time) for 60% & above in Graduation"
         ],
         "eligibility": [
             "The worker/beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965.",
@@ -85,7 +85,7 @@
             },
             {
                 "question": "How to apply under the scheme?",
-                "answer": "Applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme \u2018Scholarship to the Ward of Beneficiary\u2019 under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+                "answer": "Applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme ‘Scholarship to the Ward of Beneficiary’ under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
             }
         ],
         "sources": [
@@ -108,5 +108,6 @@
             "Labour",
             "Construction Worker"
         ]
-    }
+    },
+    "id": "001757"
 }

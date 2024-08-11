@@ -7,7 +7,7 @@
         "beneficiary": "Widow and Destitute Women",
         "details": "This is the major social welfare scheme of Punjab Government. The main objective behind launching this scheme is to provide monthly pension to those women who don't have any sustainable income source.",
         "benefits": [
-            "Financial Assistance of \u20b9 1,500/- per month"
+            "Financial Assistance of ₹ 1,500/- per month"
         ],
         "eligibility": [
             "Beneficiary should be a Permanent Resident of Punjab.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "How much amount will be provided in financial aid?",
-                "answer": "Amount : \u20b9 1,500/- per month."
+                "answer": "Amount : ₹ 1,500/- per month."
             },
             {
                 "question": "Who will get the benefits?",
@@ -86,5 +86,6 @@
             "Welfare",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "002058"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste and Scheduled Tribe entrepreneurs",
         "details": "The scheme 'Annal Ambedkar Business Champions Scheme (AABCS)' was launched by the Department of Micro, Small and Medium Enterprises, Government of Tamil Nadu. The Government of Tamil Nadu noted that the share of persons from Scheduled Caste and Scheduled Tribe communities who avail of various entrepreneurship promotion subsidies from the Government is very low. In order to promote the economic development of SC/ST entrepreneurs, this scheme has been launched by the Government of Tamil Nadu. The new scheme will provide a 35% capital subsidy and offer a 6% interest subvention for loans to procure machinery and equipment.",
         "benefits": [
-            "35% capital subsidy on the Eligible Project Cost, not exceeding \u20b91.5 Crore.",
+            "35% capital subsidy on the Eligible Project Cost, not exceeding ₹1.5 Crore.",
             "6% interest subvention for loans sanctioned under this scheme."
         ],
         "eligibility": [
@@ -54,7 +54,7 @@
             },
             {
                 "question": "How much maximum subsidy is available under this scheme?",
-                "answer": "Under the scheme, the State Government will provide a 35% capital subsidy on the Eligible Project Cost, not exceeding \u20b91.5 Crore."
+                "answer": "Under the scheme, the State Government will provide a 35% capital subsidy on the Eligible Project Cost, not exceeding ₹1.5 Crore."
             },
             {
                 "question": "What should be the minimum qualification required to avail of the benefits of the scheme?",
@@ -101,5 +101,6 @@
             "Scheduled Tribe",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000086"
 }

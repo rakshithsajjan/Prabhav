@@ -7,10 +7,10 @@
         "beneficiary": "Students of Government College of Fine Arts",
         "details": "The 'Scheme to Award Scholarship to Young Artists' was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to encourage the postgraduate and graduate students of the Government College of Fine Arts, Chennai & Kumbakonam by awarding scholarships every year, as recommended by the Principals of the Colleges. These scholarships are given to outstanding students studying in their final year B.F.A (Bachelor of Fine Arts) and outstanding students studying in their final year M.F.A (Master of Fine Arts).",
         "benefits": [
-            "Scholarship of \u20b93,000/- to 10 outstanding students studying in final year B.F.A. (Bachelor of Fine Arts) at Government College of Fine Arts, Chennai.",
-            "Scholarship of \u20b95,000/- to 4 outstanding students studying in final year M.F.A. (Master of Fine Arts) at Government College of Fine Arts, Chennai.",
-            "Scholarship of \u20b93,000/- to 10 outstanding students studying in final year B.F.A. (Bachelor of Fine Arts) at Government College of Fine Arts, Kumbakonam.",
-            "Scholarship of \u20b95,000/- to 2 outstanding students studying in final year M.F.A. (Master of Fine Arts) at Government College of Fine Arts, Kumbakonam."
+            "Scholarship of ₹3,000/- to 10 outstanding students studying in final year B.F.A. (Bachelor of Fine Arts) at Government College of Fine Arts, Chennai.",
+            "Scholarship of ₹5,000/- to 4 outstanding students studying in final year M.F.A. (Master of Fine Arts) at Government College of Fine Arts, Chennai.",
+            "Scholarship of ₹3,000/- to 10 outstanding students studying in final year B.F.A. (Bachelor of Fine Arts) at Government College of Fine Arts, Kumbakonam.",
+            "Scholarship of ₹5,000/- to 2 outstanding students studying in final year M.F.A. (Master of Fine Arts) at Government College of Fine Arts, Kumbakonam."
         ],
         "eligibility": [
             "The applicant should be a student.",
@@ -33,19 +33,19 @@
             },
             {
                 "question": "How many scholarships are awarded to outstanding students in the final year M.F.A. program at the Government College of Fine Arts, Chennai?",
-                "answer": "Two scholarships of \u20b95,000/- each are awarded to outstanding students in the final year M.F.A. program."
+                "answer": "Two scholarships of ₹5,000/- each are awarded to outstanding students in the final year M.F.A. program."
             },
             {
                 "question": "What is the scholarship amount for outstanding students in the final year B.F.A. program at the Government College of Fine Arts, Kumbakonam?",
-                "answer": "Ten scholarships of \u20b93,000/- each are awarded to outstanding students in the final year B.F.A. program."
+                "answer": "Ten scholarships of ₹3,000/- each are awarded to outstanding students in the final year B.F.A. program."
             },
             {
                 "question": "What amount is awarded to outstanding students in the final year M.F.A. program at the Government College of Fine Arts, Kumbakonam?",
-                "answer": "Four scholarships of \u20b95,000/- each are awarded to outstanding students in the final year M.F.A. program."
+                "answer": "Four scholarships of ₹5,000/- each are awarded to outstanding students in the final year M.F.A. program."
             },
             {
                 "question": "How many scholarships are awarded to outstanding students in the final year B.F.A. program at the Government College of Fine Arts, Chennai?",
-                "answer": "Ten scholarships of \u20b93,000/- each are awarded to outstanding students in the final year B.F.A. program."
+                "answer": "Ten scholarships of ₹3,000/- each are awarded to outstanding students in the final year B.F.A. program."
             },
             {
                 "question": "Are undergraduate students eligible for the scholarships under this scheme?",
@@ -88,5 +88,6 @@
             "Education",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001737"
 }

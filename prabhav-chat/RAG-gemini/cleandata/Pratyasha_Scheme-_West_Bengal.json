@@ -18,8 +18,8 @@
         "exclusions": [],
         "application_process": "Offline",
         "documents_required": [
-            "Demand Draft/ Pay Order/ Banker\u2019s Cheque as per category dwelling unit.",
-            "Demand Draft/ Pay Order/ Banker\u2019s Cheque for an additional amount only for parking space.",
+            "Demand Draft/ Pay Order/ Banker’s Cheque as per category dwelling unit.",
+            "Demand Draft/ Pay Order/ Banker’s Cheque for an additional amount only for parking space.",
             "One self-attested photocopy of the PAN Card of the applicant and of joint applicants (if any).",
             "Salary Certificate of the applicant(s) issued by the DDO.",
             "Two sets of passport-size photographs with signatures on the back side.",
@@ -28,7 +28,7 @@
         ],
         "faqs": [
             {
-                "question": "What is \u2018PRATYASHA\u2019?",
+                "question": "What is ‘PRATYASHA’?",
                 "answer": "The Govt. of West Bengal has undertaken a housing project named 'PRATYASHA' for Police Personnel to materialize their dreams of owning houses."
             },
             {
@@ -45,7 +45,7 @@
             },
             {
                 "question": "How many types of flats will be constructed under this scheme?",
-                "answer": "There are three types of flats will be constructed under this scheme- Category \u2018A\u2019, Category \u2018B\u2019 & Category \u2018C\u2019."
+                "answer": "There are three types of flats will be constructed under this scheme- Category ‘A’, Category ‘B’ & Category ‘C’."
             },
             {
                 "question": "How many flats will be allotted to an eligible applicant?",
@@ -83,5 +83,6 @@
             "Police",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001510"
 }

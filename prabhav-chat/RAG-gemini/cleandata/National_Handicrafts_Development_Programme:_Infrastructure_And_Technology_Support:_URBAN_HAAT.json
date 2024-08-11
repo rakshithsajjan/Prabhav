@@ -7,10 +7,10 @@
         "beneficiary": "Artisans, Handloom Weavers",
         "details": "The scheme 'Infrastructure and Technology Support: URBAN HAAT' is a Component/Sub-Scheme under the Umbrella Scheme 'National Handicrafts Development Programme'. The objective of this component is to set up a permanent marketing infrastructure in towns/ metropolitan cities to provide direct marketing facilities to handicrafts artisans/handloom weavers. This will enable them to sell their products around the year to a wider target audience (or customer segment). There will be an adequate number of stalls selling authentic Indian cuisine from various regions in the country by rotation.",
         "benefits": [
-            "Financial ceiling for urban haat is \u20b9 8,00,00,000 for each unit.",
+            "Financial ceiling for urban haat is ₹ 8,00,00,000 for each unit.",
             "40% of the admissible amount shall be borne by the O/o the DC(HC) and DC(HL) each.",
             "20% of the admissible amount will be contributed by the implementing agency.",
-            "Assistance for strengthening/renovation of existing Urban Haats subject to a maximum financial limit of \u20b9 2,50,00,000.",
+            "Assistance for strengthening/renovation of existing Urban Haats subject to a maximum financial limit of ₹ 2,50,00,000.",
             "The Food & Craft Bazaar will provide leisure & recreational facilities for domestic as well as international tourists."
         ],
         "eligibility": [
@@ -83,5 +83,6 @@
             "Handloom",
             "Weaver"
         ]
-    }
+    },
+    "id": "001310"
 }

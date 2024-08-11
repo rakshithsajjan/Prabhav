@@ -38,7 +38,7 @@
             },
             {
                 "question": "How many disabilities are included in scheme and what are these disabilities?",
-                "answer": "The disabilities include Blindness, Low vision, Leprosy-cured person, Deaf, Locomotor Disability, Cerebral Palsy, Autism Spectrum Disorder, Intellectual Disability, Mental Illness, Dwarfism, Muscular Dystrophy, Acid Attack Victims, Hard of hearing, Speech and language disability, Specific Learning Disabilities, Multiple Sclerosis, Parkinson\u2019s Disease, Hemophilia, Thalassemia, Sickle Cell Disease, Multiple Disabilities."
+                "answer": "The disabilities include Blindness, Low vision, Leprosy-cured person, Deaf, Locomotor Disability, Cerebral Palsy, Autism Spectrum Disorder, Intellectual Disability, Mental Illness, Dwarfism, Muscular Dystrophy, Acid Attack Victims, Hard of hearing, Speech and language disability, Specific Learning Disabilities, Multiple Sclerosis, Parkinson’s Disease, Hemophilia, Thalassemia, Sickle Cell Disease, Multiple Disabilities."
             },
             {
                 "question": "What are the documents required to avail FAPSN benefits?",
@@ -85,5 +85,6 @@
             "Delhi Government",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000527"
 }

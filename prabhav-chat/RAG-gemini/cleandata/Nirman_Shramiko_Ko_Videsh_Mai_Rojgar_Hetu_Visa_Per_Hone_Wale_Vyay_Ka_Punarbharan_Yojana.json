@@ -7,7 +7,7 @@
         "beneficiary": "Construction Worker",
         "details": "This scheme, launched by the Rajasthan Government's Labor Department, is designed to alleviate the financial burden of visa expenses for construction workers seeking employment abroad. By reimbursing these costs, the scheme aims to encourage construction workers to pursue overseas employment opportunities and contribute to the state's economy through foreign remittances.",
         "benefits": [
-            "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of \u20b95,000/-."
+            "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of ₹5,000/-."
         ],
         "eligibility": [
             "Construction workers must be registered with the board as beneficiaries and must be continuously depositing their contributions.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How much financial assistance is provided under the scheme?",
-                "answer": "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of \u20b95,000/-."
+                "answer": "The beneficiary will be reimbursed for the expenses incurred for a visa for employment abroad up to a maximum of ₹5,000/-."
             },
             {
                 "question": "Is there any time limits for submit the application?",
@@ -93,5 +93,6 @@
             "Financial Support",
             "Labour"
         ]
-    }
+    },
+    "id": "001363"
 }

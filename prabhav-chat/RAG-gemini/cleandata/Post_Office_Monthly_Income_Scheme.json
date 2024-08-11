@@ -5,7 +5,7 @@
         "department": "Ministry Of Finance",
         "type": "Investment Scheme",
         "beneficiary": "Individuals looking for a steady income",
-        "details": "Post Office Monthly Income Scheme (POMIS) is an investment scheme recognized and validated by the Ministry of Finance. It is one of the highest-earning schemes with an interest rate of 6.6%. The interest in this scheme is disbursed monthly. After opening a POMIS account, individuals can invest a suitable amount based on affordability, which, however, should not be less than \u20b91500. It provides low risk and steady income where an investor can deposit every month and get interested of MIS in the post office according to their applicable monthly rate.",
+        "details": "Post Office Monthly Income Scheme (POMIS) is an investment scheme recognized and validated by the Ministry of Finance. It is one of the highest-earning schemes with an interest rate of 6.6%. The interest in this scheme is disbursed monthly. After opening a POMIS account, individuals can invest a suitable amount based on affordability, which, however, should not be less than ₹1500. It provides low risk and steady income where an investor can deposit every month and get interested of MIS in the post office according to their applicable monthly rate.",
         "benefits": [
             "Capital Protection",
             "Low-risk Investment",
@@ -72,5 +72,6 @@
             "Post Office",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001474"
 }

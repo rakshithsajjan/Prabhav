@@ -7,8 +7,8 @@
         "beneficiary": "Meritorious students registered for Ph.D. in Science",
         "details": "The Research Fellowship in Sciences for meritorious students (RFSMS) scheme of the UGC is open to candidates who have registered for Ph.D. in Science in Universities with Potential for Excellence/Centres with Potential for Excellence/Centres of Advance Studies and Department of Special Assistance identified by UGC. The objective of the RFSMS scheme is to provide opportunities to meritorious candidates to undertake advanced studies and research leading to Ph.D. degrees in sciences.",
         "benefits": [
-            "Fellowship of \u20b9 8,000/- per month",
-            "Contingency of \u20b9 6,000/- per annum",
+            "Fellowship of ₹ 8,000/- per month",
+            "Contingency of ₹ 6,000/- per annum",
             "Tenure of fellowship is initially for two years, extendable based on performance"
         ],
         "eligibility": [
@@ -78,5 +78,6 @@
             "Ph.D.",
             "Education"
         ]
-    }
+    },
+    "id": "001598"
 }

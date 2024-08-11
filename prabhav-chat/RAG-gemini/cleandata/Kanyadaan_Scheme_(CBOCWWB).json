@@ -7,15 +7,15 @@
         "beneficiary": "Construction Worker",
         "details": "The scheme 'Kanyadaan Scheme' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance will be granted to the workers who are registered under the CBOCWWB on the eve of the marriage of his/her daughter and self-marriage of female registered workers.",
         "benefits": [
-            "Financial Assistance of \u20b921,000/- will be granted to registered workers on the eve of the marriage of his/her daughter and self-marriage of female registered workers."
+            "Financial Assistance of ₹21,000/- will be granted to registered workers on the eve of the marriage of his/her daughter and self-marriage of female registered workers."
         ],
         "eligibility": [
             "The applicant/beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contribution towards the labour welfare fund should regularly been received by the Board.",
             "The applicant shall be eligible to avail the benefit of the scheme only after 06 months of becoming a member of the Board.",
-            "The beneficiary hasn\u2019t claimed/availed of such kind of benefits prevailing under the Central/State Govt. Schemes. If both the father and daughter are working in the same establishment, the benefit shall be granted to one of them.",
+            "The beneficiary hasn’t claimed/availed of such kind of benefits prevailing under the Central/State Govt. Schemes. If both the father and daughter are working in the same establishment, the benefit shall be granted to one of them.",
             "This benefit will be given only on the production of a Marriage Registration Certificate.",
             "The benefit of the scheme shall be given for two daughters only.",
-            "The applicant should apply for the \u2018Kanyadaan Scheme\u2019 within three months from the date of marriage.",
+            "The applicant should apply for the ‘Kanyadaan Scheme’ within three months from the date of marriage.",
             "Female registered workers can avail the benefit of this scheme on the eve of their self-marriage."
         ],
         "exclusions": [],
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the financial assistance amount provided under the Scheme?",
-                "answer": "The Kanyadaan Scheme offers a financial assistance amount of \u20b921,000/-."
+                "answer": "The Kanyadaan Scheme offers a financial assistance amount of ₹21,000/-."
             },
             {
                 "question": "Can the financial assistance be availed for both daughter's marriage and self-marriage of female registered workers?",
@@ -83,7 +83,7 @@
             },
             {
                 "question": "How to apply under the scheme?",
-                "answer": "Applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme \u2018KANYADAAN\u2019 under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+                "answer": "Applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme ‘KANYADAAN’ under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
             }
         ],
         "sources": [
@@ -106,5 +106,6 @@
             "Construction Worker",
             "Labour"
         ]
-    }
+    },
+    "id": "000966"
 }

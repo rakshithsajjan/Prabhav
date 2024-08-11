@@ -5,9 +5,9 @@
         "department": "Directorate General of Health Services",
         "type": "Financial Assistance",
         "beneficiary": "Needy patients with National Food Security Cards",
-        "details": "The 'Delhi Arogya Nidhi (DAN)' is a scheme implemented by the Directorate General of Health Services to provide financial assistance of up to \u20b91.5 lacs to needy patients who have National Food Security Cards for treatment of diseases in Government hospitals only.",
+        "details": "The 'Delhi Arogya Nidhi (DAN)' is a scheme implemented by the Directorate General of Health Services to provide financial assistance of up to ₹1.5 lacs to needy patients who have National Food Security Cards for treatment of diseases in Government hospitals only.",
         "benefits": [
-            "Financial assistance of up to \u20b91.5 lacs for treatment in Government hospitals."
+            "Financial assistance of up to ₹1.5 lacs for treatment in Government hospitals."
         ],
         "eligibility": [
             "Patients should have a National Food Security Card.",
@@ -17,7 +17,7 @@
         "exclusions": [],
         "application_process": "Offline",
         "documents_required": [
-            "Proof of continuous residence in Delhi for the last 3 years through any one of the following documents: National Food Security Card, Electoral Voter\u2019s Photo Identity Card, Birth certificate (In case the patient is a minor), Extract from the electoral roll, Aadhaar Card.",
+            "Proof of continuous residence in Delhi for the last 3 years through any one of the following documents: National Food Security Card, Electoral Voter’s Photo Identity Card, Birth certificate (In case the patient is a minor), Extract from the electoral roll, Aadhaar Card.",
             "Original Estimate Certificate duly signed by Consultant/ Medical Superintendent/ Chief Medical Officer of the Hospital.",
             "Two photographs of the patient, duly attested by the treating doctor.",
             "A copy of the National Food Security Card.",
@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "What is the 'Delhi Arogya Nidhi (DAN)' scheme?",
-                "answer": "DAN is a scheme initiated to provide financial assistance of up to \u20b91.5 lakhs to needy patients holding the National Food Security Card for the treatment of diseases in government hospitals in Delhi."
+                "answer": "DAN is a scheme initiated to provide financial assistance of up to ₹1.5 lakhs to needy patients holding the National Food Security Card for the treatment of diseases in government hospitals in Delhi."
             },
             {
                 "question": "Who is eligible under the 'Delhi Arogya Nidhi' Scheme?",
@@ -34,7 +34,7 @@
             },
             {
                 "question": "What is the maximum financial aid provided under the 'DAN' Scheme?",
-                "answer": "DAN offers financial assistance up to \u20b91.5 lakhs to eligible patients."
+                "answer": "DAN offers financial assistance up to ₹1.5 lakhs to eligible patients."
             },
             {
                 "question": "Where can eligible patients avail treatment under this scheme?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "Can a minor apply for the DAN grant?",
-                "answer": "Yes, a minor patient can apply, and the Electoral Voter\u2019s Photo Identity Card or birth certificate is required as proof."
+                "answer": "Yes, a minor patient can apply, and the Electoral Voter’s Photo Identity Card or birth certificate is required as proof."
             },
             {
                 "question": "Are non-Delhi residents eligible for the assistance under DAN?",
@@ -77,5 +77,6 @@
             "Delhi",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000370"
 }

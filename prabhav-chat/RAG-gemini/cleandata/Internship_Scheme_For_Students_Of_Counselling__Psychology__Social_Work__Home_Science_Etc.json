@@ -7,7 +7,7 @@
         "beneficiary": "Postgraduate students",
         "details": "This is an Internship Scheme by the Directorate of Women and Child Development, Government of Goa. The objective of this scheme is to offer aspiring postgraduate students an opportunity for internship facilities to be trained as qualified interns in state-run private children's and shelter homes who can be offered hands-on job training experience. The scheme is open to any student who has passed out from any of the recognised universities with a Master's Degree in Social Service/ Social Work/ Sociology/ Psychology/ Home Science/ Post Graduate Diploma in Counselling etc.",
         "benefits": [
-            "Internship allowance of \u20b9 15,000/- per month",
+            "Internship allowance of ₹ 15,000/- per month",
             "One paid leave per month during the training period"
         ],
         "eligibility": [
@@ -51,7 +51,7 @@
             },
             {
                 "question": "Is There A Stipend Or Allowance Provided To The Interns During The Internship Period?",
-                "answer": "Yes, the selected student interns will receive a monthly internship allowance of \u20b915,000/-."
+                "answer": "Yes, the selected student interns will receive a monthly internship allowance of ₹15,000/-."
             },
             {
                 "question": "What Will Be The Supervision And Reporting Process During The Internship?",
@@ -78,5 +78,6 @@
             "Social Welfare",
             "Student"
         ]
-    }
+    },
+    "id": "000900"
 }

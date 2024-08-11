@@ -5,9 +5,9 @@
         "department": "Department of Industries and Commerce",
         "type": "Financial Support",
         "beneficiary": "Participants of Coir Exhibitions",
-        "details": "The 'Conducting of Exhibitions' Component of the 'Development of Coir' Scheme aims to enhance awareness of diverse coir products and promote their market presence. It extends financial support, including a daily allowance of \u20b9150 per participant and travel reimbursements, to both local and outstation participants. The initiative emphasizes the eco-friendly nature of coir products.",
+        "details": "The 'Conducting of Exhibitions' Component of the 'Development of Coir' Scheme aims to enhance awareness of diverse coir products and promote their market presence. It extends financial support, including a daily allowance of ₹150 per participant and travel reimbursements, to both local and outstation participants. The initiative emphasizes the eco-friendly nature of coir products.",
         "benefits": [
-            "Participants receive a daily allowance of \u20b9150 during the exhibition.",
+            "Participants receive a daily allowance of ₹150 during the exhibition.",
             "Travel expenses, in 2nd sleeper class, are provided for the journey from production units to the exhibition venue and back.",
             "Actual transportation charges for transferring coir products from industrial units to the exhibition site are covered.",
             "Free stall space is allocated to participants during the exhibition."
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What is the primary financial support provided to participants under the scheme?",
-                "answer": "The primary financial support includes a daily allowance of \u20b9150 and travel reimbursements."
+                "answer": "The primary financial support includes a daily allowance of ₹150 and travel reimbursements."
             },
             {
                 "question": "Can local residents of Puducherry apply for the scheme?",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Is there a specific daily allowance amount mentioned for participants during the exhibition?",
-                "answer": "Yes, participants receive a daily allowance of \u20b9150."
+                "answer": "Yes, participants receive a daily allowance of ₹150."
             },
             {
                 "question": "Are there restrictions on the mode of transportation for eligible participants?",
@@ -94,5 +94,6 @@
             "Financial Support",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000335"
 }

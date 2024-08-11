@@ -5,13 +5,13 @@
         "department": "Social Welfare",
         "type": "DBT Scheme",
         "beneficiary": "Girls from economically weaker sections of society",
-        "details": "Mukhyamantri Kanyadaan Yojna is a scheme launched by the Rajasthan Government to promote the marriage of girls from economically weaker sections of society. Under this scheme, the government provides financial assistance to eligible families for the marriage of their daughters. The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of \u20b940,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses.",
+        "details": "Mukhyamantri Kanyadaan Yojna is a scheme launched by the Rajasthan Government to promote the marriage of girls from economically weaker sections of society. Under this scheme, the government provides financial assistance to eligible families for the marriage of their daughters. The scheme aims to empower girls and their families by providing financial support for their marriage and ensuring that they do not face any financial burden. The scheme provides an assistance amount of ₹40,000 to the eligible families to cover the expenses related to the marriage, including jewelry, clothes, and other related expenses.",
         "benefits": [
             "The implementation of this scheme will be reviewed at the district level and a committee meeting will be held every 3 months.",
-            "The state government will provide financial assistance of \u20b9 31,000 to \u20b9 41,000 to the eligible beneficiaries at the time of the girl's marriage.",
-            "Under this scheme, a provision of savings of about \u20b924 crore has been approved.",
-            "If the girls of the state pass 10th then the government will provide an amount of \u20b941 thousand at the time of their marriage.",
-            "If the girls of the state pass 12th then the government will provide an amount of \u20b951 thousand at the time of their marriage."
+            "The state government will provide financial assistance of ₹ 31,000 to ₹ 41,000 to the eligible beneficiaries at the time of the girl's marriage.",
+            "Under this scheme, a provision of savings of about ₹24 crore has been approved.",
+            "If the girls of the state pass 10th then the government will provide an amount of ₹41 thousand at the time of their marriage.",
+            "If the girls of the state pass 12th then the government will provide an amount of ₹51 thousand at the time of their marriage."
         ],
         "eligibility": [
             "BPL family belonging to the Scheduled Tribe category",
@@ -71,5 +71,6 @@
             "Kanyadaan Yojana",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001206"
 }

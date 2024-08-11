@@ -5,18 +5,18 @@
         "department": "Department of Micro, Small & Medium Enterprises",
         "type": "Loan",
         "beneficiary": "Citizens of Madhya Pradesh",
-        "details": "The Mukhya Mantri Swarojgar Yojana was launched on 1 August 2014 under The Department of Micro, Small & Medium Enterprises, Madhya Pradesh government gives loans up to \u20b950,000 to \u20b910,00,000 to the state's citizens to establish employment so that all the citizens can start employment. Under Madhya Pradesh Mukhya Mantri Swarozgar Yojana, the government provides the benefit of money margin, interest subsidy, loan guarantee, and training to the beneficiaries. It provides a minimum period of 6 months and a maximum of 7 years to repay the loan payable by the bank.",
+        "details": "The Mukhya Mantri Swarojgar Yojana was launched on 1 August 2014 under The Department of Micro, Small & Medium Enterprises, Madhya Pradesh government gives loans up to ₹50,000 to ₹10,00,000 to the state's citizens to establish employment so that all the citizens can start employment. Under Madhya Pradesh Mukhya Mantri Swarozgar Yojana, the government provides the benefit of money margin, interest subsidy, loan guarantee, and training to the beneficiaries. It provides a minimum period of 6 months and a maximum of 7 years to repay the loan payable by the bank.",
         "benefits": [
             "Financial help",
-            "Margin money assistance: 15% of the project cost (maximum \u20b91,00,000 for the general category), 30% of the cost (maximum \u20b92,00,000) for Below Poverty Line (BPL), Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC) (except creamy layer)/ Women/ Minority/ Disabled project.",
-            "Additional provisions: 30% of the project cost (maximum \u20b93,00,000 lakh) to the liberated nomadic and semi-nomadic tribes. Bhopal gas victim family members are eligible for an additional 20% (maximum \u20b91,00,000 on the project cost).",
-            "Interest subsidy: At the rate of 5% per annum of the project cost and for women entrepreneurs at the rate of 6% per annum, for a maximum of 7 years. (Maximum \u20b925,000 per annum). Guarantee Fee (CGTMSE/: CGFMU) Up to a maximum of 7 years at the prevailing rate."
+            "Margin money assistance: 15% of the project cost (maximum ₹1,00,000 for the general category), 30% of the cost (maximum ₹2,00,000) for Below Poverty Line (BPL), Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC) (except creamy layer)/ Women/ Minority/ Disabled project.",
+            "Additional provisions: 30% of the project cost (maximum ₹3,00,000 lakh) to the liberated nomadic and semi-nomadic tribes. Bhopal gas victim family members are eligible for an additional 20% (maximum ₹1,00,000 on the project cost).",
+            "Interest subsidy: At the rate of 5% per annum of the project cost and for women entrepreneurs at the rate of 6% per annum, for a maximum of 7 years. (Maximum ₹25,000 per annum). Guarantee Fee (CGTMSE/: CGFMU) Up to a maximum of 7 years at the prevailing rate."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Madhya Pradesh.",
             "The applicant should have passed in the 5th class.",
-            "The applicant\u2019s age should be between 18 to 45 years.",
-            "The applicant\u2019s family should not be an income taxpayer.",
+            "The applicant’s age should be between 18 to 45 years.",
+            "The applicant’s family should not be an income taxpayer.",
             "The applicant should not be a defaulter of any bank."
         ],
         "exclusions": [
@@ -99,5 +99,6 @@
             "Loan",
             "Madhya Pradesh"
         ]
-    }
+    },
+    "id": "001184"
 }

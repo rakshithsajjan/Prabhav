@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "Chief Minister\u2019s Paryatan Vikas Yojana",
+        "title": "Chief Minister’s Paryatan Vikas Yojana",
         "state": "Arunachal Pradesh",
         "department": "Department of Tourism, Govt. of Arunachal Pradesh",
         "type": "Development",
         "beneficiary": "Residents of Arunachal Pradesh",
-        "details": "The scheme 'Chief Minister\u2019s Paryatan Vikas Yojna (CMPVY)' was launched by the Government of Arunachal Pradesh to develop tourism facilities in the state to attract more tourism. The scheme has three components \u2013 a) Development support to Patisserie and Food courts, b) Development support for Homestays, c) Development of adventure sports by financial support in the procurement of equipment.",
+        "details": "The scheme 'Chief Minister’s Paryatan Vikas Yojna (CMPVY)' was launched by the Government of Arunachal Pradesh to develop tourism facilities in the state to attract more tourism. The scheme has three components – a) Development support to Patisserie and Food courts, b) Development support for Homestays, c) Development of adventure sports by financial support in the procurement of equipment.",
         "benefits": [
-            "Direct loan subsidy of \u20b95.00 lakh is provided to open Patisserie.",
+            "Direct loan subsidy of ₹5.00 lakh is provided to open Patisserie.",
             "Support for Homestays and procurement of equipment for adventure tourism."
         ],
         "eligibility": [
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the three components of this scheme?",
-                "answer": "The three components of the scheme are \u2013 a) development support to Patisserie and Food courts, b) development support to Homestays, and c) development of adventure sports by financial support in the procurement of equipment."
+                "answer": "The three components of the scheme are – a) development support to Patisserie and Food courts, b) development support to Homestays, and c) development of adventure sports by financial support in the procurement of equipment."
             },
             {
                 "question": "How will this scheme help the Home Stay Operators?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "How much loan subsidy will be provided under the scheme?",
-                "answer": "A direct loan subsidy of \u20b95.00 lakh is provided to open Patisserie."
+                "answer": "A direct loan subsidy of ₹5.00 lakh is provided to open Patisserie."
             },
             {
                 "question": "Is registration mandatory for a beneficiary with the Dept. of Tourism?",
@@ -86,5 +86,6 @@
             "Tourism",
             "Tourist"
         ]
-    }
+    },
+    "id": "000301"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Construction Worker",
         "details": "The scheme falls under the purview of the Labour Department of Madhya Pradesh. The scheme provides financial assistance in the form of funeral and ex-gratia payments to the legal heirs of unregistered construction workers who die during construction site work under the MP Building and Other Construction Workers Welfare Board. The deceased worker does not need to be registered with the Madhya Pradesh Building and Other Construction Workers Welfare Board.",
         "benefits": [
-            "Funeral assistance of \u20b9 3,000/-",
-            "In case of accidental death \u20b9 4,00,000/-",
-            "In case of permanent disability \u20b9 2,00,000/-"
+            "Funeral assistance of ₹ 3,000/-",
+            "In case of accidental death ₹ 4,00,000/-",
+            "In case of permanent disability ₹ 2,00,000/-"
         ],
         "eligibility": [
             "The applicant should be a domicile in the state of Madhya Pradesh.",
@@ -35,11 +35,11 @@
             },
             {
                 "question": "How much financial benefits are provided in case of accidental death?",
-                "answer": "Financial benefits are provided under categories 1. Funeral assistance of \u20b9 3,000/- and 2. Accidental death benefit \u20b9 4,00,000/-."
+                "answer": "Financial benefits are provided under categories 1. Funeral assistance of ₹ 3,000/- and 2. Accidental death benefit ₹ 4,00,000/-."
             },
             {
                 "question": "How much financial benefits are provided in case of permanent disability?",
-                "answer": "In the case of permanent disability, \u20b9 2,00,000/- amount will be provided."
+                "answer": "In the case of permanent disability, ₹ 2,00,000/- amount will be provided."
             },
             {
                 "question": "Who can get the scheme benefits?",
@@ -81,5 +81,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001358"
 }

@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Grant",
         "beneficiary": "Ex-Serviceman and Widow of Ex-Serviceman",
-        "details": "The scheme 'Marriage Grant for One Daughter' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. The objective of the scheme is to provide a one-time financial assistance of \u20b925,000/- for the purpose of marriage of one daughter of the ESM. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+        "details": "The scheme 'Marriage Grant for One Daughter' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. The objective of the scheme is to provide a one-time financial assistance of ₹25,000/- for the purpose of marriage of one daughter of the ESM. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
         "benefits": [
-            "One-time financial assistance of \u20b925,000/-",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT"
+            "One-time financial assistance of ₹25,000/-",
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/ NEFT"
         ],
         "eligibility": [
             "The applicant should be an Ex-Serviceman or the Widow of an Ex-Serviceman.",
@@ -66,5 +66,6 @@
             "Ex-Serviceman",
             "Welfare Scheme"
         ]
-    }
+    },
+    "id": "001095"
 }

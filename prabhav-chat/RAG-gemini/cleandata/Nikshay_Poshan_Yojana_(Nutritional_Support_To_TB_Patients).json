@@ -7,8 +7,8 @@
         "beneficiary": "Tuberculosis (TB) Patients",
         "details": "An incentive scheme under National Health Mission (NHM) by Central TB Division of MoHFW for Tuberculosis (TB) patients who are under treatment and have registered / notified themselves on the NIKSHAY portal. All TB patients notified on or after 1st April 2018 including all existing TB patients under treatment are eligible to receive incentives. The patient must be registered/notified on the NIKSHAY portal. The scheme is registered under Direct Benefit Transfer. The incentives can be distributed in Cash (only via DBT preferably through Aadhaar enabled bank accounts) or in-kind.",
         "benefits": [
-            "Financial incentive of \u20b9500/- per month for each notified TB patient for the duration for which the patient is on anti-TB treatment.",
-            "In-kind where the total value of the food basket being distributed must not be less than \u20b9500 per month."
+            "Financial incentive of ₹500/- per month for each notified TB patient for the duration for which the patient is on anti-TB treatment.",
+            "In-kind where the total value of the food basket being distributed must not be less than ₹500 per month."
         ],
         "eligibility": [
             "The applicant must be a Tuberculosis (TB) Patient.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "If a TB patient does not have a bank account. How will the incentive be provided to him?",
-                "answer": "For paediatric TB patients where Bank accounts are not available, the money shall be deposited in parents / guardians accounts whose details are to be sought and entered in Nikshay against the patient\u2019s records."
+                "answer": "For paediatric TB patients where Bank accounts are not available, the money shall be deposited in parents / guardians accounts whose details are to be sought and entered in Nikshay against the patient’s records."
             },
             {
                 "question": "What if a patient neither has a bank account nor the Aadhaar Number. How will he get himself registered?",
@@ -59,5 +59,6 @@
             "Health",
             "Incentive Scheme"
         ]
-    }
+    },
+    "id": "001353"
 }

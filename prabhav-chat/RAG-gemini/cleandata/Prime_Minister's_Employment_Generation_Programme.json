@@ -5,7 +5,7 @@
         "department": "Ministry Of Micro, Small and Medium Enterprises",
         "type": "Loan",
         "beneficiary": "Entrepreneur",
-        "details": "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP aims to generate employment opportunities through the establishment of micro-enterprises in the non-farm sector for rural as well as urban areas. The scheme has been approved for continuation over the 15th Finance Commission cycle i.e., for the period of five years from 2021-22 to 2025-26. PMEGP was formed by merging the two schemes that were in operation till 31st March 2008, namely Prime Minister's Rojgar Yojana (PMRY) and Rural Employment Generation Programme (REGP). An outlay of \u20b913,554.42 Crore has been approved for PMEGP for five Financial Years (2021-22 to 2025-26) to set up about 4,00,000 projects with the creation of 30,00,000 employment @8 persons per unit). In addition, 1,000 Units will be upgraded in each FY.",
+        "details": "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP aims to generate employment opportunities through the establishment of micro-enterprises in the non-farm sector for rural as well as urban areas. The scheme has been approved for continuation over the 15th Finance Commission cycle i.e., for the period of five years from 2021-22 to 2025-26. PMEGP was formed by merging the two schemes that were in operation till 31st March 2008, namely Prime Minister's Rojgar Yojana (PMRY) and Rural Employment Generation Programme (REGP). An outlay of ₹13,554.42 Crore has been approved for PMEGP for five Financial Years (2021-22 to 2025-26) to set up about 4,00,000 projects with the creation of 30,00,000 employment @8 persons per unit). In addition, 1,000 Units will be upgraded in each FY.",
         "benefits": [
             "Margin Money Subsidy",
             "Backward and Forward Linkages",
@@ -15,7 +15,7 @@
         "eligibility": [
             "Any individual, above 18 years of age.",
             "No income ceiling for assistance in setting up projects under PMEGP.",
-            "For projects costing above Rs.10 lakh in Manufacturing sector and above \u20b95,00,000 in Business/Service sector, beneficiaries should possess at least VIII standard pass educational qualification.",
+            "For projects costing above Rs.10 lakh in Manufacturing sector and above ₹5,00,000 in Business/Service sector, beneficiaries should possess at least VIII standard pass educational qualification.",
             "Assistance is available only for new projects sanctioned specifically under PMEGP.",
             "Existing Units under PMRY, REGP, or any other scheme of the Government of India or State Government are not eligible."
         ],
@@ -90,5 +90,6 @@
             "Financial Assistance",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001522"
 }

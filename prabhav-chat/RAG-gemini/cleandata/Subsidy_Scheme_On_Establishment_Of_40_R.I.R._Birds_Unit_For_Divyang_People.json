@@ -5,10 +5,10 @@
         "department": "Department of Agriculture, Farmers Welfare & Co-operation",
         "type": "Subsidy",
         "beneficiary": "Divyang People",
-        "details": "The scheme 'Subsidy Scheme on Establishment of 40 R.I.R. Birds Unit for Divyang People' was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to provide employment, nutritious diet and to raise the income of Divyang People of the society of Gujarat State. Under this scheme, the beneficiary will be given 40 R.I.R birds unit along with poultry feed and a subsidy will be given 90% of the cost of the scheme (maximum \u20b97200/- in form birds and poultry feed).",
+        "details": "The scheme 'Subsidy Scheme on Establishment of 40 R.I.R. Birds Unit for Divyang People' was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to provide employment, nutritious diet and to raise the income of Divyang People of the society of Gujarat State. Under this scheme, the beneficiary will be given 40 R.I.R birds unit along with poultry feed and a subsidy will be given 90% of the cost of the scheme (maximum ₹7200/- in form birds and poultry feed).",
         "benefits": [
             "The beneficiary will be given 40 R.I.R birds unit along with poultry feed.",
-            "The subsidy will be given 90% of the unit cost of the scheme (maximum \u20b97200/- in the form of birds and poultry feed).",
+            "The subsidy will be given 90% of the unit cost of the scheme (maximum ₹7200/- in the form of birds and poultry feed).",
             "Under the scheme, the birds will be given vaccination regularly."
         ],
         "eligibility": [
@@ -53,11 +53,11 @@
             },
             {
                 "question": "What is the unit cost for the scheme?",
-                "answer": "The unit cost for the scheme is \u20b98000/-."
+                "answer": "The unit cost for the scheme is ₹8000/-."
             },
             {
                 "question": "What will the percentage of subsidy be given to the beneficiary?",
-                "answer": "The subsidy will be given 90% of the total unit cost of the scheme (maximum \u20b97200/-)."
+                "answer": "The subsidy will be given 90% of the total unit cost of the scheme (maximum ₹7200/-)."
             },
             {
                 "question": "Who will get priority under the scheme?",
@@ -101,5 +101,6 @@
             "Rhode Island Red (RIR)",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001871"
 }

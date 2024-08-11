@@ -5,9 +5,9 @@
         "department": "Department of Labour and Employment, Government of Arunachal Pradesh",
         "type": "Financial Assistance",
         "beneficiary": "Construction Worker",
-        "details": "The scheme \u201cFuneral Financial Assistant\u201d was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The state government has proposed and implemented this scheme through the APB&OCWWB for providing financial assistance to the families upon the death of the registered worker for his/her funeral.",
+        "details": "The scheme “Funeral Financial Assistant” was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The state government has proposed and implemented this scheme through the APB&OCWWB for providing financial assistance to the families upon the death of the registered worker for his/her funeral.",
         "benefits": [
-            "Cash assistance of \u20b91000/- only to the nominee of the deceased worker at the time of sanctioning the death benefit amount."
+            "Cash assistance of ₹1000/- only to the nominee of the deceased worker at the time of sanctioning the death benefit amount."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Arunachal Pradesh.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How much cash assistance will be given to the nominee?",
-                "answer": "Cash assistance of \u20b91000/- only to the nominee of the deceased worker at the time of sanctioning the death benefit amount."
+                "answer": "Cash assistance of ₹1000/- only to the nominee of the deceased worker at the time of sanctioning the death benefit amount."
             },
             {
                 "question": "Who is eligible under this scheme?",
@@ -54,11 +54,11 @@
             },
             {
                 "question": "Can an individual also apply for the scheme if membership of worker/ labour was expired before death?",
-                "answer": "No, the worker\u2019s membership shall be active at the time of death."
+                "answer": "No, the worker’s membership shall be active at the time of death."
             },
             {
                 "question": "Is it necessary for the nominee to have his/her name on the registration card of the deceased worker?",
-                "answer": "Yes, the name of the nominee/dependant should be recorded on the deceased worker\u2019s registration card before death."
+                "answer": "Yes, the name of the nominee/dependant should be recorded on the deceased worker’s registration card before death."
             },
             {
                 "question": "How can I avail the benefits of the scheme?",
@@ -81,5 +81,6 @@
             "Labour",
             "Death"
         ]
-    }
+    },
+    "id": "000659"
 }

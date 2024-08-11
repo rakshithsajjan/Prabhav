@@ -7,7 +7,7 @@
         "beneficiary": "Differently-abled sportspersons and posthumously awarded sportspersons",
         "details": "The scheme 'Laxman Award/Rani Laxmi Bai Award' was launched by the Department of Sports, Government of Uttar Pradesh. The sportspersons will be honoured by the state government with the Lakshman award for male sportsperson and Rani Lakshmi Bai award for a female sportsperson in 31 sports disciplines. The Laxman/Rani Laxmi Bai award will be given to differently-abled players (General Category and Veteran Category) and the Laxman Award, the highest sports award of the state will be given posthumously to Shahid.",
         "benefits": [
-            "This award recognizes sports personalities with a Citation, a Bronze statue of either Laxman or Rani Laxmi Bai, a Scroll, and a cash prize of \u20b93,11,000/-."
+            "This award recognizes sports personalities with a Citation, a Bronze statue of either Laxman or Rani Laxmi Bai, a Scroll, and a cash prize of ₹3,11,000/-."
         ],
         "eligibility": [
             "The player must be a bonafide native of Uttar Pradesh.",
@@ -77,5 +77,6 @@
             "Differently-abled",
             "Posthumous"
         ]
-    }
+    },
+    "id": "001020"
 }

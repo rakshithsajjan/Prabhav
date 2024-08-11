@@ -5,14 +5,14 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Financial Assistance",
         "beneficiary": "Destitute Children",
-        "details": "The scheme 'Financial Assistance to Destitute Children Scheme (FADCS)' was launched by the Department of Social Justice and Empowerment, Government of Haryana in the year 1984. This is a state scheme under which parents/guardians of children up to the age of 21 years who are deprived of parental support or care by reason of death, continued absence from the home of father for the last 2 years, or father/mother has been sentenced to imprisonment for a period not less than one year or physical or mental incapacity of a parent, are paid financial assistance subject to the maximum for two children of one family as per eligibility criteria laid down in the scheme. Initially the rate of financial assistance of \u20b9200/- per month per child w.e.f. 01.03.2009. The rate of pension under this scheme is \u20b9500/- per month per child from January 2014, \u20b9700/- w.e.f. 01-11-2016, \u20b9900/- w.e.f. 01-11-2017, \u20b91100/- w.e.f. 01-11-2018, \u20b91350/- w.e.f. 01.01.2020, \u20b91600/- w.e.f. 01.04.2021 and \u20b91850/- (one child) w.e.f. 01.04.2023.",
+        "details": "The scheme 'Financial Assistance to Destitute Children Scheme (FADCS)' was launched by the Department of Social Justice and Empowerment, Government of Haryana in the year 1984. This is a state scheme under which parents/guardians of children up to the age of 21 years who are deprived of parental support or care by reason of death, continued absence from the home of father for the last 2 years, or father/mother has been sentenced to imprisonment for a period not less than one year or physical or mental incapacity of a parent, are paid financial assistance subject to the maximum for two children of one family as per eligibility criteria laid down in the scheme. Initially the rate of financial assistance of ₹200/- per month per child w.e.f. 01.03.2009. The rate of pension under this scheme is ₹500/- per month per child from January 2014, ₹700/- w.e.f. 01-11-2016, ₹900/- w.e.f. 01-11-2017, ₹1100/- w.e.f. 01-11-2018, ₹1350/- w.e.f. 01.01.2020, ₹1600/- w.e.f. 01.04.2021 and ₹1850/- (one child) w.e.f. 01.04.2023.",
         "benefits": [
-            "Rate of Allowance: \u20b91850/- per month per child subject to the maximum for two children of one family."
+            "Rate of Allowance: ₹1850/- per month per child subject to the maximum for two children of one family."
         ],
         "eligibility": [
             "Domicile of Haryana and residing in Haryana State.",
             "A child under twenty-one years of age.",
-            "Income of parents/guardians from all sources should not exceed \u20b92,00,000/- per annum.",
+            "Income of parents/guardians from all sources should not exceed ₹2,00,000/- per annum.",
             "Children have been deprived of parental support or care for the following reasons: Reason of Death, Continued absence from home of his father for the last 2 years, Father/Mother has been sentenced to imprisonment for a period not less than one year, Physical/Mental incapacity of the Parent."
         ],
         "exclusions": [
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The financial assistance of \u20b91850 per month per child up to the age of 21 years will be given to the eligible beneficiary."
+                "answer": "The financial assistance of ₹1850 per month per child up to the age of 21 years will be given to the eligible beneficiary."
             },
             {
                 "question": "How many children will get financial assistance in a family?",
@@ -62,7 +62,7 @@
             },
             {
                 "question": "What is the income criterion under the scheme?",
-                "answer": "To get the benefits of the scheme, the income of parents/guardians should not exceed \u20b92,00,000/- per annum."
+                "answer": "To get the benefits of the scheme, the income of parents/guardians should not exceed ₹2,00,000/- per annum."
             },
             {
                 "question": "Who is excluded from the scheme?",
@@ -104,5 +104,6 @@
             "Destitute Children",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000536"
 }

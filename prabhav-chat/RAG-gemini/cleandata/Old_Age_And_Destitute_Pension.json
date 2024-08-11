@@ -7,9 +7,9 @@
         "beneficiary": "Old Age Persons, Widows, Deserted Women, Unmarried Women, Transgender",
         "details": "The Government of Puducherry introduced Old Age And Destitute Pension Scheme to extend a helping hand by way of monthly financial assistance to Old Age Persons/Widows/ Deserted Women/ Unmarried Women and Enuches so that they could defray some petty personal expenses without depending on others.",
         "benefits": [
-            "\u20b91500/- per month for Old Age Persons, Destitute women, Widows, and Transgender with age less than 60 years.",
-            "\u20b92000/- per month for Old Age Persons, Destitute women, Widows, and Transgender with age between 60 years and 79 years.",
-            "\u20b93000/- per month for Old Age Persons, Destitute women, Widows, and Transgender with age 80 years and above."
+            "₹1500/- per month for Old Age Persons, Destitute women, Widows, and Transgender with age less than 60 years.",
+            "₹2000/- per month for Old Age Persons, Destitute women, Widows, and Transgender with age between 60 years and 79 years.",
+            "₹3000/- per month for Old Age Persons, Destitute women, Widows, and Transgender with age 80 years and above."
         ],
         "eligibility": [
             "Old Age both men and Women above fifty-five years.",
@@ -22,7 +22,7 @@
         "application_process": "Offline",
         "documents_required": [
             "Identification certificate.",
-            "Income certificate ( Not Exceeding \u20b975,000/-).",
+            "Income certificate ( Not Exceeding ₹75,000/-).",
             "Residence certificate.",
             "Attested copy of Birth Certificate or documentary proof of age.",
             "Attested copy of Ration Card/Identity Card.",
@@ -82,5 +82,6 @@
             "Financial Assistance",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001373"
 }

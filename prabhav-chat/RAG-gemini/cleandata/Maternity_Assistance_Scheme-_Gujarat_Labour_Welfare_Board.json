@@ -5,9 +5,9 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Female workers and the wives of workers",
-        "details": "The \u201cMaternity Assistance Scheme\u201d was launched by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to female workers and the wives of workers to cover expenses incurred for health check-ups, medicine, nutritious diet, etc., during the maternity period.",
+        "details": "The “Maternity Assistance Scheme” was launched by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to female workers and the wives of workers to cover expenses incurred for health check-ups, medicine, nutritious diet, etc., during the maternity period.",
         "benefits": [
-            "Financial assistance of \u20b910,000/- is provided to female workers and the wives of workers to cover expenses incurred during the maternity period."
+            "Financial assistance of ₹10,000/- is provided to female workers and the wives of workers to cover expenses incurred during the maternity period."
         ],
         "eligibility": [
             "The workers who are working in the organized sector in the state of Gujarat will be eligible to get the benefit of this scheme.",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "A financial assistance of \u20b910,000/- is provided to cover expenses incurred during the maternity period."
+                "answer": "A financial assistance of ₹10,000/- is provided to cover expenses incurred during the maternity period."
             },
             {
                 "question": "What expenses are covered by the financial assistance?",
@@ -81,5 +81,6 @@
             "Gujarat",
             "Labour Welfare"
         ]
-    }
+    },
+    "id": "001099"
 }

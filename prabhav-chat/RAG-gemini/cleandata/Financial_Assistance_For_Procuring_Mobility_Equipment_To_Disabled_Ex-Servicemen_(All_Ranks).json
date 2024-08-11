@@ -7,7 +7,7 @@
         "beneficiary": "Disabled Ex-Servicemen",
         "details": "The scheme 'Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen(All Ranks)' by the Department of Ex-Servicemen Welfare of the Ministry of Defence, provides financial assistance for the procurement of modified scooters for those Ex-Servicemen (ESM), who are disabled after their retirement from service with a disability of 50% or more. After their retirement, most of the ESMs continue to be engaged in physically challenging activities/work. Some of them unfortunately become handicapped due to accidents etc after their retirement and need mobility equipment such as modified scooters, crutches, and wheelchairs to carry on with their life. To procure mobility requirements, the Kendriya Sainik Board (KSB) provides financial assistance to disabled ESMs from the Armed Forces Flag Day Fund (AFFDF).",
         "benefits": [
-            "A financial assistance of a maximum of \u20b9 1,00,000.",
+            "A financial assistance of a maximum of ₹ 1,00,000.",
             "The beneficiary can re-apply for new mobility equipment after the lapse of 10 years from the date of purchase of the previous equipment."
         ],
         "eligibility": [
@@ -55,7 +55,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "The scheme provides a maximum financial assistance of \u20b91,00,000 to eligible disabled Ex-Servicemen."
+                "answer": "The scheme provides a maximum financial assistance of ₹1,00,000 to eligible disabled Ex-Servicemen."
             },
             {
                 "question": "What is the aim of the 'Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen' scheme?",
@@ -98,5 +98,6 @@
             "Disability",
             "Mobility Equipment"
         ]
-    }
+    },
+    "id": "000528"
 }

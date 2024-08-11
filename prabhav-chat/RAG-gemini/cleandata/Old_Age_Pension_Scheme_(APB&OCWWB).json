@@ -7,7 +7,7 @@
         "beneficiary": "Construction Worker",
         "details": "The scheme 'Old Age Pension Scheme' was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The government of Arunachal Pradesh has introduced the pension scheme through the board and the aim of the scheme is to secure the economic dependency of a worker after retirement or at an old age period.",
         "benefits": [
-            "Cash assistance of \u20b9500/- per month, to the old age beneficiaries with an increase in \u20b910/- on completion of every 5 years."
+            "Cash assistance of ₹500/- per month, to the old age beneficiaries with an increase in ₹10/- on completion of every 5 years."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Arunachal Pradesh.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the amount of pension to be given to the eligible worker?",
-                "answer": "A monthly pension of \u20b9500/- will be given to old-age beneficiaries."
+                "answer": "A monthly pension of ₹500/- will be given to old-age beneficiaries."
             },
             {
                 "question": "What should be the minimum age to take the benefit of the scheme?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "How much will be the increment in pension?",
-                "answer": "The pension will increase by \u20b910/- on completion every 5 years."
+                "answer": "The pension will increase by ₹10/- on completion every 5 years."
             },
             {
                 "question": "Is it mandatory to be registered under Board for a worker?",
@@ -81,5 +81,6 @@
             "Labour",
             "Construction Worker"
         ]
-    }
+    },
+    "id": "001379"
 }

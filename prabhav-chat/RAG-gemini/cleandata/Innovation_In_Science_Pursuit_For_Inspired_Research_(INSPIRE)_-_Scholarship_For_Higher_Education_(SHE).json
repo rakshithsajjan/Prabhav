@@ -5,13 +5,13 @@
         "department": "Ministry Of Science And Technology",
         "type": "Scholarship",
         "beneficiary": "Student",
-        "details": "The scheme 'Scholarship for Higher Education (SHE)' is a component of the 'Innovation in Science Pursuit for Inspired Research (INSPIRE)', which is a flagship programme of the Department of Science and Technology (DST), under the Ministry of Science and Technology, Government of India. The scheme aims to attract students to study basic and natural Science subjects at undergraduate and postgraduate levels and pursue research as a career by providing scholarships to interested and deserving students. Under the SHE component, 12,000 scholarships (From the SHE-2017 batch onwards), each valued at \u20b9 80,000/- are announced annually to students pursuing Bachelor and Masters level courses in Basic and Natural Science areas.",
+        "details": "The scheme 'Scholarship for Higher Education (SHE)' is a component of the 'Innovation in Science Pursuit for Inspired Research (INSPIRE)', which is a flagship programme of the Department of Science and Technology (DST), under the Ministry of Science and Technology, Government of India. The scheme aims to attract students to study basic and natural Science subjects at undergraduate and postgraduate levels and pursue research as a career by providing scholarships to interested and deserving students. Under the SHE component, 12,000 scholarships (From the SHE-2017 batch onwards), each valued at ₹ 80,000/- are announced annually to students pursuing Bachelor and Masters level courses in Basic and Natural Science areas.",
         "benefits": [
-            "The scholarship is valued at \u20b9 80,000/- per annum.",
-            "Each candidate will receive an annual scholarship @ \u20b9 5000/- per month with a total value of \u20b9 60,000/-.",
+            "The scholarship is valued at ₹ 80,000/- per annum.",
+            "Each candidate will receive an annual scholarship @ ₹ 5000/- per month with a total value of ₹ 60,000/-.",
             "All the SHE scholars are required to undertake summer research projects under an active researcher in any recognized research centre across India.",
-            "A summertime Mentorship grant of \u20b9 20,000/- will be paid every year.",
-            "The scholarship will be transferred to the scholar\u2019s State Bank of India (SBI) bank account directly through Direct Benefit Transfer (DBT) mode."
+            "A summertime Mentorship grant of ₹ 20,000/- will be paid every year.",
+            "The scholarship will be transferred to the scholar’s State Bank of India (SBI) bank account directly through Direct Benefit Transfer (DBT) mode."
         ],
         "eligibility": [
             "Meritorious Students with aggregate marks within the top 1% of their Class XII examination of any State/ Central Education Board in India are eligible. In addition, the student must be pursuing courses in Natural and Basic Sciences at the B.Sc., B.S., and Int.M.Sc./M.S. level.",
@@ -41,15 +41,15 @@
             },
             {
                 "question": "What Is The Amount Of The Scholarship?",
-                "answer": "The scholarship is valued at \u20b9 80,000/- per annum."
+                "answer": "The scholarship is valued at ₹ 80,000/- per annum."
             },
             {
                 "question": "How Much Shall The Summertime Mentorship Grant Be?",
-                "answer": "The Summertime Mentorship Grant of \u20b9 20,000/- will be paid every year."
+                "answer": "The Summertime Mentorship Grant of ₹ 20,000/- will be paid every year."
             },
             {
                 "question": "How Will The Amount Of The Scholarship Be Disbursed?",
-                "answer": "The scholarship will be transferred to the scholar\u2019s State Bank of India (SBI) bank account directly through Direct Benefit Transfer (DBT) mode."
+                "answer": "The scholarship will be transferred to the scholar’s State Bank of India (SBI) bank account directly through Direct Benefit Transfer (DBT) mode."
             },
             {
                 "question": "Where Can I Find The URL To The PDF Document Of The User Manual Of The Application Process?",
@@ -88,5 +88,6 @@
             "Science",
             "Research"
         ]
-    }
+    },
+    "id": "000859"
 }

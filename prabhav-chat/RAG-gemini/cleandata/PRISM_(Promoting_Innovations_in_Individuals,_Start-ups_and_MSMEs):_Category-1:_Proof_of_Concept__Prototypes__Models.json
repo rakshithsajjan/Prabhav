@@ -7,8 +7,8 @@
         "beneficiary": "Individual innovators, Start-ups, MSMEs",
         "details": "The scheme 'PRISM (Promoting Innovations in Individuals, Start-ups and MSMEs)' aims to support individual innovators to achieve the agenda of inclusive development. It provides support to institutions or organizations leading to the development of state-of-the-art new technology solutions aimed at helping MSME clusters.",
         "benefits": [
-            "Project cost up to \u20b95,00,000 to help Innovators convert their ideas into demonstrable models/prototypes.",
-            "Maximum support under this category is \u20b92,00,000 or 90% of the approved project cost, whichever is lower."
+            "Project cost up to ₹5,00,000 to help Innovators convert their ideas into demonstrable models/prototypes.",
+            "Maximum support under this category is ₹2,00,000 or 90% of the approved project cost, whichever is lower."
         ],
         "eligibility": [
             "Any Indian citizen including student innovators can avail support to develop their novel idea into demonstrable models/prototypes.",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the maximum project cost supported by PRISM?",
-                "answer": "PRISM supports project costs up to \u20b95,00,000, with a maximum of \u20b92,00,000 or 90% of the approved project cost, whichever is lower."
+                "answer": "PRISM supports project costs up to ₹5,00,000, with a maximum of ₹2,00,000 or 90% of the approved project cost, whichever is lower."
             }
         ],
         "sources": [
@@ -60,5 +60,6 @@
                 "url": "https://www.dsir.gov.in/sites/default/files/2019-09/guide_ph1_cat1.pdf"
             }
         ]
-    }
+    },
+    "id": "001407"
 }

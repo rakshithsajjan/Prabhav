@@ -7,7 +7,7 @@
         "beneficiary": "Pre-Service Student Teachers",
         "details": "The scheme 'Scholarship to 2 Years Pre-Service Student Teachers undergoing D.El.Ed Programme at DIETs and CTTC Sohra' was launched by the Dept. of Education, Govt. of Meghalaya in April, 2012. The admission under the scheme shall be made on merit on the basis of marks obtained in the qualifying examination and/or in the entrance test. The purpose of having the entrance test is to tap the interest of the candidates who wish to pursue his/her profession in teaching.",
         "benefits": [
-            "Scholarship of \u20b95000/- per month for 2 years (10 months per year)"
+            "Scholarship of ₹5000/- per month for 2 years (10 months per year)"
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Meghalaya.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What is the amount of Scholarship?",
-                "answer": "The scheme offers a scholarship of \u20b95000/- per month for 2 years (10 months per year)."
+                "answer": "The scheme offers a scholarship of ₹5000/- per month for 2 years (10 months per year)."
             },
             {
                 "question": "How many years can the selected students avail the Scholarship?",
@@ -57,8 +57,8 @@
                 "answer": "The applicant should pass Class XII or its equivalent examination from recognized Boards/Councils with 50% marks with 5% relaxation for ST/SC/OBC/PWD."
             },
             {
-                "question": "Can an applicant who is waiting for Class \u2013 XII results also apply under this scheme?",
-                "answer": "Yes, a candidate waiting for Class \u2013 XII results may also apply with the condition that they can produce their provisional/original documents at the time of counseling."
+                "question": "Can an applicant who is waiting for Class – XII results also apply under this scheme?",
+                "answer": "Yes, a candidate waiting for Class – XII results may also apply with the condition that they can produce their provisional/original documents at the time of counseling."
             },
             {
                 "question": "How many seats are to be allotted to candidates having Science and Mathematics background at Class-XII level?",
@@ -98,5 +98,6 @@
             "Teacher",
             "Teaching"
         ]
-    }
+    },
+    "id": "001753"
 }

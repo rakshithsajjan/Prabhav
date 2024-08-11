@@ -7,9 +7,9 @@
         "beneficiary": "Students from Fisher families",
         "details": "The 'Scholarship to Meritorious Student of Fishers Family' Component of the 'Mukhyamantri Maschyajibi Kalyan Yojana' was launched to generate interest among the meritorious students of the family of the fishermen, providing one-time assistance to the pass-outs of the HSC examination for pursuing higher education.",
         "benefits": [
-            "Percentage of Marks Secured: 80% and above; Scholarship: \u20b920,000/-",
-            "Percentage of Marks Secured: 70% and up to 80%; Scholarship: \u20b915,000/-",
-            "Percentage of Marks Secured: 60% and up to 70%; Scholarship: \u20b910,000/-"
+            "Percentage of Marks Secured: 80% and above; Scholarship: ₹20,000/-",
+            "Percentage of Marks Secured: 70% and up to 80%; Scholarship: ₹15,000/-",
+            "Percentage of Marks Secured: 60% and up to 70%; Scholarship: ₹10,000/-"
         ],
         "eligibility": [
             "The applicant should be a Student.",
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "How does the assistance pattern vary based on the percentage of marks secured in the HSC examination?",
-                "answer": "The cash award varies, with \u20b920,000 for 80% and above, \u20b915,000 for 70% to 80%, and \u20b910,000 for 60% to 70% in the HSC examination."
+                "answer": "The cash award varies, with ₹20,000 for 80% and above, ₹15,000 for 70% to 80%, and ₹10,000 for 60% to 70% in the HSC examination."
             },
             {
                 "question": "What is the geographical scope of this scholarship scheme?",
@@ -96,5 +96,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001756"
 }

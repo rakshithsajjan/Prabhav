@@ -7,17 +7,17 @@
         "beneficiary": "Children of workers in industrial and commercial establishments",
         "details": "The scheme 'Financial Assistance for Encouraging Worker's Children's Participation in Cultural Activities' is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. Under this scheme, financial assistance is provided by the Haryana Labour Welfare Board to the children of the workers working in the industrial and commercial establishments of the state of Haryana for participating in cultural competitions so that the children of the workers can also become good artists.",
         "benefits": [
-            "\u20b92,000/- for participating in group cultural competitions",
-            "\u20b93,000/- for division-level competitions",
-            "\u20b94,000/- for state-level competitions",
-            "\u20b95,000/- for national-level competitions",
-            "\u20b911,000/- for international-level competitions",
+            "₹2,000/- for participating in group cultural competitions",
+            "₹3,000/- for division-level competitions",
+            "₹4,000/- for state-level competitions",
+            "₹5,000/- for national-level competitions",
+            "₹11,000/- for international-level competitions",
             "Additional amounts for securing 1st, 2nd, or 3rd positions"
         ],
         "eligibility": [
             "The applicant should be employed in an industrial or commercial establishment in Haryana.",
             "The applicant should be registered with the Haryana Labour Welfare Board.",
-            "The applicant's monthly salary should not exceed \u20b925,000/-.",
+            "The applicant's monthly salary should not exceed ₹25,000/-.",
             "Benefits are provided to children of registered workers for participating in group or solo cultural competitions, and also for securing 1st, 2nd, or 3rd position in these competitions.",
             "There is no limit on the number of workers' children eligible under this scheme.",
             "There is no minimum service period requirement for the worker."
@@ -43,11 +43,11 @@
             },
             {
                 "question": "What type of financial assistance is provided under this scheme?",
-                "answer": "Financial assistance ranging from \u20b92,000 to \u20b931,000 is provided to the children of workers for participating in cultural competitions and for securing 1st, 2nd, or 3rd place in these competitions."
+                "answer": "Financial assistance ranging from ₹2,000 to ₹31,000 is provided to the children of workers for participating in cultural competitions and for securing 1st, 2nd, or 3rd place in these competitions."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
-                "answer": "Workers employed in industrial or commercial establishments in Haryana, registered with the Haryana Labour Welfare Board, and earning a monthly salary not exceeding \u20b925,000/- are eligible to apply for their children under this scheme."
+                "answer": "Workers employed in industrial or commercial establishments in Haryana, registered with the Haryana Labour Welfare Board, and earning a monthly salary not exceeding ₹25,000/- are eligible to apply for their children under this scheme."
             },
             {
                 "question": "Is there any limit on the number of children who can benefit from this scheme?",
@@ -58,12 +58,12 @@
                 "answer": "There is no minimum service period requirement for the worker."
             },
             {
-                "question": "How long does a worker have to apply for the scheme benefits after their child\u2019s participation in a competition?",
+                "question": "How long does a worker have to apply for the scheme benefits after their child’s participation in a competition?",
                 "answer": "Applications must be submitted within one year from the date of the issue of the participation certificate."
             },
             {
                 "question": "What is the monthly salary limit for a worker to be eligible for the scheme?",
-                "answer": "The worker's monthly salary should not exceed \u20b925,000/-."
+                "answer": "The worker's monthly salary should not exceed ₹25,000/-."
             },
             {
                 "question": "Where can workers register for the scheme?",
@@ -105,5 +105,6 @@
             "Participation In Cultural Activities",
             "Worker"
         ]
-    }
+    },
+    "id": "000560"
 }

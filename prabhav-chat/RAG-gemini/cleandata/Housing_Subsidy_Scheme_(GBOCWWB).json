@@ -5,16 +5,16 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Construction Workers",
-        "details": "The 'Housing Subsidy Scheme' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB) to provide financial assistance to registered construction workers to build their own houses. The scheme started in the year 2021-22 to provide financial relief and social stability to construction workers through subsidies.",
+        "details": "The 'Housing Subsidy Scheme' is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB) to provide financial assistance to registered construction workers to build their own houses. The scheme started in the year 2021-22 to provide financial relief and social stability to construction workers through subsidies.",
         "benefits": [
-            "Assistance of \u20b91,50,000/- will be provided to registered construction workers for a duration of 5 years, with \u20b930,000/- disbursed annually.",
-            "Construction workers who have taken a loan up to a maximum of \u20b915 lakhs to buy their house will be provided \u20b930,000/- per year for five years."
+            "Assistance of ₹1,50,000/- will be provided to registered construction workers for a duration of 5 years, with ₹30,000/- disbursed annually.",
+            "Construction workers who have taken a loan up to a maximum of ₹15 lakhs to buy their house will be provided ₹30,000/- per year for five years."
         ],
         "eligibility": [
-            "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board.",
             "At least 2 years of registration with the construction worker's board at the time of applying.",
             "Documented building after the resolution date of the scheme (29/06/2020) and application within one year from the date of the document.",
-            "Loan for house purchase should not exceed \u20b915 lakhs and the loan tenure should be 10 years or more.",
+            "Loan for house purchase should not exceed ₹15 lakhs and the loan tenure should be 10 years or more.",
             "Registered construction worker should not own any house or property in joint name.",
             "Submission of bank loan interest certificate/bank loan statement after the financial year to avail assistance.",
             "Annual written proposal submission at the district office for continued assistance."
@@ -40,15 +40,15 @@
         "faqs": [
             {
                 "question": "What is the Gujarat Housing Subsidy Scheme?",
-                "answer": "The Gujarat Housing Subsidy Scheme is a program initiated by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB) to provide financial assistance to registered construction workers for building their own houses."
+                "answer": "The Gujarat Housing Subsidy Scheme is a program initiated by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB) to provide financial assistance to registered construction workers for building their own houses."
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Registered construction workers can receive an assistance of \u20b91,50,000/- over a duration of 5 years, with \u20b930,000/- disbursed annually, subject to the terms of assistance."
+                "answer": "Registered construction workers can receive an assistance of ₹1,50,000/- over a duration of 5 years, with ₹30,000/- disbursed annually, subject to the terms of assistance."
             },
             {
                 "question": "Who is eligible to benefit from the scheme?",
-                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible to avail the benefits of the scheme."
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board are eligible to avail the benefits of the scheme."
             },
             {
                 "question": "What is the minimum registration period required to apply for the scheme?",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "Is there a limit on the loan amount for house purchase to be eligible for the subsidy?",
-                "answer": "Yes, the maximum loan amount for house purchase should not exceed \u20b915 lakh, and the loan tenure should be 10 years or more."
+                "answer": "Yes, the maximum loan amount for house purchase should not exceed ₹15 lakh, and the loan tenure should be 10 years or more."
             },
             {
                 "question": "Can a registered construction worker already owning a house avail of the scheme benefits?",
@@ -109,5 +109,6 @@
             "Labour",
             "Loan"
         ]
-    }
+    },
+    "id": "000789"
 }

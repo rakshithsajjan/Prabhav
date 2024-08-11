@@ -7,12 +7,12 @@
         "beneficiary": "Children of workers in registered factories, commercial establishments, and shops",
         "details": "The Government of Uttar Pradesh emphasizes the importance of education for children of workers in registered factories, commercial establishments, and shops. Hence to encourage them, financial assistance will be provided. Recognizing and celebrating academic achievements is also highlighted as essential for building a culture of academic excellence. Ultimately, investing in the education of these children is expected to lead to a brighter future for both individuals and the state as a whole.",
         "benefits": [
-            "60% to 74.99% - \u20b95,000/-",
-            "75% or more - \u20b97,500/-"
+            "60% to 74.99% - ₹5,000/-",
+            "75% or more - ₹7,500/-"
         ],
         "eligibility": [
             "The applicant must be a worker employed in a registered factory, commercial establishment, or shop in Uttar Pradesh.",
-            "The applicant worker's monthly salary (basic pay + dearness allowance) should not exceed \u20b915,000/-.",
+            "The applicant worker's monthly salary (basic pay + dearness allowance) should not exceed ₹15,000/-.",
             "The applicant's child must have passed 10th, 12th, undergraduate, or postgraduate exams."
         ],
         "exclusions": [],
@@ -33,7 +33,7 @@
             },
             {
                 "question": "How much financial benefits are provided under the scheme?",
-                "answer": "The scholarship amounts awarded to students based on their marks in High School/Intermediate/Graduation/Post Graduation (Arts, Science, Commerce, and Agriculture) exams: 1. 60% to 74.99% - \u20b95,000/- 2. 75% or more - \u20b97,500/-"
+                "answer": "The scholarship amounts awarded to students based on their marks in High School/Intermediate/Graduation/Post Graduation (Arts, Science, Commerce, and Agriculture) exams: 1. 60% to 74.99% - ₹5,000/- 2. 75% or more - ₹7,500/-"
             },
             {
                 "question": "Who can get the scheme benefits?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What the financial eligibility criteria?",
-                "answer": "The applicant worker's monthly salary (basic pay + dearness allowance) should not exceed \u20b915,000/-."
+                "answer": "The applicant worker's monthly salary (basic pay + dearness allowance) should not exceed ₹15,000/-."
             },
             {
                 "question": "What is procedure to get the scheme benefits?",
@@ -75,5 +75,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000667"
 }

@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Financial Assistance",
         "beneficiary": "Registered construction workers and their children",
-        "details": "The 'Marriage Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance of \u20b97,000/- is provided to the registered construction workers of the Board for the marriage of their children. The benefits can be availed for the marriage of up to two children of the worker. Interested and eligible applicants should apply within six months from the date of marriage. A female member is also eligible for this assistance for her own marriage. The amount of the financial assistance is credited to the bank account of the beneficiary through Direct Benefit Transfer (DBT).",
+        "details": "The 'Marriage Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance of ₹7,000/- is provided to the registered construction workers of the Board for the marriage of their children. The benefits can be availed for the marriage of up to two children of the worker. Interested and eligible applicants should apply within six months from the date of marriage. A female member is also eligible for this assistance for her own marriage. The amount of the financial assistance is credited to the bank account of the beneficiary through Direct Benefit Transfer (DBT).",
         "benefits": [
-            "Financial Assistance of \u20b97,000/-",
+            "Financial Assistance of ₹7,000/-",
             "Benefits can be availed for the marriage of up to two children of the worker",
             "A female worker can avail of this assistance for her own marriage"
         ],
@@ -60,7 +60,7 @@
             },
             {
                 "question": "How often does the Board collect the annual subscription fee, and what is the renewal process?",
-                "answer": "The Board collects an annual subscription fee of \u20b9100 per year. Additionally, a renewal fee of \u20b9300 is collected once in three years to maintain beneficiary status."
+                "answer": "The Board collects an annual subscription fee of ₹100 per year. Additionally, a renewal fee of ₹300 is collected once in three years to maintain beneficiary status."
             },
             {
                 "question": "What measures are in place to verify the authenticity of an applicant's construction worker status during the registration process?",
@@ -68,7 +68,7 @@
             },
             {
                 "question": "Can a female construction worker avail financial assistance for her own marriage under the scheme?",
-                "answer": "Yes, a female construction worker is eligible to avail financial assistance of \u20b97,000 for her own marriage under the Marriage Assistance Scheme."
+                "answer": "Yes, a female construction worker is eligible to avail financial assistance of ₹7,000 for her own marriage under the Marriage Assistance Scheme."
             },
             {
                 "question": "What is the time frame within which an applicant must apply for financial assistance after the marriage ceremony?",
@@ -76,11 +76,11 @@
             },
             {
                 "question": "Is there any financial obligation for construction workers during the enrollment process for the Marriage Assistance Scheme?",
-                "answer": "During enrollment, a beneficiary needs to pay a registration fee of \u20b925 and an annual subscription fee of \u20b9100. Additionally, the Board collects \u20b9300 as a renewal fee once in three years."
+                "answer": "During enrollment, a beneficiary needs to pay a registration fee of ₹25 and an annual subscription fee of ₹100. Additionally, the Board collects ₹300 as a renewal fee once in three years."
             },
             {
                 "question": "What role does the Direct Benefit Transfer (DBT) play in the disbursement of financial assistance under the Marriage Assistance Scheme?",
-                "answer": "The financial assistance of \u20b97,000 is credited directly to the bank account of the beneficiary through the Direct Benefit Transfer (DBT) method."
+                "answer": "The financial assistance of ₹7,000 is credited directly to the bank account of the beneficiary through the Direct Benefit Transfer (DBT) method."
             },
             {
                 "question": "Could you provide details about the grievance redressal mechanism for the Marriage Assistance Scheme?",
@@ -120,5 +120,6 @@
             "Labour",
             "Marriage"
         ]
-    }
+    },
+    "id": "001088"
 }

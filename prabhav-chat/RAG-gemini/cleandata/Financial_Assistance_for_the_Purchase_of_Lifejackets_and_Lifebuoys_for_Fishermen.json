@@ -5,9 +5,9 @@
         "department": "Department of Fisheries",
         "type": "Financial Assistance",
         "beneficiary": "Fishermen",
-        "details": "Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance amounting to \u20b950% is provided by the Government to eligible fishermen for the Purchase of Lifejackets and Lifebuoys. The applications are accepted only in offline mode.",
+        "details": "Financial Assistance for the Purchase of Lifejackets and Lifebuoys for Fishermen is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance amounting to ₹50% is provided by the Government to eligible fishermen for the Purchase of Lifejackets and Lifebuoys. The applications are accepted only in offline mode.",
         "benefits": [
-            "The support is extended up to \u20b91,000/- per lifejacket and \u20b91,500/- per lifebuoy.",
+            "The support is extended up to ₹1,000/- per lifejacket and ₹1,500/- per lifebuoy.",
             "For Canoe Fitted With OBM: 05 Life Jackets and 01 Lifebuoy.",
             "For Mechanised Trawlers Engaged in Trawling Operations: 08 Life Jackets and 02 Lifebuoys.",
             "For Mechanised Trawlers Engaged in Purse Seining Operation: 25 Life Jackets and 04 Lifebuoys."
@@ -80,7 +80,7 @@
             },
             {
                 "question": "How much financial support is extended for each lifejacket and lifebuoy under the scheme?",
-                "answer": "The support is up to \u20b91,000/- per lifejacket and \u20b91,500/- per lifebuoy."
+                "answer": "The support is up to ₹1,000/- per lifejacket and ₹1,500/- per lifebuoy."
             }
         ],
         "sources": [
@@ -107,5 +107,6 @@
             "Fisheries",
             "Fishermen"
         ]
-    }
+    },
+    "id": "000583"
 }

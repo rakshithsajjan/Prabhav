@@ -5,11 +5,11 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Registered Workers",
-        "details": "The scheme 'Disability Assistance for Registered Worker (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, a lump sum financial assistance of \u20b91.50 lakh to \u20b93.00 lakh is given to registered workers on the basis of the percentage of disability which occurred due to an accident at the workplace during the course of employment.",
+        "details": "The scheme 'Disability Assistance for Registered Worker (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, a lump sum financial assistance of ₹1.50 lakh to ₹3.00 lakh is given to registered workers on the basis of the percentage of disability which occurred due to an accident at the workplace during the course of employment.",
         "benefits": [
-            "\u20b91,50,000/- for upto 50% Disability",
-            "\u20b92,00,000/- for 51% to 75% Disability",
-            "\u20b93,00,000/- for 76% or above Disability"
+            "₹1,50,000/- for upto 50% Disability",
+            "₹2,00,000/- for 51% to 75% Disability",
+            "₹3,00,000/- for 76% or above Disability"
         ],
         "eligibility": [
             "The worker should be registered under Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
@@ -34,7 +34,7 @@
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "Under the scheme, a lump sum financial assistance of \u20b91.50 lakh to \u20b93.00 lakh is given to registered workers on the basis of the percentage of disability which occurred due to an accident at the workplace during the course of employment."
+                "answer": "Under the scheme, a lump sum financial assistance of ₹1.50 lakh to ₹3.00 lakh is given to registered workers on the basis of the percentage of disability which occurred due to an accident at the workplace during the course of employment."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Financial assistance of \u20b91.50 lakh to \u20b93.00 lakh is given to registered workers on the basis of the percentage of disability which occurred due to an accident at the workplace during the course of employment."
+                "answer": "Financial assistance of ₹1.50 lakh to ₹3.00 lakh is given to registered workers on the basis of the percentage of disability which occurred due to an accident at the workplace during the course of employment."
             },
             {
                 "question": "Who will issue the Disability Certificate to registered worker?",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Yes, the first-time registration charges are \u20b925/- and the registration fees vary according to the renewal time period."
+                "answer": "Yes, the first-time registration charges are ₹25/- and the registration fees vary according to the renewal time period."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -105,5 +105,6 @@
             "Disability",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000399"
 }

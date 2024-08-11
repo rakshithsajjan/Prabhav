@@ -7,7 +7,7 @@
         "beneficiary": "Girl",
         "details": "The Shubshakti Yojana has been initiated by the Rajasthan government with the aim of providing financial assistance to regular construction workers, unmarried laborers, and their daughters. The primary objective of this scheme to support and strengthen the daughters of labour families in Rajasthan state.",
         "benefits": [
-            "Receives a financial assistance of \u20b955,000/-",
+            "Receives a financial assistance of ₹55,000/-",
             "The amount is directly transferred to the beneficiary's bank account",
             "The funds can be used for various purposes, including:",
             "Higher education",
@@ -41,7 +41,7 @@
         "faqs": [
             {
                 "question": "What is the goal of the Shubh Shakti Yojana?",
-                "answer": "The scheme empowers construction workers\u2019 daughters by supporting their education, entrepreneurship, and financial support."
+                "answer": "The scheme empowers construction workers’ daughters by supporting their education, entrepreneurship, and financial support."
             },
             {
                 "question": "Who qualifies for the Shubh Shakti Yojana?",
@@ -49,10 +49,10 @@
             },
             {
                 "question": "How much financial assistance is provided under the scheme?",
-                "answer": "Eligible girls receive financial aid of \u20b9 55,000/- at the time of their marriage. The scheme also offers financial assistance for education and entrepreneurship purposes."
+                "answer": "Eligible girls receive financial aid of ₹ 55,000/- at the time of their marriage. The scheme also offers financial assistance for education and entrepreneurship purposes."
             },
             {
-                "question": "What are the scheme\u2019s long-term advantages?",
+                "question": "What are the scheme’s long-term advantages?",
                 "answer": "The program aims to give financial security throughout marriages, promote education, and provide girls with entrepreneurial options. It supports female equality, economic progress, and self-sufficiency."
             },
             {
@@ -73,7 +73,7 @@
             },
             {
                 "question": "Under the Shubh Shakti Yojana, how many daughters get money on their marriage?",
-                "answer": "A maximum of \u20b955000 is given on the marriage of a maximum of 2 daughters of a family."
+                "answer": "A maximum of ₹55000 is given on the marriage of a maximum of 2 daughters of a family."
             },
             {
                 "question": "Will the benefit of this scheme be provided to all the citizens of the state?",
@@ -103,5 +103,6 @@
             "Girl",
             "Labor"
         ]
-    }
+    },
+    "id": "001799"
 }

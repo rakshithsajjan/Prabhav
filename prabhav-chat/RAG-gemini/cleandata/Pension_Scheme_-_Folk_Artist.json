@@ -7,7 +7,7 @@
         "beneficiary": "Folk Artist",
         "details": "The 'Pension Scheme' was launched by the Art and Culture Department, Government of Tamil Nadu. The Tamil Nadu Folk Artist Pension Scheme aims to provide financial support to aged and disabled folk artists who have dedicated significant periods of their lives to the promotion and preservation of folk arts. The applications are accepted offline in the prescribed form available at the Regional Office.",
         "benefits": [
-            "Pension of \u20b9300/- per month."
+            "Pension of ₹300/- per month."
         ],
         "eligibility": [
             "The applicant should be a registered folk artist.",
@@ -30,7 +30,7 @@
             },
             {
                 "question": "What is the amount of the pension provided?",
-                "answer": "The pension amount is \u20b9300/- per month."
+                "answer": "The pension amount is ₹300/- per month."
             },
             {
                 "question": "What documents are needed to apply for the pension?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "Who is the Appellate Authority for this scheme?",
-                "answer": "A. Daniel Premnath, Secretary, Tamil Nadu Folk Artiste\u2019s Welfare Board."
+                "answer": "A. Daniel Premnath, Secretary, Tamil Nadu Folk Artiste’s Welfare Board."
             },
             {
                 "question": "Can an applicant apply online?",
@@ -86,5 +86,6 @@
             "Person With Disability",
             "Senior Citizen"
         ]
-    }
+    },
+    "id": "001425"
 }

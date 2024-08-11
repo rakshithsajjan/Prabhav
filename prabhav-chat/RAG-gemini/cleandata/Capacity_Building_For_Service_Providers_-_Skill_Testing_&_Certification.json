@@ -8,12 +8,12 @@
         "details": "The scheme 'Skill Testing & Certification' is a Suo-Moto Sub-Category of Programmes under the Umbrella Scheme of 'Capacity Building for Service Providers', Ministry of Tourism. In this scheme, financial assistance is provided to conduct Skilling (Capacity Building) and Re-Skilling (Capacity Enhancement) Programmes. Education, training, and certification are provided to tourism service providers at every level through the CBSP Scheme. The main objectives are to train and upgrade manpower at every stratum of service to capitalize on the vast tourism potential of the country and provide professional expertise to the local populace, creating fresh opportunities for employment generation in the tourism sector.",
         "benefits": [
             "Administrative expenses incurred by the implementing agencies towards organizing the training programmes shall be met by the MoT to the extent of 5% of the total estimated sanctioned training cost for a training confined to one city and 10% for training involving more than one city.",
-            "\u20b9 1500/- for guest faculty for a class of 60 minutes duration.",
-            "\u20b9 750/- for faculty/staff of Implementing Agency for a session of one-hour duration subject to a ceiling of up to 30 days or 60 sessions in a year.",
-            "\u20b9 400/- for a student-trainer who provides training for a two-hour class.",
+            "₹ 1500/- for guest faculty for a class of 60 minutes duration.",
+            "₹ 750/- for faculty/staff of Implementing Agency for a session of one-hour duration subject to a ceiling of up to 30 days or 60 sessions in a year.",
+            "₹ 400/- for a student-trainer who provides training for a two-hour class.",
             "Expenses on meals for trainers/trainees - Rs.100/- per person per day.",
             "Certificates should be provided to the trainees who have undergone the training by the concerned agency.",
-            "The money paid as Stipend to the successful trainee shall be transferred only to the individual beneficiary\u2019s Aadhar-linked bank account through the PFMS."
+            "The money paid as Stipend to the successful trainee shall be transferred only to the individual beneficiary’s Aadhar-linked bank account through the PFMS."
         ],
         "eligibility": [
             "The applicant should have passed Class 8th.",
@@ -44,5 +44,6 @@
             "Tourism",
             "Training"
         ]
-    }
+    },
+    "id": "000239"
 }

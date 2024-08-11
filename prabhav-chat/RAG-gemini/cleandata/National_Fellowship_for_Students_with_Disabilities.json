@@ -9,7 +9,7 @@
         "benefits": [
             "The fellowship provides financial assistance to students with disabilities to pursue M. Phil. and Ph.D. degrees.",
             "The fellowship is awarded on the basis of merit and the student's disability certificate.",
-            "The value of the fellowship is \u20b9 31,000 per month for Junior Research Fellows (JRFs) and \u20b9 35,500 per month for Senior Research Fellows (SRFs).",
+            "The value of the fellowship is ₹ 31,000 per month for Junior Research Fellows (JRFs) and ₹ 35,500 per month for Senior Research Fellows (SRFs).",
             "The fellowship is awarded for a maximum period of five years, including the JRF and SRF periods."
         ],
         "eligibility": [
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the value of the NFPwD fellowship?",
-                "answer": "The value of the NFPwD fellowship is as follows: 1. Junior Research Fellow (JRF): \u20b9 31,000 per month 2. Senior Research Fellow (SRF): \u20b9 35,500 per month."
+                "answer": "The value of the NFPwD fellowship is as follows: 1. Junior Research Fellow (JRF): ₹ 31,000 per month 2. Senior Research Fellow (SRF): ₹ 35,500 per month."
             },
             {
                 "question": "What is the duration of the NFPwD fellowship?",
@@ -81,5 +81,6 @@
             "Disability",
             "Higher Education"
         ]
-    }
+    },
+    "id": "001305"
 }

@@ -61,7 +61,7 @@
             },
             {
                 "question": "Is there any financial obligation for construction workers to register with the Board?",
-                "answer": "Yes, during registration with the Puducherry Building and Other Construction Workers Welfare Board, the Construction Worker needs to pay a registration fee of \u20b925 and an annual subscription fee of \u20b9100. Additionally, the Board collects \u20b9300 as a renewal fee once in three years."
+                "answer": "Yes, during registration with the Puducherry Building and Other Construction Workers Welfare Board, the Construction Worker needs to pay a registration fee of ₹25 and an annual subscription fee of ₹100. Additionally, the Board collects ₹300 as a renewal fee once in three years."
             },
             {
                 "question": "How can an applicant track the status of their application after submission?",
@@ -96,5 +96,6 @@
             "Construction Workers",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001811"
 }

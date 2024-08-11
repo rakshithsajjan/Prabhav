@@ -7,7 +7,7 @@
         "beneficiary": "Institutions conducting faculty and student trainings",
         "details": "Short Term Training Programme-SFURTI Program, launched by the All India Council for Technical Education (AICTE), aims to provide financial assistance to the institutions for conducting faculty and student trainings to enable faculty members and students in the field of technical education and to introspect and learn techniques that can help prepare faculty and students to impart their research work in the development of small-scale business for the nation.",
         "benefits": [
-            "Financial Assistance: Limit of funding \u20b9 4,00,000/- to the institution.",
+            "Financial Assistance: Limit of funding ₹ 4,00,000/- to the institution.",
             "The full amount of the grant sanctioned shall be released after successful conduct of the program to Indian Micro Enterprises Development Foundation (IMEDF).",
             "The amount spent by the institute on the conduct of STTP-SFURTI shall be adjusted on the basis of utilization certificate and detailed expenditure statement submitted by the IMEDF."
         ],
@@ -59,5 +59,6 @@
             "AICTE",
             "SFURTI"
         ]
-    }
+    },
+    "id": "000029"
 }

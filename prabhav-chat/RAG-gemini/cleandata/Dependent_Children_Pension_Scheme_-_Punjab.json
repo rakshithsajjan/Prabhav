@@ -7,7 +7,7 @@
         "beneficiary": "Children",
         "details": "The main objective behind launching Dependent Children Pension Scheme is to provide financial security cover to those childrens whose income is not stable due to non availability of his/ her father/ parents. This Scheme is implemented by Social Security and Women & Child Development Department of Punjab Government. Eligible Beneficiary will get Monthly Pension direct to their bank account.",
         "benefits": [
-            "Amount : \u20b9 1,500/- per month"
+            "Amount : ₹ 1,500/- per month"
         ],
         "eligibility": [
             "Applicant should be a Permanent Resident of Punjab.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How much amount will be provided in financial aid?",
-                "answer": "Amount : \u20b9 1,500/- per month."
+                "answer": "Amount : ₹ 1,500/- per month."
             },
             {
                 "question": "Who will get the benefits?",
@@ -101,5 +101,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000374"
 }

@@ -7,13 +7,13 @@
         "beneficiary": "Talented and progressive youth",
         "details": "The Young Interns Program (YIP) is an internship program, envisaged by the Government of Rajasthan, for providing opportunities for talented and progressive youth to upgrade their skills by gaining practical experience working in programs, schemes and projects of the government departments. The program is mutually beneficial to the government as well as the interns.",
         "benefits": [
-            "Stipend of \u20b9 30,000/- per month",
-            "Laptop Connectivity and Mobility Support of \u20b9 2500/- per month",
+            "Stipend of ₹ 30,000/- per month",
+            "Laptop Connectivity and Mobility Support of ₹ 2500/- per month",
             "One casual leave every month on an accrual basis"
         ],
         "eligibility": [
             "Age between 21 years and 30 years",
-            "Excellent communication/presentation/intra\u2013personal skills/soft skills",
+            "Excellent communication/presentation/intra–personal skills/soft skills",
             "Good knowledge of English and Hindi",
             "Well-versed ICT skills and knowledge of MS Office",
             "Mandatory to have own Laptop and data card/internet facility",
@@ -86,5 +86,6 @@
             "Internship",
             "Student"
         ]
-    }
+    },
+    "id": "002075"
 }

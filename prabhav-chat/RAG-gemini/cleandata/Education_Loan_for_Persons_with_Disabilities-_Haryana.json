@@ -5,16 +5,16 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Persons with Disabilities",
-        "details": "The scheme 'Education Loan for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under this scheme, education loans of up to \u20b950 lakhs are provided to persons with disabilities (Orthopedically Handicapped, Visually Handicapped, Hearing Handicapped, Mentally Retarded) for pursuing professional and technical education both in India and abroad. Permanent residents of Haryana, aged between 18 and 55 years, with a disability of more than 40%, are eligible to benefit from this scheme.",
+        "details": "The scheme 'Education Loan for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under this scheme, education loans of up to ₹50 lakhs are provided to persons with disabilities (Orthopedically Handicapped, Visually Handicapped, Hearing Handicapped, Mentally Retarded) for pursuing professional and technical education both in India and abroad. Permanent residents of Haryana, aged between 18 and 55 years, with a disability of more than 40%, are eligible to benefit from this scheme.",
         "benefits": [
-            "Education loans of up to \u20b950 lakhs for pursuing professional and technical education both in India and abroad."
+            "Education loans of up to ₹50 lakhs for pursuing professional and technical education both in India and abroad."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana State.",
             "The applicant should have a disability of more than 40%.",
             "The applicant's age should be between 18 and 55 years. For persons with mental retardation, the eligible age is above 14 years.",
             "The applicant should have secured admission to a professional or technical course in India or abroad.",
-            "Unique Disability ID (UDID) registration under the Department of Empowerment of Persons with Disabilities (DEPwD) is mandatory for loan amounts of \u20b915 lakhs and above.",
+            "Unique Disability ID (UDID) registration under the Department of Empowerment of Persons with Disabilities (DEPwD) is mandatory for loan amounts of ₹15 lakhs and above.",
             "The applicant must have a Parivar Pehchan Patra (PPP ID)."
         ],
         "exclusions": [],
@@ -43,7 +43,7 @@
             },
             {
                 "question": "How much loan amount can be availed under this scheme?",
-                "answer": "Eligible applicants can avail education loans of up to \u20b950 lakhs."
+                "answer": "Eligible applicants can avail education loans of up to ₹50 lakhs."
             },
             {
                 "question": "For which types of education can this loan be used?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "Is UDID registration necessary for applying for this loan?",
-                "answer": "Yes, UDID registration under the Department of Empowerment of Persons with Disabilities (DEPwD) is mandatory for loan amounts of \u20b915 lakhs and above."
+                "answer": "Yes, UDID registration under the Department of Empowerment of Persons with Disabilities (DEPwD) is mandatory for loan amounts of ₹15 lakhs and above."
             },
             {
                 "question": "Is a Parivar Pehchan Patra (PPP ID) required for the application?",
@@ -85,5 +85,6 @@
             "Education Loan",
             "PwD"
         ]
-    }
+    },
+    "id": "000476"
 }

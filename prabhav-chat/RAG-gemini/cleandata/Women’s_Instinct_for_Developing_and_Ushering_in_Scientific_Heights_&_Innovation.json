@@ -1,14 +1,14 @@
 {
     "content": {
-        "title": "Women\u2019s Instinct for Developing and Ushering in Scientific Heights & Innovation",
+        "title": "Women’s Instinct for Developing and Ushering in Scientific Heights & Innovation",
         "state": "India",
         "department": "Ministry Of Science And Technology",
         "type": "Fellowship",
         "beneficiary": "Senior Women Scientists",
         "details": "A new programme 'Women's Instinct for Developing and Ushering in Scientific Heights & Innovations (WIDUSHI)' is started by the Department of Science and Technology (DST) under its umbrella scheme 'Women in Science and Engineering-KIRAN (WISE-KIRAN)' for senior women scientists to harness their knowledge and potential for the betterment of Science and Society. WIDUSHI programme aims to encourage and support senior women scientists to conduct research in interdisciplinary areas of Science and Technology.",
         "benefits": [
-            "Category A: Fellowship to the Principal Investigator @\u20b975,000/- per month, One Research Assistant, Research Grant of \u20b95.0 Lakh per year and Institutional overhead charges @\u20b91.00 lakh per annum.",
-            "Category B: Fellowship to the Principal Investigator @\u20b985,000/- per month, One Research Assistant, Research Grant of \u20b95.0 Lakh per year and Institutional overhead charges @\u20b91.00 lakh per annum."
+            "Category A: Fellowship to the Principal Investigator @₹75,000/- per month, One Research Assistant, Research Grant of ₹5.0 Lakh per year and Institutional overhead charges @₹1.00 lakh per annum.",
+            "Category B: Fellowship to the Principal Investigator @₹85,000/- per month, One Research Assistant, Research Grant of ₹5.0 Lakh per year and Institutional overhead charges @₹1.00 lakh per annum."
         ],
         "eligibility": [
             "Category A: Women Scientists who are permanent employees but retiring in a year or already retired/superannuated from government academic/research institutions.",
@@ -32,7 +32,7 @@
             "Proof of research experience",
             "List/details of publications",
             "Details of Scholarships, Medals, Fellowships, Awards, Distinctions or Honors received during academic career",
-            "Detailed Bio-data of Principal Investigator and Co-Investigator including last 5 year\u2019s publications in cited journals.",
+            "Detailed Bio-data of Principal Investigator and Co-Investigator including last 5 year’s publications in cited journals.",
             "Details of the R&D Project",
             "Certification by the Head of the Institute",
             "Certificate from the Investigator",
@@ -40,7 +40,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cWIDUSHI\u201d programme?",
+                "question": "What is the “WIDUSHI” programme?",
                 "answer": "The programme 'Women's Instinct for Developing and Ushering in Scientific Heights & Innovations (WIDUSHI)' is started by the Department of Science and Technology (DST) under its umbrella scheme 'Women in Science and Engineering-KIRAN (WISE-KIRAN)' for senior women scientists to harness their knowledge and potential for the betterment of Science and Society."
             },
             {
@@ -61,7 +61,7 @@
             },
             {
                 "question": "What is the nature of support provided to the selected scientists?",
-                "answer": "Category A: The Programme provides fellowship to the Principal Investigator @\u20b975,000/- per month, One Research Assistant, Research Grant of \u20b95.0 Lakh per year and Institutional overhead charges @\u20b91.00 lakh per annum. Category B: The Programme provides fellowship to the Principal Investigator @\u20b985,000/- per month, One Research Assistant, Research Grant of \u20b95.0 Lakh per year and Institutional overhead charges @\u20b91.00 lakh per annum."
+                "answer": "Category A: The Programme provides fellowship to the Principal Investigator @₹75,000/- per month, One Research Assistant, Research Grant of ₹5.0 Lakh per year and Institutional overhead charges @₹1.00 lakh per annum. Category B: The Programme provides fellowship to the Principal Investigator @₹85,000/- per month, One Research Assistant, Research Grant of ₹5.0 Lakh per year and Institutional overhead charges @₹1.00 lakh per annum."
             },
             {
                 "question": "What is the age criterion to apply under the programme?",
@@ -104,5 +104,6 @@
             "Research Fellowship",
             "Senior Women Scientists"
         ]
-    }
+    },
+    "id": "002065"
 }

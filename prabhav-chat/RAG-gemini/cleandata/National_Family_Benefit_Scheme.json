@@ -5,9 +5,9 @@
         "department": "Ministry Of Rural Development",
         "type": "Family Welfare Scheme",
         "beneficiary": "Households Below Poverty Line (BPL)",
-        "details": "A family welfare scheme under the umbrella scheme \u2018National Social Assistance Programme\u2019 (NSAP) by MoRD. In this scheme, financial assistance is provided to the bereaved households in case of the death of the primary breadwinner irrespective of the cause of death. The family benefit will be paid to such surviving member of the household of the deceased poor, who after local inquiry, is found to be the head of the household. The death of such a breadwinner should have occurred whilst he/ she is more than 18 years of age and less than 60 years of age.",
+        "details": "A family welfare scheme under the umbrella scheme ‘National Social Assistance Programme’ (NSAP) by MoRD. In this scheme, financial assistance is provided to the bereaved households in case of the death of the primary breadwinner irrespective of the cause of death. The family benefit will be paid to such surviving member of the household of the deceased poor, who after local inquiry, is found to be the head of the household. The death of such a breadwinner should have occurred whilst he/ she is more than 18 years of age and less than 60 years of age.",
         "benefits": [
-            "\u20b9 20000 will be given as a lump sum assistance to such surviving member of the household of the deceased poor, who after local inquiry, is found to be the head of the household.",
+            "₹ 20000 will be given as a lump sum assistance to such surviving member of the household of the deceased poor, who after local inquiry, is found to be the head of the household.",
             "The assistance would be given to every case of death of breadwinner in a family."
         ],
         "eligibility": [
@@ -42,11 +42,11 @@
             },
             {
                 "question": "What is the maximum amount of financial assistance that a household can receive through NFBS?",
-                "answer": "Under this scheme, a household will receive a one-time assistance of \u20b9 20000."
+                "answer": "Under this scheme, a household will receive a one-time assistance of ₹ 20000."
             },
             {
                 "question": "My mother passed away this month. She and my father were both earning members of the family. However, my mother earned more than my father. Will she be considered as the Primary Breadwinner of the family?",
-                "answer": "Yes, Your mother will be considered as the Primary Breadwinner. Irrespective of the gender, the Primary Breadwinner is the family member whose income constitutes a major share of the family\u2019s total earnings."
+                "answer": "Yes, Your mother will be considered as the Primary Breadwinner. Irrespective of the gender, the Primary Breadwinner is the family member whose income constitutes a major share of the family’s total earnings."
             },
             {
                 "question": "Will my uncles & aunts and their children will also be considered as part of the household?",
@@ -77,5 +77,6 @@
             "BPL",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001300"
 }

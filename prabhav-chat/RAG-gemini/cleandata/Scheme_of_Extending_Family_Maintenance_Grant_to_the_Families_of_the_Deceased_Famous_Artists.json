@@ -5,9 +5,9 @@
         "department": "Art and Culture Department",
         "type": "Grant",
         "beneficiary": "Families of deceased famous artists",
-        "details": "Scheme of Extending Family Maintenance Grant to the Families of the Deceased Famous Artists was launched by the Art and Culture Department, Government of Tamil Nadu. The objective of the scheme is to provide a one-time maintenance grant of \u20b925,000/- to the families of deceased famous artists of the art disciplines of music, drama, dance, film, and folk arts.",
+        "details": "Scheme of Extending Family Maintenance Grant to the Families of the Deceased Famous Artists was launched by the Art and Culture Department, Government of Tamil Nadu. The objective of the scheme is to provide a one-time maintenance grant of ₹25,000/- to the families of deceased famous artists of the art disciplines of music, drama, dance, film, and folk arts.",
         "benefits": [
-            "Financial Assistance of \u20b925,000/-"
+            "Financial Assistance of ₹25,000/-"
         ],
         "eligibility": [
             "The deceased should have been a famous artist in the art disciplines of music/ drama/ dance/ film/ folk arts.",
@@ -104,5 +104,6 @@
             "Family",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001716"
 }

@@ -5,10 +5,10 @@
         "department": "Ministry Of Science And Technology",
         "type": "Fellowship",
         "beneficiary": "Women scientists and technologists",
-        "details": "The 'WISE Fellowship for Ph.D. (WISE-PhD)' was started by the Department of Science and Technology under \u2018Women in Science and Engineering-KIRAN (WISE-KIRAN)\u2019 Scheme to provide an opportunity to carry out Doctoral research in basic and applied sciences to women scientists and technologists between the age group of 27-45 years who want to pursue research in STEM fields as a bench-level scientist.",
+        "details": "The 'WISE Fellowship for Ph.D. (WISE-PhD)' was started by the Department of Science and Technology under ‘Women in Science and Engineering-KIRAN (WISE-KIRAN)’ Scheme to provide an opportunity to carry out Doctoral research in basic and applied sciences to women scientists and technologists between the age group of 27-45 years who want to pursue research in STEM fields as a bench-level scientist.",
         "benefits": [
-            "The fellowship amount under this programme is \u20b937,000/- per month along with House Rent Allowances (HRA) as per norms.",
-            "This Programme also provides a Research Grant of \u20b91.00 lakh per year and Institutional overhead charges @\u20b9 0.50 lakh per year (as per DST norms)."
+            "The fellowship amount under this programme is ₹37,000/- per month along with House Rent Allowances (HRA) as per norms.",
+            "This Programme also provides a Research Grant of ₹1.00 lakh per year and Institutional overhead charges @₹ 0.50 lakh per year (as per DST norms)."
         ],
         "eligibility": [
             "Unemployed women who want to pursue a Ph.D. can apply for a fellowship under WISE-PhD.",
@@ -89,5 +89,6 @@
             "Research",
             "STEM"
         ]
-    }
+    },
+    "id": "002027"
 }

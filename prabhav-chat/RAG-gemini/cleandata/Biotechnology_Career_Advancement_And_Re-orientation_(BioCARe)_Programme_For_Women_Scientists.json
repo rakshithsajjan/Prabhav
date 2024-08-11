@@ -5,12 +5,12 @@
         "department": "Ministry Of Science And Technology",
         "type": "Grant",
         "beneficiary": "Women Scientists",
-        "details": "Biotechnology Career Advancement and Re-orientation (BioCARe) Programme, a special scheme of the Department of Biotechnology (DBT), Ministry of Science & Technology, the government of India aims to enhance the participation of women scientists in India towards research in Biotechnology and allied area. The program is mainly for the career development of unemployed female scientists for whom it will be the first \u201csanctioned\u201d extramural research funding. Through this endeavor of the Department, a concerted effort would be made to give women scientists a strong foothold into the scientific profession, to help them re-enter the mainstream, and to provide a launch pad for further forays into the field of science and technology.",
+        "details": "Biotechnology Career Advancement and Re-orientation (BioCARe) Programme, a special scheme of the Department of Biotechnology (DBT), Ministry of Science & Technology, the government of India aims to enhance the participation of women scientists in India towards research in Biotechnology and allied area. The program is mainly for the career development of unemployed female scientists for whom it will be the first “sanctioned” extramural research funding. Through this endeavor of the Department, a concerted effort would be made to give women scientists a strong foothold into the scientific profession, to help them re-enter the mainstream, and to provide a launch pad for further forays into the field of science and technology.",
         "benefits": [
-            "Research Grant up to \u20b9 60,00,000 for Ph.D. holders",
-            "Research Grant up to \u20b9 40,00,000 for M.Tech holders",
-            "Consolidated Fellowship of \u20b9 68,000/month for Ph.D. holders",
-            "Consolidated Fellowship of \u20b9 50,000/month for M.Tech holders"
+            "Research Grant up to ₹ 60,00,000 for Ph.D. holders",
+            "Research Grant up to ₹ 40,00,000 for M.Tech holders",
+            "Consolidated Fellowship of ₹ 68,000/month for Ph.D. holders",
+            "Consolidated Fellowship of ₹ 50,000/month for M.Tech holders"
         ],
         "eligibility": [
             "Women scientists should be up to/below 55 years of age as of the last date of application submission.",
@@ -79,5 +79,6 @@
             "Research Grant",
             "Career Development"
         ]
-    }
+    },
+    "id": "000216"
 }

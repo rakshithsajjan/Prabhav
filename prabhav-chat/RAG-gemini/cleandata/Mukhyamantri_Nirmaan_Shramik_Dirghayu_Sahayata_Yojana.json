@@ -7,10 +7,10 @@
         "beneficiary": "Building and other construction workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Mukhyamantri Nirmaan Shramik Dirghayu Sahayata Yojana' for Building and other construction worker on 11 January 2012. The main objective of the scheme to provides financial assistance medical treatment and medical equipment.",
         "benefits": [
-            "Accidental medical treatment: Registered workers will be eligible for a one-time payment of up to \u20b920,000/- for medical treatment due to an accident.",
-            "Additionally, they will be eligible for \u20b91,000/- for a vision aid (glasses), \u20b95,000/- for artificial teeth, and \u20b96,000/- for a hearing aid.",
+            "Accidental medical treatment: Registered workers will be eligible for a one-time payment of up to ₹20,000/- for medical treatment due to an accident.",
+            "Additionally, they will be eligible for ₹1,000/- for a vision aid (glasses), ₹5,000/- for artificial teeth, and ₹6,000/- for a hearing aid.",
             "If a worker is hospitalized for more than 15 days, they will be eligible for reimbursement of wages for 15 days at the rate of the minimum wage declared for that period.",
-            "Serious illness: Registered workers who have been registered for at least three years will be eligible for a one-time payment of up to \u20b920,000/- if they suffer from a serious illness."
+            "Serious illness: Registered workers who have been registered for at least three years will be eligible for a one-time payment of up to ₹20,000/- if they suffer from a serious illness."
         ],
         "eligibility": [
             "Applicant must be registered with labor board.",
@@ -39,19 +39,19 @@
             },
             {
                 "question": "How much financial assistance will be provided due to an accident?",
-                "answer": "Registered workers will be eligible for a one-time payment of up to \u20b920,000 for medical treatment due to an accident."
+                "answer": "Registered workers will be eligible for a one-time payment of up to ₹20,000 for medical treatment due to an accident."
             },
             {
                 "question": "How much financial assistance will be provided for the glasses?",
-                "answer": "Amount: \u20b91,000/-"
+                "answer": "Amount: ₹1,000/-"
             },
             {
                 "question": "How much financial assistance will be provided for the artificial teeth?",
-                "answer": "Amount: \u20b95,000/-"
+                "answer": "Amount: ₹5,000/-"
             },
             {
                 "question": "How much financial assistance will be provided for the hearing aid?",
-                "answer": "Amount: \u20b96,000/-"
+                "answer": "Amount: ₹6,000/-"
             },
             {
                 "question": "What is the procedure to apply for the scheme?",
@@ -81,5 +81,6 @@
             "Health",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001218"
 }

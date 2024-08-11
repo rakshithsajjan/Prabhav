@@ -5,19 +5,19 @@
         "department": "Transport Department",
         "type": "Subsidy",
         "beneficiary": "Unemployed Youth",
-        "details": "The scheme \u201cGatidhara Scheme\u201d was launched by the Transport Department, Government of West Bengal in August 2014 for employment of registered unemployed youth of the State in the transport sector. The Gatidhara scheme was outlined by the Finance Minister in the budget in February. Families with a monthly income of \u20b925000/- or less would qualify for financial support under the scheme. The transport department will interview applicants and draw up a list of eligible candidates. The labor department would provide the money, but the scheme would be implemented by the transport department. The objective of the scheme is to generate self-employment in the Urban and Rural areas of the state through the promotion of transport services.",
+        "details": "The scheme “Gatidhara Scheme” was launched by the Transport Department, Government of West Bengal in August 2014 for employment of registered unemployed youth of the State in the transport sector. The Gatidhara scheme was outlined by the Finance Minister in the budget in February. Families with a monthly income of ₹25000/- or less would qualify for financial support under the scheme. The transport department will interview applicants and draw up a list of eligible candidates. The labor department would provide the money, but the scheme would be implemented by the transport department. The objective of the scheme is to generate self-employment in the Urban and Rural areas of the state through the promotion of transport services.",
         "benefits": [
-            "Under the scheme, the subsidy @ 30% of the ex-showroom price of the vehicle subject to a maximum of \u20b91,00,000/- will be provided to the beneficiary for purchasing any commercial vehicle."
+            "Under the scheme, the subsidy @ 30% of the ex-showroom price of the vehicle subject to a maximum of ₹1,00,000/- will be provided to the beneficiary for purchasing any commercial vehicle."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of West Bengal.",
             "The applicant should be enrolled in the Employment Bank of Labour Department, GOWB.",
             "The age of the applicant should be between 25 years to 45 years (Relaxation 5 years for SC/ST & 3 years for OBC).",
-            "The family income of the applicant should be less than \u20b925000/- per month.",
+            "The family income of the applicant should be less than ₹25000/- per month.",
             "More than one member of the same family is not eligible."
         ],
         "exclusions": [],
-        "application_process": "Offline. Registration Process in Employment Bank: Step 01: The applicant should be registered in the Employment Bank of the Labour Department. Step 02: For registration, the applicants need to visit the official website of the Employment Bank: https://employmentbankwb.gov.in/index.php. Step 03: Click on \u201cNew Enrolment Job Seeker\u201d & accept the terms & conditions and then continue. Step 04: Fill in all the mandatory details and click on the \u2018submit\u2019 button. Application Process: Step 01: Applicant should get his application with all requisite documents processed by the dealer of his choice. Step 02: Select a financier for the loan required for purchasing the vehicle. Step 03: The vehicle is to be registered within one month of receipt of the offer letter for permit and subsidy under the scheme. Note: Vehicle dealers are authorized facilitators for the \u201cGatidhara Scheme\u201d.",
+        "application_process": "Offline. Registration Process in Employment Bank: Step 01: The applicant should be registered in the Employment Bank of the Labour Department. Step 02: For registration, the applicants need to visit the official website of the Employment Bank: https://employmentbankwb.gov.in/index.php. Step 03: Click on “New Enrolment Job Seeker” & accept the terms & conditions and then continue. Step 04: Fill in all the mandatory details and click on the ‘submit’ button. Application Process: Step 01: Applicant should get his application with all requisite documents processed by the dealer of his choice. Step 02: Select a financier for the loan required for purchasing the vehicle. Step 03: The vehicle is to be registered within one month of receipt of the offer letter for permit and subsidy under the scheme. Note: Vehicle dealers are authorized facilitators for the “Gatidhara Scheme”.",
         "documents_required": [
             "Family Income Certificate",
             "Proof of enrollment in Employment Bank",
@@ -30,8 +30,8 @@
         ],
         "faqs": [
             {
-                "question": "What is \u201cGatidhara Scheme\u201d?",
-                "answer": "The \u201cGatidhara Scheme\u201d is a scheme of the Government of West Bengal administered by the Transport Department for employment of registered unemployed youth of the State in the transport sector."
+                "question": "What is “Gatidhara Scheme”?",
+                "answer": "The “Gatidhara Scheme” is a scheme of the Government of West Bengal administered by the Transport Department for employment of registered unemployed youth of the State in the transport sector."
             },
             {
                 "question": "What is the objective of the scheme?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What is the rate of subsidy?",
-                "answer": "The rate of subsidy is 30% of the ex-showroom price of the vehicle subject to a maximum of \u20b91 lakh."
+                "answer": "The rate of subsidy is 30% of the ex-showroom price of the vehicle subject to a maximum of ₹1 lakh."
             },
             {
                 "question": "What is the age criterion to apply under the scheme?",
@@ -63,7 +63,7 @@
             },
             {
                 "question": "What should be the family income?",
-                "answer": "The family income should not be more than \u20b925,000/- per month."
+                "answer": "The family income should not be more than ₹25,000/- per month."
             },
             {
                 "question": "How many members of a family will be eligible for a subsidy?",
@@ -74,8 +74,8 @@
                 "answer": "Yes, the enrolment in Employment Bank of Labour Department is mandatory."
             },
             {
-                "question": "Are vehicle dealers authorized facilitators for the \u201cGatidhara Scheme\u201d?",
-                "answer": "Yes, vehicle dealers are authorized facilitators for the \u201cGatidhara Scheme.\u201d"
+                "question": "Are vehicle dealers authorized facilitators for the “Gatidhara Scheme”?",
+                "answer": "Yes, vehicle dealers are authorized facilitators for the “Gatidhara Scheme.”"
             },
             {
                 "question": "Is this scheme only for a resident of West Bengal?",
@@ -103,5 +103,6 @@
             "Unemployed",
             "Youth"
         ]
-    }
+    },
+    "id": "000671"
 }

@@ -1,11 +1,11 @@
 {
     "content": {
-        "title": "AICTE \u2013 Mitacs Globalink Research Internship (GRI) Scheme",
+        "title": "AICTE – Mitacs Globalink Research Internship (GRI) Scheme",
         "state": "India",
         "department": "Ministry of Education",
         "type": "Internship",
         "beneficiary": "Students in STEM disciplines",
-        "details": "AICTE, on 23rd February 2018, entered into a Memorandum of Understanding with Mathematics of Information Technology and Computer Systems (MITACS) Canada for AICTE \u2013 MITACS Globalink Research Internships (GRI) Program to foster cross-border partnerships focused on creating a platform that opens the path for collaborative research between Canada and India to a wider pool of student talent in India. The AICTE-MITACS GRI Program is open to Science, Technology, Engineering, and Mathematics (STEM) disciplines. The duration of the internship is 12 weeks. A maximum of 300 students are accepted in a financial year. The student fulfilling the eligibility criteria shall apply directly to MITACS Canada via its portal. The total cost of the program is $12,000 CAD per student. MITACS will contribute $9,000 CAD per student. AICTE will contribute $3,000 CAD per student. The full cost per student includes airfare, visa, medical, stipend, accommodation, Globalink Student Mentors, programming, and research costs. It will also include access to Globalink branded activities in Canada, which may include professional skills workshops, receptions, and industrial engagement activities.",
+        "details": "AICTE, on 23rd February 2018, entered into a Memorandum of Understanding with Mathematics of Information Technology and Computer Systems (MITACS) Canada for AICTE – MITACS Globalink Research Internships (GRI) Program to foster cross-border partnerships focused on creating a platform that opens the path for collaborative research between Canada and India to a wider pool of student talent in India. The AICTE-MITACS GRI Program is open to Science, Technology, Engineering, and Mathematics (STEM) disciplines. The duration of the internship is 12 weeks. A maximum of 300 students are accepted in a financial year. The student fulfilling the eligibility criteria shall apply directly to MITACS Canada via its portal. The total cost of the program is $12,000 CAD per student. MITACS will contribute $9,000 CAD per student. AICTE will contribute $3,000 CAD per student. The full cost per student includes airfare, visa, medical, stipend, accommodation, Globalink Student Mentors, programming, and research costs. It will also include access to Globalink branded activities in Canada, which may include professional skills workshops, receptions, and industrial engagement activities.",
         "benefits": [
             "The total cost of the program is $12,000 CAD per student.",
             "MITACS will contribute $9,000 CAD per student.",
@@ -31,7 +31,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the duration of the AICTE \u2013 MITACS GLOBALINK RESEARCH INTERNSHIP?",
+                "question": "What is the duration of the AICTE – MITACS GLOBALINK RESEARCH INTERNSHIP?",
                 "answer": "The duration of the internship is 12 weeks."
             },
             {
@@ -69,5 +69,6 @@
             "AICTE",
             "MITACS"
         ]
-    }
+    },
+    "id": "000031"
 }

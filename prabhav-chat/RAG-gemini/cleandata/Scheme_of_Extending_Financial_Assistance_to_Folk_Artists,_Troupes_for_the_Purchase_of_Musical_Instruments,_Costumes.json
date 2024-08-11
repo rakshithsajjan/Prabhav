@@ -5,10 +5,10 @@
         "department": "Art and Culture Department",
         "type": "Grant",
         "beneficiary": "Folk Artists and Cultural Troupes",
-        "details": "Scheme of Extending Financial Assistance to Folk Artists, Troupes for the Purchase of Musical Instruments, Costumes was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme provides a sum of \u20b92,000/- to individual folk artists & \u20b96,000/- for cultural troupes, as a grant for the purchase of Musical Instruments and Costumes.",
+        "details": "Scheme of Extending Financial Assistance to Folk Artists, Troupes for the Purchase of Musical Instruments, Costumes was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme provides a sum of ₹2,000/- to individual folk artists & ₹6,000/- for cultural troupes, as a grant for the purchase of Musical Instruments and Costumes.",
         "benefits": [
-            "For Folk Artists, financial Assistance of \u20b92,000/-",
-            "For Troupes, financial Assistance of \u20b96,000/-"
+            "For Folk Artists, financial Assistance of ₹2,000/-",
+            "For Troupes, financial Assistance of ₹6,000/-"
         ],
         "eligibility": [
             "The applicant should be a Folk Artist/Troupe.",
@@ -56,11 +56,11 @@
             },
             {
                 "question": "What is the financial assistance provided under this scheme for cultural troupes?",
-                "answer": "Cultural troupes receive a financial assistance of \u20b96,000/- for the purchase of musical instruments and costumes."
+                "answer": "Cultural troupes receive a financial assistance of ₹6,000/- for the purchase of musical instruments and costumes."
             },
             {
                 "question": "What is the financial assistance provided under this scheme for individual folk artists?",
-                "answer": "Individual folk artists receive a financial assistance of \u20b92,000/- for the purchase of musical instruments and costumes."
+                "answer": "Individual folk artists receive a financial assistance of ₹2,000/- for the purchase of musical instruments and costumes."
             },
             {
                 "question": "Where should the completed application form and documents be submitted?",
@@ -95,5 +95,6 @@
             "Financial Assistance",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001717"
 }

@@ -40,7 +40,7 @@
         "faqs": [
             {
                 "question": "Instalment time of NSMNY scheme?",
-                "answer": "April \u2013 July, August \u2013 November and December \u2013 March"
+                "answer": "April – July, August – November and December – March"
             },
             {
                 "question": "Amount benefited in NSMNY scheme?",
@@ -76,11 +76,11 @@
             },
             {
                 "question": "I am not able to register the farmer on the portal. It says Aadhar No. is already registered. How do I proceed?",
-                "answer": "It might happen that the farmer has already registered himself on the PM-KISAN portal via self-registration mode. In such cases, you may check if the farmer has self-registered under the 'Status of Self- Registration/CSC Farmers' on the home page of PM-KISAN Portal in the Farmer\u2019s Corner section."
+                "answer": "It might happen that the farmer has already registered himself on the PM-KISAN portal via self-registration mode. In such cases, you may check if the farmer has self-registered under the 'Status of Self- Registration/CSC Farmers' on the home page of PM-KISAN Portal in the Farmer’s Corner section."
             },
             {
                 "question": "A farmer has been wrongly rejected due to some errors in the application. I am not able to register the farmer via direct data entry on PM-KISAN portal. How do I proceed?",
-                "answer": "In such cases, the farmer must edit/update/re-submit his application via 'Updation of Self-Registration' window in the Farmer\u2019s Corner on the PM-KISAN Portal. If farmer is registered through CSC, farmer has to contact nearby CSC centre for updation. Once re-submitted/edited, the farmer application will again be sent to the State for approval/validation."
+                "answer": "In such cases, the farmer must edit/update/re-submit his application via 'Updation of Self-Registration' window in the Farmer’s Corner on the PM-KISAN Portal. If farmer is registered through CSC, farmer has to contact nearby CSC centre for updation. Once re-submitted/edited, the farmer application will again be sent to the State for approval/validation."
             },
             {
                 "question": "A farmer has wrongly entered some details during self-registration via CSC. When the farmer tries to edit the application, the record is not available. How to proceed?",
@@ -103,5 +103,6 @@
             "PM KISAN",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "001264"
 }

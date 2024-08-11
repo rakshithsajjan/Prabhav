@@ -5,7 +5,7 @@
         "department": "Ministry of Fisheries, Animal Husbandry and Dairying",
         "type": "Centrally Sponsored Scheme",
         "beneficiary": "Bona fide farmers or livestock owners",
-        "details": "To implement Critical Animal disease control programme to eradicate PPR by 2030 by vaccinating all sheep and goats and to control Classical Swine Fever (CSF) by vaccinating the entire pig population. The scheme provides veterinary services at the farmers\u2019 doorstep through Mobile Veterinary Units (MVUs) and assists States/UTs for Control of Animal Disease (ASCAD) by prevention & control of important livestock and poultry diseases prevalent in different States / UTs as per the State /UT\u2019s priorities.",
+        "details": "To implement Critical Animal disease control programme to eradicate PPR by 2030 by vaccinating all sheep and goats and to control Classical Swine Fever (CSF) by vaccinating the entire pig population. The scheme provides veterinary services at the farmers’ doorstep through Mobile Veterinary Units (MVUs) and assists States/UTs for Control of Animal Disease (ASCAD) by prevention & control of important livestock and poultry diseases prevalent in different States / UTs as per the State /UT’s priorities.",
         "benefits": [
             "Improved animal health and productivity",
             "Reduced economic losses",
@@ -58,5 +58,6 @@
             "Animal Husbandry",
             "Livestock Diseases"
         ]
-    }
+    },
+    "id": "001028"
 }

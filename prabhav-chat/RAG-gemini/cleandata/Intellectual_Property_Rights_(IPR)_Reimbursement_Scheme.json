@@ -7,7 +7,7 @@
         "beneficiary": "Startups",
         "details": "The scheme 'Intellectual Property Rights (IPR) Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The objective of the policy is to make Goa an aspirational geographical and human resource base for startups. The objective is to invite the best entrepreneurial minds and build a robust start-up ecosystem in the State. The policy contains various incentives for Start-ups and to avail the benefits of these incentives, the government has proposed many schemes under the policy.",
         "benefits": [
-            "For start-ups registering national and international IP, the Start-up Promotion Cell will reimburse up to 50% of the cost incurred by the start-up in fees and all other costs associated with IP application, if the IP is registered successfully, subject to a cap of \u20b9 2,00,000 for national IP and \u20b9 5,00,000 for international IP.",
+            "For start-ups registering national and international IP, the Start-up Promotion Cell will reimburse up to 50% of the cost incurred by the start-up in fees and all other costs associated with IP application, if the IP is registered successfully, subject to a cap of ₹ 2,00,000 for national IP and ₹ 5,00,000 for international IP.",
             "This benefit can be availed by a maximum of 200 startups each year.",
             "Once the application is approved by the SPC, the approved amount shall be disbursed within 60 days from the date of approval."
         ],
@@ -66,5 +66,6 @@
             "Reimbursement",
             "Startup"
         ]
-    }
+    },
+    "id": "000878"
 }

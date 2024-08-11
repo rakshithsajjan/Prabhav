@@ -5,17 +5,17 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Scholarship",
         "beneficiary": "Scheduled Caste Students",
-        "details": "A scholarship scheme by Ministry of Social Justice & Empowerment for regular, full-time students from Scheduled Castes studying in Class 9th and 10th in a Govt. School / a School recognized by Govt. / CBSE / State Board of Secondary Education. The Total Annual income of parents/guardians of the applicant (from all sources) must not exceed \u20b9 2.50 Lakh per Annum. The scholarship for studying in any class will be available for only one year. The scholarship will be available for studying in India only. The scholarship will be awarded by the govt. of the state/UT to which the applicant belongs (domiciled). ALL eligible Scheduled Caste candidates will be given scholarships as prescribed in this Scheme.",
+        "details": "A scholarship scheme by Ministry of Social Justice & Empowerment for regular, full-time students from Scheduled Castes studying in Class 9th and 10th in a Govt. School / a School recognized by Govt. / CBSE / State Board of Secondary Education. The Total Annual income of parents/guardians of the applicant (from all sources) must not exceed ₹ 2.50 Lakh per Annum. The scholarship for studying in any class will be available for only one year. The scholarship will be available for studying in India only. The scholarship will be awarded by the govt. of the state/UT to which the applicant belongs (domiciled). ALL eligible Scheduled Caste candidates will be given scholarships as prescribed in this Scheme.",
         "benefits": [
-            "Scholarship (\u20b9 per month) (for 10 months in an academic year): \u20b9 225 for Day Scholars, \u20b9 525 for Hostellers.",
-            "Books and Ad hoc Grant (\u20b9 per annum): \u20b9 750 for Day Scholars, \u20b9 1000 for Hostellers.",
-            "Additional Monthly Allowances for Person with Disability (PwD) studying in private unaided Schools: Reader Allowance (for Blind students) \u2013 \u20b9 160, Transport Allowance \u2013 \u20b9 160, Escort Allowance \u2013 \u20b9 160, Helper Allowance \u2013 \u20b9 160, Coaching Allowance to Mentally Retarded and Mentally ill Students \u2013 \u20b9 240."
+            "Scholarship (₹ per month) (for 10 months in an academic year): ₹ 225 for Day Scholars, ₹ 525 for Hostellers.",
+            "Books and Ad hoc Grant (₹ per annum): ₹ 750 for Day Scholars, ₹ 1000 for Hostellers.",
+            "Additional Monthly Allowances for Person with Disability (PwD) studying in private unaided Schools: Reader Allowance (for Blind students) – ₹ 160, Transport Allowance – ₹ 160, Escort Allowance – ₹ 160, Helper Allowance – ₹ 160, Coaching Allowance to Mentally Retarded and Mentally ill Students – ₹ 240."
         ],
         "eligibility": [
             "The applicant must be a student.",
             "The applicant must be studying in Class 9th or Class 10th.",
             "The applicant must be from Scheduled Caste.",
-            "The Total Income of parents/guardian of the applicant must be less than or equal to \u20b9 2.5 lakh per annum."
+            "The Total Income of parents/guardian of the applicant must be less than or equal to ₹ 2.5 lakh per annum."
         ],
         "exclusions": [
             "If a student has to repeat a class, she / he would not get scholarship for that class for a second (or subsequent) year.",
@@ -88,5 +88,6 @@
             "Social Welfare",
             "Student"
         ]
-    }
+    },
+    "id": "000259"
 }

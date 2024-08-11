@@ -5,14 +5,14 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Workers and their sons",
-        "details": "The scheme 'Financial Assistance as Shagun in Marriage of Man Workers or Son of Workers' was started by the Haryana Labour Welfare Board (HLWB) on 15.01.2019. Under this scheme, financial assistance of \u20b921,000/- will be provided as Shagun for the marriage of workers' sons and unmarried male workers themselves. The benefit of the scheme will help reduce the financial pressure on workers during their own marriage or their son's marriage.",
+        "details": "The scheme 'Financial Assistance as Shagun in Marriage of Man Workers or Son of Workers' was started by the Haryana Labour Welfare Board (HLWB) on 15.01.2019. Under this scheme, financial assistance of ₹21,000/- will be provided as Shagun for the marriage of workers' sons and unmarried male workers themselves. The benefit of the scheme will help reduce the financial pressure on workers during their own marriage or their son's marriage.",
         "benefits": [
-            "Financial assistance of \u20b921,000/- for the marriage of workers' sons and unmarried male workers."
+            "Financial assistance of ₹21,000/- for the marriage of workers' sons and unmarried male workers."
         ],
         "eligibility": [
             "The applicant should be employed in an industrial or commercial establishment in Haryana.",
             "The applicant should be registered with the Haryana Labour Welfare Board.",
-            "The monthly salary of the applicant should not exceed \u20b925,000/-.",
+            "The monthly salary of the applicant should not exceed ₹25,000/-.",
             "The applicant must have a minimum of three years of regular membership of the Board till the marriage date.",
             "The applicant should apply within six months after the marriage date.",
             "The benefits are provided to workers for the marriage of up to two sons and for the self-marriage of male workers."
@@ -43,15 +43,15 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "The scheme provides financial assistance of \u20b921,000/-."
+                "answer": "The scheme provides financial assistance of ₹21,000/-."
             },
             {
                 "question": "Who is eligible for the scheme?",
-                "answer": "To be eligible, the applicant must be employed in an industrial or commercial establishment in Haryana, registered with the HLWB, have a monthly salary not exceeding \u20b925,000/-, and have at least three years of regular membership with the Board until the marriage date."
+                "answer": "To be eligible, the applicant must be employed in an industrial or commercial establishment in Haryana, registered with the HLWB, have a monthly salary not exceeding ₹25,000/-, and have at least three years of regular membership with the Board until the marriage date."
             },
             {
                 "question": "What is the maximum salary limit for eligibility under this scheme?",
-                "answer": "The applicant\u2019s monthly salary should not exceed \u20b925,000/-."
+                "answer": "The applicant’s monthly salary should not exceed ₹25,000/-."
             },
             {
                 "question": "How long must an applicant be a member of the Board to qualify?",
@@ -106,5 +106,6 @@
             "Shagun",
             "Worker"
         ]
-    }
+    },
+    "id": "000554"
 }

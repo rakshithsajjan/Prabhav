@@ -7,7 +7,7 @@
         "beneficiary": "Micro, Small and Medium Enterprises",
         "details": "The scheme 'State Capital Investment Subsidy' is a sub-scheme under the 'Banglashree for Micro, Small and Medium Enterprises' scheme. It was launched on 1st April 2020 and shall remain in force till 31st March 2025. The objective is to extend fiscal incentives to encourage entrepreneurs to set up MSMEs and create a sustainable ecosystem in the MSME sector.",
         "benefits": [
-            "Reimbursement of 50% of expenditure incurred towards the cost of captive Effluent Water Treatment Plant for wastewater recycling and/or other pollution control devices, subject to a maximum of \u20b9 2,00,000/-."
+            "Reimbursement of 50% of expenditure incurred towards the cost of captive Effluent Water Treatment Plant for wastewater recycling and/or other pollution control devices, subject to a maximum of ₹ 2,00,000/-."
         ],
         "eligibility": [
             "The business/organization should be a Micro/ Small/ Medium Enterprise.",
@@ -124,5 +124,6 @@
             "Water Conservation",
             "WCS"
         ]
-    }
+    },
+    "id": "000176"
 }

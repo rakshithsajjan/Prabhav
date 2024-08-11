@@ -5,9 +5,9 @@
         "department": "Department of Labour and Employment",
         "type": "Welfare Scheme",
         "beneficiary": "Registered Workers of the Goa Building and Other Construction Workers Welfare Board",
-        "details": "\"Maternity Benefit (GBOCWWB)\" is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the worker registered with the Board is provided with financial assistance of \u20b92,000/- as maternity benefit for upto two pregnancies. The applications are accepted offline.",
+        "details": "\"Maternity Benefit (GBOCWWB)\" is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the worker registered with the Board is provided with financial assistance of ₹2,000/- as maternity benefit for upto two pregnancies. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/-"
+            "Financial Assistance of ₹2,000/-"
         ],
         "eligibility": [
             "The applicant should be a Worker.",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             },
             {
                 "question": "What are the consequences of non-compliance with the registration requirements under the Building and Other Construction Workers Act?",
@@ -100,5 +100,6 @@
             "Pregnant",
             "Worker"
         ]
-    }
+    },
+    "id": "001106"
 }

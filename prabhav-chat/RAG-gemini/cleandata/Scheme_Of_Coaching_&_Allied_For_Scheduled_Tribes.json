@@ -14,7 +14,7 @@
             "Should be a resident of Jharkhand.",
             "Should belong to Scheduled Tribe (ST) category.",
             "Should have the eligible qualifications for the mentioned competitive exams.",
-            "The income ceiling of candidates should not exceed \u20b9 2,50,000/- per annum."
+            "The income ceiling of candidates should not exceed ₹ 2,50,000/- per annum."
         ],
         "exclusions": [],
         "application_process": "Offline",
@@ -22,7 +22,7 @@
             "Application Form (Refer Form I)",
             "Budget estimates",
             "Audited accounts for last three years",
-            "Results of last three years (with grading) vis-\u00e0-vis intake",
+            "Results of last three years (with grading) vis-à-vis intake",
             "Details of Faculty and their academic/professional qualification",
             "Details of SC Beneficiaries",
             "Confirmation by concerned Deputy Commissioner regarding genuineness of institution",
@@ -44,15 +44,15 @@
             },
             {
                 "question": "Who will be covered under this scheme?",
-                "answer": "Registered Private Coaching Institutions/ NGO\u2019s running their centre in the State of Jharkhand shall be covered under the scheme."
+                "answer": "Registered Private Coaching Institutions/ NGO’s running their centre in the State of Jharkhand shall be covered under the scheme."
             },
             {
                 "question": "Where the programs need to be conducted?",
-                "answer": "Coaching Institutions/NGO\u2019s selected under the scheme have to conduct the coaching program at Ranchi and Dumka."
+                "answer": "Coaching Institutions/NGO’s selected under the scheme have to conduct the coaching program at Ranchi and Dumka."
             },
             {
                 "question": "Is there any income criteria for the ST candidates?",
-                "answer": "The income ceiling of candidates under the scheme will be \u20b9 2,50,000/- per annum."
+                "answer": "The income ceiling of candidates under the scheme will be ₹ 2,50,000/- per annum."
             }
         ],
         "sources": [
@@ -68,5 +68,6 @@
             "Social Welfare",
             "Stipend"
         ]
-    }
+    },
+    "id": "001676"
 }

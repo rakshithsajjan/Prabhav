@@ -7,7 +7,7 @@
         "beneficiary": "Members of Scheduled Castes and Vimukat Jatis",
         "details": "The scheme 'Legal Aid to Scheduled Castes and Vimukat Jatis Scheme' was launched by the Department of Welfare of Schedule Castes and Backward Classes, Haryana on 13th February 1961. The scheme is a 50:50 sharing basis scheme of the Government of India/State Government. Under the scheme, this department provides Legal Aid to the member of Scheduled Caste and Vimukat Jatis for defending and instituting various cases.",
         "benefits": [
-            "An amount of \u20b922000/- is paid to the member of Scheduled Castes & Vimukat Jatis for defending his/her cases relating to the Land, Rent, etc. pending in the court."
+            "An amount of ₹22000/- is paid to the member of Scheduled Castes & Vimukat Jatis for defending his/her cases relating to the Land, Rent, etc. pending in the court."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana State.",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "An amount of \u20b922000/- is paid to the member of Scheduled Castes & Vimukat Jatis for defending his/her cases relating to the Land, Rent, etc. pending in the court."
+                "answer": "An amount of ₹22000/- is paid to the member of Scheduled Castes & Vimukat Jatis for defending his/her cases relating to the Land, Rent, etc. pending in the court."
             },
             {
                 "question": "Is this scheme state sponsored scheme?",
@@ -86,5 +86,6 @@
             "Vimukat Jatis",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001025"
 }

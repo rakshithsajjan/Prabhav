@@ -7,8 +7,8 @@
         "beneficiary": "Women",
         "details": "The Protection of Women from Domestic Violence Act of 2005 stands as a significant legal framework designed to safeguard women from various forms of abuse within the confines of their homes. This pivotal legislation extends the right to protection and assistance to women facing domestic violence, encompassing a spectrum of abuses ranging from physical and sexual violence to verbal, emotional, and economic coercion. Its comprehensive scope acknowledges the multifaceted nature of domestic abuse, recognizing that victims may suffer various forms of harm beyond physical injury. Notably, the Act includes provisions for compensation aimed at aiding women and girls who endure physical harm resulting from domestic violence. This provision underscores the state's commitment to not only preventing further harm but also providing support and redressal for victims who have endured the trauma of abuse within their intimate relationships or households. By addressing the holistic needs of survivors, including financial assistance for physical injuries sustained, the Act embodies a proactive approach toward combating domestic violence, emphasizing the importance of empowering victims and holding perpetrators accountable for their actions.",
         "benefits": [
-            "If the disabilities of less than 40% resulting from damage to any part of the body, compensation of up to \u20b92,00,000/- will be provided.",
-            "If the disability exceeds 40% due to damage to any part of the body, the compensation increases to a maximum of \u20b94,00,000/-."
+            "If the disabilities of less than 40% resulting from damage to any part of the body, compensation of up to ₹2,00,000/- will be provided.",
+            "If the disability exceeds 40% due to damage to any part of the body, the compensation increases to a maximum of ₹4,00,000/-."
         ],
         "eligibility": [
             "The applicant must be permanent resident of Madhya Pradesh.",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "How much financial benefits are provided if disabilities is less than 40%?",
-                "answer": "If the disability less than 40% resulting from damage to any part of the body, compensation of up to \u20b92,00,000/- will be provided."
+                "answer": "If the disability less than 40% resulting from damage to any part of the body, compensation of up to ₹2,00,000/- will be provided."
             },
             {
                 "question": "How much financial benefits are provided if disabilities is more than 40%?",
-                "answer": "If the disability exceeds 40% due to damage to any part of the body, the compensation increases to a maximum of \u20b94,00,000/-."
+                "answer": "If the disability exceeds 40% due to damage to any part of the body, the compensation increases to a maximum of ₹4,00,000/-."
             },
             {
                 "question": "May other state women/girl get the scheme benefits?",
@@ -68,5 +68,6 @@
             "Financial Support",
             "Empowerment"
         ]
-    }
+    },
+    "id": "000678"
 }

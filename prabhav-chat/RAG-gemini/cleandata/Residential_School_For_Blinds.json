@@ -8,7 +8,7 @@
         "details": "The 'Residential School for Blinds' have been established by the Social Welfare Department, Govt. of Jammu and Kashmir for the protection, welfare, and education of the Blind. The school is located at Roop Nagar, near Fire Brigade Office, Muthi, Jammu, 180013. The intake capacity of the school is 50 inmates. The beneficiary shall approach the concerned District Social Welfare Officer (DSWO) for submission of the application. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Jammu & Kashmir can apply for this scheme.",
         "benefits": [
             "The inmates are provided with free education, overall development, and vocational training for which they are found fit.",
-            "The inmates are provided with clothing, free boarding and lodging, and pocket money @ \u20b9 500/- per inmate per month.",
+            "The inmates are provided with clothing, free boarding and lodging, and pocket money @ ₹ 500/- per inmate per month.",
             "The inmates are given lessons in music.",
             "The inmates are retained in the institution till graduation or till attaining 25 years of age, whichever is earlier."
         ],
@@ -56,7 +56,7 @@
             },
             {
                 "question": "How Much Monthly Pocket Money Is Provided To The Inmates?",
-                "answer": "The inmates are provided with pocket money @ \u20b9 500/- per month."
+                "answer": "The inmates are provided with pocket money @ ₹ 500/- per month."
             },
             {
                 "question": "Till What Duration Are The Inmates Retained In The Institution?",
@@ -136,5 +136,6 @@
             "School",
             "Shelter"
         ]
-    }
+    },
+    "id": "001600"
 }

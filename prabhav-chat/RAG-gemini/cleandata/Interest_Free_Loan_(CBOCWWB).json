@@ -7,12 +7,12 @@
         "beneficiary": "Construction Worker",
         "details": "The scheme 'Interest Free Loan' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, interest free loan shall be granted to the registered construction workers of the Board for the purchase of items like Fridge, Television/ LCD, Motor Cycle/Scooter, Cooler, Fan & Bicycle.",
         "benefits": [
-            "Interest Free Loan for the purchase of motorcycle/scooter (\u20b925000/- for 20 equal installments)",
-            "Interest Free Loan for the purchase of Fridge (\u20b915000/- for 15 equal installments)",
-            "Interest Free Loan for the purchase of television/LCD (\u20b915000/- for 15 equal installments)",
-            "Interest Free Loan for the purchase of cooler (\u20b97500/- for 10 equal installments)",
-            "Interest Free Loan for the purchase of Fan (\u20b92500/- for 10 equal installments)",
-            "Interest Free Loan for the purchase of bicycle (\u20b94000/- for 10 equal installments)"
+            "Interest Free Loan for the purchase of motorcycle/scooter (₹25000/- for 20 equal installments)",
+            "Interest Free Loan for the purchase of Fridge (₹15000/- for 15 equal installments)",
+            "Interest Free Loan for the purchase of television/LCD (₹15000/- for 15 equal installments)",
+            "Interest Free Loan for the purchase of cooler (₹7500/- for 10 equal installments)",
+            "Interest Free Loan for the purchase of Fan (₹2500/- for 10 equal installments)",
+            "Interest Free Loan for the purchase of bicycle (₹4000/- for 10 equal installments)"
         ],
         "eligibility": [
             "The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contribution towards labour welfare fund should regularly been received by the Board.",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "How to apply under the scheme?",
-                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme \u2018INTEREST FREE LOAN\u2019 under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme ‘INTEREST FREE LOAN’ under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
             }
         ],
         "sources": [
@@ -97,5 +97,6 @@
             "Labour",
             "Construction Workers"
         ]
-    }
+    },
+    "id": "000881"
 }

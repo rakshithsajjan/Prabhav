@@ -5,13 +5,13 @@
         "department": "Social Welfare",
         "type": "Clothes",
         "beneficiary": "PwD",
-        "details": "The scheme \u201cSupply of Sarees and Dhoties to Differently Abled Persons\u201d is launched by the Department of Social Welfare, Government of Puducherry. In this scheme, free dhothies and sarees or equivalent Direct Benefit Transfer are provided to the differently abled persons who are benefited under the monthly financial assistance schemes in lieu of Diwali / Pongal / local regional festivals.",
+        "details": "The scheme “Supply of Sarees and Dhoties to Differently Abled Persons” is launched by the Department of Social Welfare, Government of Puducherry. In this scheme, free dhothies and sarees or equivalent Direct Benefit Transfer are provided to the differently abled persons who are benefited under the monthly financial assistance schemes in lieu of Diwali / Pongal / local regional festivals.",
         "benefits": [
             "Free Dhothies and Sarees or Equivalent Direct Benefit Transfer during Diwali / Pongal / local regional festivals."
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The annual income of the applicant should not exceed \u20b9 75,000/- per annum.",
+            "The annual income of the applicant should not exceed ₹ 75,000/- per annum.",
             "The applicant should have a disability of 40% or above.",
             "The applicant should be 18 years or above in age.",
             "The applicant should have registered their name in the local anganwadi centre.",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "What is the maximum annual income allowed for eligibility?",
-                "answer": "The annual income of the applicant should not exceed \u20b975,000/- per annum."
+                "answer": "The annual income of the applicant should not exceed ₹75,000/- per annum."
             },
             {
                 "question": "What disability percentage is considered for eligibility under this scheme?",
@@ -90,5 +90,6 @@
             "Social Welfare",
             "PwD"
         ]
-    }
+    },
+    "id": "001892"
 }

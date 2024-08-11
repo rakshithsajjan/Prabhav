@@ -7,12 +7,12 @@
         "beneficiary": "Children of registered construction workers",
         "details": "The scheme 'Nirman Shramik Avm Unke Aashrit Bacchon Dwara Bhartiya Rajasthan Prashasnik Seva Hetu Aayojit Pratibhabhik Yojana' initiated by the Labor Department of Rajasthan aims to foster the integration of children of registered beneficiaries engaged in construction and other related works into the mainstream of development. Through this program, the government seeks to provide opportunities for the children of laborers and workers involved in construction activities to access education and skill development, thereby enhancing their prospects for a better future. By facilitating the participation of these children in educational and skill-building programs, the scheme endeavors to break the cycle of intergenerational poverty prevalent among families engaged in manual labor. By empowering the youth with education and skills, the government aims to equip them with the necessary tools to secure gainful employment opportunities and contribute meaningfully to the socio-economic development of Rajasthan.",
         "benefits": [
-            "On passing the preliminary examination of Indian Administrative Service \u2013 \u20b91,00,000/-",
-            "On passing the preliminary examination of Rajasthan Administrative Service \u2013 \u20b950,000/-"
+            "On passing the preliminary examination of Indian Administrative Service – ₹1,00,000/-",
+            "On passing the preliminary examination of Rajasthan Administrative Service – ₹50,000/-"
         ],
         "eligibility": [
             "Applicant should be registered construction workers who are continuously depositing contributions",
-            "The annual income of the applicant parents from all sources should not exceed \u20b92,50,000/-",
+            "The annual income of the applicant parents from all sources should not exceed ₹2,50,000/-",
             "Applicant who are already working in government services will not be given benefits.",
             "The applicant must have passed the following preliminary competitive examination: Indian Administrative Service, Rajasthan Administrative Service.",
             "No benefit will be payable under this scheme for administrative examination of states other than Rajasthan state.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "How much financial benefits are provided?",
-                "answer": "On passing the preliminary examination of Indian Administrative Service \u2013 \u20b91,00,000/-; On passing the preliminary examination of Rajasthan Administrative Service \u2013 \u20b950,000/-."
+                "answer": "On passing the preliminary examination of Indian Administrative Service – ₹1,00,000/-; On passing the preliminary examination of Rajasthan Administrative Service – ₹50,000/-."
             },
             {
                 "question": "What documents are required?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What is the eligibility criteria on the basis of annual income?",
-                "answer": "The annual income of the applicant parents from all sources should not exceed \u20b92,50,000/-."
+                "answer": "The annual income of the applicant parents from all sources should not exceed ₹2,50,000/-."
             },
             {
                 "question": "How many times benefits under this scheme?",
@@ -91,5 +91,6 @@
             "Construction Worker",
             "Higher Education"
         ]
-    }
+    },
+    "id": "001360"
 }

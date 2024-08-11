@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Mukhyamantri Raut, Charavaaha Evan Doodh Duhane Vaale Bicycle Sahaayata Yojana' for unorganized worker on 10 September 2013. The main objective of the scheme to empower unorganized worker by providing financial assistance.",
         "benefits": [
-            "Financial Assistance of \u20b9 3,000/- per person for bicycle or the rate fixed by CSIDC for bicycle which will be lower"
+            "Financial Assistance of ₹ 3,000/- per person for bicycle or the rate fixed by CSIDC for bicycle which will be lower"
         ],
         "eligibility": [
             "Applicant must be registered as an unorganized worker in any district of the state.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Financial Assistance of \u20b9 3,000/- per person for bicycle or the rate fixed by CSIDC for bicycle which will be lower."
+                "answer": "Financial Assistance of ₹ 3,000/- per person for bicycle or the rate fixed by CSIDC for bicycle which will be lower."
             },
             {
                 "question": "Who can get the benefits?",
@@ -79,5 +79,6 @@
             "Financial Assistance",
             "Vehicle"
         ]
-    }
+    },
+    "id": "001228"
 }

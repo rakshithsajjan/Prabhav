@@ -7,12 +7,12 @@
         "beneficiary": "Registered construction workers or their family members",
         "details": "The Khilaadee Protsaahan Yojana, a scheme of the Madhya Pradesh Building Department under the Labor Department, provides financial assistance to registered construction workers or their family members under the MP Building and Other Construction Workers Welfare Board who have excelled in sports.",
         "benefits": [
-            "\u20b910,000/- for selection at District Level (Category \u2013 A)",
-            "\u20b95,000/- for being winner at District Level (Category \u2013 B)",
-            "\u20b925,000/- for selection at Division Level (Category \u2013 A)",
-            "\u20b915,000/- for being winner at Division Level (Category \u2013 B)",
-            "\u20b925,000/- for selection at State Level (Category \u2013 A)",
-            "\u20b930,000/- for being winner at State Level (Category \u2013 B)"
+            "₹10,000/- for selection at District Level (Category – A)",
+            "₹5,000/- for being winner at District Level (Category – B)",
+            "₹25,000/- for selection at Division Level (Category – A)",
+            "₹15,000/- for being winner at Division Level (Category – B)",
+            "₹25,000/- for selection at State Level (Category – A)",
+            "₹30,000/- for being winner at State Level (Category – B)"
         ],
         "eligibility": [
             "The applicant should be a native of Madhya Pradesh.",
@@ -77,5 +77,6 @@
             "Social Welfare",
             "Sports"
         ]
-    }
+    },
+    "id": "000981"
 }

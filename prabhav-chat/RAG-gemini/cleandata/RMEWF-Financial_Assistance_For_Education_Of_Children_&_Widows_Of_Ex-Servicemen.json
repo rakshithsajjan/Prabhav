@@ -21,12 +21,12 @@
         "exclusions": [
             "This grant is not applicable for any of the professional or technical courses/degrees."
         ],
-        "application_process": "Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat [https://ksb.gov.in/](https://ksb.gov.in/). Click on \u201cRegister\u201d which is available on the homepage of the portal. Now, the registration form will be displayed, fill the form with necessary details. Upload the Photo. Save the application by clicking on the \u201cSave\u201d button and the saved details and password will be forwarded to the registered mail id. Click the activation link which is sent to the mail id to login into the KSB portal. Provide user name, password and verification code and click on the \u201cLogin \u201c button. Select the scheme name and start filling the new application form by entering the required details. Copies of the supporting documents duly attested by the respective Zila Sainik Welfare Officer (ZSWO) must be uploaded with the online application. Once the online application is submitted, ZSWO will scrutinize the online applications and give appointment to the applicant for verification. After successful verification, ZWSO will recommend the online application and forward the harp copy as well soft copy to Kendriya Sainik Board (KSB) through Rajya Sainik Boards (RSBs) for further processing.",
+        "application_process": "Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat [https://ksb.gov.in/](https://ksb.gov.in/). Click on “Register” which is available on the homepage of the portal. Now, the registration form will be displayed, fill the form with necessary details. Upload the Photo. Save the application by clicking on the “Save” button and the saved details and password will be forwarded to the registered mail id. Click the activation link which is sent to the mail id to login into the KSB portal. Provide user name, password and verification code and click on the “Login “ button. Select the scheme name and start filling the new application form by entering the required details. Copies of the supporting documents duly attested by the respective Zila Sainik Welfare Officer (ZSWO) must be uploaded with the online application. Once the online application is submitted, ZSWO will scrutinize the online applications and give appointment to the applicant for verification. After successful verification, ZWSO will recommend the online application and forward the harp copy as well soft copy to Kendriya Sainik Board (KSB) through Rajya Sainik Boards (RSBs) for further processing.",
         "documents_required": [
             "Service Document/Discharge Book of ESM (Page that contains ESM/Personal Particulars, Service Particulars and Family Particulars)",
             "ESM or Widow I-Card issued by respective ZSB.",
             "Mark-sheet / School Progress Card of child/children.",
-            "Part \u2013II Order mentioning names of the child(ren) for which grant is sought or there should be a proper entry to this effect in the Discharge Book/Documents.",
+            "Part –II Order mentioning names of the child(ren) for which grant is sought or there should be a proper entry to this effect in the Discharge Book/Documents.",
             "A certificate from applicant saying that he/she has not taken any money/grant from the state or present employer in the form of education allowance or scholarship.",
             "Details of Bank A/c No (in PNB/SBI only) and IFS Code.",
             "Aadhaar Card copy."
@@ -77,5 +77,6 @@
             "Education",
             "Widows"
         ]
-    }
+    },
+    "id": "001550"
 }

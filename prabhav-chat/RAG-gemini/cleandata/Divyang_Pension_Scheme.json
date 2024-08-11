@@ -7,13 +7,13 @@
         "beneficiary": "Person with Disabilities (PWD)",
         "details": "Divyang Pension scheme is a social security scheme by the Social Welfare Department, Government of Uttarakhand. The scheme aims to provide financial assistance to the specially abled people of the state, who do not have any means of livelihood of their own or can not do any kind of hard work to sustain them.",
         "benefits": [
-            "\u20b91,500/- per month to the beneficiaries."
+            "₹1,500/- per month to the beneficiaries."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Uttarakhand.",
             "The applicant should be more than eighteen (18) years of age.",
             "The applicant should belong to Person with Disabilities (PWD) category having more than 40% disability.",
-            "Applicant\u2019s monthly income should not exceed \u20b94,000/-.",
+            "Applicant’s monthly income should not exceed ₹4,000/-.",
             "Should belong to the BPL (Below Poverty Level) category."
         ],
         "exclusions": [
@@ -21,7 +21,7 @@
         ],
         "application_process": "Online",
         "documents_required": [
-            "BPL certificate or income certificate issued by the Tahsildar (Monthly income not exceeding \u20b94,000/-).",
+            "BPL certificate or income certificate issued by the Tahsildar (Monthly income not exceeding ₹4,000/-).",
             "Proposal for open meeting of Gram Sabha.",
             "Copy of family register.",
             "Aadhaar card.",
@@ -31,8 +31,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the objective of \u201cDivyang Pension\u201d scheme?",
-                "answer": "\u201cDivyang Pension\u201d scheme is a social security scheme by the Social Welfare Department, Government of Uttarakhand, that provides financial assistance to the visually impaired, speech impaired and physically challenged destitute persons of the state."
+                "question": "What is the objective of “Divyang Pension” scheme?",
+                "answer": "“Divyang Pension” scheme is a social security scheme by the Social Welfare Department, Government of Uttarakhand, that provides financial assistance to the visually impaired, speech impaired and physically challenged destitute persons of the state."
             },
             {
                 "question": "Which department has launched this Scheme?",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What kind of financial assistance can be availed through this scheme?",
-                "answer": "Financial assistance of \u20b91500/- per month is provided to the beneficiaries."
+                "answer": "Financial assistance of ₹1500/- per month is provided to the beneficiaries."
             },
             {
                 "question": "What should be the age criteria for the applicant?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What should be the income criteria for the beneficiaries?",
-                "answer": "The income of the beneficiary should not exceed \u20b94000/- per month."
+                "answer": "The income of the beneficiary should not exceed ₹4000/- per month."
             },
             {
                 "question": "How can the application be submitted?",
@@ -83,5 +83,6 @@
             "Financial Assistance",
             "Pension"
         ]
-    }
+    },
+    "id": "000417"
 }

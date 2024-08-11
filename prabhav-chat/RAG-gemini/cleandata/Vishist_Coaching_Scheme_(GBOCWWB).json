@@ -5,7 +5,7 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Coaching",
         "beneficiary": "Children of construction workers",
-        "details": "The \u201cVishist Coaching Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under this scheme, both the registration fee and coaching/tuition fees will be reimbursed/paid for the career development of the children of construction workers. The purpose of the scheme is to facilitate their pursuit of becoming Chartered Accountants and successfully passing the competitive examinations conducted by the Gujarat Public Service Commission, Union Public Service Commission, Gujarat Gaun Seva Selection Board, and Gujarat Panchayat Service Selection Board.",
+        "details": "The “Vishist Coaching Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). Under this scheme, both the registration fee and coaching/tuition fees will be reimbursed/paid for the career development of the children of construction workers. The purpose of the scheme is to facilitate their pursuit of becoming Chartered Accountants and successfully passing the competitive examinations conducted by the Gujarat Public Service Commission, Union Public Service Commission, Gujarat Gaun Seva Selection Board, and Gujarat Panchayat Service Selection Board.",
         "benefits": [
             "Under the scheme, the registration fee and coaching/tuition fees for the children of registered construction workers will be reimbursed/paid."
         ],
@@ -39,7 +39,7 @@
         "faqs": [
             {
                 "question": "Who implements the Vishist Coaching Scheme?",
-                "answer": "The scheme is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board, under the Labour, Skill Development & Employment Department, Government of Gujarat."
+                "answer": "The scheme is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board, under the Labour, Skill Development & Employment Department, Government of Gujarat."
             },
             {
                 "question": "What are the benefits of the Scheme?",
@@ -99,5 +99,6 @@
             "Labour",
             "Tuition"
         ]
-    }
+    },
+    "id": "002018"
 }

@@ -5,12 +5,12 @@
         "department": "Department of Micro, Small & Medium Enterprises",
         "type": "Loan",
         "beneficiary": "Farmer",
-        "details": "The Mukhya Mantri Krishak Udyami Yojana provides loans up to \u20b9 50,000 to \u20b910,00,000 for financial assistance to the sons and daughters of farmers to establish their businesses. Economically weak farmers will be able to become self-reliant by setting up their businesses and their weak economic condition will not become a hindrance to their progress. Under this, 15% of the capital cost will be provided to the general category, and 20% of the capital cost will be provided to the BPL (Below Poverty Line) category.",
+        "details": "The Mukhya Mantri Krishak Udyami Yojana provides loans up to ₹ 50,000 to ₹10,00,000 for financial assistance to the sons and daughters of farmers to establish their businesses. Economically weak farmers will be able to become self-reliant by setting up their businesses and their weak economic condition will not become a hindrance to their progress. Under this, 15% of the capital cost will be provided to the general category, and 20% of the capital cost will be provided to the BPL (Below Poverty Line) category.",
         "benefits": [
-            "For projects worth Rs 10 lakh or more: 15% for general class (maximum \u20b912,00,000), 20% for BPL category (maximum \u20b918,00,000), 6% interest subsidy for women entrepreneurs, 5% for male entrepreneurs.",
-            "For projects less than Rs 10 lakh: 15% of the project cost (maximum \u20b91,00,000) for the general category, 30% of the project cost (maximum \u20b92,00,000) for BPL/scheduled caste/scheduled tribes/other backward classes/women/minorities/disabled.",
-            "30% of the project cost (maximum \u20b93,00,000) to the liberated nomadic and semi-nomadic tribes.",
-            "Bhopal Gas victim family members are eligible for an additional 20% (maximum \u20b91,00,000) on the project cost."
+            "For projects worth Rs 10 lakh or more: 15% for general class (maximum ₹12,00,000), 20% for BPL category (maximum ₹18,00,000), 6% interest subsidy for women entrepreneurs, 5% for male entrepreneurs.",
+            "For projects less than Rs 10 lakh: 15% of the project cost (maximum ₹1,00,000) for the general category, 30% of the project cost (maximum ₹2,00,000) for BPL/scheduled caste/scheduled tribes/other backward classes/women/minorities/disabled.",
+            "30% of the project cost (maximum ₹3,00,000) to the liberated nomadic and semi-nomadic tribes.",
+            "Bhopal Gas victim family members are eligible for an additional 20% (maximum ₹1,00,000) on the project cost."
         ],
         "eligibility": [
             "The applicant must be a permanent resident of Madhya Pradesh.",
@@ -84,5 +84,6 @@
             "Financial",
             "Loan"
         ]
-    }
+    },
+    "id": "001183"
 }

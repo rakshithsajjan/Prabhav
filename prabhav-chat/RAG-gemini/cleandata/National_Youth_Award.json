@@ -7,8 +7,8 @@
         "beneficiary": "Good Citizens",
         "details": "The National Youth Award was sponsored by The Ministry of Youth Affairs for the Indian youth for their tremendous and outstanding work in social service. This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their own personal potential as good citizens. The award shall be given for identifiable excellent work for youth in different fields of development activities and social services such as health, research and innovation, culture, promotion of human rights, art and literature, tourism, traditional medicine, active citizenship, community service, sports and academic excellence and smart learning.",
         "benefits": [
-            "Receive a medal, certificate, and \u20b91,00,000/- for individuals.",
-            "Receive a medal, certificate, and \u20b93,00,000/- for voluntary youth organizations."
+            "Receive a medal, certificate, and ₹1,00,000/- for individuals.",
+            "Receive a medal, certificate, and ₹3,00,000/- for voluntary youth organizations."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -73,5 +73,6 @@
                 "url": "https://awards.gov.in/Login"
             }
         ]
-    }
+    },
+    "id": "001337"
 }

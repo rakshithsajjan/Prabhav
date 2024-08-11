@@ -7,19 +7,19 @@
         "beneficiary": "Senior Citizens",
         "details": "In 2010, the West Bengal state government, through the Women and Child Development and Social Welfare Department, launched a compassionate initiative called the 'Old Age Pension' scheme. The West Bengal Disability Pension Scheme provides financial assistance to persons who are above 60 years and unable to work and earn a living.",
         "benefits": [
-            "\u20b91,000/- per month."
+            "₹1,000/- per month."
         ],
         "eligibility": [
             "Applicant must be a resident of West Bengal State.",
             "Applicant must be 60 years old or above, but in the case of physically and mentally handicapped individuals, the age limit for eligibility is 55 years.",
             "Applicant should not have any relation capable of providing financial support (here 'relation' means: Son/ Grand Son/ Husband/Wife/ Unmarried daughter/ Parents).",
-            "The income of the applicant should not exceed \u20b9 1,000/- per month.",
+            "The income of the applicant should not exceed ₹ 1,000/- per month.",
             "The applicant should not be a recipient of any other Government pension.",
             "The applicant should be residing in the State for not less than ten years on the date of making the application."
         ],
         "exclusions": [
             "Professional beggars and mendicants of urban areas (cities and towns) are not eligible for pension under this scheme.",
-            "Persons receiving 'Disability Pension', 'Widow Pension', 'Farmers\u2019 Pension', 'Political Sufferers', or any other pension of any State Government or the Central Government shall not be eligible for pension under this scheme."
+            "Persons receiving 'Disability Pension', 'Widow Pension', 'Farmers’ Pension', 'Political Sufferers', or any other pension of any State Government or the Central Government shall not be eligible for pension under this scheme."
         ],
         "application_process": "Offline",
         "documents_required": [
@@ -28,7 +28,7 @@
             "Copy of Voter Id.",
             "Copy of Disability Certificate.",
             "Copy of Income Certificate.",
-            "Copy of Husband\u2019s Death Certificate.",
+            "Copy of Husband’s Death Certificate.",
             "Copy of Bank Pass Book.",
             "Nomination Form (In case of death).",
             "Passport Size photograph."
@@ -48,7 +48,7 @@
             },
             {
                 "question": "What is the financial eligibility criteria?",
-                "answer": "Applicant income must be upto \u20b91,000/- per month."
+                "answer": "Applicant income must be upto ₹1,000/- per month."
             },
             {
                 "question": "Can applicant from other states also get the benefit of this scheme?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "What documents are required?",
-                "answer": "1. Copy of Aadhaar self-attested. 2. Copy of Ration Card. 3. Copy of Voter Id. 4. Copy of Disability Certificate. 5. Copy of Income Certificate. 6. Copy of Husband\u2019s Death Certificate. 7. Copy of Bank Pass Book. 8. Nomination Form (In case of death). 9. Passport Size photograph."
+                "answer": "1. Copy of Aadhaar self-attested. 2. Copy of Ration Card. 3. Copy of Voter Id. 4. Copy of Disability Certificate. 5. Copy of Income Certificate. 6. Copy of Husband’s Death Certificate. 7. Copy of Bank Pass Book. 8. Nomination Form (In case of death). 9. Passport Size photograph."
             }
         ],
         "sources": [
@@ -91,5 +91,6 @@
             "Senior Citizens",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001377"
 }

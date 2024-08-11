@@ -5,11 +5,11 @@
         "department": "Department of Women & Child Welfare",
         "type": "Pension",
         "beneficiary": "Elderly citizens above the age of 60 years belonging to the Below Poverty Line (BPL) category",
-        "details": "The scheme 'Indira Gandhi National Old Age Pension Scheme (IGNOAPS)' was started by the Department of Women & Child Welfare, Govt. of Sikkim in 2014. Under this scheme, a pension is provided to elderly citizens above the age of 60 years belonging to the Below Poverty Line (BPL) category and the beneficiary will receive a monthly pension of \u20b9 1500/-, \u20b9 2000/- & \u20b9 2500/- as per eligibility criteria.",
+        "details": "The scheme 'Indira Gandhi National Old Age Pension Scheme (IGNOAPS)' was started by the Department of Women & Child Welfare, Govt. of Sikkim in 2014. Under this scheme, a pension is provided to elderly citizens above the age of 60 years belonging to the Below Poverty Line (BPL) category and the beneficiary will receive a monthly pension of ₹ 1500/-, ₹ 2000/- & ₹ 2500/- as per eligibility criteria.",
         "benefits": [
-            "A monthly pension of \u20b9 1500/- to the old aged person between the age group of 60 years \u2013 69 years.",
-            "A monthly pension of \u20b9 2000/- to the old aged person between the age group of 70 years + and above.",
-            "A monthly pension of \u20b9 2500/- to the old aged persons having attained the age of 80 years and above.",
+            "A monthly pension of ₹ 1500/- to the old aged person between the age group of 60 years – 69 years.",
+            "A monthly pension of ₹ 2000/- to the old aged person between the age group of 70 years + and above.",
+            "A monthly pension of ₹ 2500/- to the old aged persons having attained the age of 80 years and above.",
             "The beneficiary will get a pension as long as he/she is alive."
         ],
         "eligibility": [
@@ -25,7 +25,7 @@
         ],
         "application_process": "Offline and Online. The applicant has to approach their concerned Gram Panchayat /Municipality / Municipal Corporation office. Consult with the designated authority about the applying procedure and the local department office for this scheme. Collect the application form, fill in all the mandatory fields, attach all the (self-attested) mandatory documents and submit it to the designated receiving authority.",
         "documents_required": [
-            "Recent passport size photographs \u2013 3 Nos;",
+            "Recent passport size photographs – 3 Nos;",
             "Attested photocopy of Sikkim Subject Certificate / Certificate of Identification as the case may be i.e. Income certificate, Caste certificate.",
             "Attested photocopy of the Below Poverty Line Certificate.",
             "Birth Certificate or Electoral photo Identity Card or any other valid document having recorded the date as proof of age.",
@@ -35,7 +35,7 @@
         "faqs": [
             {
                 "question": "What should be the monthly pension under this scheme?",
-                "answer": "The beneficiary will receive a sum of \u20b91500/-, \u20b9 2,000/- & \u20b92500/- as monthly pension under this scheme as per their eligibility criteria."
+                "answer": "The beneficiary will receive a sum of ₹1500/-, ₹ 2,000/- & ₹2500/- as monthly pension under this scheme as per their eligibility criteria."
             },
             {
                 "question": "How long will a beneficiary receive a monthly pension under this scheme?",
@@ -90,5 +90,6 @@
             "Old Age",
             "Pension"
         ]
-    }
+    },
+    "id": "000836"
 }

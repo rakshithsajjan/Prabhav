@@ -5,10 +5,10 @@
         "department": "Haryana Scheduled Castes Finance and Development Corporation (HSFDC)",
         "type": "Loan",
         "beneficiary": "Safai Karamcharis and their dependents",
-        "details": "The scheme 'Education Loan Scheme under NSKFDC' is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC). This scheme offers educational loans of up to \u20b910 lakhs for studies within India and up to \u20b920 lakhs for studies abroad. These loans are available to eligible students pursuing regular full-time recognized professional/technical courses in India or abroad.",
+        "details": "The scheme 'Education Loan Scheme under NSKFDC' is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC). This scheme offers educational loans of up to ₹10 lakhs for studies within India and up to ₹20 lakhs for studies abroad. These loans are available to eligible students pursuing regular full-time recognized professional/technical courses in India or abroad.",
         "benefits": [
-            "Maximum Loan Limit for studies within India: Up to \u20b910,00,000/-",
-            "Maximum Loan Limit for studies abroad: Up to \u20b920,00,000/-",
+            "Maximum Loan Limit for studies within India: Up to ₹10,00,000/-",
+            "Maximum Loan Limit for studies abroad: Up to ₹20,00,000/-",
             "Loan covers admission fees, tuition fees, books, stationery, examination fees, boarding and lodging expenses, insurance premium, travel expenses for studying abroad, caution money, and development funds."
         ],
         "eligibility": [
@@ -27,7 +27,7 @@
             "Accreditation status of the Course for which loan is to be availed in case of abroad study",
             "Accreditation status of the Educational institution for which the loan is to be availed",
             "Adequate Qualification and Experience Documents",
-            "Approval or Clearance Certificate from Competent Authority if Required only above Loan Cases of \u20b91,00,000/-",
+            "Approval or Clearance Certificate from Competent Authority if Required only above Loan Cases of ₹1,00,000/-",
             "Copy of admission confirmation from an educational institute with fee and other charges payment schedule yearly",
             "Copy of Foreign exchange permit if applicable",
             "Copy of Identity card issued by the Institute if admission has already taken",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the maximum loan amount available for studies within India?",
-                "answer": "The maximum loan amount for studies within India is \u20b910,00,000/-."
+                "answer": "The maximum loan amount for studies within India is ₹10,00,000/-."
             },
             {
                 "question": "What is the maximum loan amount available for studies abroad?",
-                "answer": "The maximum loan amount for studies abroad is \u20b920,00,000/-."
+                "answer": "The maximum loan amount for studies abroad is ₹20,00,000/-."
             },
             {
                 "question": "What expenses are covered under this education loan?",
@@ -86,7 +86,7 @@
             },
             {
                 "question": "What is the tag/maker on the diploma/degree of the student?",
-                "answer": "The tag/maker indicates the student\u2019s repayment liabilities for the loan taken."
+                "answer": "The tag/maker indicates the student’s repayment liabilities for the loan taken."
             },
             {
                 "question": "Can the loan be availed for part-time courses?",
@@ -122,5 +122,6 @@
             "Safai Karamcharis",
             "Students"
         ]
-    }
+    },
+    "id": "000475"
 }

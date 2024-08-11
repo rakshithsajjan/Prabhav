@@ -5,15 +5,15 @@
         "department": "Department of Women and Child Development",
         "type": "Grant",
         "beneficiary": "Poor Parents Having Only One Girl Child",
-        "details": "The scheme 'Grant of Financial Assistance to the Poor Parents Having Only One Girl Child Who is Studying 8th to 10th Standard' is a welfare scheme by the Department of Women and Child Development, Government of Puducherry. This scheme was introduced to promote small family norms, uplift the welfare of girl children, and ease the financial burden on parents during their daughter's marriage. The scheme provides \u20b925,000/- financial assistance for single girl children studying in 8th to 10th standard.",
+        "details": "The scheme 'Grant of Financial Assistance to the Poor Parents Having Only One Girl Child Who is Studying 8th to 10th Standard' is a welfare scheme by the Department of Women and Child Development, Government of Puducherry. This scheme was introduced to promote small family norms, uplift the welfare of girl children, and ease the financial burden on parents during their daughter's marriage. The scheme provides ₹25,000/- financial assistance for single girl children studying in 8th to 10th standard.",
         "benefits": [
-            "\u20b9 25,000/- will be deposited in a fixed deposit in the Post Office in the form of a National Savings Certificate in the name of the Girl Child.",
+            "₹ 25,000/- will be deposited in a fixed deposit in the Post Office in the form of a National Savings Certificate in the name of the Girl Child.",
             "The maturity amount will be released when the girl child attains the age of eighteen years."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a native of Puducherry by virtue of birth or continuous residence of not less than five years.",
-            "The applicant should have an annual income not exceeding \u20b975,000/-.",
+            "The applicant should have an annual income not exceeding ₹75,000/-.",
             "The applicant should have only one living girl child and no other issue."
         ],
         "exclusions": [],
@@ -34,12 +34,12 @@
         ],
         "faqs": [
             {
-                "question": "Can the applicant exceed the income limit of \u20b975,000/- and still be eligible?",
-                "answer": "No, the applicant's annual income should not exceed \u20b975,000/- to meet the eligibility criteria."
+                "question": "Can the applicant exceed the income limit of ₹75,000/- and still be eligible?",
+                "answer": "No, the applicant's annual income should not exceed ₹75,000/- to meet the eligibility criteria."
             },
             {
                 "question": "How is the fixed deposit in the Post Office managed?",
-                "answer": "The \u20b925,000/- financial assistance is deposited in the form of a National Savings Certificate, maturing when the girl child turns eighteen."
+                "answer": "The ₹25,000/- financial assistance is deposited in the form of a National Savings Certificate, maturing when the girl child turns eighteen."
             },
             {
                 "question": "Why is the study certificate from the school required in the application?",
@@ -75,7 +75,7 @@
             },
             {
                 "question": "Is the financial assistance taxable?",
-                "answer": "The \u20b925,000/- financial assistance provided under the scheme is exempt from income tax."
+                "answer": "The ₹25,000/- financial assistance provided under the scheme is exempt from income tax."
             },
             {
                 "question": "Are there any conditions for utilizing the maturity amount once it's released?",
@@ -114,5 +114,6 @@
             "Welfare Scheme",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000723"
 }

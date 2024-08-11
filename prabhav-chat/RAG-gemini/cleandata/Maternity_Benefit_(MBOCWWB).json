@@ -5,9 +5,9 @@
         "department": "Labour Department, Government of Meghalaya",
         "type": "Financial Assistance",
         "beneficiary": "Women construction workers",
-        "details": "The \u201cMaternity Benefit\u201d is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance in the form of maternity benefits shall be provided to women construction workers registered under the Board during their maternity period.",
+        "details": "The “Maternity Benefit” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance in the form of maternity benefits shall be provided to women construction workers registered under the Board during their maternity period.",
         "benefits": [
-            "The registered women construction workers shall receive financial assistance of \u20b91,000/- as maternity benefits during their maternity period."
+            "The registered women construction workers shall receive financial assistance of ₹1,000/- as maternity benefits during their maternity period."
         ],
         "eligibility": [
             "The applicant should be a resident of Meghalaya.",
@@ -39,7 +39,7 @@
         "faqs": [
             {
                 "question": "What are the benefits provided under this scheme?",
-                "answer": "Registered women construction workers are entitled to receive \u20b91,000/- as maternity benefits during their maternity period."
+                "answer": "Registered women construction workers are entitled to receive ₹1,000/- as maternity benefits during their maternity period."
             },
             {
                 "question": "Who is eligible to apply for the scheme?",
@@ -113,5 +113,6 @@
             "Pregnancy",
             "Woman"
         ]
-    }
+    },
+    "id": "001107"
 }

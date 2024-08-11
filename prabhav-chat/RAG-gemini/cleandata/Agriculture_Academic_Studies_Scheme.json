@@ -2,14 +2,14 @@
     "content": {
         "title": "Agriculture Academic Studies Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Sponsorship",
         "beneficiary": "Students",
-        "details": "The 'Agriculture Academic Studies Scheme' is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the Scheme is to sponsor students for undergoing 4 years of Graduate/degree courses in Agriculture/Horticulture against State quota seats in different Agriculture Universities in the country.",
+        "details": "The 'Agriculture Academic Studies Scheme' is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the Scheme is to sponsor students for undergoing 4 years of Graduate/degree courses in Agriculture/Horticulture against State quota seats in different Agriculture Universities in the country.",
         "benefits": [
             "Sponsorship of seats, book grants, and scholarships.",
-            "Monthly stipend @ \u20b91,200/-",
-            "Book grant @ \u20b91,200/- per academic year"
+            "Monthly stipend @ ₹1,200/-",
+            "Book grant @ ₹1,200/- per academic year"
         ],
         "eligibility": [
             "The applicant/student should be a permanent resident of Meghalaya.",
@@ -21,8 +21,8 @@
         "exclusions": [],
         "application_process": "Online",
         "documents_required": [
-            "Admit Cards \u2014 X, XII",
-            "Mark Sheets \u2014 X, XII",
+            "Admit Cards — X, XII",
+            "Mark Sheets — X, XII",
             "Birth Certificate",
             "Caste Certificate in respect of SC, ST and OBC",
             "Permanent Residential Certificate (PRC) issued by the Competent Authority",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "What is the pattern of assistance?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the type of assistance/entitlement?",
-                "answer": "Monthly stipend @ \u20b91,200/- and Book grant @ \u20b91,200/- per academic year."
+                "answer": "Monthly stipend @ ₹1,200/- and Book grant @ ₹1,200/- per academic year."
             },
             {
                 "question": "Who is eligible to apply for the scheme?",
@@ -102,5 +102,6 @@
             "Student",
             "Under Graduate"
         ]
-    }
+    },
+    "id": "000062"
 }

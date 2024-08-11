@@ -12,7 +12,7 @@
         "eligibility": [
             "The applicant should be employed in an industrial or commercial establishment in Haryana.",
             "The worker should be registered with the Haryana Labour Welfare Board.",
-            "The monthly salary of the worker should not exceed \u20b920,000/-.",
+            "The monthly salary of the worker should not exceed ₹20,000/-.",
             "The service period of the worker is fixed for one year.",
             "The application is to be submitted within one year from the date of purchase of artificial limbs.",
             "The assistance is available to workers and their dependents, who become disabled due to the loss of vital organs in an accident."
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the maximum monthly salary limit to be eligible for the scheme?",
-                "answer": "The worker's monthly salary should not exceed \u20b920,000/-."
+                "answer": "The worker's monthly salary should not exceed ₹20,000/-."
             },
             {
                 "question": "Can dependents of workers eligible for scheme?",
@@ -84,5 +84,6 @@
             "PwD",
             "Worker"
         ]
-    }
+    },
+    "id": "000555"
 }

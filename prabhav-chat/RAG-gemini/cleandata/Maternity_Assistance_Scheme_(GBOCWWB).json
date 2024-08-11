@@ -5,15 +5,15 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Women construction workers and construction workers' wives",
-        "details": "The 'Maternity Assistance Scheme' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). The objective of this scheme is to provide financial assistance during pregnancy to women construction workers and construction workers' wives registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board and to provide social stability to construction workers.",
+        "details": "The 'Maternity Assistance Scheme' is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). The objective of this scheme is to provide financial assistance during pregnancy to women construction workers and construction workers' wives registered with the Gujarat Building and Other Construction Worker’s Welfare Board and to provide social stability to construction workers.",
         "benefits": [
-            "Financial assistance of \u20b96,000/- is provided to the wife of a registered construction worker for the first two deliveries.",
-            "Financial assistance of \u20b937,500/- is provided to a registered female construction worker for the first two deliveries.",
+            "Financial assistance of ₹6,000/- is provided to the wife of a registered construction worker for the first two deliveries.",
+            "Financial assistance of ₹37,500/- is provided to a registered female construction worker for the first two deliveries.",
             "Benefits are also provided in case of miscarriage.",
             "The application period is up to six months from the date of conception."
         ],
         "eligibility": [
-            "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board.",
             "The construction worker should have an active membership of the Board.",
             "Financial assistance is provided for the first two births of both a registered female construction worker and the wife of a registered construction worker."
         ],
@@ -40,15 +40,15 @@
         "faqs": [
             {
                 "question": "Who administers the Maternity Assistance Scheme?",
-                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker’s Welfare Board."
             },
             {
                 "question": "What is the objective of the Scheme?",
-                "answer": "The objective of this scheme is to provide financial assistance during pregnancy to women construction workers and construction workers' wives registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board and to provide social stability to construction workers."
+                "answer": "The objective of this scheme is to provide financial assistance during pregnancy to women construction workers and construction workers' wives registered with the Gujarat Building and Other Construction Worker’s Welfare Board and to provide social stability to construction workers."
             },
             {
                 "question": "What benefits does the scheme offer?",
-                "answer": "Under the scheme, the wife of a registered construction worker receives \u20b96,000/- for the first two deliveries, while a registered female construction worker is entitled to \u20b937,500/- for the first two deliveries."
+                "answer": "Under the scheme, the wife of a registered construction worker receives ₹6,000/- for the first two deliveries, while a registered female construction worker is entitled to ₹37,500/- for the first two deliveries."
             },
             {
                 "question": "How is the financial assistance disbursed?",
@@ -68,11 +68,11 @@
             },
             {
                 "question": "What additional financial assistance is provided post-delivery?",
-                "answer": "In the case of post-delivery application, registered female construction workers receive \u20b920,000/-, and the wife of a construction worker receives \u20b96,000/-."
+                "answer": "In the case of post-delivery application, registered female construction workers receive ₹20,000/-, and the wife of a construction worker receives ₹6,000/-."
             },
             {
                 "question": "Who is eligible to benefit from this scheme?",
-                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board, with active membership, are eligible for the scheme."
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board, with active membership, are eligible for the scheme."
             },
             {
                 "question": "Is there a deadline for applying for maternity assistance after delivery?",
@@ -120,5 +120,6 @@
             "Labour",
             "Maternity"
         ]
-    }
+    },
+    "id": "001100"
 }

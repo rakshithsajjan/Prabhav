@@ -5,15 +5,15 @@
         "department": "Department of Women and Child Development",
         "type": "Grant",
         "beneficiary": "Family",
-        "details": "The scheme 'Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning' is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to create awareness among parents about the desirability of the girl child and elevate the status of the girl child in the family. The scheme provides an amount of \u20b930,000/- deposited in the name of the girl child, and in the case of two girl children, \u20b915,000/- is deposited in the name of each. The maturity value is given to the girl child/children when she attains the age of 18 years.",
+        "details": "The scheme 'Grant of Incentive to the Family having One Girl/Two Girl Children and Parents who have undergone Family Planning' is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to create awareness among parents about the desirability of the girl child and elevate the status of the girl child in the family. The scheme provides an amount of ₹30,000/- deposited in the name of the girl child, and in the case of two girl children, ₹15,000/- is deposited in the name of each. The maturity value is given to the girl child/children when she attains the age of 18 years.",
         "benefits": [
-            "Financial assistance of \u20b930,000/- for one girl child, and \u20b915,000/- for each of two girl children.",
+            "Financial assistance of ₹30,000/- for one girl child, and ₹15,000/- for each of two girl children.",
             "The incentive amount is deposited in the name of the girl child/children and matures when the child reaches 18 years of age."
         ],
         "eligibility": [
             "The parents should be citizens of India.",
             "Either of the parents should be a native of Puducherry by virtue of birth or continuous residence of not less than five years.",
-            "The annual income of the applicant should not exceed \u20b975,000/- per annum.",
+            "The annual income of the applicant should not exceed ₹75,000/- per annum.",
             "The age of the parents should not be below 21 years for the father and 18 years for the mother at the time of their marriage.",
             "Either of the parents should have undergone Family Planning in a Central/State Government Hospital/ Private (Registered).",
             "The parents should have only one girl child/two girl children.",
@@ -59,7 +59,7 @@
                 "answer": "Age proof documents such as Birth Certificate/TC of parents are required."
             },
             {
-                "question": "What documents are required to prove the eligibility criteria of annual income not exceeding \u20b975,000/- per annum?",
+                "question": "What documents are required to prove the eligibility criteria of annual income not exceeding ₹75,000/- per annum?",
                 "answer": "Income and Residence Certificate from the Revenue Department is required."
             },
             {
@@ -76,7 +76,7 @@
             },
             {
                 "question": "How much financial assistance is provided for one girl child and each of two girl children?",
-                "answer": "\u20b930,000/- is provided for one girl child, and \u20b915,000/- is deposited in the name of each of two girl children."
+                "answer": "₹30,000/- is provided for one girl child, and ₹15,000/- is deposited in the name of each of two girl children."
             },
             {
                 "question": "Can the parents or legal guardians have any control over the deposited amount until the girl child reaches 18 years of age?",
@@ -101,5 +101,6 @@
             "Grant",
             "Incentive"
         ]
-    }
+    },
+    "id": "000729"
 }

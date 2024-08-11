@@ -5,9 +5,9 @@
         "department": "Micro Small and Medium Enterprises Department",
         "type": "Subsidy",
         "beneficiary": "MSMEs",
-        "details": "The scheme 'Payroll Subsidy' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective of assisting MSMEs in reducing their employee cost. The scheme provides reimbursement of employee's contributions to the EPF for their employees for the first three years from the date of commencement of commercial production, subject to a maximum of \u20b9 24,000/- per employee per annum.",
+        "details": "The scheme 'Payroll Subsidy' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective of assisting MSMEs in reducing their employee cost. The scheme provides reimbursement of employee's contributions to the EPF for their employees for the first three years from the date of commencement of commercial production, subject to a maximum of ₹ 24,000/- per employee per annum.",
         "benefits": [
-            "Reimbursement of employee's contribution to the EPF for their employees for the first three years from the date of commencement of commercial production, subject to a maximum of \u20b9 24,000/- per employee per annum."
+            "Reimbursement of employee's contribution to the EPF for their employees for the first three years from the date of commencement of commercial production, subject to a maximum of ₹ 24,000/- per employee per annum."
         ],
         "eligibility": [
             "All micro enterprises anywhere in the state of Tamil Nadu.",
@@ -49,7 +49,7 @@
             "Copy of UDYAM Registration Certificate.",
             "Attested Copy of TANGEDCO Meter Card.",
             "If the Enterprise is functioning in its own land, Copy of the Land Purchase Deed, duly signed by the applicant.",
-            "If the Enterprise is functioning in a leased land/building, Copy of the Lease Agreement Deed executed on stamp paper of \u20b9 100/-, for a minimum period of 11 months from the date of commencement of commercial production.",
+            "If the Enterprise is functioning in a leased land/building, Copy of the Lease Agreement Deed executed on stamp paper of ₹ 100/-, for a minimum period of 11 months from the date of commencement of commercial production.",
             "Copy of Machinery Invoice.",
             "Copy of First Sale Invoice raised after the Commencement of Commercial Production.",
             "Copy of Returns filed under the Employees Provident Fund 1952.",
@@ -95,7 +95,7 @@
             },
             {
                 "question": "What is the maximum reimbursement amount per employee under the Payroll Subsidy scheme?",
-                "answer": "The scheme provides a maximum reimbursement of \u20b924,000 per employee per annum for their EPF contributions in the first three years."
+                "answer": "The scheme provides a maximum reimbursement of ₹24,000 per employee per annum for their EPF contributions in the first three years."
             },
             {
                 "question": "Are temporary or contract workers considered for the subsidy?",
@@ -131,5 +131,6 @@
             "Provident Fund",
             "Reimbursement"
         ]
-    }
+    },
+    "id": "001418"
 }

@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Financial Assistance",
         "beneficiary": "Pregnant Women and Spouses of Male Employees",
-        "details": "The 'Maternity Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the women employees who are beneficiaries of the fund shall be given \u20b95,000/- each as maternity benefit during the period of maternity. The spouse of a male employee who is the beneficiary of the fund shall also be given this benefit. The benefits can only be availed twice.",
+        "details": "The 'Maternity Assistance' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the women employees who are beneficiaries of the fund shall be given ₹5,000/- each as maternity benefit during the period of maternity. The spouse of a male employee who is the beneficiary of the fund shall also be given this benefit. The benefits can only be availed twice.",
         "benefits": [
-            "Financial Assistance of \u20b95,000/- credited within 15 days through DBT.",
+            "Financial Assistance of ₹5,000/- credited within 15 days through DBT.",
             "The spouse of male employee who is the beneficiary of the fund shall also be given this benefit.",
             "The benefits can only be availed twice."
         ],
@@ -57,15 +57,15 @@
             },
             {
                 "question": "How long does it take for the financial assistance to be credited to the beneficiary's account under the Maternity Assistance scheme?",
-                "answer": "Beneficiaries can expect the financial assistance of \u20b95,000 to be credited to their accounts within 15 days through the Direct Benefit Transfer (DBT) mechanism."
+                "answer": "Beneficiaries can expect the financial assistance of ₹5,000 to be credited to their accounts within 15 days through the Direct Benefit Transfer (DBT) mechanism."
             },
             {
                 "question": "Is there an annual subscription fee for beneficiaries of the Maternity Assistance scheme?",
-                "answer": "Yes, beneficiaries are required to pay \u20b9100 per year as an annual subscription fee. Additionally, there is a registration fee of \u20b925 at the time of enrollment, and the Board collects \u20b9300 as a renewal fee once in three years."
+                "answer": "Yes, beneficiaries are required to pay ₹100 per year as an annual subscription fee. Additionally, there is a registration fee of ₹25 at the time of enrollment, and the Board collects ₹300 as a renewal fee once in three years."
             },
             {
                 "question": "How much financial assistance is provided to women employees and the spouses of male employees under the Maternity Assistance scheme?",
-                "answer": "Women employees and the spouses of male employees receive \u20b95,000 each as maternity benefit within 15 days through Direct Benefit Transfer (DBT). The benefit can be availed twice."
+                "answer": "Women employees and the spouses of male employees receive ₹5,000 each as maternity benefit within 15 days through Direct Benefit Transfer (DBT). The benefit can be availed twice."
             },
             {
                 "question": "Can the spouse of a male employee who is a beneficiary of the fund also avail the maternity benefit under the Maternity Assistance scheme?",
@@ -121,5 +121,6 @@
             "DBT",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001101"
 }

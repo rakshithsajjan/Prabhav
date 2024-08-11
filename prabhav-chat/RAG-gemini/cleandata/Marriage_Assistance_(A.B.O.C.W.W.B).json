@@ -7,7 +7,7 @@
         "beneficiary": "Construction Workers",
         "details": "The scheme 'Marriage Assistance' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the construction workers who are registered under A.B.O.C.W.W.B. for the marriage of their children. The assistance shall be for the marriage of two children of the beneficiary. A female registered member is also eligible for this assistance for her own marriage.",
         "benefits": [
-            "The financial assistance of \u20b925,000/- shall be given to registered workers for the marriage of their children.",
+            "The financial assistance of ₹25,000/- shall be given to registered workers for the marriage of their children.",
             "This assistance shall be for the marriage of two children of the registered workers.",
             "A female registered worker is also eligible for this assistance for her own marriage."
         ],
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How much financial assistance is provided under the scheme?",
-                "answer": "Registered workers are eligible for a financial assistance amounting to \u20b925,000/- for each child's marriage."
+                "answer": "Registered workers are eligible for a financial assistance amounting to ₹25,000/- for each child's marriage."
             },
             {
                 "question": "Can a female registered worker avail assistance for her own marriage under this scheme?",
@@ -94,5 +94,6 @@
             "Labour",
             "Construction Worker"
         ]
-    }
+    },
+    "id": "001083"
 }

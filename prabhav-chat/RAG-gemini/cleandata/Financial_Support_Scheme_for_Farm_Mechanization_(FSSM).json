@@ -7,7 +7,7 @@
         "beneficiary": "Farmer",
         "details": "Financial Support Scheme for Farm Mechanization (FSSM) under the Farm Mechanization Umbrella Scheme, was launched on 5th December 2012 by the Agriculture Department, Government of West Bengal for extending financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery with the aim to facilitate mechanization in agriculture so as to ensure better productivity and minimization of cost of cultivation. The scheme is applicable uniformly throughout the State, except Kolkata district.",
         "benefits": [
-            "Subsidy ranging from 50-60% of the indicative price of machinery subject to maximum ceiling of \u20b93,00,000/- will be provided to the beneficiary.",
+            "Subsidy ranging from 50-60% of the indicative price of machinery subject to maximum ceiling of ₹3,00,000/- will be provided to the beneficiary.",
             "An exhaustive list of different farm machinery with subsidy limits is provided in Annexure-II based on Cost Norms and Pattern of Financial Assistance under Sub Mission on Agricultural Mechanization(SMAM)."
         ],
         "eligibility": [
@@ -73,5 +73,6 @@
             "Financial Assistance",
             "Mechanization"
         ]
-    }
+    },
+    "id": "000619"
 }

@@ -5,16 +5,16 @@
         "department": "Directorate of Employment, Government of Haryana",
         "type": "Allowance",
         "beneficiary": "Educated Unemployed Youth",
-        "details": "The scheme 'Unemployment Allowance for the Educated Unemployed Youth Scheme' is implemented by the Directorate of Employment, Government of Haryana. The scheme was introduced on 01.11.1988 which provides monthly unemployment allowance to the educated unemployed youth registered with the Employment Exchanges in Haryana. Applicants who have passed the 10+2 examination or hold a 2-year certificate/diploma course after Matric receive \u20b9900/- per month. Those with a Graduate degree or above, or who have completed a 3-year certificate/diploma course after the 10+2 examination, receive \u20b91,500/- per month. The scheme supports educated youth in their job search and reduces financial stress during unemployment.",
+        "details": "The scheme 'Unemployment Allowance for the Educated Unemployed Youth Scheme' is implemented by the Directorate of Employment, Government of Haryana. The scheme was introduced on 01.11.1988 which provides monthly unemployment allowance to the educated unemployed youth registered with the Employment Exchanges in Haryana. Applicants who have passed the 10+2 examination or hold a 2-year certificate/diploma course after Matric receive ₹900/- per month. Those with a Graduate degree or above, or who have completed a 3-year certificate/diploma course after the 10+2 examination, receive ₹1,500/- per month. The scheme supports educated youth in their job search and reduces financial stress during unemployment.",
         "benefits": [
-            "\u20b9900/- per month for applicants who have passed the 10+2 examination or hold a 2-year certificate/diploma course after Matric.",
-            "\u20b91,500/- per month for applicants with a Graduate degree or above, or who have completed a 3-year certificate/diploma course after the 10+2 examination."
+            "₹900/- per month for applicants who have passed the 10+2 examination or hold a 2-year certificate/diploma course after Matric.",
+            "₹1,500/- per month for applicants with a Graduate degree or above, or who have completed a 3-year certificate/diploma course after the 10+2 examination."
         ],
         "eligibility": [
             "The applicant should be domicile of Haryana.",
             "Applicants must have passed the 10+2 examination, completed a 2-year certificate/diploma after Matric from a Haryana-recognized Board/University, hold a Graduate degree or higher, or completed a 3-year certificate/diploma or above after the 10+2 examination.",
             "The applicant should be registered with any Employment Exchange in the State continuously for a minimum period of 3 years or more as on 1st November of each year.",
-            "The annual family income from all sources including that of the spouse should not exceed \u20b93,00,000/- or the family should not have residential or commercial property exceeding \u20b910.00 Lakhs in value or agriculture land in excess of 2 hectares.",
+            "The annual family income from all sources including that of the spouse should not exceed ₹3,00,000/- or the family should not have residential or commercial property exceeding ₹10.00 Lakhs in value or agriculture land in excess of 2 hectares.",
             "The applicant should be in the age group of 21-35 years.",
             "The applicant should not be a student/trainee/apprentice.",
             "The applicant should not be employed/self-employed.",
@@ -49,12 +49,12 @@
                 "answer": "The scheme was introduced on 1st November 1988."
             },
             {
-                "question": "Who is eligible for the \u20b9900/- monthly allowance?",
-                "answer": "Applicants who have passed the 10+2 examination or hold a 2-year certificate/diploma course after Matric are eligible for \u20b9900 per month."
+                "question": "Who is eligible for the ₹900/- monthly allowance?",
+                "answer": "Applicants who have passed the 10+2 examination or hold a 2-year certificate/diploma course after Matric are eligible for ₹900 per month."
             },
             {
-                "question": "Who qualifies for the \u20b91,500 monthly allowance?",
-                "answer": "Applicants with a Graduate degree or above, or those who have completed a 3-year certificate/diploma course after the 10+2 examination, qualify for \u20b91,500 per month."
+                "question": "Who qualifies for the ₹1,500 monthly allowance?",
+                "answer": "Applicants with a Graduate degree or above, or those who have completed a 3-year certificate/diploma course after the 10+2 examination, qualify for ₹1,500 per month."
             },
             {
                 "question": "What are the age criteria for the scheme?",
@@ -70,11 +70,11 @@
             },
             {
                 "question": "What is the maximum annual family income to be eligible for the allowance?",
-                "answer": "The family's annual income from all sources should not exceed \u20b93,00,000/-."
+                "answer": "The family's annual income from all sources should not exceed ₹3,00,000/-."
             },
             {
                 "question": "What are the property criteria for eligibility?",
-                "answer": "The family should not have residential or commercial property exceeding \u20b910 lakhs in value or agricultural land exceeding 2 hectares."
+                "answer": "The family should not have residential or commercial property exceeding ₹10 lakhs in value or agricultural land exceeding 2 hectares."
             },
             {
                 "question": "Can a student apply for this allowance?",
@@ -123,5 +123,6 @@
                 "url": "https://hrex.gov.in/#/register"
             }
         ]
-    }
+    },
+    "id": "001987"
 }

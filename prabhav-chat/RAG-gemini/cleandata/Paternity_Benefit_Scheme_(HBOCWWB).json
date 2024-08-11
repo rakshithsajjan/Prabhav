@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Registered male construction workers",
-        "details": "The scheme 'Paternity Benefit Scheme (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under this scheme, financial assistance of \u20b921,000/- (i.e. \u20b915,000/- for proper care of the newborn baby and \u20b96,000/- for nutritious food for the wife) will be given to registered male construction workers as paternity benefits. Further, the paternity benefits under the scheme will be given to registered male workers on the birth of child up to two children but expandable up to the birth of three daughters irrespective of the order of their birth.",
+        "details": "The scheme 'Paternity Benefit Scheme (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under this scheme, financial assistance of ₹21,000/- (i.e. ₹15,000/- for proper care of the newborn baby and ₹6,000/- for nutritious food for the wife) will be given to registered male construction workers as paternity benefits. Further, the paternity benefits under the scheme will be given to registered male workers on the birth of child up to two children but expandable up to the birth of three daughters irrespective of the order of their birth.",
         "benefits": [
-            "Financial assistance of \u20b921,000/- (i.e. \u20b915,000/- for proper care of the newborn baby and \u20b96,000/- for nutritious food for the wife) will be given to a registered male construction worker whose wife has delivered a baby.",
+            "Financial assistance of ₹21,000/- (i.e. ₹15,000/- for proper care of the newborn baby and ₹6,000/- for nutritious food for the wife) will be given to a registered male construction worker whose wife has delivered a baby.",
             "The paternity benefit is given to the male registered worker for up to two children but is expandable up to the birth of three daughters irrespective of the order of their birth."
         ],
         "eligibility": [
@@ -34,7 +34,7 @@
         "faqs": [
             {
                 "question": "What is the 'Paternity Benefit Scheme (HBOCWWB)' scheme?",
-                "answer": "Under this scheme, financial assistance of \u20b921,000/- (i.e. \u20b915,000/- for proper care of the newborn baby and \u20b96,000/- for nutritious food for the wife) will be given to registered male construction workers as paternity benefits."
+                "answer": "Under this scheme, financial assistance of ₹21,000/- (i.e. ₹15,000/- for proper care of the newborn baby and ₹6,000/- for nutritious food for the wife) will be given to registered male construction workers as paternity benefits."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, financial assistance of \u20b921,000/- (i.e. \u20b915,000/- for proper care of the newborn baby and \u20b96,000/- for nutritious food for the wife) will be given to a registered male construction worker whose wife has delivered a baby."
+                "answer": "Under this scheme, financial assistance of ₹21,000/- (i.e. ₹15,000/- for proper care of the newborn baby and ₹6,000/- for nutritious food for the wife) will be given to a registered male construction worker whose wife has delivered a baby."
             },
             {
                 "question": "For how many children will the paternity benefit be given to registered workers?",
@@ -62,7 +62,7 @@
             },
             {
                 "question": "In how many days the application form can be submitted to the Competent Authority?",
-                "answer": "It is mandatory to submit the application form along with all the documents to the competent authority within one year of delivery of the worker\u2019s wife."
+                "answer": "It is mandatory to submit the application form along with all the documents to the competent authority within one year of delivery of the worker’s wife."
             },
             {
                 "question": "Is the worker required to submit an undertaking?",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Yes, the first-time registration charges are \u20b925/- and the registration fees vary according to the renewal time period."
+                "answer": "Yes, the first-time registration charges are ₹25/- and the registration fees vary according to the renewal time period."
             },
             {
                 "question": "How can a worker apply under the scheme?",
@@ -108,5 +108,6 @@
             "Paternity",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001416"
 }

@@ -12,7 +12,7 @@
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The annual income of the applicant should not exceed \u20b9 75,000/-.",
+            "The annual income of the applicant should not exceed ₹ 75,000/-.",
             "The applicant should have a disability of 40% or above.",
             "The applicant should not have performed the tour for the past ten years.",
             "The applicant should not be affected by any contagious diseases.",
@@ -76,7 +76,7 @@
             },
             {
                 "question": "What is the maximum annual income allowed for eligibility?",
-                "answer": "To qualify, the applicant's annual income should not exceed \u20b975,000."
+                "answer": "To qualify, the applicant's annual income should not exceed ₹75,000."
             },
             {
                 "question": "Are there any restrictions on the consumption of certain items during the tour?",
@@ -113,5 +113,6 @@
             "Transport",
             "Travel"
         ]
-    }
+    },
+    "id": "000089"
 }

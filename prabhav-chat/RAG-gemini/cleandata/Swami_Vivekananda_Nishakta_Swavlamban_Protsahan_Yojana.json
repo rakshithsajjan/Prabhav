@@ -5,19 +5,19 @@
         "department": "Department of Women, Child Development & Social Security",
         "type": "Direct Benefit Transfer",
         "beneficiary": "Differently Abled",
-        "details": "Launched by the Department of Women, Child Development & Social Security, Government of Jharkhand, \u201cSwami Vivekananda Nishakta Swavlamban Protsahan Yojana\u201d aims to provide social security to differently abled people aged five(5) years and above who are unable to sustain themselves with their own resources and are in need of financial assistance. It is a Direct Benefit Transfer (DBT) scheme, so pension the amount will be directly transferred to the bank account of the beneficiary.",
+        "details": "Launched by the Department of Women, Child Development & Social Security, Government of Jharkhand, “Swami Vivekananda Nishakta Swavlamban Protsahan Yojana” aims to provide social security to differently abled people aged five(5) years and above who are unable to sustain themselves with their own resources and are in need of financial assistance. It is a Direct Benefit Transfer (DBT) scheme, so pension the amount will be directly transferred to the bank account of the beneficiary.",
         "benefits": [
-            "Amount: \u20b9 1,000/- per month to the eligible beneficiary."
+            "Amount: ₹ 1,000/- per month to the eligible beneficiary."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Jharkhand.",
             "The applicant should have attained the age of five (5) years or more.",
             "The applicant must belong to any of the following categories: Rights of Persons with Disabilities Act, 2016 Section-2 (r) benchmark disability, Section-2 (s) Persons with Disabilities, Section-2 (t) Persons with Disability having high support needs, Section-2 (zc) 'Specified Disability'.",
-            "The applicant should have a Voter ID card and Aadhar Card (For applicant\u2019s aged 18 years and above).",
+            "The applicant should have a Voter ID card and Aadhar Card (For applicant’s aged 18 years and above).",
             "The applicant should not be a beneficiary under any other Social Security pension scheme.",
             "The applicant should not be retired or permanently employed in Central and State Government or in public sector undertakings.",
             "The applicant or their spouse should not be a recipient of any family pension or pension from Central and State Government or from public sector undertakings.",
-            "Applicant\u2019s family is not an income tax payee."
+            "Applicant’s family is not an income tax payee."
         ],
         "exclusions": [],
         "application_process": "Offline. Step 01: The interested applicant should request the prescribed format of the application from the office of Block Development Officer (BDO) / Sub Divisional Officer (SDO) / Circle Officer. Step 02: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required). Step 03: Submit the duly filled and signed application form along with the documents to the concerned authority at: Office of the BDO in rural areas. Office of the SDO or Circle Officer in Municipalities and notified areas.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What is the rate and periodicity of the pension?",
-                "answer": "The monthly pension is \u20b91000/-."
+                "answer": "The monthly pension is ₹1000/-."
             },
             {
                 "question": "Is the pension provided in cash?",
@@ -82,5 +82,6 @@
             "Pension",
             "Social Empowerment"
         ]
-    }
+    },
+    "id": "001906"
 }

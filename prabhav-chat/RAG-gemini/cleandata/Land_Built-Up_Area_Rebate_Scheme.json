@@ -7,9 +7,9 @@
         "beneficiary": "IT Industry",
         "details": "Launched in 2018, the 'Land/Built-Up Area Rebate Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The scheme aims to provide Land / Built-up Area Rebate to the IT Industry in the state of Goa. All the New and Existing Units having their operations in Goa are eligible. A one-time rebate is provided for the purchase of Land for creating IT Office Space and for the purchase of Built-Up office space for IT operations.",
         "benefits": [
-            "Purchase of Land for creating IT Office Space: A one-time rebate at \u20b940,000 per male employee (\u20b950,000 per female employee) will be provided up to 60% of the cost of the land as determined by the Consideration Amount (value as defined in the Stamp Registration/ Sale Deed).",
+            "Purchase of Land for creating IT Office Space: A one-time rebate at ₹40,000 per male employee (₹50,000 per female employee) will be provided up to 60% of the cost of the land as determined by the Consideration Amount (value as defined in the Stamp Registration/ Sale Deed).",
             "Purchase of Built-Up office space for IT operations: A one-time rebate will be provided up to 20% of the cost of the space as determined by the Consideration Amount (value as defined in the Stamp Registration/ Sale Deed).",
-            "Maximum rebate under this provision for land purchased would be \u20b91,50,00,000 and for the purchase of Built up space would be \u20b91,00,00,000.",
+            "Maximum rebate under this provision for land purchased would be ₹1,50,00,000 and for the purchase of Built up space would be ₹1,00,00,000.",
             "A Unit can avail of any one of the above-mentioned rebate options.",
             "For Existing Units, rebates may be claimed on transactions that are made up to 3 years prior to the notification of the policy.",
             "For New Units, the rebate may be availed on transactions made post-notification of the policy."
@@ -45,7 +45,7 @@
         "faqs": [
             {
                 "question": "What is the maximum rebate amount for the purchase of land under the 'Land/Built-Up Area Rebate Scheme'?",
-                "answer": "The maximum rebate for land purchase is \u20b91,50,00,000 as per the Stamp Registration/ Sale Deed value."
+                "answer": "The maximum rebate for land purchase is ₹1,50,00,000 as per the Stamp Registration/ Sale Deed value."
             },
             {
                 "question": "Can a unit avail both rebates for land and built-up office space simultaneously?",
@@ -128,5 +128,6 @@
             "Goa",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001017"
 }

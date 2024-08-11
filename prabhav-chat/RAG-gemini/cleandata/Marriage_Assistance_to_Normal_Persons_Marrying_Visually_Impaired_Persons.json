@@ -7,8 +7,8 @@
         "beneficiary": "Differently-abled Person",
         "details": "In recognition of the distinct considerations inherent in marriages where one partner is visually impaired, the 'Marriage Assistance Scheme for Individuals Marrying Visually Impaired Persons' provides targeted financial assistance. This program aims to mitigate potential economic burdens associated with visual impairment, such as the requirement for specialized equipment or additional support services. This intervention not only fosters a more inclusive social environment but also empowers couples to embark on their marital journey with greater financial stability, thus solidifying the foundation for a prosperous and fulfilling union. Furthermore, the program serves as a testament to societal acceptance of diverse family structures, celebrating the richness that such diversity brings to the community. By alleviating potential financial barriers, the scheme encourages the formation of strong and enduring relationships between individuals, irrespective of their visual abilities.",
         "benefits": [
-            "Marriage assistance amount: \u20b925,000/- as \u20b912,500/- National Savings Certificate and \u20b912,500/- cheque/Demand Draft for marriage expenses.",
-            "Additional benefit if either spouse has a degree/diploma: Increased amount to \u20b950,000/- as \u20b925,000/- National Savings Certificate and \u20b925,000/- cheque/Demand Draft.",
+            "Marriage assistance amount: ₹25,000/- as ₹12,500/- National Savings Certificate and ₹12,500/- cheque/Demand Draft for marriage expenses.",
+            "Additional benefit if either spouse has a degree/diploma: Increased amount to ₹50,000/- as ₹25,000/- National Savings Certificate and ₹25,000/- cheque/Demand Draft.",
             "Certificate of appreciation.",
             "8 gram gold coin for Tirumangalyam (a traditional South Indian symbol of marriage for women)."
         ],
@@ -70,5 +70,6 @@
             "Financial Assistance",
             "Differently-abled"
         ]
-    }
+    },
+    "id": "001093"
 }

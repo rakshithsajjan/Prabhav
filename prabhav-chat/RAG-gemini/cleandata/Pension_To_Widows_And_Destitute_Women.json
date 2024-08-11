@@ -5,15 +5,15 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Pension",
         "beneficiary": "Destitute Women",
-        "details": "The Haryana Pension to Widows and Destitute Women Scheme was introduced in the year 1980-81. The aim of the scheme is to provide social security to women who are unable to sustain themselves with their own resources and are in need of financial assistance. The rate of pension has been increased over the years, currently set at \u20b92500 per month.",
+        "details": "The Haryana Pension to Widows and Destitute Women Scheme was introduced in the year 1980-81. The aim of the scheme is to provide social security to women who are unable to sustain themselves with their own resources and are in need of financial assistance. The rate of pension has been increased over the years, currently set at ₹2500 per month.",
         "benefits": [
-            "Pension of \u20b92500 per month"
+            "Pension of ₹2500 per month"
         ],
         "eligibility": [
             "Women of age 18 years and above",
             "Domicile of Haryana",
             "Residing in Haryana State for the last one year",
-            "Own income from all sources below \u20b92,00,000 per annum",
+            "Own income from all sources below ₹2,00,000 per annum",
             "Must fulfill at least one of the following conditions: Widow, Destitute without husband, parents, and son(s), or Destitute due to desertion or physical/mental incapacity."
         ],
         "exclusions": [
@@ -23,12 +23,12 @@
         "application_process": "Applications can be made online through the E-Disha Center or Atal Seva Kendra. Online applications are accepted at https://saralharyana.gov.in/.",
         "documents_required": [
             "Application Form in Prescribed format",
-            "Identity Proof \u2013 Aadhaar Card of the parents",
-            "Age Proof Certificate \u2013 Birth Certificate or Mark sheet",
-            "Address Proof \u2013 BPL Ration Card",
+            "Identity Proof – Aadhaar Card of the parents",
+            "Age Proof Certificate – Birth Certificate or Mark sheet",
+            "Address Proof – BPL Ration Card",
             "Income Certificate",
             "Domicile Certificate",
-            "Death Certificate of Husband \u2013 For Widow",
+            "Death Certificate of Husband – For Widow",
             "Photograph of the parent",
             "Bank Account Details"
         ],
@@ -86,5 +86,6 @@
             "Destitute Women",
             "Haryana Scheme"
         ]
-    }
+    },
+    "id": "001434"
 }

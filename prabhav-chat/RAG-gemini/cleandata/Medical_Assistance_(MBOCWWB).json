@@ -7,9 +7,9 @@
         "beneficiary": "Registered construction workers",
         "details": "The scheme 'Medical Assistance' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board shall provide financial assistance to registered construction workers who are hospitalized for five or more days due to an accident or any disease.",
         "benefits": [
-            "The financial assistance shall be \u20b9200/- for first 5 days and \u20b920/- each for the remaining days subject to a minimum \u20b91,000/-.",
+            "The financial assistance shall be ₹200/- for first 5 days and ₹20/- each for the remaining days subject to a minimum ₹1,000/-.",
             "This assistance shall also be given to the beneficiary who meets with an accident and is put in plaster at the residence.",
-            "If disability resulted due to an accident, the worker shall be eligible for financial assistance upto a maximum \u20b95,000/- depending upon the percentage of disability."
+            "If disability resulted due to an accident, the worker shall be eligible for financial assistance upto a maximum ₹5,000/- depending upon the percentage of disability."
         ],
         "eligibility": [
             "The beneficiary should be a resident of Meghalaya.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "The scheme offers financial assistance of \u20b9200 for the first 5 days and \u20b920 for each subsequent day, ensuring a minimum payout of \u20b91,000. Additional assistance is provided for disabilities resulting from accidents, up to a maximum of \u20b95,000, based on the severity of disability."
+                "answer": "The scheme offers financial assistance of ₹200 for the first 5 days and ₹20 for each subsequent day, ensuring a minimum payout of ₹1,000. Additional assistance is provided for disabilities resulting from accidents, up to a maximum of ₹5,000, based on the severity of disability."
             },
             {
                 "question": "Who is eligible for the Medical Assistance Scheme?",
@@ -113,5 +113,6 @@
             "Labour",
             "Medical"
         ]
-    }
+    },
+    "id": "001121"
 }

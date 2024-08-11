@@ -5,13 +5,13 @@
         "department": "Social Welfare Department, Govt. of Tamil Nadu",
         "type": "Financial Assistance",
         "beneficiary": "Bride",
-        "details": "Moovalur Ramamirtham Ammaiyar Ninaivu Marriage Assistance Scheme-1 is a flagship scheme announced by the Hon\u2019ble Chief Minister of Tamil Nadu. The scheme is implemented by the Social Welfare Department, Govt. of Tamil Nadu. Under the scheme, Cash Assistance of \u20b9 25,000/- and an 8-gram gold coin is given to brides who have studied Class 10th. This scheme is only applicable for the marriage conducted from 17th May 2011 onwards. The objective of the scheme is to help financially poor parents in getting their daughters married.",
+        "details": "Moovalur Ramamirtham Ammaiyar Ninaivu Marriage Assistance Scheme-1 is a flagship scheme announced by the Hon’ble Chief Minister of Tamil Nadu. The scheme is implemented by the Social Welfare Department, Govt. of Tamil Nadu. Under the scheme, Cash Assistance of ₹ 25,000/- and an 8-gram gold coin is given to brides who have studied Class 10th. This scheme is only applicable for the marriage conducted from 17th May 2011 onwards. The objective of the scheme is to help financially poor parents in getting their daughters married.",
         "benefits": [
-            "Cash assistance of \u20b9 25,000 (paid through the Electronic Clearing Service ECS)",
+            "Cash assistance of ₹ 25,000 (paid through the Electronic Clearing Service ECS)",
             "One Sovereign (8 gram) 22-carat Gold Coin"
         ],
         "eligibility": [
-            "The annual income of the family of the applicant should not exceed \u20b9 72,000/-",
+            "The annual income of the family of the applicant should not exceed ₹ 72,000/-",
             "The girl should be of the legal marriage age, i.e. 18 years or above",
             "The boy should be of the legal marriage age, i.e. 21 years or above",
             "The girl should have studied up to 10th Standard. As a special case, a bride from the Scheduled Tribe community, with a minimum education of 5th Standard, can also avail of this scheme",
@@ -29,7 +29,7 @@
             "Transfer Certificate (or) Age Certificate for Bridegroom",
             "Passport Sized Photo of the Mother of the Bride, Bridegroom, and their Mother & Father",
             "Bank Pass Book",
-            "Aadhar Card of the Bride\u2019s Mother and Father"
+            "Aadhar Card of the Bride’s Mother and Father"
         ],
         "faqs": [
             {
@@ -46,7 +46,7 @@
             },
             {
                 "question": "How Are The Benefits Distributed To The Eligible Beneficiaries Under The Scheme?",
-                "answer": "The cash assistance of \u20b925,000 and the 8-gram gold coin are transferred to the individual bank accounts of the respective student beneficiaries through the Direct Benefit Transfer (DBT) method."
+                "answer": "The cash assistance of ₹25,000 and the 8-gram gold coin are transferred to the individual bank accounts of the respective student beneficiaries through the Direct Benefit Transfer (DBT) method."
             },
             {
                 "question": "Who Approves The List Of Beneficiaries Recommended By The Screening Committee?",
@@ -74,7 +74,7 @@
             },
             {
                 "question": "What Is The Eligibility Criteria For Brides To Avail Of The Scheme's Benefits?",
-                "answer": "The bride should have studied up to 10th Standard, be of legal marriage age (18 years or above), and come from a family with an annual income not exceeding \u20b972,000."
+                "answer": "The bride should have studied up to 10th Standard, be of legal marriage age (18 years or above), and come from a family with an annual income not exceeding ₹72,000."
             },
             {
                 "question": "Who Are The Concerned Officers Involved In The Implementation Of The Scheme At Different Levels?",
@@ -101,5 +101,6 @@
             "Gold",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001156"
 }

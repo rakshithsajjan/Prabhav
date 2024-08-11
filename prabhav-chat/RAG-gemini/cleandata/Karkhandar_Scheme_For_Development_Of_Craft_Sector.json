@@ -7,10 +7,10 @@
         "beneficiary": "Pass-out trainees and ex-trainees from departmental training centers",
         "details": "A training and skilling upgradation scheme by the Department of Industries & Commerce and implemented by the Directorate of Handicraft & Handloom, Government of Jammu & Kashmir wherein passout meritorious trainees and ex-trainees from departmental training centers are identified and are provided skill upgradation training in crafts which are facing human resource crunch as well as in languishing crafts. Registered Karkhanas/Karkhandars are identified who are willing to enroll a batch of trainees and ex-trainees in their Karkhana. A minimum of five trainees for a small Karkhana and a maximum of 10 trainees for a big Karkhana. A minimum of one and a maximum of five training programs per craft shall be considered for the six-month duration of the training program.",
         "benefits": [
-            "Rate of stipend per trainee/ per month: \u20b92000/- (\u20b91000/- shall be paid through an individual bank account and the rest of the amount shall be disbursed on the successful completion of probation/ practical training session).",
+            "Rate of stipend per trainee/ per month: ₹2000/- (₹1000/- shall be paid through an individual bank account and the rest of the amount shall be disbursed on the successful completion of probation/ practical training session).",
             "The trainees are facilitated in the opening of Bank accounts under the Pradhan Mantri Jan-Dhan Yojana (PMJDY).",
-            "Logistic Charges/Honorarium to Trainer/Karkhandar: \u20b9 2000/- per trainee per month.",
-            "The Karkhandar is provided a lump sum of \u20b925,000/- per batch as expenditure on account of all the logistics needed for running the training program successfully."
+            "Logistic Charges/Honorarium to Trainer/Karkhandar: ₹ 2000/- per trainee per month.",
+            "The Karkhandar is provided a lump sum of ₹25,000/- per batch as expenditure on account of all the logistics needed for running the training program successfully."
         ],
         "eligibility": [
             "The applicant must be a pass-out trainee/ex-trainee from a departmental training center.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What Financial Assistance Will Be Provided To The Karkhandar?",
-                "answer": "The Karkhandar shall be provided a lump sum of \u20b925,000/- per batch as expenditure on account of all the logistics needed for running the training program successfully."
+                "answer": "The Karkhandar shall be provided a lump sum of ₹25,000/- per batch as expenditure on account of all the logistics needed for running the training program successfully."
             },
             {
                 "question": "Is There Any Minimum Educational Qualification Required To Avail Of The Benefits Under The Scheme?",
@@ -92,5 +92,6 @@
             "Skill",
             "Training"
         ]
-    }
+    },
+    "id": "000969"
 }

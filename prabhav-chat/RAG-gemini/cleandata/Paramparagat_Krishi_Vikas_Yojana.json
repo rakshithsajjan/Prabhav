@@ -5,7 +5,7 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Grant",
         "beneficiary": "Farmers and agricultural institutions",
-        "details": "PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health. The scheme promotes Participatory Guarantee System (PGS) For India (PGS- India) form of organic certification that is built on mutual trust, locally relevant and mandates the involvement of producers and consumers in the process of certification. PGS \u2013 India operates outside the framework of 'Third Party Certification'.",
+        "details": "PKVY aims at supporting and promoting organic farming, in turn resulting in improvement of soil health. The scheme promotes Participatory Guarantee System (PGS) For India (PGS- India) form of organic certification that is built on mutual trust, locally relevant and mandates the involvement of producers and consumers in the process of certification. PGS – India operates outside the framework of 'Third Party Certification'.",
         "benefits": [
             "Promotion of organic farming, in turn resulting in improvement of soil health",
             "Sustainable production of chemical free and nutritious agriculture produce",
@@ -67,5 +67,6 @@
             "Soil Health",
             "Farmers Empowerment"
         ]
-    }
+    },
+    "id": "001413"
 }

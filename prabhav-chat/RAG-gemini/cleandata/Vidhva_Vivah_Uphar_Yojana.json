@@ -7,7 +7,7 @@
         "beneficiary": "Widow Women",
         "details": "Vidhwa Vivah Uphar Yojana is a government scheme that assists in the process of marriage of widows. This scheme is for those widows who have decided to start a new life after the time spent with their former husbands. The government provides a certain amount to widows, which can be used in the marriage of widows. The money is used to help widows meet the comfortable needs of their new home.",
         "benefits": [
-            "Financial Assistance/Gift amount \u20b951,000/-"
+            "Financial Assistance/Gift amount ₹51,000/-"
         ],
         "eligibility": [
             "Applicant must be a widow women from Rajasthan State.",
@@ -97,5 +97,6 @@
             "Widow",
             "Women"
         ]
-    }
+    },
+    "id": "002009"
 }

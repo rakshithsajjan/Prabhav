@@ -7,9 +7,9 @@
         "beneficiary": "Coir Workers",
         "details": "A group insurance scheme by MoMSME for coir workers. The scheme provides insurance cover against accidental death and permanent disability of the insured member. The coir processing activities such as extraction of fibre, spinning of coir yarn and manufacture of coir rope, finished products involve drudgery, strain and hardships. The workers engaged in processing of coir with the aid of machineries and equipments are prone to minor or major accidents at work site and elsewhere. The Scheme will provide succor to the legal heir of coir worker who meet with accidental death and compensation to coir workers who sustain permanent total disability or permanent partial disability.",
         "benefits": [
-            "For death due to accident \u2013 Rs.50,000.",
-            "For permanent total disability (loss of two eyes or two limbs, loss of one eye and one limb) \u2013 Rs.50,000.",
-            "For permanent partial disability (loss of one eye or one limb) \u2013 Rs.25,000."
+            "For death due to accident – Rs.50,000.",
+            "For permanent total disability (loss of two eyes or two limbs, loss of one eye and one limb) – Rs.50,000.",
+            "For permanent partial disability (loss of one eye or one limb) – Rs.25,000."
         ],
         "eligibility": [
             "The applicant must be EITHER a disabled coir worker OR nominee of the disabled/deceased coir worker.",
@@ -20,13 +20,13 @@
             "Normal or natural death.",
             "Death due to any disease.",
             "Death not traceable to or linked to any accident.",
-            "Self \u2013 injury, suicide or attempted suicide.",
+            "Self – injury, suicide or attempted suicide.",
             "Performing any crime of law with criminal intent.",
             "Venereal disease or insanity.",
             "Impact of alcoholic drinks or drugs.",
             "War and allied perils Nuclear explosion."
         ],
-        "application_process": "Offline. Submission of Claim - To apply for a claim under the insurance scheme, follow the procedure specified below: Immediate written notice of claim should be given to the Insurance company through Coir Board along with the particulars. In case of death, notice should be given before internment/cremation within one month from the death. In case of loss of sight or amputation of limbs, claim notice should be provided within one month from the loss of sight or loss of a limb. In the case of permanent total or partial disablement and temporary total disablement claims, the insured persons are required to obtain a claim form along with the Doctor\u2019s certificate, medical bills, diagnostic reports, like x-rays, etc. to prove the extent of accidental injuries occurred.",
+        "application_process": "Offline. Submission of Claim - To apply for a claim under the insurance scheme, follow the procedure specified below: Immediate written notice of claim should be given to the Insurance company through Coir Board along with the particulars. In case of death, notice should be given before internment/cremation within one month from the death. In case of loss of sight or amputation of limbs, claim notice should be provided within one month from the loss of sight or loss of a limb. In the case of permanent total or partial disablement and temporary total disablement claims, the insured persons are required to obtain a claim form along with the Doctor’s certificate, medical bills, diagnostic reports, like x-rays, etc. to prove the extent of accidental injuries occurred.",
         "documents_required": [
             "In case of Accidental Death: Copy of Death certificate of the deceased person, Copy of police report or FIR, Copy of Post-Mortem report if required, Copy of certificate issued by the Coir society, unit, establishment, nominated an officer of coir board.",
             "In the case of Permanent Total Disability (PTD): Copy of Police report or FIR, Copy of disability certificate from a registered medical practitioner, Copy of certificate issued by the Coir society, unit, establishment, nominated an officer of coir board.",
@@ -34,7 +34,7 @@
         ],
         "faqs": [
             {
-                "question": "What defines \u2018permanent disability\u2019 as per this scheme?",
+                "question": "What defines ‘permanent disability’ as per this scheme?",
                 "answer": "For the purpose of this scheme, 'permanent total disability' means loss of two eyes or two limbs, loss of one eye and one limb."
             },
             {
@@ -59,7 +59,7 @@
             },
             {
                 "question": "Are there any exclusions to this scheme?",
-                "answer": "The insurance cover will not be applicable under the following cases: Normal or natural death. Death due to any disease. Death not traceable to or linked to any accident. Self \u2013 injury, suicide or attempted suicide. Performing any crime of law with criminal intent. Venereal disease or insanity. Impact of alcoholic drinks or drugs. War and allied perils Nuclear explosion."
+                "answer": "The insurance cover will not be applicable under the following cases: Normal or natural death. Death due to any disease. Death not traceable to or linked to any accident. Self – injury, suicide or attempted suicide. Performing any crime of law with criminal intent. Venereal disease or insanity. Impact of alcoholic drinks or drugs. War and allied perils Nuclear explosion."
             }
         ],
         "sources": [
@@ -74,5 +74,6 @@
             "Accidental Death",
             "Disability"
         ]
-    }
+    },
+    "id": "000752"
 }

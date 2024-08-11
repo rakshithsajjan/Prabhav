@@ -7,7 +7,7 @@
         "beneficiary": "Mentee Beneficiary Institutes and Mentor Institute",
         "details": "Margdarshan Initiative has been introduced by All India Council for Technical Education in 2018 for facilitating the technical institutes in order to improve the quality of technical education as a whole through accreditation by providing access to the facilities available in host institute. This Initiative is a facilitative mechanism that aims to foster & augment the support ecosystem in the Institutes approved by AICTE for enhancing their quality across all domains.",
         "benefits": [
-            "The Council has made provisions of a token grant in aid of \u20b9 3,00,000/- per MBI. Hence a maximum \u20b9 30,00,000/- can be sanctioned to an MI for conducting activities under the Margdarshan Scheme for 10 MBIs altogether.",
+            "The Council has made provisions of a token grant in aid of ₹ 3,00,000/- per MBI. Hence a maximum ₹ 30,00,000/- can be sanctioned to an MI for conducting activities under the Margdarshan Scheme for 10 MBIs altogether.",
             "Suitable honorarium to staff engaged in running the scheme."
         ],
         "eligibility": [
@@ -54,5 +54,6 @@
             "Accreditation",
             "Mentorship"
         ]
-    }
+    },
+    "id": "000014"
 }

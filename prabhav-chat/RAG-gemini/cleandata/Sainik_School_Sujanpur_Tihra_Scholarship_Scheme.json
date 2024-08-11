@@ -7,9 +7,9 @@
         "beneficiary": "Students of Himachal Pradesh studying at Sainik School Sujanpur Tihra",
         "details": "The scheme 'Sainik School Sujanpur Tihra Scholarship Scheme' was started by the Department of Education, Himachal Pradesh. Under the scheme, a scholarship is given to the students of Himachal Pradesh who are studying at Sainik School Sujanpur Tihra. The Scholarships will be awarded on merit-cum-means basis to such students who are eligible for admission and who actually join the Sainik Schools on the basis of a competitive entrance examination that may be held every year for this purpose.",
         "benefits": [
-            "Under the scheme, the scholarship will be given to the eligible students at the rate of \u20b918000/- per annum.",
-            "In addition, the students will be given Dietary Money @ \u20b910/- per day for 295 days.",
-            "Clothing Allowance @ \u20b91500/- per annum for the first year and \u20b9750/- per annum for the subsequent years."
+            "Under the scheme, the scholarship will be given to the eligible students at the rate of ₹18000/- per annum.",
+            "In addition, the students will be given Dietary Money @ ₹10/- per day for 295 days.",
+            "Clothing Allowance @ ₹1500/- per annum for the first year and ₹750/- per annum for the subsequent years."
         ],
         "eligibility": [
             "The students who are studying in Sainik School Sujanpur Tihra and are Bonafide residents of Himachal Pradesh from Class VI to XII will be eligible to apply for the scholarship.",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The scholarships shall be paid at the rate of \u20b918000/- per annum per student."
+                "answer": "The scholarships shall be paid at the rate of ₹18000/- per annum per student."
             },
             {
                 "question": "What other benefits will be given to the students under the scheme?",
-                "answer": "In addition, the students will be given Dietary Money @ \u20b910/- per day for 295 days. Clothing Allowance @ \u20b91500/- per annum for the first year and \u20b9750/- per annum for the subsequent years."
+                "answer": "In addition, the students will be given Dietary Money @ ₹10/- per day for 295 days. Clothing Allowance @ ₹1500/- per annum for the first year and ₹750/- per annum for the subsequent years."
             },
             {
                 "question": "For how long a student will receive scholarship?",
@@ -93,5 +93,6 @@
             "Himachal Pradesh",
             "Education"
         ]
-    }
+    },
+    "id": "001633"
 }

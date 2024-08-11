@@ -7,8 +7,8 @@
         "beneficiary": "Scheduled Caste Medical Post Graduate (M.D/M.S) Doctors",
         "details": "The scheme 'Dr. P. G. Solanki Scheme for Loan/Assistance to Medical Post Graduate Doctors of Scheduled Caste' was launched by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was launched in the year 1982. Under the scheme, loans/financial assistance is given to the Scheduled Caste Medical Post Graduate (M.D/M.S) Doctors to start their independent profession/clinic consultation room, etc.",
         "benefits": [
-            "Subsidy/assistance of \u20b950,000/-",
-            "Loan up to \u20b93,00,000/- at an interest rate of 4%"
+            "Subsidy/assistance of ₹50,000/-",
+            "Loan up to ₹3,00,000/- at an interest rate of 4%"
         ],
         "eligibility": [
             "The applicant should be a Medical Post Graduate (M.D/M.S) Doctor",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What financial benefits are provided under this scheme?",
-                "answer": "Beneficiaries receive a subsidy/assistance of \u20b950,000/- and a loan of up to \u20b93,00,000/- at an interest rate of 4%."
+                "answer": "Beneficiaries receive a subsidy/assistance of ₹50,000/- and a loan of up to ₹3,00,000/- at an interest rate of 4%."
             },
             {
                 "question": "What are the eligibility criteria for applicants?",
@@ -116,5 +116,6 @@
                 "url": "https://sje.gujarat.gov.in/dscw/assets/downloads/10_150920008121224154.pdf"
             }
         ]
-    }
+    },
+    "id": "000442"
 }

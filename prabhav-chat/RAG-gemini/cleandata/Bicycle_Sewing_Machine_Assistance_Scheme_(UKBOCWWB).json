@@ -5,7 +5,7 @@
         "department": "Labour Department, Government of Uttarakhand",
         "type": "Welfare Scheme",
         "beneficiary": "Registered building & construction workers",
-        "details": "The \u201cBicycle/Sewing Machine Assistance Scheme\u201d is a welfare scheme which is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, bicycles are provided to registered building & construction workers in plain areas, while sewing machines are provided to registered workers or their dependents in mountainous/hilly areas. These benefits are granted only once in a lifetime.",
+        "details": "The “Bicycle/Sewing Machine Assistance Scheme” is a welfare scheme which is implemented by the Uttarakhand Building and Other Construction Workers’ Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, bicycles are provided to registered building & construction workers in plain areas, while sewing machines are provided to registered workers or their dependents in mountainous/hilly areas. These benefits are granted only once in a lifetime.",
         "benefits": [
             "Under the scheme, bicycles are given to registered building & construction workers in plain areas.",
             "Sewing machines are given to registered workers or their dependents in mountainous/hilly areas."
@@ -13,7 +13,7 @@
         "eligibility": [
             "The applicant/beneficiary should be a resident of Uttarakhand.",
             "The applicant should be engaged in any building or construction work.",
-            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers’ Welfare Board.",
             "The applicant will become eligible for assistance only after three months from their registration.",
             "The applicant should have an active membership of the Board.",
             "The benefits are granted only once in a lifetime."
@@ -28,7 +28,7 @@
             "Voter ID card",
             "Ration card",
             "[Self-declaration](https://ukbocw.uk.gov.in/images/Labour%20Registration.pdf) certificate",
-            "Nominee\u2019s Identity proof i.e. Aadhaar Card",
+            "Nominee’s Identity proof i.e. Aadhaar Card",
             "Bank account details",
             "Any other document as required"
         ],
@@ -51,7 +51,7 @@
             },
             {
                 "question": "Is there a cost for registration under UKBOCWWB?",
-                "answer": "Registration is free for the first three years. Afterward, a \u20b9100 contribution is required every three years."
+                "answer": "Registration is free for the first three years. Afterward, a ₹100 contribution is required every three years."
             },
             {
                 "question": "Can the status of registration application be tracked online?",
@@ -99,5 +99,6 @@
             "Construction Worker",
             "Labour"
         ]
-    }
+    },
+    "id": "000200"
 }

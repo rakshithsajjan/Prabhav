@@ -7,10 +7,10 @@
         "beneficiary": "Institutions and Individuals involved in long-term projects in the field of Art and Culture",
         "details": "The scheme provides financial support to the institutions/individuals involved in long-term projects in the field of Art & Culture. The objectives include creating a cultural environment in Goa, providing financial support, and preserving the cultural heritage of Goa.",
         "benefits": [
-            "A grant to the extent of 80% of the total expenditure involved, subject to a maximum ceiling of \u20b9 5,00,000 per annum."
+            "A grant to the extent of 80% of the total expenditure involved, subject to a maximum ceiling of ₹ 5,00,000 per annum."
         ],
         "eligibility": [
-            "For Institutions: Any institution registered under the Society\u2019s Registration Act, 1860 or Indian Trust Act, involved in long-term projects in the field of Art and Culture.",
+            "For Institutions: Any institution registered under the Society’s Registration Act, 1860 or Indian Trust Act, involved in long-term projects in the field of Art and Culture.",
             "For Individuals: Any individual from the Goan community, who has been a resident of Goa for 15 years or more, involved in a long-term project in the field of Art and Culture with at least 15 years of contribution."
         ],
         "exclusions": [],
@@ -52,5 +52,6 @@
             "Grant",
             "Project"
         ]
-    }
+    },
+    "id": "001741"
 }

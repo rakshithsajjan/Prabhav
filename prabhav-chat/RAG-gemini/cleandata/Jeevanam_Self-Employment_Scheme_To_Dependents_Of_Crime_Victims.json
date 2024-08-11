@@ -7,12 +7,12 @@
         "beneficiary": "Dependents of Crime Victims",
         "details": "The scheme 'Jeevanam Self-Employment Scheme to Dependents of Crime Victims' was launched by the Department of Social Justice, Government of Kerala. As part of strengthening the victim support services in the State, the Government of Kerala has started this scheme which provides financial aid to dependents as well as victims of crime. The assistance would benefit those who were struggling to make a living, including dependents of the victims of the crime and those with serious injuries.",
         "benefits": [
-            "Financial assistance of \u20b920,000/- will be provided as one-time assistance to the eligible beneficiary."
+            "Financial assistance of ₹20,000/- will be provided as one-time assistance to the eligible beneficiary."
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
             "The applicant must be either the person who has been seriously injured in a crime or must be a dependent - Wife/Husband/Unmarried son or daughter of the victim of the crime.",
-            "The annual income of the family should not exceed \u20b91,00,000/-.",
+            "The annual income of the family should not exceed ₹1,00,000/-.",
             "The applicant should have applied within 5 years of the crime."
         ],
         "exclusions": [],
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What is the income criterion under the scheme?",
-                "answer": "The annual income of the family should not exceed \u20b91,00,000/-."
+                "answer": "The annual income of the family should not exceed ₹1,00,000/-."
             },
             {
                 "question": "How many times a beneficiary can avail of the benefit under this scheme?",
@@ -60,11 +60,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b920,000/- will be provided as one-time assistance to the eligible beneficiary."
+                "answer": "Under the scheme, financial assistance of ₹20,000/- will be provided as one-time assistance to the eligible beneficiary."
             },
             {
-                "question": "Is the beneficiary selected for the grant\u2013in\u2013aid required to execute an agreement with the department?",
-                "answer": "Yes, the beneficiary selected for the grant\u2013in\u2013aid is required to execute an agreement with the Department of social justice on a stamp paper of \u20b9200/-."
+                "question": "Is the beneficiary selected for the grant–in–aid required to execute an agreement with the department?",
+                "answer": "Yes, the beneficiary selected for the grant–in–aid is required to execute an agreement with the Department of social justice on a stamp paper of ₹200/-."
             },
             {
                 "question": "Within how many days the applicant should apply for financial assistance?",
@@ -96,5 +96,6 @@
             "Self-Employment",
             "Victim"
         ]
-    }
+    },
+    "id": "000935"
 }

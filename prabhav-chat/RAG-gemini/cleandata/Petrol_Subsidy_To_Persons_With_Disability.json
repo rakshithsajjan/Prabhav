@@ -5,12 +5,12 @@
         "department": "Department Social Welfare, Women & Child Development",
         "type": "Subsidy",
         "beneficiary": "Persons with Disability",
-        "details": "The Petrol Subsidy To Persons With Disability scheme under the Department Social Welfare, Women & Child Development of Chandigarh will handicapped persons using motorized vehicles entitled to a 50% subsidy on actual expenditure on the purchase of petrol/diesel subject to fulfillment of other conditions laid down under the scheme. The physically handicapped persons having income up to \u20b91.50 lacs from all sources are eligible for subsidy. The physically handicapped persons who are already in receipt of the conveyance allowance either from any voluntary or State source shall not be eligible for a grant of subsidy on the purchase of petrol/diesel. Petrol/Diesel Subsidy @50% of actual expenditure on purchase of Petrol/Diesel up to a maximum of 20 Ltrs. Per month.",
+        "details": "The Petrol Subsidy To Persons With Disability scheme under the Department Social Welfare, Women & Child Development of Chandigarh will handicapped persons using motorized vehicles entitled to a 50% subsidy on actual expenditure on the purchase of petrol/diesel subject to fulfillment of other conditions laid down under the scheme. The physically handicapped persons having income up to ₹1.50 lacs from all sources are eligible for subsidy. The physically handicapped persons who are already in receipt of the conveyance allowance either from any voluntary or State source shall not be eligible for a grant of subsidy on the purchase of petrol/diesel. Petrol/Diesel Subsidy @50% of actual expenditure on purchase of Petrol/Diesel up to a maximum of 20 Ltrs. Per month.",
         "benefits": [
             "Petrol Subsidy Scheme to Persons with Disability provides benefits in the form of subsidy on Petrol and Diesel",
             "Under this scheme 50% subsidy on actual expenditure on purchase of petrol/ diesel provided",
-            "Vehicle of 2 Horse Power and Below \u2013 15 liters per month",
-            "Vehicle of more than 2 Horse Power \u2013 More than 15 liters per month",
+            "Vehicle of 2 Horse Power and Below – 15 liters per month",
+            "Vehicle of more than 2 Horse Power – More than 15 liters per month",
             "Due to this scheme, some financial burden will be reduced from disabling person and family"
         ],
         "eligibility": [
@@ -89,5 +89,6 @@
             "Physically Handicapped",
             "Scheme Handicapped Person"
         ]
-    }
+    },
+    "id": "001444"
 }

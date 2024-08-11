@@ -5,9 +5,9 @@
         "department": "Haryana Labour Welfare Board",
         "type": "Pension",
         "beneficiary": "Silicosis-affected workers",
-        "details": "The scheme 'Silicosis Rehabilitation Pension' is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, a monthly pension of \u20b94,000/- is given to the Silicosis-affected worker categorized as category (A, B, or C) according to the ILO Classification, until he/she remains alive. Only workers who are confirmed to be suffering from Silicosis by the Silicosis Diagnosis Board, Haryana, will be eligible for the assistance.",
+        "details": "The scheme 'Silicosis Rehabilitation Pension' is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, a monthly pension of ₹4,000/- is given to the Silicosis-affected worker categorized as category (A, B, or C) according to the ILO Classification, until he/she remains alive. Only workers who are confirmed to be suffering from Silicosis by the Silicosis Diagnosis Board, Haryana, will be eligible for the assistance.",
         "benefits": [
-            "Monthly pension of \u20b94,000/- for Silicosis-affected workers categorized as category (A, B, or C) according to the ILO Classification."
+            "Monthly pension of ₹4,000/- for Silicosis-affected workers categorized as category (A, B, or C) according to the ILO Classification."
         ],
         "eligibility": [
             "Only workers who are confirmed to be suffering from Silicosis by the Silicosis Diagnosis Board, Haryana, will be eligible for the assistance.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "How much is the monthly pension provided under this scheme?",
-                "answer": "The scheme provides a monthly pension of \u20b94,000/-."
+                "answer": "The scheme provides a monthly pension of ₹4,000/-."
             },
             {
                 "question": "What is Silicosis?",
@@ -91,5 +91,6 @@
             "Pension",
             "Worker"
         ]
-    }
+    },
+    "id": "001803"
 }

@@ -5,12 +5,12 @@
         "department": "Dept. for the Welfare of Differently Abled Persons",
         "type": "Financial Assistance",
         "beneficiary": "Differently Abled Persons",
-        "details": "The scheme 'Personal Accident Relief for Differently Abled Persons' was launched by the Dept. for the Welfare of Differently Abled Persons, Government of Tamil Nadu. In this scheme, accident relief is provided to differently-abled persons up to \u20b91,00,000/-. The scheme covers cases such as death, loss of both legs/both hands/one hand/one leg, and loss of sight in one eye/both eyes.",
+        "details": "The scheme 'Personal Accident Relief for Differently Abled Persons' was launched by the Dept. for the Welfare of Differently Abled Persons, Government of Tamil Nadu. In this scheme, accident relief is provided to differently-abled persons up to ₹1,00,000/-. The scheme covers cases such as death, loss of both legs/both hands/one hand/one leg, and loss of sight in one eye/both eyes.",
         "benefits": [
-            "Relief to the Legal Heir in the event of death of the differently-abled person: \u20b91,00,000/-",
-            "Relief in the case of Loss of both legs & both hands/ one leg & one hand/ loss of sight in both eyes: Upto \u20b91,00,000/-",
-            "Relief in the case of Loss of one hand/ one leg/ loss of sight in one eye: \u20b950,000/-",
-            "Relief in the case of Total disablement not covered in Sl. no.2 and 3 above: \u20b925,000/-"
+            "Relief to the Legal Heir in the event of death of the differently-abled person: ₹1,00,000/-",
+            "Relief in the case of Loss of both legs & both hands/ one leg & one hand/ loss of sight in both eyes: Upto ₹1,00,000/-",
+            "Relief in the case of Loss of one hand/ one leg/ loss of sight in one eye: ₹50,000/-",
+            "Relief in the case of Total disablement not covered in Sl. no.2 and 3 above: ₹25,000/-"
         ],
         "eligibility": [
             "The person should have died or should have become differently-abled in an accident.",
@@ -81,5 +81,6 @@
             "Disability",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001440"
 }

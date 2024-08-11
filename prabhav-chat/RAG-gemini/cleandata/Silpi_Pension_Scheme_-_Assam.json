@@ -5,12 +5,12 @@
         "department": "Art And Culture",
         "type": "Pension",
         "beneficiary": "Artist, Indigent families of artists",
-        "details": "Silpi Pension Scheme is a Welfare Scheme provided by the Government of Assam to support the Artists of Assam. Artiste/Family pension along with Barxik Silpi Sanman (One-time financial assistance) of the Govt. of Assam will be offered to the person having outstanding contributions in the field of Art and Culture in the State and Special Family Pension will also be offered to indigent families of Artistes who had made a spectacular contribution in the State\u2019s Cultural sphere and have unfortunately passed away. There are 4 types of Schemes under the Silpi Pension Scheme: 1. Artist Pension Scheme 2. Family Pension Scheme 3. Barxik Silpi Sanman (Ex-Gratia Grant) Scheme 4. One-time Special Financial Assistance to Families of deceased artist Scheme. The main objective of the Scheme is to support the artist and needy families of Artists who made contributions to the field of Art and Culture in the State of Assam.",
+        "details": "Silpi Pension Scheme is a Welfare Scheme provided by the Government of Assam to support the Artists of Assam. Artiste/Family pension along with Barxik Silpi Sanman (One-time financial assistance) of the Govt. of Assam will be offered to the person having outstanding contributions in the field of Art and Culture in the State and Special Family Pension will also be offered to indigent families of Artistes who had made a spectacular contribution in the State’s Cultural sphere and have unfortunately passed away. There are 4 types of Schemes under the Silpi Pension Scheme: 1. Artist Pension Scheme 2. Family Pension Scheme 3. Barxik Silpi Sanman (Ex-Gratia Grant) Scheme 4. One-time Special Financial Assistance to Families of deceased artist Scheme. The main objective of the Scheme is to support the artist and needy families of Artists who made contributions to the field of Art and Culture in the State of Assam.",
         "benefits": [
-            "Under the Artist Pension Scheme, the beneficiary will receive an amount of \u20b98,000/- (per month).",
-            "Under the Family Pension Scheme, the beneficiary will receive an amount of \u20b94,000/- (per month).",
-            "Under the Barxik Silpi Sanman (Ex-Gratia Grant), the beneficiary will receive an amount of \u20b950,000/- (One time).",
-            "Under the One-time special financial assistance to families of deceased Artist Scheme, the beneficiary will receive an amount of \u20b950,000/- (One time)."
+            "Under the Artist Pension Scheme, the beneficiary will receive an amount of ₹8,000/- (per month).",
+            "Under the Family Pension Scheme, the beneficiary will receive an amount of ₹4,000/- (per month).",
+            "Under the Barxik Silpi Sanman (Ex-Gratia Grant), the beneficiary will receive an amount of ₹50,000/- (One time).",
+            "Under the One-time special financial assistance to families of deceased Artist Scheme, the beneficiary will receive an amount of ₹50,000/- (One time)."
         ],
         "eligibility": [
             "The applicant must be a permanent resident of the State of Assam.",
@@ -44,15 +44,15 @@
             },
             {
                 "question": "How much pension an artist will receive under the Artist Pension Scheme?",
-                "answer": "The beneficiary/artist will receive a monthly pension of \u20b98,000."
+                "answer": "The beneficiary/artist will receive a monthly pension of ₹8,000."
             },
             {
                 "question": "How much pension an indigent family will receive under the Family Pension Scheme?",
-                "answer": "The beneficiary will receive a monthly pension of \u20b94,000."
+                "answer": "The beneficiary will receive a monthly pension of ₹4,000."
             },
             {
-                "question": "Does the applicant receive a sum of \u20b950,000/- every year under the Barxik Silpi Sanman (Ex-Gratia Grant) Scheme?",
-                "answer": "No, the sum of \u20b950,000/- will be given to the beneficiary only one time."
+                "question": "Does the applicant receive a sum of ₹50,000/- every year under the Barxik Silpi Sanman (Ex-Gratia Grant) Scheme?",
+                "answer": "No, the sum of ₹50,000/- will be given to the beneficiary only one time."
             },
             {
                 "question": "How many types of Schemes are there under Silpi Pension Scheme?",
@@ -111,5 +111,6 @@
             "Artist",
             "Divyang"
         ]
-    }
+    },
+    "id": "001804"
 }

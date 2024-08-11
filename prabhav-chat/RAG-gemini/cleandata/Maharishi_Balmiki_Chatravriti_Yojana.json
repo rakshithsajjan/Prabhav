@@ -5,9 +5,9 @@
         "department": "Department of Education",
         "type": "Scholarship",
         "beneficiary": "Girl Child",
-        "details": "The scheme 'Maharishi Balmiki Chatravriti Yojana' is a scholarship scheme by the Department of Education, Government of Himachal Pradesh. The scheme aims to provide financial assistance to female students belonging to the Balmiki community. The Balmiki community, also known as Valmiki, is a socially and economically disadvantaged community in India. The main objective of this scheme is to promote education and empower students from economically weaker backgrounds. It recognizes the importance of education in uplifting individuals and communities and seeks to bridge the gap by providing financial support. The beneficiary receives \u20b9 18,000 per annum for college-level studies and professional courses.",
+        "details": "The scheme 'Maharishi Balmiki Chatravriti Yojana' is a scholarship scheme by the Department of Education, Government of Himachal Pradesh. The scheme aims to provide financial assistance to female students belonging to the Balmiki community. The Balmiki community, also known as Valmiki, is a socially and economically disadvantaged community in India. The main objective of this scheme is to promote education and empower students from economically weaker backgrounds. It recognizes the importance of education in uplifting individuals and communities and seeks to bridge the gap by providing financial support. The beneficiary receives ₹ 18,000 per annum for college-level studies and professional courses.",
         "benefits": [
-            "Scholarship of \u20b9 18,000 per annum."
+            "Scholarship of ₹ 18,000 per annum."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Himachal Pradesh.",
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What is the main objective of the mentioned scholarship scheme?",
-                "answer": "The scheme aims to provide financial assistance of \u20b918,000 per annum to female students from the economically disadvantaged Valmiki community in Himachal Pradesh, promoting education and empowerment."
+                "answer": "The scheme aims to provide financial assistance of ₹18,000 per annum to female students from the economically disadvantaged Valmiki community in Himachal Pradesh, promoting education and empowerment."
             },
             {
                 "question": "Can male students from the Valmiki community apply for this scholarship?",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "How much financial assistance does a beneficiary receive annually under this scholarship?",
-                "answer": "The beneficiary is awarded \u20b918,000 per annum for college-level studies and professional courses."
+                "answer": "The beneficiary is awarded ₹18,000 per annum for college-level studies and professional courses."
             },
             {
                 "question": "What is the eligibility criterion related to the applicant's residence for this scholarship?",
@@ -104,5 +104,6 @@
             "School Education",
             "Student"
         ]
-    }
+    },
+    "id": "001051"
 }

@@ -48,7 +48,7 @@
             },
             {
                 "question": "What is the allocated budget for conducting a training program in each district under PEACE?",
-                "answer": "The cost for one training program in each district is not to exceed \u20b975,000."
+                "answer": "The cost for one training program in each district is not to exceed ₹75,000."
             },
             {
                 "question": "Who are the preferred training faculty for the program, and what organizations do they come from?",
@@ -92,5 +92,6 @@
             "MSME",
             "Training"
         ]
-    }
+    },
+    "id": "001538"
 }

@@ -24,7 +24,7 @@
             "The applicant must be Admitted into (or received an unconditional offer of admission) Masters's level courses and Ph.D. courses abroad in institutions/universities accredited by the Government/authorized body of that country.",
             "The Disability Percentage of the applicant must be 40% & above.",
             "The applicant must be 35 years or lesser in age, as on the first day of the month of advertisement of the scheme.",
-            "The Total Family Income of the applicant (from all sources) must not exceed \u20b9 6 lakh per annum."
+            "The Total Family Income of the applicant (from all sources) must not exceed ₹ 6 lakh per annum."
         ],
         "exclusions": [
             "Bachelors Level courses, in any discipline, are not covered under this scheme.",
@@ -57,7 +57,7 @@
         "faqs": [
             {
                 "question": "Is there a duration to the prescribed financial assistance?",
-                "answer": "Yes, the prescribed financial assistance will be provided up to the completion of the course / research or the following period, whichever is earlier: PhD - 04 years (Four years) Master\u2019s Degree - 03 years (Three years)"
+                "answer": "Yes, the prescribed financial assistance will be provided up to the completion of the course / research or the following period, whichever is earlier: PhD - 04 years (Four years) Master’s Degree - 03 years (Three years)"
             },
             {
                 "question": "What all shall be covered under Contingency Allowance?",
@@ -92,7 +92,7 @@
                 "answer": "Not more than two children of the same parents/guardians will be eligible for scholarship. A. The second child of the same parents/guardians will be considered only if slots are still available in the last cycle of the year in which the applicant has applied."
             },
             {
-                "question": "I hold a Master\u2019s Degree from an Institute in India. Am I eligible to apply for this scheme if I have an unconditional offer letter for a Master Degree from an institute located outside India?",
+                "question": "I hold a Master’s Degree from an Institute in India. Am I eligible to apply for this scheme if I have an unconditional offer letter for a Master Degree from an institute located outside India?",
                 "answer": "The candidate is not eligible for scholarship to pursue the same level (Masters/Ph.D.) of course for which he/she has already acquired the qualification from any University/Institution either in India or abroad."
             },
             {
@@ -116,5 +116,6 @@
             "Disability",
             "Empowerment"
         ]
-    }
+    },
+    "id": "001320"
 }

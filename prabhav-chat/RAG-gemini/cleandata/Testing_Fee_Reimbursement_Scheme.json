@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Castes (SCs) and Scheduled Tribes (STs) micro and small enterprises (MSEs)",
         "details": "Testing Fee Reimbursement Scheme for Scheduled Caste / Scheduled Tribe is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. This component has provision for reimbursement on testing fee charged by various National Accreditation Board for Testing (NABL) or Bureau of Indian Standards (BIS) accredited laboratories across the country to SC-ST MSEs. This is a financial assistance program aimed at reducing the financial burden of quality testing for SC/ST MSEs, helping them improve product quality and compete effectively.",
         "benefits": [
-            "SC-ST MSEs can receive reimbursement of 80% or \u20b91,00,000/- (excluding GST and other applicable taxes), whichever is lower, for testing fees paid to NABL or BIS accredited laboratories, labs of government departments/PSUs, and for BIS licenses/certifications.",
+            "SC-ST MSEs can receive reimbursement of 80% or ₹1,00,000/- (excluding GST and other applicable taxes), whichever is lower, for testing fees paid to NABL or BIS accredited laboratories, labs of government departments/PSUs, and for BIS licenses/certifications.",
             "The scheme covers testing of raw materials, semi-finished products, and finished products.",
             "Reimbursement can be availed multiple times within a financial year, though there's a cap on the total amount."
         ],
@@ -79,5 +79,6 @@
             "Quality Testing",
             "NSSH"
         ]
-    }
+    },
+    "id": "001940"
 }

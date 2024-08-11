@@ -7,12 +7,12 @@
         "beneficiary": "Local entrepreneurs, Unemployed Youth",
         "details": "The Union Territory of Lakshadweep has been declared as the 'No industrial Area' and hence no scope for establishing major Industries in this UT. The Govt. of India is giving significant emphasis on setting up Small-Scale Industrial units for the economic development of the Islands in order to create self-employment/ job opportunities considering the lack of employment in the Government Sector under the U.T. Administration. Specific studies were conducted by the Planning Commission in pursuance of the decision taken by the Standing Committee of the Island Development Authority and constituted an Expert Committee. The Committee learned about problems of Industrialization in these Islands and identified special needs that would accelerate the Start-up Industries in Lakshadweep. Based on the recommendation of the expert committee, Govt. of India has approved the implementation of a scheme called 25% Capital Investment Subsidy to the local entrepreneurs for promoting Micro and Small Enterprises in Lakshadweep. This scheme paves the way to improve industrialization and to facilitate local entrepreneurs/unemployed youth to take up viable ventures (Micro & Small Enterprises) in the Islands.",
         "benefits": [
-            "Financial assistance of 25% of the total cost of the Enterprise inclusive of land, machinery, and construction limited to the maximum amount of \u20b96.25 lakhs."
+            "Financial assistance of 25% of the total cost of the Enterprise inclusive of land, machinery, and construction limited to the maximum amount of ₹6.25 lakhs."
         ],
         "eligibility": [
             "Any individual above 18 years of age including Women, ex-servicemen & physically handicapped is eligible to apply under the scheme.",
             "New Micro or Small units engaged in manufacturing/servicing except the activities specified in the Negative List are eligible to claim a 25% Capital Investment Subsidy established in Lakshadweep Islands.",
-            "Micro Enterprises/Units, where the investment in Plant & Machinery and Building below \u20b925.00 Lakhs is only eligible under this Scheme.",
+            "Micro Enterprises/Units, where the investment in Plant & Machinery and Building below ₹25.00 Lakhs is only eligible under this Scheme.",
             "The Entrepreneurs Memorandum Part-II (Permanent Registration) under the MSME Act 2006 filed before the Director of Industries, U.T. of Lakshadweep or Udyog Aadhar registration/otherwise shall be eligible for availing subsidy under this scheme.",
             "Institutions registered under the Societies Registration Act 1960 and Self-Help Groups that have not availed financial benefits under any other scheme are eligible for a 25% Capital Investment Subsidy."
         ],
@@ -29,7 +29,7 @@
             "Certified copy of the ownership certificate of land and building.",
             "Plan & cost of the building certified by the Assistant Engineer (Civil).",
             "The taxes paid bills/GST & its registration Number are not required for the purchase bills pertaining to Plants and machinery purchased before the introduction of GST (July 2017). The taxes paid bills are only eligible for subsidy.",
-            "Entrepreneurs should execute an Agreement/Bond on non-judicial stamp paper worth \u20b9100/- with Director Industries."
+            "Entrepreneurs should execute an Agreement/Bond on non-judicial stamp paper worth ₹100/- with Director Industries."
         ],
         "faqs": [
             {
@@ -70,5 +70,6 @@
             "Subsidy",
             "Unemployed Youth"
         ]
-    }
+    },
+    "id": "000001"
 }

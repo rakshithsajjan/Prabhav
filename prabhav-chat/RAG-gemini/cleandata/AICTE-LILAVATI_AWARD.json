@@ -5,11 +5,11 @@
         "department": "Ministry of Education",
         "type": "Financial Assistance",
         "beneficiary": "Women",
-        "details": "AICTE-LILAVATI AWARD, launched by the intends to recognize efforts being made by AICTE approved institutions to treat women with \u2018equality and fairness\u2019 in all spheres of their lives. By means of this initiative, all the stakeholders (especially the girl students) in AICTE approved institutions would get a unique opportunity to present a solution to the prevalent issues of gender discrimination, such as illiteracy, unemployment, economic and nutritional disparities, maternal mortality, human rights, etc. Also, if anyone has already made a successful effort towards making a mark in the society, in establishing women\u2019s emancipation/ empowerment at large, she/ he can showcase their efforts/ contributions.",
+        "details": "AICTE-LILAVATI AWARD, launched by the intends to recognize efforts being made by AICTE approved institutions to treat women with ‘equality and fairness’ in all spheres of their lives. By means of this initiative, all the stakeholders (especially the girl students) in AICTE approved institutions would get a unique opportunity to present a solution to the prevalent issues of gender discrimination, such as illiteracy, unemployment, economic and nutritional disparities, maternal mortality, human rights, etc. Also, if anyone has already made a successful effort towards making a mark in the society, in establishing women’s emancipation/ empowerment at large, she/ he can showcase their efforts/ contributions.",
         "benefits": [
-            "Winner: \u20b9 1,00,000/-",
-            "First Runner-up: \u20b9 75,000/-",
-            "Second Runner-up: \u20b9 50,000/-"
+            "Winner: ₹ 1,00,000/-",
+            "First Runner-up: ₹ 75,000/-",
+            "Second Runner-up: ₹ 50,000/-"
         ],
         "eligibility": [
             "Institutional/ Team Level comprises either of students/ faculty/ both from AICTE approved technical institution/Deemed to be University.",
@@ -54,15 +54,15 @@
             },
             {
                 "question": "What would be the amount of the prize money for the Winner?",
-                "answer": "The Winner will get a prize money of \u20b9 1,00,000/-."
+                "answer": "The Winner will get a prize money of ₹ 1,00,000/-."
             },
             {
                 "question": "What would be the amount of the prize money for the First Runner-up?",
-                "answer": "The First Runner-up will get a prize money of \u20b9 75,000/-."
+                "answer": "The First Runner-up will get a prize money of ₹ 75,000/-."
             },
             {
                 "question": "What would be the amount of the prize money for the Second Runner-up?",
-                "answer": "The Second Runner-up will get a prize money of \u20b9 50,000/-."
+                "answer": "The Second Runner-up will get a prize money of ₹ 50,000/-."
             }
         ],
         "sources": [
@@ -88,5 +88,6 @@
             "AICTE",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000013"
 }

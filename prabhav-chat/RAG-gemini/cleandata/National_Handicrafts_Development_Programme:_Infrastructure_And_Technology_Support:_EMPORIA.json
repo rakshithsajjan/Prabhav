@@ -7,8 +7,8 @@
         "beneficiary": "Artisan, Business, Entrepreneurship, Exhibition, Weaver",
         "details": "The scheme 'Infrastructure and Technology Support: EMPORIA' is a Component/Sub-Scheme under the Umbrella Scheme 'National Handicrafts Development Programme'. Under this component, assistance would be provided for the setting up of emporia. These would be set up in commercially viable locations in the implementing agencies' own/rented buildings. The basic objective of the component is to provide a marketing platform to the Local Handicrafts Artisans in their respective area through the outlet and emporia.",
         "benefits": [
-            "Financial Assistance for new emporia (\u20b9 60,00,000 per unit)",
-            "Financial Assistance for strengthening/renovation (\u20b9 15,00,000 per unit)",
+            "Financial Assistance for new emporia (₹ 60,00,000 per unit)",
+            "Financial Assistance for strengthening/renovation (₹ 15,00,000 per unit)",
             "80% of admissible amount borne by the O/o the DC (H)",
             "100% assistance for strengthening/renovation of existing emporia"
         ],
@@ -74,5 +74,6 @@
             "Support",
             "Emporia"
         ]
-    }
+    },
+    "id": "001309"
 }

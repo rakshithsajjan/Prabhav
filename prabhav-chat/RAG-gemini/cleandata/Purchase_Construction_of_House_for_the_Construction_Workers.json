@@ -5,10 +5,10 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Registered Construction Workers",
-        "details": "The 'Purchase/Construction of House for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, an advance amount of \u20b93,00,000/- to \u20b95,00,000/- is provided to the registered workers for purchasing or construction of houses. The amount sanctioned as advance shall be recovered in equal instalments as may be fixed by the Board. The house constructed will be under hypothecation to the Board till the last instalment of advance is paid.",
+        "details": "The 'Purchase/Construction of House for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, an advance amount of ₹3,00,000/- to ₹5,00,000/- is provided to the registered workers for purchasing or construction of houses. The amount sanctioned as advance shall be recovered in equal instalments as may be fixed by the Board. The house constructed will be under hypothecation to the Board till the last instalment of advance is paid.",
         "benefits": [
-            "\u20b93,00,000/- to the workers who have 10 years left to complete 60 years of age.",
-            "\u20b95,00,000/- to the workers who have 15 years left to complete 60 years of age."
+            "₹3,00,000/- to the workers who have 10 years left to complete 60 years of age.",
+            "₹5,00,000/- to the workers who have 15 years left to complete 60 years of age."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -88,5 +88,6 @@
             "Labour",
             "Worker"
         ]
-    }
+    },
+    "id": "001542"
 }

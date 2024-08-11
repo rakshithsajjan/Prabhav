@@ -7,8 +7,8 @@
         "beneficiary": "Differently Abled Persons",
         "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, has implemented a significant initiative titled 'Marriage Assistance to Differently Abled Persons Marrying Differently Abled Persons.' This pioneering program aims to provide crucial financial assistance to couples where both partners are differently-abled. Recognizing the distinct challenges faced by individuals with disabilities, the scheme seeks to alleviate the financial burden associated with marriage. By providing targeted assistance, the program not only upholds the rights and dignity of differently-abled individuals but also underscores the government's commitment to an inclusive society.",
         "benefits": [
-            "Marriage assistance amount: \u20b925,000/- as \u20b912,500/- National Savings Certificate and \u20b912,500/- cheque/Demand Draft for marriage expenses.",
-            "Additional benefit if either spouse has a degree/diploma: Increased amount to \u20b950,000/- as \u20b925,000/- National Savings Certificate and \u20b925,000/- cheque/Demand Draft.",
+            "Marriage assistance amount: ₹25,000/- as ₹12,500/- National Savings Certificate and ₹12,500/- cheque/Demand Draft for marriage expenses.",
+            "Additional benefit if either spouse has a degree/diploma: Increased amount to ₹50,000/- as ₹25,000/- National Savings Certificate and ₹25,000/- cheque/Demand Draft.",
             "Certificate of appreciation.",
             "8 gram gold coin for Tirumangalyam (a traditional South Indian symbol of marriage for women)."
         ],
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "Are there any additional benefits for differently abled individuals holding a degree or diploma?",
-                "answer": "Differently abled individuals holding a degree or diploma receive an increased assistance amount of \u20b950,000, with \u20b925,000 in the form of National Savings Certificate and \u20b925,000."
+                "answer": "Differently abled individuals holding a degree or diploma receive an increased assistance amount of ₹50,000, with ₹25,000 in the form of National Savings Certificate and ₹25,000."
             },
             {
                 "question": "How many categories of disabilities are considered eligible under the scheme?",
@@ -81,5 +81,6 @@
             "Financial Assistance",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001090"
 }

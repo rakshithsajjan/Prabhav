@@ -5,16 +5,16 @@
         "department": "Department of Tribal Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Scheduled Tribe Students",
-        "details": "'Gagan Bharari Shiksha Yojana' is a Financial Assistance Scheme by the Department of Tribal Welfare, Government of Goa. Under this scheme, additional financial assistance of upto \u20b9 15,000/- is provided to the Scheduled Tribe Students as the maintenance allowance given under the Post Matric Scholarship is inadequate to meet the expenses on food & travel. Scholarships for studying in any class will be available for only one year.",
+        "details": "'Gagan Bharari Shiksha Yojana' is a Financial Assistance Scheme by the Department of Tribal Welfare, Government of Goa. Under this scheme, additional financial assistance of upto ₹ 15,000/- is provided to the Scheduled Tribe Students as the maintenance allowance given under the Post Matric Scholarship is inadequate to meet the expenses on food & travel. Scholarships for studying in any class will be available for only one year.",
         "benefits": [
-            "An Additional Maintenance Allowance of \u20b9 7,500/- to Day Scholars for 10 Months.",
-            "An Additional Maintenance Allowance of \u20b9 15,000/- to Hostellers for 10 Months."
+            "An Additional Maintenance Allowance of ₹ 7,500/- to Day Scholars for 10 Months.",
+            "An Additional Maintenance Allowance of ₹ 15,000/- to Hostellers for 10 Months."
         ],
         "eligibility": [
             "The applicant should be from a Scheduled Tribe (ST) in the State of Goa.",
             "The student should be a regular, full-time student studying in a recognized Institution / University.",
             "The applicant should have availed or should be eligible for Centrally Sponsored Post Matric Scholarship during the current Academic Year.",
-            "The income of parents/guardians of the applicant should not exceed \u20b9 5,00,000 per annum."
+            "The income of parents/guardians of the applicant should not exceed ₹ 5,00,000 per annum."
         ],
         "exclusions": [
             "If a student has to repeat a class, he/she shall not be eligible to get a scholarship for a second time in the same class."
@@ -96,5 +96,6 @@
             "School",
             "Student"
         ]
-    }
+    },
+    "id": "000606"
 }

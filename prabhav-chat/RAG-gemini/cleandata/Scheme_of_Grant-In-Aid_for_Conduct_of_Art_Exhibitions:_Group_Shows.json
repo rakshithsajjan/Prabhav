@@ -5,9 +5,9 @@
         "department": "Art and Culture Department",
         "type": "Grant",
         "beneficiary": "Artist groups",
-        "details": "The 'Scheme of Grant-In-Aid for Conduct of Art Exhibitions: Group Shows' was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to encourage talented artists in the field of painting and sculpture by granting a sum of \u20b950,000/- to groups of five artists for conducting 'Group Shows' art exhibitions. The applications are accepted offline in the prescribed form available at the Oviya Nunkalai Kuzhu.",
+        "details": "The 'Scheme of Grant-In-Aid for Conduct of Art Exhibitions: Group Shows' was launched by the Art and Culture Department, Government of Tamil Nadu. The scheme aims to encourage talented artists in the field of painting and sculpture by granting a sum of ₹50,000/- to groups of five artists for conducting 'Group Shows' art exhibitions. The applications are accepted offline in the prescribed form available at the Oviya Nunkalai Kuzhu.",
         "benefits": [
-            "Financial Assistance of \u20b950,000/-"
+            "Financial Assistance of ₹50,000/-"
         ],
         "eligibility": [
             "The applicant should be a group of artists.",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "A sum of \u20b950,000/- is granted to the groups of five artists for conducting art exhibitions."
+                "answer": "A sum of ₹50,000/- is granted to the groups of five artists for conducting art exhibitions."
             },
             {
                 "question": "Can individual artists apply for this scheme, or is it strictly for groups?",
@@ -82,5 +82,6 @@
             "Financial Assistance",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001730"
 }

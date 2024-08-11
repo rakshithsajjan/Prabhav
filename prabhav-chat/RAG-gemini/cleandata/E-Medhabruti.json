@@ -5,15 +5,15 @@
         "department": "Higher Education Department",
         "type": "Scholarship",
         "beneficiary": "Meritorious students of Odisha",
-        "details": "The scheme 'e-Medhabruti' is a Scholarship Scheme by the Higher Education Department, Government of Odisha. The objective of the scheme is to provide financial assistance of up to \u20b9 20,000 to meritorious students of Odisha whose parental income does not exceed \u20b9 6,00,000. The number of scholarships that are awarded every year is 14,500. The scholarship is provided for the complete duration of the course. The student can apply for e-Medhabruti Scholarship only in the year of joining (i.e. 1st year of the course).",
+        "details": "The scheme 'e-Medhabruti' is a Scholarship Scheme by the Higher Education Department, Government of Odisha. The objective of the scheme is to provide financial assistance of up to ₹ 20,000 to meritorious students of Odisha whose parental income does not exceed ₹ 6,00,000. The number of scholarships that are awarded every year is 14,500. The scholarship is provided for the complete duration of the course. The student can apply for e-Medhabruti Scholarship only in the year of joining (i.e. 1st year of the course).",
         "benefits": [
-            "U.G. Merit: 6,000 scholarships at \u20b9 5,000 per year",
-            "P.G. Merit: 2,500 scholarships at \u20b9 10,000 per year",
-            "Technical & Professional Merit: 6,000 scholarships at \u20b9 10,000 per year"
+            "U.G. Merit: 6,000 scholarships at ₹ 5,000 per year",
+            "P.G. Merit: 2,500 scholarships at ₹ 10,000 per year",
+            "Technical & Professional Merit: 6,000 scholarships at ₹ 10,000 per year"
         ],
         "eligibility": [
             "Permanent resident of Odisha State",
-            "Parental income not exceeding \u20b9 6,00,000 per annum",
+            "Parental income not exceeding ₹ 6,00,000 per annum",
             "Minimum of 60% marks in the previous qualifying examination",
             "Application only in the year of joining (1st year of the course)"
         ],
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance Available Through This Scheme?",
-                "answer": "The maximum amount of financial assistance available through this scheme is \u20b9 20,000."
+                "answer": "The maximum amount of financial assistance available through this scheme is ₹ 20,000."
             },
             {
                 "question": "How Many Scholarships Shall Be Awarded In 2023?",
@@ -70,5 +70,6 @@
             "Higher Education",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000452"
 }

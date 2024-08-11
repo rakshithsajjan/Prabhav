@@ -8,7 +8,7 @@
         "details": "The scheme 'National Fellowship for OBC Students' was launched by the University Grants Commission (UGC), Department of Higher Education (DoHE) during the financial year 2014-15 to increase the opportunities for the students of Other Backward Classes (OBCs) to pursue higher education leading to acquiring degrees such as M.Phil. and Ph.D. The scheme aims at providing financial assistance to OBC students in obtaining quality higher education leading to degrees such as M.Phil. and Ph.D. in universities, research institutions, and scientific institutions.",
         "benefits": [
             "Total number of slots for NFOBC under the scheme is 1000 per year.",
-            "750 slots allocated for subjects under National Eligibility Test \u2013 Junior Research Fellowship (NET-JRF) of UGC.",
+            "750 slots allocated for subjects under National Eligibility Test – Junior Research Fellowship (NET-JRF) of UGC.",
             "250 slots for UGC-Council of Scientific and Industrial Research (UGC-CSIR) NET-JRF joint test (for Science streams).",
             "Fellowship rates for JRF and SRF at par with UGC Fellowship."
         ],
@@ -30,7 +30,7 @@
         "documents_required": [
             "Aadhaar Number",
             "Caste Certificate",
-            "Parent\u2019s Annual Income Certificate",
+            "Parent’s Annual Income Certificate",
             "Passport-size Photograph and Signature",
             "Mark-sheet of Masters Degree",
             "Declaration/Certificate from Head of Department/Institution or University/College",
@@ -67,5 +67,6 @@
             "Higher Education",
             "Research"
         ]
-    }
+    },
+    "id": "001304"
 }

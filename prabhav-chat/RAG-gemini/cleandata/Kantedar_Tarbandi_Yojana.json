@@ -7,9 +7,9 @@
         "beneficiary": "Farmers",
         "details": "The Taarbandi Scheme for Fields was launched on July 21, 2017, under the auspices of the Agriculture Department of the Rajasthan government. The primary objective of this scheme is to safeguard farmers' crops from damage caused by stray animals. Many farmers face crop losses due to the intrusion of such animals into their unfenced fields, particularly those who lack the financial means to secure their land. To address this issue, the Rajasthan Taarbandi Scheme was introduced, offering financial assistance to farmers across the state for the installation of fencing around their fields. This initiative aims to enable farmers to protect their crops effectively by erecting barbed wire enclosures around their fields.",
         "benefits": [
-            "Subsidy amount: Small and marginal farmers: 60% of the total cost, capped at \u20b948,000/-.",
-            "Other farmers: 50% of the total cost, capped at \u20b940,000/-.",
-            "Community application (group of 10+ farmers with min. 5 hectares collectively): 70% of the total cost, capped at \u20b956,000/- per farmer.",
+            "Subsidy amount: Small and marginal farmers: 60% of the total cost, capped at ₹48,000/-.",
+            "Other farmers: 50% of the total cost, capped at ₹40,000/-.",
+            "Community application (group of 10+ farmers with min. 5 hectares collectively): 70% of the total cost, capped at ₹56,000/- per farmer.",
             "Land covered: Up to 400 meters of fencing per farmer."
         ],
         "eligibility": [
@@ -37,7 +37,7 @@
             },
             {
                 "question": "How much amount is available under Tarbandi Scheme Rajasthan?",
-                "answer": "Under the scheme, 50% subsidy is given by the Rajasthan Government and a maximum amount of \u20b940,000/- is given by the government."
+                "answer": "Under the scheme, 50% subsidy is given by the Rajasthan Government and a maximum amount of ₹40,000/- is given by the government."
             },
             {
                 "question": "May Other State persons also apply for this scheme?",
@@ -91,5 +91,6 @@
             "Financial Benefits",
             "Taarabandi"
         ]
-    }
+    },
+    "id": "000962"
 }

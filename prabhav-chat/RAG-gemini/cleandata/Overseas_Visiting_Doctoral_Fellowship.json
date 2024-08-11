@@ -8,7 +8,7 @@
         "details": "The Overseas Visiting Doctoral Fellowship aims to build national capacity in frontier areas of Science and Engineering by providing research training to PhD students in overseas universities. The fellowship duration is up to twelve months, extendable under exceptional circumstances.",
         "benefits": [
             "Monthly fellowship amount equivalent to US $2000",
-            "One-time Contingency/Preparatory allowances of \u20b960,000",
+            "One-time Contingency/Preparatory allowances of ₹60,000",
             "Economy class airfare for travel to and from the host institute",
             "Travel provisions for Indian supervisors and overseas scientists"
         ],
@@ -68,5 +68,6 @@
             "Overseas",
             "Science and Technology"
         ]
-    }
+    },
+    "id": "001401"
 }

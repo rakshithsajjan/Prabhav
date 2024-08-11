@@ -7,7 +7,7 @@
         "beneficiary": "Widows of male registered construction workers",
         "details": "The scheme 'Widow Pension' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance in the form of a monthly pension shall be given to the widows of male registered construction workers of the Board.",
         "benefits": [
-            "Financial assistance of \u20b91000/- per month in the form of pension"
+            "Financial assistance of ₹1000/- per month in the form of pension"
         ],
         "eligibility": [
             "The deceased worker should have been working at the establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contributions to the labour welfare fund should have been regularly received by the board.",
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What financial assistance is provided under the Widow Pension Scheme by the CBOCWWB?",
-                "answer": "The Widow Pension Scheme offers financial assistance of \u20b91000 per month in the form of a monthly pension to eligible widows of male registered construction workers affiliated with the Board."
+                "answer": "The Widow Pension Scheme offers financial assistance of ₹1000 per month in the form of a monthly pension to eligible widows of male registered construction workers affiliated with the Board."
             },
             {
                 "question": "What are the eligibility criteria for the Widow Pension Scheme by CBOCWWB?",
@@ -74,5 +74,6 @@
             "Pension",
             "Widow"
         ]
-    }
+    },
+    "id": "002055"
 }

@@ -9,12 +9,12 @@
         "benefits": [
             "Reimbursement of full fee for professional courses when the fee is fixed by the Admission and Fee Regulatory Commission.",
             "Reimbursement of full fee prescribed in the course of government institutions.",
-            "In the courses of non-government colleges, half of the compulsory fee is reimbursed up to the income limit of \u20b92,50,000/-, and for students with an income limit of \u20b92,50,000/- to \u20b96,00,000/-.",
-            "Monthly living allowance in undergraduate and postgraduate courses: Non-hosteler - \u20b9300/-, Hostel - \u20b9570/-."
+            "In the courses of non-government colleges, half of the compulsory fee is reimbursed up to the income limit of ₹2,50,000/-, and for students with an income limit of ₹2,50,000/- to ₹6,00,000/-.",
+            "Monthly living allowance in undergraduate and postgraduate courses: Non-hosteler - ₹300/-, Hostel - ₹570/-."
         ],
         "eligibility": [
             "The applicant should belong to the Scheduled Caste category.",
-            "If the applicant studying in non-government institutions, the annual income limit of parents/guardians is up to \u20b96,00,000/-.",
+            "If the applicant studying in non-government institutions, the annual income limit of parents/guardians is up to ₹6,00,000/-.",
             "There is no income limit for government institutions."
         ],
         "exclusions": [],
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What is the Financial Eligibility criteria?",
-                "answer": "If studying in non-government institutions, the annual income limit of parents/guardians is up to \u20b9 6.00 lakh."
+                "answer": "If studying in non-government institutions, the annual income limit of parents/guardians is up to ₹ 6.00 lakh."
             },
             {
                 "question": "Is there any income limit for government institutions?",
@@ -83,5 +83,6 @@
             "Higher Education",
             "Madhya Pradesh"
         ]
-    }
+    },
+    "id": "001473"
 }

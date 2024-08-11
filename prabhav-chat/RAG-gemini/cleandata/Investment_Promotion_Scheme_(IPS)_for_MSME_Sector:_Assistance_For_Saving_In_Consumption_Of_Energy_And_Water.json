@@ -7,8 +7,8 @@
         "beneficiary": "MSME Sector",
         "details": "The scheme 'Assistance For Saving In Consumption Of Energy And Water' is a sub scheme under the 'Investment Promotion Scheme (IPS)' for MSME Sector. It was launched on 3rd July, 2015 for a period of five years and has been extended from 20th May, 2022 to 19th May, 2027. The scheme aims to provide incentives and assistance to the MSME Sector to nurture them and protect them from market vagaries.",
         "benefits": [
-            "75% cost of Energy/ Water audit conducted by recognized institution/ auditing authority subject to a maximum of \u20b91,00,000.",
-            "25% cost of equipment recommended by the auditing authority subject to a maximum of \u20b920,00,000/- one-time assistance."
+            "75% cost of Energy/ Water audit conducted by recognized institution/ auditing authority subject to a maximum of ₹1,00,000.",
+            "25% cost of equipment recommended by the auditing authority subject to a maximum of ₹20,00,000/- one-time assistance."
         ],
         "eligibility": [
             "Should be a New Manufacturing/ Service unit or Existing Manufacturing/ Service unit which undertakes Expansion/ Diversification in MSME sector.",
@@ -77,5 +77,6 @@
             "Subsidy",
             "Water"
         ]
-    }
+    },
+    "id": "000909"
 }

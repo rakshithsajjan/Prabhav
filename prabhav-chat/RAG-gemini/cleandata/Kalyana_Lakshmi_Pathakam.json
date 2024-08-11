@@ -7,8 +7,8 @@
         "beneficiary": "Unmarried girls belonging to SC/ST/BC/EBC communities",
         "details": "The Government of Telangana envisions the overall development of the Scheduled Castes/Scheduled Tribes/Backward Classes/Economically Backward Classes (SC, ST, BC & EBC) and in particular, the unmarried Girls belonging to these communities who are the disadvantaged section of the society. In pursuance of this vision, the Government of Telangana proposes to introduce the scheme of 'Kalyana Lakshmi Pathakam', on 02nd October 2014, to all SC, ST, BC & EBC girls on their marriage with a view to alleviate financial distress in the family. The main objective of the scheme is to provide financial assistance to the newly wedding brides who belong to SC, ST, BC & EBC families. Under this scheme at the time of marriage of the bride financial aid will be transferred into the bank account of the mother. This scheme will prevent early marriages and will also increase the literacy rate among girls as only those girls who have attained 18 years of age or more can apply for this scheme. Kalyana Lakshmi Scheme will also make women empowered and financially independent. Through the implementation of this scheme, many benefits will be availed for the brides who are about to get married in Telangana state.",
         "benefits": [
-            "Under the Scheme, one-time financial assistance of \u20b91,00,116 /- at the time of marriage shall be granted to every SC/ST/BC/EBC Girl with effect from October 2, 2014 subject to the eligibility condition.",
-            "The financial assistance of \u20b91,25,145/- is provided to the parents of disabled girls irrespective of their caste.",
+            "Under the Scheme, one-time financial assistance of ₹1,00,116 /- at the time of marriage shall be granted to every SC/ST/BC/EBC Girl with effect from October 2, 2014 subject to the eligibility condition.",
+            "The financial assistance of ₹1,25,145/- is provided to the parents of disabled girls irrespective of their caste.",
             "The 'Kalyana Lakshmi Pathakam' is only a one-time financial assistance and can be availed only once in a lifetime."
         ],
         "eligibility": [
@@ -16,11 +16,11 @@
             "The unmarried girl shall be a resident of Telangana State.",
             "The unmarried girl should have completed 18 years of age at the time of Marriage.",
             "The wedding of the SC/ST/BC/EBC girl shall be on or after October 2, 2014.",
-            "SC Income Limit: \u20b92,00,000/- per annum",
-            "ST Income Limit: \u20b92,00,000/- per annum",
-            "BC/EBC Income Limit: Urban \u2013 \u20b92,00,000/- per annum, Rural \u2013 \u20b91,50,000/- per annum"
+            "SC Income Limit: ₹2,00,000/- per annum",
+            "ST Income Limit: ₹2,00,000/- per annum",
+            "BC/EBC Income Limit: Urban – ₹2,00,000/- per annum, Rural – ₹1,50,000/- per annum"
         ],
-        "application_process": "To avail of the benefits of the scheme, the applicants shall apply online by accessing the website 'Telangana ePass'. Scroll down the homepage and click on 'Kalyana Lakshmi Shaadi Mubarak'. A 'Kalyana Laxmi Pathakam Services' page will open up and under the 'Kalyana Lakshmi Pathakam For SC, ST, BC, EBC', click on \u2018Registration\u2019. Fill out the registration form completely and click on \u2018submit'. Under the tab \u2018Print/Status\u2019, the applicant can check the status of the application and take a printout of the application form for future reference. Under the tab \u2018Edit/Uploads\u2019, the applicant can edit the application form and upload other relevant documents.",
+        "application_process": "To avail of the benefits of the scheme, the applicants shall apply online by accessing the website 'Telangana ePass'. Scroll down the homepage and click on 'Kalyana Lakshmi Shaadi Mubarak'. A 'Kalyana Laxmi Pathakam Services' page will open up and under the 'Kalyana Lakshmi Pathakam For SC, ST, BC, EBC', click on ‘Registration’. Fill out the registration form completely and click on ‘submit'. Under the tab ‘Print/Status’, the applicant can check the status of the application and take a printout of the application form for future reference. Under the tab ‘Edit/Uploads’, the applicant can edit the application form and upload other relevant documents.",
         "documents_required": [
             "Marriage Confirmation Certificate",
             "VRO/Panchayat Secretary Approval Certificate",
@@ -57,11 +57,11 @@
             },
             {
                 "question": "How much money is given under the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b91,00,116/- will be given to unmarried girls of minority communities for their marriage."
+                "answer": "Under the scheme, financial assistance of ₹1,00,116/- will be given to unmarried girls of minority communities for their marriage."
             },
             {
                 "question": "How much money is given to the parents of disabled girls under the scheme?",
-                "answer": "The financial assistance of \u20b91,25,145/- is provided to the parents of disabled girls irrespective of their caste."
+                "answer": "The financial assistance of ₹1,25,145/- is provided to the parents of disabled girls irrespective of their caste."
             },
             {
                 "question": "Who is eligible for scheme?",
@@ -109,5 +109,6 @@
             "Marriage Scheme",
             "SC/ST/BC/EBC"
         ]
-    }
+    },
+    "id": "000959"
 }

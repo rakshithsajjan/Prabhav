@@ -12,7 +12,7 @@
         ],
         "eligibility": [
             "The applicant should be a native and resident of Kerala State.",
-            "The applicant\u2019s age has to be 60 years or above.",
+            "The applicant’s age has to be 60 years or above.",
             "The applicants should be from Below Poverty Line (BPL) category.",
             "An authorized Doctor has to certify that the applicant is suffering from diabetes.",
             "If there are a large number of applicants, priority will be given to older persons."
@@ -95,5 +95,6 @@
             "Patient",
             "Senior Citizen"
         ]
-    }
+    },
+    "id": "002006"
 }

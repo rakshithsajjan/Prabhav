@@ -7,9 +7,9 @@
         "beneficiary": "Youth",
         "details": "The 'Training in Silk' Component of the 'Development of Silk' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to revamp the silk weaving industry and generate employment. It offers comprehensive one-year training to equip individuals with the necessary skills. The objective is to develop silk and silk-based industry, to train rural youth in silk weaving and to generate employment thereby.",
         "benefits": [
-            "Monthly stipend of \u20b91500 for trainees.",
-            "Honorarium of \u20b9500 per trainee per month (up to \u20b95000) for Master Trainer.",
-            "Compensation of \u20b9500 per trainee per month for raw materials (up to \u20b95000) for Master Trainer."
+            "Monthly stipend of ₹1500 for trainees.",
+            "Honorarium of ₹500 per trainee per month (up to ₹5000) for Master Trainer.",
+            "Compensation of ₹500 per trainee per month for raw materials (up to ₹5000) for Master Trainer."
         ],
         "eligibility": [
             "The age of the applicant should be between 18 and 35 years.",
@@ -27,11 +27,11 @@
         "faqs": [
             {
                 "question": "What benefits are provided to trainees under the scheme?",
-                "answer": "Trainees receive a monthly stipend of \u20b91500 during the comprehensive one-year training period."
+                "answer": "Trainees receive a monthly stipend of ₹1500 during the comprehensive one-year training period."
             },
             {
                 "question": "What compensation does the Master Trainer receive for each trainee per month?",
-                "answer": "The Master Trainer receives an honorarium of \u20b9500 per trainee per month, along with \u20b9500 for raw materials."
+                "answer": "The Master Trainer receives an honorarium of ₹500 per trainee per month, along with ₹500 for raw materials."
             },
             {
                 "question": "Where is the Project Manager located for form submission?",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What is the compensation for the Master Trainer's raw material expenses?",
-                "answer": "The Master Trainer receives \u20b9500 per trainee per month for raw materials, up to a maximum of \u20b95000."
+                "answer": "The Master Trainer receives ₹500 per trainee per month for raw materials, up to a maximum of ₹5000."
             },
             {
                 "question": "Is there any age restriction for scheme applicants?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the monthly stipend amount provided to trainees?",
-                "answer": "Trainees receive a monthly stipend of \u20b91500 during the comprehensive one-year training period."
+                "answer": "Trainees receive a monthly stipend of ₹1500 during the comprehensive one-year training period."
             },
             {
                 "question": "Can applicants submit their forms on non-working days?",
@@ -104,5 +104,6 @@
             "Training",
             "Youth"
         ]
-    }
+    },
+    "id": "001969"
 }

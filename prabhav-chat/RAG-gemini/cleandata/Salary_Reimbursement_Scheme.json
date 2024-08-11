@@ -7,10 +7,10 @@
         "beneficiary": "Startups in Goa",
         "details": "The scheme 'Salary Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme aims to bolster startup growth by incentivizing the hiring of local talent through a dual-pronged approach. Startups can reimburse 50% of fresher salaries. The process ensures prompt disbursement post SPC approval, emphasizing that benefits are discretionary, not entitlements.",
         "benefits": [
-            "50% of the salary of a fresher will be reimbursed, subject to a cap of \u20b910,000 per month per recruit.",
+            "50% of the salary of a fresher will be reimbursed, subject to a cap of ₹10,000 per month per recruit.",
             "A startup can claim the salary of a maximum of 25 people per month for a period of 3 years.",
             "This benefit can be availed of by 100 startups each year, which shall be selected by the SPC as per its guidelines.",
-            "For startups whose workforce comprises 60% locals, up to 25% of the salary of the local workforce, subject to a cap of \u20b925,00,000 per year, will be reimbursed for 3 years."
+            "For startups whose workforce comprises 60% locals, up to 25% of the salary of the local workforce, subject to a cap of ₹25,00,000 per year, will be reimbursed for 3 years."
         ],
         "eligibility": [
             "All the Start-ups certified by the Start-up Promotion Cell (SPC) having a valid start-up certificate number are eligible to apply for this scheme.",
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "What is the maximum reimbursement cap for the Salary Reimbursement Scheme for startups hiring local talent in Goa?",
-                "answer": "The maximum reimbursement cap for startups hiring local talent is \u20b910,000 per month per recruit."
+                "answer": "The maximum reimbursement cap for startups hiring local talent is ₹10,000 per month per recruit."
             },
             {
                 "question": "How many people can a startup claim the salary of under the Salary Reimbursement Scheme, and for what duration?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What percentage of the salary can startups with a workforce comprising 60% locals claim under the scheme, and for how many years?",
-                "answer": "Startups with 60% local workforce can claim up to 25% of the salary, subject to a cap of \u20b925,00,000 per year, for 3 years."
+                "answer": "Startups with 60% local workforce can claim up to 25% of the salary, subject to a cap of ₹25,00,000 per year, for 3 years."
             },
             {
                 "question": "How many startups can avail of the benefits each year, and how are they selected?",
@@ -101,5 +101,6 @@
             "Salary",
             "Startup"
         ]
-    }
+    },
+    "id": "001635"
 }

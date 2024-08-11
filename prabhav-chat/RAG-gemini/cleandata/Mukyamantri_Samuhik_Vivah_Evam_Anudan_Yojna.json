@@ -7,9 +7,9 @@
         "beneficiary": "Couples getting married",
         "details": "In an effort to tackle social issues and promote a more economical approach to weddings, the Rajasthani government introduced the Mukhyamantri Samuhik Vivah Evam Anudan Yojana in 2021. This initiative actively encourages mass marriage ceremonies throughout the state. By facilitating these events, the program aims to achieve a two-fold benefit: reducing excessive spending often associated with traditional weddings and discouraging harmful social practices like child marriage and dowry. Financial aid is provided to couples to help manage the costs of their marriage. This scheme effectively promotes social reforms while offering financial support for couples across Rajasthan.",
         "benefits": [
-            "Total Grand: \u20b925,000/- will be provided as follows:",
-            "To the bride: \u20b921,000/- is given",
-            "To Marriage Organizer: \u20b94,000/- through IFMS."
+            "Total Grand: ₹25,000/- will be provided as follows:",
+            "To the bride: ₹21,000/- is given",
+            "To Marriage Organizer: ₹4,000/- through IFMS."
         ],
         "eligibility": [
             "The bride/groom should be a native of Rajasthan",
@@ -80,5 +80,6 @@
             "Marriage",
             "Women"
         ]
-    }
+    },
+    "id": "001249"
 }

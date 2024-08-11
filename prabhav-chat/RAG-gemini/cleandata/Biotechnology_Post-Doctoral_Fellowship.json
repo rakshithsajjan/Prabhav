@@ -5,14 +5,14 @@
         "department": "Kerala Biotechnology Commission (KBC)",
         "type": "Fellowship",
         "beneficiary": "Young Researchers",
-        "details": "The \u201cBiotechnology Post-Doctoral Fellowship (BPDF)\u201d programme is offered to young researchers who have completed their PhD in relevant areas of Biotechnology for promoting independent research mentored by eminent scientists/faculty in reputed institutions by providing fellowship.",
+        "details": "The “Biotechnology Post-Doctoral Fellowship (BPDF)” programme is offered to young researchers who have completed their PhD in relevant areas of Biotechnology for promoting independent research mentored by eminent scientists/faculty in reputed institutions by providing fellowship.",
         "benefits": [
-            "The Post-Doctoral Fellowship carries an amount of \u20b932,000/- per month + HRA (10%) with an annual contingent grant of \u20b950,000/-.",
-            "Candidates who have submitted a thesis for a PhD and are awaiting the award of a PhD, will be paid only \u20b922,000/- per month + 10% HRA."
+            "The Post-Doctoral Fellowship carries an amount of ₹32,000/- per month + HRA (10%) with an annual contingent grant of ₹50,000/-.",
+            "Candidates who have submitted a thesis for a PhD and are awaiting the award of a PhD, will be paid only ₹22,000/- per month + 10% HRA."
         ],
         "eligibility": [
             "The applicant should be a native of Kerala State.",
-            "The applicant should possess a first-class Master\u2019s Degree in Life Sciences including Veterinary Science, Agriculture, Forestry, Fisheries or a Master\u2019s Degree in Medicine followed by PhD in biotechnologically relevant aspects with quality publications in indexed (SCI) journals.",
+            "The applicant should possess a first-class Master’s Degree in Life Sciences including Veterinary Science, Agriculture, Forestry, Fisheries or a Master’s Degree in Medicine followed by PhD in biotechnologically relevant aspects with quality publications in indexed (SCI) journals.",
             "The candidates with the above qualifications who have submitted their PhD thesis and with quality publications in indexed (SCI) journals.",
             "The Fellowship is open to candidates below 35 years, but relaxable up to a maximum of 5 years for SC/ST/Women and Physically handicapped candidates.",
             "Applicant should not be receiving any fellowship or grant from any other source.",
@@ -44,8 +44,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cBiotechnology Post-Doctoral Fellowship\u201d programme?",
-                "answer": "The \u201cBiotechnology Post-Doctoral Fellowship (BPDF)\u201d programme is offered to young researchers who have completed their PhD in relevant areas of Biotechnology for promoting independent research mentored by eminent scientists/faculty in reputed institutions by providing fellowship."
+                "question": "What is the “Biotechnology Post-Doctoral Fellowship” programme?",
+                "answer": "The “Biotechnology Post-Doctoral Fellowship (BPDF)” programme is offered to young researchers who have completed their PhD in relevant areas of Biotechnology for promoting independent research mentored by eminent scientists/faculty in reputed institutions by providing fellowship."
             },
             {
                 "question": "Which is the implementing agency of this programme?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "Who is eligible to get the benefits under the programme?",
-                "answer": "The applicant having a first-class Master\u2019s Degree in Life Sciences including Veterinary Science, Agriculture, Forestry, Fisheries or a Master\u2019s Degree in Medicine followed by PhD in biotechnologically relevant aspects with quality publications in indexed (SCI) journals."
+                "answer": "The applicant having a first-class Master’s Degree in Life Sciences including Veterinary Science, Agriculture, Forestry, Fisheries or a Master’s Degree in Medicine followed by PhD in biotechnologically relevant aspects with quality publications in indexed (SCI) journals."
             },
             {
                 "question": "Is this programme only for the resident of Kerala State?",
@@ -73,11 +73,11 @@
             },
             {
                 "question": "How much will the amount be paid to the fellows under the programme?",
-                "answer": "The Post-Doctoral Fellowship carries an amount of \u20b932,000/- per month + HRA (10%) with an annual contingent grant of \u20b950,000/-."
+                "answer": "The Post-Doctoral Fellowship carries an amount of ₹32,000/- per month + HRA (10%) with an annual contingent grant of ₹50,000/-."
             },
             {
                 "question": "How much will the amount be paid to the candidates who have submitted a thesis for a PhD and are awaiting the award of a PhD under the programme?",
-                "answer": "Candidates who have submitted a thesis for a PhD and are awaiting the award of a PhD, will be paid only \u20b922,000/- per month + 10% HRA."
+                "answer": "Candidates who have submitted a thesis for a PhD and are awaiting the award of a PhD, will be paid only ₹22,000/- per month + 10% HRA."
             },
             {
                 "question": "How many times are the applications invited in a year?",
@@ -89,7 +89,7 @@
             },
             {
                 "question": "Where can an applicant contact regarding this programme?",
-                "answer": "Advisor, Kerala Biotechnology Commission Kerala State Council for Science, Technology and Environment (KSCSTE), Sasthra Bhavan, Pattom, Thiruvananthapuram \u2013 695 004 Telephone: (0471) 2548406, 2548259 E-mail: kbc.kscste@kerala.gov.in"
+                "answer": "Advisor, Kerala Biotechnology Commission Kerala State Council for Science, Technology and Environment (KSCSTE), Sasthra Bhavan, Pattom, Thiruvananthapuram – 695 004 Telephone: (0471) 2548406, 2548259 E-mail: kbc.kscste@kerala.gov.in"
             }
         ],
         "sources": [
@@ -118,5 +118,6 @@
                 "url": "https://kscste.kerala.gov.in/wp-content/uploads/2019/06/BPDF_annualreport_format.pdf"
             }
         ]
-    }
+    },
+    "id": "000218"
 }

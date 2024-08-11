@@ -5,10 +5,10 @@
         "department": "Ministry Of Culture",
         "type": "Grant",
         "beneficiary": "NGOs, Societies, Trusts, and Universities",
-        "details": "The scheme covers all \u2018not-for-profit\u2019 organizations for supporting Seminars, Conference, Research, Workshops, Festivals, Exhibitions, Symposia, Drama-Theatre, Music, etc., and small research projects on different aspects of Indian Culture.",
+        "details": "The scheme covers all ‘not-for-profit’ organizations for supporting Seminars, Conference, Research, Workshops, Festivals, Exhibitions, Symposia, Drama-Theatre, Music, etc., and small research projects on different aspects of Indian Culture.",
         "benefits": [
-            "The grant for specific projects shall be restricted to 75% of the expenditure, subject to a maximum of \u20b95.00 lakhs per project.",
-            "In exceptional circumstances, assistance may be increased up to \u20b920 Lakhs with the approval of the Hon\u2019ble Minister of Culture."
+            "The grant for specific projects shall be restricted to 75% of the expenditure, subject to a maximum of ₹5.00 lakhs per project.",
+            "In exceptional circumstances, assistance may be increased up to ₹20 Lakhs with the approval of the Hon’ble Minister of Culture."
         ],
         "eligibility": [
             "The applicant organizations must have a properly constituted managing body with defined powers, duties, and responsibilities.",
@@ -33,7 +33,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cCultural Function and Production Grant\u201d scheme?",
+                "question": "What is the “Cultural Function and Production Grant” scheme?",
                 "answer": "The grant will be provided for conferences, seminars, workshops, festivals, and exhibitions related to cultural heritage."
             },
             {
@@ -46,7 +46,7 @@
             },
             {
                 "question": "How much financial assistance will be provided under the scheme?",
-                "answer": "The grant is restricted to 75% of the expenditure, up to \u20b95.00 lakhs per project."
+                "answer": "The grant is restricted to 75% of the expenditure, up to ₹5.00 lakhs per project."
             },
             {
                 "question": "Which type of organization is eligible to apply under the scheme?",
@@ -95,5 +95,6 @@
             "NGO",
             "Society"
         ]
-    }
+    },
+    "id": "000348"
 }

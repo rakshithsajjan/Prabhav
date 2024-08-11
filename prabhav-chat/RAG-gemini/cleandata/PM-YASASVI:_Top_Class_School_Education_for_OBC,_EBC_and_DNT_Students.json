@@ -10,12 +10,12 @@
             "Tuition fee coverage",
             "Hostel fee coverage",
             "Other school-related charges",
-            "Maximum of \u20b975,000 per annum for Classes 9 and 10",
-            "Maximum of \u20b91,25,000 per annum for Classes 11 and 12"
+            "Maximum of ₹75,000 per annum for Classes 9 and 10",
+            "Maximum of ₹1,25,000 per annum for Classes 11 and 12"
         ],
         "eligibility": [
             "Students must belong to OBC, EBC, or DNT categories",
-            "Household annual income must be less than \u20b92.5 lakhs",
+            "Household annual income must be less than ₹2.5 lakhs",
             "Students must be studying in Top Class Schools"
         ],
         "exclusions": [
@@ -44,7 +44,7 @@
             },
             {
                 "question": "Who is eligible for this scheme?",
-                "answer": "All OBC, EBC, and DNT students studying in Top Class Schools with a household annual income of less than \u20b92.5 lakhs."
+                "answer": "All OBC, EBC, and DNT students studying in Top Class Schools with a household annual income of less than ₹2.5 lakhs."
             },
             {
                 "question": "How are slots allocated for each state under the scheme?",
@@ -52,11 +52,11 @@
             },
             {
                 "question": "What expenses does the scholarship cover?",
-                "answer": "The scholarship covers tuition fees, hostel fees, and other charges, up to \u20b975,000 for Classes 9 and 10, and \u20b91,25,000 for Classes 11 and 12."
+                "answer": "The scholarship covers tuition fees, hostel fees, and other charges, up to ₹75,000 for Classes 9 and 10, and ₹1,25,000 for Classes 11 and 12."
             },
             {
                 "question": "Are there any conditions of eligibility for students?",
-                "answer": "Yes, students must have a household income below \u20b92.5 lakhs and maintain a bank account."
+                "answer": "Yes, students must have a household income below ₹2.5 lakhs and maintain a bank account."
             },
             {
                 "question": "Is there any reservation for girls under the scheme?",
@@ -89,5 +89,6 @@
             "DNT",
             "Education"
         ]
-    }
+    },
+    "id": "001402"
 }

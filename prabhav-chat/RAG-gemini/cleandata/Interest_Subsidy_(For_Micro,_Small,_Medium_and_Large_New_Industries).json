@@ -9,7 +9,7 @@
         "benefits": [
             "Subsidy: Upto 25% of the annual interest amount paid.",
             "Admissibility: From the date of commencement of commercial production.",
-            "Ceiling: \u20b95,00,000/- per annum.",
+            "Ceiling: ₹5,00,000/- per annum.",
             "Period: 5 years for Puducherry and Karaikal, and for 7 years for Mahe and Yanam.",
             "Number of Installments: In single or multiple instalments, depending on the availability of funds.",
             "Mode of Disbursement: Through the financial institution."
@@ -112,5 +112,6 @@
             "MSME",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000883"
 }

@@ -5,13 +5,13 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Construction Worker",
-        "details": "The 'Go-Green Shramik Scheme' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). The objective of the scheme is to make the 'GREEN INDIA MISSION' of the Government of India a reality, allowing construction workers to become partners in environmental awareness and providing them with flexibility in commuting, saving money and time, and enabling them to live in a clean residential area.",
+        "details": "The 'Go-Green Shramik Scheme' is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). The objective of the scheme is to make the 'GREEN INDIA MISSION' of the Government of India a reality, allowing construction workers to become partners in environmental awareness and providing them with flexibility in commuting, saving money and time, and enabling them to live in a clean residential area.",
         "benefits": [
-            "One-time subsidy of 50% of the price of the battery-operated Two-Wheeler or \u20b930,000/-, whichever is less.",
+            "One-time subsidy of 50% of the price of the battery-operated Two-Wheeler or ₹30,000/-, whichever is less.",
             "Reimbursement of Registration Fee and Road Tax paid for the first time for a new two-wheeler."
         ],
         "eligibility": [
-            "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board.",
             "Registration period for construction workers should be one year or more.",
             "Registered construction worker must have purchased a lithium-ion battery high-speed vehicle in their own name.",
             "Registered construction worker must have a license to drive two-wheelers.",
@@ -29,11 +29,11 @@
         "faqs": [
             {
                 "question": "What benefits are provided under the scheme?",
-                "answer": "Under the scheme, construction workers receive a one-time subsidy of 50% of the price of the battery-operated two-wheeler or \u20b930,000/-, whichever is less. Additionally, assistance is provided for the payment of Registration Fee and Road Tax for the first time for a new two-wheeler."
+                "answer": "Under the scheme, construction workers receive a one-time subsidy of 50% of the price of the battery-operated two-wheeler or ₹30,000/-, whichever is less. Additionally, assistance is provided for the payment of Registration Fee and Road Tax for the first time for a new two-wheeler."
             },
             {
                 "question": "Who is eligible for the Go-Green Shramik Scheme?",
-                "answer": "Eligible participants are construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board. They must have completed one year after registration, purchased a lithium-ion battery high-speed vehicle in their own name, and hold a valid license to drive two-wheelers."
+                "answer": "Eligible participants are construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board. They must have completed one year after registration, purchased a lithium-ion battery high-speed vehicle in their own name, and hold a valid license to drive two-wheelers."
             },
             {
                 "question": "Can a registered construction worker avail of the scheme multiple times?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "How is the subsidy amount calculated?",
-                "answer": "The subsidy is calculated as 50% of the price of the battery-operated two-wheeler or \u20b930,000/-, whichever is less. This amount is deducted from the ex-showroom price of the vehicle, and the remaining amount is to be paid by the construction contractor."
+                "answer": "The subsidy is calculated as 50% of the price of the battery-operated two-wheeler or ₹30,000/-, whichever is less. This amount is deducted from the ex-showroom price of the vehicle, and the remaining amount is to be paid by the construction contractor."
             },
             {
                 "question": "Are there any additional subsidies available under the scheme?",
@@ -86,5 +86,6 @@
             "Subsidy",
             "Two-Wheeler"
         ]
-    }
+    },
+    "id": "000681"
 }

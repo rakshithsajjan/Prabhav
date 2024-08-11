@@ -7,9 +7,9 @@
         "beneficiary": "Students studying in hospitality/tourism-related schools",
         "details": "The Internship Policy of the Madhya Pradesh Tourism Board intends to provide practical training experience (in summer/winter etc.) to the students studying in various hospitality/tourism-related schools in Madhya Pradesh or outside the state. The training will be conducted under the supervision of the unit head/departmental head. The trainees will be paid a stipend as per the norms of the Madhya Pradesh Tourism Board.",
         "benefits": [
-            "Stipend of \u20b95,000/month for Post Graduate Diploma In Forestry Management",
-            "Stipend of \u20b92,500/month for B.Sc (in Hotel Management) from IHM or SIHM / MBA/BBA/BA/B.COM (Tourism)",
-            "Stipend of \u20b91,500/month for Certificate/Diploma/PG Diploma in Food Production, F&B Service, Housekeeping/hotel operations from Food Craft Institutes & IGNOU",
+            "Stipend of ₹5,000/month for Post Graduate Diploma In Forestry Management",
+            "Stipend of ₹2,500/month for B.Sc (in Hotel Management) from IHM or SIHM / MBA/BBA/BA/B.COM (Tourism)",
+            "Stipend of ₹1,500/month for Certificate/Diploma/PG Diploma in Food Production, F&B Service, Housekeeping/hotel operations from Food Craft Institutes & IGNOU",
             "Certificate upon successful completion of the internship training"
         ],
         "eligibility": [
@@ -90,5 +90,6 @@
             "Hospitality",
             "Madhya Pradesh"
         ]
-    }
+    },
+    "id": "000891"
 }

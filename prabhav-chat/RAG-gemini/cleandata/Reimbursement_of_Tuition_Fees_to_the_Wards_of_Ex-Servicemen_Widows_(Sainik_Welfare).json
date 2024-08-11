@@ -7,7 +7,7 @@
         "beneficiary": "Wards of Ex-Servicemen/Widows",
         "details": "'Reimbursement of Tuition Fees to the Wards of Ex-Servicemen/Widows (Sainik Welfare)' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the wards of the ESM / Widows of ESM studying in Government-recognized Institutions are provided reimbursement of their tuition fees. The application should be submitted offline within three months from the date of completion of the education.",
         "benefits": [
-            "Monthly Stipend (in \u20b9) According to the Level of Qualification",
+            "Monthly Stipend (in ₹) According to the Level of Qualification",
             "School: 1,000",
             "Military/Sainik Schools: 2,000",
             "School for Special Children: 2,000",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What is the procedure for seeking information through 'Right To Information (RTI)'?",
-                "answer": "The required information may be asked through an application along with IPO/DD for a sum of \u20b910/- in favour of the Director, Department of Sainik Welfare, Puducherry."
+                "answer": "The required information may be asked through an application along with IPO/DD for a sum of ₹10/- in favour of the Director, Department of Sainik Welfare, Puducherry."
             },
             {
                 "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
@@ -115,5 +115,6 @@
             "Welfare Scheme",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001591"
 }

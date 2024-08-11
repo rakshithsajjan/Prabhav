@@ -17,7 +17,7 @@
             "The student must have taken a loan from a commercial or rural bank, otherwise, he cannot avail of the benefit of the scheme.",
             "The bank has been recognized by the Reserve Bank of India.",
             "The benefit of this scheme can be availed only as a subsidy on education loans.",
-            "It is mandatory for the student\u2019s parents to have an education loan of more than Rs 1 lakh."
+            "It is mandatory for the student’s parents to have an education loan of more than Rs 1 lakh."
         ],
         "exclusions": [
             "Government employees are not allowed to apply to the scheme.",
@@ -26,7 +26,7 @@
         ],
         "application_process": "Visit the official website, with respect to the 'Abhinandhan Education Loan Subsidy', click on apply option. The Assam Abhinandhan Scheme Online Application Form will appear. Now provide the required details. Upload the required documents and submit.",
         "documents_required": [
-            "Student\u2019s Aadhaar Card",
+            "Student’s Aadhaar Card",
             "Parent Identification Documents",
             "Bank loan documents",
             "Residence certificate"
@@ -65,5 +65,6 @@
             "Assam",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000041"
 }

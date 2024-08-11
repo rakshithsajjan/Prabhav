@@ -5,9 +5,9 @@
         "department": "Social Justice Department, Government of Kerala",
         "type": "Financial Assistance",
         "beneficiary": "Unwed Mother",
-        "details": "The Government of Kerala has launched the \u201cSnehasparsham\u201d scheme to protect and help unwed mothers. The problems of unwed mothers are linked with various socio-economic and cultural variables. In Kerala, this problem is coupled with the ignorance and exploitation of the backward classes. It has been pointed out that there are many women in Wayanad and other districts of Kerala who are victims of social exploitation and atrocities and are often forced to become unmarried mothers. Unwed mothers have a special need for education, employment, and health care especially reproductive and child health. Quite often they are neglected from the mainstream of life. The percentage of abortion-related hazards and death is high among teenage unwed mothers. As a part of this scheme, the Government is giving \u20b91000/- per month to them.",
+        "details": "The Government of Kerala has launched the “Snehasparsham” scheme to protect and help unwed mothers. The problems of unwed mothers are linked with various socio-economic and cultural variables. In Kerala, this problem is coupled with the ignorance and exploitation of the backward classes. It has been pointed out that there are many women in Wayanad and other districts of Kerala who are victims of social exploitation and atrocities and are often forced to become unmarried mothers. Unwed mothers have a special need for education, employment, and health care especially reproductive and child health. Quite often they are neglected from the mainstream of life. The percentage of abortion-related hazards and death is high among teenage unwed mothers. As a part of this scheme, the Government is giving ₹1000/- per month to them.",
         "benefits": [
-            "Under the scheme, financial assistance of \u20b91000/- per month will be given to unwed mothers."
+            "Under the scheme, financial assistance of ₹1000/- per month will be given to unwed mothers."
         ],
         "eligibility": [
             "The applicant should be a resident of Kerala State.",
@@ -28,8 +28,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cSnehasparsham\u201d scheme?",
-                "answer": "The Government of Kerala has launched the \u201cSnehasparsham\u201d scheme to protect and help unwed mothers."
+                "question": "What is the “Snehasparsham” scheme?",
+                "answer": "The Government of Kerala has launched the “Snehasparsham” scheme to protect and help unwed mothers."
             },
             {
                 "question": "What is the aim of the scheme?",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b91000/- per month will be given to unwed mothers."
+                "answer": "Under the scheme, financial assistance of ₹1000/- per month will be given to unwed mothers."
             },
             {
                 "question": "Who is eligible to get the benefits under the scheme?",
@@ -91,5 +91,6 @@
             "Unwed Mother",
             "Kerala"
         ]
-    }
+    },
+    "id": "001820"
 }

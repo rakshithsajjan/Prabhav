@@ -1,15 +1,15 @@
 {
     "content": {
-        "title": "Chief Minister\u2019s College Students Rehabilitation Scheme (CMCSRS)",
+        "title": "Chief Minister’s College Students Rehabilitation Scheme (CMCSRS)",
         "state": "Manipur",
         "department": "Directorate of University & Higher Education, Govt. of Manipur",
         "type": "Rehabilitation",
         "beneficiary": "Undergraduate students affected by social unrest",
-        "details": "The \u2018Chief Minister\u2019s College Students Rehabilitation Scheme (CMCSRS)' aims at providing the required educational facilities to the displaced and affected undergraduate students because of the prevailing social unrest in the state. This scheme is initiated to enable such students to continue with their education without interruption.",
+        "details": "The ‘Chief Minister’s College Students Rehabilitation Scheme (CMCSRS)' aims at providing the required educational facilities to the displaced and affected undergraduate students because of the prevailing social unrest in the state. This scheme is initiated to enable such students to continue with their education without interruption.",
         "benefits": [
             "Transfer to a new college (as per request)",
-            "Free admission for 2023-24 (Admission amount ranging from \u20b95,000 to \u20b99,000 as per the stream/subjects offered)",
-            "One-time rehabilitation grant of \u20b910,000/- (\u20b95,000/- as book/stationery grant and \u20b92,000/- for uniform and \u20b93,000 for miscellaneous expenditure)",
+            "Free admission for 2023-24 (Admission amount ranging from ₹5,000 to ₹9,000 as per the stream/subjects offered)",
+            "One-time rehabilitation grant of ₹10,000/- (₹5,000/- as book/stationery grant and ₹2,000/- for uniform and ₹3,000 for miscellaneous expenditure)",
             "Free Smart Phones under CMCMESS",
             "Provision for free sanitary pads and sports equipment under UHEHFS (for girl students)"
         ],
@@ -62,8 +62,8 @@
                 "answer": "Girl students under the Scheme will receive not only the rehabilitation grant but also the provision for free sanitary pads and sports equipment under UHEHFS."
             },
             {
-                "question": "Could You Elaborate On The One-Time Rehabilitation Grant Of \u20b910,000 Under The Scheme And How It Will Be Disbursed To The Students?",
-                "answer": "The one-time rehabilitation grant of \u20b910,000 includes \u20b95,000 as book/stationery grant, \u20b92,000 for uniforms, and \u20b93,000 for miscellaneous expenditure. This grant will be directly transferred to the individual bank accounts of the student beneficiaries through the Direct Benefit Transfer (DBT) mechanism."
+                "question": "Could You Elaborate On The One-Time Rehabilitation Grant Of ₹10,000 Under The Scheme And How It Will Be Disbursed To The Students?",
+                "answer": "The one-time rehabilitation grant of ₹10,000 includes ₹5,000 as book/stationery grant, ₹2,000 for uniforms, and ₹3,000 for miscellaneous expenditure. This grant will be directly transferred to the individual bank accounts of the student beneficiaries through the Direct Benefit Transfer (DBT) mechanism."
             },
             {
                 "question": "What Specific Benefits Are Available For Students Directly Affected By The Scheme, And How Can They Apply For Transfer To A New College?",
@@ -95,5 +95,6 @@
             "Student",
             "Undergraduate"
         ]
-    }
+    },
+    "id": "000295"
 }

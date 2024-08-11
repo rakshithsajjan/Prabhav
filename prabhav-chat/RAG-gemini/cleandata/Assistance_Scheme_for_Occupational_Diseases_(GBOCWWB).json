@@ -5,15 +5,15 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Building Worker, Construction Worker",
-        "details": "The \u201cAssistance Scheme for Occupational Diseases\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB), Labour, Skill Development & Employment Department, Government of Gujarat. Under the scheme, financial assistance is given to registered construction workers for 15 types of occupational diseases and 23 types of serious injuries.",
+        "details": "The “Assistance Scheme for Occupational Diseases” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), Labour, Skill Development & Employment Department, Government of Gujarat. Under the scheme, financial assistance is given to registered construction workers for 15 types of occupational diseases and 23 types of serious injuries.",
         "benefits": [
-            "Free medical treatment and monthly assistance of \u20b91500/- shall be provided to the registered construction worker under normal circumstances in case of less than 90% disability.",
-            "Free medical treatment and monthly assistance of \u20b93000/- shall be provided to the registered construction worker in case of 90 to 100% disability.",
-            "The above assistance shall be provided up to a maximum limit of \u20b93,00,000/-.",
+            "Free medical treatment and monthly assistance of ₹1500/- shall be provided to the registered construction worker under normal circumstances in case of less than 90% disability.",
+            "Free medical treatment and monthly assistance of ₹3000/- shall be provided to the registered construction worker in case of 90 to 100% disability.",
+            "The above assistance shall be provided up to a maximum limit of ₹3,00,000/-.",
             "Financial assistance is provided to the registered construction workers for 15 types of occupational diseases and 23 types of serious injuries."
         ],
         "eligibility": [
-            "The construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board will be eligible to get the benefit of this scheme.",
+            "The construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board will be eligible to get the benefit of this scheme.",
             "The registered worker who has any type of disability due to an occupational disease or any serious injuries can avail of the benefits under this scheme."
         ],
         "exclusions": [],
@@ -40,7 +40,7 @@
         "faqs": [
             {
                 "question": "Who administers this scheme?",
-                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker’s Welfare Board."
             },
             {
                 "question": "What types of benefits are offered under this scheme?",
@@ -48,11 +48,11 @@
             },
             {
                 "question": "What is the financial assistance provided under the scheme?",
-                "answer": "Registered construction workers with less than 90% disability receive \u20b91500/- monthly assistance, while those with 90 to 100% disability receive \u20b93000/- monthly assistance."
+                "answer": "Registered construction workers with less than 90% disability receive ₹1500/- monthly assistance, while those with 90 to 100% disability receive ₹3000/- monthly assistance."
             },
             {
                 "question": "Is there a maximum limit to the financial assistance provided?",
-                "answer": "Yes, the assistance is provided up to a maximum limit of \u20b93,00,000/-."
+                "answer": "Yes, the assistance is provided up to a maximum limit of ₹3,00,000/-."
             },
             {
                 "question": "How many types of occupational diseases and serious injuries are covered under the scheme?",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "Who is eligible for the benefits under the scheme?",
-                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible to avail of the benefits."
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker’s Welfare Board are eligible to avail of the benefits."
             },
             {
                 "question": "Is the medical treatment provided under the scheme free of cost?",
@@ -102,5 +102,6 @@
             "Labour",
             "Occupational Diseases"
         ]
-    }
+    },
+    "id": "000112"
 }

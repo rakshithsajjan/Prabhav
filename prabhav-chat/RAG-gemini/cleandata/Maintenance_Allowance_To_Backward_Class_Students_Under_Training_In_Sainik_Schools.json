@@ -7,8 +7,8 @@
         "beneficiary": "Nomadic Tribes, Other Backward Class, Vimukta Jatis",
         "details": "The scheme 'Maintenance Allowance to Backward Class Students Under Training in Sainik School' is a Scholarship Scheme by the Social Justice and Special Assistance Department, Government of Maharashtra. VJNT and SBC students are paid maintenance so that a maximum number of students can be admitted to Sainik School with a view to seeking admission in N.D.A. The State Government introduced in 2003-04 the scheme to create self-employment for unemployed youths and students of VJNT and SBC who apply for Vocational Training. He will be given Vocational Training in Government I.T.I and undergo short-duration vocational training courses. The short-duration vocational courses will enable the youths to create their own employment in the service sector.",
         "benefits": [
-            "The training fees \u20b9400/- to \u20b92400/- (as per course) are paid to the concerned I.T.I.",
-            "After completion of training, one Tool Kit of \u20b91000/- is provided to the trainee through the concerned Govt. I.T.I."
+            "The training fees ₹400/- to ₹2400/- (as per course) are paid to the concerned I.T.I.",
+            "After completion of training, one Tool Kit of ₹1000/- is provided to the trainee through the concerned Govt. I.T.I."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -53,5 +53,6 @@
             "Education",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001065"
 }

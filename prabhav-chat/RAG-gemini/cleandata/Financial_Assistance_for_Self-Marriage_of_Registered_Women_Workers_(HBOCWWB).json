@@ -7,7 +7,7 @@
         "beneficiary": "Registered Women Workers",
         "details": "The scheme 'Financial Assistance for Self-Marriage of Registered Women Workers' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, financial assistance is provided to registered women workers for arranging their own marriage. Women workers who are registered members for at least one year and have not received marriage assistance for their own marriage from any other government department/board/corporation are eligible to avail the benefits of this scheme.",
         "benefits": [
-            "Financial assistance of \u20b950,000/- is provided to registered women workers for arranging their own marriage."
+            "Financial assistance of ₹50,000/- is provided to registered women workers for arranging their own marriage."
         ],
         "eligibility": [
             "The applicant should be a woman and engaged in building or construction work.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "A financial assistance of \u20b950,000/- is provided to registered women workers."
+                "answer": "A financial assistance of ₹50,000/- is provided to registered women workers."
             },
             {
                 "question": "Who is eligible for this scheme?",
@@ -91,5 +91,6 @@
             "Marriage",
             "Woman"
         ]
-    }
+    },
+    "id": "000574"
 }

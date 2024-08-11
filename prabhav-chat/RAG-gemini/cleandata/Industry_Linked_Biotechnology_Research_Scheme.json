@@ -7,8 +7,8 @@
         "beneficiary": "Scientists and Technologists of R&D Centers/Academic Institutions/Organizations",
         "details": "The Scheme 'Industry Linked Biotechnology Research Scheme (IBRS)' facilitates Academia-Industry interaction by undertaking projects in collaboration with an industrial partner which should result in commercializing the product or process or service. Kerala Biotechnology Commission (KBC) under the Kerala State Council for Science, Technology and Environment (KSCSTE) provides project mode support to facilitate Academia-Industry interaction. The project proposals should be result-oriented with an eye on commercializing the product or process or service that would result from it. The scheme is to provide financial assistance in the form of grants to Scientists and Technologists of R&D Centers/academic Institutions/Organizations actively involved in biotechnological research with emphasis on areas relating to marine, agriculture, health, and environment. The proposals need to be submitted with active collaboration with an industry in which the industrial partner is willing to share 25% of the KBC allocated funds additionally.",
         "benefits": [
-            "Financial assistance in the form of a grant of \u20b940 lakhs excluding overhead cost and industry share (25%) for a period of three years shall be provided to Scientists and Technologists of R&D Centers/academic Institutions/Organizations actively involved in biotechnological research with emphasis on areas relating to marine, agriculture, health and environment.",
-            "In addition, the host institution will be eligible for an overhead @ 10% of total expenditure subject to a ceiling of \u20b92 lakh."
+            "Financial assistance in the form of a grant of ₹40 lakhs excluding overhead cost and industry share (25%) for a period of three years shall be provided to Scientists and Technologists of R&D Centers/academic Institutions/Organizations actively involved in biotechnological research with emphasis on areas relating to marine, agriculture, health and environment.",
+            "In addition, the host institution will be eligible for an overhead @ 10% of total expenditure subject to a ceiling of ₹2 lakh."
         ],
         "eligibility": [
             "The applicants should be the Scientists and Technologists of R&D Centers/Academic Institutions/Organizations actively involved in biotechnological research with emphasis on areas relating to marine, agriculture, health, and environment.",
@@ -41,11 +41,11 @@
             },
             {
                 "question": "How much will the financial assistance be provided under the scheme?",
-                "answer": "Financial assistance in the form of a grant of \u20b940 lakhs excluding overhead cost and industry share (25%) for a period of three years shall be provided to Scientists and Technologists of R&D Centers/academic Institutions/Organizations actively involved in biotechnological research with emphasis on areas relating to marine, agriculture, health and environment."
+                "answer": "Financial assistance in the form of a grant of ₹40 lakhs excluding overhead cost and industry share (25%) for a period of three years shall be provided to Scientists and Technologists of R&D Centers/academic Institutions/Organizations actively involved in biotechnological research with emphasis on areas relating to marine, agriculture, health and environment."
             },
             {
                 "question": "How much grant will the host institution be eligible for under the scheme?",
-                "answer": "The host institution will be eligible for an overhead @ 10% of total expenditure subject to a ceiling of \u20b92 lakh."
+                "answer": "The host institution will be eligible for an overhead @ 10% of total expenditure subject to a ceiling of ₹2 lakh."
             },
             {
                 "question": "In which branch of biotechnology proposal can be submitted?",
@@ -61,7 +61,7 @@
             },
             {
                 "question": "Where can I contact regarding the scheme?",
-                "answer": "The applicant may contact at following address: The Scientist-in-charge Kerala Bio-Technology Commission Kerala State Council for Science, Technology and Environment (KSCSTE), Sasthra Bhavan, Pattom, Thiruvananthapuram \u2013 695 004 Telephone: (0471) 2548254, 2548406 E-mail: kbc.kscste@kerala.gov.in"
+                "answer": "The applicant may contact at following address: The Scientist-in-charge Kerala Bio-Technology Commission Kerala State Council for Science, Technology and Environment (KSCSTE), Sasthra Bhavan, Pattom, Thiruvananthapuram – 695 004 Telephone: (0471) 2548254, 2548406 E-mail: kbc.kscste@kerala.gov.in"
             }
         ],
         "sources": [
@@ -114,5 +114,6 @@
             "Scientist",
             "Technologist"
         ]
-    }
+    },
+    "id": "000852"
 }

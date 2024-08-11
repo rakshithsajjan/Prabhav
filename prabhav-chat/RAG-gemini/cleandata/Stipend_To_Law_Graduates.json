@@ -35,7 +35,7 @@
             },
             {
                 "question": "What are the benefits under this scheme?",
-                "answer": "Under this scheme, the Social Welfare Department, Government of Karnataka will give stipends to Law Graduates, a sum of \u20b95000 per month for 4 years. Along with this, some training will also be provided by senior advocates."
+                "answer": "Under this scheme, the Social Welfare Department, Government of Karnataka will give stipends to Law Graduates, a sum of ₹5000 per month for 4 years. Along with this, some training will also be provided by senior advocates."
             },
             {
                 "question": "Is the benefits limited to only Persons belonging to SC/ST Community?",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "Is There Any family income Limit To Apply For This Scheme?",
-                "answer": "Yes, The maximum family income from all sources should Be below \u20b92 Lakhs per annum."
+                "answer": "Yes, The maximum family income from all sources should Be below ₹2 Lakhs per annum."
             },
             {
                 "question": "How to apply for the scheme?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "How to obtain caste and Income Certificates?",
-                "answer": "These certificates can be obtained online: The link to get a Caste Certificate is \u2013 https://sevasindhu.karnataka.gov.in/Category/Caste%20Certificate.html The link to get an Income Certificate is \u2013 https://sevasindhu.karnataka.gov.in/Category/Income%20Certificate.html"
+                "answer": "These certificates can be obtained online: The link to get a Caste Certificate is – https://sevasindhu.karnataka.gov.in/Category/Caste%20Certificate.html The link to get an Income Certificate is – https://sevasindhu.karnataka.gov.in/Category/Income%20Certificate.html"
             }
         ],
         "sources": [
@@ -83,5 +83,6 @@
             "ST",
             "Stipend"
         ]
-    }
+    },
+    "id": "001859"
 }

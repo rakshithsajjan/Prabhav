@@ -5,9 +5,9 @@
         "department": "Department of Sports, Government of Uttar Pradesh",
         "type": "Award",
         "beneficiary": "Sportsperson",
-        "details": "The scheme \u201cLaxman Award/Rani Laxmi Bai Award\u201d was launched by the Department of Sports, Government of Uttar Pradesh the sportspersons will be honoured by the state government with the Lakshman award for male sportsperson and Rani Lakshmi Bai award for a female sportsperson in 31 sports disciplines.",
+        "details": "The scheme “Laxman Award/Rani Laxmi Bai Award” was launched by the Department of Sports, Government of Uttar Pradesh the sportspersons will be honoured by the state government with the Lakshman award for male sportsperson and Rani Lakshmi Bai award for a female sportsperson in 31 sports disciplines.",
         "benefits": [
-            "This award recognizes sports personalities with a Citation, a Bronze statue of either Laxman or Rani Laxmi Bai, a Scroll, and a cash prize of \u20b93,11,000/-."
+            "This award recognizes sports personalities with a Citation, a Bronze statue of either Laxman or Rani Laxmi Bai, a Scroll, and a cash prize of ₹3,11,000/-."
         ],
         "eligibility": [
             "The player must be a bonafide native of Uttar Pradesh.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Recipients are awarded a Citation, a Bronze statue of either Laxman or Rani Laxmi Bai, a Scroll, and a cash prize of \u20b93,11,000."
+                "answer": "Recipients are awarded a Citation, a Bronze statue of either Laxman or Rani Laxmi Bai, a Scroll, and a cash prize of ₹3,11,000."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -82,5 +82,6 @@
             "Sports",
             "Sportsperson"
         ]
-    }
+    },
+    "id": "001021"
 }

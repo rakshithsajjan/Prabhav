@@ -5,9 +5,9 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Persons with Disabilities (PwD)",
-        "details": "The scheme 'Purchase of Vehicle for Commercial Hiring Purpose for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans are provided to differently-abled persons for commercial hiring purposes up to \u20b910.00 lakhs, and for the purchase of special category vehicles like JCBs, trucks, road rollers, etc., loans up to \u20b925.00 lakhs are available. Permanent residents of Haryana with a disability of 40% or more are eligible to avail the benefits under this scheme.",
+        "details": "The scheme 'Purchase of Vehicle for Commercial Hiring Purpose for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans are provided to differently-abled persons for commercial hiring purposes up to ₹10.00 lakhs, and for the purchase of special category vehicles like JCBs, trucks, road rollers, etc., loans up to ₹25.00 lakhs are available. Permanent residents of Haryana with a disability of 40% or more are eligible to avail the benefits under this scheme.",
         "benefits": [
-            "Loans are provided to differently abled persons for commercial hiring up to \u20b910,00,000/- and for purchasing special category vehicles such as JCB, Trucks, Road rollers, etc., with loans up to \u20b925,00,000/-."
+            "Loans are provided to differently abled persons for commercial hiring up to ₹10,00,000/- and for purchasing special category vehicles such as JCB, Trucks, Road rollers, etc., with loans up to ₹25,00,000/-."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -30,11 +30,11 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount available for commercial hiring vehicles?",
-                "answer": "Loans up to \u20b910.00 lakhs are available for commercial hiring vehicles."
+                "answer": "Loans up to ₹10.00 lakhs are available for commercial hiring vehicles."
             },
             {
                 "question": "What is the maximum loan amount available for special category vehicles?",
-                "answer": "Loans up to \u20b925.00 lakhs are available for special category vehicles like JCBs, trucks, and road rollers."
+                "answer": "Loans up to ₹25.00 lakhs are available for special category vehicles like JCBs, trucks, and road rollers."
             },
             {
                 "question": "Who is eligible for this scheme?",
@@ -82,5 +82,6 @@
             "PwD",
             "Vehicle"
         ]
-    }
+    },
+    "id": "001543"
 }

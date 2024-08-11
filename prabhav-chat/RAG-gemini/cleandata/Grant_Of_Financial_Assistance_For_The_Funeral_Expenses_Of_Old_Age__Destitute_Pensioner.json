@@ -5,9 +5,9 @@
         "department": "Department of Women and Child Development",
         "type": "Grant",
         "beneficiary": "Old Age and Destitute Pensioners",
-        "details": "The Government of Puducherry introduced the Grant Of Financial Assistance For The Funeral Expenses Of Old Age/Destitute Pensioner Scheme to extend a helping hand by way of monthly financial assistance of \u20b9.500/- to Old Age/Destitute Pensioners who are suffering from T.B./Cancer to meet out the medical expenses.",
+        "details": "The Government of Puducherry introduced the Grant Of Financial Assistance For The Funeral Expenses Of Old Age/Destitute Pensioner Scheme to extend a helping hand by way of monthly financial assistance of ₹.500/- to Old Age/Destitute Pensioners who are suffering from T.B./Cancer to meet out the medical expenses.",
         "benefits": [
-            "\u20b9 Rs.500/- pm in addition to the old age pension amount."
+            "₹ Rs.500/- pm in addition to the old age pension amount."
         ],
         "eligibility": [
             "Old Age and Destitute pensioners suffering from T.B./Cancer."
@@ -78,5 +78,6 @@
             "Destitute Pensioners",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000712"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Out-of-school adolescent girls",
         "details": "A support scheme by Ministry of Women & Child Development enabling self-development and empowerment of out-of-school adolescent girls, and improving their nutritional, health & hygiene status. The scheme aims at supporting out of school AGs to successfully transition back to formal schooling or bridge learning / skill training. Upgrade their home-based skills and life skills. Provide information/guidance about existing public services such as Primary Health Centers, Rural Hospitals/CHCs, Post Office, Bank, Police Station, etc. Scheme for Adolescent Girls - SAG is implemented using the platform of Anganwadi Services of Umbrella ICDS Scheme through Anganwadi Centers (AWCs).",
         "benefits": [
-            "Take Home Ration or Hot Cooked Meal for out of school girls - Nutrition Provision \u20b9 9.50 per day (600 calories; 18\u201020 gram of protein and recommended daily intake of micronutrients per day for 300 days in a year.)",
-            "The financial norms will be \u20b9 9.5/- per beneficiary per day for 300 days in a year. This would be inclusive of the cost of micronutrient fortification.",
+            "Take Home Ration or Hot Cooked Meal for out of school girls - Nutrition Provision ₹ 9.50 per day (600 calories; 18‐20 gram of protein and recommended daily intake of micronutrients per day for 300 days in a year.)",
+            "The financial norms will be ₹ 9.5/- per beneficiary per day for 300 days in a year. This would be inclusive of the cost of micronutrient fortification.",
             "IFA supplementation.",
-            "Health check\u2010up and Referral services.",
+            "Health check‐up and Referral services.",
             "Nutrition & Health Education (NHE).",
             "Counseling / Guidance on family welfare, ARSH, child care practices.",
             "Life Skill Education and accessing public services."
@@ -34,7 +34,7 @@
             },
             {
                 "question": "When is the general health check-up for adolescent girls organized?",
-                "answer": "Health check-up of all AGs is organized at least once in three months on a special day called the \u201cKishori Diwas\u201d which may be synchronized with Village Health & Nutrition Day (VHND) where focused attention on Adolescent specific Health issues may given when immunization is done in the first half and later special sessions may be organized on various issues for AGs."
+                "answer": "Health check-up of all AGs is organized at least once in three months on a special day called the “Kishori Diwas” which may be synchronized with Village Health & Nutrition Day (VHND) where focused attention on Adolescent specific Health issues may given when immunization is done in the first half and later special sessions may be organized on various issues for AGs."
             },
             {
                 "question": "What is Kishore Health Card?",
@@ -92,5 +92,6 @@
             "Nutrition",
             "Youth"
         ]
-    }
+    },
+    "id": "001658"
 }

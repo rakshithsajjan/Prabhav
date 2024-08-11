@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste Trainees",
         "details": "The scheme 'Stipend to Scheduled Caste Trainees in Technical Training Institutions' was implemented by the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, Union Territory of Puducherry. The objective of the scheme is to provide financial support to Scheduled Tribe candidates/trainees who are undergoing training in the Government Technical Training Institutions of the Union Territory of Puducherry.",
         "benefits": [
-            "Under this scheme, a stipend is paid at the rate of \u20b9170/- per month per trainee for the whole period of training."
+            "Under this scheme, a stipend is paid at the rate of ₹170/- per month per trainee for the whole period of training."
         ],
         "eligibility": [
             "The candidates/trainees who are undergoing training in the Government Technical Training Institutions of the Union Territory of Puducherry are eligible to apply under the scheme.",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, a stipend is paid at the rate of \u20b9170/- per month per trainee for the whole period of training."
+                "answer": "Under this scheme, a stipend is paid at the rate of ₹170/- per month per trainee for the whole period of training."
             },
             {
                 "question": "Is this scheme only for the Scheduled Caste community?",
@@ -75,5 +75,6 @@
             "Stipend",
             "Trainee"
         ]
-    }
+    },
+    "id": "001861"
 }

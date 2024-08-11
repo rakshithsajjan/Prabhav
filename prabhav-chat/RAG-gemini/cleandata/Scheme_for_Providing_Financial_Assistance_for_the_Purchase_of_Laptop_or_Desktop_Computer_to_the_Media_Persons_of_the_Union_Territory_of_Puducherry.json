@@ -7,7 +7,7 @@
         "beneficiary": "Media Persons",
         "details": "Scheme for Providing Financial Assistance for the Purchase of Laptop or Desktop Computer to the Media Persons of the Union Territory of Puducherry aims to grant financial assistance for the purchase of laptops or desktop computers to eligible media persons, keeping in view the special nature of the service rendered by the Media Persons to society in creating a sense of socio-political awareness among the people.",
         "benefits": [
-            "Financial Assistance: Upto \u20b915,000/- per month, or as may be fixed by the Government from time to time.",
+            "Financial Assistance: Upto ₹15,000/- per month, or as may be fixed by the Government from time to time.",
             "Purpose: For the purchase of ANY ONE of the following - A brand new personal computer that runs on AC power or A brand new, small, portable personal computer that runs on either batteries or AC power; designed for use during travel.",
             "Mode of Payment: The Member Secretary-cum-Director will hand over the amount to the applicant after obtaining the necessary receipt from the applicant in the prescribed format."
         ],
@@ -32,7 +32,7 @@
             },
             {
                 "question": "How much financial assistance can be granted under the Scheme?",
-                "answer": "Financial assistance under this Scheme shall not exceed \u20b915,000 or an amount fixed by the Government from time to time."
+                "answer": "Financial assistance under this Scheme shall not exceed ₹15,000 or an amount fixed by the Government from time to time."
             },
             {
                 "question": "How is the disbursal of financial assistance handled?",
@@ -65,5 +65,6 @@
             "Media",
             "Newspaper"
         ]
-    }
+    },
+    "id": "001705"
 }

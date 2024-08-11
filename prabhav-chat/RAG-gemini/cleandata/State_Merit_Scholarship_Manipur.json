@@ -52,7 +52,7 @@
             },
             {
                 "question": "Is there any income ceiling for applying the scholarship?",
-                "answer": "Yes, parent\u2019s/guardian\u2019s annual income from all sources should not exceed Rs. 4.5 lac."
+                "answer": "Yes, parent’s/guardian’s annual income from all sources should not exceed Rs. 4.5 lac."
             },
             {
                 "question": "Is it necessary to upload the domicile/permanent residential certificate at the time of online submission of application?",
@@ -107,5 +107,6 @@
             "Meritorious Students",
             "Economically Weaker Sections"
         ]
-    }
+    },
+    "id": "001847"
 }

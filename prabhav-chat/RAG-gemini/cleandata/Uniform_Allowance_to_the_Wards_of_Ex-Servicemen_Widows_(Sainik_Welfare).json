@@ -7,9 +7,9 @@
         "beneficiary": "Wards of Ex-Servicemen/Widows",
         "details": "'Uniform Allowance to the Wards of Ex-Servicemen/Widows (Sainik Welfare)' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the wards of the ESM / Widows of ESM studying in Government-recognized Institutions are provided allowances towards purchase of their uniform. The application should be submitted offline within three months from the date of completion of the education.",
         "benefits": [
-            "Allowance (in \u20b9 per annum) according to the Level of Qualification: School Level: 2,000; Other Courses: 2,500",
+            "Allowance (in ₹ per annum) according to the Level of Qualification: School Level: 2,000; Other Courses: 2,500",
             "The rate listed above or the actual cost, whichever is less, is reimbursed.",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be a Ward of an Unemployed ESM / Ward of the Widow of an ESM.",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What is the procedure for seeking information through 'Right To Information (RTI)'?",
-                "answer": "The required information may be asked through an application along with IPO/DD for a sum of \u20b910/- in favour of the Director, Department of Sainik Welfare, Puducherry."
+                "answer": "The required information may be asked through an application along with IPO/DD for a sum of ₹10/- in favour of the Director, Department of Sainik Welfare, Puducherry."
             },
             {
                 "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
@@ -109,5 +109,6 @@
             "Sainik Welfare",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001991"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Differently Abled Persons",
         "details": "The Department for the Welfare of Differently Abled Persons, acknowledging the substantial hardships faced by severely disabled individuals, has implemented the 'Maintenance Allowance Scheme for Severely Affected Persons.' This program is designed to provide a targeted form of financial assistance to those whose disabilities are so profound that they cannot be meaningfully rehabilitated through other initiatives. The scheme specifically focuses on individuals with a disability rating exceeding 75%, ensuring that those with the most significant limitations receive the essential support they require. This monthly maintenance allowance serves as a vital financial safety net, empowering them to meet their basic needs with greater dignity and autonomy. Through the implementation of this program, the Department underscores its unwavering commitment to the well-being of all individuals within the differently-abled community, fostering a more inclusive and supportive social environment.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/- per month.",
+            "Financial Assistance of ₹2,000/- per month.",
             "Allowance sent through ECS to their accounts directly from the Treasury."
         ],
         "eligibility": [
@@ -29,7 +29,7 @@
             },
             {
                 "question": "What are the main benefits of this scheme?",
-                "answer": "Financial Assistance: Severe affected persons receive a monthly maintenance allowance of \u20b92,000, providing financial support for their needs."
+                "answer": "Financial Assistance: Severe affected persons receive a monthly maintenance allowance of ₹2,000, providing financial support for their needs."
             },
             {
                 "question": "What is the main purpose of the scheme?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "Is there any specific grievance redressal mechanism for issues related to the maintenance allowance?",
-                "answer": "Grievances related to the maintenance allowance should be addressed to the Assistant Director (DAW) at the Commissionerate for Welfare of the Differently abled No.5, Kamarajar Salai, Chennai \u2013 600 005."
+                "answer": "Grievances related to the maintenance allowance should be addressed to the Assistant Director (DAW) at the Commissionerate for Welfare of the Differently abled No.5, Kamarajar Salai, Chennai – 600 005."
             },
             {
                 "question": "Can severely affected persons receive other assistance along with the maintenance allowance?",
@@ -76,5 +76,6 @@
             "Monthly Allowance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001070"
 }

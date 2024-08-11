@@ -5,10 +5,10 @@
         "department": "Directorate of Art and Culture, Government of Goa",
         "type": "Award",
         "beneficiary": "Libraries and Librarians in Goa",
-        "details": "The scheme 'Goa State Best Library and Best Librarian Award' has been designed by the Directorate of Art and Culture, Government of Goa envisaging grant of awards for one meritorious Library and one Librarian serving either in any Government or Government\u2013aided Libraries in the State of Goa, which include the Public/Academic/Special/Research Libraries every year.",
+        "details": "The scheme 'Goa State Best Library and Best Librarian Award' has been designed by the Directorate of Art and Culture, Government of Goa envisaging grant of awards for one meritorious Library and one Librarian serving either in any Government or Government–aided Libraries in the State of Goa, which include the Public/Academic/Special/Research Libraries every year.",
         "benefits": [
-            "Goa State Best Library Award: A cash prize of \u20b9 50,000/-, a Memento, a Citation and a Certificate.",
-            "Goa State Best Librarian Award: A cash prize of \u20b9 25,000/-, a Memento, a Citation and a Certificate."
+            "Goa State Best Library Award: A cash prize of ₹ 50,000/-, a Memento, a Citation and a Certificate.",
+            "Goa State Best Librarian Award: A cash prize of ₹ 25,000/-, a Memento, a Citation and a Certificate."
         ],
         "eligibility": [
             "For Library: The library should be in existence for a minimum period of 15 years.",
@@ -27,7 +27,7 @@
         "exclusions": [
             "The award shall not be conferred posthumously. However, in the event of death of the individual after recommendation of his/her name for the award by the Award Committee, the award shall be conferred posthumously."
         ],
-        "application_process": "The interested applicant should visit the Goa State Central Library, take a print of the proforma of the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required). Submit the duly filled and signed application form along with the documents to the Curator, Goa State Central Library, Patto, Panaji \u2013 Goa.",
+        "application_process": "The interested applicant should visit the Goa State Central Library, take a print of the proforma of the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required). Submit the duly filled and signed application form along with the documents to the Curator, Goa State Central Library, Patto, Panaji – Goa.",
         "documents_required": [
             "Photograph of Library Front view.",
             "Collection details of Library (Library which is being recommended).",
@@ -69,7 +69,7 @@
             },
             {
                 "question": "What are the benefits of receiving the Goa State Best Library Award?",
-                "answer": "The library receiving the award gets a cash prize of \u20b950,000, a memento, a citation, and a certificate."
+                "answer": "The library receiving the award gets a cash prize of ₹50,000, a memento, a citation, and a certificate."
             },
             {
                 "question": "Are posthumous awards allowed under this scheme?",
@@ -93,5 +93,6 @@
             "Goa",
             "Culture"
         ]
-    }
+    },
+    "id": "000685"
 }

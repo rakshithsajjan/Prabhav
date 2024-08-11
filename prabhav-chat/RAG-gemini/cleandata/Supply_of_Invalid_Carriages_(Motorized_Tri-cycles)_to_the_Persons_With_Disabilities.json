@@ -11,7 +11,7 @@
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The annual income of the applicant should not exceed \u20b9 75,000/- per annum.",
+            "The annual income of the applicant should not exceed ₹ 75,000/- per annum.",
             "The applicant should have a locomotor disability affecting lower limbs to a degree not less than 65%.",
             "The applicant should be certified by the Medical Authority that he/she is fit for operating the invalid carriage (motor tricycle).",
             "The applicant should not be in receipt of transport allowance for conveyance from the Department or any other source.",
@@ -116,5 +116,6 @@
             "Government Scheme",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001889"
 }

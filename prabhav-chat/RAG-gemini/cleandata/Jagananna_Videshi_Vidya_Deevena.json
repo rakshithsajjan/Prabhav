@@ -8,14 +8,14 @@
         "details": "Jagananna Videshi Vidya Deevena, or Andhra Pradesh Overseas Study Scholarship, is a scholarship scheme launched on 11.07.2022 by the Government of Andhra Pradesh, Social Welfare Department for providing financial assistance to eligible students of Andhra Pradesh state for studying in overseas universities. The scheme aims to provide financial assistance to eligible students belonging to SC/ST/BC/Minority/EBC including Kapu students to pursue PG/Ph.D/MBBS courses in the academic year 2023-2024 in any one of the 21 broad categories of subjects in top 50 Institutions/Universities.",
         "benefits": [
             "100% of the tuition fee for admission in top 100 Institutions/Universities",
-            "50% of tuition fee or \u20b9 5,00,000 for admission in Institutions/Universities ranked 101 to 200",
+            "50% of tuition fee or ₹ 5,00,000 for admission in Institutions/Universities ranked 101 to 200",
             "One-way Economy Class Tickets for the shortest route upon production of valid visa",
             "Total Visa Fees reimbursement upon production of a valid visa and receipt of visa fee payment"
         ],
         "eligibility": [
             "Candidates should be natives of A.P.",
             "Maximum age should not exceed 35 years as of the date of publication of notification.",
-            "Family income shall not exceed \u20b9 8,00,000/- per annum.",
+            "Family income shall not exceed ₹ 8,00,000/- per annum.",
             "Only one candidate per family is eligible.",
             "Candidates who availed financial assistance under similar schemes from the State or Govt of India are not eligible."
         ],
@@ -83,5 +83,6 @@
             "Financial Assistance",
             "Andhra Pradesh"
         ]
-    }
+    },
+    "id": "000927"
 }

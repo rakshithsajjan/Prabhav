@@ -5,9 +5,9 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Persons with Disabilities (PwD)",
-        "details": "The scheme 'Financial Assistive Devices for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, loans of up to \u20b95 lakhs are provided to persons with disabilities who are either employed in reputable organizations or have received confirmed appointment letters. These loans can be used to purchase assistive devices such as screen readers, motorized tricycles, scooty, hearing aids, etc., including the cost of retrofitting, to enhance their employability or improve self-employment prospects. A person who is a permanent resident of Haryana and has a disability of 40% or more is eligible to avail the benefits under this scheme.",
+        "details": "The scheme 'Financial Assistive Devices for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, loans of up to ₹5 lakhs are provided to persons with disabilities who are either employed in reputable organizations or have received confirmed appointment letters. These loans can be used to purchase assistive devices such as screen readers, motorized tricycles, scooty, hearing aids, etc., including the cost of retrofitting, to enhance their employability or improve self-employment prospects. A person who is a permanent resident of Haryana and has a disability of 40% or more is eligible to avail the benefits under this scheme.",
         "benefits": [
-            "Loans of up to \u20b95 lakhs are provided for the purchase of assistive devices such as screen readers, motorized tricycles, scooty, hearing aids, etc., including the cost of retrofitting, to enhance employability or improve self-employment prospects."
+            "Loans of up to ₹5 lakhs are provided for the purchase of assistive devices such as screen readers, motorized tricycles, scooty, hearing aids, etc., including the cost of retrofitting, to enhance employability or improve self-employment prospects."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "How much loan can be availed under this scheme?",
-                "answer": "Eligible applicants can avail loans up to \u20b95 lakhs."
+                "answer": "Eligible applicants can avail loans up to ₹5 lakhs."
             },
             {
                 "question": "Can self-employed individuals apply for this scheme?",
@@ -77,5 +77,6 @@
             "Loan",
             "PwD"
         ]
-    }
+    },
+    "id": "000614"
 }

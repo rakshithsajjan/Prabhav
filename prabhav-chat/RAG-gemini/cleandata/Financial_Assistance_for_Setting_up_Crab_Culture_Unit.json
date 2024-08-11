@@ -5,11 +5,11 @@
         "department": "Department of Fisheries",
         "type": "Subsidy",
         "beneficiary": "Fishermen",
-        "details": "The scheme 'Financial Assistance for Setting up Crab Culture Unit' is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance of 25% of the actual cost, limited to \u20b91,50,000 per hectare is provided to eligible fishermen for setting up crab culture unit. Only Fish Farmer/ Individual/ Registered Self Help Group/ Societies, interested in the setting up of the Crab Farming Unit in the State of Goa can apply to this scheme. The applications are accepted only in offline mode.",
+        "details": "The scheme 'Financial Assistance for Setting up Crab Culture Unit' is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance of 25% of the actual cost, limited to ₹1,50,000 per hectare is provided to eligible fishermen for setting up crab culture unit. Only Fish Farmer/ Individual/ Registered Self Help Group/ Societies, interested in the setting up of the Crab Farming Unit in the State of Goa can apply to this scheme. The applications are accepted only in offline mode.",
         "benefits": [
-            "Financial assistance of 25% of the actual cost, limited to \u20b91,50,000 per hectare.",
+            "Financial assistance of 25% of the actual cost, limited to ₹1,50,000 per hectare.",
             "The assistance can be availed for up to 2 hectares of land.",
-            "50% of the actual cost for purchase of seed and feed, limited to \u20b975,000 per hectare."
+            "50% of the actual cost for purchase of seed and feed, limited to ₹75,000 per hectare."
         ],
         "eligibility": [
             "The applicant should be a Fish Farmer/ Individual/ Registered Self Help Group/ Societies, interested in the setting up of the Crab Farming Unit in the State of Goa.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What is the primary benefit provided under the scheme?",
-                "answer": "The scheme offers financial assistance of 25% of the actual cost, limited to \u20b91,50,000 per hectare for setting up a Crab Culture Unit."
+                "answer": "The scheme offers financial assistance of 25% of the actual cost, limited to ₹1,50,000 per hectare for setting up a Crab Culture Unit."
             },
             {
                 "question": "Can you provide details on the grievance redressal mechanism for the scheme?",
@@ -107,5 +107,6 @@
             "Fishermen",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000576"
 }

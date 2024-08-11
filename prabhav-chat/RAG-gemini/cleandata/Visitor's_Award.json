@@ -7,11 +7,11 @@
         "beneficiary": "Faculty and Students of Central Universities",
         "details": "Visitor's Award under the Department of Higher Education provided to encourage excellence through competition. These awards would help to promote healthy competition amongst Faculties/Students of the Central Universities and motivate them to adopt best practices from around the world in the pursuit of excellence.",
         "benefits": [
-            "Citation and cash reward will be presented to the awardee. The total value of the cash reward will be \u20b92,50,000/-",
-            "If there are two or more recipients, the cash reward is subject to the condition that, each awardee will receive a minimum of \u20b91,00,000/-"
+            "Citation and cash reward will be presented to the awardee. The total value of the cash reward will be ₹2,50,000/-",
+            "If there are two or more recipients, the cash reward is subject to the condition that, each awardee will receive a minimum of ₹1,00,000/-"
         ],
         "eligibility": [
-            "All faculty members and students of all the Central Universities will be eligible for the Visitor\u2019s Awards."
+            "All faculty members and students of all the Central Universities will be eligible for the Visitor’s Awards."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -28,15 +28,15 @@
         ],
         "faqs": [
             {
-                "question": "What is Visitor\u2019s award?",
-                "answer": "Visitor\u2019s Awards conferred annually to promote healthy competition amongst Faculty/Students of Central Universities and motivate them to adopt best practices from around the world in pursuit of excellence."
+                "question": "What is Visitor’s award?",
+                "answer": "Visitor’s Awards conferred annually to promote healthy competition amongst Faculty/Students of Central Universities and motivate them to adopt best practices from around the world in pursuit of excellence."
             },
             {
                 "question": "What are the number of Award in each section?",
                 "answer": "There will be only one award in each category/subcategory and these Awards will be given annually."
             },
             {
-                "question": "How to apply for visitor\u2019s Award?",
+                "question": "How to apply for visitor’s Award?",
                 "answer": "Applicant may log on to the official website of Rashtriya Puruskar Portal i.e., https://awards.gov.in/."
             },
             {
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What are the Eligibility of the scheme?",
-                "answer": "All faculty members and students of all the Central Universities will be eligible for the Visitor\u2019s Awards."
+                "answer": "All faculty members and students of all the Central Universities will be eligible for the Visitor’s Awards."
             },
             {
                 "question": "Who can nominate?",
@@ -61,7 +61,7 @@
             },
             {
                 "question": "Who will Present the Award?",
-                "answer": "The awards shall be presented by the Hon\u2019ble President of India at the time of Annual Conference of the Vice Chancellors of Central Universities or in Visitor\u2019s Conference held annually."
+                "answer": "The awards shall be presented by the Hon’ble President of India at the time of Annual Conference of the Vice Chancellors of Central Universities or in Visitor’s Conference held annually."
             },
             {
                 "question": "Is this Scheme for student?",
@@ -88,5 +88,6 @@
             "Research",
             "Student"
         ]
-    }
+    },
+    "id": "002020"
 }

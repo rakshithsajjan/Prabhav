@@ -7,7 +7,7 @@
         "beneficiary": "Small and Marginal Farmers",
         "details": "One Time Assistance to Small and Marginal Farmers for Purchase of Small Farm Implements (OTA-SFI) under the Farm Mechanization Umbrella Scheme, was launched on 12 February, 2013 by the Agriculture Department, Government of West Bengal with the purpose to aid the farmers in procuring manually operated small farm implements necessary for agricultural operations. Financial support will be provided mostly for manually operated tools like sprayer, manually operated paddy thresher, cono weeder, weeder, drum-seeder, solar light trap, chaff cutter, seed bin, seed tray, seeder etc. and battery operated sprayers and PVC pipes for carrying water etc. under OTA-SFI. The scheme is applicable uniformly throughout the State, except Kolkata district.",
         "benefits": [
-            "Maximum \u20b910,000/- or 50% of total indicative price of purchased manually operated machinery/implement whichever is lower."
+            "Maximum ₹10,000/- or 50% of total indicative price of purchased manually operated machinery/implement whichever is lower."
         ],
         "eligibility": [
             "Individual farmers registered under Krishak Bandhu (New) Scheme.",
@@ -67,5 +67,6 @@
             "Financial Assistance",
             "Small Farm Implements"
         ]
-    }
+    },
+    "id": "001387"
 }

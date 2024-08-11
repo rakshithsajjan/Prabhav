@@ -7,12 +7,12 @@
         "beneficiary": "Inter-Caste Married Couples",
         "details": "The scheme 'Financial Assistance to Inter-Caste Married Couples (Except SC/ST Category)' was launched by the Department of Social Justice, Government of Kerala. Under the scheme, the Government of Kerala provides financial assistance to inter-caste married couples (except SC/ST category) who suffer from financial problems.",
         "benefits": [
-            "A one-time financial assistance of \u20b930,000/- will be given to inter-caste married couples."
+            "A one-time financial assistance of ₹30,000/- will be given to inter-caste married couples."
         ],
         "eligibility": [
             "The applicant should be a resident of Kerala State.",
             "The inter-caste married couples who are legally married are eligible for financial assistance.",
-            "The combined family income of the couple should not exceed \u20b91,00,000/-.",
+            "The combined family income of the couple should not exceed ₹1,00,000/-.",
             "The couples are entitled to financial assistance one-time only.",
             "The couples must apply for financial assistance after one year of marriage but not exceeding 2 years from the date of marriage."
         ],
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b930,000/- will be given to inter-caste married couples."
+                "answer": "Under the scheme, financial assistance of ₹30,000/- will be given to inter-caste married couples."
             },
             {
                 "question": "How many times the financial assistance will be given under the scheme?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the criterion to apply under the scheme?",
-                "answer": "The combined family income of the couple should not exceed \u20b91,00,000/-."
+                "answer": "The combined family income of the couple should not exceed ₹1,00,000/-."
             },
             {
                 "question": "In how many days the applicant can apply to get the benefits of the scheme?",
@@ -106,5 +106,6 @@
             "Kerala",
             "Social Justice"
         ]
-    }
+    },
+    "id": "000544"
 }

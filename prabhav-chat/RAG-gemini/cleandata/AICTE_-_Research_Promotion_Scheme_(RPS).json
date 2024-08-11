@@ -5,10 +5,10 @@
         "department": "Ministry of Education",
         "type": "Grant",
         "beneficiary": "AICTE approved Technical Institutions/University Departments",
-        "details": "The scheme 'AICTE - Research Promotion Scheme (RPS)' was introduced by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE) in order to promote research in identified thrust areas of technical education. AICTE approved Technical Institutions/University Departments having the relevant PG programs and having full-time regular faculty with research experience and publications, are eligible to apply to this scheme. The maximum limit of funding is \u20b9 25,00,000. The duration of the project will be three years from the date of receipt of funds in the institute\u2019s account.",
+        "details": "The scheme 'AICTE - Research Promotion Scheme (RPS)' was introduced by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE) in order to promote research in identified thrust areas of technical education. AICTE approved Technical Institutions/University Departments having the relevant PG programs and having full-time regular faculty with research experience and publications, are eligible to apply to this scheme. The maximum limit of funding is ₹ 25,00,000. The duration of the project will be three years from the date of receipt of funds in the institute’s account.",
         "benefits": [
             "Duration of the Project: Three years from the date of receipt of funds.",
-            "Maximum limit of funding: \u20b9 25,00,000.",
+            "Maximum limit of funding: ₹ 25,00,000.",
             "Non-Recurring 75% and Recurring 25% of the total sanctioned grant.",
             "100% Non-recurring and 50% of the recurring grant of the total sanctioned amount."
         ],
@@ -32,11 +32,11 @@
         "faqs": [
             {
                 "question": "What Will Be The Duration Of The Project?",
-                "answer": "The duration of the project will be three years from the date of receipt of funds in the institute\u2019s account."
+                "answer": "The duration of the project will be three years from the date of receipt of funds in the institute’s account."
             },
             {
                 "question": "What Is The Maximum Limit Of Funding?",
-                "answer": "The Maximum Limit of Funding is \u20b9 25,00,000."
+                "answer": "The Maximum Limit of Funding is ₹ 25,00,000."
             },
             {
                 "question": "What Percentage Of The Total Sanctioned Grant Shall Be 'Recurring'?",
@@ -71,5 +71,6 @@
             "Education",
             "Grant"
         ]
-    }
+    },
+    "id": "000026"
 }

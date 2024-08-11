@@ -5,7 +5,7 @@
         "department": "Ministry Of Petroleum and Natural Gas",
         "type": "Subsidy",
         "beneficiary": "Women from BPL (Below Poverty Line) households",
-        "details": "In May 2016, the Ministry of Petroleum and Natural Gas (MOPNG) introduced the \u2018Pradhan Mantri Ujjwala Yojana\u2019 (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood, coal, cow-dung cakes etc. The scheme was launched on 1st May 2016 in Ballia, Uttar Pradesh by Hon\u2019ble Prime Minister of India, Shri. Narendra Modi.",
+        "details": "In May 2016, the Ministry of Petroleum and Natural Gas (MOPNG) introduced the ‘Pradhan Mantri Ujjwala Yojana’ (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood, coal, cow-dung cakes etc. The scheme was launched on 1st May 2016 in Ballia, Uttar Pradesh by Hon’ble Prime Minister of India, Shri. Narendra Modi.",
         "benefits": [
             "Rs. 1600 for a connection 14.2kg cylinder or Rs. 1150 for a 5 kg cylinder.",
             "All PMUY beneficiaries will be provided with first LPG refill and Stove (hot plate) both free of cost along with their deposit free connection."
@@ -71,5 +71,6 @@
             "Ujjwala",
             "Women"
         ]
-    }
+    },
+    "id": "001502"
 }

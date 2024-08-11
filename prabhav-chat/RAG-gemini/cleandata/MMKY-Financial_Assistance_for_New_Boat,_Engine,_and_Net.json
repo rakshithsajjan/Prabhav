@@ -5,7 +5,7 @@
         "department": "Fisheries & Animal Resources Development Department",
         "type": "Financial Assistance",
         "beneficiary": "Fishermen",
-        "details": "The State plan scheme \u201cMMKY-Financial Assistance for New Boat, Engine, and Net\u201d was launched by the Fisheries & Animal Resources Development Department, Government of Odisha under Mukhyamantri Maschyajibi Kalyan Yojana (MMKY) in order to increase the marine fish production and to enhance incomes and livelihoods of the marine fishers.",
+        "details": "The State plan scheme “MMKY-Financial Assistance for New Boat, Engine, and Net” was launched by the Fisheries & Animal Resources Development Department, Government of Odisha under Mukhyamantri Maschyajibi Kalyan Yojana (MMKY) in order to increase the marine fish production and to enhance incomes and livelihoods of the marine fishers.",
         "benefits": [
             "Support for Coastal communities by provision of new wooden/FRP Boat, Engine and purchase of new fishing net.",
             "Increase in marine fish production in the state.",
@@ -65,5 +65,6 @@
             "Maschyajibi",
             "Net"
         ]
-    }
+    },
+    "id": "001044"
 }

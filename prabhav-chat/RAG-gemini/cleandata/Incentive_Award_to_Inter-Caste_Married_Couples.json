@@ -7,7 +7,7 @@
         "beneficiary": "Inter-caste married couples",
         "details": "The scheme 'Incentive Award to Inter-Caste Married Couples' was introduced by the Adi Dravidar Welfare Department, Government of Puducherry. The objective of the scheme is to reduce the effect of untouchability and as a step towards bringing about a casteless society.",
         "benefits": [
-            "An award with a value of \u20b9 50,000/- (\u20b9 20,000/- in cash, and \u20b9 30,000/- in the form of a National Saving Certificate)"
+            "An award with a value of ₹ 50,000/- (₹ 20,000/- in cash, and ₹ 30,000/- in the form of a National Saving Certificate)"
         ],
         "eligibility": [
             "The bride and groom should be citizens of India.",
@@ -38,7 +38,7 @@
         "faqs": [
             {
                 "question": "What forms of recognition and support does the scheme provide to the married couples?",
-                "answer": "The awarded sum of \u20b950,000, including cash and a National Saving Certificate, acknowledges and supports the inter-caste married couples."
+                "answer": "The awarded sum of ₹50,000, including cash and a National Saving Certificate, acknowledges and supports the inter-caste married couples."
             },
             {
                 "question": "Can the scheme be availed for marriages involving non-citizens of India?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What is the monetary value of the award provided under this scheme?",
-                "answer": "The award holds a value of \u20b950,000, distributed as \u20b920,000 in cash and \u20b930,000 in the form of a National Saving Certificate."
+                "answer": "The award holds a value of ₹50,000, distributed as ₹20,000 in cash and ₹30,000 in the form of a National Saving Certificate."
             },
             {
                 "question": "What is the primary objective of the 'Incentive Award to Inter-Caste Married Couples' scheme?",
@@ -109,5 +109,6 @@
             "Puducherry",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000809"
 }

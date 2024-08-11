@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Financial Assistance",
         "beneficiary": "Nominees/Dependents of deceased Construction Workers",
-        "details": "The 'Natural Death Benefit Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance of \u20b970,000/- is extended to the nominees/dependents of the deceased Construction Worker, apart from the \u20b970,000/- extended through the Life Insurance Corporation (LIC). The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/dependent. The applications are accepted offline.",
+        "details": "The 'Natural Death Benefit Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance of ₹70,000/- is extended to the nominees/dependents of the deceased Construction Worker, apart from the ₹70,000/- extended through the Life Insurance Corporation (LIC). The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/dependent. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance: \u20b970,000/-",
+            "Financial Assistance: ₹70,000/-",
             "Time of Disbursal: Within 1 month of the application",
             "Mode of Disbursal: Direct Benefit Transfer (DBT) into the bank account"
         ],
@@ -34,11 +34,11 @@
         "faqs": [
             {
                 "question": "What financial assistance does the scheme provide?",
-                "answer": "The scheme offers a financial assistance of \u20b970,000, in addition to another \u20b970,000 extended through the Life Insurance Corporation (LIC), to the nominees or dependents of the deceased Construction Worker."
+                "answer": "The scheme offers a financial assistance of ₹70,000, in addition to another ₹70,000 extended through the Life Insurance Corporation (LIC), to the nominees or dependents of the deceased Construction Worker."
             },
             {
                 "question": "What is the time frame for disbursal of the financial assistance?",
-                "answer": "The financial assistance of \u20b970,000 is disbursed within one month of the application."
+                "answer": "The financial assistance of ₹70,000 is disbursed within one month of the application."
             },
             {
                 "question": "How is the financial assistance disbursed to the beneficiaries?",
@@ -81,5 +81,6 @@
             "Construction Workers",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001342"
 }

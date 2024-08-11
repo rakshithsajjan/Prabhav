@@ -5,15 +5,15 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Financial Assistance",
         "beneficiary": "Kashmiri Migrants Families",
-        "details": "Launched on 1st April 2006, the scheme provides financial assistance of \u20b91250/- per month per family member for five years to the Kashmiri families which have migrated from Jammu & Kashmir to Haryana and are living in various parts of the State. The financial assistance is subject to a maximum of \u20b96,250/- per family.",
+        "details": "Launched on 1st April 2006, the scheme provides financial assistance of ₹1250/- per month per family member for five years to the Kashmiri families which have migrated from Jammu & Kashmir to Haryana and are living in various parts of the State. The financial assistance is subject to a maximum of ₹6,250/- per family.",
         "benefits": [
-            "Financial Assistance of \u20b91,250/- per month per family member for 5 years, subject to a maximum of \u20b96,250/- per family per month, provided for re-settlement."
+            "Financial Assistance of ₹1,250/- per month per family member for 5 years, subject to a maximum of ₹6,250/- per family per month, provided for re-settlement."
         ],
         "eligibility": [
             "The applicant family should have been displaced from Jammu & Kashmir.",
             "The applicant family should have migrated to Haryana from Jammu & Kashmir.",
             "The applicant family should be residing in Haryana.",
-            "The annual income of the family, from all sources, should not exceed \u20b92,00,000/-."
+            "The annual income of the family, from all sources, should not exceed ₹2,00,000/-."
         ],
         "exclusions": [
             "Any sub-division of the family after displacement from Jammu & Kashmir will not be recognized for additional financial assistance."
@@ -32,7 +32,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cFinancial Assistance To Kashmiri Migrants Families\u201d scheme?",
+                "question": "What is the “Financial Assistance To Kashmiri Migrants Families” scheme?",
                 "answer": "Under this scheme, financial assistance will be given to Kashmiri families who have migrated from Jammu & Kashmir to Haryana and are living in various parts of the State."
             },
             {
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, the financial assistance @ \u20b91250/- p.m. per member of the family is subject to a maximum of \u20b96250/- per family."
+                "answer": "Under this scheme, the financial assistance @ ₹1250/- p.m. per member of the family is subject to a maximum of ₹6250/- per family."
             },
             {
                 "question": "For how long the applicant will get the benefit of this scheme?",
@@ -61,11 +61,11 @@
             },
             {
                 "question": "What does family mean under the scheme?",
-                "answer": "\u2018Family\u2019 means the family of the applicant at the time of displacement from Kashmir. Any sub-division of the family after displacement from Kashmir will not be recognized for additional financial assistance under this scheme."
+                "answer": "‘Family’ means the family of the applicant at the time of displacement from Kashmir. Any sub-division of the family after displacement from Kashmir will not be recognized for additional financial assistance under this scheme."
             },
             {
                 "question": "What is the income criterion under the scheme?",
-                "answer": "Under this scheme, the maximum annual income from all sources of the displaced family from Jammu & Kashmir should not exceed \u20b92,00,000/-per annum."
+                "answer": "Under this scheme, the maximum annual income from all sources of the displaced family from Jammu & Kashmir should not exceed ₹2,00,000/-per annum."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -96,5 +96,6 @@
             "Haryana",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000545"
 }

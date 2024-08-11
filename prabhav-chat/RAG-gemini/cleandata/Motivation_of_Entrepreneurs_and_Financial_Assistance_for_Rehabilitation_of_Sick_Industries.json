@@ -7,9 +7,9 @@
         "beneficiary": "MSME units",
         "details": "Motivation of Entrepreneurs and Financial Assistance for Rehabilitation of Sick Industries is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. Through this scheme, the cost of implementing suggestions given by the experts in the field of technology, marketing and finance engaged to advise sick units is reimbursed. Also, a 50% subsidy is provided towards the cost of diagnostic study by technical institutions initiated through Financial Institutions/Banks/etc. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Subsidy @ 50% on the cost of diagnostic study by technical institutions initiated through Financial Institutions/Banks/Government with a maximum of \u20b950,000/-",
-            "50% of fees (maximum \u20b950,000/- per unit) will be reimbursed on implementing suggestions given by the experts in the field of technology, marketing and finance engaged to advise sick units",
-            "Interest subsidy @ 5% per annum limited to \u20b93,00,000/- per year for 3 years on additional finance disbursed by Banks/Financial Institutions for Rehabilitation"
+            "Subsidy @ 50% on the cost of diagnostic study by technical institutions initiated through Financial Institutions/Banks/Government with a maximum of ₹50,000/-",
+            "50% of fees (maximum ₹50,000/- per unit) will be reimbursed on implementing suggestions given by the experts in the field of technology, marketing and finance engaged to advise sick units",
+            "Interest subsidy @ 5% per annum limited to ₹3,00,000/- per year for 3 years on additional finance disbursed by Banks/Financial Institutions for Rehabilitation"
         ],
         "eligibility": [
             "The applicant should be MSME unit those who have obtained UAM/EM(Part-ll)/Permanent Registration",
@@ -86,5 +86,6 @@
             "Rehabilitation",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001160"
 }

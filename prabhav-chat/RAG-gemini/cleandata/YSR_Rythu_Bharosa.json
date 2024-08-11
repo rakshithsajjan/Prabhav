@@ -5,21 +5,21 @@
         "department": "Dept. of Agriculture, Govt. of Andhra Pradesh",
         "type": "Financial Assistance",
         "beneficiary": "Farmer families including tenant farmers",
-        "details": "Launched in June 2019, the scheme 'YSR RYTHU BHAROSA' is one of the nine navratna welfare schemes. It provides financial assistance to farmer families across the state @ \u20b9 13,500/- per farmer family per year. 49 lakh farmer families will benefit from this scheme.",
+        "details": "Launched in June 2019, the scheme 'YSR RYTHU BHAROSA' is one of the nine navratna welfare schemes. It provides financial assistance to farmer families across the state @ ₹ 13,500/- per farmer family per year. 49 lakh farmer families will benefit from this scheme.",
         "benefits": [
-            "Financial assistance of \u20b9 13,500/- per annum for landholder farmer families.",
-            "Three installments of \u20b9 7,500, \u20b9 4,000, and \u20b9 2,000 for eligible landowner farmers.",
+            "Financial assistance of ₹ 13,500/- per annum for landholder farmer families.",
+            "Three installments of ₹ 7,500, ₹ 4,000, and ₹ 2,000 for eligible landowner farmers.",
             "Financial assistance for landless cultivators belonging to SC, ST, BC, and Minority categories.",
             "Crop insurance premiums paid by the government.",
             "Interest-free crop loans.",
             "Free bore wells for farmers.",
             "Nine hours of free electricity during daytime for agricultural purposes.",
-            "Electricity for aquaculture farmers at \u20b9 1.50 per unit.",
-            "\u20b9 3000 crores corpus fund for price stabilization.",
-            "\u20b9 4000 crores for the Natural disaster Relief fund.",
+            "Electricity for aquaculture farmers at ₹ 1.50 per unit.",
+            "₹ 3000 crores corpus fund for price stabilization.",
+            "₹ 4000 crores for the Natural disaster Relief fund.",
             "Cold storage and food processing units established in constituencies.",
             "Toll Tax and Road Tax waived off for Agriculture Tractors.",
-            "\u20b9 7,00,000 YSR Bima for accidental death or suicide."
+            "₹ 7,00,000 YSR Bima for accidental death or suicide."
         ],
         "eligibility": [
             "Landholder farmer families who collectively own cultivable land.",
@@ -30,7 +30,7 @@
         "exclusions": [
             "All Institutional Land holders.",
             "Farmers holding constituency posts as (Ex) & Present Ministers, MPs, MLAs & MLCs.",
-            "Superannuated/retired pensioners with a monthly pension of \u20b910,000 or more.",
+            "Superannuated/retired pensioners with a monthly pension of ₹10,000 or more.",
             "Persons who paid Income Tax in the last assessment year.",
             "Persons owning farmlands converted into non-agriculture usage.",
             "Persons paid Commercial Tax/Professional Tax/GST during the last assessment year."
@@ -58,7 +58,7 @@
             },
             {
                 "question": "Which Are The Nine Navratna Welfare Schemes?",
-                "answer": "1. YSR Raithu Bharosa 2. Fee reimbursement, Youth Employment & Job Creation 3. Arogyasri 4. YSR Jalayagnam 5. Ban on Alcohol 6. Amma Vodi 7. YSR Asara, YSR Cheyuta 8. Housing for all poor 9. Pensions \u2013 Enhancement."
+                "answer": "1. YSR Raithu Bharosa 2. Fee reimbursement, Youth Employment & Job Creation 3. Arogyasri 4. YSR Jalayagnam 5. Ban on Alcohol 6. Amma Vodi 7. YSR Asara, YSR Cheyuta 8. Housing for all poor 9. Pensions – Enhancement."
             }
         ],
         "sources": [
@@ -79,5 +79,6 @@
                 "url": "https://ysrrythubharosa.ap.gov.in/RBAPP/Downloads/YSRRBAmendmentGO113.PDF"
             }
         ]
-    }
+    },
+    "id": "002071"
 }

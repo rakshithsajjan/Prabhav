@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste / Scheduled Tribe Micro and Small Enterprises (MSEs)",
         "details": "Under the Ministry Of Micro, Small & Medium Enterprises, Bank Guarantee Charges Reimbursement Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. In this reimbursement is provided to SC/ST MSEs on bank charges paid to the bank for issuance of Performance Bank Guarantee (PBG) in favor of the buyer departments from where some work has been awarded to such MSEs.",
         "benefits": [
-            "The assistance under this scheme will be limited to 80% or \u20b9 1,00,000/- (excluding GST and all other applicable taxes), whichever is less, on PBG charges paid in a financial year."
+            "The assistance under this scheme will be limited to 80% or ₹ 1,00,000/- (excluding GST and all other applicable taxes), whichever is less, on PBG charges paid in a financial year."
         ],
         "eligibility": [
             "Applicant should belong to the Scheduled Caste / Scheduled Tribe category.",
@@ -34,11 +34,11 @@
             },
             {
                 "question": "What benefits can be availed under the scheme?",
-                "answer": "The assistance under this scheme will be limited to 80% or \u20b9 1,00,000/- (excluding GST and all other applicable taxes), whichever is less, on PBG charges paid in a financial year."
+                "answer": "The assistance under this scheme will be limited to 80% or ₹ 1,00,000/- (excluding GST and all other applicable taxes), whichever is less, on PBG charges paid in a financial year."
             },
             {
                 "question": "Is there a limitation on availing the benefits of this scheme?",
-                "answer": "No. The benefits can be availed multiple times in a financial year by SC/ST MSEs, but the financial assistance shall be restricted to the ceiling which is \u20b9 1,00,000 (excluding GST and other applicable taxes)."
+                "answer": "No. The benefits can be availed multiple times in a financial year by SC/ST MSEs, but the financial assistance shall be restricted to the ceiling which is ₹ 1,00,000 (excluding GST and other applicable taxes)."
             },
             {
                 "question": "Against which charges benefit is provided under the scheme?",
@@ -81,5 +81,6 @@
             "Financial Assistance",
             "Reimbursement"
         ]
-    }
+    },
+    "id": "000180"
 }

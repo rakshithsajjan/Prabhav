@@ -5,9 +5,9 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Scholarship",
         "beneficiary": "Scheduled Caste / Scheduled Tribe candidates",
-        "details": "A post-matric scholarship scheme by the Indian Council of Agricultural Research (ICAR) for the Scheduled Castes / Scheduled Tribes candidates for study at Bachelor Degree program in various branches of Agriculture, viz. B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), B.Sc.(Home Science), B.F.Sc., B.Sc.(Forestry) etc. The value of the scholarship will be \u20b9 300/- per month along with a contingent grant of \u20b9 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc. The duration of the scholarship will cover the whole of the normal period of the particular degree program to which the candidate is admitted. The scheme provides for the award of 240 scholarships every year.",
+        "details": "A post-matric scholarship scheme by the Indian Council of Agricultural Research (ICAR) for the Scheduled Castes / Scheduled Tribes candidates for study at Bachelor Degree program in various branches of Agriculture, viz. B.Sc.(Agri.), B.V.Sc., B.Sc.(Agril. Engg.), B.Sc.(Home Science), B.F.Sc., B.Sc.(Forestry) etc. The value of the scholarship will be ₹ 300/- per month along with a contingent grant of ₹ 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc. The duration of the scholarship will cover the whole of the normal period of the particular degree program to which the candidate is admitted. The scheme provides for the award of 240 scholarships every year.",
         "benefits": [
-            "Value of the Scholarship: \u20b9 300/- per month along with a contingent grant of \u20b9 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc.",
+            "Value of the Scholarship: ₹ 300/- per month along with a contingent grant of ₹ 750/- per annum for the payment of tuition fees, purchase of books, cost of uniforms, etc.",
             "Duration of the Scholarship: Covers the whole of the normal period of the particular degree program.",
             "Number of Scholarships: 240 scholarships awarded every year."
         ],
@@ -59,5 +59,6 @@
             "Agriculture",
             "Education"
         ]
-    }
+    },
+    "id": "000796"
 }

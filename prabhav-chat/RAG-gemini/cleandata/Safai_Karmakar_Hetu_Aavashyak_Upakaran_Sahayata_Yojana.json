@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Safai Karmakar Hetu Aavashyak Upakaran Sahayata Yojana' for unorganized worker on 02 September 2015. The main objective of the scheme to empower unorganized worker by providing required equipment for their work.",
         "benefits": [
-            "Registered sanitation workers will receive a grant of \u20b9 700/- (Indian Rupees seven hundred only) to purchase essential equipment such as gum boots, gloves, masks, and aprons.",
+            "Registered sanitation workers will receive a grant of ₹ 700/- (Indian Rupees seven hundred only) to purchase essential equipment such as gum boots, gloves, masks, and aprons.",
             "Assistance amount will be provided every year."
         ],
         "eligibility": [
@@ -76,5 +76,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001630"
 }

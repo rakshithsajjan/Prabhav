@@ -7,9 +7,9 @@
         "beneficiary": "New and Existing Units",
         "details": "Launched in 2018, the 'Special Incentive Allowance Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. New and Existing Units would be provided with the allowance once at the end of every three year period. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
         "benefits": [
-            "Smaller Business Units: \u20b9 50,00,000",
-            "Other Business Units: \u20b9 1,00,00,000",
-            "Mega Business Units: \u20b9 2,00,00,000"
+            "Smaller Business Units: ₹ 50,00,000",
+            "Other Business Units: ₹ 1,00,00,000",
+            "Mega Business Units: ₹ 2,00,00,000"
         ],
         "eligibility": [
             "The applicant should be a New/Existing Unit.",
@@ -60,15 +60,15 @@
             },
             {
                 "question": "What is the special incentive allowance provided to Smaller Business Units at the end of every three-year period?",
-                "answer": "Smaller Business Units receive \u20b950,00,000 as a special incentive allowance at the end of every three-year period."
+                "answer": "Smaller Business Units receive ₹50,00,000 as a special incentive allowance at the end of every three-year period."
             },
             {
                 "question": "What is the special incentive allowance for Other Business Units at the end of every three-year period?",
-                "answer": "Other Business Units receive \u20b91,00,00,000 as a special incentive allowance at the end of every three-year period."
+                "answer": "Other Business Units receive ₹1,00,00,000 as a special incentive allowance at the end of every three-year period."
             },
             {
                 "question": "What is the special incentive allowance for Mega Business Units at the end of every three-year period?",
-                "answer": "Mega Business Units receive \u20b92,00,00,000 as a special incentive allowance at the end of every three-year period."
+                "answer": "Mega Business Units receive ₹2,00,00,000 as a special incentive allowance at the end of every three-year period."
             },
             {
                 "question": "Is there any condition related to budgetary allocation for the benefits under this scheme?",
@@ -108,5 +108,6 @@
             "Employee",
             "Incentive"
         ]
-    }
+    },
+    "id": "001829"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste (SC) and Scheduled Tribe (ST) Micro & Small Enterprises (MSEs)",
         "details": "Export Promotion Council Membership Reimbursement Scheme is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. Under this scheme, reimbursement will be provided to SC/ST MSEs on annual membership subscription fee/one-time subscription charges/entry fee charged by various Export Promotion Councils (EPC).",
         "benefits": [
-            "Reimbursement of 80% or \u20b9 20,000/- (excluding GST and other applicable taxes), whichever is less, in a financial year to SC/ST MSEs on annual membership subscription fee / one time subscription charges / entry fee charged by various Export Promotion Councils (EPC)."
+            "Reimbursement of 80% or ₹ 20,000/- (excluding GST and other applicable taxes), whichever is less, in a financial year to SC/ST MSEs on annual membership subscription fee / one time subscription charges / entry fee charged by various Export Promotion Councils (EPC)."
         ],
         "eligibility": [
             "Applicant should belong to Scheduled Caste (SC) / Scheduled Tribe (ST) category.",
@@ -73,5 +73,6 @@
             "Scheduled Tribe",
             "Subscription Fee"
         ]
-    }
+    },
+    "id": "000497"
 }

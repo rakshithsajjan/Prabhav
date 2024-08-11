@@ -7,15 +7,15 @@
         "beneficiary": "Scheduled Caste students",
         "details": "The 'Financial Assistance to SC Students Studying in Medical, Engineering and Diploma Course for Purchasing Educational Instrument' scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, financial assistance is provided to Scheduled Caste students who are studying Medical, Engineering, and Diploma Courses for purchasing educational equipment/instruments, etc.",
         "benefits": [
-            "Scholarship rate per student for Medical Student: \u20b910,000/-",
-            "Scholarship rate per student for Engineering Student: \u20b98,000/-",
-            "Scholarship rate per student for Diploma Student: \u20b93,000/-",
+            "Scholarship rate per student for Medical Student: ₹10,000/-",
+            "Scholarship rate per student for Engineering Student: ₹8,000/-",
+            "Scholarship rate per student for Diploma Student: ₹3,000/-",
             "Assistance is given only in the first year"
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste of Gujarat.",
             "The student should be studying in Medical, Engineering, or Diploma courses.",
-            "The annual family income of the student should be up to \u20b96,00,000/-."
+            "The annual family income of the student should be up to ₹6,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Online. Applicants may visit the Digital Gujarat Portal: https://www.digitalgujarat.gov.in/ and follow the registration and application steps outlined in the scheme details.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What are the scholarship rates per student?",
-                "answer": "Medical students receive \u20b910,000/-, Engineering students receive \u20b98000/-, and Diploma students receive \u20b93000/-."
+                "answer": "Medical students receive ₹10,000/-, Engineering students receive ₹8000/-, and Diploma students receive ₹3000/-."
             },
             {
                 "question": "Are there any conditions regarding the distribution of financial assistance?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the maximum annual family income limit for eligibility?",
-                "answer": "The student's annual family income should not exceed \u20b96,00,000/-."
+                "answer": "The student's annual family income should not exceed ₹6,00,000/-."
             },
             {
                 "question": "How can one apply for the benefits of this scheme?",
@@ -87,5 +87,6 @@
             "Scholarship",
             "Gujarat"
         ]
-    }
+    },
+    "id": "000605"
 }

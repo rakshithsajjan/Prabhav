@@ -2,10 +2,10 @@
     "content": {
         "title": "Fruit Development Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmer",
-        "details": "The scheme \u2018Fruit Development Scheme\u2019 was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates.",
+        "details": "The scheme ‘Fruit Development Scheme’ was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates.",
         "benefits": [
             "Quality planting materials for sale at 50% subsidy and free of cost to the farmers under convergent mode with MGNREGA.",
             "Assistance for citrus rejuvenation programme for senile orchards.",
@@ -31,7 +31,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya has launched this scheme."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya has launched this scheme."
             },
             {
                 "question": "What is the type of assistance and entitlement?",
@@ -61,5 +61,6 @@
             "Horticultural",
             "Planting Material"
         ]
-    }
+    },
+    "id": "000645"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Entrepreneur Weavers/Individual Weavers",
         "details": "Assistance to Viable and Potentially Viable PWCS is a sub-scheme under the West Bengal Handloom and Khadi Weavers Financial Benefit Scheme 2024, by the MSME and Textiles Dept, Government of West Bengal aims to provide financial assistance to the PWCS and Khadi Societies who will fulfill the criteria of viability.",
         "benefits": [
-            "One time financial assistance ranging between \u20b91,00,000/- and \u20b910,00,000/- depending on the extent of activity."
+            "One time financial assistance ranging between ₹1,00,000/- and ₹10,00,000/- depending on the extent of activity."
         ],
         "eligibility": [
-            "Registered Primary Weavers\u2019 Cooperative Societies under the West Bengal Cooperative Societies Act.",
+            "Registered Primary Weavers’ Cooperative Societies under the West Bengal Cooperative Societies Act.",
             "Khadi Societies fulfilling the criteria of viability."
         ],
         "exclusions": [
@@ -21,7 +21,7 @@
         "faqs": [
             {
                 "question": "What is the definition of 'PWCS'?",
-                "answer": "'PWCS' means the Primary Weavers\u2019 Cooperative Societies registered under the West Bengal Cooperative Societies Act."
+                "answer": "'PWCS' means the Primary Weavers’ Cooperative Societies registered under the West Bengal Cooperative Societies Act."
             },
             {
                 "question": "What is the definition of 'Viable'?",
@@ -29,7 +29,7 @@
             },
             {
                 "question": "What is the extent of financial support provided by the State Government under this sub-scheme?",
-                "answer": "PWCS shall get one time financial assistance ranging between \u20b91,00,000/- and \u20b910,00,000/- depending on the extent of activity."
+                "answer": "PWCS shall get one time financial assistance ranging between ₹1,00,000/- and ₹10,00,000/- depending on the extent of activity."
             },
             {
                 "question": "What process will be followed by the department for the administration of this scheme?",
@@ -84,5 +84,6 @@
             "Financial Assistance",
             "West Bengal"
         ]
-    }
+    },
+    "id": "002036"
 }

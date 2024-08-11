@@ -18,7 +18,7 @@
         ],
         "eligibility": [
             "The applicant should be destitute, deserted, and abandoned children.",
-            "The applicant's family income should not exceed \u20b924,000/- per annum.",
+            "The applicant's family income should not exceed ₹24,000/- per annum.",
             "Boys are eligible up to the 5th Standard.",
             "The girl child's age should be 5 to 18 years; in case girls without father and mother are admitted, they can be up to 21 years for their higher studies.",
             "Children without parents or with a single parent, children of ailing parents and prisoners, and children whose parents are alive but unable to care for them due to severe disabilities are eligible."
@@ -65,7 +65,7 @@
             },
             {
                 "question": "Are there any income limits for eligibility?",
-                "answer": "Yes, the income limit is not exceeding \u20b924,000 per annum."
+                "answer": "Yes, the income limit is not exceeding ₹24,000 per annum."
             },
             {
                 "question": "What is the contact number for the Director of Social Welfare?",
@@ -85,5 +85,6 @@
             "Shelter",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001652"
 }

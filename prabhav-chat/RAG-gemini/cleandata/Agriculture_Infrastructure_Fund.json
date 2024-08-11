@@ -19,22 +19,22 @@
         ],
         "eligibility": [
             "Participating lending institutions will decide criteria for selection of eligible borrower as per their own policy, keeping in mind the viability of the projects.",
-            "24% of total grants \u2013 in \u2013 aid under the scheme should be utilized for SC/ST entrepreneurs (16% for SC and 8% for ST)."
+            "24% of total grants – in – aid under the scheme should be utilized for SC/ST entrepreneurs (16% for SC and 8% for ST)."
         ],
         "exclusions": [
             "PSUs are directly not eligible under the scheme, but projects sponsored by them under PPP are eligible."
         ],
         "application_process": "Online. Step 01: Apply as a beneficiary on https://agriinfra.dac.gov.in/Home/BeneficiaryRegistration and complete registration to generate a Beneficiary ID. Step 02: Download DPR template from the website. Step 03: Fill project details on the portal and submit DPR in given format. Step 04: Application will be reviewed by Ministry of Agriculture & Farmers Welfare. Step 05: Bank will review the project for viability and sanction the project.",
         "documents_required": [
-            "Bank\u2019s loan application form / Customer Request Letter for AIF Loan duly filled and signed",
+            "Bank’s loan application form / Customer Request Letter for AIF Loan duly filled and signed",
             "Passport size photographs of the promoter/partners/director",
-            "Identity proof \u2013 Voter ID card/PAN card/Aadhaar card/Driving license",
+            "Identity proof – Voter ID card/PAN card/Aadhaar card/Driving license",
             "Address Proof: Residence: Voter ID card/Passport/Aadhaar card/Driving license/Electricity Bill/Latest property Tax Bill; Business Office/Registered Office: Electricity Bill/Latest Property Tax Receipt/Certificate of Incorporation in case of Companies/Certificate of Registration in case of partnership Firms",
             "Proof of Registration: In case of Company: Article of Association; In case of Partnership: Certificate of Registration of Firm with Registrar of Firm; In case of MSMEs: Certificate of Registration with District Industries Centre (DIC)/Udyog Aadhar Copy",
             "Income Tax Return for last three years, If available.",
             "Audited Balance Sheet of last 3 Years, If available.",
             "GST Certificate, if applicable.",
-            "Land ownership records \u2013 title deed/lease deed.",
+            "Land ownership records – title deed/lease deed.",
             "ROC Search Report of the Company",
             "KYC documents of the promoter/firm/company",
             "Copy of Bank Statement for last one year (If available)",
@@ -46,7 +46,7 @@
         "faqs": [
             {
                 "question": "What is the interest subvention cost borne by the government?",
-                "answer": "All loans up to a limit of \u20b9 2 crores under this financing facility will have interest subvention of 3% per annum."
+                "answer": "All loans up to a limit of ₹ 2 crores under this financing facility will have interest subvention of 3% per annum."
             },
             {
                 "question": "What is the moratorium period for the project under the scheme?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "How many projects can be set up by the applicant?",
-                "answer": "An applicant can put up to 25 projects in different locations and each of such projects will be eligible under the scheme for loan up-to \u20b9 2 crore."
+                "answer": "An applicant can put up to 25 projects in different locations and each of such projects will be eligible under the scheme for loan up-to ₹ 2 crore."
             }
         ],
         "sources": [
@@ -77,5 +77,6 @@
             "Financing",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000066"
 }

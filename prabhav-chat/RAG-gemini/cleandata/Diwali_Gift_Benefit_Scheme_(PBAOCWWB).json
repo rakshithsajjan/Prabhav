@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "Financial Assistance",
         "beneficiary": "Construction Worker",
-        "details": "The 'Diwali Gift Benefit' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board sanction sum of \u20b9 2,000/- to each beneficiary enrolled in the Board every year to celebrate the Diwali festival. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker. The applications are accepted offline.",
+        "details": "The 'Diwali Gift Benefit' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, the Board sanction sum of ₹ 2,000/- to each beneficiary enrolled in the Board every year to celebrate the Diwali festival. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker. The applications are accepted offline.",
         "benefits": [
-            "\u20b9 2,000/- credited as Direct Benefit Transfer (DBT) into the bank account."
+            "₹ 2,000/- credited as Direct Benefit Transfer (DBT) into the bank account."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -26,14 +26,14 @@
         "faqs": [
             {
                 "question": "What is the monetary benefit provided under the 'Diwali Gift Benefit' scheme?",
-                "answer": "The beneficiary receives \u20b92,000 credited as Direct Benefit Transfer (DBT) into their bank account."
+                "answer": "The beneficiary receives ₹2,000 credited as Direct Benefit Transfer (DBT) into their bank account."
             },
             {
                 "question": "Are all the registered Construction Worker eligible to receive the Diwali gift under this scheme?",
                 "answer": "No, the applicant should be a registered construction worker with at least six months of registration with the Puducherry Building and Other Construction Workers Welfare Board, and actively contributing to the Board's Fund."
             },
             {
-                "question": "How is the amount of \u20b92,000 disbursed to the beneficiaries?",
+                "question": "How is the amount of ₹2,000 disbursed to the beneficiaries?",
                 "answer": "The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the registered construction worker."
             },
             {
@@ -94,5 +94,6 @@
             "Construction Workers",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000420"
 }

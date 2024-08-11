@@ -20,7 +20,7 @@
         ],
         "application_process": "One can download UMANG App or visit website https://web.umang.gov.in/web_new/home. The citizen can login using mobile number and OTP. Once logged In, citizen can search for NSAP. Click on 'Apply Online'. Fill the basic details, choose the mode of payment of pension, upload photo and click on 'Submit'.",
         "documents_required": [
-            "Death Certificate of husband \u2013 With the name of the surviving wife(widow).",
+            "Death Certificate of husband – With the name of the surviving wife(widow).",
             "BPL Card.",
             "Age Proof - For age, the birth certificate or school certificate may be relied on. In their absence ration card and EPIC may be considered. If there is no valid document, any Medical Officer of any government hospital may be authorized to issue the age certificate."
         ],
@@ -50,5 +50,6 @@
             "Social Security",
             "Below Poverty Line"
         ]
-    }
+    },
+    "id": "000841"
 }

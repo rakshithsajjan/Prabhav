@@ -7,7 +7,7 @@
         "beneficiary": "Goan Publishers",
         "details": "Scheme to Provide Financial Assistance to the Publishers for Publishing Books of Goan Authors has been designed to promote Goan publishers to provide them with financial support for the publication of books.",
         "benefits": [
-            "Upto 300 books will be purchased, subject to the condition that the total amount should not exceed \u20b9 50,000/-",
+            "Upto 300 books will be purchased, subject to the condition that the total amount should not exceed ₹ 50,000/-",
             "The publisher shall give a minimum 15% discount on the price of the book."
         ],
         "eligibility": [
@@ -95,5 +95,6 @@
             "Financial Assistance",
             "Publish"
         ]
-    }
+    },
+    "id": "001739"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Registered female workers and their daughters",
         "details": "The Vivah Sahayata Yojana was started in 2018 to provide financial assistance for marriage to reduce the financial burden on construction workers. It offers marriage assistance for the registered female worker's own marriage or remarriage and for up to two daughters of the registered worker.",
         "benefits": [
-            "Total assistance of \u20b955,000",
-            "\u20b911,000/- as cash",
-            "\u20b938,000/- worth of household goods",
-            "\u20b96,000/- provided to the organizer of the mass marriage program (if applicable)"
+            "Total assistance of ₹55,000",
+            "₹11,000/- as cash",
+            "₹38,000/- worth of household goods",
+            "₹6,000/- provided to the organizer of the mass marriage program (if applicable)"
         ],
         "eligibility": [
             "The industrial establishment must be covered under the Madhya Pradesh Labour Welfare Fund Act 1982",
@@ -100,5 +100,6 @@
             "Marriage",
             "Worker"
         ]
-    }
+    },
+    "id": "002023"
 }

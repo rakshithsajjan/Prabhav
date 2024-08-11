@@ -5,10 +5,10 @@
         "department": "Department of Information Technology",
         "type": "Reimbursement",
         "beneficiary": "Information Technology Units",
-        "details": "Launched in 2018, the 'Patent Filing Reimbursement Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Patent Filing Reimbursement to the eligible Information Technology Units in the State of Goa. A total reimbursement of up to \u20b9 25,00,000 per unit for the expenses incurred towards the filing of patents during the policy period. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
+        "details": "Launched in 2018, the 'Patent Filing Reimbursement Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Patent Filing Reimbursement to the eligible Information Technology Units in the State of Goa. A total reimbursement of up to ₹ 25,00,000 per unit for the expenses incurred towards the filing of patents during the policy period. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
         "benefits": [
-            "A total reimbursement of up to \u20b9 25,00,000 per unit for the expenses incurred towards the filing of patents during the policy period.",
-            "This incentive shall be provided in the form of reimbursement of up to \u20b9 2,50,000 for every successful domestic patent, and up to \u20b9 5,00,000 for every successful international patent."
+            "A total reimbursement of up to ₹ 25,00,000 per unit for the expenses incurred towards the filing of patents during the policy period.",
+            "This incentive shall be provided in the form of reimbursement of up to ₹ 2,50,000 for every successful domestic patent, and up to ₹ 5,00,000 for every successful international patent."
         ],
         "eligibility": [
             "All the new and existing units must have their operations in Goa.",
@@ -34,11 +34,11 @@
         "faqs": [
             {
                 "question": "What is the maximum reimbursement amount per unit for expenses incurred towards filing patents under this scheme?",
-                "answer": "The maximum reimbursement amount per unit for expenses incurred towards filing patents under this scheme is \u20b925,00,000."
+                "answer": "The maximum reimbursement amount per unit for expenses incurred towards filing patents under this scheme is ₹25,00,000."
             },
             {
                 "question": "Could you elaborate on the reimbursement structure for successful domestic and international patents?",
-                "answer": "Certainly, the incentive is provided in the form of reimbursement, with up to \u20b92,50,000 for every successful domestic patent and up to \u20b95,00,000 for every successful international patent."
+                "answer": "Certainly, the incentive is provided in the form of reimbursement, with up to ₹2,50,000 for every successful domestic patent and up to ₹5,00,000 for every successful international patent."
             },
             {
                 "question": "Are units availing financial incentives under any other policy of the Government of Goa eligible for benefits under this scheme?",
@@ -92,5 +92,6 @@
             "Reimbursement",
             "Information Technology"
         ]
-    }
+    },
+    "id": "001415"
 }

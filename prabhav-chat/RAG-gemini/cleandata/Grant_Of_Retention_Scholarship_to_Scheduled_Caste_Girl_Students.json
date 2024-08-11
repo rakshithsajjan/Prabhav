@@ -7,13 +7,13 @@
         "beneficiary": "Scheduled Caste Girl Students",
         "details": "The scheme 'Grant of Retention Scholarship to Scheduled Caste Girl Students' was implemented by the Adi Dravidar Welfare Department, Government of Puducherry. Under the scheme, the scholarship is provided to the girl students who belong to the Scheduled Caste Community and studying in I Standard to V Standard in both Government and Government recognized private educational institutions in the Union Territory of Puducherry. The objective of the scheme is to provide financial assistance to Scheduled Caste Girls Students to pursue their studies in Primary Education.",
         "benefits": [
-            "\u20b91,000/- per year to girl students studying from I to V Standard (\u20b9100/- per month per girl student for 10 months in an academic year)."
+            "₹1,000/- per year to girl students studying from I to V Standard (₹100/- per month per girl student for 10 months in an academic year)."
         ],
         "eligibility": [
             "All the Scheduled Caste Girls Students of the Union Territory of Puducherry are eligible for the scholarship.",
             "The concession will be granted to Scheduled Caste Girls Students who are native of the Union Territory of Puducherry or are residing in the Union Territory of Puducherry for a continuous period of not less than five years.",
             "The concession will be granted to the Scheduled Caste Girls Students studying from I Standard to V Standard either in Government or private recognized educational institutions.",
-            "Annual income of the parent guardian shall not exceed \u20b924000/-."
+            "Annual income of the parent guardian shall not exceed ₹24000/-."
         ],
         "exclusions": [
             "The scholarship will be cancelled for any misconduct on the part of the scholar.",
@@ -48,11 +48,11 @@
             },
             {
                 "question": "What is the income criterion for applying under the scheme?",
-                "answer": "The annual income of the parent guardian shall not exceed \u20b924000/-."
+                "answer": "The annual income of the parent guardian shall not exceed ₹24000/-."
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, \u20b91,000/- per year to girl students studying from I to V Standard (\u20b9100/- per month per girl student for 10 months in an academic year)."
+                "answer": "Under this scheme, ₹1,000/- per year to girl students studying from I to V Standard (₹100/- per month per girl student for 10 months in an academic year)."
             },
             {
                 "question": "How to apply for this scholarship?",
@@ -80,5 +80,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "000714"
 }

@@ -5,16 +5,16 @@
         "department": "Director, Scheduled Caste Welfare, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Scheduled Caste Students",
-        "details": "The \u201cPrivate Tuition Assistance to Scheduled Caste Students Studying in Standard 11th & 12th (Science Stream)\u201d is implemented by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, financial assistance is provided to Scheduled Caste (SC) students who are studying in Standard 11th and 12th (Science Stream) and have obtained 70% or more marks in the 10th Standard for private coaching.",
+        "details": "The “Private Tuition Assistance to Scheduled Caste Students Studying in Standard 11th & 12th (Science Stream)” is implemented by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, financial assistance is provided to Scheduled Caste (SC) students who are studying in Standard 11th and 12th (Science Stream) and have obtained 70% or more marks in the 10th Standard for private coaching.",
         "benefits": [
-            "11th Standard: \u20b915,000/- per annum as a private tuition fees",
-            "12th Standard: \u20b915,000/- per annum as a private tuition fees"
+            "11th Standard: ₹15,000/- per annum as a private tuition fees",
+            "12th Standard: ₹15,000/- per annum as a private tuition fees"
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste of Gujarat.",
             "The student should be studying in Standard 11th & 12th Science Stream.",
             "The student should have 70% or more marks in Standard 10th.",
-            "The annual family income of the student should be up to \u20b96 lakhs."
+            "The annual family income of the student should be up to ₹6 lakhs."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -32,11 +32,11 @@
         "faqs": [
             {
                 "question": "Who is eligible for this scheme?",
-                "answer": "Eligibility criteria include belonging to the Scheduled Caste of Gujarat, studying in Standard 11th & 12th Science Stream, securing 70% or more marks in Standard 10th, and having an annual family income of up to \u20b96 lakhs."
+                "answer": "Eligibility criteria include belonging to the Scheduled Caste of Gujarat, studying in Standard 11th & 12th Science Stream, securing 70% or more marks in Standard 10th, and having an annual family income of up to ₹6 lakhs."
             },
             {
                 "question": "What are the benefits provided under this scheme?",
-                "answer": "Assistance in total limit of \u20b930,000/- consisting of \u20b915,000/- by Standard 11th and \u20b915,000/- for Standard 12th for private tuition to students of SC."
+                "answer": "Assistance in total limit of ₹30,000/- consisting of ₹15,000/- by Standard 11th and ₹15,000/- for Standard 12th for private tuition to students of SC."
             },
             {
                 "question": "Is there any specific stream requirement for the scheme?",
@@ -89,5 +89,6 @@
             "Science Stream",
             "Student"
         ]
-    }
+    },
+    "id": "001530"
 }

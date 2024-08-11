@@ -1,6 +1,6 @@
 {
     "content": {
-        "title": "Chief Minister\u2019s Health Insurance Scheme - Nagaland",
+        "title": "Chief Minister’s Health Insurance Scheme - Nagaland",
         "state": "Nagaland",
         "department": "Health and Family Welfare Department",
         "type": "Health Insurance",
@@ -21,13 +21,13 @@
             "Cosmetic surgeries, dental treatments, and infertility treatments are not covered under the CMHIS scheme.",
             "AB PM-JAY Beneficiaries including Building and other Construction Workers will not be covered under CMHIS (GEN) category."
         ],
-        "application_process": "Online application process through the Chief Minister\u2019s Health Insurance Scheme (CMHIS) Nagaland portal. Applicants must register, fill in the application form, and submit it along with necessary documents to the nearest Common Service Center (CSC) or empanelled hospital.",
+        "application_process": "Online application process through the Chief Minister’s Health Insurance Scheme (CMHIS) Nagaland portal. Applicants must register, fill in the application form, and submit it along with necessary documents to the nearest Common Service Center (CSC) or empanelled hospital.",
         "documents_required": [
             "Valid Mobile Phone number.",
             "Indigenous Inhabitant Certificate (IIC) or Permanent Residential Certificate (PRC).",
             "Government issued Photo ID card for employees without PIMS number.",
             "Proof of continuity of being engaged for employees without PIMS number.",
-            "First Three pages of the Pensioner\u2019s PPO book for pensioners."
+            "First Three pages of the Pensioner’s PPO book for pensioners."
         ],
         "faqs": [
             {
@@ -59,5 +59,6 @@
             "Government Scheme",
             "Financial Protection"
         ]
-    }
+    },
+    "id": "000300"
 }

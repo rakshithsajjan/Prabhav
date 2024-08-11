@@ -8,15 +8,15 @@
         "details": "The Haryana government has prepared a scheme to provide scholarship to the meritorious students of Scheduled Castes, Backward Classes, Nomadic, DNTs, Semi-Nomadic, Vimukt Jaati and Tapriwas Jaati of classes 11th to postgraduate level. It aims to produce a feeling of competition amongst them so that they can achieve great milestones in the field of education. Both online and offline applications are invited under this scheme. Under this scheme an incentive from 8000 to 12000 per annum is provided to the meritorious students of classes from class 11th to post graduate level.",
         "benefits": [
             "For Students of Backward Classes, Scheduled Castes, Nomadic, DNTs, Semi-Nomadic, Vimukt Jati, and Tapriwas Jaati, scholarship ranging from Rs. 8000/- to 12000/- is awarded for Metric/10th, 10+ and Graduation.",
-            "For Students of Backward Classes Block \u2018A\u2019, scholarship of amount Rs 8000 is awarded for metric qualified students.",
-            "For Students of Backward Classes Block \u2018B\u2019, scholarship of amount Rs 8000 is awarded for metric qualified students.",
-            "For Meritorious students of other social classes to be given scholarship at par with Students of Backward Classes Block \u2018B\u2019, scholarship of amount Rs 8000 is awarded for metric qualified students."
+            "For Students of Backward Classes Block ‘A’, scholarship of amount Rs 8000 is awarded for metric qualified students.",
+            "For Students of Backward Classes Block ‘B’, scholarship of amount Rs 8000 is awarded for metric qualified students.",
+            "For Meritorious students of other social classes to be given scholarship at par with Students of Backward Classes Block ‘B’, scholarship of amount Rs 8000 is awarded for metric qualified students."
         ],
         "eligibility": [
             "For Students of Backward Classes, Scheduled Castes, Nomadic, DNTs, Semi-Nomadic, Vimukt Jati, and Tapriwas Jaati - matric-(Urban 70%) (Rural 60%), 10+2-(Urban 75%) (Rural 70%), Graduation-(Urban 65%) (Rural 60%)",
-            "For Students of Backward Classes Block \u2018A\u2019 - Metric-(Urban 70%) (Rural 60%)",
-            "For Students of Backward Classes Block \u2018B\u2019 - Metric-(Urban 80%) (Rural 75%)",
-            "For Meritorious students of other social classes to be given scholarship at par with Students of Backward Classes Block \u2018B\u2019 - Metric-(Urban 80%) (Rural 75%)"
+            "For Students of Backward Classes Block ‘A’ - Metric-(Urban 70%) (Rural 60%)",
+            "For Students of Backward Classes Block ‘B’ - Metric-(Urban 80%) (Rural 75%)",
+            "For Meritorious students of other social classes to be given scholarship at par with Students of Backward Classes Block ‘B’ - Metric-(Urban 80%) (Rural 75%)"
         ],
         "application_process": "Both online and offline applications are invited. To apply online, visit the Saral Haryana website and register. For offline applications, download the form from the official website, fill it, and submit it to the concerned department.",
         "documents_required": [
@@ -81,5 +81,6 @@
             "Social Welfare",
             "Scholarship"
         ]
-    }
+    },
+    "id": "000426"
 }

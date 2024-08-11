@@ -7,7 +7,7 @@
         "beneficiary": "Students and Youth",
         "details": "The IPL Centre for Rural Outreach (ICRO) established under the Indian Potash Limited (IPL), Department of Fertilizers, Ministry of Chemicals and Fertilizers, has launched ICRO Amrit Internship Programme focused on youth productivity for prosperity. The interns will be placed at the headquarters and Regional Offices of NPC/ IPL. The duration of the internship will be 3 months initially which can be renewed up to 4 times. The internship program shall be available throughout the year. The placement of interns will be made at the Head office and regional offices of NPC / IPL depending upon the preference of interns and the requirements of the offices concerned.",
         "benefits": [
-            "The selected intern shall be entitled to \u20b9 6,000/- per month as a stipend during the period of internship.",
+            "The selected intern shall be entitled to ₹ 6,000/- per month as a stipend during the period of internship.",
             "The interns will be issued an Internship Completion Certificate upon successful completion of the internship."
         ],
         "eligibility": [
@@ -106,5 +106,6 @@
             "Vocational Skills",
             "Agriculture"
         ]
-    }
+    },
+    "id": "000800"
 }

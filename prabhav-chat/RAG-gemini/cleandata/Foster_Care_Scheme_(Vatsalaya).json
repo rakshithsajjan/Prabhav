@@ -7,8 +7,8 @@
         "beneficiary": "Children in difficult circumstances",
         "details": "The Foster Care Scheme (Vatsalaya) is being implemented by the Department of Women & Child Development, Government of Goa to provide temporary/substitute care for children in difficult circumstances, whose parents are unable to care for them due to illness, death, and desertion of one parent or any emotional crisis.",
         "benefits": [
-            "Foster Care Allowance of \u20b9 2,500/- per month.",
-            "Maintenance Allowance for different age groups: \u20b9 1,500/- for 0 to 6 years, \u20b9 2,000/- for 6 to 14 years, and \u20b9 2,500/- for 14 to 18 years."
+            "Foster Care Allowance of ₹ 2,500/- per month.",
+            "Maintenance Allowance for different age groups: ₹ 1,500/- for 0 to 6 years, ₹ 2,000/- for 6 to 14 years, and ₹ 2,500/- for 14 to 18 years."
         ],
         "eligibility": [
             "The child is affected by family breakdown or marital discord.",
@@ -72,5 +72,6 @@
             "Rehabilitation",
             "Shelter"
         ]
-    }
+    },
+    "id": "000629"
 }

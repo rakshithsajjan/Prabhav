@@ -5,7 +5,7 @@
         "department": "Department of Social Justice & Empowerment",
         "type": "Grant",
         "beneficiary": "Persons with Disabilities",
-        "details": "The scheme 'Prosthetic Aids and Appliances for Person with Disabilities' was launched by the Director Social Defence, Department of Social Justice & Empowerment, Government of Gujarat. Under this scheme, a Person with Disabilities with 40% or more disability is given relief in his/her disability as well as equipment for self-employment within the limit of \u20b920,000/-. The scheme is fully funded by the state government.",
+        "details": "The scheme 'Prosthetic Aids and Appliances for Person with Disabilities' was launched by the Director Social Defence, Department of Social Justice & Empowerment, Government of Gujarat. Under this scheme, a Person with Disabilities with 40% or more disability is given relief in his/her disability as well as equipment for self-employment within the limit of ₹20,000/-. The scheme is fully funded by the state government.",
         "benefits": [
             "Artificial limb, crutch or calipers, tricycle, folding wheelchair to Person with Disabilities.",
             "Hearing aids and other tool assistance for mute and deaf persons.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What benefits does the scheme offer?",
-                "answer": "The scheme provides relief in disability as well as equipment for self-employment within the limit of \u20b920,000."
+                "answer": "The scheme provides relief in disability as well as equipment for self-employment within the limit of ₹20,000."
             },
             {
                 "question": "What type of equipment is provided under the scheme?",
@@ -88,5 +88,6 @@
             "Self-employment",
             "Gujarat"
         ]
-    }
+    },
+    "id": "001540"
 }

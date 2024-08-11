@@ -7,14 +7,14 @@
         "beneficiary": "Scheduled Caste Students",
         "details": "The 'Private Tuition Assistance to Scheduled Caste Students Studying in Standard 11th & 12th (General Stream)' is implemented by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, financial assistance is provided to Scheduled Caste (SC) students who are studying in Standard 11th and 12th (General Stream) and have obtained 75% or more marks in the 10th Standard for private coaching fees, as per merit prepared at state level up to 100 students.",
         "benefits": [
-            "Standard 11th: \u20b98,000/- per annum as a private tuition fees",
-            "Standard 12th: \u20b94,000/- per annum as a private tuition fees"
+            "Standard 11th: ₹8,000/- per annum as a private tuition fees",
+            "Standard 12th: ₹4,000/- per annum as a private tuition fees"
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste of Gujarat.",
             "The student should be studying in Standard 11th & 12th General Stream.",
             "The student should have 75% or more marks in Standard 10th.",
-            "The annual family income of the student should be up to \u20b94.50 lakhs."
+            "The annual family income of the student should be up to ₹4.50 lakhs."
         ],
         "exclusions": [],
         "application_process": "Offline. Students need to visit the nearest Office of the District Deputy Director (SCW) or Director, Scheduled Caste Welfare Office, Gandhinagar, collect the application form, fill in all mandatory fields, attach all mandatory documents, and submit the application form along with the documents to the concerned office.",
@@ -36,11 +36,11 @@
             },
             {
                 "question": "What are the benefits provided under this scheme?",
-                "answer": "Financial assistance of \u20b98,000/- for Standard XI & \u20b94,000/- for Standard XII will be provided to Scheduled Caste Students as private tuition fees."
+                "answer": "Financial assistance of ₹8,000/- for Standard XI & ₹4,000/- for Standard XII will be provided to Scheduled Caste Students as private tuition fees."
             },
             {
                 "question": "Who is eligible for this scheme?",
-                "answer": "Eligibility criteria include belonging to the Scheduled Caste of Gujarat, studying in Standard 11th & 12th General Stream, securing 75% or more marks in Standard 10th, and having an annual family income of up to \u20b94.50 lakhs."
+                "answer": "Eligibility criteria include belonging to the Scheduled Caste of Gujarat, studying in Standard 11th & 12th General Stream, securing 75% or more marks in Standard 10th, and having an annual family income of up to ₹4.50 lakhs."
             },
             {
                 "question": "How many students receive assistance under this scheme?",
@@ -85,5 +85,6 @@
             "SC",
             "Student"
         ]
-    }
+    },
+    "id": "001529"
 }

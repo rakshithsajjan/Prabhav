@@ -5,9 +5,9 @@
         "department": "Department of Industrial Development (Industries and Commerce)",
         "type": "Subsidy",
         "beneficiary": "Entrepreneur",
-        "details": "The 'Capital Investment Subsidy: Information Technology (IT) / Information Technology Enabled Services (ITES) Industries' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. The new IT/ITES industrial unit which started production on or after 6-11-2002 are provided with subsidy on the investments made on plant and machinery @ 20% thereon subject to a maximum of \u20b920,00,000/- for the large, medium, small and micro enterprises during the period of operation of the scheme. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "The 'Capital Investment Subsidy: Information Technology (IT) / Information Technology Enabled Services (ITES) Industries' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. The new IT/ITES industrial unit which started production on or after 6-11-2002 are provided with subsidy on the investments made on plant and machinery @ 20% thereon subject to a maximum of ₹20,00,000/- for the large, medium, small and micro enterprises during the period of operation of the scheme. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Subsidy on the investments made on plant and machinery @ 20% thereon subject to a maximum of \u20b920,00,000/- for the large, medium, small and micro enterprises during the period of operation of the scheme.",
+            "Subsidy on the investments made on plant and machinery @ 20% thereon subject to a maximum of ₹20,00,000/- for the large, medium, small and micro enterprises during the period of operation of the scheme.",
             "The subsidy shall be disbursed in a single instalment.",
             "In the case of Units Financed by Financial Institutions/Banks, the subsidy amount shall be disbursed through the financial institutions/banks only, towards the adjustment against the loan availed by the entrepreneurs or for the creation of additional fixed assets or working capital purposes.",
             "In the case of Self-financed Units, the subsidy shall be disbursed directly to the entrepreneurs."
@@ -25,7 +25,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
+            "Engineer’s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
             "Registered Lease Agreement for the Building Executed Between the Developer and the Unit.",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
@@ -95,5 +95,6 @@
             "Subsidy",
             "Entrepreneur"
         ]
-    }
+    },
+    "id": "000241"
 }

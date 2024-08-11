@@ -7,7 +7,7 @@
         "beneficiary": "Self-Help Groups (SHGs) or collectives of tribal growers",
         "details": "The scheme 'Coffee Development Programme in North Eastern Region: Support for Group Nurseries' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to provide growers with high-quality coffee seedlings to ensure the proper establishment of plantations.",
         "benefits": [
-            "Each coffee seedling is eligible for a support of \u20b95."
+            "Each coffee seedling is eligible for a support of ₹5."
         ],
         "eligibility": [
             "The applicant should be Self-Help Groups (SHGs) or collectives of tribal growers.",
@@ -22,7 +22,7 @@
         "faqs": [
             {
                 "question": "How is the support for each coffee seedling calculated?",
-                "answer": "Each coffee seedling is eligible for a support of \u20b95, regardless of its actual cost."
+                "answer": "Each coffee seedling is eligible for a support of ₹5, regardless of its actual cost."
             },
             {
                 "question": "Is there a specific time frame for raising the group nurseries?",
@@ -86,5 +86,6 @@
             "Financial Assistance",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000322"
 }

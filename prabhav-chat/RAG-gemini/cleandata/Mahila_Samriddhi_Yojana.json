@@ -7,7 +7,7 @@
         "beneficiary": "Women Enterpreneur",
         "details": "Mahila Samridhi Yojana (MSY) is a scheme aimed to benefit the women entrepreneurs from backward backgrounds or poor backgrounds. The scheme was launched as part of the National Backward Classes Finance and Development Corporation (NBCFDC) under the Ministry of Social Justice and Empowerment. Under this scheme, the Government provides micro-finance to the women entrepreneurs either directly or through Self-Help Groups (SHGs). This scheme is being implemented by a wide range of channel partners nationwide. Targeted women beneficiaries are identified and given loans either directly or in the form of Self-Help Groups (SHGs).",
         "benefits": [
-            "Financial Assistance up to cost of \u20b91,40,000/- is provided.",
+            "Financial Assistance up to cost of ₹1,40,000/- is provided.",
             "The repayment period is within 3.5 years, in quarterly installments from date of each disbursement including moratorium period.",
             "On repayment of loans under MSY, through the concerned State Channelizing Agencies (SCA), the eligible beneficiaries can avail any loan under NSFDC scheme."
         ],
@@ -56,5 +56,6 @@
             "Micro-Finance",
             "Women Enterpreneur"
         ]
-    }
+    },
+    "id": "001061"
 }

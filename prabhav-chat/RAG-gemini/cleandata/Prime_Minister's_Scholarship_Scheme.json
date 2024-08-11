@@ -5,9 +5,9 @@
         "department": "Ministry Of Defence",
         "type": "Scholarship",
         "beneficiary": "Dependent wards of Ex-Servicemen / Ex-Coast Guard personnel and their widows",
-        "details": "Prime Minister\u2019s Scholarship Scheme was introduced in the Academic year 2006-07 by the Department of Ex-servicemen Welfare, Ministry of Defence, to encourage higher technical and professional education for the dependent wards of Ex-Servicemen / Ex-Coast Guard personnel and their widows. A total number of 5500 (2750 Boys and 2750 Girls) wards / widows of Ex-servicemen are selected for the scholarship in each academic year. Scholarship amount is paid annually to the selected students for a period of one to five years as per the duration of the courses approved by the concerned regulatory bodies. The amount of the scholarship is \u20b92500 per month for boys and \u20b93000 per month for girls.",
+        "details": "Prime Minister’s Scholarship Scheme was introduced in the Academic year 2006-07 by the Department of Ex-servicemen Welfare, Ministry of Defence, to encourage higher technical and professional education for the dependent wards of Ex-Servicemen / Ex-Coast Guard personnel and their widows. A total number of 5500 (2750 Boys and 2750 Girls) wards / widows of Ex-servicemen are selected for the scholarship in each academic year. Scholarship amount is paid annually to the selected students for a period of one to five years as per the duration of the courses approved by the concerned regulatory bodies. The amount of the scholarship is ₹2500 per month for boys and ₹3000 per month for girls.",
         "benefits": [
-            "The scholarship amount is \u20b92500 per month for boys and \u20b93000 per month for girls.",
+            "The scholarship amount is ₹2500 per month for boys and ₹3000 per month for girls.",
             "The scholarship amount is paid annually to the selected students for a period of one to five years as per the duration of the courses approved by the concerned regulatory bodies.",
             "A total number of 5500 (2750 Boys and 2750 Girls) wards/widows of ex-servicemen are selected for a scholarship each academic year."
         ],
@@ -50,7 +50,7 @@
                 "answer": "No. All subjects/ semesters/ academic years have to be cleared in the first attempt only."
             },
             {
-                "question": "Is seeding of student\u2019s Aadhaar card with student\u2019s Bank Account Number is necessary for scholarship?",
+                "question": "Is seeding of student’s Aadhaar card with student’s Bank Account Number is necessary for scholarship?",
                 "answer": "Yes, it is a mandatory requirement for payment of the scholarship."
             },
             {
@@ -100,5 +100,6 @@
             "Student",
             "Widow"
         ]
-    }
+    },
+    "id": "001523"
 }

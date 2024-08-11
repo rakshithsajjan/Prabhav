@@ -7,7 +7,7 @@
         "beneficiary": "Entrepreneurs",
         "details": "The 'Grant of Margin Money for Availing Capital Loan' Component of the 'Development of Coir' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to incentivize entrepreneurs to establish new coir industries or revitalise existing ones. Eligible units must be set up in the Union Territory of Puducherry. The scheme provides margin money upon receipt of a financial institution's sanction order for a project.",
         "benefits": [
-            "25% margin money, capped at \u20b925,00,000, upon receipt of a financial institution's sanction order for a project worth \u20b91,00,00,000.",
+            "25% margin money, capped at ₹25,00,000, upon receipt of a financial institution's sanction order for a project worth ₹1,00,00,000.",
             "The loan amount will be released to the bank on behalf of the entrepreneurs.",
             "The commercial production should commence within six months of the Margin Money Grant release."
         ],
@@ -24,7 +24,7 @@
         "faqs": [
             {
                 "question": "What percentage of margin money is provided under the scheme, and what is the maximum cap?",
-                "answer": "The scheme offers 25% margin money, capped at \u20b925,00,000, upon receiving a financial institution's sanction order for a \u20b91,00,00,000 project."
+                "answer": "The scheme offers 25% margin money, capped at ₹25,00,000, upon receiving a financial institution's sanction order for a ₹1,00,00,000 project."
             },
             {
                 "question": "What is the geographical requirement for establishing a unit under this scheme?",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "How much loan amount should the financial institution sanction for entrepreneurs to avail the margin money?",
-                "answer": "Entrepreneurs need a financial institution's sanction order for a project worth \u20b91,00,00,000 to avail the margin money."
+                "answer": "Entrepreneurs need a financial institution's sanction order for a project worth ₹1,00,00,000 to avail the margin money."
             },
             {
                 "question": "Where can interested applicants obtain the prescribed application form for the scheme?",
@@ -99,5 +99,6 @@
             "Entrepreneur",
             "Loan"
         ]
-    }
+    },
+    "id": "000731"
 }

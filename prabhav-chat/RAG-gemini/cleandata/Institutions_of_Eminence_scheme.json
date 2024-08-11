@@ -7,7 +7,7 @@
         "beneficiary": "Higher Educational Institutions",
         "details": "The scheme Institutions of Eminence has been launched by the University Grants Commission in 2017 to empower Higher Educational Institutions to help them become world-class teaching and research institutions. The objective of the scheme is to provide an enabling regulatory architecture to ten public and ten private Higher Educational institutions to emerge as world-class Teaching and Research institutions. This will enhance affordable access to high-quality education for ordinary Indians.",
         "benefits": [
-            "Financial Assistance would be provided to Government institutions up to \u20b9 1000 crore additional funding from the government.",
+            "Financial Assistance would be provided to Government institutions up to ₹ 1000 crore additional funding from the government.",
             "The Institution would have the full freedom to mobilize resources from the industry or alumni or other donors and utilize it in accordance with its implementation plan without having to seek any permission from any authority.",
             "The Institutions of Eminence would be free to admit maximum 30% foreign students of the total admitted students.",
             "Institutions would be free to fix and charge fees from foreign students without restriction.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What are the facilities of this scheme?",
-                "answer": "Financial Assistance would be provided to Government institutions up to \u20b9 1000 crore additional funding from the government along with other benefits."
+                "answer": "Financial Assistance would be provided to Government institutions up to ₹ 1000 crore additional funding from the government along with other benefits."
             },
             {
                 "question": "Which department has launched Institutions of Eminence(IOEs) scheme?",
@@ -72,11 +72,11 @@
             },
             {
                 "question": "Is there any application fee for the submission in the scheme?",
-                "answer": "Processing fee of Rupees \u20b91,00,00,000/- by way of Demand Draft need to deposit for the submission in the scheme."
+                "answer": "Processing fee of Rupees ₹1,00,00,000/- by way of Demand Draft need to deposit for the submission in the scheme."
             },
             {
                 "question": "In case any refund will be made to the applicant who were not selected?",
-                "answer": "Yes, \u20b9 75,00,000/- seventy-five lakh shall be returned to applicants who are not selected as institutions of Eminence."
+                "answer": "Yes, ₹ 75,00,000/- seventy-five lakh shall be returned to applicants who are not selected as institutions of Eminence."
             }
         ],
         "sources": [
@@ -94,5 +94,6 @@
             "Financial Assistance",
             "Infrastructure"
         ]
-    }
+    },
+    "id": "000864"
 }

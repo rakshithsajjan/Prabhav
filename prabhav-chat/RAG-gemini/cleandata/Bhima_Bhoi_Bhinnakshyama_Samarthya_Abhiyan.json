@@ -22,7 +22,7 @@
             "Mental Illness",
             "Muscular Dystrophy",
             "Multiple Sclerosis",
-            "Parkinson\u2019s Disease",
+            "Parkinson’s Disease",
             "Specific Learning Disabilities",
             "Speech and Language Disability",
             "Thalassemia",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What are covered Persons with Disabilities covered under the new Act includes?",
-                "answer": "The following categories: a) Acid Attack Victim, b) Autism Spectrum Disorder, c) Blindness, d) Cerebral Palsy, e) Chronic Neurological Conditions, f) Dwarfism, g) Hemophilia, h) Hearing Impairment, i) Intellectual Disability, j) Leprosy Cured Person, k) Locomotor Disability, m) Low-Vision, n) Mental Illness, o) Muscular Dystrophy, p) Multiple Sclerosis, q) Parkinson\u2019s Disease, r) Specific Learning Disabilities, s) Speech and Language Disability, t) Thalassemia, u) Sickle Cell Disease, and v) Multiple Disabilities."
+                "answer": "The following categories: a) Acid Attack Victim, b) Autism Spectrum Disorder, c) Blindness, d) Cerebral Palsy, e) Chronic Neurological Conditions, f) Dwarfism, g) Hemophilia, h) Hearing Impairment, i) Intellectual Disability, j) Leprosy Cured Person, k) Locomotor Disability, m) Low-Vision, n) Mental Illness, o) Muscular Dystrophy, p) Multiple Sclerosis, q) Parkinson’s Disease, r) Specific Learning Disabilities, s) Speech and Language Disability, t) Thalassemia, u) Sickle Cell Disease, and v) Multiple Disabilities."
             },
             {
                 "question": "Who deals with the development of manpower for providing rehabilitation services?",
@@ -80,5 +80,6 @@
             "Odisha",
             "Social Security"
         ]
-    }
+    },
+    "id": "000197"
 }

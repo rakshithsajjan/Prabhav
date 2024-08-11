@@ -15,7 +15,7 @@
         "eligibility": [
             "The applicant should be a native of Madhya Pradesh belonging to a backward class.",
             "The applicant should have passed in the previous class.",
-            "The total annual income of parents/guardians should not exceed \u20b93,00,000/-."
+            "The total annual income of parents/guardians should not exceed ₹3,00,000/-."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "Is there any specific income criteria for eligibility under this scheme?",
-                "answer": "The total annual income of parents/guardians should not exceed \u20b93,00,000/-."
+                "answer": "The total annual income of parents/guardians should not exceed ₹3,00,000/-."
             },
             {
                 "question": "What expenses does the scholarship cover, and to what extent?",
@@ -63,11 +63,11 @@
             },
             {
                 "question": "How much amount will be paid in post graduate hostel?",
-                "answer": "\u20b9450/- amount will be paid in the post-graduate hostel."
+                "answer": "₹450/- amount will be paid in the post-graduate hostel."
             },
             {
                 "question": "How much amount will be paid in graduate hostel?",
-                "answer": "\u20b9400/- amount will be paid in the graduate hostel."
+                "answer": "₹400/- amount will be paid in the graduate hostel."
             }
         ],
         "sources": [
@@ -86,5 +86,6 @@
             "Madhya Pradesh",
             "Education"
         ]
-    }
+    },
+    "id": "001446"
 }

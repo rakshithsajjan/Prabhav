@@ -12,7 +12,7 @@
         "eligibility": [
             "Students should belong to V.J.N.T. or S.B.C category.",
             "Students should be trainees of approved I.T.I.",
-            "The parent/Guardian's income should be up to \u20b9 65290/- per year.",
+            "The parent/Guardian's income should be up to ₹ 65290/- per year.",
             "The selection process is completed by the Principal of the concerned ITI."
         ],
         "exclusions": [],
@@ -65,5 +65,6 @@
             "Technical Education",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "000148"
 }

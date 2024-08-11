@@ -27,7 +27,7 @@
             "For Pilots: The above entities may partner with PSUs, TSPs, Central/State Government entities"
         ],
         "exclusions": [
-            "When an Indian Company receives a grant under the scheme, it is envisaged to retain its status as a \u2018Domestic Company\u2019 for a minimum period of two (2) years after completion of the project.",
+            "When an Indian Company receives a grant under the scheme, it is envisaged to retain its status as a ‘Domestic Company’ for a minimum period of two (2) years after completion of the project.",
             "If a foreign investor wishes to acquire a majority stake within the above two-year period, the company can do so by paying twice the grant principal amount received."
         ],
         "application_process": "Online submission of Proposal followed by screening, review, and final approval from Competent Authority.",
@@ -82,5 +82,6 @@
             "Grants",
             "Digital India"
         ]
-    }
+    },
+    "id": "001934"
 }

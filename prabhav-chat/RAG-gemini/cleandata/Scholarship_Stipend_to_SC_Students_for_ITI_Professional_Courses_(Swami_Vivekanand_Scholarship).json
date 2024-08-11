@@ -7,12 +7,12 @@
         "beneficiary": "Scheduled Caste Students",
         "details": "The 'Scholarship/Stipend to SC Students for ITI/Professional Courses' scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under the scheme, a monthly stipend/scholarship will be given to Scheduled Caste Category students who are studying professional courses in Government or Private Industrial Training Institute (ITI).",
         "benefits": [
-            "Under the scheme, a monthly stipend of \u20b9400/- is given to the eligible student."
+            "Under the scheme, a monthly stipend of ₹400/- is given to the eligible student."
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste of Gujarat.",
             "The student should be studying in a professional course in a Government or Private Industrial Training Institute (ITI).",
-            "The annual family income of the student should be up to \u20b96,00,000/- (For Rural & Urban Areas)."
+            "The annual family income of the student should be up to ₹6,00,000/- (For Rural & Urban Areas)."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What is the primary benefit offered under this scheme?",
-                "answer": "Eligible students receive a monthly stipend of \u20b9400/-."
+                "answer": "Eligible students receive a monthly stipend of ₹400/-."
             },
             {
                 "question": "Who is eligible to apply for this scholarship?",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What are the income criteria for eligibility?",
-                "answer": "The annual family income of the student should be up to \u20b96,00,000/- (For Rural & Urban Areas)."
+                "answer": "The annual family income of the student should be up to ₹6,00,000/- (For Rural & Urban Areas)."
             },
             {
                 "question": "How can I apply for the benefits of this scheme?",
@@ -85,5 +85,6 @@
             "ITI",
             "Professional Courses"
         ]
-    }
+    },
+    "id": "001752"
 }

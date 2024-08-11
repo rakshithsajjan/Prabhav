@@ -7,16 +7,16 @@
         "beneficiary": "Children of differently abled parents",
         "details": "The scheme 'Vidyakiranam Scheme-Educational Assistance to Children of Disabled Parents' was launched by the Department of Social Justice, Government of Kerala. The government of Kerala has initiated this scheme which provides educational assistance to children of differently abled parents (disability for both parents/ disability for anyone parent) who are economically deprived. Under the scheme, educational assistance will be provided to 25 children from each district for a duration of 10 months.",
         "benefits": [
-            "\u20b9300/- per month for 10 months for Standard 1 to 5",
-            "\u20b9500/- per month for 10 months for Standard 6 to 10",
-            "\u20b9750/- per month for 10 months for +1, +2, ITI equivalent courses",
-            "\u20b91000/- per month for 10 months for Degree, Post-Graduation, Polytechnic, Equivalent Courses, Training Courses, Professional Courses"
+            "₹300/- per month for 10 months for Standard 1 to 5",
+            "₹500/- per month for 10 months for Standard 6 to 10",
+            "₹750/- per month for 10 months for +1, +2, ITI equivalent courses",
+            "₹1000/- per month for 10 months for Degree, Post-Graduation, Polytechnic, Equivalent Courses, Training Courses, Professional Courses"
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Kerala.",
             "The children of differently abled parents belonging to the BPL category (Both / Anyone) will get a scholarship under this scheme.",
             "The applicant should be a student.",
-            "The disability of the applicant\u2019s father/ mother must be 40% or above.",
+            "The disability of the applicant’s father/ mother must be 40% or above.",
             "The students pursuing courses from Govt. approved institutions are eligible to apply under this scheme."
         ],
         "exclusions": [
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What should be the disability percentage of the parents?",
-                "answer": "The disability of the applicant\u2019s father/ mother should be 40% or above."
+                "answer": "The disability of the applicant’s father/ mother should be 40% or above."
             },
             {
                 "question": "Is this scheme only for a resident of Kerala State?",
@@ -115,5 +115,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "002011"
 }

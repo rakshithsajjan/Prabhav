@@ -7,7 +7,7 @@
         "beneficiary": "Eligible Information Technology Units",
         "details": "Launched in 2018, the 'Power Subsidy Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Power Subsidy to the eligible Information Technology Units in the State of Goa. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
         "benefits": [
-            "20% subsidy on power bills (on the power charges, excluding any duty and taxes, but not on the total bill), subject to a maximum of \u20b9 5,00,000 per annum per Unit whichever is lower.",
+            "20% subsidy on power bills (on the power charges, excluding any duty and taxes, but not on the total bill), subject to a maximum of ₹ 5,00,000 per annum per Unit whichever is lower.",
             "The subsidy will be provided for a period of 3 years from the date of commencement of operations or from the date of notification of this policy whichever is later."
         ],
         "eligibility": [
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What are the tangible benefits offered under the 'Power Subsidy Scheme,' and how are these benefits calculated?",
-                "answer": "Eligible units receive a 20% subsidy on power bills, up to a maximum of \u20b95,00,000 per annum per unit. This subsidy applies to power charges, excluding duty and taxes but not on the total bill."
+                "answer": "Eligible units receive a 20% subsidy on power bills, up to a maximum of ₹5,00,000 per annum per unit. This subsidy applies to power charges, excluding duty and taxes but not on the total bill."
             },
             {
                 "question": "Could you elaborate on the duration for which the subsidy is provided under the 'Power Subsidy Scheme'?",
@@ -102,5 +102,6 @@
             "Information Technology",
             "Goa"
         ]
-    }
+    },
+    "id": "001475"
 }

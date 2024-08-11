@@ -7,8 +7,8 @@
         "beneficiary": "Construction Workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Nirman Shramikon Ke Bacchon Hetu Nishulk Ganvesh Evam Pustak Copy Hetu Sahaayata Raashi Yojana' for Construction Workers on 09 December 2022. The main objective of the scheme to provide financial assistance for the purpose of providing educational aids like uniforms and stationery.",
         "benefits": [
-            "Classes 1 to 8: \u20b9 1,000/-",
-            "Classes 9 to 12: \u20b9 2,000/-"
+            "Classes 1 to 8: ₹ 1,000/-",
+            "Classes 9 to 12: ₹ 2,000/-"
         ],
         "eligibility": [
             "Applicant must be a registered construction worker under the Chhattisgarh Building and Other Construction Workers Welfare Board.",
@@ -44,11 +44,11 @@
             },
             {
                 "question": "What benefits are provided for class 1 to 8 students?",
-                "answer": "Amount : \u20b9 1,000/-"
+                "answer": "Amount : ₹ 1,000/-"
             },
             {
                 "question": "What benefits are provided for class 9 to 12 students?",
-                "answer": "Amount : \u20b9 2,000/-"
+                "answer": "Amount : ₹ 2,000/-"
             },
             {
                 "question": "What is the procedure to apply for the scheme?",
@@ -78,5 +78,6 @@
             "Financial Assistance",
             "School Uniform"
         ]
-    }
+    },
+    "id": "001364"
 }

@@ -5,9 +5,9 @@
         "department": "Micro Small and Medium Enterprises Department",
         "type": "Subsidy",
         "beneficiary": "Micro, small, and medium manufacturing enterprises",
-        "details": "The scheme 'Subsidy for Asset Creation for Intellectual Property: Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in India or Abroad' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced to incentivize MSMEs to innovate and create intellectual property in India and Abroad as a differentiator. No documents are required to avail of the benefits for reimbursement up to \u20b91,00,000.",
+        "details": "The scheme 'Subsidy for Asset Creation for Intellectual Property: Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in India or Abroad' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced to incentivize MSMEs to innovate and create intellectual property in India and Abroad as a differentiator. No documents are required to avail of the benefits for reimbursement up to ₹1,00,000.",
         "benefits": [
-            "50% subsidy on the cost of applying for Trade Mark Registration including the cost of the first-time maintenance fee of the granted application, subject to a maximum of \u20b9 25,000 per Trade Mark or Geographical Indications registered."
+            "50% subsidy on the cost of applying for Trade Mark Registration including the cost of the first-time maintenance fee of the granted application, subject to a maximum of ₹ 25,000 per Trade Mark or Geographical Indications registered."
         ],
         "eligibility": [
             "All new and existing micro, small and medium manufacturing enterprises including clusters located anywhere in Tamil Nadu."
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the maximum subsidy amount provided for Trade Mark Registration or Geographical Indications?",
-                "answer": "The maximum subsidy provided is \u20b925,000 per Trade Mark or Geographical Indication registered under the scheme."
+                "answer": "The maximum subsidy provided is ₹25,000 per Trade Mark or Geographical Indication registered under the scheme."
             },
             {
                 "question": "Is there a specific online portal for submitting applications?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "How much reimbursement can an eligible enterprise receive under the scheme?",
-                "answer": "Eligible enterprises can receive reimbursement up to \u20b91,00,000 for the cost of Trade Mark Registration, including the maintenance fee, with a maximum subsidy of \u20b925,000 per Trade Mark or Geographical Indication registered."
+                "answer": "Eligible enterprises can receive reimbursement up to ₹1,00,000 for the cost of Trade Mark Registration, including the maintenance fee, with a maximum subsidy of ₹25,000 per Trade Mark or Geographical Indication registered."
             }
         ],
         "sources": [
@@ -104,5 +104,6 @@
             "Property",
             "Trademark"
         ]
-    }
+    },
+    "id": "001873"
 }

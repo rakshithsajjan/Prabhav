@@ -5,9 +5,9 @@
         "department": "Social Welfare and Nutritious Meal Programme Department",
         "type": "Pension",
         "beneficiary": "Destitute differently-abled persons aged 45 years and above with a disability of 60% and above",
-        "details": "The 'Destitute Differently Abled Pension Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to provide a pension of \u20b91,000/- to differently-abled persons with disability 60% and above. One free saree to females and one free dhoti to males is given on Pongal and Diwali. A nutritious meal is provided to the beneficiaries.",
+        "details": "The 'Destitute Differently Abled Pension Scheme' was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to provide a pension of ₹1,000/- to differently-abled persons with disability 60% and above. One free saree to females and one free dhoti to males is given on Pongal and Diwali. A nutritious meal is provided to the beneficiaries.",
         "benefits": [
-            "\u20b91,000/- per month pension",
+            "₹1,000/- per month pension",
             "One free dhoti to a male pensioner during Pongal and Deepavali",
             "One free saree to a female pensioner during Pongal and Deepavali",
             "2kg/month of rice to those taking nutritious meal",
@@ -20,7 +20,7 @@
             "The applicant should not have any source of income or means of subsistence to support",
             "The applicant should not be a habitual beggar",
             "The applicant should not be supported by a son or son's son aged 20 years or above",
-            "The applicant should not possess property valued at more than \u20b95000/-"
+            "The applicant should not possess property valued at more than ₹5000/-"
         ],
         "exclusions": [],
         "application_process": "Offline. The interested applicant should visit (during office hours) the Special Tahsildar/Village Administrative Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Alternatively, the interested applicant can apply using a white paper. After filling in all mandatory fields and attaching copies of all required documents, the applicant should submit the application form to the Special Tahsildar/Village Administrative Officer and request a receipt or acknowledgment.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "\u20b91,000 per month is provided as pension."
+                "answer": "₹1,000 per month is provided as pension."
             },
             {
                 "question": "What are the age criteria for eligibility in this scheme?",
@@ -89,5 +89,6 @@
             "Financial Assistance",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "000379"
 }

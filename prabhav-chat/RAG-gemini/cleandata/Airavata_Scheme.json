@@ -19,7 +19,7 @@
             "The applicant should be a resident of Karnataka.",
             "The applicant should be above 21 years of age.",
             "The applicant must hold a valid driving license and a cab badge.",
-            "The applicant\u2019s family annual income should not exceed Rs. 5,00,000/-.",
+            "The applicant’s family annual income should not exceed Rs. 5,00,000/-.",
             "Applicant will be considered ineligible if they/their family member has earlier availed a subsidy from the Corporation/Government of Karnataka exceeding Rs.1,00,000.",
             "The selection of applicants will be based on merit."
         ],
@@ -78,5 +78,6 @@
             "Transport",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000069"
 }

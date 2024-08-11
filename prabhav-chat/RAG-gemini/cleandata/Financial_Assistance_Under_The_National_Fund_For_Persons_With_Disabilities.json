@@ -21,7 +21,7 @@
             "The organization must have experience of at least 2 years in organizing exhibition/workshops in marketing products/paintings.",
             "The applicant must be a Person with Disability.",
             "The percentage of disability must be 40% or more.",
-            "The Total Annual Income of Family (from all sources) of the applicant must not exceed - \u20b9 3.00 Lakh per Annum (if participating in National Events and National IT Challenge); \u20b9 6.00 Lakh per Annum (if participating in International Events).",
+            "The Total Annual Income of Family (from all sources) of the applicant must not exceed - ₹ 3.00 Lakh per Annum (if participating in National Events and National IT Challenge); ₹ 6.00 Lakh per Annum (if participating in International Events).",
             "The applicant must have either won medals in sporting events or graded as outstanding / promising artist (as per the instructions of Ministry of Culture) during the last three years.",
             "The applicant must NOT have participated in a similar event before.",
             "The applicant must have high support needs as recommended by the Assessment Board."
@@ -100,5 +100,6 @@
             "Financial Assistance",
             "PwD"
         ]
-    }
+    },
+    "id": "000553"
 }

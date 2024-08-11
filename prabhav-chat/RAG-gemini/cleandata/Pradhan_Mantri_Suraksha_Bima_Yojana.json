@@ -68,7 +68,7 @@
             },
             {
                 "question": "How Will The Premium Be Paid?",
-                "answer": "The premium will be deducted from the account holder\u2019s bank / Post office account through \u2018auto debit\u2019 as per the consent given on enrolment."
+                "answer": "The premium will be deducted from the account holder’s bank / Post office account through ‘auto debit’ as per the consent given on enrolment."
             },
             {
                 "question": "Can Eligible Individuals Who Fail To Join The Scheme In The Initial Year Join In Subsequent Years?",
@@ -110,5 +110,6 @@
             "Accident Coverage",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001500"
 }

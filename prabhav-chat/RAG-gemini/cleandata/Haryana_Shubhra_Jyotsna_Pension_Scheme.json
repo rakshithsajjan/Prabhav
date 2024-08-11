@@ -5,9 +5,9 @@
         "department": "General Administration Department, Government of Haryana",
         "type": "Pension",
         "beneficiary": "Residents of Haryana who participated actively during the period of emergency",
-        "details": "The scheme was launched on 16th April 2018 to provide a monthly pension of \u20b910,000/- to residents of Haryana who faced imprisonment during the emergency period from 25.06.1975 to 21.03.1977 under the MISA Act, 1971 and/or Defence of India Act, 1962.",
+        "details": "The scheme was launched on 16th April 2018 to provide a monthly pension of ₹10,000/- to residents of Haryana who faced imprisonment during the emergency period from 25.06.1975 to 21.03.1977 under the MISA Act, 1971 and/or Defence of India Act, 1962.",
         "benefits": [
-            "Monthly pension of \u20b910,000/- for eligible residents of Haryana."
+            "Monthly pension of ₹10,000/- for eligible residents of Haryana."
         ],
         "eligibility": [
             "Residents of Haryana who participated actively during the emergency and faced imprisonment.",
@@ -35,7 +35,7 @@
         "faqs": [
             {
                 "question": "What is the 'Haryana Shubhra Jyotsna Pension Scheme' scheme?",
-                "answer": "The scheme provides a monthly pension of \u20b910,000/- to residents of Haryana who faced imprisonment during the emergency period."
+                "answer": "The scheme provides a monthly pension of ₹10,000/- to residents of Haryana who faced imprisonment during the emergency period."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Eligible residents will receive a monthly pension of \u20b910,000/-."
+                "answer": "Eligible residents will receive a monthly pension of ₹10,000/-."
             },
             {
                 "question": "Is it compulsory to produce the jail certificate?",
@@ -102,5 +102,6 @@
             "Imprisonment",
             "Pension"
         ]
-    }
+    },
+    "id": "000766"
 }

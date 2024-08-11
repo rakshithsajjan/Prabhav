@@ -5,16 +5,16 @@
         "department": "Ministry of Education",
         "type": "Scholarship",
         "beneficiary": "University rank holders at the undergraduate level",
-        "details": "University Grants Commission (UGC), Department of Higher Education (DoHE) introduced a Post-Graduate Merit Scholarship Scheme for University rank holders both in General and Honours Courses at the Undergraduate level. The scholarship may be tenable for a period of two years to enable the rank holders of each university at the undergraduate level to pursue their Master\u2019s Degree. The purpose of this scheme is to attract talent for pursuing postgraduate studies besides strengthening the basic subjects \u2013 General as well as Honours, at the Undergraduate level.",
+        "details": "University Grants Commission (UGC), Department of Higher Education (DoHE) introduced a Post-Graduate Merit Scholarship Scheme for University rank holders both in General and Honours Courses at the Undergraduate level. The scholarship may be tenable for a period of two years to enable the rank holders of each university at the undergraduate level to pursue their Master’s Degree. The purpose of this scheme is to attract talent for pursuing postgraduate studies besides strengthening the basic subjects – General as well as Honours, at the Undergraduate level.",
         "benefits": [
-            "Each awardee will be provided a scholarship of \u20b9 2,000/- p.m. for a period of two years.",
+            "Each awardee will be provided a scholarship of ₹ 2,000/- p.m. for a period of two years.",
             "Total number of scholarships in the first academic year would be 1800 for General Courses and 575 for Honours Courses."
         ],
         "eligibility": [
             "First and Second Rank holders at UG level in General Courses.",
             "First Rank holders in Honours Courses.",
             "Minimum of 60% marks at the undergraduate level.",
-            "Regular, full-time Master\u2019s Degree course in any recognized university or postgraduate college.",
+            "Regular, full-time Master’s Degree course in any recognized university or postgraduate college.",
             "Age limit of 30 years at the time of admission to the PG course."
         ],
         "exclusions": [
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What Is The Amount Of Financial Assistance Provided In This Scheme?",
-                "answer": "Each awardee will be provided a scholarship of \u20b9 2,000/- p.m. for a period of two years."
+                "answer": "Each awardee will be provided a scholarship of ₹ 2,000/- p.m. for a period of two years."
             },
             {
                 "question": "Is This Scholarship Subject To Securing A Minimum Of Marks At The Undergraduate Level?",
@@ -67,5 +67,6 @@
             "Education",
             "UGC"
         ]
-    }
+    },
+    "id": "001464"
 }

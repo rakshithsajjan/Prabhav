@@ -8,8 +8,8 @@
         "details": "The scheme 'AGR-50 Scheme-Assistance to Purchase Tractors' was started by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat in the year 2011-12. The scheme was implemented for the farmers to help in buying the tractor in the state. Further, the scheme has been started in the state, considering the tractor's importance, to increase farm mechanization in the state and the demand of farmers from the society. The cost of the tractor was different in the whole state. As a result, small-scale farmers who could not negotiate had to pay a higher price. In order to become available to all the farmers in the state at a price and competitive prices in the state, the model of the tractor companies has been empanelled from the year 2014-15. A tractor is an essential tool for expanding farm mechanization and increasing farm power availability. To adopt power-operated tools/impalements farmers must have a tractor, so assistance is given to farmers for the purchase of tractor. This scheme is a 100% state-sponsored scheme.",
         "benefits": [
             "The financial assistance is given to farmers for the purchase of tractors as below:",
-            "Upto 40 PTO HP Model Tractors: 25% of expense or \u20b945,000/-, whichever is less.",
-            "Above 40 PTO HP and up to 60 PTO HP Model Tractors: 25% of expense or \u20b960,000/-, whichever is less."
+            "Upto 40 PTO HP Model Tractors: 25% of expense or ₹45,000/-, whichever is less.",
+            "Above 40 PTO HP and up to 60 PTO HP Model Tractors: 25% of expense or ₹60,000/-, whichever is less."
         ],
         "eligibility": [
             "The beneficiary should be a permanent resident of Gujarat State.",
@@ -98,5 +98,6 @@
             "Mechanization",
             "Tractor"
         ]
-    }
+    },
+    "id": "000006"
 }

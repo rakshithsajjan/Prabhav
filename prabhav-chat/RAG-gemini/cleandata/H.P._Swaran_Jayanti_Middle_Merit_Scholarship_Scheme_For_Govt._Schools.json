@@ -7,9 +7,9 @@
         "beneficiary": "Student",
         "details": "The scheme 'H.P. Swaran Jayanti Middle Merit Scholarship Scheme for Govt. Schools' was launched by the Department of Elementary Education, Government of Himachal Pradesh for students studying in Class V is meant to identify the talent and nurture it at an early stage. The meritorious students for the award of benefits under the scheme will be selected through a state-level examination. The examination will be conducted every year at the state level by the SCERT, Solan (H.P.). A total of 100 scholarships can be distributed among twelve districts of the State, determining the district quota based on an average of the last three years' enrollment in class five (as per UDISE data of the latest three years) of the Government Schools in the State.",
         "benefits": [
-            "\u20b94000/- per month (for 12 months, in 6th class)",
-            "\u20b95000/- per month (for 12 months, in 7th class)",
-            "\u20b96000/- per month (for 12 months, in 8th class)"
+            "₹4000/- per month (for 12 months, in 6th class)",
+            "₹5000/- per month (for 12 months, in 7th class)",
+            "₹6000/- per month (for 12 months, in 8th class)"
         ],
         "eligibility": [
             "All the students studying in Class 5th as regular students in the Government Schools are eligible to apply for the State Level examination to be conducted by the SCERT, Solan (H.P.).",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "How much will the scholarship amount be given to the selected students?",
-                "answer": "The scholarship amount of \u20b94000/-, \u20b95000/- & \u20b96000/- per month in Class 6th, Class 7th & Class 8th will be given to the selected students respectively for 12 months."
+                "answer": "The scholarship amount of ₹4000/-, ₹5000/- & ₹6000/- per month in Class 6th, Class 7th & Class 8th will be given to the selected students respectively for 12 months."
             },
             {
                 "question": "What is the duration of the scholarship?",
@@ -97,5 +97,6 @@
             "Himachal Pradesh",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000755"
 }

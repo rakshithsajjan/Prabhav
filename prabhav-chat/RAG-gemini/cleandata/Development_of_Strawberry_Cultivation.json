@@ -2,10 +2,10 @@
     "content": {
         "title": "Development of Strawberry Cultivation",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmers",
-        "details": "The scheme \u201cDevelopment of Strawberry Cultivation\u201d was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to provide farmers with quality and improved varieties of strawberry planting materials so as to encourage area expansion under this crop such that commercialization horticulture under this crop is achieved.",
+        "details": "The scheme “Development of Strawberry Cultivation” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to provide farmers with quality and improved varieties of strawberry planting materials so as to encourage area expansion under this crop such that commercialization horticulture under this crop is achieved.",
         "benefits": [
             "100% assistance to the selected beneficiaries for purchasing good quality materials of strawberry runners.",
             "100% assistance for the purchase of mulching for demonstration.",
@@ -31,7 +31,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department Of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department Of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "What is the pattern of assistance?",
@@ -46,7 +46,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers shall be selected on a first come first serve basis."
             }
         ],
@@ -65,5 +65,6 @@
             "Horticulture",
             "Strawberry Cultivation"
         ]
-    }
+    },
+    "id": "000389"
 }

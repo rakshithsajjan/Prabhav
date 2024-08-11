@@ -7,9 +7,9 @@
         "beneficiary": "Visually Impaired Students",
         "details": "'Readers Allowance to Visually Impaired Persons' scheme was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to provide readers allowance to visually impaired students, specific allowance rates based on the education level ranging from secondary school to postgraduate and professional courses.",
         "benefits": [
-            "9th To 10th Standard - \u20b93,000/- (per annum)",
-            "Degree Courses - \u20b95,000/- (per annum)",
-            "Post Graduate and Professional Courses - \u20b96,000/- (per annum)"
+            "9th To 10th Standard - ₹3,000/- (per annum)",
+            "Degree Courses - ₹5,000/- (per annum)",
+            "Post Graduate and Professional Courses - ₹6,000/- (per annum)"
         ],
         "eligibility": [
             "The applicant should be a visually impaired student.",
@@ -29,15 +29,15 @@
             },
             {
                 "question": "How much allowance is provided to visually impaired students in IX to XII standard?",
-                "answer": "Visually impaired students in IX to XII standard receive an allowance of \u20b93000/- per annum."
+                "answer": "Visually impaired students in IX to XII standard receive an allowance of ₹3000/- per annum."
             },
             {
                 "question": "What is the allowance amount for degree courses?",
-                "answer": "For degree courses, the allowance amount is \u20b95000/- per annum."
+                "answer": "For degree courses, the allowance amount is ₹5000/- per annum."
             },
             {
                 "question": "How much allowance is granted for postgraduate and professional courses?",
-                "answer": "Postgraduate and professional course students are granted \u20b96000/- per annum."
+                "answer": "Postgraduate and professional course students are granted ₹6000/- per annum."
             },
             {
                 "question": "Who is eligible to receive the readers allowance?",
@@ -84,5 +84,6 @@
             "Student",
             "Visually Impaired"
         ]
-    }
+    },
+    "id": "001579"
 }

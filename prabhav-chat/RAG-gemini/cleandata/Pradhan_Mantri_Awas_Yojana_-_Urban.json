@@ -13,14 +13,14 @@
             "Subsidy for Beneficiary-Led individual house construction/enhancement: For individuals of EWS category requiring individual house (separate project for such beneficiaries)"
         ],
         "eligibility": [
-            "The family identifies as one of the following - Economically Weaker Section (EWS): households with annual income up to \u20b9 3,00,000; Low Income Group (LIG): households with annual income between \u20b9 3,00,001 and \u20b9 6,00,000; Middle Income Group-1 (MIG-1): households with annual income between \u20b9 6,00,001 and \u20b9 12,00,000; Middle Income Group-2 (MIG-2): households with annual income between \u20b9 12,00,001 and \u20b9 18,00,000.",
+            "The family identifies as one of the following - Economically Weaker Section (EWS): households with annual income up to ₹ 3,00,000; Low Income Group (LIG): households with annual income between ₹ 3,00,001 and ₹ 6,00,000; Middle Income Group-1 (MIG-1): households with annual income between ₹ 6,00,001 and ₹ 12,00,000; Middle Income Group-2 (MIG-2): households with annual income between ₹ 12,00,001 and ₹ 18,00,000.",
             "The applicant or his/her family members must not be owning a pucca house in any part of the country.",
             "The family must comprise of husband/wife and unmarried children.",
             "The town/city in which the family resides must be covered under the scheme.",
             "The family MUST NOT have previously availed the benefits of any housing-related schemes set up by the Government of India."
         ],
         "exclusions": [],
-        "application_process": "Online and Offline. Step 1: Visit the Official Website of PMAY-Urban. Step 2: Select the \u2018Citizen Assessment\u2019 option and click on the applicable choice: 'For Slum Dwellers' or 'Benefits under other three components'. Step 3: Enter your Aadhaar Card details. This will redirect you to the online application form. In the form, fill in all the mandatory details, and upload the required documents. Step 4: At the bottom of the form, click \u2018Save\u2019 and enter the Captcha code. The application is now complete and a print can be taken at this stage for future reference.",
+        "application_process": "Online and Offline. Step 1: Visit the Official Website of PMAY-Urban. Step 2: Select the ‘Citizen Assessment’ option and click on the applicable choice: 'For Slum Dwellers' or 'Benefits under other three components'. Step 3: Enter your Aadhaar Card details. This will redirect you to the online application form. In the form, fill in all the mandatory details, and upload the required documents. Step 4: At the bottom of the form, click ‘Save’ and enter the Captcha code. The application is now complete and a print can be taken at this stage for future reference.",
         "documents_required": [
             "Aadhaar Number (or Aadhaar/ Aadhaar Enrolment ID)",
             "Self-Certificate / Affidavit as Proof of Income.",
@@ -32,7 +32,7 @@
             "IT Return Statements",
             "Property Valuation Certificate",
             "Bank Details and Account Statement",
-            "Affidavit / Proof that the applicant does not own a \u2018pucca\u2019 house",
+            "Affidavit / Proof that the applicant does not own a ‘pucca’ house",
             "Affidavit / Proof that the applicant is constructing a home under the scheme"
         ],
         "faqs": [
@@ -49,7 +49,7 @@
                 "answer": "Preference will be given to differently-abled persons, senior citizens, SCs, STs, OBCs, Minority, single women, transgender and other weaker & vulnerable sections of the society."
             },
             {
-                "question": "Will I still be eligible to apply for government\u2019s ongoing or upcoming schemes if I apply for PMAY-U?",
+                "question": "Will I still be eligible to apply for government’s ongoing or upcoming schemes if I apply for PMAY-U?",
                 "answer": "The benefits of all existing and future rural schemes will not be denied to a beneficiary solely on the grounds that she/he has availed a house under PMAY(U)."
             },
             {
@@ -70,5 +70,6 @@
             "Sanitation",
             "Urban"
         ]
-    }
+    },
+    "id": "001480"
 }

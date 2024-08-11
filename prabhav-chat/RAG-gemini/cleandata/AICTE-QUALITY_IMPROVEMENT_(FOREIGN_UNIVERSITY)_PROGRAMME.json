@@ -7,12 +7,12 @@
         "beneficiary": "Faculty members of AICTE recognized Degree Level Colleges",
         "details": "The All India Council for Technical Education in its 55th Meeting of the Council held on 14th August 2018 approved the Quality Improvement Programme (Foreign University) (QIP-FU). The QIP(FU) is an extension of the QIP program launched by the Government of India in the year 1970. Under QIP (FU), the AICTE shall provide scholarships to the faculty who fulfils eligibility criteria and obtains admission in the Doctoral Degree programme leading to award of PhD degree in any of the enlisted top 500 universities/institutes (based on the QS ranking, the Times ranking and the Shanghai ranking) in the world.",
         "benefits": [
-            "Scholarship of \u20b9 25,000/- per month."
+            "Scholarship of ₹ 25,000/- per month."
         ],
         "eligibility": [
             "A full time regular/permanent faculty members of AICTE recognized Degree Level Colleges.",
             "The candidate should possess three years teaching experience at graduate level.",
-            "Should have a Master\u2019s degree in the appropriate branch.",
+            "Should have a Master’s degree in the appropriate branch.",
             "Should have an admission offer in Ph.D programme from the Foreign University of Listed ranking system in previous five years."
         ],
         "exclusions": [],
@@ -77,5 +77,6 @@
             "PhD",
             "Foreign University"
         ]
-    }
+    },
+    "id": "000017"
 }

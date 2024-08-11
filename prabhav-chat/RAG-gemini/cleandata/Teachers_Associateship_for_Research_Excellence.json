@@ -7,8 +7,8 @@
         "beneficiary": "Researchers holding a regular academic/research position",
         "details": "The TARE scheme provides a research fellowship and grant for researchers to conduct collaborative research work at host institutions.",
         "benefits": [
-            "Research fellowship of \u20b960,000/- per year",
-            "Research grant of \u20b95 lakhs per annum",
+            "Research fellowship of ₹60,000/- per year",
+            "Research grant of ₹5 lakhs per annum",
             "Overheads for project implementation"
         ],
         "eligibility": [
@@ -61,5 +61,6 @@
             "Academic Research",
             "Funding"
         ]
-    }
+    },
+    "id": "001923"
 }

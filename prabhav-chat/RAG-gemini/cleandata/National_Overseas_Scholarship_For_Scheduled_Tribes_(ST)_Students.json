@@ -19,7 +19,7 @@
         "eligibility": [
             "The applicant must be from a Scheduled Tribe (ST).",
             "The applicant must be pursuing a post-graduate course (Master, Ph.D., or Post-Doctoral Research) from a foreign institute/university.",
-            "The annual income of the family of the applicant (from all sources) should not be greater than \u20b9 6,00,000/-.",
+            "The annual income of the family of the applicant (from all sources) should not be greater than ₹ 6,00,000/-.",
             "The applicant must have secured at least 55% marks or equivalent grade in the qualifying examination.",
             "The applicant must be the only child in the family who is availing/has availed of this scholarship.",
             "Age criteria apply based on the level of study."
@@ -58,7 +58,7 @@
             },
             {
                 "question": "Is there any family income criteria required for availing the Scholarship?",
-                "answer": "The Total family\u2019s income from all sources of the candidate or his/her parents/guardians or spouse should not exceed Rs. 6,00,000/- per annum."
+                "answer": "The Total family’s income from all sources of the candidate or his/her parents/guardians or spouse should not exceed Rs. 6,00,000/- per annum."
             }
         ],
         "sources": [
@@ -79,5 +79,6 @@
                 "url": "https://tribal.nic.in/downloads/circulars/NOS-advertisment%20english%20version-2022-23.pdf"
             }
         ]
-    }
+    },
+    "id": "001319"
 }

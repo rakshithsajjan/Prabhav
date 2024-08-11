@@ -5,14 +5,14 @@
         "department": "Department of Women and Child Development",
         "type": "Accommodation",
         "beneficiary": "Women and Girl Students",
-        "details": "The scheme 'Government Hostel for Working Women/ Girl Students' is an initiative by the Department of Women and Child Development, Government of Puducherry. The scheme aims to provide suitable, inexpensive, and safe accommodation to women employed in government offices, organizations, and firms, as well as girl students studying in colleges. Essential facilities such as a cot with mattress, lockable cupboards, television, newspapers, magazines, etc., are provided in a comfortable environment. The monthly rent for working women is \u20b9650, and for girl students, it is \u20b9500. The cost of food is divided among the inmates.",
+        "details": "The scheme 'Government Hostel for Working Women/ Girl Students' is an initiative by the Department of Women and Child Development, Government of Puducherry. The scheme aims to provide suitable, inexpensive, and safe accommodation to women employed in government offices, organizations, and firms, as well as girl students studying in colleges. Essential facilities such as a cot with mattress, lockable cupboards, television, newspapers, magazines, etc., are provided in a comfortable environment. The monthly rent for working women is ₹650, and for girl students, it is ₹500. The cost of food is divided among the inmates.",
         "benefits": [
-            "Affordable Monthly Rent: \u20b9650 for working women, \u20b9500 for girl students.",
+            "Affordable Monthly Rent: ₹650 for working women, ₹500 for girl students.",
             "Furnished Accommodation with Essential Facilities: a cot with mattress, lockable cupboards, television, newspapers, magazines, etc."
         ],
         "eligibility": [
             "The applicant should either be a woman employed in government office/organizations/firm, or a girl student studying in college.",
-            "The income of the working woman should not exceed \u20b95000 per month."
+            "The income of the working woman should not exceed ₹5000 per month."
         ],
         "exclusions": [],
         "application_process": "The interested applicant should visit (during office hours) the Office/ Sub-Office of the Department of Women and Child Development and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Alternatively, the interested applicant should take print of the prescribed format of the application form. Fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form along with the documents to the Deputy Director (Women Development) or the Child Development Project Officer (depending on the location), at least 30 days before the proposed marriage date. Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "How is the monthly rent structured for both working women and girl students?",
-                "answer": "The monthly rent is \u20b9650 for working women and \u20b9500 for girl students seeking accommodation under the scheme."
+                "answer": "The monthly rent is ₹650 for working women and ₹500 for girl students seeking accommodation under the scheme."
             },
             {
                 "question": "Who issues the Certificate of identity with a photo if the Aadhaar Card is not available?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the income limit for a working woman to qualify for the scheme?",
-                "answer": "The income of the working woman should not exceed \u20b95000 per month."
+                "answer": "The income of the working woman should not exceed ₹5000 per month."
             },
             {
                 "question": "What is the eligibility criterion for a girl student to benefit from the scheme?",
@@ -54,11 +54,11 @@
             },
             {
                 "question": "How much is the monthly rent for girl students enrolled in the scheme?",
-                "answer": "Girl students are charged a monthly rent of \u20b9500 for the accommodation."
+                "answer": "Girl students are charged a monthly rent of ₹500 for the accommodation."
             },
             {
                 "question": "What is the monthly rent for working women under the scheme?",
-                "answer": "Working women are required to pay a monthly rent of \u20b9650 for availing the accommodation."
+                "answer": "Working women are required to pay a monthly rent of ₹650 for availing the accommodation."
             },
             {
                 "question": "What are the essential facilities provided in the accommodation?",
@@ -90,5 +90,6 @@
             "Student",
             "Women"
         ]
-    }
+    },
+    "id": "000699"
 }

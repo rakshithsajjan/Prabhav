@@ -41,15 +41,15 @@
         "faqs": [
             {
                 "question": "Where can I find details about the nearest nursery?",
-                "answer": "The details of the nursery can be found in the search box under the \u2018MIS\u2019 tab."
+                "answer": "The details of the nursery can be found in the search box under the ‘MIS’ tab."
             },
             {
                 "question": "Is it possible to find species available in a nursery?",
-                "answer": "Nursery-wise, species wise stock can be obtained from nursery database located under \u2018MIS\u2019 tab."
+                "answer": "Nursery-wise, species wise stock can be obtained from nursery database located under ‘MIS’ tab."
             },
             {
                 "question": "How can I find the availability of species of my choice?",
-                "answer": "The availability of species required can be ascertained by using \u2018Species Search\u2019 option available under \u2018MIS\u2019 tab."
+                "answer": "The availability of species required can be ascertained by using ‘Species Search’ option available under ‘MIS’ tab."
             },
             {
                 "question": "Where can I find information regarding nursery at district level?",
@@ -61,7 +61,7 @@
             },
             {
                 "question": "Where can I provide feedback about the programme?",
-                "answer": "Feedback on TKHH can be provided from \u2018Contact us\u2019 tab under \u2018feedback\u2019 option."
+                "answer": "Feedback on TKHH can be provided from ‘Contact us’ tab under ‘feedback’ option."
             }
         ],
         "sources": [
@@ -76,5 +76,6 @@
             "Green Cover",
             "Telangana"
         ]
-    }
+    },
+    "id": "000760"
 }

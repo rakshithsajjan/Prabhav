@@ -7,7 +7,7 @@
         "beneficiary": "Girl students studying in classes VI to XII",
         "details": "The scheme 'Girl Students Health & Hygiene Scheme' was announced by the Department of School Education, Govt. of Arunachal Pradesh in 2013. This scheme is basically providing incentives towards the beneficiaries of girl child students studying in classes VI to XII only which institutes/schools are fully run by the State Govt. and Govt. Aided Schools in Arunachal Pradesh. The main aim and objective of this scheme are to be retained and continue in the schools during the occurrence of their menstrual period. Further, this scheme increases awareness among adolescent girls on Menstrual Hygiene.",
         "benefits": [
-            "\u20b950/- per student per month in all Govt. schools through DBT (all year amount is credited to the account of the beneficiary)"
+            "₹50/- per student per month in all Govt. schools through DBT (all year amount is credited to the account of the beneficiary)"
         ],
         "eligibility": [
             "All girl students from class VI to XII studying in government and government-aided schools in Arunachal Pradesh."
@@ -34,7 +34,7 @@
             },
             {
                 "question": "What is the benefit of this scheme?",
-                "answer": "\u20b950/- per month is given to each girl student in all Govt. schools through DBT."
+                "answer": "₹50/- per month is given to each girl student in all Govt. schools through DBT."
             },
             {
                 "question": "Who is eligible under this scheme?",
@@ -66,5 +66,6 @@
             "Sanitary Napkin",
             "Student"
         ]
-    }
+    },
+    "id": "000680"
 }

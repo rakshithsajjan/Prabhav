@@ -17,7 +17,7 @@
             "Students should have been admitted to the hostels attached to professional colleges or approved private hostels."
         ],
         "exclusions": [],
-        "application_process": "Online. Step 1: Visit the official website to register yourself by clicking on 'New Applicant registration' and fill in all the mandatory details (Applicant\u2019s Name, Username, Password, Email, and Mobile Number). Step 2: Now, you may Login by filling Login details. Step 3: Create your profile by filling in all your updated personal details like address, qualifications, etc. Step 4: After filling in 100% of the profile information, you may apply for the eligible schemes. After Scrutiny concerned college should forward his application to the concerned Asstt. Commissioner Social Welfare for sanction.",
+        "application_process": "Online. Step 1: Visit the official website to register yourself by clicking on 'New Applicant registration' and fill in all the mandatory details (Applicant’s Name, Username, Password, Email, and Mobile Number). Step 2: Now, you may Login by filling Login details. Step 3: Create your profile by filling in all your updated personal details like address, qualifications, etc. Step 4: After filling in 100% of the profile information, you may apply for the eligible schemes. After Scrutiny concerned college should forward his application to the concerned Asstt. Commissioner Social Welfare for sanction.",
         "documents_required": [
             "Aadhaar Number.",
             "Domicile Certificate of Maharashtra.",
@@ -70,5 +70,6 @@
             "Special Backward Classes",
             "Vimukta Jati And Nomadic Tribes"
         ]
-    }
+    },
+    "id": "001066"
 }

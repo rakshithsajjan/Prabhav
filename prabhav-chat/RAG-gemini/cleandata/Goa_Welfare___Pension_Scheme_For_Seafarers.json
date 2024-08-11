@@ -7,7 +7,7 @@
         "beneficiary": "Seafarers and their widows",
         "details": "The 'Goa Welfare / Pension Scheme for Seafarers, 2021' provides financial assistance to eligible seafarers and their widows. The scheme came into effect on June 18, 2021, and was scheduled to remain in force until November 30, 2021.",
         "benefits": [
-            "Gross Pension of \u20b92,500 per month"
+            "Gross Pension of ₹2,500 per month"
         ],
         "eligibility": [
             "Applicants must be bona fide residents of Goa by birth or have their birth registered in Goa.",
@@ -80,7 +80,7 @@
             },
             {
                 "question": "What does this scheme offer to its beneficiaries, and what is the amount of the pension provided?",
-                "answer": "This scheme provides a Gross Pension of \u20b92,500 per month to eligible beneficiaries."
+                "answer": "This scheme provides a Gross Pension of ₹2,500 per month to eligible beneficiaries."
             }
         ],
         "sources": [
@@ -95,5 +95,6 @@
             "Goa",
             "Welfare Scheme"
         ]
-    }
+    },
+    "id": "000690"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Tappers in Small Rubber Plantations",
         "details": "The scheme 'Pension Scheme for the Tappers in Small Rubber Plantations' was launched by the Rubber Board, Ministry of Commerce & Industry, Government of India to motivate tappers and retain them in the tapping job. The Rubber Board proposes to extend support to tappers through convergence with the pension scheme being implemented through the Kerala Small Plantations Workers Welfare Fund Scheme. The Board offers financial support to the tune of 50% of the yearly contribution for a maximum period of 5 years to tappers who enroll for the pension scheme. The scheme ensures a regular pension after the age of 60 years. This scheme is implemented as per Kerala Small Plantation Worker Fund Act 2008 and the modification if any, made in the act is applicable to the members who enroll under the scheme.",
         "benefits": [
-            "The enrolled member who remits their annual contribution continuously up to the age of 60 years will get a pension of \u20b91300/- per month.",
+            "The enrolled member who remits their annual contribution continuously up to the age of 60 years will get a pension of ₹1300/- per month.",
             "The members are also eligible for other benefits like family pension, financial assistance for permanent disability, Maternity Benefits, Medical Assistance, etc., and also other benefits as decided by the Government from time to time.",
             "The scheme ensures a regular pension after the age of 60 years."
         ],
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What is the pension amount that an enrolled member can expect upon reaching the age of 60 years?",
-                "answer": "Enrolled members who consistently remit their annual contributions up to the age of 60 years will receive a monthly pension of \u20b91300/-."
+                "answer": "Enrolled members who consistently remit their annual contributions up to the age of 60 years will receive a monthly pension of ₹1300/-."
             },
             {
                 "question": "Apart from the monthly pension, are there any additional benefits available to the members?",
@@ -71,7 +71,7 @@
             },
             {
                 "question": "What is the annual contribution required from each tapper under the scheme?",
-                "answer": "Each tapper is required to contribute \u20b9480 annually to the Pension Scheme for Tappers."
+                "answer": "Each tapper is required to contribute ₹480 annually to the Pension Scheme for Tappers."
             },
             {
                 "question": "Is there any contribution from the Rubber Board towards the scheme?",
@@ -79,7 +79,7 @@
             },
             {
                 "question": "What is the specific contribution amount that each tapper has to pay annually for the initial 5 years?",
-                "answer": "Each tapper needs to contribute \u20b9240 annually to the scheme for the initial 5 years, as the Rubber Board contributes the remaining 50%."
+                "answer": "Each tapper needs to contribute ₹240 annually to the scheme for the initial 5 years, as the Rubber Board contributes the remaining 50%."
             },
             {
                 "question": "How long does the Rubber Board contribute 50% of the annual contribution?",
@@ -106,5 +106,6 @@
             "Rubber Plantation",
             "Tapper"
         ]
-    }
+    },
+    "id": "001431"
 }

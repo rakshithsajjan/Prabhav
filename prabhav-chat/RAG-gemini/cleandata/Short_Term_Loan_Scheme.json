@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Tribe",
         "details": "'Short Term Loan Scheme' is a Loan Scheme by the Goa State Scheduled Tribes Finance and Development Corporation Limited, Department of Tribal Welfare, Government of Goa. Under this scheme, financial assistance/ loan is provided as a credit to individuals from the Scheduled Tribe (ST) Community to meet the immediate expenses towards Education, Medical and Business needs. The scheme aims to improve their standard of living and to bring them into the mainstream of society by fulfilling these needs.",
         "benefits": [
-            "Short Term Loan of up to \u20b9 1,00,000/- as an advance to meet the Financial requirement urgently for Business/ Education/ Medical Purposes."
+            "Short Term Loan of up to ₹ 1,00,000/- as an advance to meet the Financial requirement urgently for Business/ Education/ Medical Purposes."
         ],
         "eligibility": [
             "The applicant should be an individual from the Scheduled Tribe (ST) Community of the State of Goa.",
@@ -19,9 +19,9 @@
             "Scheduled Tribe (ST) Certificate, issued by the Competent Authority of the State of Goa.",
             "Bank Passbook.",
             "Photograph.",
-            "Salary Certificate / Pay Slip of one Surety along with surety affidavit on \u20b9 50/- stamp paper, One Photo and ID Proof of surety.",
+            "Salary Certificate / Pay Slip of one Surety along with surety affidavit on ₹ 50/- stamp paper, One Photo and ID Proof of surety.",
             "Aadhar Card.",
-            "Affidavit of the applicant on \u20b9 50/- Stamp paper regarding the amount of loan required and its purpose (If the applicant is below 18 years of age then either parents or guardian shall give the affidavit on behalf of their child)."
+            "Affidavit of the applicant on ₹ 50/- Stamp paper regarding the amount of loan required and its purpose (If the applicant is below 18 years of age then either parents or guardian shall give the affidavit on behalf of their child)."
         ],
         "faqs": [
             {
@@ -53,5 +53,6 @@
             "Loan",
             "Scheduled Tribe"
         ]
-    }
+    },
+    "id": "001784"
 }

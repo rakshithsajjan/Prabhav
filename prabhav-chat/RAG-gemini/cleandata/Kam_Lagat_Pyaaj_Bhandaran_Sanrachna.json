@@ -7,7 +7,7 @@
         "beneficiary": "Farmer",
         "details": "The Kam Lagat Pyaaj Bhandaran Sanrachna yojana under the Agriculture Department of the Rajasthan government provides subsidies and support, the scheme aims to assist farmers in constructing storage facilities for onions at affordable rates. This initiative seeks to address post-harvest losses, prolong the shelf life of onions, and stabilize market prices by ensuring adequate storage infrastructure. Ultimately, the scheme aims to enhance the income of onion farmers and contribute to the overall development of the agricultural sector.",
         "benefits": [
-            "Onion storage structure (25 Metric Ton capacity): 50% unit cost subsidy, max grant \u20b9 87,500/-."
+            "Onion storage structure (25 Metric Ton capacity): 50% unit cost subsidy, max grant ₹ 87,500/-."
         ],
         "eligibility": [
             "The applicant must be a native of Rajasthan.",
@@ -32,7 +32,7 @@
             },
             {
                 "question": "What is the subsidy provided for constructing onion storage structures?",
-                "answer": "The scheme offers a subsidy of 50% of the unit cost for the construction of onion storage structures, with a maximum grant of \u20b987,500/-."
+                "answer": "The scheme offers a subsidy of 50% of the unit cost for the construction of onion storage structures, with a maximum grant of ₹87,500/-."
             },
             {
                 "question": "What is the capacity of the onion storage structure supported under the scheme?",
@@ -83,5 +83,6 @@
             "Farming",
             "Vegetables"
         ]
-    }
+    },
+    "id": "000960"
 }

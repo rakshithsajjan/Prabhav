@@ -5,12 +5,12 @@
         "department": "Haryana Scheduled Castes Finance and Development Corporation (HSFDC)",
         "type": "Term Loan",
         "beneficiary": "Safai Karamcharis and their dependents",
-        "details": "The scheme 'Term Loan under NSKFDC' is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC). Under this scheme, loans are provided to Safai Karamcharis and their dependents for any viable income-generating activities with a maximum cost of up to \u20b915,00,000/- per beneficiary.",
+        "details": "The scheme 'Term Loan under NSKFDC' is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC). Under this scheme, loans are provided to Safai Karamcharis and their dependents for any viable income-generating activities with a maximum cost of up to ₹15,00,000/- per beneficiary.",
         "benefits": [
-            "Loans of up to \u20b915,00,000/- per beneficiary for various self-employment income-generating activities.",
-            "Beneficiaries can avail loans ranging from \u20b910,000 to \u20b915,00,000/-.",
+            "Loans of up to ₹15,00,000/- per beneficiary for various self-employment income-generating activities.",
+            "Beneficiaries can avail loans ranging from ₹10,000 to ₹15,00,000/-.",
             "Margin money @ 10% of the project cost.",
-            "Subsidy @ 50% of the total project cost (Maximum subsidy amount is \u20b910,000/-) for beneficiaries below the poverty line."
+            "Subsidy @ 50% of the total project cost (Maximum subsidy amount is ₹10,000/-) for beneficiaries below the poverty line."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -23,7 +23,7 @@
         "documents_required": [
             "Aadhaar Card",
             "Adequate Qualification and Experience Documents",
-            "Project Report (Above \u20b91,00,000/-)",
+            "Project Report (Above ₹1,00,000/-)",
             "Ration Card",
             "Safai Karamchari or Dependent of Safai Karamchari Certificate issued by competent authority",
             "Two-year-old valid Driving Licence in case of vehicle loan",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What is the maximum loan amount per beneficiary under the scheme?",
-                "answer": "The maximum loan amount is \u20b915,00,000 per beneficiary."
+                "answer": "The maximum loan amount is ₹15,00,000 per beneficiary."
             },
             {
                 "question": "What types of income-generating activities are covered under the scheme?",
@@ -56,11 +56,11 @@
             },
             {
                 "question": "What is the range of loans that beneficiaries can avail?",
-                "answer": "Beneficiaries can avail loans ranging from \u20b910,000 to \u20b915,00,000."
+                "answer": "Beneficiaries can avail loans ranging from ₹10,000 to ₹15,00,000."
             },
             {
                 "question": "Is there a subsidy provided under the scheme?",
-                "answer": "Yes, a subsidy of 50% of the total project cost (up to a maximum of \u20b910,000) is provided for beneficiaries living below the poverty line."
+                "answer": "Yes, a subsidy of 50% of the total project cost (up to a maximum of ₹10,000) is provided for beneficiaries living below the poverty line."
             },
             {
                 "question": "What is margin money in this scheme?",
@@ -100,5 +100,6 @@
             "Haryana",
             "NSKFDC"
         ]
-    }
+    },
+    "id": "001939"
 }

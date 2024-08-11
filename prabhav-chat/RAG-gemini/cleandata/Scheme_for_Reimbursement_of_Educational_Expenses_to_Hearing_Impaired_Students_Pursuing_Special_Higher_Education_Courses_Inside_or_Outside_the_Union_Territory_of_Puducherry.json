@@ -10,7 +10,7 @@
             "Reimbursement of entire fees from the first year of the course."
         ],
         "eligibility": [
-            "The applicant's annual income should be under \u20b92,00,000.",
+            "The applicant's annual income should be under ₹2,00,000.",
             "The applicant should have a disability of 40% and above.",
             "The applicant should be residing in the Union Territory of Puducherry since 5 years.",
             "The applicant should be enrolled in a full-time special higher education course in a government-recognized institution."
@@ -19,7 +19,7 @@
         "application_process": "Offline. The interested applicant should visit the Office/ Sub-Office of the Department of Social Welfare, request the hard copy of the prescribed format of the application form, fill in all mandatory fields, attach copies of all mandatory documents, and submit the application to the relevant authority.",
         "documents_required": [
             "Medical Certificate",
-            "Applicant\u2019s Photo",
+            "Applicant’s Photo",
             "Aadhaar Card",
             "Study Certificate",
             "Bonafide Certificate",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What documents are required during the application process?",
-                "answer": "Documents include a Medical Certificate, Applicant\u2019s Photo, Aadhaar Card, Study Certificate, Bonafide Certificate, and 10th and 12th Marksheets."
+                "answer": "Documents include a Medical Certificate, Applicant’s Photo, Aadhaar Card, Study Certificate, Bonafide Certificate, and 10th and 12th Marksheets."
             },
             {
                 "question": "What type of educational institutions are eligible for enrollment in this scheme?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the annual income criterion for eligibility?",
-                "answer": "To be eligible, the applicant's annual income should be under \u20b92,00,000."
+                "answer": "To be eligible, the applicant's annual income should be under ₹2,00,000."
             },
             {
                 "question": "What are the key benefits offered under this scheme?",
@@ -95,5 +95,6 @@
             "Financial Support",
             "Puducherry"
         ]
-    }
+    },
+    "id": "001706"
 }

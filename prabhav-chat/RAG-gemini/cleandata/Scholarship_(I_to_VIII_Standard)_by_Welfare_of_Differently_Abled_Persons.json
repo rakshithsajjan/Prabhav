@@ -7,8 +7,8 @@
         "beneficiary": "Differently-abled students",
         "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, launched the 'Scholarship for Students with Disabilities (Grades 1-8)' program. This initiative provides financial assistance to differently-abled students enrolled in government-recognized schools to help them purchase notebooks.",
         "benefits": [
-            "Scholarship for students studying from 1st to 5th standard: \u20b91,000/- per annum.",
-            "Scholarship for students studying from 6th to 8th standard: \u20b93,000/- per annum."
+            "Scholarship for students studying from 1st to 5th standard: ₹1,000/- per annum.",
+            "Scholarship for students studying from 6th to 8th standard: ₹3,000/- per annum."
         ],
         "eligibility": [
             "The beneficiary must be a student.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "Where should grievances be addressed?",
-                "answer": "Grievances should be addressed to the Deputy Director (Schemes), Office of The Commissionerate for Welfare of the Differently Abled No.5, Kamarajar Salai, Chennai \u2013 600 005."
+                "answer": "Grievances should be addressed to the Deputy Director (Schemes), Office of The Commissionerate for Welfare of the Differently Abled No.5, Kamarajar Salai, Chennai – 600 005."
             },
             {
                 "question": "Are only government recognized schools eligible for this scholarship?",
@@ -74,5 +74,6 @@
             "Education",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001744"
 }

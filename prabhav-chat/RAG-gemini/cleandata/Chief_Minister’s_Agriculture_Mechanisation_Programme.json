@@ -1,11 +1,11 @@
 {
     "content": {
-        "title": "Chief Minister\u2019s Agriculture Mechanisation Programme",
+        "title": "Chief Minister’s Agriculture Mechanisation Programme",
         "state": "Arunachal Pradesh",
         "department": "Agriculture",
         "type": "Subsidy",
         "beneficiary": "Farmer",
-        "details": "Raising Govt. assistance in consideration of the high cost of Farm Machineries shall be a boon in the entire farm operation in the state as more than 70% population is directly dependent on agriculture. Considering this, the existing Farm Mechanisation Programme (under implementation jointly by the Govt. of India and State Govt.) is renamed into CM\u2019s Agriculture Mechanisation Programme, which was approved by raising the State share subsidy against the distribution of Farm Machineries.",
+        "details": "Raising Govt. assistance in consideration of the high cost of Farm Machineries shall be a boon in the entire farm operation in the state as more than 70% population is directly dependent on agriculture. Considering this, the existing Farm Mechanisation Programme (under implementation jointly by the Govt. of India and State Govt.) is renamed into CM’s Agriculture Mechanisation Programme, which was approved by raising the State share subsidy against the distribution of Farm Machineries.",
         "benefits": [
             "Subsidized Agriculture Machinery",
             "The assistance of tractor subsidies to progressive farmers/ registered co-operative agriculture farming society/ unemployed agriculture and allied graduates belonging to APST in all the districts.",
@@ -88,5 +88,6 @@
             "Mechanisation",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000294"
 }

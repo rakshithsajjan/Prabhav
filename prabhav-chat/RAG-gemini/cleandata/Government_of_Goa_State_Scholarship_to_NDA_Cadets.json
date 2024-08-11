@@ -7,11 +7,11 @@
         "beneficiary": "Cadets undergoing training at the National Defence Academy (NDA)",
         "details": "The 'State Scholarship to NDA Cadets' is a scholarship scheme administered by the Directorate of Higher Education, Government of Goa. It provides financial assistance to cadets undergoing training at the National Defence Academy (NDA), Khadakwasla, Pune.",
         "benefits": [
-            "Monthly scholarship of \u20b91,000 during training period at NDA",
-            "One-time outfit allowance of \u20b912,000"
+            "Monthly scholarship of ₹1,000 during training period at NDA",
+            "One-time outfit allowance of ₹12,000"
         ],
         "eligibility": [
-            "Cadet's parents/guardians' monthly income should not exceed \u20b915,000 (\u20b91,80,000 per annum); for SC/ST/OBC categories, the limit is \u20b937,500 per month (\u20b94,50,000 per annum)",
+            "Cadet's parents/guardians' monthly income should not exceed ₹15,000 (₹1,80,000 per annum); for SC/ST/OBC categories, the limit is ₹37,500 per month (₹4,50,000 per annum)",
             "Cadet should either have been born in Goa or domiciled in Goa for at least 15 years"
         ],
         "exclusions": [
@@ -48,5 +48,6 @@
             "Goa",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000704"
 }

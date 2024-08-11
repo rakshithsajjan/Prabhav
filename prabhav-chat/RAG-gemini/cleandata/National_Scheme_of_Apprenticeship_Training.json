@@ -9,9 +9,9 @@
         "benefits": [
             "The apprentices undergo a one-year Apprenticeship Training period.",
             "Apprentices receive a monthly stipend during their training.",
-            "Engineering Graduate: \u20b94,984 per month",
-            "Technicians: \u20b93,542 per month",
-            "10+2 Vocational pass-outs: \u20b92,758 per month",
+            "Engineering Graduate: ₹4,984 per month",
+            "Technicians: ₹3,542 per month",
+            "10+2 Vocational pass-outs: ₹2,758 per month",
             "The stipend is shared equally between the Central Government and the employer, with the employer initially paying the full stipend and later claiming 50% reimbursement from the Central Government through the respective Boards of Apprenticeship/Practical (BOATs/BOPT)."
         ],
         "eligibility": [
@@ -73,11 +73,11 @@
             },
             {
                 "question": "Can you provide the monthly stipend for Technicians participating in the apprenticeship program?",
-                "answer": "Technicians receive a monthly stipend of \u20b93,542."
+                "answer": "Technicians receive a monthly stipend of ₹3,542."
             },
             {
                 "question": "What is the stipend amount for 10+2 Vocational pass-outs during their apprenticeship?",
-                "answer": "10+2 Vocational pass-outs receive a monthly stipend of \u20b92,758."
+                "answer": "10+2 Vocational pass-outs receive a monthly stipend of ₹2,758."
             }
         ],
         "sources": [
@@ -104,5 +104,6 @@
             "Skill Development",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001327"
 }

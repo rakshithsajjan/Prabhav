@@ -5,7 +5,7 @@
         "department": "Ministry Of Culture",
         "type": "Central Sector Scheme",
         "beneficiary": "Charitable Institutions",
-        "details": "The scheme 'Seva Bhoj Yojna' was launched by the Ministry of Culture, Government of India and it has been made operational with effect from the 1st of August, 2018. The Scheme shall be applicable within the territorial jurisdiction of India. The Scheme will remain open from the 1st to the 15th of every month. Thereafter, the scrutiny of the applications received will be carried out by a duly constituted committee on a monthly basis. Under the Scheme of 'Seva Bhoj Yojna' Central Goods and Services Tax (CGST) and Central Government\u2019s share of Integrated Goods and Services Tax (IGST) paid on purchase of specific raw food items by Charitable/Religious Institutions like Gurudwaras, Temples, Dharmik Ashrams, Mosques, Dargahs, Churches, Math, Monasteries, etc. for distributing free food to public shall be reimbursed as Financial Assistance by the Government of India.",
+        "details": "The scheme 'Seva Bhoj Yojna' was launched by the Ministry of Culture, Government of India and it has been made operational with effect from the 1st of August, 2018. The Scheme shall be applicable within the territorial jurisdiction of India. The Scheme will remain open from the 1st to the 15th of every month. Thereafter, the scrutiny of the applications received will be carried out by a duly constituted committee on a monthly basis. Under the Scheme of 'Seva Bhoj Yojna' Central Goods and Services Tax (CGST) and Central Government’s share of Integrated Goods and Services Tax (IGST) paid on purchase of specific raw food items by Charitable/Religious Institutions like Gurudwaras, Temples, Dharmik Ashrams, Mosques, Dargahs, Churches, Math, Monasteries, etc. for distributing free food to public shall be reimbursed as Financial Assistance by the Government of India.",
         "benefits": [
             "Financial assistance in the form of reimbursement shall be provided where the institution has already paid GST on all or any of the raw food items listed below: Ghee, Edible oil, Sugar / Burra / Jaggery, Rice, Atta / Maida / Rava /Flour, Pulses."
         ],
@@ -20,7 +20,7 @@
         "exclusions": [
             "The Institution/Organization blacklisted under the provisions of the Foreign Contribution Regulation Act (FCRA) or the provisions of any Act/Rules of the Central/State Government shall not be eligible for financial assistance under the Scheme."
         ],
-        "application_process": "The Scheme will remain open from the 1st to the 15th of every month. Institutions must first register with the Darpan Portal of NITI Aayog to obtain a Unique ID. After that, they shall enroll in the CSMS Portal on the Ministry of Culture\u2019s Website in a prescribed format and upload the requisite documents.",
+        "application_process": "The Scheme will remain open from the 1st to the 15th of every month. Institutions must first register with the Darpan Portal of NITI Aayog to obtain a Unique ID. After that, they shall enroll in the CSMS Portal on the Ministry of Culture’s Website in a prescribed format and upload the requisite documents.",
         "documents_required": [
             "Copy of the valid Registration Certificate",
             "Copy of Memorandum of Association/Article of Association/Charter of Activities of the organization.",
@@ -32,14 +32,14 @@
             "Certificate from District Magistrate indicating that the institution is involved in charitable/religious activities.",
             "PAN/ TAN Number of the institution/ organization.",
             "List of locations where free food is being distributed by the institution.",
-            "Number of persons being served free food by the Institution in the previous year \u2013 self-declaration.",
+            "Number of persons being served free food by the Institution in the previous year – self-declaration.",
             "Bank Authorization Letter as per prescribed format.",
             "Invoices issued by the suppliers for the purchases of specified items."
         ],
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "Under the Scheme, Central Goods and Services Tax (CGST) and Central Government\u2019s share of Integrated Goods and Services Tax (IGST) paid on purchase of specific raw food items by Charitable/Religious Institutions for distributing free food to public shall be reimbursed as Financial Assistance by the Government of India."
+                "answer": "Under the Scheme, Central Goods and Services Tax (CGST) and Central Government’s share of Integrated Goods and Services Tax (IGST) paid on purchase of specific raw food items by Charitable/Religious Institutions for distributing free food to public shall be reimbursed as Financial Assistance by the Government of India."
             },
             {
                 "question": "Which ministry has started the scheme?",
@@ -55,11 +55,11 @@
             },
             {
                 "question": "What is the scope of the scheme?",
-                "answer": "This is a Central Sector Scheme for providing reimbursement of CGST and the Central Government\u2019s share of IGST paid by charitable/religious institutions on the purchase of specific raw food items for serving free food to the public/devotees."
+                "answer": "This is a Central Sector Scheme for providing reimbursement of CGST and the Central Government’s share of IGST paid by charitable/religious institutions on the purchase of specific raw food items for serving free food to the public/devotees."
             },
             {
                 "question": "What are the types of activities supported under the Scheme?",
-                "answer": "Free \u2018Prasad\u2019 or free food or free \u2018Langar\u2019/\u2018Bhandara\u2019 (community kitchen) offered by charitable/religious institutions."
+                "answer": "Free ‘Prasad’ or free food or free ‘Langar’/‘Bhandara’ (community kitchen) offered by charitable/religious institutions."
             },
             {
                 "question": "What are the benefits of the scheme?",
@@ -96,5 +96,6 @@
             "Religious Institutions",
             "Seva"
         ]
-    }
+    },
+    "id": "001771"
 }

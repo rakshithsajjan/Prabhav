@@ -7,8 +7,8 @@
         "beneficiary": "Farmers belonging to the Scheduled Tribes category, FPOs, FPCs, FIGs, SHGs, and Cooperative Societies",
         "details": "The scheme 'Harvesting Tools Assistance for Scheduled Tribes (HRT-3)' provides financial assistance to farmers belonging to the Scheduled Tribes category as well as to FPOs (Farmers Producer Organizations), FPCs (Farmers Producer Companies), FIGs (Farmer Interest Groups), SHGs (Self-Help Groups), and Cooperative Societies for purchasing harvesting tools.",
         "benefits": [
-            "Scheduled Tribes farmers will be eligible for assistance up to 50% of the cost of the harvesting tool or \u20b91,00,000/-, whichever is less.",
-            "FPO/FPC/FIG/SHG/Cooperative Society will be eligible for assistance of 75% of the cost of the harvesting tool or \u20b91,50,000/-, whichever is less."
+            "Scheduled Tribes farmers will be eligible for assistance up to 50% of the cost of the harvesting tool or ₹1,00,000/-, whichever is less.",
+            "FPO/FPC/FIG/SHG/Cooperative Society will be eligible for assistance of 75% of the cost of the harvesting tool or ₹1,50,000/-, whichever is less."
         ],
         "eligibility": [
             "The beneficiary should be a permanent resident of Gujarat.",
@@ -37,15 +37,15 @@
             },
             {
                 "question": "What are the benefits of the scheme for Scheduled Tribes farmers?",
-                "answer": "Scheduled Tribes farmers can receive assistance up to 50% of the cost of the harvesting tool or \u20b91,00,000/-, whichever is less."
+                "answer": "Scheduled Tribes farmers can receive assistance up to 50% of the cost of the harvesting tool or ₹1,00,000/-, whichever is less."
             },
             {
                 "question": "What benefits are available for FPOs/FPCs/FIGs/SHGs/Cooperative Societies under the scheme?",
-                "answer": "These organizations are eligible for assistance of 75% of the cost of the harvesting tool or \u20b91,50,000/-, whichever is less."
+                "answer": "These organizations are eligible for assistance of 75% of the cost of the harvesting tool or ₹1,50,000/-, whichever is less."
             },
             {
                 "question": "Is there a limit on the cost of the harvesting tool eligible for assistance?",
-                "answer": "Yes, the unit cost of the harvesting tool should be up to \u20b92,00,000/- to qualify for assistance under the scheme."
+                "answer": "Yes, the unit cost of the harvesting tool should be up to ₹2,00,000/- to qualify for assistance under the scheme."
             },
             {
                 "question": "What are the eligibility criteria for beneficiaries of the scheme?",
@@ -88,5 +88,6 @@
             "Financial Assistance",
             "Gujarat"
         ]
-    }
+    },
+    "id": "000763"
 }

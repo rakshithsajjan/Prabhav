@@ -7,9 +7,9 @@
         "beneficiary": "Fishermen",
         "details": "Financial Assistance to Brackish Water Aquaculture Farms is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme. The applications are accepted only in offline mode.",
         "benefits": [
-            "25% subsidy, limited to \u20b92,00,000 per hectare for Construction & Renovation of Farm",
-            "50% subsidy, limited to \u20b91,00,000 per hectare for Purchase of Farming Equipment",
-            "25% subsidy of the cost of feed, limited to \u20b930,000 per crop per hectare for 2 crops in a year"
+            "25% subsidy, limited to ₹2,00,000 per hectare for Construction & Renovation of Farm",
+            "50% subsidy, limited to ₹1,00,000 per hectare for Purchase of Farming Equipment",
+            "25% subsidy of the cost of feed, limited to ₹30,000 per crop per hectare for 2 crops in a year"
         ],
         "eligibility": [
             "The applicant should be a farmer having a water spread area of 2 hectares or less.",
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "Can the Financial Assistance for Purchase of Feed be availed for more than two crops in a year?",
-                "answer": "No, the assistance is limited to \u20b930,000 per crop per hectare for 2 crops in a year."
+                "answer": "No, the assistance is limited to ₹30,000 per crop per hectare for 2 crops in a year."
             },
             {
                 "question": "What is the contact information for the Grievance Redressal Officer, and is there a dedicated email for lodging grievances?",
@@ -48,11 +48,11 @@
             },
             {
                 "question": "How is the subsidy for the Financial Assistance for Purchase of Farming Equipment calculated, and what is the maximum limit per hectare?",
-                "answer": "The subsidy is 50%, limited to \u20b91,00,000 per hectare."
+                "answer": "The subsidy is 50%, limited to ₹1,00,000 per hectare."
             },
             {
                 "question": "What is the maximum subsidy limit for the Financial Assistance for Construction & Renovation of Farm under this scheme?",
-                "answer": "The subsidy limit is 25%, capped at \u20b92,00,000 per hectare."
+                "answer": "The subsidy limit is 25%, capped at ₹2,00,000 per hectare."
             },
             {
                 "question": "Are there any fees associated with the application process for this scheme, considering the department's website does not mention an application fee?",
@@ -108,5 +108,6 @@
             "Fishermen",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000590"
 }

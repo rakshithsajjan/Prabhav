@@ -5,9 +5,9 @@
         "department": "Social Welfare Department",
         "type": "Incentive",
         "beneficiary": "Widows belonging to the SC Community",
-        "details": "This scheme is aimed at encouraging widows to remarry by providing financial assistance to lead a normal life. The main objective of the scheme is to promote widow remarriage and rehabilitate widows by providing financial assistance. This scheme brings in a new dimension of social change among the widows. Under this scheme, the Social Welfare Department, Government of Karnataka will give incentives to the remarried widows belonging to the SC Community. The incentive amount is \u20b9 3 Lakh. The incentive is provided only to those who have submitted applications within 1 year of marriage. There is no annual income limit for this scheme. The widow should belong to SC Community. Spouses can belong to any Caste/Religion.",
+        "details": "This scheme is aimed at encouraging widows to remarry by providing financial assistance to lead a normal life. The main objective of the scheme is to promote widow remarriage and rehabilitate widows by providing financial assistance. This scheme brings in a new dimension of social change among the widows. Under this scheme, the Social Welfare Department, Government of Karnataka will give incentives to the remarried widows belonging to the SC Community. The incentive amount is ₹ 3 Lakh. The incentive is provided only to those who have submitted applications within 1 year of marriage. There is no annual income limit for this scheme. The widow should belong to SC Community. Spouses can belong to any Caste/Religion.",
         "benefits": [
-            "Financial assistance of \u20b9 3 Lakh for remarried widows belonging to SC Community"
+            "Financial assistance of ₹ 3 Lakh for remarried widows belonging to SC Community"
         ],
         "eligibility": [
             "Applicant should be a resident of Karnataka state.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What are the benefits that a person gets under this scheme?",
-                "answer": "Under this scheme, the Social Welfare Department, Government of Karnataka will give an incentive of \u20b93 lakh to the remarried widows belonging to SC Community."
+                "answer": "Under this scheme, the Social Welfare Department, Government of Karnataka will give an incentive of ₹3 lakh to the remarried widows belonging to SC Community."
             },
             {
                 "question": "Is the benefit limited to only persons belonging to SC Community?",
@@ -92,5 +92,6 @@
             "Widow",
             "Widow Remarriage"
         ]
-    }
+    },
+    "id": "000812"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Higher Education, Govt. of Odisha",
         "type": "Scholarship",
         "beneficiary": "Meritorious +2 students",
-        "details": "Launched in the year 2013-14, 'Biju Yuva Sashaktikaran Yojana' is a scheme by the Department of Higher Education, Govt. of Odisha. In this scheme, \u20b9 30,000/- per student is transferred directly to the bank accounts of 15,000 meritorious +2 students through Direct Benefit Transfer (DBT) for the purchase of laptop. The allocation earmarked to SC & ST students in a particular stream is bifurcated between SC and ST as per the ratio 16.25:22.5, which is also the reservation ratio in employment in the State. The scheme is applicable to students from the CHSE Board, and Upshastri Students passing from Shree Jagannath Sanskrit University, Puri.",
+        "details": "Launched in the year 2013-14, 'Biju Yuva Sashaktikaran Yojana' is a scheme by the Department of Higher Education, Govt. of Odisha. In this scheme, ₹ 30,000/- per student is transferred directly to the bank accounts of 15,000 meritorious +2 students through Direct Benefit Transfer (DBT) for the purchase of laptop. The allocation earmarked to SC & ST students in a particular stream is bifurcated between SC and ST as per the ratio 16.25:22.5, which is also the reservation ratio in employment in the State. The scheme is applicable to students from the CHSE Board, and Upshastri Students passing from Shree Jagannath Sanskrit University, Puri.",
         "benefits": [
-            "An amount of \u20b9 30,000/- per student is transferred directly to the bank accounts of 15,000 meritorious +2 students through Direct Benefit Transfer (DBT) for the purchase of laptop."
+            "An amount of ₹ 30,000/- per student is transferred directly to the bank accounts of 15,000 meritorious +2 students through Direct Benefit Transfer (DBT) for the purchase of laptop."
         ],
         "eligibility": [
             "The applicant should be a resident/domicile of the state of Odisha.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance Available Through This Scheme?",
-                "answer": "The Maximum Amount Of Financial Assistance Available Through This Scheme is \u20b9 30,000/-."
+                "answer": "The Maximum Amount Of Financial Assistance Available Through This Scheme is ₹ 30,000/-."
             },
             {
                 "question": "What Is The Purpose Of The Financial Assistance?",
@@ -86,5 +86,6 @@
             "DBT",
             "Scholarship"
         ]
-    }
+    },
+    "id": "000213"
 }

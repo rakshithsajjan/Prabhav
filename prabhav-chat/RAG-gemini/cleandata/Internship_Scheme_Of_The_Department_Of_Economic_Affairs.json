@@ -7,8 +7,8 @@
         "beneficiary": "Postgraduate and PhD students",
         "details": "The Department of Economic Affairs of the Ministry of Finance manages the Internship Scheme for PhD or postgraduate students working on specific issues relating to macro-economic management, capital Markets, Economic Reforms, Exchange Management, Foreign Investment in India and India Investment abroad, Monetary Policy, Fiscal Policy, Inflation Management, Debt Market Operation and Debt Management (External & Domestic), Small Savings, Modernization of Budget Documents, Bilateral Investment Treaties, Infrastructure Financing, etc.",
         "benefits": [
-            "Token remuneration of \u20b910,000/- per month per intern for PG students",
-            "Token remuneration of \u20b920,000/- per month per intern for PhD students",
+            "Token remuneration of ₹10,000/- per month per intern for PG students",
+            "Token remuneration of ₹20,000/- per month per intern for PhD students",
             "Logistics support including office space and computer with internet facility",
             "Certificate of Internship upon satisfactory completion"
         ],
@@ -60,11 +60,11 @@
             },
             {
                 "question": "What Shall Be The Amount Of The Token Remuneration For PG Students?",
-                "answer": "The Token remuneration will be \u20b910,000/- per month per intern for PG students."
+                "answer": "The Token remuneration will be ₹10,000/- per month per intern for PG students."
             },
             {
                 "question": "What Shall Be The Amount Of The Token Remuneration For PhD Students?",
-                "answer": "The Token remuneration will be \u20b920,000/- per month per intern for PhD students."
+                "answer": "The Token remuneration will be ₹20,000/- per month per intern for PhD students."
             },
             {
                 "question": "When Will The Remuneration Become Payable?",
@@ -88,5 +88,6 @@
             "PhD",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000902"
 }

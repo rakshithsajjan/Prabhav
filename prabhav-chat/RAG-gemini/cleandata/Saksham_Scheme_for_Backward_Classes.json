@@ -5,15 +5,15 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Young Professionals",
-        "details": "The scheme 'Saksham Scheme for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans of up to \u20b910,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, and similar establishments. Applicants must be between 18 and 35 years old, permanent residents of Haryana, and belong to the Backward Class.",
+        "details": "The scheme 'Saksham Scheme for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under the scheme, loans of up to ₹10,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, and similar establishments. Applicants must be between 18 and 35 years old, permanent residents of Haryana, and belong to the Backward Class.",
         "benefits": [
-            "Loans of up to \u20b910,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, etc."
+            "Loans of up to ₹10,00,000/- are provided to young professionals for setting up Doctors' Clinics, Nursing Homes, Physiotherapy Clinics, Bio-Medical Labs, Lawyers' Offices, Engineering Units, Chemist Shops, Architect Offices, etc."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The applicant should be between 18 and 35 years old.",
             "The applicant should belong to the Backward Class Category.",
-            "The applicant's annual family income should not exceed \u20b93,00,000/- in both rural and urban areas.",
+            "The applicant's annual family income should not exceed ₹3,00,000/- in both rural and urban areas.",
             "The applicant should have professional and academic training."
         ],
         "exclusions": [],
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount provided under the Scheme?",
-                "answer": "The maximum loan amount provided under the scheme is \u20b910,00,000/-."
+                "answer": "The maximum loan amount provided under the scheme is ₹10,00,000/-."
             },
             {
                 "question": "What types of establishments can be set up under the scheme?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the income criterion for eligibility?",
-                "answer": "The annual family income of the applicant should not exceed \u20b93,00,000/-."
+                "answer": "The annual family income of the applicant should not exceed ₹3,00,000/-."
             },
             {
                 "question": "How can applicants apply for the scheme?",
@@ -81,5 +81,6 @@
             "Loan",
             "Young Professional"
         ]
-    }
+    },
+    "id": "001634"
 }

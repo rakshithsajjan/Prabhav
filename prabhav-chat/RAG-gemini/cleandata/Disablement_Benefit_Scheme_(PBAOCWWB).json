@@ -5,9 +5,9 @@
         "department": "Puducherry Building and Other Construction Workers Welfare Board, Labour Department",
         "type": "DBT",
         "beneficiary": "Registered Construction Workers with Disability",
-        "details": "The 'Disablement Benefit' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance of \u20b975,000/- is extended based on the Disablement Certificate issued by the Competent Authority to the Registered Construction Worker of the Board. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the worker. The applications are accepted offline.",
+        "details": "The 'Disablement Benefit' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. Through this scheme, financial assistance of ₹75,000/- is extended based on the Disablement Certificate issued by the Competent Authority to the Registered Construction Worker of the Board. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the worker. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance: \u20b975,000/-",
+            "Financial Assistance: ₹75,000/-",
             "Time of Disbursal: Within 1 month of the application",
             "Mode of Disbursal: Direct Benefit Transfer (DBT) into the bank account"
         ],
@@ -34,7 +34,7 @@
         "faqs": [
             {
                 "question": "Can you elaborate on the time it takes for the disbursal of the financial assistance once the application is submitted?",
-                "answer": "The financial assistance of \u20b975,000 is disbursed within 1 month of the application being submitted."
+                "answer": "The financial assistance of ₹75,000 is disbursed within 1 month of the application being submitted."
             },
             {
                 "question": "What mode is employed for crediting the financial assistance to the bank account of the worker?",
@@ -102,5 +102,6 @@
             "PwD",
             "Worker"
         ]
-    }
+    },
+    "id": "000408"
 }

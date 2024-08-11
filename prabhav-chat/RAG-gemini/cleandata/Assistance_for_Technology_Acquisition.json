@@ -5,10 +5,10 @@
         "department": "Industries and Commerce Department",
         "type": "Grant",
         "beneficiary": "Entrepreneurs",
-        "details": "'Assistance for Technology Acquisition' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Capital Intensive Industries' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, assistance for acquisition of appropriate technology in any form for specific product/process will be provided by way of 50% grant subject to a maximum of \u20b910,00,000/-. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Assistance for Technology Acquisition' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Capital Intensive Industries' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, assistance for acquisition of appropriate technology in any form for specific product/process will be provided by way of 50% grant subject to a maximum of ₹10,00,000/-. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
             "Assistance: 50%",
-            "Ceiling: \u20b910,00,000/-",
+            "Ceiling: ₹10,00,000/-",
             "Purpose: Acquisition of Appropriate Technology in Any Form for Specific Product/ Process"
         ],
         "eligibility": [
@@ -103,5 +103,6 @@
             "Industry",
             "Technology"
         ]
-    }
+    },
+    "id": "000122"
 }

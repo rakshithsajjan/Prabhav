@@ -7,17 +7,17 @@
         "beneficiary": "Children of workers employed in industrial and commercial establishments",
         "details": "The scheme 'Financial Assistance for Encouraging Worker's Children's Participation in Sports Activities' is implemented by the Haryana Labour Welfare Board (HLWB), Labour Department, Government of Haryana. Under this scheme, financial assistance is provided by the Haryana Labour Welfare Board to the children of the workers working in the industrial and commercial establishments of the state of Haryana for participating in sports competitions so that the children of the workers can also become good sportspersons.",
         "benefits": [
-            "\u20b92,000/- for district-level competition",
-            "\u20b93,000/- for division-level competition",
-            "\u20b94,000/- for state-level competition",
-            "\u20b95,000/- for national-level competition",
-            "\u20b911,000/- for international-level competition",
+            "₹2,000/- for district-level competition",
+            "₹3,000/- for division-level competition",
+            "₹4,000/- for state-level competition",
+            "₹5,000/- for national-level competition",
+            "₹11,000/- for international-level competition",
             "Additional amounts for securing 1st, 2nd, or 3rd place in competitions"
         ],
         "eligibility": [
             "The applicant should be employed in an industrial or commercial establishment in Haryana.",
             "The applicant should be registered with the Haryana Labour Welfare Board.",
-            "The applicant's monthly salary should not exceed \u20b925,000/-.",
+            "The applicant's monthly salary should not exceed ₹25,000/-.",
             "Benefits are provided to children of registered workers for participating in group or individual sports competitions, and for securing 1st, 2nd, or 3rd place in these competitions.",
             "There is no limit on the number of workers' children eligible under this scheme.",
             "There is no minimum service period requirement for the worker."
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What is the range of financial assistance provided under this scheme?",
-                "answer": "Financial assistance ranges from \u20b92,000/- to \u20b931,000/- depending on the nature and level of the sports competition."
+                "answer": "Financial assistance ranges from ₹2,000/- to ₹31,000/- depending on the nature and level of the sports competition."
             },
             {
                 "question": "Who is eligible for this scheme?",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "Is there any salary limit for workers to be eligible for this scheme?",
-                "answer": "Yes, the monthly salary of the worker should not exceed \u20b925,000/-."
+                "answer": "Yes, the monthly salary of the worker should not exceed ₹25,000/-."
             },
             {
                 "question": "Are there any restrictions on the number of children who can benefit from this scheme per worker?",
@@ -101,5 +101,6 @@
             "Worker Welfare",
             "Haryana"
         ]
-    }
+    },
+    "id": "000561"
 }

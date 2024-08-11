@@ -7,7 +7,7 @@
         "beneficiary": "Farmer",
         "details": "The scheme 'Coffee Development Programme in North Eastern Region: Water Augmentation' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to improve the productivity and quality of coffee by facilitating the creation of infrastructure for water augmentation for irrigation and wet processing of coffee.",
         "benefits": [
-            "The eligible subsidy for water harvesting structures and sprinkler units is 75% of the unit cost, capped at a maximum ceiling of \u20b91,25,000 for all related activities combined.",
+            "The eligible subsidy for water harvesting structures and sprinkler units is 75% of the unit cost, capped at a maximum ceiling of ₹1,25,000 for all related activities combined.",
             "For below-ground water storage tanks, the subsidy is based on the lower value between dimension and unit cost applicable to the size of the holding.",
             "For above-ground water storage tanks, the subsidy is based on the lower value between the actual cost or the unit cost applicable to the below-ground water tank.",
             "Growers can claim subsidies for water harvesting structures and irrigation equipment either simultaneously or at different times."
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What's the subsidy percentage available for water harvesting structures and sprinkler units?",
-                "answer": "The subsidy is set at 75% of the unit cost, capped at a maximum of \u20b91.25 lakh for all related activities combined."
+                "answer": "The subsidy is set at 75% of the unit cost, capped at a maximum of ₹1.25 lakh for all related activities combined."
             },
             {
                 "question": "Can you explain the construction specifics for water storage tanks in this scheme?",
@@ -79,5 +79,6 @@
             "Farmer",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000323"
 }

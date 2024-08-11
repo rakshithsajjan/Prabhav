@@ -5,20 +5,20 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Registered construction disabled workers",
-        "details": "The 'Go-Green Three Wheelers Scheme' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under the scheme, a one-time subsidy will be provided on the purchase of battery-operated tricycle (e-rickshaw) vehicles to registered construction disabled workers. The objective is to help construction workers who become disabled due to accidents at construction sites sustain their livelihoods.",
+        "details": "The 'Go-Green Three Wheelers Scheme' is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). Under the scheme, a one-time subsidy will be provided on the purchase of battery-operated tricycle (e-rickshaw) vehicles to registered construction disabled workers. The objective is to help construction workers who become disabled due to accidents at construction sites sustain their livelihoods.",
         "benefits": [
-            "One-time subsidy of 50% of the Ex-Showroom Price or \u20b948,000/- whichever is less.",
+            "One-time subsidy of 50% of the Ex-Showroom Price or ₹48,000/- whichever is less.",
             "Assistance for the amount of Registration Fee and Road Tax paid for the first time of the new Three-Wheeler."
         ],
         "eligibility": [
-            "The construction workers should be registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "The construction workers should be registered with the Gujarat Building and Other Construction Worker’s Welfare Board.",
             "Registered construction workers who become disabled or incapacitated due to an accident while working at a construction site.",
             "Registered construction disabled worker should have purchased a lithium-ion battery-operated vehicle in his own name.",
             "Registered construction disabled worker should hold a tri-cycle license to operate a tri-cycle.",
             "The benefit of this scheme will be available once per registered construction disabled worker."
         ],
         "exclusions": [],
-        "application_process": "To avail of the benefits under the scheme, applicants need to visit the nearest district office of the Gujarat Building and Other Construction Worker\u2019s Welfare Board, collect the application form, fill in all details, attach required documents, and submit the application form to the concerned official.",
+        "application_process": "To avail of the benefits under the scheme, applicants need to visit the nearest district office of the Gujarat Building and Other Construction Worker’s Welfare Board, collect the application form, fill in all details, attach required documents, and submit the application form to the concerned official.",
         "documents_required": [
             "Aadhaar card",
             "e-Nirman Card",
@@ -34,15 +34,15 @@
             },
             {
                 "question": "Who is eligible to benefit from this scheme?",
-                "answer": "Eligibility criteria include registration with the Gujarat Building and Other Construction Worker\u2019s Welfare Board, being a registered construction worker who became disabled due to a construction site accident, owning a lithium-ion battery-operated vehicle, holding a tri-cycle license, and availing the scheme once per registered construction disabled worker."
+                "answer": "Eligibility criteria include registration with the Gujarat Building and Other Construction Worker’s Welfare Board, being a registered construction worker who became disabled due to a construction site accident, owning a lithium-ion battery-operated vehicle, holding a tri-cycle license, and availing the scheme once per registered construction disabled worker."
             },
             {
                 "question": "What are the benefits offered under the scheme?",
-                "answer": "Eligible individuals can receive a one-time subsidy of 50% of the ex-showroom price or up to \u20b948,000, whichever is less, for purchasing an e-rickshaw."
+                "answer": "Eligible individuals can receive a one-time subsidy of 50% of the ex-showroom price or up to ₹48,000, whichever is less, for purchasing an e-rickshaw."
             },
             {
                 "question": "How can one apply for the scheme?",
-                "answer": "Applicants must visit the nearest district office of Gujarat Building and Other Construction Worker\u2019s Welfare Board, collect the application form, fill in all required details, attach necessary documents, and submit them to the concerned official."
+                "answer": "Applicants must visit the nearest district office of Gujarat Building and Other Construction Worker’s Welfare Board, collect the application form, fill in all required details, attach necessary documents, and submit them to the concerned official."
             },
             {
                 "question": "Can the subsidy be availed multiple times?",
@@ -69,5 +69,6 @@
             "Three Wheelers",
             "Tricycle"
         ]
-    }
+    },
+    "id": "000682"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Government/ Government-aided technical/ engineering colleges/University Departments including Polytechnic Institutes",
         "details": "The scheme provides financial assistance to institutions located in the North East Region for solving water problems, providing alternative power support, and high-speed internet connectivity. It aims to enhance the functional efficiency of technical institutes by addressing deficiencies in these areas.",
         "benefits": [
-            "Funding for solving water problems up to \u20b9 15,00,000",
-            "Funding for power/solar energy projects up to \u20b9 20,00,000",
-            "Funding for internet connection projects up to \u20b9 5,00,000",
+            "Funding for solving water problems up to ₹ 15,00,000",
+            "Funding for power/solar energy projects up to ₹ 20,00,000",
+            "Funding for internet connection projects up to ₹ 5,00,000",
             "Advance of 80% of the sanctioned grant as the first installment",
             "Reimbursement on successful completion of the project"
         ],
@@ -34,7 +34,7 @@
             },
             {
                 "question": "Who Is The Implementing Agency For This Scheme?",
-                "answer": "The Scheme is being implemented through the Indian Institute of Technology\u2013 Guwahati."
+                "answer": "The Scheme is being implemented through the Indian Institute of Technology– Guwahati."
             },
             {
                 "question": "What Is The Objective Of This Scheme?",
@@ -46,15 +46,15 @@
             },
             {
                 "question": "What Is The Limit Of Funding For The 'Solving Water Problems' Project?",
-                "answer": "Limit of Funding: \u20b9 15,00,000 for a duration of 2 years."
+                "answer": "Limit of Funding: ₹ 15,00,000 for a duration of 2 years."
             },
             {
                 "question": "What Is The Limit Of Funding For The 'Power/ Solar Energy Project' Project?",
-                "answer": "Limit of Funding: \u20b9 20,00,000 for a duration of 6 months."
+                "answer": "Limit of Funding: ₹ 20,00,000 for a duration of 6 months."
             },
             {
                 "question": "What Is The Limit Of Funding For The 'Internet Connection Project' Project?",
-                "answer": "Limit of Funding: \u20b9 5,00,000 for a duration of 6 months."
+                "answer": "Limit of Funding: ₹ 5,00,000 for a duration of 6 months."
             },
             {
                 "question": "How Will The Disbursement Of The Funds Be Done?",
@@ -86,5 +86,6 @@
             "Technical Institutes",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000025"
 }

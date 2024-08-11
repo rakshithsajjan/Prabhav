@@ -9,7 +9,7 @@
         "benefits": [
             "The farmer must purchase a permanent container with a minimum filling capacity of 4 lakh liters and above.",
             "The state government will provide a 75% to 85% subsidy.",
-            "Farmer will be provided a grant amount of up to \u20b9 3,00,000/- to \u20b9 3,40,000/- by the government for making a dig in fields."
+            "Farmer will be provided a grant amount of up to ₹ 3,00,000/- to ₹ 3,40,000/- by the government for making a dig in fields."
         ],
         "eligibility": [
             "The applicant should have a native of Rajasthan.",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the maximum grant amount under the scheme?",
-                "answer": "Farmer will be provided a grant amount of up to \u20b9 3,00,000/- to \u20b9 3,40,000/- by the government for making a dig in fields."
+                "answer": "Farmer will be provided a grant amount of up to ₹ 3,00,000/- to ₹ 3,40,000/- by the government for making a dig in fields."
             },
             {
                 "question": "What is the official website of the scheme?",
@@ -88,5 +88,6 @@
             "Farmer",
             "Farming"
         ]
-    }
+    },
+    "id": "000395"
 }

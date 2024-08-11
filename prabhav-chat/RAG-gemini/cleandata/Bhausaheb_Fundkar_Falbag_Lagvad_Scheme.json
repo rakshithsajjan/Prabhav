@@ -17,7 +17,7 @@
         "eligibility": [
             "The beneficiary should be a permanent resident of Maharashtra State",
             "Farmer should have Aadhaar Card.",
-            "Farmer should have 7/12 certificate and 8 \u2013A certificate."
+            "Farmer should have 7/12 certificate and 8 –A certificate."
         ],
         "exclusions": [
             "Institutional beneficiaries cannot avail the benefit."
@@ -75,5 +75,6 @@
             "Farmer",
             "General"
         ]
-    }
+    },
+    "id": "000196"
 }

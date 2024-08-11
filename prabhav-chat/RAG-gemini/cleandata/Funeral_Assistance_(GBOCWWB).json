@@ -5,9 +5,9 @@
         "department": "Department of Labour and Employment",
         "type": "Welfare Scheme",
         "beneficiary": "Nominee/Dependant of the deceased worker",
-        "details": "'Funeral Assistance (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the nominee/dependant of the deceased worker is provided with financial assistance of \u20b95,000/-. The applications are accepted offline.",
+        "details": "'Funeral Assistance (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Government of Goa. Through this scheme, the nominee/dependant of the deceased worker is provided with financial assistance of ₹5,000/-. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b95,000/-"
+            "Financial Assistance of ₹5,000/-"
         ],
         "eligibility": [
             "The deceased should have been a Worker.",
@@ -73,7 +73,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             }
         ],
         "sources": [
@@ -101,5 +101,6 @@
             "Funeral",
             "Labour"
         ]
-    }
+    },
+    "id": "000652"
 }

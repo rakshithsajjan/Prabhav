@@ -5,10 +5,10 @@
         "department": "Department of Micro, Small and Medium Enterprises and Textiles",
         "type": "Subsidy",
         "beneficiary": "Micro, Small and Medium Enterprises",
-        "details": "\u201cPower Subsidy (PS)\u201d is a sub-scheme under the \u201cBanglashree for Micro, Small and Medium Enterprises\u201d scheme. It was launched on 1st April 2020 by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal, and shall remain in force till 31st March 2025. The object of the Scheme is to extend fiscal incentives to encourage entrepreneurs to set up Micro, Small and Medium Enterprises with a view to focusing on balanced development of MSMEs across the State and creating a sustainable ecosystem in the MSME sector which can maximize the utilization of resource, generate new employment and widen the area of operation to make the State emerge as the MSME leader in the country.",
+        "details": "“Power Subsidy (PS)” is a sub-scheme under the “Banglashree for Micro, Small and Medium Enterprises” scheme. It was launched on 1st April 2020 by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal, and shall remain in force till 31st March 2025. The object of the Scheme is to extend fiscal incentives to encourage entrepreneurs to set up Micro, Small and Medium Enterprises with a view to focusing on balanced development of MSMEs across the State and creating a sustainable ecosystem in the MSME sector which can maximize the utilization of resource, generate new employment and widen the area of operation to make the State emerge as the MSME leader in the country.",
         "benefits": [
-            "Subsidy of \u20b9 1.00 / Kwh for enterprises located in Zone \u2013 A & B area and \u20b9 1.50/ Kwh for enterprises located in Zone \u2013 C, D & E area for five years from the date of commencement of commercial production.",
-            "The power subsidy will not exceed \u20b9 10,00,000/- lakh per year for a micro enterprise, \u20b9 20,00,000/- per year for a small enterprise and \u20b9 30,00,000/- per year for a medium enterprise and will be payable annually."
+            "Subsidy of ₹ 1.00 / Kwh for enterprises located in Zone – A & B area and ₹ 1.50/ Kwh for enterprises located in Zone – C, D & E area for five years from the date of commencement of commercial production.",
+            "The power subsidy will not exceed ₹ 10,00,000/- lakh per year for a micro enterprise, ₹ 20,00,000/- per year for a small enterprise and ₹ 30,00,000/- per year for a medium enterprise and will be payable annually."
         ],
         "eligibility": [
             "The business/organization should be a Micro/ Small/ Medium Enterprise.",
@@ -122,5 +122,6 @@
             "Power Subsidy",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000170"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Small and Medium Enterprises (SME)",
         "details": "The scheme 'Assistance To Small And Medium Enterprises (SME) For Raising Of Capital Through SME Exchange' is a sub scheme under the 'Investment Promotion Scheme (IPS)' for MSME Sector. It was launched on 3rd July, 2015 for a period of five years and has been extended further from 20th May, 2022 to 19th May, 2027. The objective is to provide incentives and assistance to the MSME Sector to nurture them and protect them from market vagaries.",
         "benefits": [
-            "25% of expenditure incurred on raising of fund through SME Exchange, limited to maximum to \u20b95,00,000/-."
+            "25% of expenditure incurred on raising of fund through SME Exchange, limited to maximum to ₹5,00,000/-."
         ],
         "eligibility": [
             "Should be a New Manufacturing/ Service units or Existing Manufacturing/ Service units which undertakes Expansion/ Diversification in MSME sector.",
@@ -87,5 +87,6 @@
             "SME",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000911"
 }

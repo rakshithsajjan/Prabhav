@@ -1,16 +1,16 @@
 {
     "content": {
-        "title": "Journalists\u2019 Family Benefit Fund",
+        "title": "Journalists’ Family Benefit Fund",
         "state": "Tamil Nadu",
         "department": "Tamil Development, Religious Endowments, and Information Department",
         "type": "Financial Assistance",
         "beneficiary": "Families of journalists who died in service",
-        "details": "The Tamil Development, Religious Endowments, and Information Department scheme was launched by the 'Journalists\u2019 Family Benefit Fund'. Under this scheme, financial assistance is provided to families of journalists who died in harness with a minimum of twenty years of service as editor, sub-editor, reporter, photographer, and proofreader. This assistance is given from the Hon\u2019ble Chief Minister\u2019s Public Relief Fund.",
+        "details": "The Tamil Development, Religious Endowments, and Information Department scheme was launched by the 'Journalists’ Family Benefit Fund'. Under this scheme, financial assistance is provided to families of journalists who died in harness with a minimum of twenty years of service as editor, sub-editor, reporter, photographer, and proofreader. This assistance is given from the Hon’ble Chief Minister’s Public Relief Fund.",
         "benefits": [
-            "\u20b950,000/- for 5 years of service.",
-            "\u20b91,00,000/- for 10 years of service.",
-            "\u20b91,50,000/- for 15 years of service.",
-            "\u20b92,00,000/- for 20 years of service."
+            "₹50,000/- for 5 years of service.",
+            "₹1,00,000/- for 10 years of service.",
+            "₹1,50,000/- for 15 years of service.",
+            "₹2,00,000/- for 20 years of service."
         ],
         "eligibility": [
             "The deceased should have been an editor/sub-editor/reporter/photographer and proofreader.",
@@ -32,8 +32,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the Journalists\u2019 Family Benefit Fund?",
-                "answer": "The Journalists\u2019 Family Benefit Fund provides financial assistance to the families of journalists who die while in service."
+                "question": "What is the Journalists’ Family Benefit Fund?",
+                "answer": "The Journalists’ Family Benefit Fund provides financial assistance to the families of journalists who die while in service."
             },
             {
                 "question": "Who is eligible for this fund?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What is the financial assistance amount based on years of service?",
-                "answer": "\u20b950,000 for 5 years of service, \u20b91,00,000 for 10 years of service, \u20b91,50,000 for 15 years of service, \u20b92,00,000 for 20 years of service."
+                "answer": "₹50,000 for 5 years of service, ₹1,00,000 for 10 years of service, ₹1,50,000 for 15 years of service, ₹2,00,000 for 20 years of service."
             },
             {
                 "question": "What documents are required to apply for the fund?",
@@ -101,5 +101,6 @@
             "Financial Assistance",
             "Journalist"
         ]
-    }
+    },
+    "id": "000938"
 }

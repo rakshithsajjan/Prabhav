@@ -5,15 +5,15 @@
         "department": "Department of Science and Technology",
         "type": "Fellowship",
         "beneficiary": "Students pursuing doctoral degrees in basic and applied sciences",
-        "details": "INSPIRE Fellowship is one of the components of INSPIRE scheme implemented by the Department of Science and Technology (DST), Government of India to strengthen the Science and Technology base of the country. This Component focusses on attracting students to pursue doctoral degree in basic and applied sciences including engineering, medicine, agriculture, veterinary, pharmacy etc. after either master\u2019s degree in science/engineering or bachelor/ master\u2019s degree in Medicine.",
+        "details": "INSPIRE Fellowship is one of the components of INSPIRE scheme implemented by the Department of Science and Technology (DST), Government of India to strengthen the Science and Technology base of the country. This Component focusses on attracting students to pursue doctoral degree in basic and applied sciences including engineering, medicine, agriculture, veterinary, pharmacy etc. after either master’s degree in science/engineering or bachelor/ master’s degree in Medicine.",
         "benefits": [
             "Financial support for pursuing doctoral degrees",
             "Access to research opportunities",
             "Designation as Junior Research Fellow (JRF)"
         ],
         "eligibility": [
-            "Students with a master\u2019s degree in science/engineering",
-            "Students with a bachelor/master\u2019s degree in Medicine"
+            "Students with a master’s degree in science/engineering",
+            "Students with a bachelor/master’s degree in Medicine"
         ],
         "exclusions": [],
         "application_process": "Online application through the INSPIRE Web-portal during the announced call for applications.",
@@ -68,5 +68,6 @@
             "Technology",
             "PhD"
         ]
-    }
+    },
+    "id": "000857"
 }

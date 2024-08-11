@@ -5,9 +5,9 @@
         "department": "Labour Department, Government of Meghalaya",
         "type": "Pension",
         "beneficiary": "Building Worker",
-        "details": "The scheme \u201cPension Plan\u201d is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, a member of the fund who has been working as a building worker for not less than one year after the commencement of these rules shall on completion of sixty years of age be eligible for a person. The Pension will become payable from the 60 years of the succeeding to the month in which he completed 60 years of age.",
+        "details": "The scheme “Pension Plan” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, a member of the fund who has been working as a building worker for not less than one year after the commencement of these rules shall on completion of sixty years of age be eligible for a person. The Pension will become payable from the 60 years of the succeeding to the month in which he completed 60 years of age.",
         "benefits": [
-            "Under the scheme, the registered worker who has been working as a building worker for not less than one year shall receive an amount of \u20b91,000/- per mensem as pension."
+            "Under the scheme, the registered worker who has been working as a building worker for not less than one year shall receive an amount of ₹1,000/- per mensem as pension."
         ],
         "eligibility": [
             "The beneficiary should be a resident of Meghalaya.",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the amount of pension provided under this scheme?",
-                "answer": "Registered workers who meet the eligibility criteria receive an amount of \u20b91,000/- per month as pension."
+                "answer": "Registered workers who meet the eligibility criteria receive an amount of ₹1,000/- per month as pension."
             },
             {
                 "question": "When does the pension become payable?",
@@ -111,5 +111,6 @@
                 "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
             }
         ]
-    }
+    },
+    "id": "001423"
 }

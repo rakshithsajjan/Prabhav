@@ -9,7 +9,7 @@
         "benefits": [
             "Hospital Care: Covers in-patient treatment for identified illnesses.",
             "Out-Patient Care: Cashless services provided by health camps and network hospitals.",
-            "Cashless Services: Annual coverage of \u20b95,00,000 per family.",
+            "Cashless Services: Annual coverage of ₹5,00,000 per family.",
             "Pre-Existing Disease Coverage: Covers ailments existing before enrollment.",
             "Follow-Up: Covers post-hospitalization operations.",
             "Affordable Family Health Insurance: Coverage for the entire family without separate policies."
@@ -84,5 +84,6 @@
             "Financial Aid",
             "BPL Families"
         ]
-    }
+    },
+    "id": "000446"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Disabled individuals and their spouses",
         "details": "The Matrimonial Incentives scheme provides financial assistance to couples where either the husband or the wife is disabled, aimed at promoting marriage among disabled individuals.",
         "benefits": [
-            "Financial assistance of up to \u20b950,000/-",
-            "Household utility support of \u20b94,500/-",
-            "Cash assistance of \u20b920,000/-",
-            "Allowance of \u20b9500/- to attend the marriage incentive program"
+            "Financial assistance of up to ₹50,000/-",
+            "Household utility support of ₹4,500/-",
+            "Cash assistance of ₹20,000/-",
+            "Allowance of ₹500/- to attend the marriage incentive program"
         ],
         "eligibility": [
             "Either the husband or the wife must be disabled",
@@ -37,15 +37,15 @@
             },
             {
                 "question": "What Percentage Of The Financial Assistance Will Be In The Form Of Household Utility?",
-                "answer": "The amount of \u20b9 4,500/- will be in the form of household utility."
+                "answer": "The amount of ₹ 4,500/- will be in the form of household utility."
             },
             {
                 "question": "Will There Be Any Allowance Provided To Attend The Marriage Incentive Program?",
-                "answer": "Yes, \u20b9 500/- will be provided to attend the marriage incentive program."
+                "answer": "Yes, ₹ 500/- will be provided to attend the marriage incentive program."
             },
             {
                 "question": "What Percentage Of The Financial Assistance Will Be Provided As Cash?",
-                "answer": "\u20b9 20,000/- will be provided as cash."
+                "answer": "₹ 20,000/- will be provided as cash."
             },
             {
                 "question": "Why Is Proof Of Age A Mandatory Document For This Scheme?",
@@ -53,11 +53,11 @@
             },
             {
                 "question": "Is The Entire Amount Of The Financial Assistance Provided As Cash?",
-                "answer": "No, only \u20b9 20,000/- is provided as cash, the rest of the amount is provided as savings certificate, household utility, etc."
+                "answer": "No, only ₹ 20,000/- is provided as cash, the rest of the amount is provided as savings certificate, household utility, etc."
             },
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That One Can Receive Through This Scheme?",
-                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b9 50,000/-."
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is ₹ 50,000/-."
             },
             {
                 "question": "Are There Any Eligibility Criteria Regarding The Percentage Of Disability Of The Applicant?",
@@ -156,5 +156,6 @@
             "Financial Assistance",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "001112"
 }

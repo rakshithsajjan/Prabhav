@@ -11,13 +11,13 @@
             "As Natural Farming does not use any synthetic chemicals, health risks and hazards are eliminated. The food has higher nutrition density and therefore offers better health benefits.",
             "Natural Farming ensures better soil biology, improved agrobiodiversity and a more judicious usage of water with much smaller carbon and nitrogen footprints.",
             "Natural Farming aims to make farming viable and aspirational by increasing net incomes of farmers on account of cost reduction, reduced risks, similar yields, incomes from intercropping.",
-            "By working with diverse crops that help each other and cover the soil to prevent unnecessary water loss through evaporation, Natural Farming optimizes the amount of \u2018crop per drop\u2019."
+            "By working with diverse crops that help each other and cover the soil to prevent unnecessary water loss through evaporation, Natural Farming optimizes the amount of ‘crop per drop’."
         ],
         "eligibility": [
             "The scheme is applicable to all farmers in India."
         ],
         "exclusions": [],
-        "application_process": "Offline. Step 01: Interested beneficiary can get in touch with Zila Parishad to apply for the scheme. Step 02: Zila Parishad Officer will submit applicant\u2019s details and project plan to State Agriculture Department. Step 03: State Agriculture Department will prepare a State Annual Action Plan. Step 04: Once funds from State are approved, financial assistance will be released to beneficiary.",
+        "application_process": "Offline. Step 01: Interested beneficiary can get in touch with Zila Parishad to apply for the scheme. Step 02: Zila Parishad Officer will submit applicant’s details and project plan to State Agriculture Department. Step 03: State Agriculture Department will prepare a State Annual Action Plan. Step 04: Once funds from State are approved, financial assistance will be released to beneficiary.",
         "documents_required": [
             "Aadhaar number",
             "Land documents",
@@ -50,5 +50,6 @@
             "Chemical-free Farming",
             "Natural Farming"
         ]
-    }
+    },
+    "id": "001317"
 }

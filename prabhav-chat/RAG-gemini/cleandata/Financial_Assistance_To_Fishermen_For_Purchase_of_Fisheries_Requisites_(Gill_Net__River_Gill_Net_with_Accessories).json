@@ -7,8 +7,8 @@
         "beneficiary": "Fishermen",
         "details": "The scheme 'Financial Assistance To Fishermen For Purchase of Fisheries Requisites (Gill Net/ River Gill Net with Accessories)' is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a 50% subsidy is provided to the fishermen of Goa for the purchase of fisheries requisites (gill nets with accessories).",
         "benefits": [
-            "For General Category: 50% subsidy limited to \u20b9 30,000/-",
-            "For SC/ST Category: 50% subsidy limited to \u20b9 40,000/-"
+            "For General Category: 50% subsidy limited to ₹ 30,000/-",
+            "For SC/ST Category: 50% subsidy limited to ₹ 40,000/-"
         ],
         "eligibility": [
             "The applicant should be a traditional fisherman by birth or profession.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the subsidy limit for SC/ST Category under the mentioned scheme?",
-                "answer": "For SC/ST Category, the subsidy is 50%, limited to \u20b940,000."
+                "answer": "For SC/ST Category, the subsidy is 50%, limited to ₹40,000."
             },
             {
                 "question": "Is there a specific contact point for registering dissatisfaction or complaints about the scheme's services?",
@@ -89,5 +89,6 @@
             "Marine",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000541"
 }

@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Legal heir/dependent family member of an unregistered worker",
-        "details": "The scheme 'Assistance on Death of the Unregistered Worker (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, financial assistance of \u20b92,50,000/- is provided by the Board to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace.",
+        "details": "The scheme 'Assistance on Death of the Unregistered Worker (HBOCWWB)' was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, financial assistance of ₹2,50,000/- is provided by the Board to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace.",
         "benefits": [
-            "Financial assistance of \u20b92,50,000/- is provided by the Board to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace."
+            "Financial assistance of ₹2,50,000/- is provided by the Board to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace."
         ],
         "eligibility": [
             "The applicant should be a legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace.",
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "What is the 'Assistance on Death of the Unregistered Worker (HBOCWWB)' scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b92,50,000/- is provided by the Board to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace."
+                "answer": "Under the scheme, financial assistance of ₹2,50,000/- is provided by the Board to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The financial assistance of \u20b92,50,000/- is provided to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace."
+                "answer": "The financial assistance of ₹2,50,000/- is provided to the legal heir/dependent family member of an unregistered worker who dies in an accident at the workplace."
             },
             {
                 "question": "Is it mandatory to have a copy of the FIR regarding the accident?",
@@ -90,5 +90,6 @@
             "Financial Assistance",
             "Unregistered Worker"
         ]
-    }
+    },
+    "id": "000109"
 }

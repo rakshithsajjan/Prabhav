@@ -5,9 +5,9 @@
         "department": "Department of Women and Child Development",
         "type": "Financial Assistance",
         "beneficiary": "Pregnant Women",
-        "details": "'KULAVILAKKU' is a scheme for pregnant women by the Department of Women and Child Development, Government of Puducherry. This scheme aims to enhance the nutritional status of Pregnant Women. \u20b9500/- assistance is provided to eligible beneficiaries during their pregnancies. The scheme is a crucial step towards ensuring the well-being of both mother and child. The benefit will be provided for upto two pregnancies only.",
+        "details": "'KULAVILAKKU' is a scheme for pregnant women by the Department of Women and Child Development, Government of Puducherry. This scheme aims to enhance the nutritional status of Pregnant Women. ₹500/- assistance is provided to eligible beneficiaries during their pregnancies. The scheme is a crucial step towards ensuring the well-being of both mother and child. The benefit will be provided for upto two pregnancies only.",
         "benefits": [
-            "\u20b9500/- financial assistance during pregnancy.",
+            "₹500/- financial assistance during pregnancy.",
             "The benefit will be provided for upto two pregnancies only."
         ],
         "eligibility": [
@@ -17,7 +17,7 @@
             "The applicant should be pregnant.",
             "The applicant should have attained the age of 18 years.",
             "The applicant should have crossed seven months of pregnancy.",
-            "The annual income of the applicant should not exceed \u20b924,000/- per annum.",
+            "The annual income of the applicant should not exceed ₹24,000/- per annum.",
             "The benefit will be provided for upto two pregnancies only."
         ],
         "exclusions": [],
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the maximum annual income for eligibility under the scheme?",
-                "answer": "The applicant's annual income should not exceed \u20b924,000/-."
+                "answer": "The applicant's annual income should not exceed ₹24,000/-."
             },
             {
                 "question": "How can one track the status of their application?",
@@ -70,7 +70,7 @@
             },
             {
                 "question": "What is the financial assistance provided to eligible beneficiaries during pregnancy?",
-                "answer": "Beneficiaries receive \u20b9500/- during their pregnancies."
+                "answer": "Beneficiaries receive ₹500/- during their pregnancies."
             },
             {
                 "question": "How many pregnancies are eligible for benefits under the scheme?",
@@ -105,5 +105,6 @@
             "Puducherry",
             "Women and Child Development"
         ]
-    }
+    },
+    "id": "000950"
 }

@@ -5,15 +5,15 @@
         "department": "Social Welfare, Women & Child Development",
         "type": "Pension",
         "beneficiary": "Disable Person",
-        "details": "The Pension to the Disabled Person scheme under the Social Welfare, Women & Child Development Chandigarh is Disability pension to a disabled person granted to Physically Handicapped persons. A person who is disabled to the extent of 40% and is resident of Union Territory of Chandigarh and fulfills the income criteria i.e., family income does not exceed \u20b91.50 lacs per annum. is eligible for a grant of pension. Everyone deserves to live with dignity and respect, regardless of their abilities. Offering a pension to disabled persons recognizes their inherent value and ensures they are not left to live in poverty or dependence.",
+        "details": "The Pension to the Disabled Person scheme under the Social Welfare, Women & Child Development Chandigarh is Disability pension to a disabled person granted to Physically Handicapped persons. A person who is disabled to the extent of 40% and is resident of Union Territory of Chandigarh and fulfills the income criteria i.e., family income does not exceed ₹1.50 lacs per annum. is eligible for a grant of pension. Everyone deserves to live with dignity and respect, regardless of their abilities. Offering a pension to disabled persons recognizes their inherent value and ensures they are not left to live in poverty or dependence.",
         "benefits": [
-            "The pension payable to each person shall be \u20b91000/- per annum to those persons having 40% to 70% of disability.",
-            "\u20b92000/-per annum to those persons having more than 70% of disability."
+            "The pension payable to each person shall be ₹1000/- per annum to those persons having 40% to 70% of disability.",
+            "₹2000/-per annum to those persons having more than 70% of disability."
         ],
         "eligibility": [
             "The applicant's disability must be to the extent of 40% or above then they will be eligible to avail the benefit of same.",
             "The applicant must be a resident of UT Chandigarh for more than 3 years.",
-            "The family income of the applicant should not exceed \u20b91.50 lacs annually."
+            "The family income of the applicant should not exceed ₹1.50 lacs annually."
         ],
         "exclusions": [
             "An individual who is disabled less than 40%.",
@@ -77,5 +77,6 @@
             "Pension",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001432"
 }

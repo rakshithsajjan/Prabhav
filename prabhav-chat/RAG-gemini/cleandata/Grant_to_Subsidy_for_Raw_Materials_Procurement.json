@@ -5,10 +5,10 @@
         "department": "Department of Industries and Commerce",
         "type": "Grant",
         "beneficiary": "Coir Industry Units",
-        "details": "The 'Grant to Subsidy for Raw Materials Procurement' Component of the 'Development of Coir' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to promote Coir Industries by providing a 15% subsidy on annual raw materials procurement, capped at \u20b95,00,000 per annum per unit.",
+        "details": "The 'Grant to Subsidy for Raw Materials Procurement' Component of the 'Development of Coir' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to promote Coir Industries by providing a 15% subsidy on annual raw materials procurement, capped at ₹5,00,000 per annum per unit.",
         "benefits": [
             "15% subsidy on annual raw materials procurement.",
-            "Maximum subsidy capped at \u20b95,00,000 per annum per unit."
+            "Maximum subsidy capped at ₹5,00,000 per annum per unit."
         ],
         "eligibility": [
             "The applicant should possess a Coir Industry Unit in Puducherry."
@@ -27,7 +27,7 @@
             },
             {
                 "question": "Is there a maximum limit on the subsidy amount provided?",
-                "answer": "Yes, the maximum subsidy is capped at \u20b95,00,000 per annum per unit."
+                "answer": "Yes, the maximum subsidy is capped at ₹5,00,000 per annum per unit."
             },
             {
                 "question": "What is the geographical criterion for eligibility?",
@@ -62,8 +62,8 @@
                 "answer": "The interested applicants can access the prescribed format of the application form at https://dic.py.gov.in/application-forms-download-area."
             },
             {
-                "question": "Is the \u20b95,00,000 maximum subsidy amount applicable to all sizes of Coir Industry Units?",
-                "answer": "Yes, the maximum subsidy amount is uniformly capped at \u20b95,00,000 per annum per unit, regardless of the size of the Coir Industry Unit."
+                "question": "Is the ₹5,00,000 maximum subsidy amount applicable to all sizes of Coir Industry Units?",
+                "answer": "Yes, the maximum subsidy amount is uniformly capped at ₹5,00,000 per annum per unit, regardless of the size of the Coir Industry Unit."
             },
             {
                 "question": "How is the annual raw materials procurement amount calculated for subsidy purposes?",
@@ -100,5 +100,6 @@
             "Grant",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000745"
 }

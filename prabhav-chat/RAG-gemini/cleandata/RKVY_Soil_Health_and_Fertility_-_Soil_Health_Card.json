@@ -16,7 +16,7 @@
             "The scheme is applicable for all farmers in India."
         ],
         "exclusions": [],
-        "application_process": "Offline. Step 01: Farmer approaches a District Agriculture Officer / Block Agriculture Officer for soil testing and generation of a SHC. Step 02: The concerned officer shall initiate the process for the concerned farmer wherein they assess whether the applicant\u2019s district / village falls under State Annual Action Plan for generation of SHC. Step 03: Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and takes a sample of the soil for testing. Step 04: The soil is tested on set parameters and a Soil Health report is generated for the farmer\u2019s land. Step 05: The report contains results as well as recommendations on suitable crops for the soil type, and the quantity and type of fertiliser to be used.",
+        "application_process": "Offline. Step 01: Farmer approaches a District Agriculture Officer / Block Agriculture Officer for soil testing and generation of a SHC. Step 02: The concerned officer shall initiate the process for the concerned farmer wherein they assess whether the applicant’s district / village falls under State Annual Action Plan for generation of SHC. Step 03: Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and takes a sample of the soil for testing. Step 04: The soil is tested on set parameters and a Soil Health report is generated for the farmer’s land. Step 05: The report contains results as well as recommendations on suitable crops for the soil type, and the quantity and type of fertiliser to be used.",
         "documents_required": [
             "The documents may vary for each state. It is recommended to consult with the relevant authorities for detailed information."
         ],
@@ -62,5 +62,6 @@
             "Soil Testing",
             "Farmer"
         ]
-    }
+    },
+    "id": "001548"
 }

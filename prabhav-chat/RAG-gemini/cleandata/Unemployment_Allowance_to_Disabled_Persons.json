@@ -7,12 +7,12 @@
         "beneficiary": "Disabled Persons",
         "details": "The Unemployment Allowance To Disabled Person scheme under the Social Welfare, Women & Child Development Chandigarh Government is to provide unemployment allowance to handicapped individuals who have been unemployed for an unduly long period and belong to the poor section of society. These individuals need assistance until they secure gainful employment. The scheme seeks to alleviate the financial burden faced by unemployed handicapped persons, ensuring they can meet their basic needs while actively seeking employment opportunities. By offering financial support, the scheme aims to empower disabled individuals to become self-sufficient members of society.",
         "benefits": [
-            "To all categories of Handicapped Persons: \u20b9500/- per month."
+            "To all categories of Handicapped Persons: ₹500/- per month."
         ],
         "eligibility": [
             "The applicant should be an unemployed person.",
             "The applicant's age should be between 18-30 years.",
-            "The applicant's total family income of parents should not exceed \u20b9 1,50,000/- per annum.",
+            "The applicant's total family income of parents should not exceed ₹ 1,50,000/- per annum.",
             "The applicants should have a minimum of two years of registration in the Special Employment Exchange in the U.T. Chandigarh.",
             "The applicants should have been residing in U.T. Chandigarh for at least three years immediately before the submission."
         ],
@@ -35,7 +35,7 @@
             },
             {
                 "question": "What is the financial benefit amount?",
-                "answer": "All categories of Handicapped Persons \u20b9500/month."
+                "answer": "All categories of Handicapped Persons ₹500/month."
             },
             {
                 "question": "May Other State persons also apply for this scheme?",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Is there any income related criteria?",
-                "answer": "The total family income of parents should not exceed \u20b91.50 lacs p.a."
+                "answer": "The total family income of parents should not exceed ₹1.50 lacs p.a."
             },
             {
                 "question": "How many times the applicant can avail of the benefits of the scheme?",
@@ -85,5 +85,6 @@
             "Disabled Persons",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001989"
 }

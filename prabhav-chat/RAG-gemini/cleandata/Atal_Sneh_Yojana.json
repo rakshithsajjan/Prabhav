@@ -5,7 +5,7 @@
         "department": "Health",
         "type": "Health Scheme",
         "beneficiary": "Newborn Child",
-        "details": "Atal Sneh Yojana in Gujarat is the scheme that has launched on the 25th of December 2016 on the occasion of former Prime Minister Atal Bihari Vajpayee\u2019s ninety-second birthday. The scheme is launched by the Chief Minister of Gujarat, Mr. Vijay Rupani. The scheme will look forward to a healthy child after their birth. It was decided at the Gandhinagar Civil Hospital and it will look upon the children up to two months after their birth. After focusing on the health of the children and covering some major diseases the government has now shifted its focus to core issues. Basically, the Atal Sneh Yojana will replace the decades-old Annual School Program which was being carried out by the health and education departments. For this new scheme, newborn children will be screened specifically to look for health defects and improve them. This is being launched wide across Gujarat. Under this scheme, the newborn kids will be screened and given treatment immediately if there is any illness found. It will be carried out for two long months.",
+        "details": "Atal Sneh Yojana in Gujarat is the scheme that has launched on the 25th of December 2016 on the occasion of former Prime Minister Atal Bihari Vajpayee’s ninety-second birthday. The scheme is launched by the Chief Minister of Gujarat, Mr. Vijay Rupani. The scheme will look forward to a healthy child after their birth. It was decided at the Gandhinagar Civil Hospital and it will look upon the children up to two months after their birth. After focusing on the health of the children and covering some major diseases the government has now shifted its focus to core issues. Basically, the Atal Sneh Yojana will replace the decades-old Annual School Program which was being carried out by the health and education departments. For this new scheme, newborn children will be screened specifically to look for health defects and improve them. This is being launched wide across Gujarat. Under this scheme, the newborn kids will be screened and given treatment immediately if there is any illness found. It will be carried out for two long months.",
         "benefits": [
             "In this scenario, the newborn children will be referred to a doctor. If the case is not very serious, then they will be referred to a local facility for treatment.",
             "Children who are ill or born with some genetic diseases will receive proper treatment from experts. They will also receive follow-ups after their treatment from family health workers.",
@@ -62,5 +62,6 @@
             "Gujarat",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000140"
 }

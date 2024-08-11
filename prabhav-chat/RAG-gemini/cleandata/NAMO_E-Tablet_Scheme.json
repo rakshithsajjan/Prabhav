@@ -37,7 +37,7 @@
             },
             {
                 "question": "Who Can Apply To Get A Tablet For Rs. 1000?",
-                "answer": "Gujarat State students who are living below the poverty line and whose annual family income is less than Rs. 100000, can apply for a tablet for \u20b9 1000 under the Namo e tablet scheme."
+                "answer": "Gujarat State students who are living below the poverty line and whose annual family income is less than Rs. 100000, can apply for a tablet for ₹ 1000 under the Namo e tablet scheme."
             },
             {
                 "question": "Have To Apply Offline Or Online To Buy Namo E-Tablet?",
@@ -65,5 +65,6 @@
             "NAMO",
             "Student"
         ]
-    }
+    },
+    "id": "001252"
 }

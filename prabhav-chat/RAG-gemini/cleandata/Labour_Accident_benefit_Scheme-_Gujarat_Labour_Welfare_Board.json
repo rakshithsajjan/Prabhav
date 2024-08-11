@@ -5,10 +5,10 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Support",
         "beneficiary": "Workers (Shramyogis)",
-        "details": "The \u201cLabour Accident Benefit Scheme\u201d was launched by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to workers who become disabled during their duty period due to an accident or any other reason at the working premises of the establishment.",
+        "details": "The “Labour Accident Benefit Scheme” was launched by the Gujarat Labour Welfare Board. Under the scheme, financial assistance is provided to workers who become disabled during their duty period due to an accident or any other reason at the working premises of the establishment.",
         "benefits": [
-            "Workers with disabilities ranging from 40% to 70% will receive financial assistance of \u20b925,000/-.",
-            "Workers with disabilities exceeding 70% will receive financial assistance of \u20b950,000/-."
+            "Workers with disabilities ranging from 40% to 70% will receive financial assistance of ₹25,000/-.",
+            "Workers with disabilities exceeding 70% will receive financial assistance of ₹50,000/-."
         ],
         "eligibility": [
             "Workers who have become disabled during their duty period due to an accident or any other reason at the working premises of the establishment can avail of the benefits under the scheme.",
@@ -35,11 +35,11 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Workers with disabilities ranging from 40% to 70% will receive financial assistance of \u20b925,000/-, while those with disabilities exceeding 70% will receive \u20b950,000/-."
+                "answer": "Workers with disabilities ranging from 40% to 70% will receive financial assistance of ₹25,000/-, while those with disabilities exceeding 70% will receive ₹50,000/-."
             },
             {
                 "question": "What is the contribution required from the organization?",
-                "answer": "Organizations have to pay \u20b912,500/- for disabilities ranging from 40% to 70%, and \u20b925,000/- for disabilities exceeding 70%. Any additional amount required by law will be covered by the board."
+                "answer": "Organizations have to pay ₹12,500/- for disabilities ranging from 40% to 70%, and ₹25,000/- for disabilities exceeding 70%. Any additional amount required by law will be covered by the board."
             },
             {
                 "question": "Who is eligible for the benefits under the scheme?",
@@ -81,5 +81,6 @@
             "Organized Worker",
             "Shramyogi"
         ]
-    }
+    },
+    "id": "001008"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Accredited Journalists/Photojournalists aged 60 years and above",
         "details": "'Scheme for Pension Benefits to the Journalists/photojournalists' was launched by the Department of Information and Cultural Affairs, Government of Tripura. The objective is to provide financial assistance in the form of a Pension to accredited Journalists/ Photojournalists aged 60 years and above. The application should be submitted to the Director of Information and Cultural Affairs Department, Government of Tripura.",
         "benefits": [
-            "Pension of \u20b910,000/- per month"
+            "Pension of ₹10,000/- per month"
         ],
         "eligibility": [
             "The applicant should be 18 years or older.",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "Is there any financial assistance provided other than the monthly pension under the scheme?",
-                "answer": "The benefit provided under the scheme is a monthly pension of \u20b910,000."
+                "answer": "The benefit provided under the scheme is a monthly pension of ₹10,000."
             },
             {
                 "question": "Can journalists/photojournalists who have received pensions from other sources apply for this scheme?",
@@ -98,5 +98,6 @@
             "Retired",
             "Senior Citizen"
         ]
-    }
+    },
+    "id": "001697"
 }

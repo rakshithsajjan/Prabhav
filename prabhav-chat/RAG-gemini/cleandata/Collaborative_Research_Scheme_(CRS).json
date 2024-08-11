@@ -7,7 +7,7 @@
         "beneficiary": "TEQIP faculties in Technical Education institutes",
         "details": "Launched by the All India Council for Technical Education, Collaborative Research Scheme (CRS) aims to provide financial support in the form of research grants to the young TEQIP faculties recruited in different Technical Education Quality Improvement Programme (TEQIP) institutes so as to collaborate for research and build research community.",
         "benefits": [
-            "Maximum funding of \u20b9 25,00,000/-",
+            "Maximum funding of ₹ 25,00,000/-",
             "Funding is divided into Recurring (40%) and Non-Recurring (60%)",
             "Support for collaboration among TEQIP faculties"
         ],
@@ -23,7 +23,7 @@
             "Mandate form signed by Head of the Institution and bank authority",
             "Certificate of collaboration signed by PI, Co-PIs, and Head of the Institution",
             "Bio-data of all the PI & Co-PIs",
-            "Equipment\u2019s list",
+            "Equipment’s list",
             "Brief of Research Proposal (not more than 500 words)"
         ],
         "faqs": [
@@ -41,11 +41,11 @@
             },
             {
                 "question": "What is the duration of the Project?",
-                "answer": "Duration of the project will be of One year from the date of receipt of funds in the institute\u2019s account."
+                "answer": "Duration of the project will be of One year from the date of receipt of funds in the institute’s account."
             },
             {
                 "question": "What is limit of funding?",
-                "answer": "Maximum funding would be \u20b9 25,00,000/-."
+                "answer": "Maximum funding would be ₹ 25,00,000/-."
             }
         ],
         "sources": [
@@ -64,5 +64,6 @@
             "TEQIP",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000328"
 }

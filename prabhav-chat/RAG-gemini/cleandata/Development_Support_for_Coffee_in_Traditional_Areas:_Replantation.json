@@ -7,8 +7,8 @@
         "beneficiary": "Coffee growers",
         "details": "The scheme 'Development Support for Coffee in Traditional Areas: Replantation' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging replantation of old/senile and unproductive plantations with high-yielding, disease-tolerant coffee varieties.",
         "benefits": [
-            "Unit Cost for Arabica: \u20b9 2,75,000/- per ha",
-            "Unit Cost for Robusta: \u20b9 2,00,000/- per ha",
+            "Unit Cost for Arabica: ₹ 2,75,000/- per ha",
+            "Unit Cost for Robusta: ₹ 2,00,000/- per ha",
             "Scale of Subsidy: 40% of the unit cost",
             "Additional support of 10% for SC/ST community coffee growers with holdings up to 4.00 Ha"
         ],
@@ -37,7 +37,7 @@
         "faqs": [
             {
                 "question": "How much is the unit cost for Arabica and Robusta under this scheme?",
-                "answer": "The unit cost for Arabica is \u20b92,75,000 per hectare, and for Robusta, it is \u20b92,00,000 per hectare."
+                "answer": "The unit cost for Arabica is ₹2,75,000 per hectare, and for Robusta, it is ₹2,00,000 per hectare."
             },
             {
                 "question": "What percentage of subsidy is provided to coffee growers under this scheme?",
@@ -89,5 +89,6 @@
             "Plantation",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000383"
 }

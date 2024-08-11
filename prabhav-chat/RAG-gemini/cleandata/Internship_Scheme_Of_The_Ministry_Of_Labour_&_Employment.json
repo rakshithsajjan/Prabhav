@@ -7,7 +7,7 @@
         "beneficiary": "Students",
         "details": "Through the Internship Scheme, the Ministry of Labour & Employment engage eligible students as 'Interns' to work for mutual benefit. The 'Interns' shall have an opportunity to know about the Government functioning and Department Policy issues in the Government of India and contribute to the Policy/Legislation formulation by generating policy inputs such as empirical analysis, briefing reports, policy papers, etc.",
         "benefits": [
-            "Stipend @ \u20b9 8,000/- per month",
+            "Stipend @ ₹ 8,000/- per month",
             "Logistic Support including working space and computer with internet facility",
             "Certificate of Internship upon satisfactory completion"
         ],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What Is The Amount Of The Monthly Remuneration That Is Paid To The Interns?",
-                "answer": "The Interns will be paid a stipend @ \u20b9 8,000/- per month."
+                "answer": "The Interns will be paid a stipend @ ₹ 8,000/- per month."
             },
             {
                 "question": "Will Logistic Support Be Provided By MoLE To The Interns?",
@@ -93,5 +93,6 @@
             "Research",
             "Student"
         ]
-    }
+    },
+    "id": "000903"
 }

@@ -5,9 +5,9 @@
         "department": "Labour Department, Union Territory of Puducherry",
         "type": "Welfare Scheme",
         "beneficiary": "Nominee of the deceased Unorganized Worker",
-        "details": "The 'Funeral Assistance Scheme (PULWS)' is a Welfare Scheme for the Unorganized Workers in Puducherry by the 'Puducherry Unorganised Labourers' Welfare Society'. The Society extends \u20b97,000/- to the nominee of the deceased Unorganised Worker towards meeting the funeral expenses. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee. The applications are accepted offline.",
+        "details": "The 'Funeral Assistance Scheme (PULWS)' is a Welfare Scheme for the Unorganized Workers in Puducherry by the 'Puducherry Unorganised Labourers' Welfare Society'. The Society extends ₹7,000/- to the nominee of the deceased Unorganised Worker towards meeting the funeral expenses. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b97,000/- to the nominee of the deceased member towards funeral expenses.",
+            "Financial Assistance of ₹7,000/- to the nominee of the deceased member towards funeral expenses.",
             "The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee."
         ],
         "eligibility": [
@@ -16,8 +16,8 @@
             "The deceased, in his/her lifetime, should have been an Unorganized Worker.",
             "The deceased, in his/her lifetime, should have been enrolled with the Puducherry Unorganised Labourers' Welfare Society.",
             "The deceased, in his/her lifetime, should have been between 18 to 59 years of age.",
-            "The deceased, in his/her lifetime, should have been taking an Annual Subscription of \u20b9100/- every year.",
-            "The deceased, in his/her lifetime, should have been paying a Registration Fee of \u20b925/-."
+            "The deceased, in his/her lifetime, should have been taking an Annual Subscription of ₹100/- every year.",
+            "The deceased, in his/her lifetime, should have been paying a Registration Fee of ₹25/-."
         ],
         "exclusions": [],
         "application_process": "Offline. Interested applicants should visit the Office of the Puducherry Unorganised Labourer's Welfare Society to obtain the application form free of cost and submit it with the required documents.",
@@ -37,7 +37,7 @@
         "faqs": [
             {
                 "question": "How does the scheme address the financial constraints faced by families of deceased unorganized workers?",
-                "answer": "The scheme alleviates financial constraints by providing a direct benefit transfer of \u20b97,000/- to the nominee, assisting in covering the funeral expenses of the deceased unorganized worker."
+                "answer": "The scheme alleviates financial constraints by providing a direct benefit transfer of ₹7,000/- to the nominee, assisting in covering the funeral expenses of the deceased unorganized worker."
             },
             {
                 "question": "Is there a provision for online submission of the application form?",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "Is there any financial contribution required from the deceased unorganized worker during their lifetime?",
-                "answer": "Yes, the deceased should have been taking an annual subscription of \u20b9100/- every year and paying a registration fee of \u20b925/- during their lifetime."
+                "answer": "Yes, the deceased should have been taking an annual subscription of ₹100/- every year and paying a registration fee of ₹25/- during their lifetime."
             },
             {
                 "question": "Can the application form for the Funeral Assistance Scheme be obtained online?",
@@ -81,7 +81,7 @@
             },
             {
                 "question": "Can you explain the mode of disbursement for the financial assistance under the Funeral Assistance Scheme?",
-                "answer": "The financial assistance of \u20b97,000/- is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee of the deceased unorganized worker."
+                "answer": "The financial assistance of ₹7,000/- is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee of the deceased unorganized worker."
             }
         ],
         "sources": [
@@ -96,5 +96,6 @@
             "Social Welfare",
             "Unorganized Workers"
         ]
-    }
+    },
+    "id": "000656"
 }

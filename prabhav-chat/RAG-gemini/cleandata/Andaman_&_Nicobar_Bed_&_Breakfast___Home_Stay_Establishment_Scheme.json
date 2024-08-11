@@ -5,12 +5,12 @@
         "department": "Directorate of Tourism, Andaman & Nicobar Administration",
         "type": "Accommodation",
         "beneficiary": "Foreign and domestic tourists",
-        "details": "The Directorate of Tourism, Andaman & Nicobar Administration, is implementing the \u2018Andaman & Nicobar Bed & Breakfast/Homestay Scheme\u2019 all over the Island based on the approved guidelines of the Ministry of Tourism, Govt. of India, under the scheme \u201cIncredible India Bed & Breakfast/Homestay Establishment\u201d. The concept of the scheme is to provide supplementary and quality accommodation for foreigners and domestic tourists to stay with an Indian family to experience Indian customs and traditions.",
+        "details": "The Directorate of Tourism, Andaman & Nicobar Administration, is implementing the ‘Andaman & Nicobar Bed & Breakfast/Homestay Scheme’ all over the Island based on the approved guidelines of the Ministry of Tourism, Govt. of India, under the scheme “Incredible India Bed & Breakfast/Homestay Establishment”. The concept of the scheme is to provide supplementary and quality accommodation for foreigners and domestic tourists to stay with an Indian family to experience Indian customs and traditions.",
         "benefits": [
             "The scheme will be on a bed-and-breakfast basis, and charges will have to be levied accordingly.",
             "Once an establishment applies for classification or reclassification, it will have to be ready at all times for inspection by the Classification Committee.",
             "Classification will be valid for three years from the date of issue of orders.",
-            "The application fee payable for classification or reclassification of a B&B or homestay will be as follows: Silver Star Category: \u20b9 1000/-; Gold Star Category: \u20b9 2000/-."
+            "The application fee payable for classification or reclassification of a B&B or homestay will be as follows: Silver Star Category: ₹ 1000/-; Gold Star Category: ₹ 2000/-."
         ],
         "eligibility": [
             "The owner/promoter of the establishment, along with his/her family, must physically reside in the same establishment.",
@@ -44,5 +44,6 @@
             "Homestay",
             "Tourism"
         ]
-    }
+    },
+    "id": "000081"
 }

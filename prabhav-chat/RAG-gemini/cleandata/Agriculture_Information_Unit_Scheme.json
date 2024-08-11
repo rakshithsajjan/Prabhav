@@ -2,10 +2,10 @@
     "content": {
         "title": "Agriculture Information Unit Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "State Plan Scheme",
         "beneficiary": "Bonafide farmers engaged in agriculture",
-        "details": "The 'Agriculture Information Unit Scheme' is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is to provide free distribution of information leaflets, booklets, etc. Sponsoring farmers' groups, and self-help groups to participate in and/or organize trade fairs, expos, and exhibitions within and outside the state.",
+        "details": "The 'Agriculture Information Unit Scheme' is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide free distribution of information leaflets, booklets, etc. Sponsoring farmers' groups, and self-help groups to participate in and/or organize trade fairs, expos, and exhibitions within and outside the state.",
         "benefits": [
             "Free distribution of information leaflets, package of practices, booklets etc.",
             "Sponsoring Farmers Group, SHG to exposure programmes like trade fairs, expos, exhibitions in and outside the State.",
@@ -34,7 +34,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department Of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya"
+                "answer": "Department Of Agriculture & Farmers’ Welfare, Government of Meghalaya"
             },
             {
                 "question": "Who is eligible to apply under this scheme?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the type of assistance/entitlement?",
-                "answer": "Support Farmers Exposure Trip, Sponsoring farmers/entrepreneurs to participate in Trade Fair, Exhibition, Kisan Mela, printing of booklets, leaflets, farmers\u2019 calendar, publications, observation of World Food Day etc."
+                "answer": "Support Farmers Exposure Trip, Sponsoring farmers/entrepreneurs to participate in Trade Fair, Exhibition, Kisan Mela, printing of booklets, leaflets, farmers’ calendar, publications, observation of World Food Day etc."
             },
             {
                 "question": "What is the pattern of assistance?",
@@ -53,7 +53,7 @@
                 "answer": "Bona fide farmers can approach the District Agriculture Officers of the concerned districts through Agriculture Development Officer of C & RD Block / Agriculture Circle /Agriculture Information Officer, Directorate of Agriculture Sub Divisional Officers of the concerned subdivisions."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "All farmers can avail of publication materials. Progressive farmers/entrepreneurs are eligible to apply for attending Trade Fairs/ Expos /Exhibitions outside the State. All farmers can apply to attend Fairs / Expos/ Exhibitions within the State subject to availability of funds and on a first come first basis."
             }
         ],
@@ -74,5 +74,6 @@
             "Leaflets",
             "Booklets"
         ]
-    }
+    },
+    "id": "000065"
 }

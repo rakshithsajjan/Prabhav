@@ -7,7 +7,7 @@
         "beneficiary": "Micro, Small and Medium Enterprises",
         "details": "The scheme 'Subsidy for Standard Quality Compliance' is a sub-scheme under the 'Banglashree for Micro, Small and Medium Enterprises' scheme. It was launched on 1st April 2020 by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal, and shall remain in force till 31st March 2025. The objective of the scheme is to extend fiscal incentives to encourage entrepreneurs to set up Micro, Small and Medium Enterprises with a view to focusing on the balanced development of MSMEs across the State and creating a sustainable ecosystem in the MSME sector which can maximize the utilization of resource, generate new employment and widen the area of operation to make the State emerge as the MSME leader in the country.",
         "benefits": [
-            "Reimbursement of 50% of the expenditure incurred for obtaining ISI/BIS certification/ISO 9000/ISO 14000/ISO 14001/ISO 18000/ISO 22000/HACCP certification from approved Institutions/Research Laboratories, subject to a maximum of \u20b9 5,00,000/-."
+            "Reimbursement of 50% of the expenditure incurred for obtaining ISI/BIS certification/ISO 9000/ISO 14000/ISO 14001/ISO 18000/ISO 22000/HACCP certification from approved Institutions/Research Laboratories, subject to a maximum of ₹ 5,00,000/-."
         ],
         "eligibility": [
             "The business/organization should be a Micro/Small/Medium Enterprise.",
@@ -24,7 +24,7 @@
             "Bricks (Excluding Fly Ash bricks, Sand lime Bricks, Refractory Bricks).",
             "Any other industry notified by the State Govt. for inclusion in this list."
         ],
-        "application_process": "Online. Visit the Shilpasathi Portal and click \u2018Apply Online\u2019. Follow the registration and application steps as outlined in the scheme details.",
+        "application_process": "Online. Visit the Shilpasathi Portal and click ‘Apply Online’. Follow the registration and application steps as outlined in the scheme details.",
         "documents_required": [
             "Copy of the Memorandum of Association and Articles of Association authenticated by the Registrar of Companies/partnership deed (wherever applicable).",
             "A statement on the name and address of the Directors/Partners/Owning members.",
@@ -92,5 +92,6 @@
             "Standard Quality Compliance",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000174"
 }

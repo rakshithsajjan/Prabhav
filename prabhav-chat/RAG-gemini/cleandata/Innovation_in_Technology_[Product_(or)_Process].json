@@ -7,7 +7,7 @@
         "beneficiary": "Micro, Small and Medium Enterprises",
         "details": "'Innovation in Technology [Product (or) Process]' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The award is conferred upon the industrial units who have patented their technology innovation. The scheme is formulated under the New Industrial Policy 2016, introduced on 4th October 2016. The scheme is in operation in the UT of Puducherry. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Cash Award of \u20b92,00,000/-",
+            "Cash Award of ₹2,00,000/-",
             "Citation"
         ],
         "eligibility": [
@@ -32,7 +32,7 @@
             },
             {
                 "question": "What are the benefits of receiving the 'Innovation in Technology [Product (or) Process]' State Award?",
-                "answer": "Recipients of this award receive a cash prize of \u20b92,00,000/- along with a citation in recognition of their innovative contributions."
+                "answer": "Recipients of this award receive a cash prize of ₹2,00,000/- along with a citation in recognition of their innovative contributions."
             },
             {
                 "question": "What categories of awards are provided under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises'?",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What are the financial benefits provided under this scheme?",
-                "answer": "Recipients of the awards are granted a cash award of \u20b92,00,000/- along with a citation."
+                "answer": "Recipients of the awards are granted a cash award of ₹2,00,000/- along with a citation."
             },
             {
                 "question": "Who constitutes the Committee responsible for granting these awards?",
@@ -84,5 +84,6 @@
             "Patent",
             "Technology"
         ]
-    }
+    },
+    "id": "000860"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Individuals with dwarfism",
         "details": "The Dwarf Pension Scheme, under the Uttarakhand Social Welfare Department, aims to integrate individuals with dwarfism into mainstream society by providing financial assistance. Recognizing the challenges faced by dwarf persons in their daily lives, the scheme offers a monthly pension to support their livelihood and social inclusion.",
         "benefits": [
-            "Monthly pension of \u20b91,200/- (one thousand two hundred)."
+            "Monthly pension of ₹1,200/- (one thousand two hundred)."
         ],
         "eligibility": [
             "The applicant's height should be below 4 feet for getting benefits of the Dwarf Pension Scheme.",
@@ -31,7 +31,7 @@
             },
             {
                 "question": "How much financial assistance is provided under the Dwarf Pension Scheme?",
-                "answer": "The scheme provides financial assistance of \u20b91200 per month."
+                "answer": "The scheme provides financial assistance of ₹1200 per month."
             },
             {
                 "question": "Who is eligible for the Dwarf Pension Scheme?",
@@ -69,5 +69,6 @@
             "Social Empowerment",
             "Uttarakhand"
         ]
-    }
+    },
+    "id": "001999"
 }

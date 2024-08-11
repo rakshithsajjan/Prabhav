@@ -5,15 +5,15 @@
         "department": "Panchayat Raj & Rural Development Department, Govt. of Andhra Pradesh",
         "type": "Pension",
         "beneficiary": "Person With Disability, Senior Citizen, Transgender, Widow",
-        "details": "'YSR Pension Kanuka' is a Social Security Scheme by the Panchayat Raj & Rural Development Department, Govt. of Andhra Pradesh. The objective of this scheme is to ameliorate the hardships of the poor and vulnerable sections of society particularly the old and infirm, widows, and persons with disability to secure a dignified life. In 2019, the department enhanced the pension amount of Old Age Pension (OAP), Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories to \u20b9 2,250/-, Disabled Pensions to \u20b9 3,000/-, CKDU/Dialysis Pensions to \u20b9 10,000/-, and also reduced the age for Old Age Pensioners (OAP) from 65 to 60 years. The Eligibility Criteria have been revised so that the benefit of pension shall be reached all sections of the needy people.",
+        "details": "'YSR Pension Kanuka' is a Social Security Scheme by the Panchayat Raj & Rural Development Department, Govt. of Andhra Pradesh. The objective of this scheme is to ameliorate the hardships of the poor and vulnerable sections of society particularly the old and infirm, widows, and persons with disability to secure a dignified life. In 2019, the department enhanced the pension amount of Old Age Pension (OAP), Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories to ₹ 2,250/-, Disabled Pensions to ₹ 3,000/-, CKDU/Dialysis Pensions to ₹ 10,000/-, and also reduced the age for Old Age Pensioners (OAP) from 65 to 60 years. The Eligibility Criteria have been revised so that the benefit of pension shall be reached all sections of the needy people.",
         "benefits": [
-            "Monthly Pension of \u20b9 2,250/- for Old Age, Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories.",
-            "Monthly Pension of \u20b9 3,000/- for Persons with Disability.",
-            "Monthly Pension of \u20b9 10,000/- for Persons on CKDU/Dialysis.",
+            "Monthly Pension of ₹ 2,250/- for Old Age, Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories.",
+            "Monthly Pension of ₹ 3,000/- for Persons with Disability.",
+            "Monthly Pension of ₹ 10,000/- for Persons on CKDU/Dialysis.",
             "In the event of death of Old Age, Weaver, Fishermen, Toddy toppers, or Disabled category pensioners, the pension will be sanctioned to Spouse (wife) to support the family."
         ],
         "eligibility": [
-            "Total family income should be less than \u20b9 10,000/- per month in Rural areas and \u20b9 12,000/- per month in Urban Areas.",
+            "Total family income should be less than ₹ 10,000/- per month in Rural areas and ₹ 12,000/- per month in Urban Areas.",
             "The total land holding of the family should be less than 3.00 acres of wet (or) 10.00 acres of dry (or) 10.00 acres of both wet and dry land together.",
             "Family should not own a four-wheeler (Taxis, Tractors, and Autos are exempted).",
             "No family member should be a Government employee or Pensioner.",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What Were The Amendments Made To The Scheme In The Year 2019?",
-                "answer": "In 2019, the department enhanced the pension amount of Old Age Pension (OAP), Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories to \u20b9 2,250/-, Disabled Pensions to \u20b9 3,000/-, CKDU/Dialysis Pensions to \u20b9 10,000/-, and also reduced the age for Old Age Pensioners (OAP) from 65 to 60 years."
+                "answer": "In 2019, the department enhanced the pension amount of Old Age Pension (OAP), Widow, Weavers, Toddy Tappers, Fishermen, Single Women, Traditional Cobblers, and PLHIV (ART Pensions) categories to ₹ 2,250/-, Disabled Pensions to ₹ 3,000/-, CKDU/Dialysis Pensions to ₹ 10,000/-, and also reduced the age for Old Age Pensioners (OAP) from 65 to 60 years."
             },
             {
                 "question": "Where Can I Find The Link To The Scheme Guidelines?",
@@ -72,5 +72,6 @@
                 "url": "https://www.myscheme.gov.in/schemes/ysrpk"
             }
         ]
-    }
+    },
+    "id": "002070"
 }

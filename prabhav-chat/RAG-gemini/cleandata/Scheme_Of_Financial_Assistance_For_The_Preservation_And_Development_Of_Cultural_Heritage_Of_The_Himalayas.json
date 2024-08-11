@@ -7,7 +7,7 @@
         "beneficiary": "Voluntary organizations, Colleges, and Universities",
         "details": "The scheme was launched by the Ministry of Culture, Government of India, to promote, protect and preserve the cultural heritage of the Himalayan region through research, documentation, dissemination, etc.",
         "benefits": [
-            "Financial assistance up to \u20b910.00 lakhs to any single organization for various cultural heritage projects."
+            "Financial assistance up to ₹10.00 lakhs to any single organization for various cultural heritage projects."
         ],
         "eligibility": [
             "Registered as a society under the Societies Registration Act 1860 or as a public trust under Indian Trust Act, 1882.",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "How much financial assistance will be provided under the scheme?",
-                "answer": "Up to a maximum of \u20b910.00 lakhs to any single organization."
+                "answer": "Up to a maximum of ₹10.00 lakhs to any single organization."
             },
             {
                 "question": "Which type of organization is eligible to apply under the scheme?",
@@ -72,5 +72,6 @@
             "Heritage",
             "Himalayas"
         ]
-    }
+    },
+    "id": "001677"
 }

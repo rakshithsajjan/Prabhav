@@ -5,7 +5,7 @@
         "department": "Ministry of Education",
         "type": "Scholarship",
         "beneficiary": "Orphans, wards of parents who died due to Covid-19, wards of Armed Forces and Central Paramilitary Forces martyred in action",
-        "details": "A scholarship scheme by the Student Development Cell (StDC) of All India Council for Technical Education (AICTE) to provide encouragement and support to orphans, wards of parents who died due to Covid-19, wards of Armed Forces, and Central Paramilitary Forces martyred in action (Shaheed) to pursue education. This is an attempt to give every such child, an opportunity to study further and prepare for a successful future through education in AICTE Approved institutions and courses. The family income from all sources should not be more than \u20b98,00,000 per annum during the financial year of the application. The candidate should be currently studying in the AICTE Approved institutions and courses at the Degree/Diploma level in regular mode (in 1st /2nd / 3rd /4th year). The candidate should NOT be a Recipient of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships. A maximum of 2000 scholarships (1000 for Degree Students and 1000 for Diploma Students) will be awarded every year to eligible candidates as above. \u20b950,000.00 per annum for every year of study i.e. maximum 4 years duration for first-year admitted Degree students and maximum 3 years for Diploma Students as lump sum amount towards payment of college fee, purchase of computer, stationeries, books, equipment, software, etc.",
+        "details": "A scholarship scheme by the Student Development Cell (StDC) of All India Council for Technical Education (AICTE) to provide encouragement and support to orphans, wards of parents who died due to Covid-19, wards of Armed Forces, and Central Paramilitary Forces martyred in action (Shaheed) to pursue education. This is an attempt to give every such child, an opportunity to study further and prepare for a successful future through education in AICTE Approved institutions and courses. The family income from all sources should not be more than ₹8,00,000 per annum during the financial year of the application. The candidate should be currently studying in the AICTE Approved institutions and courses at the Degree/Diploma level in regular mode (in 1st /2nd / 3rd /4th year). The candidate should NOT be a Recipient of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships. A maximum of 2000 scholarships (1000 for Degree Students and 1000 for Diploma Students) will be awarded every year to eligible candidates as above. ₹50,000.00 per annum for every year of study i.e. maximum 4 years duration for first-year admitted Degree students and maximum 3 years for Diploma Students as lump sum amount towards payment of college fee, purchase of computer, stationeries, books, equipment, software, etc.",
         "benefits": [
             "A maximum of 2000 scholarships (1000 for Degree Students and 1000 for Diploma Students) will be awarded every year.",
             "Rs. 50,000.00 per annum for every year of study.",
@@ -13,7 +13,7 @@
         ],
         "eligibility": [
             "The candidate should be one of the following: (i) an orphan, OR (ii) whose either or both parents died due to Covid 19, OR (iii) Ward of Armed Forces and Central Paramilitary Forces martyred in action (Shaheed).",
-            "The family income from all sources should not be more than \u20b98,00,000 per annum during the financial year of the application.",
+            "The family income from all sources should not be more than ₹8,00,000 per annum during the financial year of the application.",
             "The candidate should be currently studying in the AICTE Approved institutions and courses at the Degree/Diploma level in regular mode (in 1st /2nd / 3rd /4th year).",
             "The candidate should NOT be Recipient of any of the Central Govt. / State Govt. / AICTE Sponsored scholarships."
         ],
@@ -57,5 +57,6 @@
             "Covid-19",
             "Orphans"
         ]
-    }
+    },
+    "id": "000019"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Farmer",
         "details": "The Vermicompost Ikai under the Agriculture Department Rajasthan government provides subsidies to farmers. Through the organic manure method, good quality manure can be prepared in a very short time under normal temperatures in which entire species of earthworms are used. In this, the cellulose and microorganisms present in the intestines of earthworms together decompose the ingested organic matter very rapidly. Due to the effect of their digestive process and the combined mixture of organic matter, these earthworms leave out a waste material which is called vermicomposting and these Manure pits are not found without earthworms.",
         "benefits": [
-            "Vermicomposting Unit with RCC Construction: Size: 30 feet X 8 feet X 2.5 feet, Cost: 50% of the installation cost, up to a maximum of \u20b950,000/- per unit, Subsidy is proportional to the size of the unit",
-            "HDPE Vermibed Unit: Size: 12 feet X 4 feet X 2 feet, Cost: 50% of the installation cost, up to a maximum of \u20b98,000/- per unit, Subsidy is proportional to the size of the unit"
+            "Vermicomposting Unit with RCC Construction: Size: 30 feet X 8 feet X 2.5 feet, Cost: 50% of the installation cost, up to a maximum of ₹50,000/- per unit, Subsidy is proportional to the size of the unit",
+            "HDPE Vermibed Unit: Size: 12 feet X 4 feet X 2 feet, Cost: 50% of the installation cost, up to a maximum of ₹8,000/- per unit, Subsidy is proportional to the size of the unit"
         ],
         "eligibility": [
             "The applicant should be a native of Rajasthan.",
@@ -80,5 +80,6 @@
             "Subsidy",
             "Rajasthan"
         ]
-    }
+    },
+    "id": "002008"
 }

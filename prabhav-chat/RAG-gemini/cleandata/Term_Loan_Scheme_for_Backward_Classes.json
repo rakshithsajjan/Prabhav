@@ -5,15 +5,15 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Individuals from Backward Classes",
-        "details": "The scheme 'Term Loan Scheme for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans of up to \u20b915,00,000/- are provided at an annual interest rate of 6% to 8% to individuals from the Backward Classes to enhance their employability. This applies to those with an annual family income of up to \u20b93,00,000/- in both rural and urban areas. Applicants must be between 18 and 55 years old, permanent residents of Haryana, and belong to the Backward Classes.",
+        "details": "The scheme 'Term Loan Scheme for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans of up to ₹15,00,000/- are provided at an annual interest rate of 6% to 8% to individuals from the Backward Classes to enhance their employability. This applies to those with an annual family income of up to ₹3,00,000/- in both rural and urban areas. Applicants must be between 18 and 55 years old, permanent residents of Haryana, and belong to the Backward Classes.",
         "benefits": [
-            "Loans of up to \u20b915,00,000/- at an annual interest rate of 6% to 8% to enhance employability."
+            "Loans of up to ₹15,00,000/- at an annual interest rate of 6% to 8% to enhance employability."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The applicant should be between 18 and 55 years old.",
             "The applicant should belong to the Backward Classes category.",
-            "The annual family income of the applicant should not exceed \u20b93,00,000/- in both rural and urban areas.",
+            "The annual family income of the applicant should not exceed ₹3,00,000/- in both rural and urban areas.",
             "The applicant should have a Parivar Pehchan Patra (PPP ID)."
         ],
         "exclusions": [],
@@ -31,7 +31,7 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount provided under this scheme?",
-                "answer": "The maximum loan amount provided under this scheme is \u20b915,00,000/-."
+                "answer": "The maximum loan amount provided under this scheme is ₹15,00,000/-."
             },
             {
                 "question": "What is the interest rate for loans under this scheme?",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Can an individual from urban areas apply for this scheme?",
-                "answer": "Yes, individuals from both rural and urban areas can apply, provided their annual family income does not exceed \u20b93,00,000/-."
+                "answer": "Yes, individuals from both rural and urban areas can apply, provided their annual family income does not exceed ₹3,00,000/-."
             },
             {
                 "question": "Do I need to be a permanent resident of Haryana to apply?",
@@ -82,5 +82,6 @@
             "Loan Assistance",
             "Term Loan"
         ]
-    }
+    },
+    "id": "001938"
 }

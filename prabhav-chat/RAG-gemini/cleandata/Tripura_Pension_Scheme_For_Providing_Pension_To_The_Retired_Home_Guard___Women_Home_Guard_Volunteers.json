@@ -5,9 +5,9 @@
         "department": "Department of Home Affairs",
         "type": "Pension",
         "beneficiary": "Retired Home Guard / Women Home Guard Volunteers",
-        "details": "Effective from 1st December 2012, this is a pension scheme for the Retired Home Guard / Women Home Guard Volunteers. The Rate of Pension shall be \u20b9750 per head per month (without any allowances whatsoever). Arrears shall not be payable. The retirement from the service should have been on superannuation or on medical invalidation only. Persons getting pensions from other sources (excluding social pensions) shall not come under the purview of the proposed scheme. The pensioner should open a Bank Account and the pension should be only credited to their Bank Account every month.",
+        "details": "Effective from 1st December 2012, this is a pension scheme for the Retired Home Guard / Women Home Guard Volunteers. The Rate of Pension shall be ₹750 per head per month (without any allowances whatsoever). Arrears shall not be payable. The retirement from the service should have been on superannuation or on medical invalidation only. Persons getting pensions from other sources (excluding social pensions) shall not come under the purview of the proposed scheme. The pensioner should open a Bank Account and the pension should be only credited to their Bank Account every month.",
         "benefits": [
-            "Rate of Pension: \u20b9750 per head per month."
+            "Rate of Pension: ₹750 per head per month."
         ],
         "eligibility": [
             "The applicant must be a Retired Home Guard / Women Home Guard Volunteer.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What is the maximum amount of monthly pension that one can receive through this scheme?",
-                "answer": "\u20b9750 per head per month."
+                "answer": "₹750 per head per month."
             },
             {
                 "question": "Who shall be the Sanctioning Authority?",
@@ -70,5 +70,6 @@
             "Home Guard",
             "Tripura"
         ]
-    }
+    },
+    "id": "001976"
 }

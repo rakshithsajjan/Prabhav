@@ -5,10 +5,10 @@
         "department": "Department of Fisheries, Government of Goa",
         "type": "Subsidy",
         "beneficiary": "Fishermen",
-        "details": "The scheme 'Financial Assistance for Purchase of Fuel (Petrol) to the Fishermen for Operation of Out Board Motors' is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a subsidy of \u20b9 30 per Litre on a maximum consumption of 1000 Litre of Petrol is provided to the fishermen.",
+        "details": "The scheme 'Financial Assistance for Purchase of Fuel (Petrol) to the Fishermen for Operation of Out Board Motors' is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a subsidy of ₹ 30 per Litre on a maximum consumption of 1000 Litre of Petrol is provided to the fishermen.",
         "benefits": [
-            "Subsidy of \u20b9 30 per Litre on a maximum consumption of 1000 Litre of Petrol.",
-            "For SC/ST, a Subsidy of \u20b9 30 per Litre on a maximum consumption of 1100 Litre of Petrol.",
+            "Subsidy of ₹ 30 per Litre on a maximum consumption of 1000 Litre of Petrol.",
+            "For SC/ST, a Subsidy of ₹ 30 per Litre on a maximum consumption of 1100 Litre of Petrol.",
             "The benefits can be availed every year."
         ],
         "eligibility": [
@@ -72,7 +72,7 @@
             },
             {
                 "question": "What is the maximum petrol consumption limit for SC/ST beneficiaries under the scheme?",
-                "answer": "SC/ST beneficiaries have a maximum allowable petrol consumption of 1100 litres, with a subsidy of \u20b930 per litre."
+                "answer": "SC/ST beneficiaries have a maximum allowable petrol consumption of 1100 litres, with a subsidy of ₹30 per litre."
             },
             {
                 "question": "How can one contact the Grievance Redressal Officer for the Department?",
@@ -116,5 +116,6 @@
             "Petrol",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000570"
 }

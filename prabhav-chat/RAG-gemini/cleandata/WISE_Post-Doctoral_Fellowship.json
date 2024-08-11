@@ -7,8 +7,8 @@
         "beneficiary": "Women Scientists",
         "details": "The Department of Science and Technology (DST) is implementing a dedicated umbrella scheme 'Women in Science and Engineering-KIRAN (WISE-KIRAN)' with the aim to support women from all walks of life in the domain of Science & Technology. The Department has re-structured one of the flagship programme 'Women Scientists Scheme' and come up with a new programme 'WISE Post-Doctoral Fellowship (WISE-PDF)' that aims to provide opportunities to women scientists and technologists between the age group of 27-60 years who want to continue the research as bench-level scientists in basic and applied sciences.",
         "benefits": [
-            "The fellowship amount under this programme is @\u20b955,000/- per month with House Rent Allowances as per DST norms.",
-            "This Programme also provides a Research Grant of \u20b92.0 Lakhs per year and the cost of small equipment (up to a maximum of \u20b93.0 Lakhs) along with Institutional overhead charges."
+            "The fellowship amount under this programme is @₹55,000/- per month with House Rent Allowances as per DST norms.",
+            "This Programme also provides a Research Grant of ₹2.0 Lakhs per year and the cost of small equipment (up to a maximum of ₹3.0 Lakhs) along with Institutional overhead charges."
         ],
         "eligibility": [
             "Candidates in regular employment are not eligible for WISE-PDF. However, women scientists who are temporarily employed in research or academics may apply for the scheme but they have to leave their earlier assignment if the WISE-PDF project is approved.",
@@ -21,7 +21,7 @@
         "documents_required": [
             "Project Proposal Document (Format)",
             "Biodata of PI (Signed) (Format)",
-            "Mentor\u2019s Biodata (Signed) (Format)",
+            "Mentor’s Biodata (Signed) (Format)",
             "Caste Certificate (If applicable)",
             "Disability Certificate (If Applicable)",
             "Proof of age (Birth Certificate, 10th Class certificate)",
@@ -72,5 +72,6 @@
             "Post-Doctoral",
             "Research"
         ]
-    }
+    },
+    "id": "002028"
 }

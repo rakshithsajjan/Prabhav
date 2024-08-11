@@ -5,9 +5,9 @@
         "department": "Art and Culture Department",
         "type": "Financial Assistance",
         "beneficiary": "Folk Artist",
-        "details": "The scheme 'Marriage Assistance' was launched by the Art and Culture Department, Government of Tamil Nadu. This scheme provides financial assistance of \u20b92,000/- for the marriage of registered folk artists, or their son or daughter. The assistance aims to support the cultural community by helping with marriage expenses.",
+        "details": "The scheme 'Marriage Assistance' was launched by the Art and Culture Department, Government of Tamil Nadu. This scheme provides financial assistance of ₹2,000/- for the marriage of registered folk artists, or their son or daughter. The assistance aims to support the cultural community by helping with marriage expenses.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/-."
+            "Financial Assistance of ₹2,000/-."
         ],
         "eligibility": [
             "The applicant should be a registered folk artist.",
@@ -53,7 +53,7 @@
             },
             {
                 "question": "What is the amount of assistance provided?",
-                "answer": "The amount of assistance provided is \u20b92000."
+                "answer": "The amount of assistance provided is ₹2000."
             },
             {
                 "question": "Which form is required for applying?",
@@ -77,7 +77,7 @@
             },
             {
                 "question": "Who is the appellate authority for this assistance?",
-                "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamil Nadu Folk Artist\u2019s Welfare Board. The contact phone numbers are 044-615156 & 24613430."
+                "answer": "The appellate authority is A. Daniel Premnath, Secretary, Tamil Nadu Folk Artist’s Welfare Board. The contact phone numbers are 044-615156 & 24613430."
             }
         ],
         "sources": [
@@ -99,5 +99,6 @@
             "Folk Artist",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001085"
 }

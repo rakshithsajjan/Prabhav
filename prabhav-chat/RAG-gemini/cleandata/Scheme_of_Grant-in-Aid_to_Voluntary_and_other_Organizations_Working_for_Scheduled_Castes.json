@@ -10,7 +10,7 @@
             "Educational Initiatives: Opening of Hostels and Residential Schools, ITIs, Arts and Craft Centers, or Any Other Income Generating Scheme.",
             "Tuition Fee Support: Meeting the Cost of Tuition Fees for Training in Information Technology at Institutions of Repute Selected by the Ministry of Social Justice & Empowerment.",
             "Childcare Services: Organizing Balwadies and Bal Kendras, i.e., Creches, to Look After the Deprived Children of Scheduled Castes.",
-            "Healthcare Facilities: Providing Medical Facilities to Scheduled Castes through the Establishment of Hospitals or Mobile Dispensaries. For a ten-bed hospital, a visiting specialist (paediatrician/gynaecologist) is recommended. The maximum expenditure per month for this purpose will be restricted to \u20b910,000, subject to payment of \u20b91,000 per visit/day.",
+            "Healthcare Facilities: Providing Medical Facilities to Scheduled Castes through the Establishment of Hospitals or Mobile Dispensaries. For a ten-bed hospital, a visiting specialist (paediatrician/gynaecologist) is recommended. The maximum expenditure per month for this purpose will be restricted to ₹10,000, subject to payment of ₹1,000 per visit/day.",
             "Awareness and Support: Creating Awareness Regarding Government Programs and Facilities, and Providing Assistance and Guidance in Accessing Various Government Facilities like Legal Aid, Scholarships, Loans, Various Grants, and Client Services.",
             "Grievance Redressal: Providing Assistance for Grievance Redressal at Appropriate Judicial/Administrative Fora.",
             "Coaching and Advocacy: Coaching Centers for Various Entrance Examinations and Tests and Other Service-Related Competitive Examinations, which are not covered in the Coaching Scheme for Scheduled Castes and Other Backward Classes. Addressing Human Rights Issues, Environmental Issues, and Issues Related to the Protection of Consumers' Rights.",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "What healthcare facilities are provided through this scheme, and what is the cost limit for certain services?",
-                "answer": "The scheme supports medical facilities, including hospitals and mobile dispensaries, with a cost limit of \u20b910,000 per month for ten-bedded hospitals, subject to \u20b91,000 per visit/day for visiting specialists."
+                "answer": "The scheme supports medical facilities, including hospitals and mobile dispensaries, with a cost limit of ₹10,000 per month for ten-bedded hospitals, subject to ₹1,000 per visit/day for visiting specialists."
             },
             {
                 "question": "Can you explain the scope of educational initiatives covered by this scheme?",
@@ -105,5 +105,6 @@
             "NGO",
             "Scheduled Caste"
         ]
-    }
+    },
+    "id": "001733"
 }

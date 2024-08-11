@@ -8,8 +8,8 @@
         "details": "The Government of Kerala has initiated the scheme 'Assistance Scheme for Handicraft Artisans (ASHA)' to provide financial assistance in the form of grants to the artisans in the handicrafts sector for setting up handicraft enterprises. The assistance is a one-time support to eligible artisans of the state as back-end assistance. The Scheme aims to replace the existing scheme and bring the artisans in the handicrafts sector under the ambit of a single scheme for availing financial assistance in the form of grant assistance for setting up handicraft enterprises.",
         "benefits": [
             "Provides assistance for the Fixed Capital Investment, i.e. construction of Work shed/Workshop, cost of tools, equipment, machinery and accessories, electrification, Technology support/product/Design development.",
-            "For General Category artisans, assistance is 40% of the Fixed Capital Investment limited to \u20b92.00 lakh.",
-            "For Young (18 to 45 years), Women, and SC/ST artisans, the assistance is 50% limited to \u20b93.00 lakh."
+            "For General Category artisans, assistance is 40% of the Fixed Capital Investment limited to ₹2.00 lakh.",
+            "For Young (18 to 45 years), Women, and SC/ST artisans, the assistance is 50% limited to ₹3.00 lakh."
         ],
         "eligibility": [
             "All Micro Enterprises engaged in the handicraft sector and set up in the State, which had filed Entrepreneurs Memorandum Part-II with the respective General Manager, District Industries Centre, or have taken Udyog Aadhaar shall be eligible for assistance under the Scheme."
@@ -42,27 +42,27 @@
                 "answer": "Industries & Commerce Department, Government of Kerala."
             },
             {
-                "question": "What does \u2018Artisan\u2019 mean?",
+                "question": "What does ‘Artisan’ mean?",
                 "answer": "An artisan is a person who has been categorized as such by the office of the Development Commissioner (Handicrafts), Govt. of India or SURABHI, KSBC, KADCO, HDCK, KELPALM and has taken effective steps to set-up an enterprise in the handicrafts sector."
             },
             {
-                "question": "What does \u2018Enterprise\u2019 mean?",
+                "question": "What does ‘Enterprise’ mean?",
                 "answer": "An industrial unit falling under Micro category under the MSMED Act 2006 and having filed EM Part -II or Udyog Aadhaar."
             },
             {
-                "question": "What does \u201cWomen enterprise\u201d mean?",
+                "question": "What does “Women enterprise” mean?",
                 "answer": "An enterprise in which at least 50% of the promoters are women artisans."
             },
             {
-                "question": "What does \u201cYoung artisan\u201d mean?",
+                "question": "What does “Young artisan” mean?",
                 "answer": "An artisan between the age of 15 and 45. In case of more than one artisan, then to be eligible for assistance under this Scheme, all the artisans shall be between the age of 18 and 45."
             },
             {
-                "question": "What does \u201cScheduled Caste and Scheduled Tribe entrepreneur\u201d mean?",
+                "question": "What does “Scheduled Caste and Scheduled Tribe entrepreneur” mean?",
                 "answer": "An artisan belonging to Scheduled Castes or Scheduled Tribes under The Constitution Amendment (Scheduled Castes) Order, 1950/ The institution Amendment (Scheduled Tribes) Order, 1950."
             },
             {
-                "question": "What does \u201cRecommending Authority\u201d mean?",
+                "question": "What does “Recommending Authority” mean?",
                 "answer": "Office of the Development Commissioner (Handicrafts), Government of India or SURABHI, KSBC, KADCO, HDCK, KELPALM for artisans registered through them."
             },
             {
@@ -75,11 +75,11 @@
             },
             {
                 "question": "What is the maximum assistance given to the General Category artisans under the scheme?",
-                "answer": "For General Category artisans, assistance is 40% of the Fixed Capital Investment limited to \u20b92.00 lakh."
+                "answer": "For General Category artisans, assistance is 40% of the Fixed Capital Investment limited to ₹2.00 lakh."
             },
             {
                 "question": "What is the maximum assistance given to the Young artisans under the scheme?",
-                "answer": "For Young (18 to 45 years), Women, and SC/ST artisans, the assistance is 50% limited to \u20b93.00 lakh."
+                "answer": "For Young (18 to 45 years), Women, and SC/ST artisans, the assistance is 50% limited to ₹3.00 lakh."
             },
             {
                 "question": "Is an enterprise eligible to get assistance if it has already received any subsidy under any scheme?",
@@ -111,5 +111,6 @@
             "Artisan",
             "ASHA"
         ]
-    }
+    },
+    "id": "000111"
 }

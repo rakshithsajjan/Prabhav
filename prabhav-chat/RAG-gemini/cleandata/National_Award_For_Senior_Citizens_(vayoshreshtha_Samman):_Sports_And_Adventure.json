@@ -5,11 +5,11 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Senior Citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Sports and Adventure' award shall be given to senior citizens who have won international acclaim and who continue to contribute in the field of sports and adventure. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The Awards are given across 13 categories.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Sports and Adventure' award shall be given to senior citizens who have won international acclaim and who continue to contribute in the field of sports and adventure. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The Awards are given across 13 categories.",
         "benefits": [
             "Citation",
             "Memento",
-            "Cash award of \u20b9 2,50,000/-",
+            "Cash award of ₹ 2,50,000/-",
             "Boarding and lodging expenses for awardees and one companion",
             "Reimbursement of to-and-fro travelling expenses"
         ],
@@ -42,7 +42,7 @@
             },
             {
                 "question": "Who confers these awards?",
-                "answer": "The awards are conferred by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi."
+                "answer": "The awards are conferred by the Hon’ble President of India at Vigyan Bhawan, New Delhi."
             },
             {
                 "question": "How many categories are there in this award?",
@@ -74,5 +74,6 @@
             "Social Welfare",
             "Sports"
         ]
-    }
+    },
+    "id": "001284"
 }

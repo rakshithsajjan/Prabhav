@@ -7,8 +7,8 @@
         "beneficiary": "Farmers",
         "details": "The scheme 'Export Oriented Production: Large Cardamom Certified Nursery (Unit)' is a Sub-Scheme of the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom by the Spice Board, Department of Commerce and Industry, Ministry of Commerce. The objective of this scheme is to promote farmers to produce quality and disease-free planting materials in their own fields for replanting.",
         "benefits": [
-            "33.33% of the cost of production of planting material subject to a maximum of \u20b9 3 per seedling for the General Category.",
-            "75% of the cost of production of planting material @ \u20b9 6.75 per seedling for SC/ST."
+            "33.33% of the cost of production of planting material subject to a maximum of ₹ 3 per seedling for the General Category.",
+            "75% of the cost of production of planting material @ ₹ 6.75 per seedling for SC/ST."
         ],
         "eligibility": [
             "Individual growers/farmers groups having suitable land and facility for irrigating the nursery."
@@ -20,7 +20,7 @@
             "Aadhar card",
             "Copy of SC/ST certificate (if applicable)",
             "Copy of Bank Passbook",
-            "No Objection Certificate from panchayats if the Land is not in the beneficiary\u2019s name."
+            "No Objection Certificate from panchayats if the Land is not in the beneficiary’s name."
         ],
         "faqs": [
             {
@@ -29,7 +29,7 @@
             },
             {
                 "question": "What type of legal entity must farmer groups seeking assistance be?",
-                "answer": "Farmer groups seeking assistance must be a legal entity (e.g., Reg. Society/FPC/FPO/SHG/SPS), and they must execute an agreement with the Board in the prescribed format on a \u20b9200/- stamp paper."
+                "answer": "Farmer groups seeking assistance must be a legal entity (e.g., Reg. Society/FPC/FPO/SHG/SPS), and they must execute an agreement with the Board in the prescribed format on a ₹200/- stamp paper."
             },
             {
                 "question": "How is the final inspection and eligibility recommendation process conducted?",
@@ -90,5 +90,6 @@
             "Nursery",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000870"
 }

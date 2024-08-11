@@ -7,12 +7,12 @@
         "beneficiary": "Girl Students",
         "details": "A scholarship scheme by AICTE, MoE for Girl Students admitted in 1st or 2nd Year of the technical degree course in an AICTE approved institution. A maximum of two girl children per family are eligible to avail of the benefits. The benefits are provided for a period of maximum of 4 years for first-year admitted students and a maximum of 3 years for second-year admitted students through lateral entry. This scheme is an attempt to give young women the opportunity to further their education and prepare for a successful future by empowering Women through knowledge, skill, and self-confidence.",
         "benefits": [
-            "\u20b9 50,000/- per annum for every year of study, i.e. maximum of 4 years for first-year admitted students and a maximum of 3 years for second-year admitted students, through lateral entry as a lump sum amount towards payment of college fees, purchase of computer, stationeries, books, equipment, software, etc."
+            "₹ 50,000/- per annum for every year of study, i.e. maximum of 4 years for first-year admitted students and a maximum of 3 years for second-year admitted students, through lateral entry as a lump sum amount towards payment of college fees, purchase of computer, stationeries, books, equipment, software, etc."
         ],
         "eligibility": [
             "The applicant must be a Girl Student.",
             "The applicant must be pursuing either the First year of the degree course OR the Second year of the Degree course through lateral entry.",
-            "The annual income of the family (from all sources) must not be more than \u20b9 8,00,000/- per annum during the current financial year.",
+            "The annual income of the family (from all sources) must not be more than ₹ 8,00,000/- per annum during the current financial year.",
             "All eligible girls (who submit online scholarship form) from the following 13 Union Territories and North Eastern States i.e. Andaman and Nicobar Islands (UT), Jammu and Kashmir (UT), Ladakh (UT), Dadra and Nagar Haveli & Daman and Diu (UT), Lakshadweep (UT), Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim & Tripura will be given a scholarship by AICTE."
         ],
         "exclusions": [
@@ -32,7 +32,7 @@
             "Aadhaar Card",
             "Study Certificate (Appendix-I)",
             "Annual Family Income Certificate (Appendix-II)",
-            "Parent\u2019s Declaration (Appendix-III)",
+            "Parent’s Declaration (Appendix-III)",
             "Bank Mandate Form (Appendix-IV)"
         ],
         "faqs": [
@@ -82,5 +82,6 @@
             "AICTE",
             "Ministry of Education"
         ]
-    }
+    },
+    "id": "001504"
 }

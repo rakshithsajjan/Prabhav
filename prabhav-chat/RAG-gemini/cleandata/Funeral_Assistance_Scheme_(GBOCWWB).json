@@ -5,14 +5,14 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Financial Assistance",
         "beneficiary": "Legal heirs of deceased construction workers",
-        "details": "The \u201cFuneral Assistance Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board in case of death during the ongoing membership.",
+        "details": "The “Funeral Assistance Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board in case of death during the ongoing membership.",
         "benefits": [
-            "Financial assistance of \u20b910,000/- shall be given to the legal heirs of the deceased construction workers."
+            "Financial assistance of ₹10,000/- shall be given to the legal heirs of the deceased construction workers."
         ],
         "eligibility": [
             "The applicant should be a legal heir of the deceased worker.",
             "The deceased worker should have been engaged in any building or other construction work.",
-            "The deceased worker should have been registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "The deceased worker should have been registered with the Gujarat Building and Other Construction Worker’s Welfare Board.",
             "Financial assistance is provided to the legal heir of the deceased worker in the event of their death during the ongoing membership."
         ],
         "exclusions": [],
@@ -31,19 +31,19 @@
         "faqs": [
             {
                 "question": "Who administers the Funeral Assistance Scheme?",
-                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker’s Welfare Board."
             },
             {
                 "question": "What is the primary objective of the Scheme?",
-                "answer": "The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board in case of death during the ongoing membership."
+                "answer": "The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker’s Welfare Board in case of death during the ongoing membership."
             },
             {
                 "question": "What benefits does the scheme offer?",
-                "answer": "The scheme provides a financial assistance amounting to \u20b910,000/- to the legal heirs of the deceased construction workers."
+                "answer": "The scheme provides a financial assistance amounting to ₹10,000/- to the legal heirs of the deceased construction workers."
             },
             {
                 "question": "Who is eligible to apply for assistance under this scheme?",
-                "answer": "The legal heirs of the deceased worker who was engaged in building or other construction work and registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible."
+                "answer": "The legal heirs of the deceased worker who was engaged in building or other construction work and registered with the Gujarat Building and Other Construction Worker’s Welfare Board are eligible."
             },
             {
                 "question": "What types of incidents are covered under the scheme?",
@@ -80,5 +80,6 @@
             "Funeral",
             "Labour"
         ]
-    }
+    },
+    "id": "000654"
 }

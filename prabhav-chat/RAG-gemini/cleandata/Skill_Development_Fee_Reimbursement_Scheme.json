@@ -5,9 +5,9 @@
         "department": "Ministry of Electronics and Information Technology",
         "type": "Reimbursement",
         "beneficiary": "Students who have completed an SPC-approved technical skill training program",
-        "details": "Through the 'Skill Development Fee Reimbursement Scheme', the SPC will reimburse 50% of the fees up to \u20b9 50,000/- to the students who have successfully completed an SPC-approved technical skill training program in any of the approved domains from a Goan educational institute.",
+        "details": "Through the 'Skill Development Fee Reimbursement Scheme', the SPC will reimburse 50% of the fees up to ₹ 50,000/- to the students who have successfully completed an SPC-approved technical skill training program in any of the approved domains from a Goan educational institute.",
         "benefits": [
-            "Reimbursement of 50% of the fees up to \u20b9 50,000/- to the students who have successfully completed an SPC-approved technical skill training program in any of the approved domains, attended in a Goan educational institute.",
+            "Reimbursement of 50% of the fees up to ₹ 50,000/- to the students who have successfully completed an SPC-approved technical skill training program in any of the approved domains, attended in a Goan educational institute.",
             "Up to 1000 students per year can avail the benefits of this scheme. However, this cap can be reviewed and revised based on the need in future.",
             "A student can avail the benefits of this scheme for any two courses in a year."
         ],
@@ -21,7 +21,7 @@
         "documents_required": [
             "Aadhaar card of the student",
             "Course completion certificate",
-            "Copy of SPC\u2019s approval of the program",
+            "Copy of SPC’s approval of the program",
             "Original Proof of Payment/Fee receipt",
             "The form and documents as mentioned in Annexure 1"
         ],
@@ -105,5 +105,6 @@
                 "url": "https://www.startup.goa.gov.in/ContactUs"
             }
         ]
-    }
+    },
+    "id": "001809"
 }

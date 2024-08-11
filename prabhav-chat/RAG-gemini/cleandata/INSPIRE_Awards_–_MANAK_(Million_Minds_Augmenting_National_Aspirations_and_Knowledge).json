@@ -1,13 +1,13 @@
 {
     "content": {
-        "title": "INSPIRE Awards \u2013 MANAK (Million Minds Augmenting National Aspirations and Knowledge)",
+        "title": "INSPIRE Awards – MANAK (Million Minds Augmenting National Aspirations and Knowledge)",
         "state": "India",
         "department": "Ministry Of Science And Technology",
         "type": "Award",
         "beneficiary": "Students aged 10-15 years studying in classes 6 to 10",
-        "details": "\u2018Innovation in Science Pursuit for Inspired Research\u2019 (INSPIRE) scheme is one of the flagship programmes of the Department of Science & Technology (DST), Ministry Of Science And Technology, Government of India. The scheme was launched by the Hon\u2019ble Prime Minister on 13th December 2008, the INSPIRE Awards \u2013 MANAK aims to motivate students in the age group of 10-15 years and studying in classes 6 to 10. The objective of the scheme is to target one million original ideas/innovations rooted in science and societal applications to foster a culture of creativity and innovative thinking among school children.",
+        "details": "‘Innovation in Science Pursuit for Inspired Research’ (INSPIRE) scheme is one of the flagship programmes of the Department of Science & Technology (DST), Ministry Of Science And Technology, Government of India. The scheme was launched by the Hon’ble Prime Minister on 13th December 2008, the INSPIRE Awards – MANAK aims to motivate students in the age group of 10-15 years and studying in classes 6 to 10. The objective of the scheme is to target one million original ideas/innovations rooted in science and societal applications to foster a culture of creativity and innovative thinking among school children.",
         "benefits": [
-            "Disbursement of INSPIRE Award of \u20b9 10,000/- into bank accounts of students through Direct Benefit Transfer (DBT) scheme.",
+            "Disbursement of INSPIRE Award of ₹ 10,000/- into bank accounts of students through Direct Benefit Transfer (DBT) scheme.",
             "Mentoring and funding support for prototype development to 1000 students shortlisted after SLEPC for participation in NLEPC.",
             "1,00,00 awards are given every year.",
             "1,000 Prototype Models/Projects will participate at the Annual National Level Exhibition and Project Competition (NLEPC) to be organised by DST.",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "What are the key timelines for the INSPIRE scheme, particularly the nomination and award disbursement periods?",
-                "answer": "Nominations for the scheme are sent by schools by 31st July, followed by shortlisting in August. The INSPIRE Award of \u20b910,000 is disbursed by 15th September."
+                "answer": "Nominations for the scheme are sent by schools by 31st July, followed by shortlisting in August. The INSPIRE Award of ₹10,000 is disbursed by 15th September."
             },
             {
                 "question": "Could you provide more details about the Festival of Innovation & Entrepreneurship and how the top 60 national winners are involved?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What are the benefits that students receive under the INSPIRE scheme, particularly the INSPIRE Awards component?",
-                "answer": "Students receive an INSPIRE Award of \u20b910,000, which is disbursed directly into their bank accounts through the Direct Benefit Transfer (DBT) scheme."
+                "answer": "Students receive an INSPIRE Award of ₹10,000, which is disbursed directly into their bank accounts through the Direct Benefit Transfer (DBT) scheme."
             },
             {
                 "question": "How are the ideas/innovations selected for awards, and what criteria are considered during the selection process?",
@@ -88,5 +88,6 @@
             "Education",
             "Science"
         ]
-    }
+    },
+    "id": "000803"
 }

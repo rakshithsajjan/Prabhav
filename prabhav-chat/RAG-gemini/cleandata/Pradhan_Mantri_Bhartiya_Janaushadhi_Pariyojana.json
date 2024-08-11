@@ -7,9 +7,9 @@
         "beneficiary": "Entrepreneurs, General Public",
         "details": "The scheme 'Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)' was launched by the Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers, in November 2008. The branded (Generic) medicines are sold at significantly higher prices than their un-branded generic equivalents, though are identical in therapeutic value. Given the widespread poverty across the country, making available reasonably priced quality generic medicines in the market would benefit everyone.",
         "benefits": [
-            "Normal Incentive: Enhanced from \u20b9 2,50,000/- to up to \u20b9 5,00,000/- based on monthly purchases.",
-            "Special Incentive: One-time incentive of \u20b9 2,00,000/- for specific regions and demographics.",
-            "Prices of Janaushadhi medicines are 50%\u201390% less than branded medicines.",
+            "Normal Incentive: Enhanced from ₹ 2,50,000/- to up to ₹ 5,00,000/- based on monthly purchases.",
+            "Special Incentive: One-time incentive of ₹ 2,00,000/- for specific regions and demographics.",
+            "Prices of Janaushadhi medicines are 50%–90% less than branded medicines.",
             "Medicines are procured from WHO-GMP-certified suppliers.",
             "Quality assurance through NABL-accredited laboratories."
         ],
@@ -63,5 +63,6 @@
             "Medicine",
             "Pharmaceutical"
         ]
-    }
+    },
+    "id": "001481"
 }

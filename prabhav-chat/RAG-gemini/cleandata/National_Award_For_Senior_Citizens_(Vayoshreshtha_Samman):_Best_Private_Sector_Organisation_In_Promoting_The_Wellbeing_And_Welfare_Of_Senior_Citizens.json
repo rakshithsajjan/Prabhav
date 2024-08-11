@@ -5,7 +5,7 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Senior Citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Private Sector Organisation in Promoting the Wellbeing and Welfare of Senior Citizens' award shall be given to the Corporate Houses, addressing the problems of the elderly either by providing them gainful employment, utilising their skills and experience to the benefit of society or creating infrastructure in geriatric medical care or any other similar step for the benefit of senior citizens as a community. The activities taken for the benefit of senior citizens should be away from the mainline business of the organization.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Private Sector Organisation in Promoting the Wellbeing and Welfare of Senior Citizens' award shall be given to the Corporate Houses, addressing the problems of the elderly either by providing them gainful employment, utilising their skills and experience to the benefit of society or creating infrastructure in geriatric medical care or any other similar step for the benefit of senior citizens as a community. The activities taken for the benefit of senior citizens should be away from the mainline business of the organization.",
         "benefits": [
             "The Awardee is given a Citation and Memento.",
             "The Award shall be presented in New Delhi at a special ceremony/function to be held on the occasion of the International Day of Older Persons on the 1st of October every year.",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "Who confers these awards?",
-                "answer": "The awards are conferred by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi."
+                "answer": "The awards are conferred by the Hon’ble President of India at Vigyan Bhawan, New Delhi."
             },
             {
                 "question": "What is the address of Vigyan Bhawan, New Delhi?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What is the maximum amount of the cash award in the institutional category?",
-                "answer": "The maximum amount of the cash award in the Institutional Category is \u20b9 10,00,000/-."
+                "answer": "The maximum amount of the cash award in the Institutional Category is ₹ 10,00,000/-."
             },
             {
                 "question": "Will the to-and-from travelling expenses of the awardee be reimbursed?",
@@ -113,5 +113,6 @@
                 "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Englishfull169.pdf"
             }
         ]
-    }
+    },
+    "id": "001273"
 }

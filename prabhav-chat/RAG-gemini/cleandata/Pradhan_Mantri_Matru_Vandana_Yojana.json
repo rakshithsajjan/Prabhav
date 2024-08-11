@@ -5,7 +5,7 @@
         "department": "Ministry of Women and Child Development",
         "type": "Cash Incentive",
         "beneficiary": "Pregnant Women",
-        "details": "The Pradhan Mantri Matru Vandana Yojana (PMMVY) is a Centrally Sponsored flagship scheme by the Ministry of Women and Child Development, Government of India, designed to support pregnant women and lactating mothers. The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. The maternity benefit is to be provided to a woman for the first two living children provided the second child is a girl. For the first child the maternity benefit of \u20b95,000/- is provided in two instalments under PMMVY and the beneficiary is also entitled to receive the cash incentive as per approved norms towards Maternity Benefit under Janani Suraksha Yojana (JSY) after institutional delivery so that on an average, a women gets \u20b96,000/-. For the second child, the benefit of \u20b96,000/- is to be provided subject to second child is a girl child, in one installment after the birth.",
+        "details": "The Pradhan Mantri Matru Vandana Yojana (PMMVY) is a Centrally Sponsored flagship scheme by the Ministry of Women and Child Development, Government of India, designed to support pregnant women and lactating mothers. The scheme is to provide maternity benefits to women belonging to socially and economically disadvantaged sections of society. The maternity benefit is to be provided to a woman for the first two living children provided the second child is a girl. For the first child the maternity benefit of ₹5,000/- is provided in two instalments under PMMVY and the beneficiary is also entitled to receive the cash incentive as per approved norms towards Maternity Benefit under Janani Suraksha Yojana (JSY) after institutional delivery so that on an average, a women gets ₹6,000/-. For the second child, the benefit of ₹6,000/- is to be provided subject to second child is a girl child, in one installment after the birth.",
         "benefits": [
             "Cash Incentive",
             "Financial Assistance",
@@ -20,7 +20,7 @@
             "If a beneficiary delivers twins/ triplets/ quadruplets in her second pregnancy, with one or more children being girl, she will receive incentive for second girl child as per the PMMVY 2.0 norms."
         ],
         "exclusions": [
-            "The beneficiary's husband\u2019s Aadhaar is not mandatory for availing the benefits under the Scheme.",
+            "The beneficiary's husband’s Aadhaar is not mandatory for availing the benefits under the Scheme.",
             "All pregnant women and lactating mothers in regular employment with the Central Government or State Government or Public Sector Undertaking or those who are in receipt of similar benefits under any law for the time being in force shall not be entitled to benefits under PMMVY."
         ],
         "application_process": "Online",
@@ -53,7 +53,7 @@
                 "answer": "The beneficiary will receive the installments until the pregnancy is active. Since the benefit is paid out in three installments depending upon the pregnancy milestones, the beneficiary will receive at least two installments in case of stillbirth."
             },
             {
-                "question": "I have received only the first installment under an old \u201cMaternity Benefit Program (MBP) called Indira Gandhi Matritva Sahyog Yojana (IGMSY). Can I claim the remaining installments under the PMMVY?",
+                "question": "I have received only the first installment under an old “Maternity Benefit Program (MBP) called Indira Gandhi Matritva Sahyog Yojana (IGMSY). Can I claim the remaining installments under the PMMVY?",
                 "answer": "Beneficiaries who have received only the first installment under the old MBP (IGMSY) scheme can claim only third installment under the PMMVY scheme, subject to meeting the criteria of PMMVY."
             },
             {
@@ -62,7 +62,7 @@
             },
             {
                 "question": "I Am Already Availing A Paid Maternity Leave From My Employer. Am I Eligible For This Scheme?",
-                "answer": "No, if you are already availing any paid maternity scheme or a paid maternity leave from your employer, then in that case you won\u2019t be eligible for this scheme."
+                "answer": "No, if you are already availing any paid maternity scheme or a paid maternity leave from your employer, then in that case you won’t be eligible for this scheme."
             },
             {
                 "question": "Is Last Menstrual Period (LMP) Date Mandatory To Be Provided To Claim Benefits Under The Scheme?",
@@ -105,5 +105,6 @@
             "Health",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001496"
 }

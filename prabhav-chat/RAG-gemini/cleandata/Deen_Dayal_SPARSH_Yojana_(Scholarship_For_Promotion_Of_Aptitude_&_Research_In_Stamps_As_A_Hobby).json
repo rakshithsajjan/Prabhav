@@ -7,7 +7,7 @@
         "beneficiary": "Students of Class 6th to 9th",
         "details": "The Department of Posts, Ministry of Communications has launched a Scholarship Scheme called 'Deen Dayal SPARSH Yojana' to award children in the class category of Standard 6th to 9th. It is proposed to award annual scholarships to students who have good academic records and are also pursuing 'Philately' as a hobby. The objective of the scholarship is to promote Philately among children at a young age in a sustainable manner that can reinforce and supplement the academic curriculum in addition to providing a hobby that can help them relax and de-stress.",
         "benefits": [
-            "The amount of the Scholarship is to be \u20b9 6,000/- per annum @ \u20b9 500/- per month.",
+            "The amount of the Scholarship is to be ₹ 6,000/- per annum @ ₹ 500/- per month.",
             "Selections to the scholarship would be for one year.",
             "An already selected student can apply for the scholarship next year provided he/she fulfills other criteria.",
             "Every prospective school which participates in the competition would be assigned a Philately Mentor."
@@ -83,5 +83,6 @@
             "Education",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000366"
 }

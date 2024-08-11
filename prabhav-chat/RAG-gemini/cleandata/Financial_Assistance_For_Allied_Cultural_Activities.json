@@ -7,7 +7,7 @@
         "beneficiary": "Not-for-profit organizations",
         "details": "The scheme 'Financial Assistance for Allied Cultural Activities' was launched by the Ministry of Culture, Government of India. This scheme is a sub-component of the scheme component 'Financial Assistance for Building Grants Including Studio Theatres' under 'Scheme of Financial Assistance for Creation of Cultural Infrastructure'. The objective of this scheme sub-component is to provide financial assistance for the creation of assets for enhancing the audio-visual spectacle for allied cultural activities to give first-hand experience of live performances on a regular basis and during festivals in open/closed areas/spaces where large numbers of tourists/visitors come regularly and during major events/festivals the number of visitors swells to lakhs.",
         "benefits": [
-            "Maximum assistance under the scheme component, including applicable duties & taxes and also Operation & Maintenance (O&M) costing for five years, will be as under: (i) Audio: \u20b9100 Lakh; (ii) Audio + Video: \u20b9150 Lakh.",
+            "Maximum assistance under the scheme component, including applicable duties & taxes and also Operation & Maintenance (O&M) costing for five years, will be as under: (i) Audio: ₹100 Lakh; (ii) Audio + Video: ₹150 Lakh.",
             "All grants under the scheme will be of a non-recurring nature.",
             "Assistance under this component to an organization will be restricted to a maximum of 90% (including taxes and duties) of the approved estimated project cost along with five years of O&M costs."
         ],
@@ -18,7 +18,7 @@
         "exclusions": [],
         "application_process": "Offline",
         "documents_required": [
-            "Project Report/Proposal including organization\u2019s profile, project description, cost estimates, sources of finance, time schedule, and post-completion plan.",
+            "Project Report/Proposal including organization’s profile, project description, cost estimates, sources of finance, time schedule, and post-completion plan.",
             "Copy of the Certificate of Registration under the Societies Registration Act, 1860.",
             "Copy of the Memorandum of Association (or Trust Deed) of the organization.",
             "List of present members of the Board of Management/Office Bearers/Trustees.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "How much financial assistance will be provided under the scheme?",
-                "answer": "Maximum assistance under the scheme component will be \u20b9100 Lakh for Audio and \u20b9150 Lakh for Audio + Video."
+                "answer": "Maximum assistance under the scheme component will be ₹100 Lakh for Audio and ₹150 Lakh for Audio + Video."
             },
             {
                 "question": "Which type of organization is eligible to apply under the scheme?",
@@ -73,5 +73,6 @@
             "Financial Assistance",
             "NGO"
         ]
-    }
+    },
+    "id": "000522"
 }

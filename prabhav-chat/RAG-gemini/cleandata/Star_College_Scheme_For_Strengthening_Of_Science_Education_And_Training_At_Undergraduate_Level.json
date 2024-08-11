@@ -7,8 +7,8 @@
         "beneficiary": "Undergraduate Colleges",
         "details": "The Dept. of Biotechnology (DBT) has launched a scheme 'Star College Scheme for Strengthening of Science Education and Training at Undergraduate Level' for improving critical thinking and 'hands-on' experimental work at the undergraduate (college) level in sciences. It is expected to encourage more students to take up higher education in science. DBT will identify colleges with ambition and potential for excellence and provide academic and physical infrastructure for achieving excellence in teaching and unique exposure of students to experimental science.",
         "benefits": [
-            "One-time non-recurring grant of \u20b910,00,000 per science department.",
-            "Recurring grant of \u20b93,00,000 per science department per year for a period of three years.",
+            "One-time non-recurring grant of ₹10,00,000 per science department.",
+            "Recurring grant of ₹3,00,000 per science department per year for a period of three years.",
             "Financial support for mentoring and monitoring per college.",
             "Encouragement for the purchase of multiple copies of routine equipment required for science practicals."
         ],
@@ -32,7 +32,7 @@
                 "answer": "The call for the DBT-Star College scheme for both Urban and Rural categories is announced annually and is advertised on the DBT website."
             },
             {
-                "question": "What Are The \u2018Urban\u2019 And \u2018Rural\u2019 Categories Of Colleges?",
+                "question": "What Are The ‘Urban’ And ‘Rural’ Categories Of Colleges?",
                 "answer": "Colleges have been categorized into Urban and Rural categories based on the physical location of the college."
             },
             {
@@ -68,5 +68,6 @@
             "DBT",
             "Star College Scheme"
         ]
-    }
+    },
+    "id": "001839"
 }

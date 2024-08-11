@@ -15,7 +15,7 @@
             "The applicant should be unemployed possessing a minimum educational qualification of class 5th from any recognized school.",
             "Applicant should be in the age group between 18 years to 45 years of age on the date of filing the application.",
             "Only one member of a family shall be eligible to avail of the benefits under the Scheme.",
-            "The family income shall not exceed \u20b9 8,00,000 per annum.",
+            "The family income shall not exceed ₹ 8,00,000 per annum.",
             "The scheme comprises of subsidy and contribution of the beneficiary at 5% of the project cost.",
             "The beneficiary should not be a defaulter to any nationalized bank / financial institution / Cooperative bank.",
             "A person who has already availed of subsidy under CMSS/ PMEGP shall not be eligible under the scheme.",
@@ -72,5 +72,6 @@
             "StartUp",
             "Youth"
         ]
-    }
+    },
+    "id": "001813"
 }

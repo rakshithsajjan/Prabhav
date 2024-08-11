@@ -5,7 +5,7 @@
         "department": "Ministry Of Tourism",
         "type": "Central Sector Scheme",
         "beneficiary": "Local communities, tourists, and stakeholders involved in the tourism sector",
-        "details": "Launched in 2014\u20132015, the scheme 'Pilgrimage Rejuvenation and Spiritual Augmentation Drive (PRASAD)' is a Central Sector Scheme by the Ministry of Tourism, Government of India. The scheme focuses on developing and identifying pilgrimage sites across India to enrich the religious tourism experience. It aims to integrate pilgrimage destinations in a prioritised, planned and sustainable manner to provide a complete religious tourism experience.",
+        "details": "Launched in 2014–2015, the scheme 'Pilgrimage Rejuvenation and Spiritual Augmentation Drive (PRASAD)' is a Central Sector Scheme by the Ministry of Tourism, Government of India. The scheme focuses on developing and identifying pilgrimage sites across India to enrich the religious tourism experience. It aims to integrate pilgrimage destinations in a prioritised, planned and sustainable manner to provide a complete religious tourism experience.",
         "benefits": [
             "Improved Infrastructure",
             "Employment Opportunities",
@@ -102,5 +102,6 @@
             "Rejuvenation",
             "Tourism"
         ]
-    }
+    },
+    "id": "001447"
 }

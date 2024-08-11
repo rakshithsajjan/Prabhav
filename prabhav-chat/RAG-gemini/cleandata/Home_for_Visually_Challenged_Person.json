@@ -9,9 +9,9 @@
         "benefits": [
             "Free Food and Shelter",
             "Free Supply of Daily Living Needs",
-            "Pocket Money of \u20b9 5/-",
+            "Pocket Money of ₹ 5/-",
             "Vocational Training Such as Korai & Coir Mat Weaving, According to Their Interest",
-            "Labour Charges of \u20b9 20 /- for Mat",
+            "Labour Charges of ₹ 20 /- for Mat",
             "Recreations Such as TV, Radio, Musical Instrument, Besides Local Trips to Places of Interest and Temples",
             "Annual Tour to Places of Interest"
         ],
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the key benefits offered under this scheme?",
-                "answer": "Beneficiaries receive free food and shelter, daily living needs, \u20b95 pocket money, and vocational training in activities like Korai & Coir Mat Weaving."
+                "answer": "Beneficiaries receive free food and shelter, daily living needs, ₹5 pocket money, and vocational training in activities like Korai & Coir Mat Weaving."
             },
             {
                 "question": "What is the vocational training provided, and how does it align with the beneficiaries' interests?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "How are the labor charges for mat weaving addressed under the scheme?",
-                "answer": "The scheme provides a labor charge of \u20b920 for the production of mats by the visually impaired individuals."
+                "answer": "The scheme provides a labor charge of ₹20 for the production of mats by the visually impaired individuals."
             },
             {
                 "question": "Besides basic needs, what recreational activities are offered to beneficiaries?",
@@ -121,5 +121,6 @@
             "Puducherry",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000780"
 }

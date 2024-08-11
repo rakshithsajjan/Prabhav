@@ -5,7 +5,7 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Subsidy",
         "beneficiary": "Building Workers, Construction Workers",
-        "details": "The scheme 'Fare for Visiting Home Town' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a free traveling facility to visit the home town once in a year for a family not exceeding 5 members is provided to the registered construction workers who have a minimum two years\u2019 regular membership of the Board. The payment of expenditure incurred by the beneficiary is paid at the rate prescribed by the Haryana Roadways (Ordinary fare) from time to time or actual railway fare (2nd Class), as the case may be.",
+        "details": "The scheme 'Fare for Visiting Home Town' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, a free traveling facility to visit the home town once in a year for a family not exceeding 5 members is provided to the registered construction workers who have a minimum two years’ regular membership of the Board. The payment of expenditure incurred by the beneficiary is paid at the rate prescribed by the Haryana Roadways (Ordinary fare) from time to time or actual railway fare (2nd Class), as the case may be.",
         "benefits": [
             "Free traveling facility to visit the home town once in a year for a family not exceeding 5 members.",
             "Payment of expenditure incurred by the beneficiary at the rate prescribed by Haryana Roadways or actual railway fare (2nd Class)."
@@ -13,7 +13,7 @@
         "eligibility": [
             "The applicant should be engaged in building or construction work.",
             "The applicants should be registered with the Haryana Building & Other Construction Workers Welfare Board.",
-            "The registered worker must have a minimum of two year\u2019s regular membership.",
+            "The registered worker must have a minimum of two year’s regular membership.",
             "The worker must have an active membership with the Board.",
             "Five members of a family including registered construction workers are eligible to avail of benefits under the scheme on a visit to their home town once in a year."
         ],
@@ -94,5 +94,6 @@
             "Construction Workers",
             "Welfare Scheme"
         ]
-    }
+    },
+    "id": "000506"
 }

@@ -2,10 +2,10 @@
     "content": {
         "title": "Horticulture Mission for North Eastern Hill Scheme- Meghalaya",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya",
+        "department": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya",
         "type": "Integrated Development",
         "beneficiary": "Farmer",
-        "details": "The \u201cHorticulture Mission for North Eastern Hill (HMNEH) Scheme\u201d is a part of the Mission for Integrated Development of Horticulture (MIDH) scheme which was launched by the Ministry of Agriculture and Farmers Welfare, Government of India, being implemented for the overall development of Horticulture in North East and Himalayan states. The mission covers all NE States including Sikkim and three Himalayan states of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand. The mission addresses the entire spectrum of horticulture from production to consumption through backward and forward linkages. In the state of Meghalaya, the \u201cHorticulture Mission for North Eastern Hill (HMNEH) Scheme\u201d is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya for improving productivity, quality planting material, canopy management of fruit trees, support to marginal and small farmers, upscaling protected cultivation and drip irrigation.",
+        "details": "The “Horticulture Mission for North Eastern Hill (HMNEH) Scheme” is a part of the Mission for Integrated Development of Horticulture (MIDH) scheme which was launched by the Ministry of Agriculture and Farmers Welfare, Government of India, being implemented for the overall development of Horticulture in North East and Himalayan states. The mission covers all NE States including Sikkim and three Himalayan states of Jammu & Kashmir, Himachal Pradesh, and Uttarakhand. The mission addresses the entire spectrum of horticulture from production to consumption through backward and forward linkages. In the state of Meghalaya, the “Horticulture Mission for North Eastern Hill (HMNEH) Scheme” is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya for improving productivity, quality planting material, canopy management of fruit trees, support to marginal and small farmers, upscaling protected cultivation and drip irrigation.",
         "benefits": [
             "Training",
             "Awareness program",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Who implements the HMNEH Scheme in Meghalaya?",
-                "answer": "In the state of Meghalaya, the HMNEH Scheme is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "In the state of Meghalaya, the HMNEH Scheme is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "What is the pattern of assistance?",
@@ -58,7 +58,7 @@
                 "answer": "The bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/Horticulture Circle."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "The bonafide farmers shall be selected on a first come first serve basis."
             }
         ],
@@ -73,5 +73,6 @@
             "Integrated Development",
             "North Eastern Hill"
         ]
-    }
+    },
+    "id": "000785"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Marginal Workers",
         "details": "The 'Contributory Social Security Scheme (CSSS)' is a Financial Support by the Social Welfare Department, Govt. of Jammu and Kashmir. The scheme intends to provide social security to marginal workers on a contributory basis. The duration of the scheme shall be for a period of 5 years, or 10 years. The amount will be deposited in a bank account opened for the beneficiary, which will remain pledged to the District Social Welfare Officer (DSWO) for the period of the scheme. On completion of the scheme, the beneficiary has the option to withdraw the whole amount or re-invest in a pension scheme. The beneficiary is insured under this scheme. The applicant shall approach the concerned District Social Welfare Officer (DSWO) for submission of the application. This scheme is 100% Sponsored by the Union Territory of Jammu & Kashmir, and only the permanent residents of the Union Territory of Jammu & Kashmir can apply for this scheme.",
         "benefits": [
-            "A contribution of \u20b9 300/- by the state and \u20b9 200/- by the beneficiary shall be made per quarter for 5 or 10 years into the joint account opened for this purpose.",
+            "A contribution of ₹ 300/- by the state and ₹ 200/- by the beneficiary shall be made per quarter for 5 or 10 years into the joint account opened for this purpose.",
             "The amount will be deposited in a bank account opened for the beneficiary, which will remain pledged to the District Social Welfare Officer (DSWO) for the period of the scheme.",
             "On completion of the scheme, the beneficiary has the option to withdraw the whole amount or re-invest in a pension scheme.",
             "The beneficiary is insured under this scheme."
@@ -16,7 +16,7 @@
             "The applicant should be a citizen of India.",
             "The applicant should not be below 18 years of age.",
             "The applicant should be a Marginal Worker (agriculture and non-agricultural labor, rural barber, craftsman, shepherd, blacksmith, mason, weaver, etc.).",
-            "The income of the applicant (from all sources) should not exceed \u20b9 48,000/- per annum.",
+            "The income of the applicant (from all sources) should not exceed ₹ 48,000/- per annum.",
             "The applicant should be a domicile / permanent resident of the Union Territory of Jammu & Kashmir.",
             "The applicant or his spouse should not be a beneficiary of any existing scheme."
         ],
@@ -61,7 +61,7 @@
             },
             {
                 "question": "How Much Shall Be The Contribution Of The State And Of The Beneficiary Into The Joint Account?",
-                "answer": "A contribution of \u20b9 300/- by the state and \u20b9 200/- by the beneficiary shall be made per quarter for 5 or 10 years into the joint account opened for this purpose."
+                "answer": "A contribution of ₹ 300/- by the state and ₹ 200/- by the beneficiary shall be made per quarter for 5 or 10 years into the joint account opened for this purpose."
             },
             {
                 "question": "I Am A 14-Year-Old School Student. Am I Eligible To Apply To This Scheme?",
@@ -73,7 +73,7 @@
             },
             {
                 "question": "Is There An Income-Related Criterion For This Scheme?",
-                "answer": "Yes, the income of the applicant (from all sources) should not exceed \u20b9 48,000/- per annum."
+                "answer": "Yes, the income of the applicant (from all sources) should not exceed ₹ 48,000/- per annum."
             },
             {
                 "question": "Am I Eligible To Apply To This Scheme If I Am Already Availing The Benefits Of PM MUDRA Yojana?",
@@ -160,5 +160,6 @@
             "Social Security",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000338"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Student",
         "details": "The National Centre for Communications Security (NCCS) Internship Scheme allows young talent to be associated with the NCCS work for mutual benefit. It will enable NCCS to interact with young scholars and to get fresh ideas and study/ research support from the field of academics. At the same time, it will provide an opportunity for young scholars to contribute to the NCCS work and have an insight into the related technical work. The opportunity enables the young population to acquire knowledge in the areas like Hardware level Security, Source Code analysis (Static and dynamic analysis at HLL, Binary Code Analysis) Crypto algorithm implementation validation and Crypto Module validation, Supply chain vulnerabilities, Run time vulnerabilities in a live network (Advanced Persistent Threats), Back door entry vulnerabilities, Identification of Intentional/ Hidden Malware in Software/ Firmware of equipment.",
         "benefits": [
-            "Token Remuneration: Interns selected under Category 1 will be paid a token remuneration @ \u20b9 7,500/- per month on prorate basis.",
-            "Token Remuneration: Interns selected under Category 2 will be paid a token remuneration @ \u20b9 15,000/- per month on prorate basis.",
+            "Token Remuneration: Interns selected under Category 1 will be paid a token remuneration @ ₹ 7,500/- per month on prorate basis.",
+            "Token Remuneration: Interns selected under Category 2 will be paid a token remuneration @ ₹ 15,000/- per month on prorate basis.",
             "Certificate of Internship: On successful completion of the Internship and submission of the Report duly signed and accepted by the competent authority, a Certificate shall be issued by the concerned Division.",
             "Logistics & Support: NCCS shall provide them with working space, workplace Internet facility and other necessities as deemed fit by the concerned Head of Division."
         ],
@@ -69,11 +69,11 @@
             },
             {
                 "question": "How Much Shall Be The Token Remuneration For Category 1 Interns?",
-                "answer": "Interns selected under Category 1 will be paid a token remuneration @ \u20b9 7,500/- per month on prorate basis."
+                "answer": "Interns selected under Category 1 will be paid a token remuneration @ ₹ 7,500/- per month on prorate basis."
             },
             {
                 "question": "How Much Shall Be The Token Remuneration For Category 2 Interns?",
-                "answer": "Interns selected under Category 2 will be paid a token remuneration @ \u20b9 15,000/- per month on prorate basis."
+                "answer": "Interns selected under Category 2 will be paid a token remuneration @ ₹ 15,000/- per month on prorate basis."
             },
             {
                 "question": "When Shall The Amount Of The Token Remuneration Become Payable?",
@@ -113,5 +113,6 @@
             "Student",
             "Training"
         ]
-    }
+    },
+    "id": "001299"
 }

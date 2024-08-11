@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Theka Shramik, Hamaal Shramik Evan Gharelu Mahila Kamgar Gambhir Bimaari Chikitsa Sahayata Yojana' for unorganized worker on 05 June 2018. The main objective of the scheme to provides financial assistance for serious illness.",
         "benefits": [
-            "Medical aid of \u20b9 50,000/- will be provided for the treatment of registered contract workers, Hamal workers and female domestic workers who are suffering from serious illness.",
+            "Medical aid of ₹ 50,000/- will be provided for the treatment of registered contract workers, Hamal workers and female domestic workers who are suffering from serious illness.",
             "Serious diseases under the scheme will include kidney, cancer, sickle cell anemia, heart disease, AIDS and paralysis."
         ],
         "eligibility": [
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Financial assistance of \u20b9 50,000/- for Medical aid will be provided."
+                "answer": "Financial assistance of ₹ 50,000/- for Medical aid will be provided."
             },
             {
                 "question": "Who can get the benefits?",
@@ -86,5 +86,6 @@
             "Health",
             "Wellness"
         ]
-    }
+    },
+    "id": "001957"
 }

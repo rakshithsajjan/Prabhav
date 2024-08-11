@@ -5,9 +5,9 @@
         "department": "Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Dependent Family Member",
-        "details": "The scheme \u201cDeath Assistance for Registered Worker (HBOCWWB)\u201d was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, financial assistance of \u20b92,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death.",
+        "details": "The scheme “Death Assistance for Registered Worker (HBOCWWB)” was launched by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department Haryana. Under the scheme, financial assistance of ₹2,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death.",
         "benefits": [
-            "The financial assistance of \u20b92,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death."
+            "The financial assistance of ₹2,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death."
         ],
         "eligibility": [
             "The deceased construction worker should have been registered with the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB).",
@@ -29,8 +29,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cDeath Assistance for Registered Worker (HBOCWWB)\u201d scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b92,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death."
+                "question": "What is the “Death Assistance for Registered Worker (HBOCWWB)” scheme?",
+                "answer": "Under the scheme, financial assistance of ₹2,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death."
             },
             {
                 "question": "Which department has launched this scheme?",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The financial assistance of \u20b92,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death."
+                "answer": "The financial assistance of ₹2,00,000/- will be given to the nominee/legal heir/dependent family members of the registered worker on his natural death."
             },
             {
                 "question": "Will the financial assistance be given only in case of the natural death of a worker?",
@@ -85,5 +85,6 @@
             "Construction Workers",
             "Haryana"
         ]
-    }
+    },
+    "id": "000358"
 }

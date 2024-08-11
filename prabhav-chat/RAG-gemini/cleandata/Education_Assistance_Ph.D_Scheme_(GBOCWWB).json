@@ -5,11 +5,11 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Education Assistance",
         "beneficiary": "Children of construction workers",
-        "details": "The \u201cEducation Assistance/Ph.D Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under this scheme, financial assistance is provided once a year to any two children of a construction worker for the career development of bright and needy construction worker students seeking admission in higher education courses.",
+        "details": "The “Education Assistance/Ph.D Scheme” is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). Under this scheme, financial assistance is provided once a year to any two children of a construction worker for the career development of bright and needy construction worker students seeking admission in higher education courses.",
         "benefits": [
             "Financial assistance for students from Standard 1 to 12, as well as for those pursuing Graduation and Postgraduate studies.",
-            "Hostel assistance of \u20b91,200/- per month for 10 months for children studying outside their taluk.",
-            "Book assistance for first-year admitted students ranging from \u20b93,000/- to \u20b910,000/- depending on the course."
+            "Hostel assistance of ₹1,200/- per month for 10 months for children studying outside their taluk.",
+            "Book assistance for first-year admitted students ranging from ₹3,000/- to ₹10,000/- depending on the course."
         ],
         "eligibility": [
             "Children of construction workers registered with the Gujarat Building and other Construction Workers Welfare Board.",
@@ -41,7 +41,7 @@
             "Original bill of purchase of books for book aid",
             "Gazette/Affidavit from Beneficiary if Surname and Name are different",
             "Front page of Bank passbook",
-            "Affidavit or letter of consent for assistance of \u20b95000/- or more"
+            "Affidavit or letter of consent for assistance of ₹5000/- or more"
         ],
         "faqs": [
             {
@@ -100,5 +100,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "000469"
 }

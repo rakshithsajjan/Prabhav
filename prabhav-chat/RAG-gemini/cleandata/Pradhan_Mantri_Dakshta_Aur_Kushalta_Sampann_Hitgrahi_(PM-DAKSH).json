@@ -5,19 +5,19 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Skill Development",
         "beneficiary": "Marginalized target groups including SCs, OBCs, EBCs, DNTs, and Safai Karamcharis",
-        "details": "The scheme aims to economically empower marginalized groups through skill training, targeting to skill around 2,71,000 individuals over five years with a budget of \u20b9 450.25 crore.",
+        "details": "The scheme aims to economically empower marginalized groups through skill training, targeting to skill around 2,71,000 individuals over five years with a budget of ₹ 450.25 crore.",
         "benefits": [
             "Free of-cost training through 100% government grants",
-            "Monthly stipend of \u20b9 1,000/- to \u20b9 1,500/- for eligible trainees",
-            "Wage compensation of \u20b9 3,000/- for eligible trainees",
+            "Monthly stipend of ₹ 1,000/- to ₹ 1,500/- for eligible trainees",
+            "Wage compensation of ₹ 3,000/- for eligible trainees",
             "Certification upon successful completion of training",
             "Placement assistance after assessment and certification"
         ],
         "eligibility": [
             "Age group of 18-45 years",
             "Scheduled Caste (SC)",
-            "Other Backward Class (OBC) with annual family income below \u20b9 3,00,000",
-            "Economically Backward Class (EBC) with annual family income below \u20b9 1,00,000",
+            "Other Backward Class (OBC) with annual family income below ₹ 3,00,000",
+            "Economically Backward Class (EBC) with annual family income below ₹ 1,00,000",
             "De-Notified, Nomadic, and Semi-Nomadic Tribe (DNT)",
             "Transgender (TG) Community",
             "Safai Karamcharis and their dependents"
@@ -73,5 +73,6 @@
             "Social Welfare",
             "Citizen Empowerment"
         ]
-    }
+    },
+    "id": "001482"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Unemployed individuals",
         "details": "The scheme is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana. This is a credit-linked scheme with a primary objective of providing self-employment opportunities. Unemployed persons will be assisted by establishing Sheep or Goat Units (15 female + 1 male) and Piggery Units (10 female + 1 male).",
         "benefits": [
-            "25% subsidy on the cost of livestock for establishing a 10+1 Piggery unit, with a maximum of \u20b925,000/- as financial assistance.",
-            "25% subsidy on the cost of livestock for establishing a 15+1 Sheep/Goat unit, with a maximum of \u20b924,500/- as financial assistance.",
+            "25% subsidy on the cost of livestock for establishing a 10+1 Piggery unit, with a maximum of ₹25,000/- as financial assistance.",
+            "25% subsidy on the cost of livestock for establishing a 15+1 Sheep/Goat unit, with a maximum of ₹24,500/- as financial assistance.",
             "Financial assistance for livestock insurance if operational."
         ],
         "eligibility": [
@@ -73,5 +73,6 @@
             "Subsidy",
             "Haryana"
         ]
-    }
+    },
+    "id": "001701"
 }

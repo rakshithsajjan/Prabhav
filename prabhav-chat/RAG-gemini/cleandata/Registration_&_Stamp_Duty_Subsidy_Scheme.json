@@ -7,7 +7,7 @@
         "beneficiary": "Information Technology Units",
         "details": "Launched in 2018, the 'Registration & Stamp Duty Subsidy Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Registration Stamp Duty Subsidy to the eligible Information Technology Units in the State of Goa. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
         "benefits": [
-            "Reimbursement of the stamp duty, such that the registration and stamp duty charges will not exceed \u20b9 100/-",
+            "Reimbursement of the stamp duty, such that the registration and stamp duty charges will not exceed ₹ 100/-",
             "The excess amount paid to the authorities concerned will be reimbursed",
             "The subsidy will be provided in full",
             "The subsidy will be provided at the end of two years from the start of commercial operations or from the date of Notification of the Policy; whichever is later"
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What is the maximum limit for reimbursement of stamp duty charges under the scheme, and when is this subsidy provided?",
-                "answer": "The subsidy covers stamp duty charges up to \u20b9100, and it is provided in full at the end of two years from the start of commercial operations or from the date of Policy Notification, whichever is later."
+                "answer": "The subsidy covers stamp duty charges up to ₹100, and it is provided in full at the end of two years from the start of commercial operations or from the date of Policy Notification, whichever is later."
             },
             {
                 "question": "What is the timeline for disbursement under the 'Registration & Stamp Duty Subsidy Scheme,' including key milestones and their corresponding days (D)?",
@@ -109,5 +109,6 @@
             "Information Technology",
             "Goa"
         ]
-    }
+    },
+    "id": "001583"
 }

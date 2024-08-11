@@ -5,13 +5,13 @@
         "department": "Ministry Of Textiles",
         "type": "Financial Assistance",
         "beneficiary": "Artisan",
-        "details": "The scheme 'Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances' is a component of the Umbrella Scheme 'National Handicrafts Development Programme (NHDP)' by the Ministry of Textiles, Govt. of India. The scheme is introduced to support the artisans during their old age. The scheme is designed to give a boost to the handicraft sector in India. Assistance of upto \u20b98,000/- per month is granted to the Artisans in Indigent Circumstances in the form of monthly allowance or lump sum grant or both, through PFMS/DBT.",
+        "details": "The scheme 'Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances' is a component of the Umbrella Scheme 'National Handicrafts Development Programme (NHDP)' by the Ministry of Textiles, Govt. of India. The scheme is introduced to support the artisans during their old age. The scheme is designed to give a boost to the handicraft sector in India. Assistance of upto ₹8,000/- per month is granted to the Artisans in Indigent Circumstances in the form of monthly allowance or lump sum grant or both, through PFMS/DBT.",
         "benefits": [
-            "Assistance of upto \u20b98,000/- per month is granted in the form of a monthly allowance or lump sum grant or both, disbursed via the Public Financial Management System (PFMS)/ Direct Benefit Transfer (DBT)."
+            "Assistance of upto ₹8,000/- per month is granted in the form of a monthly allowance or lump sum grant or both, disbursed via the Public Financial Management System (PFMS)/ Direct Benefit Transfer (DBT)."
         ],
         "eligibility": [
             "The applicant should be a master craftsperson who is the recipient of the Shilp Guru Award/ National Award/ Merit Certificate/ State Award/ any other bigger award.",
-            "The annual income of the artisan should not exceed \u20b91,00,000/- in the preceding financial year.",
+            "The annual income of the artisan should not exceed ₹1,00,000/- in the preceding financial year.",
             "The applicant should not be a recipient of similar financial assistance from any other source.",
             "The artisan should not be less than 60 years of age on the date of application. Age may be relaxed in the case of artisans with disabilities, subject to submission of the Certificate issued by the appropriate authority."
         ],
@@ -44,7 +44,7 @@
             },
             {
                 "question": "How much financial assistance is provided to eligible artisans under this scheme?",
-                "answer": "Eligible artisans can receive assistance of up to \u20b98,000/- per month in the form of a monthly allowance or lump sum grant, facilitated through PFMS/DBT."
+                "answer": "Eligible artisans can receive assistance of up to ₹8,000/- per month in the form of a monthly allowance or lump sum grant, facilitated through PFMS/DBT."
             },
             {
                 "question": "What is the primary objective of the 'Direct Benefit to Artisans - Supports to Artisans in Indigent Circumstances' scheme?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "Can the financial assistance be revoked if the artisan's income exceeds the specified limit?",
-                "answer": "Yes, if the artisan's income exceeds \u20b91,00,000/- in the preceding financial year, they may no longer be eligible to receive financial assistance under the scheme."
+                "answer": "Yes, if the artisan's income exceeds ₹1,00,000/- in the preceding financial year, they may no longer be eligible to receive financial assistance under the scheme."
             },
             {
                 "question": "Can artisans use the financial assistance for any purpose?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "What is the maximum amount of financial assistance provided to eligible artisans?",
-                "answer": "Eligible artisans can receive financial assistance of up to \u20b98,000/- per month in the form of a monthly allowance or lump sum grant."
+                "answer": "Eligible artisans can receive financial assistance of up to ₹8,000/- per month in the form of a monthly allowance or lump sum grant."
             }
         ],
         "sources": [
@@ -105,5 +105,6 @@
             "Senior Citizen",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001308"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Financial Assistance",
         "beneficiary": "Disabled Children",
-        "details": "The scheme 'Financial Assistance To Non-School Going Disabled Children Scheme' was launched by the Department of Social Justice and Empowerment, Government of Haryana during the years 2008-09. Under this scheme, financial assistance is provided to the mentally retarded and multiple disabled children who are in the age group of 0-18 years and not able to attend formal education, training, etc. due to their disability. They are totally depending on their parents and relatives and need constant supervision and care from their families. Financial Assistance shall be admissible under the scheme @ \u20b92150/- p.m. w.e.f. April 2023 to every such disabled child in the family of the applicant.",
+        "details": "The scheme 'Financial Assistance To Non-School Going Disabled Children Scheme' was launched by the Department of Social Justice and Empowerment, Government of Haryana during the years 2008-09. Under this scheme, financial assistance is provided to the mentally retarded and multiple disabled children who are in the age group of 0-18 years and not able to attend formal education, training, etc. due to their disability. They are totally depending on their parents and relatives and need constant supervision and care from their families. Financial Assistance shall be admissible under the scheme @ ₹2150/- p.m. w.e.f. April 2023 to every such disabled child in the family of the applicant.",
         "benefits": [
-            "The financial assistance of \u20b92150/- will be given by the state government to every disabled child in the family of the applicant.",
+            "The financial assistance of ₹2150/- will be given by the state government to every disabled child in the family of the applicant.",
             "Every non-school-going disabled child in a single family would be eligible for assistance.",
             "After attaining the age of 18 years, the beneficiary should automatically become eligible for a handicapped pension."
         ],
@@ -16,7 +16,7 @@
             "Child is not able to attend formal education, training, etc. due to this disability.",
             "Domicile of Haryana state and should be residing in Haryana State for the last three years at the time of submission of application.",
             "Medical Certificate issued by the Civil Surgeon having the following disabilities: Mental Retardation with I.Q. not exceeding 50 or a percentage of disability is 70% and above; Persons with cerebral palsy; Persons with Autism; Multiple disabilities with a total permanent disability of 70% or more disabilities as defined in clause (i) of Section 2 of the Persons with Disabilities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996); Case of orthopedic disability with permanent disability of 100%.",
-            "The applicant\u2019s close relatives and parents are not in a financial position to support him/her and the income of his/her parents, close relatives or his/her own income from all sources is less than the income as prescribed under the Minimum Wages."
+            "The applicant’s close relatives and parents are not in a financial position to support him/her and the income of his/her parents, close relatives or his/her own income from all sources is less than the income as prescribed under the Minimum Wages."
         ],
         "exclusions": [
             "The assistance would not be given to such children who are already receiving assistance under the Scholarship, Unemployment Allowance, and Handicapped Pension Schemes being implemented by the Social Justice & Empowerment Department, Haryana."
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, financial assistance \u20b92150/- per month will be given to eligible beneficiaries."
+                "answer": "Under this scheme, financial assistance ₹2150/- per month will be given to eligible beneficiaries."
             },
             {
                 "question": "What is the age criterion of the scheme?",
@@ -98,5 +98,6 @@
             "Financial Assistance",
             "Mentally Retarded"
         ]
-    }
+    },
+    "id": "000546"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Youth Groups",
         "details": "The programme shall be focused on introducing and developing community oriented entrepreneurship in J&K by providing strategic and financial assistance to dynamic and motivated youth. The programme envisions promoting community based entrepreneurship optimally to generate jobs, income and promote spirit of social service among new-age young entrepreneurs of Jammu & Kashmir.",
         "benefits": [
-            "Financial assistance to the extent of \u20b9 20.00 lakh comprising of an upfront subsidy component provided by Mission Youth (Minimum of \u20b92.5 lakh or 10% of project cost) and a Loan provided by the Bank (70% of the project cost to the extent of \u20b9 17.50 lakh).",
+            "Financial assistance to the extent of ₹ 20.00 lakh comprising of an upfront subsidy component provided by Mission Youth (Minimum of ₹2.5 lakh or 10% of project cost) and a Loan provided by the Bank (70% of the project cost to the extent of ₹ 17.50 lakh).",
             "The balance cost of the project, not less than 20% of the project cost, shall be self-financed/ self-arranged by the beneficiary youth group as Margin Money for availing the Financial Assistance under the scheme.",
-            "The special subsidy so provided towards Repayment under the scheme shall be limited to an aggregate of \u20b9 5.0 lakh per case."
+            "The special subsidy so provided towards Repayment under the scheme shall be limited to an aggregate of ₹ 5.0 lakh per case."
         ],
         "eligibility": [
             "Any domicile of J&K is essentially registered with Mission Youth, J&K.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the objective of the Scheme?",
-                "answer": "To develop Community Oriented Entrepreneurship in J&K. To introduce new concept of \u2018Rise Together\u2019 based on integrated & projectivized growth model."
+                "answer": "To develop Community Oriented Entrepreneurship in J&K. To introduce new concept of ‘Rise Together’ based on integrated & projectivized growth model."
             },
             {
                 "question": "What are the activities covered under the scheme?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What is the Funding Pattern of the scheme?",
-                "answer": "Under the scheme, the eligible Youth Groups shall be facilitated to avail a financial assistance to the extent of \u20b9 20.00 lakh including upfront subsidy component provided by Mission Youth under the programme."
+                "answer": "Under the scheme, the eligible Youth Groups shall be facilitated to avail a financial assistance to the extent of ₹ 20.00 lakh including upfront subsidy component provided by Mission Youth under the programme."
             },
             {
                 "question": "What is the minimum age to apply under this scheme?",
@@ -84,5 +84,6 @@
             "Entrepreneurship",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001606"
 }

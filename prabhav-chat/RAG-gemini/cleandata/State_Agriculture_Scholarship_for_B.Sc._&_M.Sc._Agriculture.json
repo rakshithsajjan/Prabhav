@@ -7,8 +7,8 @@
         "beneficiary": "Students pursuing B.Sc. and M.Sc. in Agriculture",
         "details": "The scheme 'State Agriculture Scholarship for B.Sc. & M.Sc. Agriculture' was launched by the Department of Agriculture, Government of Nagaland to provide educational assistance to students who are undergoing undergraduate (B.Sc. Agriculture) and post-graduate programme (M.Sc. Agriculture). Objectives include strengthening human resource development by upgrading technical expertise and supporting students/scholars in Agriculture disciplines.",
         "benefits": [
-            "\u20b9700/- per month for B.Sc. Agriculture students",
-            "\u20b9900/- per month for M.Sc. Agriculture students",
+            "₹700/- per month for B.Sc. Agriculture students",
+            "₹900/- per month for M.Sc. Agriculture students",
             "Book grants and reimbursements annually"
         ],
         "eligibility": [
@@ -29,7 +29,7 @@
             "Disability certificate, if applicable",
             "Aadhaar Card",
             "Copy of the front page of the Bank Passbook or Bank Statement",
-            "Institution Verification Form as per Annexure \u2013I"
+            "Institution Verification Form as per Annexure –I"
         ],
         "faqs": [
             {
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the stipend amount provided under this scholarship?",
-                "answer": "The stipend provided is \u20b9700/- per month for undergraduate (B.Sc. Agriculture) students and \u20b9900/- per month for postgraduate (M.Sc. Agriculture) students."
+                "answer": "The stipend provided is ₹700/- per month for undergraduate (B.Sc. Agriculture) students and ₹900/- per month for postgraduate (M.Sc. Agriculture) students."
             },
             {
                 "question": "Are book grants included in this scholarship?",
@@ -87,5 +87,6 @@
             "M.Sc.",
             "Student"
         ]
-    }
+    },
+    "id": "001841"
 }

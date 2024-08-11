@@ -5,9 +5,9 @@
         "department": "Department of Social Welfare, Women & Child Development",
         "type": "Financial Assistance",
         "beneficiary": "Dependent children of widows and destitute women",
-        "details": "The scheme 'Financial Assistance To Dependent Children of Widows And Destitute Women' is a Social Welfare scheme by the Department of Social Welfare, Women & Child Development, Govt. of Chandigarh. The objective of the scheme is to extend financial assistance to such children who are fatherless or whose parents (both mother and father) have died. The scheme is applicable to all the children of widow/destitute women under 18 years of age who have been deprived of parental support or care after their parent's death or continued absence from home. The applicant should be a resident of UT of Chandigarh for more than 3 years. \u20b9 1000/- per month per child is provided for up to two children in a family to meet the cost of maintenance and education.",
+        "details": "The scheme 'Financial Assistance To Dependent Children of Widows And Destitute Women' is a Social Welfare scheme by the Department of Social Welfare, Women & Child Development, Govt. of Chandigarh. The objective of the scheme is to extend financial assistance to such children who are fatherless or whose parents (both mother and father) have died. The scheme is applicable to all the children of widow/destitute women under 18 years of age who have been deprived of parental support or care after their parent's death or continued absence from home. The applicant should be a resident of UT of Chandigarh for more than 3 years. ₹ 1000/- per month per child is provided for up to two children in a family to meet the cost of maintenance and education.",
         "benefits": [
-            "\u20b9 1000/- per month per child for up to two children in a family"
+            "₹ 1000/- per month per child for up to two children in a family"
         ],
         "eligibility": [
             "The applicant should be a widow/destitute woman or with a dependent child/children.",
@@ -35,7 +35,7 @@
             },
             {
                 "question": "How Much Financial Assistance Is Provided Under This Scheme?",
-                "answer": "The scheme provides financial assistance of \u20b9 1000/- per month per child for up to two children of the parent."
+                "answer": "The scheme provides financial assistance of ₹ 1000/- per month per child for up to two children of the parent."
             },
             {
                 "question": "Is There Any Application Fee For This Scheme?",
@@ -91,5 +91,6 @@
             "Widow",
             "Women"
         ]
-    }
+    },
+    "id": "000535"
 }

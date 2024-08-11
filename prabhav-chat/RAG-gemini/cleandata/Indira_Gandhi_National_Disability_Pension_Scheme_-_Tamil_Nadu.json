@@ -5,9 +5,9 @@
         "department": "Social Welfare and Women Empowerment Department",
         "type": "Pension",
         "beneficiary": "Individuals aged 18 and above belonging to households below the poverty line",
-        "details": "The 'Indira Gandhi National Disability Pension Scheme' is a state initiative by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. Its goal is to offer a \u20b91,000 pension to individuals aged 18 and above, who belong to households below the poverty line. Eligibility criteria include a disability percentage of 80% or above, or severe/multiple disabilities.",
+        "details": "The 'Indira Gandhi National Disability Pension Scheme' is a state initiative by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. Its goal is to offer a ₹1,000 pension to individuals aged 18 and above, who belong to households below the poverty line. Eligibility criteria include a disability percentage of 80% or above, or severe/multiple disabilities.",
         "benefits": [
-            "\u20b91,000/- per month pension",
+            "₹1,000/- per month pension",
             "One free dhoti to a male pensioner during Pongal and Deepavali",
             "One free saree to a female pensioner during Pongal and Deepavali",
             "2kg/month of free rice in Anganwadi Centres for those taking nutritious meals",
@@ -26,7 +26,7 @@
             "Proof of age",
             "Aadhaar Consent Form",
             "Smart Ration Card or Any Address Proof",
-            "Self\u2013declaration of Applicant",
+            "Self–declaration of Applicant",
             "Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License (Optional))",
             "Bank Passbook",
             "BPL Card Number",
@@ -100,5 +100,6 @@
             "Pension",
             "PwD"
         ]
-    }
+    },
+    "id": "000834"
 }

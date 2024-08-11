@@ -62,7 +62,7 @@
             },
             {
                 "question": "What shall be the pattern of assistance under the Establishment Of Sheep/Goat Units?",
-                "answer": "Pattern of Assistance under Establishment Of Sheep/Goat Units (25 Sheep/Goat Per Unit): 50% of the unit cost as total eligible subsidy with a ceiling of \u20b9 1,00,000 whichever is less per unit (25 sheep/goat) and a maximum subsidy ceiling of \u20b9 8,00,000 for 8 Sheep/Goat units (each unit comprising 25 sheep/goats)."
+                "answer": "Pattern of Assistance under Establishment Of Sheep/Goat Units (25 Sheep/Goat Per Unit): 50% of the unit cost as total eligible subsidy with a ceiling of ₹ 1,00,000 whichever is less per unit (25 sheep/goat) and a maximum subsidy ceiling of ₹ 8,00,000 for 8 Sheep/Goat units (each unit comprising 25 sheep/goats)."
             },
             {
                 "question": "How much land is required to start a 25 EWEs Sheep Unit?",
@@ -85,5 +85,6 @@
             "Income Generation",
             "Jammu and Kashmir"
         ]
-    }
+    },
+    "id": "000872"
 }

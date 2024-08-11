@@ -5,7 +5,7 @@
         "department": "Department of Health & Family Welfare",
         "type": "Scholarship",
         "beneficiary": "Students pursuing MBBS & Allied Courses, Nursing and Paramedical courses",
-        "details": "The \u201cState Medical Scholarship\u201d is a scholarship scheme, launched by the Department of Health & Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS & Allied Courses, Nursing and Paramedical courses.",
+        "details": "The “State Medical Scholarship” is a scholarship scheme, launched by the Department of Health & Family Welfare, Government of Nagaland. Under the scheme, financial assistance is provided to students who are pursuing MBBS & Allied Courses, Nursing and Paramedical courses.",
         "benefits": [
             "Financial assistance/scholarships will be provided to students according to the course/programme in which they are enrolled."
         ],
@@ -100,5 +100,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "001846"
 }

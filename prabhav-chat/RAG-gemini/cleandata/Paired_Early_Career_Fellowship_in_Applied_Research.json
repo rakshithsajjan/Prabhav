@@ -5,10 +5,10 @@
         "department": "Ministry Of Science And Technology",
         "type": "Fellowship",
         "beneficiary": "Early Career Researchers",
-        "details": "Indo-German Science & Technology Centre (IGSTC) established a joint initiative of the Department of Science and Technology (DST), Government of India and the Federal Ministry of Education and Research (BMBF), Government of Germany invites applications for \u201cPaired Early Career Fellowship in Applied Research (PECFAR)\u201d from early-career Indian and German researchers to explore, connect and network for research collaboration in applied research.",
+        "details": "Indo-German Science & Technology Centre (IGSTC) established a joint initiative of the Department of Science and Technology (DST), Government of India and the Federal Ministry of Education and Research (BMBF), Government of Germany invites applications for “Paired Early Career Fellowship in Applied Research (PECFAR)” from early-career Indian and German researchers to explore, connect and network for research collaboration in applied research.",
         "benefits": [
-            "Fellowship: \u20ac 2300 per month/fellow on a pro-rata basis.",
-            "Single round trip economy class airfare including visa fees and medical/travel insurance approximately \u20b9 1 lakh (for Indian fellow) and \u20ac 1500 (for German fellow).",
+            "Fellowship: € 2300 per month/fellow on a pro-rata basis.",
+            "Single round trip economy class airfare including visa fees and medical/travel insurance approximately ₹ 1 lakh (for Indian fellow) and € 1500 (for German fellow).",
             "A one-time grant will be provided to cover the travel, accommodation, and daily expenses."
         ],
         "eligibility": [
@@ -66,5 +66,6 @@
             "International Collaboration",
             "Early Career Researchers"
         ]
-    }
+    },
+    "id": "001410"
 }

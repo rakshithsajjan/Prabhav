@@ -7,7 +7,7 @@
         "beneficiary": "Textile sector enterprises",
         "details": "The scheme 'Waiver of Electricity Duty' is a sub scheme under 'West Bengal Textile Incentive Scheme'. It was launched on 13 December, 2022, and shall remain valid for five years. The objective is to extend fiscal incentives to the textile sector across the entire value chain starting from fibre to stitched garments for setting up such units in the State.",
         "benefits": [
-            "100% waiver of electricity duty for 5 years from the date of commencement of production subject to a maximum of \u20b91,00,00,000/- per year."
+            "100% waiver of electricity duty for 5 years from the date of commencement of production subject to a maximum of ₹1,00,00,000/- per year."
         ],
         "eligibility": [
             "Industries in the manufacturing and processing of textiles, apparel and technical textiles products.",
@@ -66,5 +66,6 @@
             "Textile",
             "Waiver"
         ]
-    }
+    },
+    "id": "002049"
 }

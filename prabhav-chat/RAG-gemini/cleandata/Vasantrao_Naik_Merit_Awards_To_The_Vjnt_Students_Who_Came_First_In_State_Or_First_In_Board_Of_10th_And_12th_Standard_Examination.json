@@ -7,10 +7,10 @@
         "beneficiary": "VJNT students",
         "details": "Vasantrao Naik Merit Awards to the VJNT students who came First in State or First in the Board of 10th and 12th Standard Examination Scheme Announced by the Government Of Maharashtra to motivate VJNT students for Higher Education.",
         "benefits": [
-            "Award of \u20b9 1,00,000 trophy and Certificate for one Boy and one Girl Student who came First in State in the Senior Secondary School (SSC) Exam.",
-            "Award of \u20b9 51,000 trophy and Certificate for one Boy and one Girl Student who came First in each Board in the Senior Secondary School (SSC) Exam.",
-            "Award of \u20b9 1,00,000 trophy and Certificate for one Boy and one Girl Student who came First in State in Higher Secondary Schools (HSC) Exam.",
-            "Award of \u20b9 51,000 trophy and Certificate for one Boy and one Girl Student who came First in each Board in the Higher Secondary Schools (HSC) Exam."
+            "Award of ₹ 1,00,000 trophy and Certificate for one Boy and one Girl Student who came First in State in the Senior Secondary School (SSC) Exam.",
+            "Award of ₹ 51,000 trophy and Certificate for one Boy and one Girl Student who came First in each Board in the Senior Secondary School (SSC) Exam.",
+            "Award of ₹ 1,00,000 trophy and Certificate for one Boy and one Girl Student who came First in State in Higher Secondary Schools (HSC) Exam.",
+            "Award of ₹ 51,000 trophy and Certificate for one Boy and one Girl Student who came First in each Board in the Higher Secondary Schools (HSC) Exam."
         ],
         "eligibility": [
             "The students should belong to the VJNT category.",
@@ -68,5 +68,6 @@
             "VJNT",
             "Maharashtra"
         ]
-    }
+    },
+    "id": "002005"
 }

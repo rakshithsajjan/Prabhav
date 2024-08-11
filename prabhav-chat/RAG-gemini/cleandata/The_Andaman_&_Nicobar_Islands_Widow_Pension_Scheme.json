@@ -7,13 +7,13 @@
         "beneficiary": "Poor widows",
         "details": "The scheme 'The Andaman & Nicobar Islands Widow Pension Scheme' is implemented by the Directorate of Social Welfare, Union Territory of Andaman and Nicobar Islands to provide financial assistance to poor and destitute widows in the Andaman and Nicobar Islands. The beneficiary shall cease to receive the assistance if she gets remarried or becomes financially independent afterward, which may be divulged by due enquiry or through records.",
         "benefits": [
-            "The quantum of Widow Allowance shall be \u20b92500/- per month subject to eligibility.",
+            "The quantum of Widow Allowance shall be ₹2500/- per month subject to eligibility.",
             "Payment of allowance shall be made through the Bank Account on a monthly basis."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of the Union Territory of Andaman and Nicobar Islands or have resided in the Union Territory of Andaman and Nicobar Islands for more than 10 years at the time of making the application.",
             "The applicant should be a poor widow.",
-            "The household income of the applicant does not exceed \u20b94000/- per month.",
+            "The household income of the applicant does not exceed ₹4000/- per month.",
             "The applicant should not be availing of any other financial assistance or grant from the government or any other source.",
             "The applicant shall cease to receive the assistance if she gets remarried or becomes financially independent afterward, which may be divulged by due enquiry or through records."
         ],
@@ -36,7 +36,7 @@
             },
             {
                 "question": "How much financial assistance does the scheme provide?",
-                "answer": "Eligible widows receive a monthly allowance of \u20b92500."
+                "answer": "Eligible widows receive a monthly allowance of ₹2500."
             },
             {
                 "question": "How is the allowance disbursed?",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "Who is eligible to apply for the scheme?",
-                "answer": "Eligibility criteria include being a permanent resident of the Andaman and Nicobar Islands or having resided there for over 10 years, being a poor widow with a household income not exceeding \u20b94000 per month, and not availing any other financial assistance."
+                "answer": "Eligibility criteria include being a permanent resident of the Andaman and Nicobar Islands or having resided there for over 10 years, being a poor widow with a household income not exceeding ₹4000 per month, and not availing any other financial assistance."
             },
             {
                 "question": "Where can one obtain the application form?",
@@ -88,5 +88,6 @@
             "Widow",
             "Woman"
         ]
-    }
+    },
+    "id": "001947"
 }

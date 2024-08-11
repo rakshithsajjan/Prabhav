@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Welfare Scheme",
         "beneficiary": "Unemployed Ex-Servicemen",
-        "details": "One Time Cash Incentive towards Learning Driving is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to \u20b94,000/- is provided to the unemployed Ex-servicemen (ESM) to learn to drive. The driving course should be taken from a Government-recognized School/Institution, with prior permission from the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+        "details": "One Time Cash Incentive towards Learning Driving is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to ₹4,000/- is provided to the unemployed Ex-servicemen (ESM) to learn to drive. The driving course should be taken from a Government-recognized School/Institution, with prior permission from the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
         "benefits": [
-            "A one-time cash incentive of \u20b94,000/- is provided to take a course on driving.",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "A one-time cash incentive of ₹4,000/- is provided to take a course on driving.",
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be an Ex-Serviceman.",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "What is the procedure for seeking information through 'Right To Information (RTI)'?",
-                "answer": "The required information may be asked through an application along with IPO/DD for a sum of \u20b910/- in favour of the Director, Department of Sainik Welfare, Puducherry."
+                "answer": "The required information may be asked through an application along with IPO/DD for a sum of ₹10/- in favour of the Director, Department of Sainik Welfare, Puducherry."
             }
         ],
         "sources": [
@@ -71,5 +71,6 @@
             "Transport",
             "Vehicle"
         ]
-    }
+    },
+    "id": "001389"
 }

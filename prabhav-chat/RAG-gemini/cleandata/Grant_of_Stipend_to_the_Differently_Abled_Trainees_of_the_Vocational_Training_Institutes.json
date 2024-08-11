@@ -7,7 +7,7 @@
         "beneficiary": "Differently Abled Trainees",
         "details": "The scheme 'Grant of Stipend to the Differently Abled Trainees of the Vocational Training Institutes' was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, the differently abled persons undergoing any technical or professional training through Institutes are paid a fixed monthly stipend which will enable them to secure the training successfully in order to make their own earnings and become useful members of the society.",
         "benefits": [
-            "\u20b91,000/- per month."
+            "₹1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
@@ -32,7 +32,7 @@
             },
             {
                 "question": "How much is the monthly stipend provided under the scheme?",
-                "answer": "Beneficiaries receive a fixed monthly stipend of \u20b91,000 to support their vocational training."
+                "answer": "Beneficiaries receive a fixed monthly stipend of ₹1,000 to support their vocational training."
             },
             {
                 "question": "In Mahe/Yanam, who oversees the application process for the vocational training stipend?",
@@ -100,5 +100,6 @@
             "Trainee",
             "Training"
         ]
-    }
+    },
+    "id": "000736"
 }

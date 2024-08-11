@@ -7,7 +7,7 @@
         "beneficiary": "Registered workers under the Haryana Building & Other Construction Workers Welfare Board",
         "details": "The scheme 'Financial Assistance for Treatment of Chronic Diseases' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department, Government of Haryana. Under this scheme, financial assistance is provided to registered workers for indoor treatment of chronic diseases like Cancer, TB, AIDS, etc. as per government rules.",
         "benefits": [
-            "Financial assistance up to \u20b91,00,000/- for indoor treatment of chronic diseases like Cancer, TB, AIDS, etc."
+            "Financial assistance up to ₹1,00,000/- for indoor treatment of chronic diseases like Cancer, TB, AIDS, etc."
         ],
         "eligibility": [
             "The applicant should be registered under the Haryana Building & Other Construction Workers Welfare Board.",
@@ -38,7 +38,7 @@
         "faqs": [
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "Registered workers can receive financial assistance of up to \u20b91,00,000/- for the indoor treatment of chronic diseases like Cancer, TB, AIDS, etc."
+                "answer": "Registered workers can receive financial assistance of up to ₹1,00,000/- for the indoor treatment of chronic diseases like Cancer, TB, AIDS, etc."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -70,7 +70,7 @@
             },
             {
                 "question": "Is there any registration fee required when registering under HBOCWWB?",
-                "answer": "Registration fee \u20b925/- once in life-time and \u20b95/- per month (\u20b960/-P.A) as subscription fee shall be paid to the Board by the beneficiary."
+                "answer": "Registration fee ₹25/- once in life-time and ₹5/- per month (₹60/-P.A) as subscription fee shall be paid to the Board by the beneficiary."
             },
             {
                 "question": "Is there any provision to continue receiving benefits under the scheme after the death of the registered worker?",
@@ -106,5 +106,6 @@
             "TB",
             "Treatment"
         ]
-    }
+    },
+    "id": "000578"
 }

@@ -63,7 +63,7 @@
             },
             {
                 "question": "How To Apply For The Scheme?",
-                "answer": "Applicant to log in to RajSSO Portal using his/her SSOID. After successful authentication/login and updation of the SSOID Profile and select the scheme name. Select his/her name, the bank account and fill in personal details. Upload the required documents. Click on the \u201cSUBMIT\u201d button."
+                "answer": "Applicant to log in to RajSSO Portal using his/her SSOID. After successful authentication/login and updation of the SSOID Profile and select the scheme name. Select his/her name, the bank account and fill in personal details. Upload the required documents. Click on the “SUBMIT” button."
             },
             {
                 "question": "What Documents Are Needed?",
@@ -88,5 +88,6 @@
                 "url": "https://rajshaladarpan.nic.in/sd2/ShowFile.aspx?oid=632add2412a7ed45e8e6ea69"
             }
         ]
-    }
+    },
+    "id": "001657"
 }

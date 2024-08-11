@@ -8,8 +8,8 @@
         "details": "The scheme 'Shikshashree Scheme' was implemented by the Government of West Bengal during 2014-15 by merging the existing schemes of Book Grants & Maintenance Grants to provide financial assistance to Schedule Caste students studying in classes V to VIII. It aims to improve participation in Pre-matric stages and minimize the incidence of drop-out especially in the case of girl students.",
         "benefits": [
             "Financial assistance through Bank Account only",
-            "Class V to VII students will receive \u20b9750/- per annum",
-            "Class VIII students will receive \u20b9800/- per annum"
+            "Class V to VII students will receive ₹750/- per annum",
+            "Class VIII students will receive ₹800/- per annum"
         ],
         "eligibility": [
             "Students should belong to Scheduled Caste",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What are the class-wise rates of scholarship to be given to the eligible students?",
-                "answer": "Students of class V to VII will receive \u20b9750/- per annum and students of class VIII will receive \u20b9800/- per annum."
+                "answer": "Students of class V to VII will receive ₹750/- per annum and students of class VIII will receive ₹800/- per annum."
             },
             {
                 "question": "Is this scheme only for a day scholar student?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What should be the family income?",
-                "answer": "The family income should not be more than \u20b92.5 lakhs per annum."
+                "answer": "The family income should not be more than ₹2.5 lakhs per annum."
             },
             {
                 "question": "Is this scheme only for the student of government schools?",
@@ -107,5 +107,6 @@
             "Scheduled Caste",
             "Education"
         ]
-    }
+    },
+    "id": "001780"
 }

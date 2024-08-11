@@ -5,9 +5,9 @@
         "department": "Department of Information Technology, Electronics and Communications",
         "type": "Grant",
         "beneficiary": "Startups",
-        "details": "The scheme 'Matching Grant Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The Start-ups that raise funds from a registered/recognized funding source prior to the product launch phase will be provided 25% of the matching funds or a maximum benefit of \u20b9 25,00,000, at proportionate ownership of stock, subsequent to due diligence by the Start-up Promotion Cell (SPC).",
+        "details": "The scheme 'Matching Grant Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The Start-ups that raise funds from a registered/recognized funding source prior to the product launch phase will be provided 25% of the matching funds or a maximum benefit of ₹ 25,00,000, at proportionate ownership of stock, subsequent to due diligence by the Start-up Promotion Cell (SPC).",
         "benefits": [
-            "Start-ups that raise funds from a registered/recognized funding source prior to the product launch phase will be provided 25% of the matching funds or a maximum benefit of \u20b9 25,00,000, at proportionate ownership of stock, subsequent to due diligence by the Start-up Promotion Cell (SPC).",
+            "Start-ups that raise funds from a registered/recognized funding source prior to the product launch phase will be provided 25% of the matching funds or a maximum benefit of ₹ 25,00,000, at proportionate ownership of stock, subsequent to due diligence by the Start-up Promotion Cell (SPC).",
             "This benefit can be availed by 20 start-ups each year which shall be selected by the SPC as per its due diligence and guidelines.",
             "Once the application is approved by the SPC, the approved amount shall be disbursed within 60 days from the date of approval."
         ],
@@ -20,7 +20,7 @@
         "documents_required": [
             "Complete Business Model Canvas",
             "Copy of the Aadhaar Card of the Director/CEO",
-            "Bank Certificate Stating Fund Transferred to Company\u2019s Account",
+            "Bank Certificate Stating Fund Transferred to Company’s Account",
             "Details of Funding Agency/ Registration Certificate of Funding Agency",
             "Term Sheet/ Funding Instrument",
             "The Form and Documents as Mentioned in Annexure 1"
@@ -95,5 +95,6 @@
             "Grant",
             "Startup"
         ]
-    }
+    },
+    "id": "001098"
 }

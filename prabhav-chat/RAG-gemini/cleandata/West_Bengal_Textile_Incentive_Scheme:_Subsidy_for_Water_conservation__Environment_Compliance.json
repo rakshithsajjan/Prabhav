@@ -7,7 +7,7 @@
         "beneficiary": "Textile sector enterprises",
         "details": "The scheme 'Subsidy for Water Conservation/ Environment Compliance' is a sub scheme under 'West Bengal Textile Incentive Scheme'. It was launched on 13 December, 2022, and shall remain valid up to five years. The objective is to extend fiscal incentives to the textile sector across the entire value chain starting from fibre to stitched garments for setting up such units in the State.",
         "benefits": [
-            "A reimbursement of 25% subject to a maximum of \u20b9 1,50,00,000/-",
+            "A reimbursement of 25% subject to a maximum of ₹ 1,50,00,000/-",
             "For a cluster of units with a minimum of 5 units with an investment of minimum Rs. 200 crores, the state Govt. will set up a Common Effluent Treatment Plants (CETP) to be run by a Special Purpose Vehicle (SPV) of the clustered units."
         ],
         "eligibility": [
@@ -66,5 +66,6 @@
             "Waiver",
             "Water Conservation"
         ]
-    }
+    },
+    "id": "002048"
 }

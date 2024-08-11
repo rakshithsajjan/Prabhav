@@ -5,7 +5,7 @@
         "department": "Social Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Girl Child",
-        "details": "A social assistance scheme sponsored by the Jammu & Kashmir Government for newborn girl child of the Union Territories of J&K and Ladakh born on or after 01/04/2015. The objective of the scheme is to arrest the declining female sex ratio. The scheme further intends to ensure that the girl child does not become a burden for the parent or guardian at the time of her marriage. The scheme is a hybrid deposit plan having two phases: Phase I: A recurring deposit for 14 years having a date of completion as one month after the last installment received in the account. Phase II: A Cumulative Term Deposit (CCR) for 7 years. After the maturity of Phase I (recurring deposit account) the account will graduate to Phase II (Cumulative Term Deposit account). The monthly contribution of \u20b91000/- in Phase-I is made by the J&K Govt. The annual income of the parents from all sources should be less than \u20b975,000. The required documents are the Application Form, KYC Norms of the Parent/ Guardian, and the sanction letter from the CDPO (Child Development Project Officer).",
+        "details": "A social assistance scheme sponsored by the Jammu & Kashmir Government for newborn girl child of the Union Territories of J&K and Ladakh born on or after 01/04/2015. The objective of the scheme is to arrest the declining female sex ratio. The scheme further intends to ensure that the girl child does not become a burden for the parent or guardian at the time of her marriage. The scheme is a hybrid deposit plan having two phases: Phase I: A recurring deposit for 14 years having a date of completion as one month after the last installment received in the account. Phase II: A Cumulative Term Deposit (CCR) for 7 years. After the maturity of Phase I (recurring deposit account) the account will graduate to Phase II (Cumulative Term Deposit account). The monthly contribution of ₹1000/- in Phase-I is made by the J&K Govt. The annual income of the parents from all sources should be less than ₹75,000. The required documents are the Application Form, KYC Norms of the Parent/ Guardian, and the sanction letter from the CDPO (Child Development Project Officer).",
         "benefits": [
             "A recurring deposit account under this scheme shall be opened by the natural or legal guardian of the girl child.",
             "A contribution of Rs. 1000/- per month will be made by J&K Government from the birth of the girl child/account opening date for the next 14 years. (A total of Rs. 168000/- only will be contributed by the UT.)",
@@ -16,12 +16,12 @@
             "The nomination facility will not be applicable in the scheme. In the unfortunate event of the death of the girl child, the account will be closed immediately and the balance amount along with interest accrued will revert to the Union Territories of J&K and Ladakh.",
             "In the event of the death of the beneficiary, before she attains 21 years of age, the amount in the Recurring Deposit account / Term Deposit account shall be closed before maturity without pre-payment charges.",
             "The account opened at a particular branch may not be transferred to any other branch even if the girl child in whose name the account stands shifts to a place other than the city or locality where the account stands.",
-            "The beneficiary/parent or guardian of the beneficiary shall produce a \u2018life certificate of the beneficiary (girl child)\u2019 certified by a gazetted officer or by the principal of the school/ college where she is enrolled before the concerned bank branch after every three years and at the time of maturity.",
+            "The beneficiary/parent or guardian of the beneficiary shall produce a ‘life certificate of the beneficiary (girl child)’ certified by a gazetted officer or by the principal of the school/ college where she is enrolled before the concerned bank branch after every three years and at the time of maturity.",
             "As the scheme is aimed at households having an annual income of less than 75000/- The TDS shall not be deducted as long as the guardian/beneficiary furnishes form 15G/15H every year and has a valid PAN."
         ],
         "eligibility": [
             "The girl child should have been born on or after 01/04/2015.",
-            "The annual income of the parents of the girl child from all sources should be less than \u20b975,000.",
+            "The annual income of the parents of the girl child from all sources should be less than ₹75,000.",
             "The girl child and her family should be residents of Jammu & Kashmir."
         ],
         "exclusions": [],
@@ -37,7 +37,7 @@
             "Aadhaar Number of the Parent/Guardian.",
             "Recent Passport Size Photographs of the Girl Child",
             "Bank Account Details (the copy of the first page of the passbook of the bank account)",
-            "Income Certificate of the Parent/Guardian (less than or equal to \u20b9 75000/- per annum)."
+            "Income Certificate of the Parent/Guardian (less than or equal to ₹ 75000/- per annum)."
         ],
         "faqs": [
             {
@@ -89,5 +89,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001009"
 }

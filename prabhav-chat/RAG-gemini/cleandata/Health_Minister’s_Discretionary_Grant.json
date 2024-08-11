@@ -1,20 +1,20 @@
 {
     "content": {
-        "title": "Health Minister\u2019s Discretionary Grant",
+        "title": "Health Minister’s Discretionary Grant",
         "state": "India",
         "department": "Ministry Of Health & Family Welfare",
         "type": "Grant",
         "beneficiary": "Financially poor patients",
-        "details": "A health scheme by Ministry of Health & Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals, for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities are not available. Only those having annual family income up to Rs.1.25,000/- and below are eligible for financial assistance from Health Minister\u2019s Discretionary Grant (HMDG). Under this scheme, Financial assistance is provided towards treatment in Government hospitals including super specialty Government hospitals / institutes.",
+        "details": "A health scheme by Ministry of Health & Family Welfare for financially poor patients to defray a part of the expenditure on Hospitalization/treatment in Government Hospitals, for life threatening diseases covered under Rashtriya Arogya Nidhi (RAN), in cases where free medical facilities are not available. Only those having annual family income up to Rs.1.25,000/- and below are eligible for financial assistance from Health Minister’s Discretionary Grant (HMDG). Under this scheme, Financial assistance is provided towards treatment in Government hospitals including super specialty Government hospitals / institutes.",
         "benefits": [
-            "Financial Assistance of \u20b950,000/- if the estimated cost of treatment is up to \u20b91,00,000/-",
-            "Financial Assistance of \u20b975,000/- if the estimated cost of treatment is above \u20b91,00,000/- & up to \u20b91,50,000/-",
-            "Financial Assistance of \u20b91,00,000/- if the estimated cost of treatment is above \u20b91,50,000/-"
+            "Financial Assistance of ₹50,000/- if the estimated cost of treatment is up to ₹1,00,000/-",
+            "Financial Assistance of ₹75,000/- if the estimated cost of treatment is above ₹1,00,000/- & up to ₹1,50,000/-",
+            "Financial Assistance of ₹1,00,000/- if the estimated cost of treatment is above ₹1,50,000/-"
         ],
         "eligibility": [
             "The applicant must not be an employee of either Central or State Govt.",
             "The applicant must have been Hospitalized / Undergoing Treatment in a Government Hospital (including super specialty Government hospitals / institutes).",
-            "The Total Annual Family Income of the applicant must not exceed \u20b91,00,000/- per annum."
+            "The Total Annual Family Income of the applicant must not exceed ₹1,00,000/- per annum."
         ],
         "exclusions": [
             "Prolonged treatment involving recurring expenditure is not permissible.",
@@ -32,8 +32,8 @@
         ],
         "faqs": [
             {
-                "question": "I am admitted in a government hospital and the expenditure on my treatment is expected to be beyond \u20b950,000/-. What is the maximum amount of financial assistance I can expect through this grant?",
-                "answer": "Financial Assistance of \u20b950,000/- if the estimated cost of treatment is up to \u20b91,00,000/-."
+                "question": "I am admitted in a government hospital and the expenditure on my treatment is expected to be beyond ₹50,000/-. What is the maximum amount of financial assistance I can expect through this grant?",
+                "answer": "Financial Assistance of ₹50,000/- if the estimated cost of treatment is up to ₹1,00,000/-."
             },
             {
                 "question": "Is the assistance provided as a lump sum or on monthly basis?",
@@ -75,5 +75,6 @@
             "Financial Assistance",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000769"
 }

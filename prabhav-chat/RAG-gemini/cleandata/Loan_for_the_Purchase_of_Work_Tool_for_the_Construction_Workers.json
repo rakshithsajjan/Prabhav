@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Loan",
         "beneficiary": "Construction Workers",
-        "details": "The 'Loan for the Purchase of Work Tool for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, an amount not exceeding \u20b920,000/- may be sanctioned as loan to the members of the fund, for the purchase of work related tools.",
+        "details": "The 'Loan for the Purchase of Work Tool for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, an amount not exceeding ₹20,000/- may be sanctioned as loan to the members of the fund, for the purchase of work related tools.",
         "benefits": [
-            "An amount not exceeding \u20b920,000/- may be sanctioned as loan to the members of the fund, for the purchase of work related tools.",
+            "An amount not exceeding ₹20,000/- may be sanctioned as loan to the members of the fund, for the purchase of work related tools.",
             "The loan amount shall be recovered in not more than sixty installments."
         ],
         "eligibility": [
@@ -73,5 +73,6 @@
             "Loan",
             "Work Tool"
         ]
-    }
+    },
+    "id": "001037"
 }

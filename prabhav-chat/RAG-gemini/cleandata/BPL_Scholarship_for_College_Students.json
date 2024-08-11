@@ -7,9 +7,9 @@
         "beneficiary": "Students from BPL category families",
         "details": "The objective of the scheme is to provide financial assistance to meritorious students from BPL category families to meet a part of their day-to-day expenses while pursuing higher studies.",
         "benefits": [
-            "\u20b9500/- per month for Post Graduate Level (PG) students",
-            "\u20b9300/- per month for Graduate Level (UG) students",
-            "Full scholarship for renewal applicants: \u20b93000 for UG Classes and \u20b95000 for PG Classes",
+            "₹500/- per month for Post Graduate Level (PG) students",
+            "₹300/- per month for Graduate Level (UG) students",
+            "Full scholarship for renewal applicants: ₹3000 for UG Classes and ₹5000 for PG Classes",
             "Scholarship disbursed through Direct Benefit Transfer (DBT) mode"
         ],
         "eligibility": [
@@ -65,5 +65,6 @@
             "Higher Education",
             "Chhattisgarh"
         ]
-    }
+    },
+    "id": "000160"
 }

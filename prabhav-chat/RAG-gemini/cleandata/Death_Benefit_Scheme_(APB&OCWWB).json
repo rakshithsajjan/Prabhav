@@ -5,10 +5,10 @@
         "department": "Department of Labour and Employment, Government of Arunachal Pradesh",
         "type": "Financial Assistance",
         "beneficiary": "Construction Worker",
-        "details": "The scheme \u201cDeath Benefit Scheme\u201d was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of the Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The state government has proposed and implemented this scheme through the APB&OCWWB for those families who suffer due to economic loss caused by the demise of the bread earner of the house and have registered their names in the Labour Welfare Board. Objective: To mitigate such economic loss, the govt. has introduced the death benefit scheme for normal death and death due to accidents.",
+        "details": "The scheme “Death Benefit Scheme” was started by the Department of Labour and Employment, Govt. of Arunachal Pradesh for registered workers of the Arunachal Pradesh Building & Other Construction Workers Welfare Board (APB&OCWWB). The state government has proposed and implemented this scheme through the APB&OCWWB for those families who suffer due to economic loss caused by the demise of the bread earner of the house and have registered their names in the Labour Welfare Board. Objective: To mitigate such economic loss, the govt. has introduced the death benefit scheme for normal death and death due to accidents.",
         "benefits": [
-            "Cash assistance of \u20b950,000/- provided to the nominee of the registered worker, in case of normal death.",
-            "Cash assistance of \u20b91,00,000/- provided to the nominee of the registered worker, only in case of accidental death."
+            "Cash assistance of ₹50,000/- provided to the nominee of the registered worker, in case of normal death.",
+            "Cash assistance of ₹1,00,000/- provided to the nominee of the registered worker, only in case of accidental death."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Arunachal Pradesh.",
@@ -42,11 +42,11 @@
             },
             {
                 "question": "How much cash assistance will be given to the nominee in case of normal death?",
-                "answer": "Cash assistance of \u20b950,000/- will be provided to the nominee of the registered worker, in case of normal death."
+                "answer": "Cash assistance of ₹50,000/- will be provided to the nominee of the registered worker, in case of normal death."
             },
             {
                 "question": "How much cash assistance will be given to the nominee in case of accidental death?",
-                "answer": "Cash assistance of \u20b91,00,000/- will be provided to the nominee of the registered worker, only in case of accidental death."
+                "answer": "Cash assistance of ₹1,00,000/- will be provided to the nominee of the registered worker, only in case of accidental death."
             },
             {
                 "question": "Who is eligible under this scheme?",
@@ -84,5 +84,6 @@
             "Financial Assistance",
             "Labour"
         ]
-    }
+    },
+    "id": "000363"
 }

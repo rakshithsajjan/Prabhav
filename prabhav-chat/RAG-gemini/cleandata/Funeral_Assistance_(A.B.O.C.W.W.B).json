@@ -7,7 +7,7 @@
         "beneficiary": "Nominees/Dependents of deceased registered workers",
         "details": "The scheme 'Funeral Assistance' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the nominees/dependents of a deceased registered worker, towards funeral expenses.",
         "benefits": [
-            "The financial assistance of \u20b95,000/- shall be given to the nominees/dependents of a deceased registered worker, towards funeral expenses."
+            "The financial assistance of ₹5,000/- shall be given to the nominees/dependents of a deceased registered worker, towards funeral expenses."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Assam.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What are the benefits provided under the Scheme?",
-                "answer": "The scheme offers a financial assistance amounting to \u20b95,000 to the nominees or dependents of a deceased registered worker."
+                "answer": "The scheme offers a financial assistance amounting to ₹5,000 to the nominees or dependents of a deceased registered worker."
             },
             {
                 "question": "What is the requirement for relationship with the deceased worker?",
@@ -90,5 +90,6 @@
             "Funeral",
             "Labour"
         ]
-    }
+    },
+    "id": "000649"
 }

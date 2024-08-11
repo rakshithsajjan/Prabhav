@@ -7,7 +7,7 @@
         "beneficiary": "Nominee or legal heir of a registered worker",
         "details": "The scheme 'Funeral Assistance' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, the Board provides financial assistance for funeral expenses to the nominee or legal heir of a registered worker in the event of their death.",
         "benefits": [
-            "In case of the death of a registered worker, an amount of \u20b915,000/- is payable as funeral assistance to his/her nominee/legal heirs."
+            "In case of the death of a registered worker, an amount of ₹15,000/- is payable as funeral assistance to his/her nominee/legal heirs."
         ],
         "eligibility": [
             "The applicant should be a nominee/legal heir of the deceased worker.",
@@ -29,7 +29,7 @@
         "faqs": [
             {
                 "question": "How much financial assistance is provided under the scheme?",
-                "answer": "An amount of \u20b915,000/- is payable as funeral assistance to the nominee or legal heirs of the deceased worker."
+                "answer": "An amount of ₹15,000/- is payable as funeral assistance to the nominee or legal heirs of the deceased worker."
             },
             {
                 "question": "Who is eligible to apply for the scheme?",
@@ -70,5 +70,6 @@
             "Funeral",
             "Labour"
         ]
-    }
+    },
+    "id": "000653"
 }

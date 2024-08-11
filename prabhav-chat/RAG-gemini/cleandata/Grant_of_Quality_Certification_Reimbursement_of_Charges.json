@@ -7,7 +7,7 @@
         "beneficiary": "MSMEs",
         "details": "The scheme 'Grant of Quality Certification Reimbursement of Charges' by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced to encourage MSMEs to acquire quality standards/certifications for processes and products, or any other international quality certification recognized in India by a competent authority. The government reimburses payments made to Consultancy and certification agencies for acquiring National and International Level Quality Certifications.",
         "benefits": [
-            "Reimbursement of payments made to Consultancy and Certification Agencies towards acquiring Quality Certification, subject to a ceiling of \u20b9 2,00,000/- for National Level Certification and \u20b9 10,00,000/- for International Level Certification."
+            "Reimbursement of payments made to Consultancy and Certification Agencies towards acquiring Quality Certification, subject to a ceiling of ₹ 2,00,000/- for National Level Certification and ₹ 10,00,000/- for International Level Certification."
         ],
         "eligibility": [
             "The applicant should be an MSME in the state of Tamil Nadu."
@@ -61,7 +61,7 @@
             },
             {
                 "question": "What is the reimbursement limit for International Level Certifications under this scheme?",
-                "answer": "The government reimburses payments up to \u20b910,00,000/- for International Level Certifications recognized by globally accredited bodies, enhancing the global competitiveness of MSMEs."
+                "answer": "The government reimburses payments up to ₹10,00,000/- for International Level Certifications recognized by globally accredited bodies, enhancing the global competitiveness of MSMEs."
             },
             {
                 "question": "Can a unit with a valid Udyam registration apply for multiple certifications under this scheme?",
@@ -106,5 +106,6 @@
             "Quality",
             "Reimbursement"
         ]
-    }
+    },
+    "id": "000734"
 }

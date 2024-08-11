@@ -5,9 +5,9 @@
         "department": "Department of Women and Child Development, Government of Kerala",
         "type": "Financial Assistance",
         "beneficiary": "Widows and Divorced Women",
-        "details": "The \u201cMangalya Scheme\u201d was launched by the Department of Women and Child Development, Government of Kerala. Under the scheme, financial assistance is to be provided to eligible widows and divorced women for their remarriage. In Kerala, women not only outnumber men but also outlive them, so the marital status of women in Kerala is very important. It could influence the overall care and support they receive from their family and society. Statics show only 3.5% of the total male population in Kerala are widowers and the proportion of the widowed female population is 11.56%. This gender gap adversely affects women in every sphere of their life. It is in this context, that the Government of Kerala envisages the scheme called \u2018Mangalya\u2019 to encourage widow remarriage. The scheme imparts financial assistance for the widows/divorced to remarry.",
+        "details": "The “Mangalya Scheme” was launched by the Department of Women and Child Development, Government of Kerala. Under the scheme, financial assistance is to be provided to eligible widows and divorced women for their remarriage. In Kerala, women not only outnumber men but also outlive them, so the marital status of women in Kerala is very important. It could influence the overall care and support they receive from their family and society. Statics show only 3.5% of the total male population in Kerala are widowers and the proportion of the widowed female population is 11.56%. This gender gap adversely affects women in every sphere of their life. It is in this context, that the Government of Kerala envisages the scheme called ‘Mangalya’ to encourage widow remarriage. The scheme imparts financial assistance for the widows/divorced to remarry.",
         "benefits": [
-            "Under the scheme, financial assistance of \u20b925000/- is provided to eligible widows and divorced women to remarry."
+            "Under the scheme, financial assistance of ₹25000/- is provided to eligible widows and divorced women to remarry."
         ],
         "eligibility": [
             "The applicant should be a resident of Kerala State.",
@@ -28,7 +28,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cMangalya Scheme\u201d?",
+                "question": "What is the “Mangalya Scheme”?",
                 "answer": "Under the scheme, financial assistance is to be provided to eligible widows and divorced women for their remarriage."
             },
             {
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b925000/- is provided to eligible widows and divorced women to remarry."
+                "answer": "Under the scheme, financial assistance of ₹25000/- is provided to eligible widows and divorced women to remarry."
             },
             {
                 "question": "Who is eligible to get the benefits under the scheme?",
@@ -76,5 +76,6 @@
             "Kerala",
             "Women Empowerment"
         ]
-    }
+    },
+    "id": "001080"
 }

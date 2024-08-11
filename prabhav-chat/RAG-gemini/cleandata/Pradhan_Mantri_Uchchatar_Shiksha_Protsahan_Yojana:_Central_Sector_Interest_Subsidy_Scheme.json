@@ -5,15 +5,15 @@
         "department": "Ministry of Education",
         "type": "Interest Subsidy",
         "beneficiary": "Economically Weaker Sections",
-        "details": "The scheme provides full interest subsidy during the moratorium period on loans availed under the Model Education Loan Scheme of the Indian Banks\u2019 Association (IBA) to students belonging to economically weaker sections whose annual parental income is up to \u20b94.5 Lakhs from all sources. The subsidy is allowed for pursuing higher education in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Centrally Funded Technical Institutions (CFTIs) in India.",
+        "details": "The scheme provides full interest subsidy during the moratorium period on loans availed under the Model Education Loan Scheme of the Indian Banks’ Association (IBA) to students belonging to economically weaker sections whose annual parental income is up to ₹4.5 Lakhs from all sources. The subsidy is allowed for pursuing higher education in professional/technical courses only from NAAC accredited Institutions or professional/technical programmes accredited by NBA or Institutions of National Importance or Centrally Funded Technical Institutions (CFTIs) in India.",
         "benefits": [
-            "Interest subsidy on education loans for a maximum amount of \u20b910 lakhs.",
-            "No collateral security or third-party guarantee is required for Education Loans sanctioned up to \u20b97.5 lakhs.",
+            "Interest subsidy on education loans for a maximum amount of ₹10 lakhs.",
+            "No collateral security or third-party guarantee is required for Education Loans sanctioned up to ₹7.5 lakhs.",
             "Interest subsidy is allowed for pursuing higher education in professional/technical courses only from accredited institutions."
         ],
         "eligibility": [
             "Education Loans taken under the IBA Model Education Loan Scheme.",
-            "Students belonging to economically weaker sections having gross parental/family income up to \u20b94.5 lakhs per annum.",
+            "Students belonging to economically weaker sections having gross parental/family income up to ₹4.5 lakhs per annum.",
             "Students enrolled in professional/technical courses from accredited institutions.",
             "Admissible only once either for Undergraduate or Post Graduate degree courses."
         ],
@@ -77,5 +77,6 @@
             "Economically Weaker Sections",
             "Higher Education"
         ]
-    }
+    },
+    "id": "001501"
 }

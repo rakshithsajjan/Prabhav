@@ -5,9 +5,9 @@
         "department": "Department of Micro, Small and Medium Enterprises",
         "type": "Loan",
         "beneficiary": "First Generation Entrepreneurs",
-        "details": "The scheme 'New Entrepreneur-Cum-Enterprise Development Scheme (NEEDS)' was launched to assist educated youth to become first-generation entrepreneurs. It provides training, helps in preparing business plans, and facilitates loans with a capital subsidy of 25% of the project cost not exceeding \u20b975 lakhs.",
+        "details": "The scheme 'New Entrepreneur-Cum-Enterprise Development Scheme (NEEDS)' was launched to assist educated youth to become first-generation entrepreneurs. It provides training, helps in preparing business plans, and facilitates loans with a capital subsidy of 25% of the project cost not exceeding ₹75 lakhs.",
         "benefits": [
-            "Subsidy assistance up to 25% of the project cost (maximum \u20b975 Lakhs)",
+            "Subsidy assistance up to 25% of the project cost (maximum ₹75 Lakhs)",
             "Interest subvention at the rate of 3%",
             "Priority in allotment in Small Industries Development Corporation (SIDCO) industrial estates",
             "Additional capital subsidy for SC/ST or differently-abled candidates"
@@ -20,7 +20,7 @@
             "No income ceiling for assistance",
             "New projects sanctioned specifically under the NEEDS",
             "Not a defaulter to any Commercial Bank/TIIC",
-            "Project cost should be above \u20b910 lakh and below \u20b95 crore",
+            "Project cost should be above ₹10 lakh and below ₹5 crore",
             "10% contribution for General category; 5% for Special category",
             "Mandatory Entrepreneurship Development Programme (EDP) training"
         ],
@@ -62,7 +62,7 @@
             },
             {
                 "question": "What is the maximum subsidy available under this scheme?",
-                "answer": "25% of the eligible components of the project cost subject to a maximum of \u20b975 Lakhs."
+                "answer": "25% of the eligible components of the project cost subject to a maximum of ₹75 Lakhs."
             }
         ],
         "sources": [
@@ -82,5 +82,6 @@
             "NEEDS",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001348"
 }

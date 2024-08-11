@@ -7,7 +7,7 @@
         "beneficiary": "Micro, Small and Medium Enterprises (MSMEs) in the Powerloom sector",
         "details": "The scheme 'Subsidy for Patent Registration' is a sub scheme under the 'Incentive Scheme for MSMEs in Powerloom Sector'. It was launched on 1st January, 2022, and shall remain valid up to 31st December, 2024. The objective is to extend fiscal incentives for installation of New age shuttleless Powerlooms by MSMEs in the Textile sector.",
         "benefits": [
-            "50% subsidy subject to a maximum \u20b9 5,00,000/-"
+            "50% subsidy subject to a maximum ₹ 5,00,000/-"
         ],
         "eligibility": [
             "The Scheme shall be generally applicable to all micro, small, and medium enterprises (MSMEs) in the powerloom sector.",
@@ -100,5 +100,6 @@
             "Subsidy",
             "Waiver"
         ]
-    }
+    },
+    "id": "000816"
 }

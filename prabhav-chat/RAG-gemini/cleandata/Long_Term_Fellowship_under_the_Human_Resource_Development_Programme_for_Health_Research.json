@@ -7,12 +7,12 @@
         "beneficiary": "Medical and health research personnel",
         "details": "Long Term Fellowship under the Human Resource Development Programme for Health Research aims to provide advanced training in India and abroad to medical and health research personnel in cutting-edge research areas related to medicine and health to create trained human resources for carrying out advanced research activities. The scheme is intended to create a pool of talented health research personnel in the country by upgrading the skills of medical students & faculty through specialized training in priority areas of health research in leading national and international institutions.",
         "benefits": [
-            "A consolidated stipend of \u20b940,000/- per month for a period of stay in the host institute in India.",
+            "A consolidated stipend of ₹40,000/- per month for a period of stay in the host institute in India.",
             "Expenditure on travel as per the T.A. rules of the parent organization.",
-            "One-time contingency grant of \u20b930,000 (maximum) for local expenses.",
+            "One-time contingency grant of ₹30,000 (maximum) for local expenses.",
             "A consolidated stipend of US $3000/- per month for a period of stay in the host institute abroad.",
             "Cost of air passage in economy class by Air India.",
-            "One-time contingency grant of \u20b950,000 (maximum) for local expenses in foreign institutes."
+            "One-time contingency grant of ₹50,000 (maximum) for local expenses in foreign institutes."
         ],
         "eligibility": [
             "Only Indian citizens working in Indian institutes are eligible.",
@@ -84,5 +84,6 @@
             "Medical Training",
             "Long Term Fellowship"
         ]
-    }
+    },
+    "id": "001040"
 }

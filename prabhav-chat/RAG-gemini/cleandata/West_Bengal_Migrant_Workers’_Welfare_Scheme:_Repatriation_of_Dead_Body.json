@@ -1,17 +1,17 @@
 {
     "content": {
-        "title": "West Bengal Migrant Workers\u2019 Welfare Scheme: Repatriation of Dead Body",
+        "title": "West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body",
         "state": "West Bengal",
         "department": "Labour Department, Government of West Bengal",
         "type": "Social Welfare Scheme",
         "beneficiary": "Registered Migrant Workers and their nominees",
-        "details": "West Bengal Migrant Workers\u2019 Welfare Scheme: Repatriation of Dead Body is a social welfare scheme implemented by the West Bengal Migrant Workers\u2019 Welfare Board, Labour Department, Government of West Bengal on 25th April, 2023. Under this scheme, if any registered Migrant Worker dies in the course of employment outside the State of West Bengal, an assistance of \u20b9 25,000/- will be provided to the nominee of the worker for bringing the dead body to his/ her permanent address.",
+        "details": "West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body is a social welfare scheme implemented by the West Bengal Migrant Workers’ Welfare Board, Labour Department, Government of West Bengal on 25th April, 2023. Under this scheme, if any registered Migrant Worker dies in the course of employment outside the State of West Bengal, an assistance of ₹ 25,000/- will be provided to the nominee of the worker for bringing the dead body to his/ her permanent address.",
         "benefits": [
-            "\u20b9 25,000/- to the nominee of the Migrant Worker."
+            "₹ 25,000/- to the nominee of the Migrant Worker."
         ],
         "eligibility": [
             "The applicant must be a resident of West Bengal.",
-            "The applicant\u2019s age should be between 18-60 years.",
+            "The applicant’s age should be between 18-60 years.",
             "The applicant must be ordinarily a worker who is employed/ likely to be employed in any State/Union Territories other than the state of West Bengal/ Outside India.",
             "The beneficiary should be a nominee i.e., a person nominated by the registered Migrant Worker from his/ her family.",
             "The migrant worker should have lost his/her life due to death during the course of employment outside the State of West Bengal."
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "West Bengal Migrant Workers\u2019 Welfare Scheme: Repatriation of Dead Body is a social welfare scheme implemented by the West Bengal Migrant Workers\u2019 Welfare Board, Labour Department, Government of West Bengal, that provides an one time assistance to the nominee for bringing the dead body of the registered migrant worker in case of death to his/ her permanent address."
+                "answer": "West Bengal Migrant Workers’ Welfare Scheme: Repatriation of Dead Body is a social welfare scheme implemented by the West Bengal Migrant Workers’ Welfare Board, Labour Department, Government of West Bengal, that provides an one time assistance to the nominee for bringing the dead body of the registered migrant worker in case of death to his/ her permanent address."
             },
             {
                 "question": "How can the benefits be availed?",
@@ -88,5 +88,6 @@
             "Social Welfare",
             "Worker"
         ]
-    }
+    },
+    "id": "002042"
 }

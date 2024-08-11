@@ -18,7 +18,7 @@
             "The applicant should not have availed of any such subsidy earlier.",
             "The applicant should have a bonafide Himachali certificate of the couple.",
             "The applicant should possess a Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate.",
-            "The applicant should have income and revenue papers (Record of Right \u2013 Parcha & Tatima).",
+            "The applicant should have income and revenue papers (Record of Right – Parcha & Tatima).",
             "The applicant should have a recommendation from the concerned Gram Panchayat.",
             "Latest photographs of the present house are required."
         ],
@@ -28,7 +28,7 @@
             "Bonafide Himachali Certificate of the couple.",
             "Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate.",
             "Income Certificate.",
-            "Revenue Papers (Record of Right \u2013 Parcha & Tatima)",
+            "Revenue Papers (Record of Right – Parcha & Tatima)",
             "Recommendation from the concerned Gram Panchayat.",
             "Certificate from the applicant that he/she is not availed any such subsidy earlier.",
             "Latest Photographs of the present house."
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What Documents Are Required For The Application Process?",
-                "answer": "Documents required for the application process include a Bonafide Himachali Certificate of the couple, Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate, Income Certificate, Revenue Papers (Record of Right \u2013 Parcha & Tatima), Recommendation from the concerned Gram Panchayat, Certificate from the applicant that he/she is not availed any such subsidy earlier, and Latest Photographs of the present house."
+                "answer": "Documents required for the application process include a Bonafide Himachali Certificate of the couple, Scheduled Cast/Other Backward Classes/Minority Community/Single Women or Handicapped Certificate, Income Certificate, Revenue Papers (Record of Right – Parcha & Tatima), Recommendation from the concerned Gram Panchayat, Certificate from the applicant that he/she is not availed any such subsidy earlier, and Latest Photographs of the present house."
             },
             {
                 "question": "What Is The Subsidy Amount Provided Under This Scheme?",
@@ -82,5 +82,6 @@
             "Subsidy",
             "Women"
         ]
-    }
+    },
+    "id": "000787"
 }

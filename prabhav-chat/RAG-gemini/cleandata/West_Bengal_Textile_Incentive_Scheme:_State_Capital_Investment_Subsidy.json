@@ -7,14 +7,14 @@
         "beneficiary": "Textile sector enterprises",
         "details": "The scheme 'State Capital Investment Subsidy' is a sub scheme under 'West Bengal Textile Incentive Scheme'. It was launched on 13 December, 2022, and shall remain valid up to five years. The objective is to extend fiscal incentives to the textile sector across the entire value chain starting from fibre to stitched garments for setting up such units in the State.",
         "benefits": [
-            "10% subsidy for spinning (short staple) with a maximum admissible amount of \u20b92,00,00,00,00/-",
-            "20% subsidy for weaving & knitting (warp and flat-bed) and texturing & twisting with a maximum admissible amount of \u20b91,00,00,00,00/-",
-            "10% subsidy for circular knitting with a maximum admissible amount of \u20b950,00,00,00/-",
-            "20% subsidy for dyeing and processing of fibers, yarn, fabric and garment with a maximum admissible amount of \u20b92,00,00,00,00/-",
-            "20% subsidy for technical textile (Agrotech, Buildtech, Indutech, Geotech, and Medi-tech) and non-woven fabric manufacturing with a maximum admissible amount of \u20b92,50,00,00,00/-",
-            "10% subsidy for technical textile (all categories except Agrotech, Buildtech, Indutech, Geotech, and Medi-tech) with a maximum admissible amount of \u20b91,00,00,00,00/-",
-            "20% subsidy for polymerization with a maximum admissible amount of \u20b95,00,00,00,00/-",
-            "10% subsidy for composite type of textile unit with a maximum admissible amount of \u20b95,00,00,00,00/-"
+            "10% subsidy for spinning (short staple) with a maximum admissible amount of ₹2,00,00,00,00/-",
+            "20% subsidy for weaving & knitting (warp and flat-bed) and texturing & twisting with a maximum admissible amount of ₹1,00,00,00,00/-",
+            "10% subsidy for circular knitting with a maximum admissible amount of ₹50,00,00,00/-",
+            "20% subsidy for dyeing and processing of fibers, yarn, fabric and garment with a maximum admissible amount of ₹2,00,00,00,00/-",
+            "20% subsidy for technical textile (Agrotech, Buildtech, Indutech, Geotech, and Medi-tech) and non-woven fabric manufacturing with a maximum admissible amount of ₹2,50,00,00,00/-",
+            "10% subsidy for technical textile (all categories except Agrotech, Buildtech, Indutech, Geotech, and Medi-tech) with a maximum admissible amount of ₹1,00,00,00,00/-",
+            "20% subsidy for polymerization with a maximum admissible amount of ₹5,00,00,00,00/-",
+            "10% subsidy for composite type of textile unit with a maximum admissible amount of ₹5,00,00,00,00/-"
         ],
         "eligibility": [
             "Industries in the manufacturing and processing of textiles, apparel and technical textiles products.",
@@ -29,7 +29,7 @@
         ],
         "application_process": "Online",
         "documents_required": [
-            "Auditor\u2019s/ Chartered Accountant\u2019s Certificate for utilization of funds.",
+            "Auditor’s/ Chartered Accountant’s Certificate for utilization of funds.",
             "A certificate from a Chartered Accountant as per Annexure - I.",
             "A certificate in respect of fixed assets as per Annexure - II.",
             "Any other documents as required."
@@ -69,5 +69,6 @@
             "State Capital Investment Subsidy",
             "Textile"
         ]
-    }
+    },
+    "id": "002047"
 }

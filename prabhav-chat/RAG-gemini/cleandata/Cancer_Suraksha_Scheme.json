@@ -9,7 +9,7 @@
         "benefits": [
             "Free treatment for cancer through designated Government hospitals in the state.",
             "The entire cost of treatment, including the cost of investigations, would be borne by the hospitals through the funds provided by the Mission.",
-            "The ceiling of expenditure per child would be initially \u20b950,000/-."
+            "The ceiling of expenditure per child would be initially ₹50,000/-."
         ],
         "eligibility": [
             "The applicant should be a resident of Kerala State.",
@@ -106,5 +106,6 @@
             "Free Treatment",
             "Kerala"
         ]
-    }
+    },
+    "id": "000236"
 }

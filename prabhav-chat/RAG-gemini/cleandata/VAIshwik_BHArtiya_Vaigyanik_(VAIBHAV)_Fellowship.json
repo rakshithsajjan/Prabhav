@@ -7,10 +7,10 @@
         "beneficiary": "Non-Resident Indians (NRI), Persons of Indian Origin (PIO), and Overseas Citizens of India (OCI)",
         "details": "The 'Vaishvik Bharatiya Vaigyanik (VAIBHAV) Fellowship' is a new programme which is implemented by the Department of Science & Technology, Ministry of Science and Technology, Government of India. This programme envisages collaboration between scientists of the Indian Diaspora with Indian Higher Educational Institutions (HEIs), Universities and/or Public Funded Scientific Institutions. The VAIBHAV Fellow would identify an Indian Institution for collaboration and may spend up to two months in a year for a maximum of 3 years.",
         "benefits": [
-            "Fellowship in \u20b94,00,000/- roughly (equivalent to USD 5000 per month), for a minimum of 1 month and a maximum of up to 2 months per year for a period of a maximum of 3 years",
+            "Fellowship in ₹4,00,000/- roughly (equivalent to USD 5000 per month), for a minimum of 1 month and a maximum of up to 2 months per year for a period of a maximum of 3 years",
             "International Travel from place of work in parent institute to place of work in India in business class once a year",
-            "Fully furnished Accommodation in the guest house or hotel up to \u20b97500/- per day",
-            "Contingency \u20b91,00,000 per year for research expenditure in India",
+            "Fully furnished Accommodation in the guest house or hotel up to ₹7500/- per day",
+            "Contingency ₹1,00,000 per year for research expenditure in India",
             "Domestic Travel (economy class) for academic purposes up to two Indian academic/scientific institutes in a year"
         ],
         "eligibility": [
@@ -27,7 +27,7 @@
             "Bio-data of Applicant in the prescribed format (two pages max.)",
             "List of recent publications of the applicant (last three years) with impact factors",
             "Copy of Valid Passport",
-            "Academic Qualification \u2013 Copy of certificate for highest degree",
+            "Academic Qualification – Copy of certificate for highest degree",
             "Experience Certificate",
             "Undertaking by the applicant in the prescribed format",
             "No-objection certificate from the parent institute",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the emolument provided under the programme?",
-                "answer": "The VAIBHAV Fellowship offers a stipend of \u20b94,00,000/- per month for a minimum of 01 month and a maximum of 02 months per year, with a total fellowship duration not exceeding 03 years."
+                "answer": "The VAIBHAV Fellowship offers a stipend of ₹4,00,000/- per month for a minimum of 01 month and a maximum of 02 months per year, with a total fellowship duration not exceeding 03 years."
             },
             {
                 "question": "Are there additional benefits for international travel?",
@@ -85,5 +85,6 @@
             "Science",
             "VAIBHAV"
         ]
-    }
+    },
+    "id": "002001"
 }

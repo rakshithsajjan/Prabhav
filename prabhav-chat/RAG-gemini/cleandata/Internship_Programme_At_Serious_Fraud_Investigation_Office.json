@@ -7,12 +7,12 @@
         "beneficiary": "Talented and young scholars and researchers from reputed academic institutions",
         "details": "Serious Fraud Investigation Office (SFIO) is a multi-disciplinary organization under the Ministry of Corporate Affairs has an Internship Programme which was started in 2017 to provide a platform for interaction of talented and young scholars and researchers from reputed academic institutions who are pursuing Post-Graduation/Research Program in Economics/ Commerce/Law/Management and Computer Forensics as well as professional courses with Institute of Chartered Accountants of India, Institute of Cost Accountants of India (CMA) and Institute of Company Secretaries of India with officers of SFIO, including its Regional Offices. The programme also provides an opportunity to interns to not only familiarize themselves with the working of the Government but also offers a chance to gain hands-on experience in specialized skills in their area of study as well as working in team.",
         "benefits": [
-            "Stipend of \u20b97,000/- per month",
+            "Stipend of ₹7,000/- per month",
             "Certificate of Internship upon satisfactory completion"
         ],
         "eligibility": [
             "The applicant should be an Indian National.",
-            "Students in Post Graduate Courses \u2014 MBA (Finance), Law Students in 4th/5th Year of a five-year stream with consistent and excellent academic records/fresh graduates with excellent academic records possessing a first-class graduation degree.",
+            "Students in Post Graduate Courses — MBA (Finance), Law Students in 4th/5th Year of a five-year stream with consistent and excellent academic records/fresh graduates with excellent academic records possessing a first-class graduation degree.",
             "Students pursuing post-graduation with high second-class graduation degree (with at least 55% marks/students pursuing Masters/Research Courses in Economics/Finance/Management/Law at the National School of Economics/Law / Computer Forensics from recognized universities in India and Abroad.",
             "Students pursuing final year or the equivalent of ICAI, ICAI(CMA), ICSI/Central Universities/AICTE recognized financial/Economic Institutions/recognized National Management Institutes/Foreign Universities and Institutions of Excellence.",
             "In the case of Graduate Applicants, the applicant should have secured First Class Degree in Graduation."
@@ -36,7 +36,7 @@
             },
             {
                 "question": "Will The Interns Receive A Stipend?",
-                "answer": "Yes, the interns will be paid a stipend of \u20b97,000/- per month for the duration of the internship."
+                "answer": "Yes, the interns will be paid a stipend of ₹7,000/- per month for the duration of the internship."
             },
             {
                 "question": "What Documents Are Required For The Application?",
@@ -92,5 +92,6 @@
             "Investigation",
             "Student"
         ]
-    }
+    },
+    "id": "000893"
 }

@@ -79,7 +79,7 @@
             },
             {
                 "question": "How much financial assistance can a Group/Institution receive under this scheme for the purchase of musical instruments?",
-                "answer": "The scheme provides lumpsum grants or financial assistance to a maximum extent of \u20b915,000 per Group/Institution specifically for the purchase of musical instruments."
+                "answer": "The scheme provides lumpsum grants or financial assistance to a maximum extent of ₹15,000 per Group/Institution specifically for the purchase of musical instruments."
             }
         ],
         "sources": [
@@ -95,5 +95,6 @@
             "Grant",
             "Goa"
         ]
-    }
+    },
+    "id": "001738"
 }

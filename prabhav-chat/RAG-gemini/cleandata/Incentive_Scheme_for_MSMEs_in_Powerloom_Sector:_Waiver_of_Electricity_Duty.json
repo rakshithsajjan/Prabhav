@@ -7,10 +7,10 @@
         "beneficiary": "Micro, Small and Medium Enterprises (MSMEs) in the Powerloom sector",
         "details": "The scheme 'Waiver of Electricity Duty' is a sub scheme under the 'Incentive Scheme for MSMEs in Powerloom Sector'. It was launched on 1st January, 2022, and shall remain valid up to 31st December, 2024. The objective is to extend fiscal incentives for installation of New age shuttleless Powerlooms by MSMEs in the Textile sector.",
         "benefits": [
-            "Micro & Small Enterprise: Zone A & B: 50% subject to a maximum of \u20b910,00,000/- per year on the electricity consumption for 5 years.",
-            "Micro & Small Enterprise: Zone C, D & E: 75% subject to a maximum of \u20b910,00,000/- per year on the electricity consumption for 5 years.",
-            "Medium Enterprise: Zone B & C: 100% subject to a maximum of \u20b925,00,000/- per year on the electricity consumption for 5 years.",
-            "Medium Enterprise: Zone D & E: 100% on the electricity consumption for 5 years and 75% waiver from the 6th year up to 10th year from the date of commencement of commercial production subject to a maximum of \u20b950,00,000/- per year."
+            "Micro & Small Enterprise: Zone A & B: 50% subject to a maximum of ₹10,00,000/- per year on the electricity consumption for 5 years.",
+            "Micro & Small Enterprise: Zone C, D & E: 75% subject to a maximum of ₹10,00,000/- per year on the electricity consumption for 5 years.",
+            "Medium Enterprise: Zone B & C: 100% subject to a maximum of ₹25,00,000/- per year on the electricity consumption for 5 years.",
+            "Medium Enterprise: Zone D & E: 100% on the electricity consumption for 5 years and 75% waiver from the 6th year up to 10th year from the date of commencement of commercial production subject to a maximum of ₹50,00,000/- per year."
         ],
         "eligibility": [
             "The Scheme shall be generally applicable to all micro, small, and medium enterprises (MSMEs) in the powerloom sector.",
@@ -90,5 +90,6 @@
             "Subsidy",
             "Waiver"
         ]
-    }
+    },
+    "id": "000821"
 }

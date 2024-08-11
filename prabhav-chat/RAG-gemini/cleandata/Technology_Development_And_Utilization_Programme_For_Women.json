@@ -5,7 +5,7 @@
         "department": "Ministry Of Science And Technology",
         "type": "Capacity Building",
         "beneficiary": "Women",
-        "details": "In order to meet the specific needs of women and to enhance the contribution of women towards technology capability building, the \u201cTechnology Development & Utilization Programme for Women (TDUPW)\u201d has been formulated by the Department of Scientific and Industrial Research (DSIR). DSIR has a mandate to carry out activities relating to indigenous technology promotion, development, utilization and transfer. DSIR under its \u201cTechnology Development and Utilization Programme for Women (TDUPW)\u201d provides assistance for those projects which are relevant to technology development and utilization by the women.",
+        "details": "In order to meet the specific needs of women and to enhance the contribution of women towards technology capability building, the “Technology Development & Utilization Programme for Women (TDUPW)” has been formulated by the Department of Scientific and Industrial Research (DSIR). DSIR has a mandate to carry out activities relating to indigenous technology promotion, development, utilization and transfer. DSIR under its “Technology Development and Utilization Programme for Women (TDUPW)” provides assistance for those projects which are relevant to technology development and utilization by the women.",
         "benefits": [
             "Promoting the adoption of new technologies by women.",
             "Awareness creation and training of women on technology-related issues with regard to women.",
@@ -30,7 +30,7 @@
             "Technical and financial details of the proposal.",
             "A Copy of the Registration Certificate (for institutions other than Government).",
             "A Copy of the Annual Report for the last 3 years (for institutions other than Government).",
-            "A Copy of the Auditor\u2019s Report for the last 3 years (for institutions other than Government)."
+            "A Copy of the Auditor’s Report for the last 3 years (for institutions other than Government)."
         ],
         "faqs": [
             {
@@ -83,5 +83,6 @@
             "Utilization",
             "Capacity Building"
         ]
-    }
+    },
+    "id": "001928"
 }

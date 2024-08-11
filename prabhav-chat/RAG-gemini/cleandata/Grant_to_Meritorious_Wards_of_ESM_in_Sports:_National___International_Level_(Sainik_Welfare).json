@@ -7,9 +7,9 @@
         "beneficiary": "Ex-Serviceman, Student, Widow",
         "details": "'Grant to Meritorious Wards of ESM in Sports: National / International Level' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the meritorious wards of the ESM are provided grants for their achievements in sports at national and international levels. The application should be submitted offline within three months from the date of the achievement.",
         "benefits": [
-            "Grant of \u20b950,000/- for achievements in sports at the international level.",
-            "Grant of \u20b930,000/- for achievements in sports at the national level.",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "Grant of ₹50,000/- for achievements in sports at the international level.",
+            "Grant of ₹30,000/- for achievements in sports at the national level.",
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be a Ward of an ESM / Ward of the Widow of an Ex-Serviceman (ESM).",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the procedure for seeking information through 'Right To Information (RTI)'?",
-                "answer": "The required information may be asked through an application along with IPO/DD for a sum of \u20b910/- in favour of the Director, Department of Sainik Welfare, Puducherry."
+                "answer": "The required information may be asked through an application along with IPO/DD for a sum of ₹10/- in favour of the Director, Department of Sainik Welfare, Puducherry."
             },
             {
                 "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
@@ -102,5 +102,6 @@
             "Student",
             "Widow"
         ]
-    }
+    },
+    "id": "000742"
 }

@@ -5,9 +5,9 @@
         "department": "Ministry Of Science And Technology",
         "type": "Award",
         "beneficiary": "Principal Inventor",
-        "details": "The \u201cSERB-Technology Translation Award (SERB-TETRA)\u201d is a new scheme launched by the Science and Engineering Research Board, Government of India for catalyzing technology translation in academic settings. Translation research has gained considerable focus as it has the potential to elevate results from fundamental research to a given technology readiness level, in turn catalyzing symbiotic growth of institutional infrastructure to offer a platform for scale-up of entrepreneurial ventures, supported by a variety of funding mechanisms. SERB-TETRA will challenge scientists executing SERB grants, such as CRG, to establish an effective, functional, and synergistic working collaboration with an industry partner to elevate their breakthrough results and technologies to TRL level 5 and beyond. It is implicit that PIs would have obtained the necessary patents and IPRs.",
+        "details": "The “SERB-Technology Translation Award (SERB-TETRA)” is a new scheme launched by the Science and Engineering Research Board, Government of India for catalyzing technology translation in academic settings. Translation research has gained considerable focus as it has the potential to elevate results from fundamental research to a given technology readiness level, in turn catalyzing symbiotic growth of institutional infrastructure to offer a platform for scale-up of entrepreneurial ventures, supported by a variety of funding mechanisms. SERB-TETRA will challenge scientists executing SERB grants, such as CRG, to establish an effective, functional, and synergistic working collaboration with an industry partner to elevate their breakthrough results and technologies to TRL level 5 and beyond. It is implicit that PIs would have obtained the necessary patents and IPRs.",
         "benefits": [
-            "The award will entail an unstructured budget of up to \u20b915 lakhs per year (without international travel), including overhead."
+            "The award will entail an unstructured budget of up to ₹15 lakhs per year (without international travel), including overhead."
         ],
         "eligibility": [
             "Submissions under TETRA can be made only by Principal Inventors of ongoing research grants and all extramural grants completed in the last three years, where the Principal Inventor holds or applied for a patent.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What is the nature of support provided under the scheme?",
-                "answer": "Under the scheme, the award will entail an unstructured budget of up to \u20b915 lakhs per year (without international travel), including overhead."
+                "answer": "Under the scheme, the award will entail an unstructured budget of up to ₹15 lakhs per year (without international travel), including overhead."
             },
             {
                 "question": "How often the awards will be granted?",
@@ -66,5 +66,6 @@
                 "url": "https://www.serbonline.in/SERB/Tetra"
             }
         ]
-    }
+    },
+    "id": "001613"
 }

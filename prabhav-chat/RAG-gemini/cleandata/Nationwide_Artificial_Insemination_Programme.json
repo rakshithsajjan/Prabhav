@@ -24,7 +24,7 @@
             "Trained technician to perform insemination"
         ],
         "exclusions": [],
-        "application_process": "Farmers can submit an application form to the Department of Animal Husbandry in their respective districts. The application form is available on the department\u2019s website.",
+        "application_process": "Farmers can submit an application form to the Department of Animal Husbandry in their respective districts. The application form is available on the department’s website.",
         "documents_required": [
             "Proof of identity",
             "Proof of address",
@@ -72,5 +72,6 @@
             "Dairy Farming",
             "Government Assistance"
         ]
-    }
+    },
+    "id": "001339"
 }

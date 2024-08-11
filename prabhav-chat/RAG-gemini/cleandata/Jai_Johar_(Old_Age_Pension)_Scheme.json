@@ -5,9 +5,9 @@
         "department": "Tribal Development Department",
         "type": "Social Security Scheme",
         "beneficiary": "Scheduled Tribe residents aged 60 years and above",
-        "details": "Launched on 1st April 2020, 'Jai Johar (Old Age Pension)' is a Social Security Scheme by the Tribal Development Department, Government of West Bengal. The scheme is aimed at the Scheduled Tribe (ST) residents of West Bengal of the age of 60 years and above who do not receive any other pension from any other authority. Over 3,00,000 beneficiaries have been brought under the fold of the scheme. The amount of monthly pension of \u20b9 1,000/- is transferred directly to the individual bank account of the beneficiary.",
+        "details": "Launched on 1st April 2020, 'Jai Johar (Old Age Pension)' is a Social Security Scheme by the Tribal Development Department, Government of West Bengal. The scheme is aimed at the Scheduled Tribe (ST) residents of West Bengal of the age of 60 years and above who do not receive any other pension from any other authority. Over 3,00,000 beneficiaries have been brought under the fold of the scheme. The amount of monthly pension of ₹ 1,000/- is transferred directly to the individual bank account of the beneficiary.",
         "benefits": [
-            "A monthly pension of \u20b91,000/- is transferred directly to the individual bank account of the beneficiary."
+            "A monthly pension of ₹1,000/- is transferred directly to the individual bank account of the beneficiary."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of West Bengal.",
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What is the rate and periodicity of the pension?",
-                "answer": "The monthly pension is \u20b91000, disbursed bi-monthly."
+                "answer": "The monthly pension is ₹1000, disbursed bi-monthly."
             },
             {
                 "question": "Which departments disburse Jai Johar Pension?",
@@ -94,5 +94,6 @@
             "Senior Citizen",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000930"
 }

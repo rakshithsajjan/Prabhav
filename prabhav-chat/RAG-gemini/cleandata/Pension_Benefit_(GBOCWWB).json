@@ -5,9 +5,9 @@
         "department": "Department of Labour and Employment, Goa",
         "type": "Welfare Scheme",
         "beneficiary": "Building Workers",
-        "details": "'Pension Benefit (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, a member of the Fund who has been working as a building worker for not less than one year, be eligible for a pension of \u20b9300/- per month, on completion of sixty years of age. The applications are accepted offline.",
+        "details": "'Pension Benefit (GBOCWWB)' is a Welfare Scheme by the Goa Building and Other Construction Workers Welfare Board of the Department of Labour and Employment, Goa. Through this scheme, a member of the Fund who has been working as a building worker for not less than one year, be eligible for a pension of ₹300/- per month, on completion of sixty years of age. The applications are accepted offline.",
         "benefits": [
-            "Pension of \u20b9300/- per month, with an increase of \u20b910/- for every completed year of service beyond 5 years.",
+            "Pension of ₹300/- per month, with an increase of ₹10/- for every completed year of service beyond 5 years.",
             "The pension will be payable from the first day of the succeeding month to the month in which he/she becomes 60 years old."
         ],
         "eligibility": [
@@ -59,7 +59,7 @@
             },
             {
                 "question": "What is the fee structure for registration of establishments employing building workers in Goa?",
-                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from \u20b9500 for up to 50 workers to \u20b95,000 for exceeding 400 workers."
+                "answer": "The fee varies based on the number of workers proposed to be employed, ranging from ₹500 for up to 50 workers to ₹5,000 for exceeding 400 workers."
             },
             {
                 "question": "Can registration under the Building and Other Construction Workers Act be transferred or renewed?",
@@ -99,5 +99,6 @@
             "Pension",
             "Worker"
         ]
-    }
+    },
+    "id": "001421"
 }

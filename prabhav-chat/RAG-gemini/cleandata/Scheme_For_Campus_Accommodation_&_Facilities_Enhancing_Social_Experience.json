@@ -15,12 +15,12 @@
         "eligibility": [
             "AICTE approved Government/Government-aided engineering colleges/University departments/Polytechnics",
             "Institute must be in existence for the last five years",
-            "CAFES (SC/ST students) \u2013 200 SC/ST students on roll",
-            "CAFES (NER) \u2013 60 students on a roll per year",
+            "CAFES (SC/ST students) – 200 SC/ST students on roll",
+            "CAFES (NER) – 60 students on a roll per year",
             "CAFES (Differently abled students) - 150 Differently abled students"
         ],
         "exclusions": [
-            "Institutes located in Punjab, Haryana, Arunachal Pradesh, Meghalaya, Mizoram, Nagaland & UTs are not covered under CAFES \u2013 SC/ST students scheme"
+            "Institutes located in Punjab, Haryana, Arunachal Pradesh, Meghalaya, Mizoram, Nagaland & UTs are not covered under CAFES – SC/ST students scheme"
         ],
         "application_process": "Offline application process through AICTE Web Portal using Institute's Login Credential.",
         "documents_required": [
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How Many Variants Are To This Scheme?",
-                "answer": "This scheme has three variants addressing the needs of: (i) CAFES - SC/ST students (ii) CAFES \u2013 NER (Institute located in North Eastern Region) (iii) CAFES \u2013 Differently Abled students."
+                "answer": "This scheme has three variants addressing the needs of: (i) CAFES - SC/ST students (ii) CAFES – NER (Institute located in North Eastern Region) (iii) CAFES – Differently Abled students."
             },
             {
                 "question": "Does The Scheme Also Provide Support To Polytechnics?",
@@ -50,15 +50,15 @@
             },
             {
                 "question": "Is There An Upper Ceiling To The Financial Assistance Of The Universities?",
-                "answer": "Yes, the limit of Funding from AICTE is \u20b9 3.25 crore."
+                "answer": "Yes, the limit of Funding from AICTE is ₹ 3.25 crore."
             },
             {
                 "question": "What Amount Out Of The Total Fund Must Go For The Construction Of The Hostel?",
-                "answer": "Construction of Hostel: \u20b9 3,00,00,000."
+                "answer": "Construction of Hostel: ₹ 3,00,00,000."
             },
             {
                 "question": "What Amount Out Of The Total Fund Must Go For The Establishment Of Gym Equipment?",
-                "answer": "Establishment of Gym equipment: \u20b9 5,00,000."
+                "answer": "Establishment of Gym equipment: ₹ 5,00,000."
             },
             {
                 "question": "Are The Funds Disbursed In Installments Or As A Lump Sum?",
@@ -93,5 +93,6 @@
             "Financial Assistance",
             "Hostel Construction"
         ]
-    }
+    },
+    "id": "001662"
 }

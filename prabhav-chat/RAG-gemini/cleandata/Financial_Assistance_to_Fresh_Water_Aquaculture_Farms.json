@@ -7,9 +7,9 @@
         "beneficiary": "Fishermen",
         "details": "Financial Assistance to Fresh Water Aquaculture Farms is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and the purchase of feed. The applications are accepted only in offline mode.",
         "benefits": [
-            "25% subsidy, limited to \u20b92,00,000 per hectare, limited to 2 hectares for construction and renovation of farm.",
-            "50% subsidy, limited to \u20b960,000 (per year) per hectare for purchase of farming equipment.",
-            "25% subsidy of the cost of feed, limited to \u20b950,000 (per year) per hectare limited to 2 hectares."
+            "25% subsidy, limited to ₹2,00,000 per hectare, limited to 2 hectares for construction and renovation of farm.",
+            "50% subsidy, limited to ₹60,000 (per year) per hectare for purchase of farming equipment.",
+            "25% subsidy of the cost of feed, limited to ₹50,000 (per year) per hectare limited to 2 hectares."
         ],
         "eligibility": [
             "The applicant should be a Fish Farmer/ Individual/ Registered Self Help Groups/ Societies/ Associations, interested in freshwater fish/prawn farming in the State of Goa.",
@@ -29,7 +29,7 @@
         "faqs": [
             {
                 "question": "Are there any restrictions on the type of farming equipment eligible for a 50% subsidy, and is there an annual limit on the subsidy amount for equipment purchase?",
-                "answer": "The information does not specify restrictions on equipment type. The subsidy for equipment purchase is 50%, limited to \u20b960,000 per hectare per year."
+                "answer": "The information does not specify restrictions on equipment type. The subsidy for equipment purchase is 50%, limited to ₹60,000 per hectare per year."
             },
             {
                 "question": "What is the contact information for the Grievance Redressal Officer, and how can complaints be lodged via email for prompt acknowledgment?",
@@ -57,7 +57,7 @@
             },
             {
                 "question": "What is the percentage of subsidy provided for the construction and renovation of freshwater fish farms, and what is the maximum limit per hectare?",
-                "answer": "The subsidy for construction/renovation is 25%, capped at \u20b92,00,000 per hectare, limited to 2 hectares."
+                "answer": "The subsidy for construction/renovation is 25%, capped at ₹2,00,000 per hectare, limited to 2 hectares."
             },
             {
                 "question": "How can I access the guidelines for the 'Financial Assistance to Fresh Water Aquaculture Farms' scheme by the Department of Fisheries in Goa?",
@@ -69,11 +69,11 @@
             },
             {
                 "question": "Can you explain the process for calculating the financial assistance for construction and renovation in terms of hectares and subsidy percentage?",
-                "answer": "The subsidy for construction and renovation is 25% per hectare, with a maximum cap of \u20b92,00,000 per hectare, limited to 2 hectares."
+                "answer": "The subsidy for construction and renovation is 25% per hectare, with a maximum cap of ₹2,00,000 per hectare, limited to 2 hectares."
             },
             {
                 "question": "Can you clarify the subsidy details for the purchase of feed under this scheme?",
-                "answer": "The subsidy for feed purchase is 25%, limited to \u20b950,000 per hectare per year, with a maximum of 2 hectares."
+                "answer": "The subsidy for feed purchase is 25%, limited to ₹50,000 per hectare per year, with a maximum of 2 hectares."
             }
         ],
         "sources": [
@@ -114,5 +114,6 @@
             "Shrimp",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000592"
 }

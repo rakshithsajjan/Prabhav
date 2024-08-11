@@ -7,9 +7,9 @@
         "beneficiary": "Rubber growers",
         "details": "The Scheme is intended to increase the production of natural rubber in India by accelerating new planting and replanting of rubber on scientific lines. Accelerated new planting/replanting would be achieved by giving proper technical guidance and financial assistance to growers.",
         "benefits": [
-            "Traditional Region: \u20b9 20,000/- ha + \u20b9 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth.",
-            "SC Category: \u20b9 35,000/- ha + \u20b9 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth.",
-            "Non-Traditional and North Eastern Region: \u20b9 35,000 per ha and \u20b9 5,000/ ha for planting material (Polybag/ Root trainer plants) of advanced growth."
+            "Traditional Region: ₹ 20,000/- ha + ₹ 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth.",
+            "SC Category: ₹ 35,000/- ha + ₹ 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth.",
+            "Non-Traditional and North Eastern Region: ₹ 35,000 per ha and ₹ 5,000/ ha for planting material (Polybag/ Root trainer plants) of advanced growth."
         ],
         "eligibility": [
             "Traditional: Growers owning rubber areas not exceeding 2.00 ha.",
@@ -75,5 +75,6 @@
             "Seed",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001698"
 }

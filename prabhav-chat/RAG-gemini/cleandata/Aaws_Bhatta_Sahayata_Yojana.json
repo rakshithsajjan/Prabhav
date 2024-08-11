@@ -7,15 +7,15 @@
         "beneficiary": "Economically disadvantaged students belonging to Scheduled Castes and Scheduled Tribes",
         "details": "The Awas Bhatta Sahayata Yojana is a scheme under the Higher Education Department of the Government of Madhya Pradesh to provide assistance to economically disadvantaged students belonging to Scheduled Castes and Scheduled Tribes. It aims to support students who have to rent accommodation near their college due to the distance from their homes. Under this scheme, financial aid is provided to help cover rental expenses, thereby easing the burden on students pursuing higher education and ensuring equitable access to educational opportunities for marginalized communities in the state.",
         "benefits": [
-            "In Bhopal, Indore, Jabalpur, Gwalior, and Ujjain cities \u20b92,000/- per student per month.",
-            "At district headquarters \u20b91,250/- per student per month.",
-            "At the tehsil and development block level \u20b91,000/- per student per month."
+            "In Bhopal, Indore, Jabalpur, Gwalior, and Ujjain cities ₹2,000/- per student per month.",
+            "At district headquarters ₹1,250/- per student per month.",
+            "At the tehsil and development block level ₹1,000/- per student per month."
         ],
         "eligibility": [
             "The applicant must belong to the Scheduled Caste category.",
             "The applicant must be admitted as a regular student in a government or recognized non-government college.",
             "The applicant must not be admitted to any government hostel.",
-            "The annual income of the student's family must be as per the income limit prescribed in the Post Matric Scholarship Scheme, which is currently \u20b96,00,000/- per annum.",
+            "The annual income of the student's family must be as per the income limit prescribed in the Post Matric Scholarship Scheme, which is currently ₹6,00,000/- per annum.",
             "The college or the student's permanent residence should not be located within the geographical limits of the same local body (urban body/gram panchayat)."
         ],
         "exclusions": [],
@@ -46,7 +46,7 @@
             },
             {
                 "question": "How much financial aid do students receive in major cities?",
-                "answer": "Students receive \u20b9 2000 per month in major cities."
+                "answer": "Students receive ₹ 2000 per month in major cities."
             },
             {
                 "question": "Is the scheme specific to a particular academic level?",
@@ -85,5 +85,6 @@
             "Financial Support",
             "Student"
         ]
-    }
+    },
+    "id": "000038"
 }

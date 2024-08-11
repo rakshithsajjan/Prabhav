@@ -7,7 +7,7 @@
         "beneficiary": "Traditional Barbers from Other Backward Communities",
         "details": "The traditional barbers are one of the most backward communities in Kerala. In the transformed modern scenario, this community faces challenges in their life related to the traditionally involved occupation of them. To keep up their survival in society, it is needed to strengthen them by modernizing and renovating their work sites. The scheme envisages improving the working environment and materials of the traditional barbershop to alleviate the problems faced by traditional barbers.",
         "benefits": [
-            "Maximum grant of \u20b925,000/-",
+            "Maximum grant of ₹25,000/-",
             "Financial assistance transferred through online fund transfer system",
             "Assistance for modernization costs",
             "Grant can be used for purchasing instruments, furniture, and hygiene supplies"
@@ -17,7 +17,7 @@
             "Belongs to State Other Backward Communities",
             "Traditional barber",
             "Barbershop must be in rural areas",
-            "Annual family income does not exceed \u20b91,00,000/-",
+            "Annual family income does not exceed ₹1,00,000/-",
             "Minimum of ten years of work experience",
             "Age limit not more than 60 years"
         ],
@@ -56,7 +56,7 @@
             },
             {
                 "question": "How much grant will be given to the eligible barber under the scheme?",
-                "answer": "The maximum grant that can be availed by a beneficiary under the scheme is \u20b925,000/-."
+                "answer": "The maximum grant that can be availed by a beneficiary under the scheme is ₹25,000/-."
             },
             {
                 "question": "For which purpose can the grant be used by the beneficiary?",
@@ -68,7 +68,7 @@
             },
             {
                 "question": "What is the annual family income criterion under the scheme?",
-                "answer": "The annual family income of the applicant from all sources does not exceed \u20b91,00,000/-."
+                "answer": "The annual family income of the applicant from all sources does not exceed ₹1,00,000/-."
             },
             {
                 "question": "What is the minimum experience required to apply for the scheme?",
@@ -116,5 +116,6 @@
             "OBC",
             "Renovation"
         ]
-    }
+    },
+    "id": "000183"
 }

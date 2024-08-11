@@ -7,7 +7,7 @@
         "beneficiary": "Leprosy affected persons",
         "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, recognizes the enduring challenges faced by individuals affected by leprosy. In response, the government has established the Maintenance Allowance Scheme for Leprosy Affected Persons. This program aims to provide vital financial support to improve the well-being and standard of living for those living with the after-effects of leprosy.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/- per month."
+            "Financial Assistance of ₹2,000/- per month."
         ],
         "eligibility": [
             "The applicant should be leprosy affected with deformity of 40% and above.",
@@ -29,7 +29,7 @@
             },
             {
                 "question": "How much is the maintenance allowance for leprosy affected persons?",
-                "answer": "The maintenance allowance is set at \u20b92,000/- per month."
+                "answer": "The maintenance allowance is set at ₹2,000/- per month."
             },
             {
                 "question": "Where does the maintenance allowance come from?",
@@ -69,7 +69,7 @@
             },
             {
                 "question": "What should one do in case of any grievances regarding the maintenance allowance?",
-                "answer": "Grievances should be addressed to the Assistant Director at the Commissionerate for Welfare of the Differently Abled in No.5, Kamarajar Salai, Chennai \u2013 600 005. Ph: 044-28444940."
+                "answer": "Grievances should be addressed to the Assistant Director at the Commissionerate for Welfare of the Differently Abled in No.5, Kamarajar Salai, Chennai – 600 005. Ph: 044-28444940."
             },
             {
                 "question": "Is there any age limit for receiving the maintenance allowance?",
@@ -105,5 +105,6 @@
             "Monthly Allowance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001067"
 }

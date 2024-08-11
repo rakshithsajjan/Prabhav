@@ -7,12 +7,12 @@
         "beneficiary": "Students belonging to SC/ST/OBC categories",
         "details": "The scheme 'Free Studentship' by the Directorate of Higher & Technical Education, Meghalaya, is a state-sponsored program aimed at providing financial assistance to students belonging to the SC/ST/OBC categories for their tuition fees and other fee according to prescribed rates.",
         "benefits": [
-            "Class 11th - 12th (Arts & Commerce): \u20b91,105/-",
-            "Class 11th - 12th (Science): \u20b91,285/-",
-            "Degree General (Arts & Commerce): \u20b91,375/-",
-            "Degree Major (Arts & Commerce): \u20b91,635/-",
-            "Degree General (Science): \u20b91,735/-",
-            "Degree Major (Science): \u20b92,235/-"
+            "Class 11th - 12th (Arts & Commerce): ₹1,105/-",
+            "Class 11th - 12th (Science): ₹1,285/-",
+            "Degree General (Arts & Commerce): ₹1,375/-",
+            "Degree Major (Arts & Commerce): ₹1,635/-",
+            "Degree General (Science): ₹1,735/-",
+            "Degree Major (Science): ₹2,235/-"
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -90,5 +90,6 @@
             "Student",
             "Studentship"
         ]
-    }
+    },
+    "id": "000639"
 }

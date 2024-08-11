@@ -5,10 +5,10 @@
         "department": "Department of Sainik Welfare",
         "type": "Grant",
         "beneficiary": "Ex-Serviceman/Widow of Ex-Serviceman",
-        "details": "'Denture Grant' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, \u20b920,000/- is provided for the purchase of Denture to the registered Ex-servicemen/Widows of Ex-servicemen. The members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
+        "details": "'Denture Grant' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, ₹20,000/- is provided for the purchase of Denture to the registered Ex-servicemen/Widows of Ex-servicemen. The members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
         "benefits": [
-            "Financial Assistance of \u20b920,000/- is provided for the purchase of Denture.",
-            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+            "Financial Assistance of ₹20,000/- is provided for the purchase of Denture.",
+            "The amount is credited to the beneficiary’s Bank Account through RTGS/ NEFT."
         ],
         "eligibility": [
             "The applicant should be an Ex-serviceman/Widow of an Ex-serviceman.",
@@ -73,5 +73,6 @@
             "Grant",
             "Widow"
         ]
-    }
+    },
+    "id": "000373"
 }

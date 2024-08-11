@@ -16,7 +16,7 @@
             "The applicant should be 18 years or above in age.",
             "The applicant should have his/her name included in the yellow/red ration card supplied by the Civil Supplies Department.",
             "The applicant should have continuous residence in Puducherry for at least 5 years.",
-            "The annual income of the applicant should not exceed \u20b9 24,000/-."
+            "The annual income of the applicant should not exceed ₹ 24,000/-."
         ],
         "exclusions": [],
         "application_process": "Offline. Step 1: The interested applicant should visit (during office hours) the Office/ Sub-Office of the Adi Dravidar Welfare and Scheduled Tribes Welfare Department, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the concerned authority. Step 4: Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
@@ -35,8 +35,8 @@
                 "answer": "No, the scheme is open to applicants who are 18 years or above."
             },
             {
-                "question": "Can the applicant's annual income exceed \u20b924,000 and still qualify?",
-                "answer": "No, the annual income of the applicant should not exceed \u20b924,000 for eligibility."
+                "question": "Can the applicant's annual income exceed ₹24,000 and still qualify?",
+                "answer": "No, the annual income of the applicant should not exceed ₹24,000 for eligibility."
             },
             {
                 "question": "Can an applicant with less than 5 years of residence in Puducherry be eligible?",
@@ -99,5 +99,6 @@
             "Scheduled Caste",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001888"
 }

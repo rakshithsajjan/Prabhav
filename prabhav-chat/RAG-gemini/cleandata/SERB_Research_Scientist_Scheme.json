@@ -7,9 +7,9 @@
         "beneficiary": "INSPIRE Faculty and Ramanujan Fellows",
         "details": "The SERB Research Scientist Scheme provides an opportunity for awardees of INSPIRE Faculty and Ramanujan Fellowships to continue their research activities for an additional period of two years after the completion of their regular tenure of five years.",
         "benefits": [
-            "Consolidated amount of \u20b91,20,000/- per month as emolument",
-            "Research grant of \u20b97,00,000/- per annum",
-            "Overheads of \u20b91,00,000/- per annum"
+            "Consolidated amount of ₹1,20,000/- per month as emolument",
+            "Research grant of ₹7,00,000/- per annum",
+            "Overheads of ₹1,00,000/- per annum"
         ],
         "eligibility": [
             "Open only to INSPIRE Faculty and Ramanujan Fellows",
@@ -76,5 +76,6 @@
             "Science",
             "Engineering"
         ]
-    }
+    },
+    "id": "001616"
 }

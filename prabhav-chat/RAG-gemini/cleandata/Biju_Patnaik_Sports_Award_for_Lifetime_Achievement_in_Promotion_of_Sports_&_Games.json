@@ -5,9 +5,9 @@
         "department": "Sports & Youth Services Department",
         "type": "Award",
         "beneficiary": "Sportspersons",
-        "details": "The \u201cBiju Patnaik Sports Award for Lifetime Achievement in Promotion of Sports & Games\u201d is a category of award under the \u201cBiju Patnaik Sports Award\" Scheme. The scheme was launched by the Sports & Youth Services Department, Government of Odisha to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The award is given to the sportspersons who have not only good performances at the National and International levels but also have continued to contribute to the promotion of sports and games in his/her individual capacity even after retirement from an active sporting career.",
+        "details": "The “Biju Patnaik Sports Award for Lifetime Achievement in Promotion of Sports & Games” is a category of award under the “Biju Patnaik Sports Award\" Scheme. The scheme was launched by the Sports & Youth Services Department, Government of Odisha to commemorate the yeoman service of late Biju Patnaik, the ex-Chief Minister of Odisha, towards the development of Sports & Games in the State by conferring the highest honour of the Government of Odisha in the field of Sports in his name. The award is given to the sportspersons who have not only good performances at the National and International levels but also have continued to contribute to the promotion of sports and games in his/her individual capacity even after retirement from an active sporting career.",
         "benefits": [
-            "The award shall be presented every year subject to the availability of a suitable candidate, which will carry a cash award of \u20b93,00,000/-",
+            "The award shall be presented every year subject to the availability of a suitable candidate, which will carry a cash award of ₹3,00,000/-",
             "A statue, a scroll of honour, and a blazer with a tie shall be given along with all the Cash Awards",
             "The Awardees shall be invited to receive the awards in person. They shall be given T.A. and D.A. at the rate admissible to a Grade 'A' Officer"
         ],
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How often is the Award presented, and what is the cash award associated with it?",
-                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of \u20b93,00,000/-."
+                "answer": "The award shall be presented every year subject to the availability of suitable candidates, which will carry a cash award of ₹3,00,000/-."
             },
             {
                 "question": "Besides the cash award, what other recognitions are given to the awardee?",
@@ -104,5 +104,6 @@
                 "url": "https://sports.odisha.gov.in/sites/default/files/2023-07/Application-Biju-Patnaik-Awards.pdf"
             }
         ]
-    }
+    },
+    "id": "000210"
 }

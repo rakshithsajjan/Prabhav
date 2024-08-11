@@ -7,7 +7,7 @@
         "beneficiary": "Unorganized Worker",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Viranarayan Singh Shram Ann Yojana' for unorganized worker on 17 January 2018. The main objective of the scheme to provide the food assistance for unorganized worker at their work places.",
         "benefits": [
-            "Hot food is being distributed to construction workers at \u20b9 5/- in food centers.",
+            "Hot food is being distributed to construction workers at ₹ 5/- in food centers.",
             "Cooked rice, dal, vegetable or khichdi, fai dal, vegetable or cumin rice, fried dal, vegetable.",
             "Pickles will also be payable along with the food."
         ],
@@ -78,5 +78,6 @@
             "Unorganized Workers",
             "Chhattisgarh"
         ]
-    }
+    },
+    "id": "002016"
 }

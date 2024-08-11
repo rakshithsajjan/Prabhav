@@ -7,9 +7,9 @@
         "beneficiary": "Single Girl Child pursuing Ph.D. in Social Sciences",
         "details": "A fellowship scheme by the University Grants Commission (UGC) for Single Girl Child for research in Social Sciences with an aim to compensate for direct costs of higher education, especially for such girls who happen to be the only girl child in their family.",
         "benefits": [
-            "Fellowship @ \u20b925,000/- per month for the Initial two years; @ Rs. 28,000/- per month for the remaining tenure.",
-            "Contingency @ \u20b910,000/- per annum for initial two years; @ Rs. 20,500/- per annum for remaining tenure.",
-            "Escort Reader Assistance @ \u20b92,000/- per month in case of PWD candidates."
+            "Fellowship @ ₹25,000/- per month for the Initial two years; @ Rs. 28,000/- per month for the remaining tenure.",
+            "Contingency @ ₹10,000/- per annum for initial two years; @ Rs. 20,500/- per annum for remaining tenure.",
+            "Escort Reader Assistance @ ₹2,000/- per month in case of PWD candidates."
         ],
         "eligibility": [
             "Any single girl child of her parents pursuing a Ph.D. in Social Sciences in Universities/Colleges/Institutes is eligible to apply under the scheme.",
@@ -60,5 +60,6 @@
             "Research",
             "Single Girl Child"
         ]
-    }
+    },
+    "id": "001907"
 }

@@ -5,11 +5,11 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Institutions and organizations involved in research and service for senior citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Institution for Research in the Field of Ageing' award shall be given to institutions with a record of outstanding work in research and dissemination of knowledge in the field of ageing.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Institution for Research in the Field of Ageing' award shall be given to institutions with a record of outstanding work in research and dissemination of knowledge in the field of ageing.",
         "benefits": [
             "Citation",
             "Memento",
-            "Cash award of \u20b9 5,00,000/-",
+            "Cash award of ₹ 5,00,000/-",
             "Boarding and lodging expenses for awardees and one companion",
             "Reimbursement of to-and-fro travelling expenses and accommodation"
         ],
@@ -47,7 +47,7 @@
             },
             {
                 "question": "Who confers these awards?",
-                "answer": "The awards are conferred by the Hon\u2019ble President of India."
+                "answer": "The awards are conferred by the Hon’ble President of India."
             },
             {
                 "question": "How many categories are there in this award?",
@@ -78,5 +78,6 @@
             "Awards",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001279"
 }

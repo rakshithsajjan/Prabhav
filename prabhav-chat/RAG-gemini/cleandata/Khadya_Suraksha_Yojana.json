@@ -9,8 +9,8 @@
         "benefits": [
             "Antyodaya families are provided with 35 kg of wheat per family.",
             "Other eligible beneficiaries receive 5 kg of wheat per unit per month.",
-            "Ration card holders categorized under Antyodaya and Below Poverty Line (BPL) in the state are entitled to wheat at a subsidized rate of \u20b91 per kg.",
-            "Other eligible families categorized as Priority Household receive food security at \u20b92 per kg per month."
+            "Ration card holders categorized under Antyodaya and Below Poverty Line (BPL) in the state are entitled to wheat at a subsidized rate of ₹1 per kg.",
+            "Other eligible families categorized as Priority Household receive food security at ₹2 per kg per month."
         ],
         "eligibility": [
             "The applicant should be a native of Rajasthan.",
@@ -43,5 +43,6 @@
             "Development",
             "Families"
         ]
-    }
+    },
+    "id": "000979"
 }

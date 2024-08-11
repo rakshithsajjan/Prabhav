@@ -7,12 +7,12 @@
         "beneficiary": "Son or daughter of registered construction workers",
         "details": "The scheme 'Educational Assistance' was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, an educational allowance will be provided to the son or daughter of a registered construction worker who is studying in any class from Class I to Post Graduate Level/Professional Course.",
         "benefits": [
-            "\u20b9300/- per month for Class 1 to 5",
-            "\u20b9400/- per month for Class 6 to 8",
-            "\u20b9700/- per month for Class 9 to 12",
-            "\u20b9900/- per month for Diploma/Graduate Studies",
-            "\u20b9900/- per month for Vocational Training through ITI",
-            "\u20b92,000/- per month for Post Graduate Studies",
+            "₹300/- per month for Class 1 to 5",
+            "₹400/- per month for Class 6 to 8",
+            "₹700/- per month for Class 9 to 12",
+            "₹900/- per month for Diploma/Graduate Studies",
+            "₹900/- per month for Vocational Training through ITI",
+            "₹2,000/- per month for Post Graduate Studies",
             "Entire cost of study for MBBS/BE for meritorious students, subject to approval"
         ],
         "eligibility": [
@@ -44,7 +44,7 @@
         "faqs": [
             {
                 "question": "What are the benefits provided under the Educational Assistance Scheme?",
-                "answer": "The benefits include monthly educational allowances ranging from \u20b9300/- to \u20b92000/- depending on the level of education or course pursued by the student."
+                "answer": "The benefits include monthly educational allowances ranging from ₹300/- to ₹2000/- depending on the level of education or course pursued by the student."
             },
             {
                 "question": "Who is eligible to avail of the benefits of the Scheme?",
@@ -97,5 +97,6 @@
             "Scholarship",
             "Student"
         ]
-    }
+    },
+    "id": "000479"
 }

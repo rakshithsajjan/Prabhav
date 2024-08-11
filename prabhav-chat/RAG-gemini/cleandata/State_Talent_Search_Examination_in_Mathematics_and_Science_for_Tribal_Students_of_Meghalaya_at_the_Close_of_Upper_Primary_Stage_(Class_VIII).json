@@ -7,7 +7,7 @@
         "beneficiary": "Tribal Students of Meghalaya",
         "details": "The scheme 'State Talent Search Examination in Mathematics and Science for Tribal Students of Meghalaya at the Close of Upper Primary Stage (Class VIII)' was launched by the Education Department, Government of Meghalaya. The Directorate of Educational Research & Training Meghalaya, Shillong is implementing this scheme for tribal students of Meghalaya studying in class VIII every year in all the Sub Divisional School Education Office (SDSEO) of the State. The scheme is meant only for tribal students of Meghalaya who belong to Khasi, Jaintia, Garo, Koch and Hajong. Those who satisfy the criteria and are eligible to appear in the said Exam Selection of students for the scholarship will be given SDSEO-wise as per their merit in the said Examination. The number of awardees is 40 (forty) from SDSEO Shillong, East Khasi Hills, and 20 (twenty) awardees from the remaining 14 (fourteen) SDSEOs.",
         "benefits": [
-            "The incentives award in the form of financial assistance of \u20b9600/- per month per awardee for twelve months for two years from Class IX-X will be provided."
+            "The incentives award in the form of financial assistance of ₹600/- per month per awardee for twelve months for two years from Class IX-X will be provided."
         ],
         "eligibility": [
             "The applicant should be a tribal student of Meghalaya and belong to the Khasi, Jaintia, Garo, Koch and Hajong Communities.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the amount of the Incentive?",
-                "answer": "The incentives award in the form of financial assistance amounting \u20b9600/- per month per awardee for twelve months for two years from Class IX-X will be provided."
+                "answer": "The incentives award in the form of financial assistance amounting ₹600/- per month per awardee for twelve months for two years from Class IX-X will be provided."
             },
             {
                 "question": "How to apply for the Examination?",
@@ -74,5 +74,6 @@
             "Tribal Student",
             "Upper Primary"
         ]
-    }
+    },
+    "id": "001852"
 }

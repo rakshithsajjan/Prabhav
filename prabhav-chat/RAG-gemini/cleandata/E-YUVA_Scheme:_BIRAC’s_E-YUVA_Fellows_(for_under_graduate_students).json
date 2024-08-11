@@ -1,6 +1,6 @@
 {
     "content": {
-        "title": "E-YUVA Scheme: BIRAC\u2019s E-YUVA Fellows (for under graduate students)",
+        "title": "E-YUVA Scheme: BIRAC’s E-YUVA Fellows (for under graduate students)",
         "state": "India",
         "department": "Ministry Of Science And Technology",
         "type": "Fellowship",
@@ -31,8 +31,8 @@
                 "answer": "The scheme 'Empowering Youth for Undertaking Value Added Innovative Translational Research (E-YUVA)' was started by the Biotechnology Industry Research Assistance Council (BIRAC) to promote a culture of applied research and need-oriented (societal or industry) entrepreneurial innovation among young students and researchers."
             },
             {
-                "question": "What is the 'BIRAC\u2019s E-YUVA Fellowship'?",
-                "answer": "The 'BIRAC\u2019s E-YUVA Fellowship' is a category under E-YUVA Scheme where a team of students pursuing under graduation can apply to pursue their research work at their College/University labs."
+                "question": "What is the 'BIRAC’s E-YUVA Fellowship'?",
+                "answer": "The 'BIRAC’s E-YUVA Fellowship' is a category under E-YUVA Scheme where a team of students pursuing under graduation can apply to pursue their research work at their College/University labs."
             },
             {
                 "question": "How many fellows can be at Each EYC?",
@@ -68,5 +68,6 @@
             "Biotechnology",
             "Innovation"
         ]
-    }
+    },
+    "id": "000455"
 }

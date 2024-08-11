@@ -7,9 +7,9 @@
         "beneficiary": "Unemployed persons, including disabled and blind persons",
         "details": "This scheme aims to supply self-employment to unemployed persons in urban and rural areas. Disabled and blind persons are also eligible to take benefits under this scheme.",
         "benefits": [
-            "Maximum Limit for Bank Loan: \u20b9.8.00 lakh for the Industries sector, \u20b9.8.00 lakh for the Service sector, \u20b9.8.00 lakh for the Business sector.",
+            "Maximum Limit for Bank Loan: ₹.8.00 lakh for the Industries sector, ₹.8.00 lakh for the Service sector, ₹.8.00 lakh for the Business sector.",
             "Rate of subsidy on the loan amount varies by area and category.",
-            "Maximum Limit of Subsidy: \u20b9.1,25,000/- for a blind or handicapped person."
+            "Maximum Limit of Subsidy: ₹.1,25,000/- for a blind or handicapped person."
         ],
         "eligibility": [
             "Age: 18 to 65 years.",
@@ -69,5 +69,6 @@
             "Subsidy",
             "Gujarat"
         ]
-    }
+    },
+    "id": "001798"
 }

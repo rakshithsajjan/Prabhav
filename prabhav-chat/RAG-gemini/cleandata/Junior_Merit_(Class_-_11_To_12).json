@@ -5,15 +5,15 @@
         "department": "School & Mass Education Department",
         "type": "Scholarship",
         "beneficiary": "Students pursuing Class XI & XII",
-        "details": "The Government of Odisha in School & Mass Education Department is awarding 'Junior Merit Scholarship' under the Scheme 'e-medhabruti\u2019 out of the State budget to provide financial assistance to the meritorious Higher Secondary School students of Odisha from families whose parental income does not exceed 6.00 lakhs to meet a part of their educational expenses while pursuing their higher studies.",
+        "details": "The Government of Odisha in School & Mass Education Department is awarding 'Junior Merit Scholarship' under the Scheme 'e-medhabruti’ out of the State budget to provide financial assistance to the meritorious Higher Secondary School students of Odisha from families whose parental income does not exceed 6.00 lakhs to meet a part of their educational expenses while pursuing their higher studies.",
         "benefits": [
-            "The students pursuing Class XI & XII in the Higher Secondary Schools of the State will receive a scholarship amount of \u20b93000/- per year.",
+            "The students pursuing Class XI & XII in the Higher Secondary Schools of the State will receive a scholarship amount of ₹3000/- per year.",
             "The number of scholarships will be awarded to 10,000 students (Boys & Girls in 50:50 ratio)."
         ],
         "eligibility": [
             "The student must be a permanent resident of Odisha State.",
             "The Student must have passed HSC with 60% or more marks from an institution recognized by BSE Odisha, CBSE, ICSE, or Equivalent Boards, and pursuing regular Class XI courses of 10+2.",
-            "The income of the parents of the students from all sources should not exceed \u20b96.00 lakh per annum.",
+            "The income of the parents of the students from all sources should not exceed ₹6.00 lakh per annum.",
             "Students shall apply for Junior Merit Scholarship in the 1st year of the course (Class XI).",
             "The students belong to General, SC, ST, OBC/SEBC & EBC categories may eligible to apply."
         ],
@@ -36,11 +36,11 @@
         "faqs": [
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "The objective of the scheme is to provide financial assistance to the meritorious Higher Secondary School students of Odisha from families whose parental income does not exceed \u20b96.00 lakhs to meet a part of their educational expenses while pursuing their higher studies."
+                "answer": "The objective of the scheme is to provide financial assistance to the meritorious Higher Secondary School students of Odisha from families whose parental income does not exceed ₹6.00 lakhs to meet a part of their educational expenses while pursuing their higher studies."
             },
             {
                 "question": "What is the scholarship amount under the scheme?",
-                "answer": "The students pursuing Class XI & XII in the Higher Secondary Schools of the State will receive a scholarship amount of \u20b93000/- per year."
+                "answer": "The students pursuing Class XI & XII in the Higher Secondary Schools of the State will receive a scholarship amount of ₹3000/- per year."
             },
             {
                 "question": "How many students will be given scholarships?",
@@ -99,5 +99,6 @@
             "Odisha",
             "Junior Merit"
         ]
-    }
+    },
+    "id": "000939"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Micro, Small and Medium Enterprises (MSMEs)",
         "details": "The scheme 'Awards For MSMEs' is a sub scheme under the 'Investment Promotion Scheme (IPS)' for MSME Sector. It was launched on 3rd July, 2015 for a period of five years and has been extended from 20th May, 2022 to 19th May, 2027. The scheme aims to provide incentives and assistance to the MSME Sector to nurture them and protect them from market vagaries.",
         "benefits": [
-            "Award of \u20b92,00,000/-",
+            "Award of ₹2,00,000/-",
             "Trophy",
             "Appreciation letter"
         ],
@@ -44,8 +44,8 @@
                 "answer": "The Secretary (Industries) is the recommendatory authority responsible for the scrutiny and finalization of the nominations received for IPS-2022."
             },
             {
-                "question": "What is the role of the Hon\u2019ble Administrator for IPS-2022?",
-                "answer": "The Hon\u2019ble Administrator is responsible for awarding the IPS-2022 awards based on the recommendations finalized by the Secretary (Industries)."
+                "question": "What is the role of the Hon’ble Administrator for IPS-2022?",
+                "answer": "The Hon’ble Administrator is responsible for awarding the IPS-2022 awards based on the recommendations finalized by the Secretary (Industries)."
             },
             {
                 "question": "What happens to the benefit of the incentive if a newly setup enterprise is sold or transferred to a new owner within the first five years of its establishment?",
@@ -92,5 +92,6 @@
             "Awards",
             "Dadra and Nagar Haveli and Daman and Diu"
         ]
-    }
+    },
+    "id": "000914"
 }

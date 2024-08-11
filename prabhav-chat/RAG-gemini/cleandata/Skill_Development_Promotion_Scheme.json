@@ -7,11 +7,11 @@
         "beneficiary": "Startups of Goa",
         "details": "The scheme 'Skill Development Promotion Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The retail educational institutes that impart programming and technical skills will be encouraged to establish learning centres in Goa. Institutes listed by the start-up promotion cell and providing courses at pre-fixed rates will be provided subsidies among other benefits.",
         "benefits": [
-            "Internet subsidy (up to \u20b9 5,00,000 per year) for two years",
-            "Power subsidy (up to \u20b9 1,00,000 per year) for two years",
-            "25% capital investments reimbursement up to \u20b9 5,00,000 (on all capital procurement for a period of two years)",
-            "10% salary cost subsidy up to \u20b9 3,00,000 for a period of two years",
-            "The maximum benefits aggregating all the benefits in this scheme should not exceed \u20b9 10,00,000 per year",
+            "Internet subsidy (up to ₹ 5,00,000 per year) for two years",
+            "Power subsidy (up to ₹ 1,00,000 per year) for two years",
+            "25% capital investments reimbursement up to ₹ 5,00,000 (on all capital procurement for a period of two years)",
+            "10% salary cost subsidy up to ₹ 3,00,000 for a period of two years",
+            "The maximum benefits aggregating all the benefits in this scheme should not exceed ₹ 10,00,000 per year",
             "The benefits of this scheme can only be availed by up to 10 institutes per year offering courses under the technical areas/ sectors outlined in Annexure 2",
             "Under no circumstance shall the benefits under this scheme be considered an entitlement",
             "The SPC shall reserve the sole right to accept or reject applications",
@@ -120,5 +120,6 @@
             "Startup",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001810"
 }

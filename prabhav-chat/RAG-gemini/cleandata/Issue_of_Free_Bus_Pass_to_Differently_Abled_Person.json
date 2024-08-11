@@ -11,7 +11,7 @@
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The annual income of the applicant should not exceed \u20b9 75,000/-.",
+            "The annual income of the applicant should not exceed ₹ 75,000/-.",
             "The applicant should have a disability of 40% or above."
         ],
         "exclusions": [],
@@ -65,7 +65,7 @@
             },
             {
                 "question": "What is the maximum permissible annual income for applicants?",
-                "answer": "To be eligible, the annual income of applicants should not exceed \u20b975,000."
+                "answer": "To be eligible, the annual income of applicants should not exceed ₹75,000."
             },
             {
                 "question": "What are the residency requirements for eligibility?",
@@ -113,5 +113,6 @@
             "Road",
             "Transport"
         ]
-    }
+    },
+    "id": "000922"
 }

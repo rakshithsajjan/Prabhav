@@ -7,8 +7,8 @@
         "beneficiary": "Scheduled Caste/ Scheduled Tribe/ Women Entrepreneurs",
         "details": "The 'Capital Investment Subsidy: SC/ST/Women Entrepreneurs' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. The department extends subsidies for the investments made on land, buildings, plants & machinery @ 25% by the Scheduled Caste/ Scheduled Tribe/ Women Entrepreneurs. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "Subsidy for the investments made on land, building, plant & machinery @ 25% thereof subject to a maximum of \u20b925,00,000/- for SC/ST/Women Entrepreneurs.",
-            "Subsidy at the rate of 25% on the land, building and plant & machinery subject to a cumulative maximum of \u20b950,00,000/- for Scheduled Caste and Scheduled Tribe Entrepreneurs.",
+            "Subsidy for the investments made on land, building, plant & machinery @ 25% thereof subject to a maximum of ₹25,00,000/- for SC/ST/Women Entrepreneurs.",
+            "Subsidy at the rate of 25% on the land, building and plant & machinery subject to a cumulative maximum of ₹50,00,000/- for Scheduled Caste and Scheduled Tribe Entrepreneurs.",
             "The subsidy shall be disbursed in a single instalment, or in instalments if necessary due to fund constraints."
         ],
         "eligibility": [
@@ -27,7 +27,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation.",
+            "Engineer’s Certificate for Building Valuation.",
             "Registered Lease Agreement for the Building.",
             "Purchase Invoices for Plant & Machinery.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets.",
@@ -74,5 +74,6 @@
             "Women Empowerment",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000243"
 }

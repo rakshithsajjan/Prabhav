@@ -5,9 +5,9 @@
         "department": "Department of Social Welfare",
         "type": "Financial Assistance",
         "beneficiary": "Differently Abled Persons",
-        "details": "The scheme 'Perunthalaivar Karma Veerar Kamarajar Scheme of Financial Assistance Towards Funeral Expenses of the Differently Abled Persons' was launched by the Department of Social Welfare, Government of Puducherry. In this scheme, financial assistance of \u20b9 15,000/- is provided to meet the expenses in connection with funeral, in the event of the death of the differently abled person concerned.",
+        "details": "The scheme 'Perunthalaivar Karma Veerar Kamarajar Scheme of Financial Assistance Towards Funeral Expenses of the Differently Abled Persons' was launched by the Department of Social Welfare, Government of Puducherry. In this scheme, financial assistance of ₹ 15,000/- is provided to meet the expenses in connection with funeral, in the event of the death of the differently abled person concerned.",
         "benefits": [
-            "On the death of the differently abled person, financial assistance of \u20b9 15,000/- shall be paid to the claimant."
+            "On the death of the differently abled person, financial assistance of ₹ 15,000/- shall be paid to the claimant."
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
@@ -64,8 +64,8 @@
                 "answer": "No, the application must be submitted within 30 days from the date of death to be eligible for the financial assistance; retroactive claims beyond this period are not considered."
             },
             {
-                "question": "How is the financial assistance of \u20b915,000 disbursed to the claimant upon the death of the differently abled person?",
-                "answer": "Upon the death of the individual, the claimant receives the financial assistance of \u20b915,000 through the designated channels specified by the scheme."
+                "question": "How is the financial assistance of ₹15,000 disbursed to the claimant upon the death of the differently abled person?",
+                "answer": "Upon the death of the individual, the claimant receives the financial assistance of ₹15,000 through the designated channels specified by the scheme."
             },
             {
                 "question": "Is There Any Compensation For The Delay In The Disbursal Of The Scheme Benefits?",
@@ -112,5 +112,6 @@
             "Financial Assistance",
             "Funeral"
         ]
-    }
+    },
+    "id": "001443"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Indian Nationals working overseas in biotechnology and life sciences",
         "details": "The Department of Biotechnology has instituted a scheme known as the 'Ramalingaswami Re-Entry Fellowship'. The scheme is aimed at Indian Nationals who are working overseas in various fields of biotechnology and life sciences and are interested in taking up scientific research positions in India. The Ramalingaswami Re-entry Fellows would be able to work in any of the scientific Institutions/Universities in the country. The applicant should have a proven/outstanding track record as evidenced by research publications and recognitions. The duration of the fellowship will be for a period of three years. Ramalingaswami Re-entry Fellows shall also be eligible for regular research grant through extramural and other research schemes of various S&T agencies of the Government of India.",
         "benefits": [
-            "The amount of the fellowship will be \u20b9 1,00,000/- per month.",
-            "HRA will be \u20b9 18,500 per month.",
-            "Each awardee will, in addition, receive a Research Support grant of \u20b9 13,00,000 lakh/year for the purchase of consumables, minor equipment, domestic travel, engaging project staff and other contingent expenditures to be incurred in connection with the implementation of the project.",
-            "\u20b9 50,000/annum institutional overhead will be paid to the host institute.",
+            "The amount of the fellowship will be ₹ 1,00,000/- per month.",
+            "HRA will be ₹ 18,500 per month.",
+            "Each awardee will, in addition, receive a Research Support grant of ₹ 13,00,000 lakh/year for the purchase of consumables, minor equipment, domestic travel, engaging project staff and other contingent expenditures to be incurred in connection with the implementation of the project.",
+            "₹ 50,000/annum institutional overhead will be paid to the host institute.",
             "Awardees will be eligible for regular research grant/s through extramural and other research schemes of various S&T agencies of the Government of India, provided that a Co-PI is a regular faculty member, and the concerned funding agency allows for this.",
             "The awardees can choose to work at any S&T institution including university departments or other academic institutions and national laboratories in India, provided the institution at which they wish to pursue research is willing to provide the necessary R&D, administrative, and basic infrastructural support to facilitate research."
         ],
@@ -89,5 +89,6 @@
                 "url": "https://dbtindia.gov.in/sites/default/files/uploadfiles/Terms%20and%20Conditions%20%28Ramalingaswami%20Fellowship-revised%20in%202021%29.pdf"
             }
         ]
-    }
+    },
+    "id": "001567"
 }

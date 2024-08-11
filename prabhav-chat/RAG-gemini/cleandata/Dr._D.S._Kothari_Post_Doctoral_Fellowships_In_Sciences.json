@@ -5,12 +5,12 @@
         "department": "Ministry of Education",
         "type": "Fellowship",
         "beneficiary": "Young researchers with a Ph.D. degree in sciences",
-        "details": "Dr. D.S. Kothari Post Doctoral Fellowships in Sciences was introduced by the University Grants Commission, Dept. of Higher Education. The initiative would offer \u20b9 10,00,000 in financial assistance to 132 selected candidates. The tenure is 2 years, and the scheme is open for full-time research work, predominantly to young researchers preferably below 35 years of age who have been awarded their Ph.D. Degree under science faculty.",
+        "details": "Dr. D.S. Kothari Post Doctoral Fellowships in Sciences was introduced by the University Grants Commission, Dept. of Higher Education. The initiative would offer ₹ 10,00,000 in financial assistance to 132 selected candidates. The tenure is 2 years, and the scheme is open for full-time research work, predominantly to young researchers preferably below 35 years of age who have been awarded their Ph.D. Degree under science faculty.",
         "benefits": [
-            "Fellowship amount of \u20b9 43,800/- pm for the 1st year",
-            "Fellowship amount of \u20b9 45,000/- pm for the 2nd year",
-            "Fellowship amount of \u20b9 46,500/- pm for the 3rd year",
-            "Contingency grant of \u20b9 1,00,000/- p.a.",
+            "Fellowship amount of ₹ 43,800/- pm for the 1st year",
+            "Fellowship amount of ₹ 45,000/- pm for the 2nd year",
+            "Fellowship amount of ₹ 46,500/- pm for the 3rd year",
+            "Contingency grant of ₹ 1,00,000/- p.a.",
             "House Rent Allowance (HRA) based on accommodation type",
             "Medical facilities available in the University/Institution/College",
             "Leave for a maximum period of 30 days in a year"
@@ -74,5 +74,6 @@
             "Education",
             "Science"
         ]
-    }
+    },
+    "id": "000434"
 }

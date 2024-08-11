@@ -7,7 +7,7 @@
         "beneficiary": "Coir Cluster/Societies/Agency",
         "details": "The 'Grant to Coir Cluster/Societies/Agency' Component of the 'Development of Coir' Scheme by the Department of Industries and Commerce, Union Territory of Puducherry, aims to foster the development of coir industries. The scheme encourages unemployed rural youth and artisan individuals to participate in the manufacturing and sales of coir products.",
         "benefits": [
-            "Grant of \u20b92,00,000 per year for five years to cover administrative and developmental expenses."
+            "Grant of ₹2,00,000 per year for five years to cover administrative and developmental expenses."
         ],
         "eligibility": [
             "The applicant should be a cluster/society/agency.",
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the financial assistance provided by the scheme?",
-                "answer": "The scheme offers a grant of \u20b92,00,000 per year for five years to cover administrative and developmental expenses."
+                "answer": "The scheme offers a grant of ₹2,00,000 per year for five years to cover administrative and developmental expenses."
             },
             {
                 "question": "Can an individual artisan apply for the grant, or is it restricted to clusters and societies?",
@@ -93,5 +93,6 @@
             "Society",
             "Youth"
         ]
-    }
+    },
+    "id": "000741"
 }

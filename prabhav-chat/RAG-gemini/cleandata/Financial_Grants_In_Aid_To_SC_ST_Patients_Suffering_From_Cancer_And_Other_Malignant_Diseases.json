@@ -5,10 +5,10 @@
         "department": "Directorate of Welfare of Scheduled Castes, Assam",
         "type": "Grant",
         "beneficiary": "SC/ST patients suffering from cancer and other malignant diseases",
-        "details": "The Scheduled Castes people who constitute 7.15% and the Scheduled Tribe people who constitute 12.44% of the total population of the State of Assam as per the 2011 Census are Socio Economically backward. Special provisions have been enshrined in the Constitution for the welfare of SC / ST people in every sphere of their life. There are a number of SC/ST people suffering from cancer and other malignant diseases who are unable to carry forward the treatment of their diseases due to the economic hardships faced by them. The Government has decided to bring some succour to such patients by making available some financial assistance in the form of grants in Aid to SC /ST patients suffering from cancer and other malignant diseases. The objective of this scheme is to provide financial assistance in the form of grants in Aid to SC/ST patients who are suffering from cancer and other malignant diseases and are unable to afford advanced treatment due to their Socio-economic condition prevalent in the community. Under the scheme, SC/ST patients will be given a one-time, fixed financial assistance of \u20b9 50,000/- (Rupees Fifty thousand) only.",
+        "details": "The Scheduled Castes people who constitute 7.15% and the Scheduled Tribe people who constitute 12.44% of the total population of the State of Assam as per the 2011 Census are Socio Economically backward. Special provisions have been enshrined in the Constitution for the welfare of SC / ST people in every sphere of their life. There are a number of SC/ST people suffering from cancer and other malignant diseases who are unable to carry forward the treatment of their diseases due to the economic hardships faced by them. The Government has decided to bring some succour to such patients by making available some financial assistance in the form of grants in Aid to SC /ST patients suffering from cancer and other malignant diseases. The objective of this scheme is to provide financial assistance in the form of grants in Aid to SC/ST patients who are suffering from cancer and other malignant diseases and are unable to afford advanced treatment due to their Socio-economic condition prevalent in the community. Under the scheme, SC/ST patients will be given a one-time, fixed financial assistance of ₹ 50,000/- (Rupees Fifty thousand) only.",
         "benefits": [
             "The scheme shall help SC/ST patients suffering from cancer and other malignant diseases to carry forward the treatment of their diseases by making available some financial assistance in the form of grants in Aid.",
-            "Under the scheme, SC/ST patients will be given a one-time, fixed financial assistance of \u20b9 50,000/-only."
+            "Under the scheme, SC/ST patients will be given a one-time, fixed financial assistance of ₹ 50,000/-only."
         ],
         "eligibility": [
             "The applicant must belong to a SC/ST community of Assam.",
@@ -33,7 +33,7 @@
             },
             {
                 "question": "How much financial assistance should be provided under the scheme?",
-                "answer": "Under the scheme, SC/ST patients will be given a one-time, fixed financial assistance of \u20b9 50,000/-only."
+                "answer": "Under the scheme, SC/ST patients will be given a one-time, fixed financial assistance of ₹ 50,000/-only."
             },
             {
                 "question": "Who is the beneficiary under this scheme?",
@@ -85,5 +85,6 @@
             "Scheduled Caste",
             "Scheduled Tribe"
         ]
-    }
+    },
+    "id": "000616"
 }

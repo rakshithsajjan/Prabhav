@@ -7,8 +7,8 @@
         "beneficiary": "Students",
         "details": "The Ministry of New and Renewable Energy launched the 'SECI Internship' program under Solar Energy Corporation of India Ltd. The Internship Program will serve as an opportunity for students to gain understanding about Renewable as a sector and SECI as an employer and help them evaluate future career opportunities. The Program will be structured, short-term, supervised placements often focused around particular tasks or projects with defined timescales. The work should be meaningful and must be mutually beneficial for intern and the Corporation.",
         "benefits": [
-            "Stipend: For training periods less than 6 months: \u20b98,000/- per month",
-            "Stipend: For training periods from 6 months to 3 years: \u20b912,000/- per month",
+            "Stipend: For training periods less than 6 months: ₹8,000/- per month",
+            "Stipend: For training periods from 6 months to 3 years: ₹12,000/- per month",
             "Completion Certificate: HR issues a certificate upon successful completion of the internship, confirming attendance and work supervision."
         ],
         "eligibility": [
@@ -114,5 +114,6 @@
             "SECI",
             "Student Opportunity"
         ]
-    }
+    },
+    "id": "001824"
 }

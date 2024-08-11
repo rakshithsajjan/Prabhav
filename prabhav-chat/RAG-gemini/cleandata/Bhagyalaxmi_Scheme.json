@@ -16,10 +16,10 @@
             "Interim payments such as annual scholarships and insurance benefits available on continued fulfilment of eligibility criteria"
         ],
         "eligibility": [
-            "A girl\u2019s birth must be registered within a year after her birth date",
-            "Girls shouldn\u2019t engage in child labour",
+            "A girl’s birth must be registered within a year after her birth date",
+            "Girls shouldn’t engage in child labour",
             "Benefits are available to BPL families with up to 2 female children",
-            "Girls should have been immunized correctly in the health department\u2019s program",
+            "Girls should have been immunized correctly in the health department’s program",
             "Girl children must be born after 31 March 2006 in a BPL family",
             "A girl must have completed the eighth grade to be eligible for the maturity amount",
             "She cannot have been married off before turning 18 years old"
@@ -52,7 +52,7 @@
             },
             {
                 "question": "If one has 3 girl children, can I get the benefits of this scheme?",
-                "answer": "In such a case, the first two girl children of families that are below the poverty line will be able to benefit from the scheme while the third one won\u2019t."
+                "answer": "In such a case, the first two girl children of families that are below the poverty line will be able to benefit from the scheme while the third one won’t."
             },
             {
                 "question": "What is the benefit of Bhagyalaxshmi Scheme?",
@@ -111,5 +111,6 @@
             "Female Children",
             "Financial Aid"
         ]
-    }
+    },
+    "id": "000195"
 }

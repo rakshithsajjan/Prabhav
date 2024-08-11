@@ -5,9 +5,9 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Subsidy",
         "beneficiary": "Persons with Disabilities (PwD)",
-        "details": "The scheme 'Subsidy for Developing Business Premises for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to \u20b93 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities. Permanent residents of Haryana, aged 18 or older, with a disability of 40% or more, are eligible to avail the benefits under this scheme.",
+        "details": "The scheme 'Subsidy for Developing Business Premises for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to ₹3 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities. Permanent residents of Haryana, aged 18 or older, with a disability of 40% or more, are eligible to avail the benefits under this scheme.",
         "benefits": [
-            "Loans up to \u20b93 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities."
+            "Loans up to ₹3 lakh are provided to persons with disabilities to develop business premises on their own land and start self-employment activities."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount available under this scheme?",
-                "answer": "The maximum loan amount available under this scheme is \u20b93 lakh."
+                "answer": "The maximum loan amount available under this scheme is ₹3 lakh."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -79,5 +79,6 @@
             "Self-employment",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001874"
 }

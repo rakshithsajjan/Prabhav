@@ -14,7 +14,7 @@
             "Reduction in administrative overheads for Oil Marketing Companies."
         ],
         "eligibility": [
-            "LPG users and their spouses who do not earn a taxable income above \u20b910,00,000 in the previous financial year according to the Income Tax Act of 1961."
+            "LPG users and their spouses who do not earn a taxable income above ₹10,00,000 in the previous financial year according to the Income Tax Act of 1961."
         ],
         "exclusions": [],
         "application_process": "Online",
@@ -51,5 +51,6 @@
             "PAHAL",
             "DBTL"
         ]
-    }
+    },
+    "id": "001509"
 }

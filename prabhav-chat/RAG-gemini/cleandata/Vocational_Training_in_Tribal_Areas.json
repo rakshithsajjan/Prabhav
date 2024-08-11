@@ -25,8 +25,8 @@
         "application_process": "Offline. State/UT Governments and State-owned autonomous institutions shall apply in prescribed application Format-I, whereas VOs/NGOs/private institutions shall apply in Format-II. Applications must reach the Ministry as per the prescribed channel by January-February of the preceding financial year.",
         "documents_required": [
             "Details of Budget Estimates",
-            "Audited Accounts with Auditor\u2019s Report",
-            "Utilization certificate of the previous year\u2019s grant",
+            "Audited Accounts with Auditor’s Report",
+            "Utilization certificate of the previous year’s grant",
             "Annual Report",
             "List of Staff",
             "List of beneficiaries",
@@ -75,5 +75,6 @@
                 "url": "https://tribal.nic.in/writereaddata/Schemes/VTCGuidelinesAndApplicationFormat.pdf"
             }
         ]
-    }
+    },
+    "id": "002026"
 }

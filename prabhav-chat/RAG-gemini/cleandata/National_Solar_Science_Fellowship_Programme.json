@@ -5,9 +5,9 @@
         "department": "Ministry Of New and Renewable Energy",
         "type": "Fellowship",
         "beneficiary": "Scientists and Engineers in Solar Energy Research",
-        "details": "The \u201cNational Solar Science Fellowship Programme\u201d of the Ministry of New & Renewable Energy was launched in February 2011. The programme is meant for an Indian Scientist desirous of working in the forefront areas of solar energy science, engineering, and technology with a focus on science, technology, and product development in collaboration with selected prestigious institutions in India. The aim of the National Solar Science Fellowship Programme is to provide a platform to top quality scientists and engineers in the area of solar energy research, to use and expand the resources available at the identified schools/ institutions in the country and abroad to address the complex problems of solar energy utilization for various end uses including power generation.",
+        "details": "The “National Solar Science Fellowship Programme” of the Ministry of New & Renewable Energy was launched in February 2011. The programme is meant for an Indian Scientist desirous of working in the forefront areas of solar energy science, engineering, and technology with a focus on science, technology, and product development in collaboration with selected prestigious institutions in India. The aim of the National Solar Science Fellowship Programme is to provide a platform to top quality scientists and engineers in the area of solar energy research, to use and expand the resources available at the identified schools/ institutions in the country and abroad to address the complex problems of solar energy utilization for various end uses including power generation.",
         "benefits": [
-            "Each selected Fellow will receive a total annual grant of up to \u20b932.00 lakhs comprising (i) emolument of up to \u20b912.00 lakhs (ii) contingencies of up to \u20b95.00 lakhs and (iii) research grant of up to \u20b915.00 lakhs.",
+            "Each selected Fellow will receive a total annual grant of up to ₹32.00 lakhs comprising (i) emolument of up to ₹12.00 lakhs (ii) contingencies of up to ₹5.00 lakhs and (iii) research grant of up to ₹15.00 lakhs.",
             "The grant will be released to the host institution for being granted to the Fellow.",
             "The Fellow may also raise additional resources from other sources such as the host Institution, grant providers, grant-in-aid Institutions, etc."
         ],
@@ -49,7 +49,7 @@
             },
             {
                 "question": "When was this scheme launched?",
-                "answer": "The \u201cNational Solar Science Fellowship Programme\u201d was launched in February 2011."
+                "answer": "The “National Solar Science Fellowship Programme” was launched in February 2011."
             },
             {
                 "question": "Who is eligible to get the benefits under the scheme?",
@@ -77,7 +77,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Each selected Fellow will receive a total annual grant of up to \u20b932.00 lakhs."
+                "answer": "Each selected Fellow will receive a total annual grant of up to ₹32.00 lakhs."
             },
             {
                 "question": "How many numbers of fellowships will be awarded at a time?",
@@ -102,5 +102,6 @@
                 "url": "https://mnre.gov.in/img/documents/uploads/2a366883d84443e58a53f53f31b33de2.pdf"
             }
         ]
-    }
+    },
+    "id": "001331"
 }

@@ -5,7 +5,7 @@
         "department": "Ministry Of Finance",
         "type": "Certificate Savings Scheme",
         "beneficiary": "Residents of India",
-        "details": "The \u2018Kisan Vikas Patra (KVP)\u2019 is a certificate savings scheme that was launched by the Government of India on 1st April 1988. The scheme provided a facility of unlimited investment by way of purchase of certificates from post offices in various denominations. The maturity period of the scheme when launched was 5 \u00bd years and the money invested doubled on maturity. However, the scheme was relaunched in 2014 to revitalize Small Savings.",
+        "details": "The ‘Kisan Vikas Patra (KVP)’ is a certificate savings scheme that was launched by the Government of India on 1st April 1988. The scheme provided a facility of unlimited investment by way of purchase of certificates from post offices in various denominations. The maturity period of the scheme when launched was 5 ½ years and the money invested doubled on maturity. However, the scheme was relaunched in 2014 to revitalize Small Savings.",
         "benefits": [
             "The scheme offers an interest rate of 7.5 % compounded annually on investment.",
             "Amount Invested doubles in 115 months (9 years & 7 months).",
@@ -26,7 +26,7 @@
             "Aadhaar Card",
             "Copy of the PAN card",
             "Proof of age i.e. Birth Certificate",
-            "Officially valid documents for identification and address proof (e.g., Passport, Driving license, Voter\u2019s ID card, Job card issued by NREGA, Letter issued by the National Population Register)"
+            "Officially valid documents for identification and address proof (e.g., Passport, Driving license, Voter’s ID card, Job card issued by NREGA, Letter issued by the National Population Register)"
         ],
         "faqs": [
             {
@@ -94,5 +94,6 @@
             "Kisan",
             "Finance"
         ]
-    }
+    },
+    "id": "000987"
 }

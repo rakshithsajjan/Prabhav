@@ -7,13 +7,13 @@
         "beneficiary": "Children of registered construction workers",
         "details": "The 'Cash Award' scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, cash awards shall be given to the three male & three female children of the registered construction workers in each district to those students who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark in HSLC, AHM and H.S. examinations.",
         "benefits": [
-            "The cash awards shall be given to the children of the beneficiaries who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark @ \u20b95,000/-, \u20b94,000/- and \u20b93,500/- respectively in HSLC, AHM, and H.S. examinations.",
+            "The cash awards shall be given to the children of the beneficiaries who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark @ ₹5,000/-, ₹4,000/- and ₹3,500/- respectively in HSLC, AHM, and H.S. examinations.",
             "The Board offers cash awards to three male and three female children of the beneficiaries in each district."
         ],
         "eligibility": [
             "The applicant student should be a permanent resident of Assam.",
-            "The applicant\u2019s parent should be engaged in any building & other construction work.",
-            "The applicant\u2019s parent should be registered with the Assam Building and Other Construction Workers Welfare Board.",
+            "The applicant’s parent should be engaged in any building & other construction work.",
+            "The applicant’s parent should be registered with the Assam Building and Other Construction Workers Welfare Board.",
             "The parent of the applicant should have an active membership with the Board.",
             "To avail of the benefits of the scheme, students must have obtained a minimum of 55% or above in the HSLC, AHM, and H.S. examinations."
         ],
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the cash award amounts under this scheme?",
-                "answer": "Cash awards are distributed based on academic performance. Students scoring 75% or above, 65% or less than 75%, and 55% or less than 65% will receive \u20b95,000/-, \u20b94,000/-, and \u20b93,500/- respectively in HSLC, AHM, and H.S. examinations."
+                "answer": "Cash awards are distributed based on academic performance. Students scoring 75% or above, 65% or less than 75%, and 55% or less than 65% will receive ₹5,000/-, ₹4,000/-, and ₹3,500/- respectively in HSLC, AHM, and H.S. examinations."
             },
             {
                 "question": "How many students are eligible for cash awards in each district?",
@@ -89,5 +89,6 @@
             "Assam",
             "Labour Welfare"
         ]
-    }
+    },
+    "id": "000248"
 }

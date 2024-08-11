@@ -7,7 +7,7 @@
         "beneficiary": "Young Goan artists",
         "details": "The scheme 'Yuva Srujan Puraskar (Navsarjan Chetana Puraskar)' is designed to honour the young Goan individuals who have excelled in the field of Art and culture in Goa. The scheme intends to give recognition to young artists par excellence for their outstanding achievements and for their extraordinary contribution to the field of Art and culture.",
         "benefits": [
-            "A memento, certificate of appreciation and financial purse to the extent of \u20b9 25,000/- per individual.",
+            "A memento, certificate of appreciation and financial purse to the extent of ₹ 25,000/- per individual.",
             "Every year a maximum of 6 persons in the fields of Music/Dance, Drama/Tiatr, Folk Art, Photography/Painting, Craft, Sculpture, Bhajan/Kirtan, Literature, and Film shall be considered."
         ],
         "eligibility": [
@@ -60,7 +60,7 @@
             },
             {
                 "question": "Is there any financial reward associated with this award?",
-                "answer": "Yes, eligible artists will receive a financial purse to the extent of \u20b925,000 along with a memento and a certificate of appreciation."
+                "answer": "Yes, eligible artists will receive a financial purse to the extent of ₹25,000 along with a memento and a certificate of appreciation."
             },
             {
                 "question": "Are artists eligible to receive this award more than once?",
@@ -92,5 +92,6 @@
             "Culture",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "002078"
 }

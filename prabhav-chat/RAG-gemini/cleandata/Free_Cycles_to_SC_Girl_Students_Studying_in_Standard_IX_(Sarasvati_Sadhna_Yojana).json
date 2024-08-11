@@ -5,7 +5,7 @@
         "department": "Department of Social Justice & Empowerment",
         "type": "Grant",
         "beneficiary": "Scheduled Caste Girl Students",
-        "details": "The \u201cFree Cycles to SC Girl Students Studying in Standard IX (Sarasvati Sadhna Yojana)\u201d scheme is administered by the Directorate of Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. Under this scheme, free bicycles are given to scheduled caste girl students who are studying in Standard IX.",
+        "details": "The “Free Cycles to SC Girl Students Studying in Standard IX (Sarasvati Sadhna Yojana)” scheme is administered by the Directorate of Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. Under this scheme, free bicycles are given to scheduled caste girl students who are studying in Standard IX.",
         "benefits": [
             "Under this scheme, free cycles are given to scheduled caste girl students who are studying in Standard IX."
         ],
@@ -13,7 +13,7 @@
             "The applicant should be a girl student.",
             "The girl student should belong to the Scheduled Caste Category of Gujarat.",
             "The student should be studying in the 9th Standard.",
-            "The annual family income of the student should not be more than \u20b96,00,000/- (for both Rural Areas & Urban Areas)."
+            "The annual family income of the student should not be more than ₹6,00,000/- (for both Rural Areas & Urban Areas)."
         ],
         "exclusions": [],
         "application_process": "Offline. To avail the benefits of the scheme, eligible girl students need to contact the principal of their school. The Principal of concerned schools has to submit the online proposal on the Digital Gujarat Portal.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "Who is eligible to benefit from the scheme?",
-                "answer": "Eligibility criteria include being a girl student, belonging to the Scheduled Caste category of Gujarat, studying in the 9th Standard, and having an annual family income not exceeding \u20b96,00,000/- for both rural and urban areas."
+                "answer": "Eligibility criteria include being a girl student, belonging to the Scheduled Caste category of Gujarat, studying in the 9th Standard, and having an annual family income not exceeding ₹6,00,000/- for both rural and urban areas."
             },
             {
                 "question": "How can eligible students apply for the scheme?",
@@ -70,5 +70,6 @@
             "Girl Student",
             "Scheduled Caste"
         ]
-    }
+    },
+    "id": "000633"
 }

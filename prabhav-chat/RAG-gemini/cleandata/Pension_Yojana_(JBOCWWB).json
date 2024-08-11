@@ -5,9 +5,9 @@
         "department": "Department of Labour, Employment, Training & Skill Development",
         "type": "Pension",
         "beneficiary": "Construction Worker",
-        "details": "'Pension Yojana (JBOCWWB)' is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides pension of \u20b9 1,000/- per month to those who have contributed to the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board) for at least 30 years.",
+        "details": "'Pension Yojana (JBOCWWB)' is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides pension of ₹ 1,000/- per month to those who have contributed to the Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board) for at least 30 years.",
         "benefits": [
-            "The scheme provides pension of \u20b9 1,000/- per month."
+            "The scheme provides pension of ₹ 1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a domicile in the state of Jharkhand.",
@@ -81,5 +81,6 @@
                 "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
             }
         ]
-    }
+    },
+    "id": "001435"
 }

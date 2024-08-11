@@ -8,14 +8,14 @@
         "details": "The scheme 'AICTE - Scheme for Promoting Interests, Creativity and Ethics among Students (SPICES)' is a scheme for the institutions by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE). This scheme provides financial support to institutions for developing students' clubs for the well-rounded development of students by promoting their interests, creativity, and ethics. This club should serve as a model for other clubs in the institution and also those in other institutions.",
         "benefits": [
             "Duration: One-Year",
-            "Limit of Funding: \u20b9 1,00,000 only (one-time grant to one institute)",
-            "Disbursement of the Funds: \u20b9 1,00,000 as advance",
+            "Limit of Funding: ₹ 1,00,000 only (one-time grant to one institute)",
+            "Disbursement of the Funds: ₹ 1,00,000 as advance",
             "Programs/Activities targeted in the Clubs: Evolution of Interests/Hobbies, Creativity/Imagination/Innovation, and Ethics/Value through a range of student activities."
         ],
         "eligibility": [
             "AICTE-approved institutes with a minimum of 5 years of existence.",
             "Only one proposal per institute for a club (with a minimum of student members 50) will be admissible.",
-            "The institute must commit a contribution of a minimum \u20b9 1,00,000 to the club.",
+            "The institute must commit a contribution of a minimum ₹ 1,00,000 to the club.",
             "Coordinator must be full-time regular faculty with at least 10-year experience in teaching/industry.",
             "Institute should also identify a Co-coordinator who must be a faculty with at least 5 years of experience in teaching/industry."
         ],
@@ -68,5 +68,6 @@
             "Creativity",
             "Ethics"
         ]
-    }
+    },
+    "id": "000027"
 }

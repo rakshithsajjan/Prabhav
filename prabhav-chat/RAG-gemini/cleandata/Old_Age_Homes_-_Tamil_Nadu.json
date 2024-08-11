@@ -7,8 +7,8 @@
         "beneficiary": "Senior Citizens",
         "details": "The 'Old Age Homes' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. This scheme provides food, shelter, medical care, and recreational facilities to destitute senior citizens of age 60 years and above. The applications are accepted offline in the prescribed form available at the District Social Welfare Office.",
         "benefits": [
-            "The State Government is providing \u20b95,60,000/- as grant-in-aid per home for a capacity of 40 inmates.",
-            "The institutions are required to contribute \u20b91,12,000/- as their share.",
+            "The State Government is providing ₹5,60,000/- as grant-in-aid per home for a capacity of 40 inmates.",
+            "The institutions are required to contribute ₹1,12,000/- as their share.",
             "Food, Shelter, Medical care, and Recreation facilities."
         ],
         "eligibility": [
@@ -54,15 +54,15 @@
             },
             {
                 "question": "What is the quantum of assistance provided by the State Government per home?",
-                "answer": "The State Government provides \u20b95,60,000/- per year per home for a strength of 40 inmates as grant-in-aid."
+                "answer": "The State Government provides ₹5,60,000/- per year per home for a strength of 40 inmates as grant-in-aid."
             },
             {
                 "question": "How much financial contribution is required from the institutions running the Old Age Homes?",
-                "answer": "Institutions must contribute \u20b91,12,000/- per year."
+                "answer": "Institutions must contribute ₹1,12,000/- per year."
             },
             {
                 "question": "What is the contact information for the Director of Social Welfare?",
-                "answer": "The contact information is: Director of Social Welfare, 2nd Floor, Panagal Maaligai, Saidapet, Chennai \u2013 600 015. Phone No. 044-24351885."
+                "answer": "The contact information is: Director of Social Welfare, 2nd Floor, Panagal Maaligai, Saidapet, Chennai – 600 015. Phone No. 044-24351885."
             }
         ],
         "sources": [
@@ -81,5 +81,6 @@
             "Senior Citizens",
             "Shelter"
         ]
-    }
+    },
+    "id": "001376"
 }

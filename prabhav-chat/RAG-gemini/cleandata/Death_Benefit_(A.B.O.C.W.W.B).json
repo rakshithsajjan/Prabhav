@@ -7,8 +7,8 @@
         "beneficiary": "Nominees/Dependents of registered construction workers",
         "details": "The scheme 'Death Benefit' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the nominees/dependents of a registered worker towards death benefit, in case of normal death or due to an accident during the course of employment.",
         "benefits": [
-            "The financial assistance of \u20b950,000/- shall be given to the nominees/dependents of a registered construction worker in case of normal death during the course of employment.",
-            "The financial assistance of \u20b93,00,000/- shall be given to the nominee/dependents of a registered construction worker, in case the death is due to an accident during the course of employment."
+            "The financial assistance of ₹50,000/- shall be given to the nominees/dependents of a registered construction worker in case of normal death during the course of employment.",
+            "The financial assistance of ₹3,00,000/- shall be given to the nominee/dependents of a registered construction worker, in case the death is due to an accident during the course of employment."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Assam.",
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the financial assistance provided under the Scheme for a normal death during employment?",
-                "answer": "The scheme offers a financial assistance of \u20b950,000/- to the nominees or dependents of a registered construction worker in the event of the worker's normal death during the course of employment."
+                "answer": "The scheme offers a financial assistance of ₹50,000/- to the nominees or dependents of a registered construction worker in the event of the worker's normal death during the course of employment."
             },
             {
                 "question": "What financial assistance is provided if the registered worker's death is a result of an accident during employment?",
-                "answer": "In case of the worker's death due to an accident during the course of employment, the scheme provides financial assistance of \u20b93,00,000/- to the nominee or dependents of the registered construction worker."
+                "answer": "In case of the worker's death due to an accident during the course of employment, the scheme provides financial assistance of ₹3,00,000/- to the nominee or dependents of the registered construction worker."
             },
             {
                 "question": "Can non-residents of Assam apply for the Death Benefit under this scheme?",
@@ -94,5 +94,6 @@
             "Financial Assistance",
             "Labour"
         ]
-    }
+    },
+    "id": "000359"
 }

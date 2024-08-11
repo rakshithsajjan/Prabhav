@@ -7,7 +7,7 @@
         "beneficiary": "Regular faculty of AICTE approved institutes and AICTE officers",
         "details": "AICTE-Professional Development Scheme has been launched by the All India Council for Technical Education with an intention to provide financial assistance to regular faculty of the AICTE approved institutes and AICTE officers on regular and deputation basis in order to present research papers at international conferences abroad & within India.",
         "benefits": [
-            "Funding up to \u20b9 1,50,000/-",
+            "Funding up to ₹ 1,50,000/-",
             "Reimbursement of registration fee for conference",
             "Per day allowance as per central government rules",
             "Total expenses towards travel from international airport to destination airport and back"
@@ -97,5 +97,6 @@
             "Faculty",
             "Conferences"
         ]
-    }
+    },
+    "id": "000016"
 }

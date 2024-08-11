@@ -7,10 +7,10 @@
         "beneficiary": "Farmers",
         "details": "The 'Sinchai Pipeline Karyakram' under The Agriculture Department of the Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers.",
         "benefits": [
-            "Cost of transporting water: 50% of the cost (capped at \u20b91000/-).",
-            "Pipe material cost: HDPE pipe: \u20b950 per meter (capped at \u20b915,000/- total).",
-            "PVC pipe: \u20b935 per meter (capped at \u20b915,000/- total).",
-            "HDPE laminated flat tube pipe: \u20b920 per meter (capped at \u20b915,000/- total)."
+            "Cost of transporting water: 50% of the cost (capped at ₹1000/-).",
+            "Pipe material cost: HDPE pipe: ₹50 per meter (capped at ₹15,000/- total).",
+            "PVC pipe: ₹35 per meter (capped at ₹15,000/- total).",
+            "HDPE laminated flat tube pipe: ₹20 per meter (capped at ₹15,000/- total)."
         ],
         "eligibility": [
             "The agricultural land should be owned by the applicant.",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "How do a applicant know if a field in the application form is mandatory?",
-                "answer": "A distinctive sign (\u201c*\u201d symbol, \u201cmandatory\u201d mention, etc.)"
+                "answer": "A distinctive sign (“*” symbol, “mandatory” mention, etc.)"
             },
             {
                 "question": "Is this scheme for Urban area?",
@@ -94,5 +94,6 @@
             "Irrigation",
             "Pipe Line"
         ]
-    }
+    },
+    "id": "001805"
 }

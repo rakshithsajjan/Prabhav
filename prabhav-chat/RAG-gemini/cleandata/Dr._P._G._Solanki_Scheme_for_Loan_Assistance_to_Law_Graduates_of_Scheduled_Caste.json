@@ -7,14 +7,14 @@
         "beneficiary": "Law Graduates of Scheduled Caste",
         "details": "The scheme 'Dr. P. G. Solanki Scheme for Loan/Assistance to Law Graduates of Scheduled Caste' was launched by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was launched in the year 1973. Under this scheme, law graduates belonging to the Scheduled Caste who intend to start independent legal practice will receive financial assistance for the purchase of business premises/shops.",
         "benefits": [
-            "A Law graduate belonging to Scheduled Caste intending to start legal practice will be given \u20b912,000/-; out of which \u20b97,000/- will be @4% interest loan, and \u20b95,000/- will be a subsidy.",
+            "A Law graduate belonging to Scheduled Caste intending to start legal practice will be given ₹12,000/-; out of which ₹7,000/- will be @4% interest loan, and ₹5,000/- will be a subsidy.",
             "The loan is provided to purchase business premises/shops."
         ],
         "eligibility": [
             "The applicant should be a Law graduate.",
             "The applicant should belong to the Scheduled Caste category.",
             "The benefit of this scheme will be given only to natives of Gujarat state.",
-            "The annual family income of the applicant limit should not exceed \u20b96,00,000/- for rural areas and \u20b96,00,000/- for urban areas."
+            "The annual family income of the applicant limit should not exceed ₹6,00,000/- for rural areas and ₹6,00,000/- for urban areas."
         ],
         "exclusions": [],
         "application_process": "Online and Offline. The eligible applicant may visit the e-Samaj Kalyan Portal: https://esamajkalyan.gujarat.gov.in/",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "Law graduates belonging to the Scheduled Caste receive financial assistance of \u20b912,000/-. Out of this, \u20b97,000/- is provided as a loan at 4% interest, and \u20b95,000/- is given as a subsidy."
+                "answer": "Law graduates belonging to the Scheduled Caste receive financial assistance of ₹12,000/-. Out of this, ₹7,000/- is provided as a loan at 4% interest, and ₹5,000/- is given as a subsidy."
             },
             {
                 "question": "How is the loan amount utilized?",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
-                "answer": "Eligibility criteria include being a law graduate, belonging to the Scheduled Caste category, being a native of Gujarat state, and having an annual family income not exceeding \u20b96,00,000 for both rural and urban areas."
+                "answer": "Eligibility criteria include being a law graduate, belonging to the Scheduled Caste category, being a native of Gujarat state, and having an annual family income not exceeding ₹6,00,000 for both rural and urban areas."
             },
             {
                 "question": "Where can eligible applicants apply for this scheme?",
@@ -98,5 +98,6 @@
             "Loan",
             "Scheduled Caste"
         ]
-    }
+    },
+    "id": "000440"
 }

@@ -27,7 +27,7 @@
             "Aadhaar Card",
             "PAN Card",
             "Pay-in-Slip along with deposit amount or cheque",
-            "Valid documents for identification and address proof (Passport, Driving license, Voter\u2019s ID card, Job card issued by NREGA, Letter issued by the National Population Register)"
+            "Valid documents for identification and address proof (Passport, Driving license, Voter’s ID card, Job card issued by NREGA, Letter issued by the National Population Register)"
         ],
         "faqs": [
             {
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the minimum and maximum investment allowed?",
-                "answer": "The minimum investment amount for this scheme is \u20b91000/-, while the maximum deposit in a single account is capped at \u20b92 lakhs."
+                "answer": "The minimum investment amount for this scheme is ₹1000/-, while the maximum deposit in a single account is capped at ₹2 lakhs."
             },
             {
                 "question": "When does the maturity of the account occur?",
@@ -87,5 +87,6 @@
             "Financial Security",
             "Investment"
         ]
-    }
+    },
+    "id": "001060"
 }

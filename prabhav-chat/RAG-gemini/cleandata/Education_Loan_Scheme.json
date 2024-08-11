@@ -8,14 +8,14 @@
         "details": "The objective of the 'Education Loan' scheme by the National Backward Classes Finance And Development Corporation, Ministry of Social Justice & Empowerment, is to extend Education Loans to the students of Backward Classes for pursuing professional/technical education at the graduate and higher levels and for pursuing vocational Courses. All professional and technical courses at the graduate and higher levels are approved by the appropriate authority and vocational courses.",
         "benefits": [
             "Expenses Covered: Admission Fee & Tuition Fee; Books; Stationery & other instruments required for the course; examination fee; boarding & lodging expenses; insurance premium for policy during the loan period.",
-            "Quantum of Finance: For Professional / Technical Courses only - 90% of the expenditure of the course is subject to a maximum loan limit of \u20b915,00,000 per student (For study in India), the balance will be borne by the student/SCA.",
-            "85% of the expenditure of the course subject to a maximum of \u20b920,00,000 per student (For studying abroad), the balance will be borne by the student/SCA.",
+            "Quantum of Finance: For Professional / Technical Courses only - 90% of the expenditure of the course is subject to a maximum loan limit of ₹15,00,000 per student (For study in India), the balance will be borne by the student/SCA.",
+            "85% of the expenditure of the course subject to a maximum of ₹20,00,000 per student (For studying abroad), the balance will be borne by the student/SCA.",
             "For Vocational Courses - Need-based finance to meet 90% of admissible expenses for the course.",
             "Rate of Interest: For Boys: 4% p.a., For Girls: 3.5% p.a."
         ],
         "eligibility": [
             "Members of Backward Classes, as notified by the Central Government/State Government from time to time.",
-            "The annual family income of the applicant is fixed at \u20b9 3,00,000.",
+            "The annual family income of the applicant is fixed at ₹ 3,00,000.",
             "The applicant should have obtained admission for any professional and technical courses approved by an appropriate agency such as AICTE, Medical Council of India, UGC, etc.",
             "Should have secured admission to professional/technical courses in India or abroad through an entrance test/merit-based selection process."
         ],
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What Percentage Of The Expenditure On The Course Will Be Borne By The Student/SCA? Is There An Upper Ceiling?",
-                "answer": "90% of the expenditure of the course is subject to a maximum loan limit of \u20b915,00,000 per student (For study in India), the balance will be borne by the student/SCA."
+                "answer": "90% of the expenditure of the course is subject to a maximum loan limit of ₹15,00,000 per student (For study in India), the balance will be borne by the student/SCA."
             },
             {
                 "question": "What Is The Meaning Of SCA?",
@@ -71,5 +71,6 @@
             "Loan",
             "Other Backward Class"
         ]
-    }
+    },
+    "id": "000473"
 }

@@ -5,9 +5,9 @@
         "department": "Arts and Culture Department",
         "type": "Financial Assistance",
         "beneficiary": "Journalists and Researchers",
-        "details": "The 'Scheme of Financial Assistance for Publication of Manuscripts/Research Journals' scheme was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide financial assistance of \u20b910,000 for publishing manuscripts/research journals. They are published on cultural subjects such as language, literature, philosophy, religion, history, music, dance, drama, and other fine arts etc.",
+        "details": "The 'Scheme of Financial Assistance for Publication of Manuscripts/Research Journals' scheme was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide financial assistance of ₹10,000 for publishing manuscripts/research journals. They are published on cultural subjects such as language, literature, philosophy, religion, history, music, dance, drama, and other fine arts etc.",
         "benefits": [
-            "Financial Assistance of \u20b910,000/-."
+            "Financial Assistance of ₹10,000/-."
         ],
         "eligibility": [
             "The applicant's proposed book or journal for publication must pertain to one or more cultural subjects such as language, literature, philosophy, religion, history, music, dance, drama, and other fine arts.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the maximum grant amount provided for each publication?",
-                "answer": "The maximum grant amount provided for each publication is \u20b910,000/-."
+                "answer": "The maximum grant amount provided for each publication is ₹10,000/-."
             },
             {
                 "question": "Can unpublished theses and dissertations receive funding?",
@@ -76,5 +76,6 @@
             "Journalist",
             "Publication"
         ]
-    }
+    },
+    "id": "001722"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "MSMEs",
         "details": "The scheme 'Assistance For Zed Certification' is a sub scheme under the 'Investment Promotion Scheme (IPS)' for MSME Sector. It was launched on 3rd July, 2015 for a period of five years and has been extended further from 20th May, 2022 to 19th May, 2027. The scheme aims to provide incentives and assistance to the MSME Sector to nurture them and protect them from market vagaries, maximize Women participation, reduce unemployment, and incentivize industries to employ resident laborers.",
         "benefits": [
-            "50% up to a maximum amount of \u20b91,00,000/-"
+            "50% up to a maximum amount of ₹1,00,000/-"
         ],
         "eligibility": [
             "Should be a New Manufacturing/ Service unit or Existing Manufacturing/ Service unit which undertakes Expansion/ Diversification in MSME sector.",
@@ -90,5 +90,6 @@
             "Subsidy",
             "Zed Certification"
         ]
-    }
+    },
+    "id": "000910"
 }

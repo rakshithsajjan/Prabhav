@@ -7,10 +7,10 @@
         "beneficiary": "Defunct MSMEs and Cashew Processing Units",
         "details": "The scheme aims to support defunct MSMEs in the manufacturing sector, including cashew processing units, through assistance in the form of capital grants and working capital incentives. It was launched during 2020-21 to address the challenges faced by these units due to various constraints.",
         "benefits": [
-            "Financial assistance of up to \u20b915 Lakhs per applicant unit, available only once.",
-            "25% of the total revival project cost for building renovation, limited to \u20b92 lakh.",
-            "40% of the total revival project cost for plant & machinery and electrification, limited to \u20b98 lakh.",
-            "50% margin of working capital loan approved by financial institutions, with limits of \u20b92 lakhs for defunct MSMEs and \u20b95 lakhs for cashew units."
+            "Financial assistance of up to ₹15 Lakhs per applicant unit, available only once.",
+            "25% of the total revival project cost for building renovation, limited to ₹2 lakh.",
+            "40% of the total revival project cost for plant & machinery and electrification, limited to ₹8 lakh.",
+            "50% margin of working capital loan approved by financial institutions, with limits of ₹2 lakhs for defunct MSMEs and ₹5 lakhs for cashew units."
         ],
         "eligibility": [
             "All MSMEs in the manufacturing sector which are defunct for at least 6 months due to genuine issues.",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, financial assistance of \u20b915 Lakhs will be given to an applicant unit."
+                "answer": "Under the scheme, financial assistance of ₹15 Lakhs will be given to an applicant unit."
             },
             {
                 "question": "How many times can an MSME unit avail of the assistance under the scheme?",
@@ -78,5 +78,6 @@
             "Kerala",
             "Cashew Processing"
         ]
-    }
+    },
+    "id": "001603"
 }

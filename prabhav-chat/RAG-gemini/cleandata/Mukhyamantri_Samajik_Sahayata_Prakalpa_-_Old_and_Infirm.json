@@ -7,18 +7,18 @@
         "beneficiary": "Senior Citizen",
         "details": "The scheme 'Mukhyamantri Samajik Sahayata Prakalpa- Old and Infirm' was launched by the Directorate of Social Welfare and Social Education, Government of Tripura. This scheme aims to provide financial assistance to poor people of Tripura who are old and infirm, such as senior citizens who are 60 years and above in age.",
         "benefits": [
-            "The pension amount of \u20b92000/- per month will be transferred directly to the bank account of the applicant."
+            "The pension amount of ₹2000/- per month will be transferred directly to the bank account of the applicant."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
-            "The annual income of the family of the applicant should not exceed \u20b91,00,000/-",
+            "The annual income of the family of the applicant should not exceed ₹1,00,000/-",
             "The age of the applicant should be 60 years or above.",
             "If the family has children in the age group of 6 to 14 years, those children must be enrolled in a school recognized by the Government of Tripura."
         ],
         "exclusions": [
             "Income taxpayers are not eligible.",
             "Government employees are not eligible.",
-            "The individuals whose family members are already getting benefits under any of the Category/Sub-Category under \u2018Mukhyamantri Samajik Sahayata Prakalpa' (except infirm & PwDs) are not eligible.",
+            "The individuals whose family members are already getting benefits under any of the Category/Sub-Category under ‘Mukhyamantri Samajik Sahayata Prakalpa' (except infirm & PwDs) are not eligible.",
             "Pensioners who are getting benefits under the 'National Social Assistance Program (NSAP)' or the 32 State Social Pension Schemes run by the Social Welfare & Social Education Department, Govt. of Tripura are not eligible."
         ],
         "application_process": "Offline. The applicant should visit the Office of the Child Development Project Officer and request a hard copy of the prescribed format of the application form free of cost or take print of the prescribed format of the application form.",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the maximum annual income limit for the family of the applicant?",
-                "answer": "The annual income of the applicant's family should not exceed \u20b91,00,000."
+                "answer": "The annual income of the applicant's family should not exceed ₹1,00,000."
             },
             {
                 "question": "Where can the beneficiaries check the list of beneficiaries for the scheme?",
@@ -54,7 +54,7 @@
             },
             {
                 "question": "How much is the monthly pension amount provided under this scheme?",
-                "answer": "The pension amount under the scheme is \u20b92,000 per month."
+                "answer": "The pension amount under the scheme is ₹2,000 per month."
             },
             {
                 "question": "What is the mode of disbursal for the sanctioned grant?",
@@ -88,5 +88,6 @@
             "Pension",
             "Senior Citizen"
         ]
-    }
+    },
+    "id": "001229"
 }

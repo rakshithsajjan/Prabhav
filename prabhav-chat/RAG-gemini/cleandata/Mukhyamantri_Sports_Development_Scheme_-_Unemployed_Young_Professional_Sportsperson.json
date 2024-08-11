@@ -5,9 +5,9 @@
         "department": "Directorate of Youth Affairs & Sports, Government of Tripura",
         "type": "Employment Scheme",
         "beneficiary": "Unemployed Young Professional Sportspersons",
-        "details": "Launched on 9th February 2024, the scheme aims to generate employment opportunities for young experienced professional sportspersons (Junior Coach) to give a monthly fixed remuneration of \u20b920,000/-. The contract is tenable for a maximum period of 12 months, it may be extended or curtailed.",
+        "details": "Launched on 9th February 2024, the scheme aims to generate employment opportunities for young experienced professional sportspersons (Junior Coach) to give a monthly fixed remuneration of ₹20,000/-. The contract is tenable for a maximum period of 12 months, it may be extended or curtailed.",
         "benefits": [
-            "Fixed Remuneration of \u20b920,000/- per month."
+            "Fixed Remuneration of ₹20,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a resident of Tripura.",
@@ -31,7 +31,7 @@
         "faqs": [
             {
                 "question": "What is the monthly remuneration for young professional sportspersons under the Mukhyamantri Sports Development Scheme-Unemployed Young Professional Sportsperson?",
-                "answer": "The monthly remuneration for young professional sportspersons under the Mukhyamantri Sports Development Scheme-Unemployed Young Professional Sportsperson is \u20b920,000."
+                "answer": "The monthly remuneration for young professional sportspersons under the Mukhyamantri Sports Development Scheme-Unemployed Young Professional Sportsperson is ₹20,000."
             },
             {
                 "question": "How many disciplines are included in the scheme?",
@@ -94,5 +94,6 @@
             "Youth",
             "Tripura"
         ]
-    }
+    },
+    "id": "001235"
 }

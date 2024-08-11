@@ -5,21 +5,21 @@
         "department": "Department of Micro, Small & Medium Enterprises",
         "type": "Loan",
         "beneficiary": "Citizens of Madhya Pradesh",
-        "details": "The scheme 'Mukhya Mantri Yuva Udyami Yojana' was launched on 1st August 2014 by the Department of Micro, Small & Medium Enterprises, Government of Madhya Pradesh. The scheme provides loans of up to \u20b910,00,000 to \u20b92,00,00,000 to the citizens of Madhya Pradesh who want to set up their industries.",
+        "details": "The scheme 'Mukhya Mantri Yuva Udyami Yojana' was launched on 1st August 2014 by the Department of Micro, Small & Medium Enterprises, Government of Madhya Pradesh. The scheme provides loans of up to ₹10,00,000 to ₹2,00,00,000 to the citizens of Madhya Pradesh who want to set up their industries.",
         "benefits": [
             "Financial assistance",
-            "Margin money assistance: 15% of the capital cost of the project for the general category (Maximum \u20b9 12,00,000), 20% for BPL (Maximum \u20b9 18,00,000)",
+            "Margin money assistance: 15% of the capital cost of the project for the general category (Maximum ₹ 12,00,000), 20% for BPL (Maximum ₹ 18,00,000)",
             "Interest subsidy: 5% per annum on the capital cost of the project for a maximum of 7 years (Maximum Rs 5,00,000 lakh per year), 6% for women entrepreneurs"
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Madhya Pradesh.",
             "The applicant should have passed Class 10th.",
-            "The applicant\u2019s age should be between 18 to 40 years.",
+            "The applicant’s age should be between 18 to 40 years.",
             "The benefit of this scheme can be availed only once."
         ],
         "exclusions": [
             "If the applicant is getting assistance under any other self-employment scheme, then he cannot avail of benefits under this scheme.",
-            "The applicant\u2019s family should not be an income taxpayer.",
+            "The applicant’s family should not be an income taxpayer.",
             "The applicant should not be a defaulter of any bank."
         ],
         "application_process": "Online and Offline. Visit the official website using the provided link and follow the steps for registration and application.",
@@ -34,7 +34,7 @@
         "faqs": [
             {
                 "question": "What is the Mukhya Mantri Yuva Udyami Yojana?",
-                "answer": "The scheme aims to provide benefits and financial assistance. The government of Madhya Pradesh gives loans up to \u20b910,00,000 to \u20b92,00,00,000 to citizens who want to set up their industries."
+                "answer": "The scheme aims to provide benefits and financial assistance. The government of Madhya Pradesh gives loans up to ₹10,00,000 to ₹2,00,00,000 to citizens who want to set up their industries."
             },
             {
                 "question": "Who is eligible for the scheme?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How much financial assistance is available under the scheme?",
-                "answer": "A maximum of \u20b910 lakhs will be provided as financial assistance to each successful applicant under the scheme."
+                "answer": "A maximum of ₹10 lakhs will be provided as financial assistance to each successful applicant under the scheme."
             },
             {
                 "question": "What is the minimum educational qualification required for the scheme?",
@@ -95,5 +95,6 @@
             "Loan",
             "MSME"
         ]
-    }
+    },
+    "id": "001182"
 }

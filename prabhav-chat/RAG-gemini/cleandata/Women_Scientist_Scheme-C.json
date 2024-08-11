@@ -7,9 +7,9 @@
         "beneficiary": "Women Scientists",
         "details": "A scheme by MoST for female candidates with a break in their career interested in addressing societal challenges through viable S&T interventions. 1-year training is provided in Intellectual Property Rights (IPRs), patent search, know-how, drafting, filing, trademarks, trade secrets, and copyright, in association with various Knowledge Partners (i.e. Law firms, Knowledge Processing Organizations (KPOs), Companies, Government agencies, and so on). The scheme is being implemented by the Patent Facilitating Centre of Technology Information Forecasting & Assessment Council (TIFAC). Minimum essential qualifications are Master of Science; Bachelors in Engineering/Technology or equivalent. Proficiency in handling computerized databases, collection, collation, analysis, and report preparation is desirable.",
         "benefits": [
-            "\u20b9 35,000/- per month for Ph.D. in Basic or Applied Sciences/MD or equivalent degree.",
-            "\u20b9 30,000/- per month for M.Phil / M.Tech / M.Pharm / M.VSc or equivalent degree.",
-            "\u20b9 25,000/- per month for M.Sc in Basic or Applied Sciences / MBBS / B.Tech or equivalent degree."
+            "₹ 35,000/- per month for Ph.D. in Basic or Applied Sciences/MD or equivalent degree.",
+            "₹ 30,000/- per month for M.Phil / M.Tech / M.Pharm / M.VSc or equivalent degree.",
+            "₹ 25,000/- per month for M.Sc in Basic or Applied Sciences / MBBS / B.Tech or equivalent degree."
         ],
         "eligibility": [
             "The applicant must be a female.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "Is there a subject wise distribution of seats?",
-                "answer": "Yes, the (tentative) subject-wise Number of Seats is provided: Chemistry & Chemical Sciences - 20, Drugs, Food & Pharma - 14, Life Sciences & Biotechnology - 15, Mechanical, Production, Industrial Engineering, Civil Engg, Structural Engg, Construction Engg, Transportation Engg, Materials Science Engg. - 10, Electrical, Electronics & Communication, Instrumentation & Biomedical Engineering - 28, Computers & Information & Communication Technology - 18, Other Areas (Only Science Related Subjects) \u2013 15."
+                "answer": "Yes, the (tentative) subject-wise Number of Seats is provided: Chemistry & Chemical Sciences - 20, Drugs, Food & Pharma - 14, Life Sciences & Biotechnology - 15, Mechanical, Production, Industrial Engineering, Civil Engg, Structural Engg, Construction Engg, Transportation Engg, Materials Science Engg. - 10, Electrical, Electronics & Communication, Instrumentation & Biomedical Engineering - 28, Computers & Information & Communication Technology - 18, Other Areas (Only Science Related Subjects) – 15."
             },
             {
                 "question": "What would be the mode of payment of the scholarship?",
@@ -73,5 +73,6 @@
             "Training",
             "Scholarship"
         ]
-    }
+    },
+    "id": "002064"
 }

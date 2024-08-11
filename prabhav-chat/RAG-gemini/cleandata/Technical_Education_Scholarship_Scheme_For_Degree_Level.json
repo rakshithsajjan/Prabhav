@@ -7,14 +7,14 @@
         "beneficiary": "Students pursuing P.G. Courses/Degree Level Courses in Engineering/Technology",
         "details": "The scheme 'Technical Education Scholarship Scheme For Degree Level' was started by the Department of Technical Education, Himachal Pradesh. Under the scheme, the scholarships will be awarded to the P.G. Courses/Degree Level Courses in Engineering/Technology including Architecture or any other equivalent course approved by the All India Council for Technical Education (AICTE). The total number of Scholarships for P.G. and degree-level Courses will be 175 Number.",
         "benefits": [
-            "The value of the scholarship for General Category students shall be \u20b9300/- per month.",
-            "The value of the scholarship for SC/ST students shall be \u20b9500/- per month.",
+            "The value of the scholarship for General Category students shall be ₹300/- per month.",
+            "The value of the scholarship for SC/ST students shall be ₹500/- per month.",
             "100% Scholarships shall be awarded to the SC and ST Students in P.G./Degree Courses."
         ],
         "eligibility": [
             "Only those students shall be eligible for the award of scholarships who are Bonafide Himachali and ward of Himachal Pradesh Government employees.",
             "The Scholarships will be awarded to those students who are pursuing the P.G. Courses /Degree level Courses in Engineering /Technology including Architecture or any other equivalent course approved by the All India Council for Technical Education (AICTE).",
-            "The Scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than \u20b936000/- per annum."
+            "The Scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than ₹36000/- per annum."
         ],
         "exclusions": [
             "Students getting scholarships from other sources or under some other scheme shall not be eligible for a grant of the same under these rules."
@@ -50,11 +50,11 @@
             },
             {
                 "question": "What is the income criterion for applying under the scheme?",
-                "answer": "The scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than \u20b936000/- per annum."
+                "answer": "The scholarship shall be awarded only if the total income of parents or guardians from all the sources is not more than ₹36000/- per annum."
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The value of the scholarship for General Category students shall be \u20b9300/- per month and for SC/ST students shall be \u20b9500/- per month."
+                "answer": "The value of the scholarship for General Category students shall be ₹300/- per month and for SC/ST students shall be ₹500/- per month."
             },
             {
                 "question": "How many students will receive the scholarship under the scheme?",
@@ -99,5 +99,6 @@
             "Engineering",
             "Technology"
         ]
-    }
+    },
+    "id": "001925"
 }

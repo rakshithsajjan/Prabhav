@@ -7,8 +7,8 @@
         "beneficiary": "Toilet Assistance",
         "details": "The Shauchalaya Sahayata Yojana is a scheme by the government of Uttar Pradesh, India, to provide financial assistance to registered construction workers to build toilets in their homes. The scheme was launched in 2017 as part of the Swachh Bharat Mission, a national campaign to eradicate open defecation in India. As part of the Swachh Bharat Mission, aiming to make both rural and urban areas of the state open defecation free is a commendable yet challenging task. This is particularly true for construction workers, who often come from underprivileged backgrounds and lack the financial resources to build toilets at home. The Shauchalaya Sahayata Yojana addresses this issue by providing financial assistance to registered construction workers engaged in building and related activities. This support empowers them to construct toilets in their homes, contributing to the state's goal of eradicating open defecation.",
         "benefits": [
-            "The scheme provides a grant of \u20b912,000/- to eligible construction workers.",
-            "The money is paid in two installments: \u20b96,000/- before the toilet is built and \u20b96,000/- after the toilet is built and is in use."
+            "The scheme provides a grant of ₹12,000/- to eligible construction workers.",
+            "The money is paid in two installments: ₹6,000/- before the toilet is built and ₹6,000/- after the toilet is built and is in use."
         ],
         "eligibility": [
             "Applicant must be registered with Uttar Pradesh Building and Other Construction Workers Welfare Board.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "How much financial assistance will be provided?",
-                "answer": "Total amount of \u20b912,000/- will be provided."
+                "answer": "Total amount of ₹12,000/- will be provided."
             },
             {
                 "question": "Who will get the scheme benefits?",
@@ -80,5 +80,6 @@
             "Construction Workers",
             "Uttar Pradesh"
         ]
-    }
+    },
+    "id": "001777"
 }

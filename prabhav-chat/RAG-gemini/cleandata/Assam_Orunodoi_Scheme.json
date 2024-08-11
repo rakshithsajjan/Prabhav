@@ -5,7 +5,7 @@
         "department": "Government of Assam",
         "type": "Financial Assistance",
         "beneficiary": "Women",
-        "details": "\u2018Orunodoi\u2019 or Arunodoi Scheme is a new scheme of the Government of Assam launched on 2nd October 2020. Under \u2018Orunodoi\u2019, monetary benefits have been envisaged for more than 24 lac poor households in the state. The schematic benefit has been enhanced from 830/- to Rs. 1000/-. Women will receive the amount on the first day of every month, starting from October 2020. Women being the primary caretakers of the family are kept as beneficiaries of the scheme. \u2018Orunodoi\u2019 scheme will provide Financial Assistance of Rs. 1000 per month through Direct Benefit Transfer (DBT) scheme to around 19.10 Lakh Families in the state.",
+        "details": "‘Orunodoi’ or Arunodoi Scheme is a new scheme of the Government of Assam launched on 2nd October 2020. Under ‘Orunodoi’, monetary benefits have been envisaged for more than 24 lac poor households in the state. The schematic benefit has been enhanced from 830/- to Rs. 1000/-. Women will receive the amount on the first day of every month, starting from October 2020. Women being the primary caretakers of the family are kept as beneficiaries of the scheme. ‘Orunodoi’ scheme will provide Financial Assistance of Rs. 1000 per month through Direct Benefit Transfer (DBT) scheme to around 19.10 Lakh Families in the state.",
         "benefits": [
             "The Assam govt. runs this Scheme for those women who belong to the low-income groups of society to support them financially.",
             "Orunodoi Scheme is also known as Arunodoi Scheme, in which the government makes this plan of action especially to support household women and having low income, so the government provides those families 'Substantial Earnings Assistance'.",
@@ -112,5 +112,6 @@
                 "url": "https://govtschemes.in/sites/default/files/2022-08/Assam%20Orunodoi%20Scheme%20Application%20Form.pdf"
             }
         ]
-    }
+    },
+    "id": "000105"
 }

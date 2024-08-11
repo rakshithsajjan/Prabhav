@@ -5,11 +5,11 @@
         "department": "Ministry Of Railways",
         "type": "Scholarship",
         "beneficiary": "Dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer)",
-        "details": "Prime Minister\u2019s Scholarship Scheme (PMSS) for Railway Protection Force (RPF) was announced by the Hon\u2019ble Prime Minister of India in his address to the nation from the historical Red Ford on 15th August 2005. Prime Minister\u2019s Scholarship Scheme for RPF was introduced in the Academic year 2008-09. It was introduced to encourage higher technical and professional education for the dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer).",
+        "details": "Prime Minister’s Scholarship Scheme (PMSS) for Railway Protection Force (RPF) was announced by the Hon’ble Prime Minister of India in his address to the nation from the historical Red Ford on 15th August 2005. Prime Minister’s Scholarship Scheme for RPF was introduced in the Academic year 2008-09. It was introduced to encourage higher technical and professional education for the dependent wards of Ex/Serving RPF/RPSF personnel and widows (below the Rank of Gazetted officer).",
         "benefits": [
-            "\u20b92500/- per month for male students",
-            "\u20b93000/- per month for female students",
-            "Letter from Hon\u2019ble Prime Minister for selected applicants",
+            "₹2500/- per month for male students",
+            "₹3000/- per month for female students",
+            "Letter from Hon’ble Prime Minister for selected applicants",
             "Duration of the Scholarship: Two to five years as per the duration of the course"
         ],
         "eligibility": [
@@ -43,7 +43,7 @@
             },
             {
                 "question": "When did this scheme launch?",
-                "answer": "The scheme was announced by the Hon\u2019ble Prime Minister of India on 15th August 2005 and introduced in the Academic year 2008-09."
+                "answer": "The scheme was announced by the Hon’ble Prime Minister of India on 15th August 2005 and introduced in the Academic year 2008-09."
             },
             {
                 "question": "Who is eligible to get the benefit of the scheme?",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The amount of the scholarship would be as follows: (i) \u20b92500/- per month for male students (ii) \u20b93000/- per month for female students."
+                "answer": "The amount of the scholarship would be as follows: (i) ₹2500/- per month for male students (ii) ₹3000/- per month for female students."
             },
             {
                 "question": "How many students will receive the scholarship under the scheme?",
@@ -96,5 +96,6 @@
                 "url": "https://rpf.indianrailways.gov.in/RPF/uploads/directcontent/1684923917010-Imp38.pdf"
             }
         ]
-    }
+    },
+    "id": "001524"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Unorganized Workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Asangathit Karmakar Gambhir Bimari Chikitsa Sahayata Yojana' for unorganized worker on 28 April 2012. Under this scheme, financial assistance will be provided for the medical treatment of serious illness like treatment of kidney, cancer, sickle cell anemia, heart disease, AIDS and paralysis.",
         "benefits": [
-            "Unorganized workers can receive up to \u20b9 50,000 in medical assistance to help cover the cost of treating kidney, cancer, sickle cell anemia, heart disease, AIDS, and paralysis.",
-            "If the actual cost of treatment is less than \u20b9 50,000, they will only receive the actual cost of treatment."
+            "Unorganized workers can receive up to ₹ 50,000 in medical assistance to help cover the cost of treating kidney, cancer, sickle cell anemia, heart disease, AIDS, and paralysis.",
+            "If the actual cost of treatment is less than ₹ 50,000, they will only receive the actual cost of treatment."
         ],
         "eligibility": [
             "The applicant must be registered with the State Board for at least 90 days.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "Unorganized workers can receive up to \u20b9 50,000 in medical assistance. If the actual cost of treatment is less than \u20b9 50,000, they will only receive the actual cost of treatment."
+                "answer": "Unorganized workers can receive up to ₹ 50,000 in medical assistance. If the actual cost of treatment is less than ₹ 50,000, they will only receive the actual cost of treatment."
             },
             {
                 "question": "Who can get the benefits?",
@@ -82,5 +82,6 @@
             "Medical Treatment",
             "Serious Illness"
         ]
-    }
+    },
+    "id": "000099"
 }

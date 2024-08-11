@@ -5,9 +5,9 @@
         "department": "Directorate of Social Welfare and Social Education",
         "type": "Financial Assistance",
         "beneficiary": "Pregnant Women",
-        "details": "The scheme 'Mukhyamantri Matrupushti Uphar' was launched by the Directorate of Social Welfare and Social Education, Government of Tripura, to provide financial assistance of \u20b9500/- to pregnant women through Direct Benefit Transfer (DBT) for antenatal checkups at any health facility.",
+        "details": "The scheme 'Mukhyamantri Matrupushti Uphar' was launched by the Directorate of Social Welfare and Social Education, Government of Tripura, to provide financial assistance of ₹500/- to pregnant women through Direct Benefit Transfer (DBT) for antenatal checkups at any health facility.",
         "benefits": [
-            "\u20b9500/- is transferred into the bank account through DBT, after each antenatal check-up, up to four times."
+            "₹500/- is transferred into the bank account through DBT, after each antenatal check-up, up to four times."
         ],
         "eligibility": [
             "The applicant should be a pregnant woman.",
@@ -23,10 +23,10 @@
         "faqs": [
             {
                 "question": "What is the purpose of the 'Mukhyamantri Matrupushti Uphar' scheme?",
-                "answer": "\u20b9500/- is provided to pregnant women for antenatal check-ups through DBT."
+                "answer": "₹500/- is provided to pregnant women for antenatal check-ups through DBT."
             },
             {
-                "question": "How many times can a pregnant woman receive \u20b9500/- under this scheme?",
+                "question": "How many times can a pregnant woman receive ₹500/- under this scheme?",
                 "answer": "A maximum of four times after each antenatal check-up."
             },
             {
@@ -43,7 +43,7 @@
             },
             {
                 "question": "How is the financial assistance transferred to beneficiaries?",
-                "answer": "\u20b9500/- is transferred through DBT to the bank account after each antenatal check-up."
+                "answer": "₹500/- is transferred through DBT to the bank account after each antenatal check-up."
             },
             {
                 "question": "Can the applicant apply directly to the health facility for enrollment?",
@@ -82,5 +82,6 @@
             "Pregnant",
             "Women"
         ]
-    }
+    },
+    "id": "001214"
 }

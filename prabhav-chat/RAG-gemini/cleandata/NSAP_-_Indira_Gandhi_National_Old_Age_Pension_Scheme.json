@@ -5,10 +5,10 @@
         "department": "Ministry Of Rural Development",
         "type": "Pension",
         "beneficiary": "Senior Citizen",
-        "details": "The scheme 'Indira Gandhi National Old Age Pension Scheme (IGNOAPS)' is one of the five sub-schemes of the National Social Assistance Programme (NSAP). Under IGNOAPS, citizens living Below Poverty Line and 60 years or above in age are eligible to apply. A monthly pension of \u20b9 200 up to 79 years and \u20b9 500 thereafter. The Government of India, on 15th August 1995, introduced the National Social Assistance Programme (NSAP) as a fully funded Centrally Sponsored Scheme targeting the destitute, defined as any person who has little or no regular means of subsistence from his / her own source of income or through financial support from family members or other sources, to be identified by the States and UTs, with the objective of providing a basic level of financial aid. NSAP is being administered by the Ministry of Rural Development. This program is being implemented in rural areas as well as urban areas.",
+        "details": "The scheme 'Indira Gandhi National Old Age Pension Scheme (IGNOAPS)' is one of the five sub-schemes of the National Social Assistance Programme (NSAP). Under IGNOAPS, citizens living Below Poverty Line and 60 years or above in age are eligible to apply. A monthly pension of ₹ 200 up to 79 years and ₹ 500 thereafter. The Government of India, on 15th August 1995, introduced the National Social Assistance Programme (NSAP) as a fully funded Centrally Sponsored Scheme targeting the destitute, defined as any person who has little or no regular means of subsistence from his / her own source of income or through financial support from family members or other sources, to be identified by the States and UTs, with the objective of providing a basic level of financial aid. NSAP is being administered by the Ministry of Rural Development. This program is being implemented in rural areas as well as urban areas.",
         "benefits": [
-            "Monthly pension of \u20b9 200 up to 79 years",
-            "Monthly pension of \u20b9 500 for 80 years and above"
+            "Monthly pension of ₹ 200 up to 79 years",
+            "Monthly pension of ₹ 500 for 80 years and above"
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
@@ -69,5 +69,6 @@
             "Senior Citizen",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001261"
 }

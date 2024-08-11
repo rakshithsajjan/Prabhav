@@ -7,7 +7,7 @@
         "beneficiary": "Student",
         "details": "The Student Internship Program, a unique learning opportunity aims to provide the Interns exposure to the functioning of the CAG of India. The office of the Comptroller and Auditor General of India (CAG) invites applications for engaging Student Interns (SIs) on contract basis for a duration of 3 to 6 months to work in the Regional Capacity Building and Knowledge Institutes. Candidates pursuing under graduation/ post-graduation / research in any discipline from recognized, reputed institutions, with stellar academic record are eligible to apply. Preferred attributes include skills in Information Technology (IT) & Information Communication Technology (ICT) with good communication and interpersonal skills. The Student Intern (SI) shall be subject to the laws of secrecy of the country and will sign a Secrecy and Non-Disclosure Agreement before reporting for the internship. Interns will have to present to the concerned Head of the Functional Wing/Head of the Field office a Report/Paper on the assigned subject at the end of the internship. The Head of the Functional Wing at CAG office/Head of Field Office will review the progress of the projects on a regular basis. At the end of the internship, an Experience Certificate / Recommendatory letter shall be given.",
         "benefits": [
-            "Token remuneration is \u20b912,000/-(all inclusive) per month, per intern which will be paid on satisfactory completion of their internship and on submission of their Report/Paper.",
+            "Token remuneration is ₹12,000/-(all inclusive) per month, per intern which will be paid on satisfactory completion of their internship and on submission of their Report/Paper.",
             "Interns will be provided with the necessary logistics support, i.e. office space and computer with internet facility.",
             "At the end of the internship, an Experience Certificate / Recommendatory letter shall be given."
         ],
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What Is The Remuneration For Student Interns?",
-                "answer": "Student interns will receive a token remuneration of \u20b910,000 (all inclusive) per month, payable upon satisfactory completion of their internship and submission of their report/paper."
+                "answer": "Student interns will receive a token remuneration of ₹10,000 (all inclusive) per month, payable upon satisfactory completion of their internship and submission of their report/paper."
             },
             {
                 "question": "When Will The Payment Be Released To The Student Interns?",
@@ -106,5 +106,6 @@
             "Information Technology",
             "CAG"
         ]
-    }
+    },
+    "id": "001863"
 }

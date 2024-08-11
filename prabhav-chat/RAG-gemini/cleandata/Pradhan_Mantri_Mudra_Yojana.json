@@ -25,11 +25,11 @@
         "exclusions": [],
         "application_process": "The application process includes prerequisites such as ID Proof, Address Proof, Passport size photograph, Applicant Signature, and Proof of Identity/Address of Business Enterprises. Applicants must fill in personal and professional details, select the category of loan required, and attach all required documents.",
         "documents_required": [
-            "Proof of Identity \u2013 Self-attested copy of Voter\u2019s ID Card / Driving Licence / PAN Card / Aadhaar Card / Passport",
+            "Proof of Identity – Self-attested copy of Voter’s ID Card / Driving Licence / PAN Card / Aadhaar Card / Passport",
             "Proof of Residence: Recent telephone bill / electricity bill / property tax receipt (not older than 2 months)",
-            "Applicant\u2019s recent coloured Photograph (2 copies) not older than 6 months",
+            "Applicant’s recent coloured Photograph (2 copies) not older than 6 months",
             "Quotation of Machinery / other items to be purchased",
-            "Proof of Identity / Address of the Business Enterprise \u2013 Copies of relevant Licences / Registration Certificates"
+            "Proof of Identity / Address of the Business Enterprise – Copies of relevant Licences / Registration Certificates"
         ],
         "faqs": [
             {
@@ -65,5 +65,6 @@
             "Government Scheme",
             "Entrepreneurship"
         ]
-    }
+    },
+    "id": "001498"
 }

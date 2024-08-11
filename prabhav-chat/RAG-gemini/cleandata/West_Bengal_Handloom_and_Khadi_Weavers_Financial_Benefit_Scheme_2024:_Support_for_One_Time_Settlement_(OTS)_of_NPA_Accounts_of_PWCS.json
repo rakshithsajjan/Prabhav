@@ -11,7 +11,7 @@
             "25% overdue interest amount clearance"
         ],
         "eligibility": [
-            "Registered Primary Weavers\u2019 Cooperative Societies (PWCS)",
+            "Registered Primary Weavers’ Cooperative Societies (PWCS)",
             "Viable and potentially viable PWCS"
         ],
         "exclusions": [],
@@ -20,7 +20,7 @@
         "faqs": [
             {
                 "question": "What is the definition of 'PWCS'?",
-                "answer": "'PWCS' means the Primary Weavers\u2019 Cooperative Societies registered under the West Bengal Cooperative Societies Act."
+                "answer": "'PWCS' means the Primary Weavers’ Cooperative Societies registered under the West Bengal Cooperative Societies Act."
             },
             {
                 "question": "What is the extent of financial support provided by the State Government?",
@@ -92,5 +92,6 @@
             "West Bengal",
             "NPA Accounts"
         ]
-    }
+    },
+    "id": "002038"
 }

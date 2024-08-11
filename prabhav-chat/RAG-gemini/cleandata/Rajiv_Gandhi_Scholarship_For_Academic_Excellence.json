@@ -5,13 +5,13 @@
         "department": "Ministry of Electronics and Information Technology",
         "type": "Financial Assistance",
         "beneficiary": "Meritorious students of Rajasthan",
-        "details": "Hon\u2019ble Chief Minister of Rajasthan Sh. Ashok Gehlot announced this scheme on 20th August 2021 in commemoration of late Shri Rajiv Gandhi, former Prime Minister of India. In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world.",
+        "details": "Hon’ble Chief Minister of Rajasthan Sh. Ashok Gehlot announced this scheme on 20th August 2021 in commemoration of late Shri Rajiv Gandhi, former Prime Minister of India. In order to provide financial assistance to meritorious students of Rajasthan to study in top foreign universities of the world.",
         "benefits": [
             "Tuition Fees and Bench fee: Max 50 lakh for family gross annual income less than 8 Lakh",
             "Living Expenses: 12 Lakh Rupees for family gross annual income less than 8 Lakh",
             "One-time advance of Rs 3 Lakh to candidates who will start their course after application on the portal",
-            "Tuition Fees and Bench fee: Max 50 lakh for family gross annual income 8 \u2013 25 Lakh",
-            "Living Expenses: 6 Lakh Rupees for family gross annual income 8 \u2013 25 Lakh",
+            "Tuition Fees and Bench fee: Max 50 lakh for family gross annual income 8 – 25 Lakh",
+            "Living Expenses: 6 Lakh Rupees for family gross annual income 8 – 25 Lakh",
             "Tuition Fees and Bench fee: Max 50 lakh for family gross annual income above 25 Lakh",
             "No Living Expenses for family gross annual income above 25 Lakh"
         ],
@@ -71,5 +71,6 @@
             "Student Finance",
             "Scholarship"
         ]
-    }
+    },
+    "id": "001565"
 }

@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The 'Financial Assistance for Miscarriage for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, the female member or wife of a male member of the fund may be given \u20b93,000/- as financial assistance in case of miscarriage. The said benefit shall be available for above beneficiaries from the date of their becoming members of the Fund.",
+        "details": "The 'Financial Assistance for Miscarriage for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, the female member or wife of a male member of the fund may be given ₹3,000/- as financial assistance in case of miscarriage. The said benefit shall be available for above beneficiaries from the date of their becoming members of the Fund.",
         "benefits": [
-            "An amount of \u20b93,000/- as financial assistance in case of miscarriage to the female member or wife of a male member of the fund."
+            "An amount of ₹3,000/- as financial assistance in case of miscarriage to the female member or wife of a male member of the fund."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -74,5 +74,6 @@
             "Miscarriage",
             "Women"
         ]
-    }
+    },
+    "id": "000567"
 }

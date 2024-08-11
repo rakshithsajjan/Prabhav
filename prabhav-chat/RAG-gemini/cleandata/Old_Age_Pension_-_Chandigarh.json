@@ -7,10 +7,10 @@
         "beneficiary": "Elderly citizens",
         "details": "The Old Age Pension Scheme under The Social Welfare, Women & Child Development Department of Chandigarh Government provides essential financial support to elderly citizens who have reached a certain age and may face economic challenges. Through this scheme, eligible senior citizens receive a monthly pension to help them meet their basic needs, including food, shelter, and healthcare expenses. By offering this assistance, the scheme plays a crucial role in ensuring the well-being and dignity of older individuals, particularly those who may lack adequate financial resources. Moreover, the scheme contributes to addressing issues of poverty and social exclusion among the elderly population, fostering a more inclusive and supportive society.",
         "benefits": [
-            "Pension Amount- \u20b91000/- per month."
+            "Pension Amount- ₹1000/- per month."
         ],
         "eligibility": [
-            "The applicant's family's annual income should not exceed \u20b91,50,000/-",
+            "The applicant's family's annual income should not exceed ₹1,50,000/-",
             "The applicant resident should be at UT, Chandigarh for more than 3 years.",
             "The applicant's age should be 60 years and above."
         ],
@@ -33,7 +33,7 @@
             },
             {
                 "question": "How much amount can be given as an old age pension?",
-                "answer": "\u20b91000/- p.m"
+                "answer": "₹1000/- p.m"
             },
             {
                 "question": "Is There An Income-Related Criterion For This Scheme?",
@@ -75,5 +75,6 @@
             "Financial Assistance",
             "Pension"
         ]
-    }
+    },
+    "id": "001378"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Small and marginal farmers aged 60 and above",
         "details": "The Rajasthan government has introduced the 'Suraksha Laghu Evam Simaant Vriddhajan Krishak Samman Pension Yojana' to uplift the lives of small and marginal farmers in the state. This initiative recognizes the significant contributions of these farmers to the agricultural sector and aims to provide them with much-needed social security during their golden years. By offering a monthly pension to eligible farmers aged 60 and above, the scheme seeks to alleviate financial worries and ensure a degree of economic independence for these individuals. This program serves as a critical step towards improving the overall well-being of small and marginal farmers in Rajasthan, acknowledging their hard work and dedication to food production.",
         "benefits": [
-            "To a pensioner below 75 years of age: \u20b9750/- per month",
-            "To pensioners aged 75 years and above: \u20b91,000/- per month"
+            "To a pensioner below 75 years of age: ₹750/- per month",
+            "To pensioners aged 75 years and above: ₹1,000/- per month"
         ],
         "eligibility": [
             "The applicant should be a native of Rajasthan State.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "How much pension amount is given under Vridhjan Krishak Samman Pension Yojana?",
-                "answer": "To a pensioner below 75 years of age: \u20b9750/- per month; To pensioners aged 75 years and above: \u20b91,000/- per month."
+                "answer": "To a pensioner below 75 years of age: ₹750/- per month; To pensioners aged 75 years and above: ₹1,000/- per month."
             },
             {
                 "question": "What is the application process for Rajasthan Vridhjan Krishak Samman Pension Yojana?",
@@ -73,5 +73,6 @@
             "Pension",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001896"
 }

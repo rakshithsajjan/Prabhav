@@ -7,7 +7,7 @@
         "beneficiary": "Registered mechanized boat operators",
         "details": "The scheme 'Annual Insurance Premium for Boat Owners' is a Sub-Component under the Umbrella Scheme 'Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries' by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme is introduced with the objective to increase marine fish production by extending subsidies for the procurement of annual premiums for insurance coverage paid by the registered mechanized boat operators.",
         "benefits": [
-            "50% subsidy subject to a maximum of \u20b9 20,000 per boat on annual insurance premium.",
+            "50% subsidy subject to a maximum of ₹ 20,000 per boat on annual insurance premium.",
             "The rate of subsidy/maximum limit may be revised by the Government from time to time."
         ],
         "eligibility": [
@@ -69,15 +69,15 @@
             },
             {
                 "question": "What is the maximum annual subsidy provided for boat insurance, and how is it determined?",
-                "answer": "The maximum annual subsidy is 50% of the insurance premium, capped at \u20b920,000 per boat. The Government may revise the subsidy rate or limit periodically."
+                "answer": "The maximum annual subsidy is 50% of the insurance premium, capped at ₹20,000 per boat. The Government may revise the subsidy rate or limit periodically."
             },
             {
                 "question": "How does the Government determine the rate of subsidy for boat insurance, and is there a possibility of changes over time?",
                 "answer": "The Government periodically reviews and may revise the rate of subsidy, considering factors affecting the insurance premium and overall scheme dynamics."
             },
             {
-                "question": "Is the maximum limit of \u20b920,000 for annual insurance subsidy subject to change, and how is it determined?",
-                "answer": "The maximum limit of \u20b920,000 per boat for the annual insurance subsidy is subject to potential revisions by the Government based on policy evaluations."
+                "question": "Is the maximum limit of ₹20,000 for annual insurance subsidy subject to change, and how is it determined?",
+                "answer": "The maximum limit of ₹20,000 per boat for the annual insurance subsidy is subject to potential revisions by the Government based on policy evaluations."
             },
             {
                 "question": "What factors contribute to the Government's decision to revise the rate of subsidy for boat insurance?",
@@ -113,5 +113,6 @@
             "Insurance",
             "Marine"
         ]
-    }
+    },
+    "id": "000088"
 }

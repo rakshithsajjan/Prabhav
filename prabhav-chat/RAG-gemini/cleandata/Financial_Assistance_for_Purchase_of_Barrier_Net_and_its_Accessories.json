@@ -7,8 +7,8 @@
         "beneficiary": "Fishermen",
         "details": "Financial Assistance for Purchase of Barrier Net and its Accessories is a scheme by the Department of Fisheries, Government of Goa. Barrier net is a traditional method of catching fish practiced by the fishermen residing near the bank of the river. Under this Scheme financial assistance is provided in the form of a subsidy on the purchase of barrier nets and accessories for the fishermen. The applications are accepted only in offline mode.",
         "benefits": [
-            "For General Category: Subsidy of 50%, limited to \u20b930,000 on a unit cost of \u20b960,000 (excluding GST).",
-            "For SC/ST/Woman Category: Subsidy of 60%, limited to \u20b936,000 on a unit cost of \u20b960,000 (excluding GST).",
+            "For General Category: Subsidy of 50%, limited to ₹30,000 on a unit cost of ₹60,000 (excluding GST).",
+            "For SC/ST/Woman Category: Subsidy of 60%, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST).",
             "The beneficiary can avail of the scheme every 4 years."
         ],
         "eligibility": [
@@ -17,7 +17,7 @@
             "The applicant should have purchased a Barrier Net and its Accessories."
         ],
         "exclusions": [],
-        "application_process": "The interested applicant should request the prescribed format of the application form from the department by paying \u20b950. In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
+        "application_process": "The interested applicant should request the prescribed format of the application form from the department by paying ₹50. In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/ Sub-Offices of the Department of Fisheries.",
         "documents_required": [
             "Original Invoice from authorized dealers for the purchase of Barrier Net and its Accessories.",
             "Barrier Net Registration Certificate and License Certificate issued by the Department of Fisheries.",
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "Can you specify the subsidy percentage and limit for the General Category under this scheme?",
-                "answer": "General Category receives a 50% subsidy, limited to \u20b930,000 on a unit cost of \u20b960,000 (excluding GST)."
+                "answer": "General Category receives a 50% subsidy, limited to ₹30,000 on a unit cost of ₹60,000 (excluding GST)."
             },
             {
                 "question": "How often can a beneficiary avail of the scheme?",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "How does the application process work, and what is the prescribed fee for the application form?",
-                "answer": "The applicant should request the form by paying \u20b950, fill it with mandatory details, and submit it with necessary documents to the Department of Fisheries."
+                "answer": "The applicant should request the form by paying ₹50, fill it with mandatory details, and submit it with necessary documents to the Department of Fisheries."
             },
             {
                 "question": "Where should the application form be submitted, and what is the address of the Department of Fisheries?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the subsidy percentage for the SC/ST/Woman Category, and what is the limit?",
-                "answer": "SC/ST/Woman Category receives a 60% subsidy, limited to \u20b936,000 on a unit cost of \u20b960,000 (excluding GST)."
+                "answer": "SC/ST/Woman Category receives a 60% subsidy, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST)."
             },
             {
                 "question": "Are there specific criteria for Persons with Disabilities (PwDs) applying for the scheme?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "How can interested applicants obtain the application form?",
-                "answer": "Interested applicants can obtain the prescribed application form by paying \u20b950 to the department."
+                "answer": "Interested applicants can obtain the prescribed application form by paying ₹50 to the department."
             },
             {
                 "question": "Is there any flexibility in the application mode, or is it strictly offline?",
@@ -87,5 +87,6 @@
             "Subsidy",
             "Goa"
         ]
-    }
+    },
+    "id": "000569"
 }

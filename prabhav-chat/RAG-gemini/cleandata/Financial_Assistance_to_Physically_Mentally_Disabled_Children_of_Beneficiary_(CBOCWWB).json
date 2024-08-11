@@ -7,7 +7,7 @@
         "beneficiary": "Registered construction workers with children having a disability of 40% or more",
         "details": "The scheme 'Financial Assistance to Physically/Mentally Disabled Children of Beneficiary' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, registered construction workers whose child has a disability of 40% or more will receive financial assistance.",
         "benefits": [
-            "Financial assistance of \u20b91000/- per month for each child with a disability of 40% or more.",
+            "Financial assistance of ₹1000/- per month for each child with a disability of 40% or more.",
             "The benefit is admissible only till such time the child is alive.",
             "The benefit is given for a maximum of two children."
         ],
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Under the scheme, eligible workers will receive a financial assistance of \u20b91000/- per month for each child with a disability of 40% or more."
+                "answer": "Under the scheme, eligible workers will receive a financial assistance of ₹1000/- per month for each child with a disability of 40% or more."
             },
             {
                 "question": "How long will the financial assistance be provided?",
@@ -91,5 +91,6 @@
             "Physically Disabled Child",
             "PwD"
         ]
-    }
+    },
+    "id": "000601"
 }

@@ -7,9 +7,9 @@
         "beneficiary": "Wards of Construction Workers",
         "details": "The 'Cash Benefit Scheme' is a Welfare Scheme by the Puducherry Building and Other Construction Workers Welfare Board, Labour Department, Union Territory of Puducherry. The objective of this scheme is to provide educational financial assistance to the wards of construction workers who have secured the top three ranks at the State Level and Regional Level in the Higher Secondary course or its equivalent examinations. The amount is credited through Direct Benefit Transfer (DBT) into the bank account of the nominee/ dependent. The applications are accepted offline.",
         "benefits": [
-            "State-Level Cash Benefit (Onetime Payment): First Prize: \u20b91,00,000, Second Prize: \u20b980,000, Third Prize: \u20b960,000.",
-            "Region Wise Cash Benefit (Onetime Payment): First Prize: \u20b960,000, Second Prize: \u20b940,000, Third Prize: \u20b920,000.",
-            "Annual Educational Assistance: Degree Courses: \u20b92,000, Post Graduate Courses: \u20b94,000, Diploma courses: \u20b92,000, Postgraduate Diploma: \u20b93,000.",
+            "State-Level Cash Benefit (Onetime Payment): First Prize: ₹1,00,000, Second Prize: ₹80,000, Third Prize: ₹60,000.",
+            "Region Wise Cash Benefit (Onetime Payment): First Prize: ₹60,000, Second Prize: ₹40,000, Third Prize: ₹20,000.",
+            "Annual Educational Assistance: Degree Courses: ₹2,000, Post Graduate Courses: ₹4,000, Diploma courses: ₹2,000, Postgraduate Diploma: ₹3,000.",
             "Mode of Disbursal: Direct Benefit Transfer (DBT) into the bank account."
         ],
         "eligibility": [
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What are the different categories and amounts of Annual Educational Assistance provided by the scheme?",
-                "answer": "Degree Courses: \u20b92,000, Post Graduate Courses: \u20b94,000, Diploma courses: \u20b92,000, Postgraduate Diploma: \u20b93,000."
+                "answer": "Degree Courses: ₹2,000, Post Graduate Courses: ₹4,000, Diploma courses: ₹2,000, Postgraduate Diploma: ₹3,000."
             },
             {
                 "question": "How is the Annual Educational Assistance disbursed to the eligible candidates?",
@@ -50,11 +50,11 @@
             },
             {
                 "question": "What are the cash benefits for the Regional Level under the 'Cash Benefit Scheme'?",
-                "answer": "Regional Level Cash Benefits include: First Prize: \u20b960,000, Second Prize: \u20b940,000, Third Prize: \u20b920,000."
+                "answer": "Regional Level Cash Benefits include: First Prize: ₹60,000, Second Prize: ₹40,000, Third Prize: ₹20,000."
             },
             {
                 "question": "How are the cash benefits distributed for the State Level under the scheme?",
-                "answer": "State Level Cash Benefits include: First Prize: \u20b91,00,000, Second Prize: \u20b980,000, Third Prize: \u20b960,000."
+                "answer": "State Level Cash Benefits include: First Prize: ₹1,00,000, Second Prize: ₹80,000, Third Prize: ₹60,000."
             },
             {
                 "question": "Which government entity administers the 'Cash Benefit Scheme' in Puducherry?",
@@ -98,5 +98,6 @@
             "Education",
             "Construction Workers"
         ]
-    }
+    },
+    "id": "000252"
 }

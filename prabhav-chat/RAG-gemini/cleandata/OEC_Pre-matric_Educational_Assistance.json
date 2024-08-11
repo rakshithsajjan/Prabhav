@@ -5,21 +5,21 @@
         "department": "Backward Classes Development Department",
         "type": "Scholarship",
         "beneficiary": "Students belonging to Other Eligible Communities (OEC) & Other Equivalent Communities",
-        "details": "The Scheme \u201cOEC Pre-matric Educational Assistance\u201d was started by the Backward Classes Development Department, Government of Kerala. In the state, the most backward communities from among the Other Backward Communities are grouped as Other Eligible Communities (OEC). The scheme is intended to provide educational assistance to pre-matric students belonging to these communities who are studying in Government/Aided/Unaided schools from Classes 1st to 10th. This scheme is being fully implemented with the state fund.",
+        "details": "The Scheme “OEC Pre-matric Educational Assistance” was started by the Backward Classes Development Department, Government of Kerala. In the state, the most backward communities from among the Other Backward Communities are grouped as Other Eligible Communities (OEC). The scheme is intended to provide educational assistance to pre-matric students belonging to these communities who are studying in Government/Aided/Unaided schools from Classes 1st to 10th. This scheme is being fully implemented with the state fund.",
         "benefits": [
-            "\u20b9320/- for Classes I to IV",
-            "\u20b9630/- for Classes V to VII",
-            "\u20b9940/- for Classes VIII to X"
+            "₹320/- for Classes I to IV",
+            "₹630/- for Classes V to VII",
+            "₹940/- for Classes VIII to X"
         ],
         "eligibility": [
             "The students should belong to the Other Eligible Communities (OEC) & Other Equivalent Communities of Kerala State.",
             "The students should be studying in Government/Aided/Recognized Un-Aided/C.B.S.E/I.C.S.E Affiliated Schools and Kendriya Vidyalayas in Kerala state.",
             "The students must be studying in Class 1st to 10th.",
             "There is no annual family income limit for the students who belong to OEC Communities.",
-            "The annual family income should be \u20b96,00,000/- for the students who belong to Other Equivalent Communities."
+            "The annual family income should be ₹6,00,000/- for the students who belong to Other Equivalent Communities."
         ],
         "exclusions": [],
-        "application_process": "Online. The School authorities should make an online entry through the scholarship portal within the prescribed time. The concerned Educational Officer should do on-time verification of the details entered by the Un-aided/ Affiliated Institutions. The school authorities will apply online for the scheme and financial assistance reaches the eligible students\u2019 bank account through Direct Beneficiary Transfer (DBT).",
+        "application_process": "Online. The School authorities should make an online entry through the scholarship portal within the prescribed time. The concerned Educational Officer should do on-time verification of the details entered by the Un-aided/ Affiliated Institutions. The school authorities will apply online for the scheme and financial assistance reaches the eligible students’ bank account through Direct Beneficiary Transfer (DBT).",
         "documents_required": [
             "Identity proof of the student",
             "Copy of Aadhaar Card",
@@ -32,7 +32,7 @@
         ],
         "faqs": [
             {
-                "question": "What is \u201cOEC Pre-matric Educational Assistance\u201d?",
+                "question": "What is “OEC Pre-matric Educational Assistance”?",
                 "answer": "The scheme is intended to provide educational assistance to pre-matric students belonging to Other Eligible Communities (OEC) & Other Equivalent Communities who are studying in Government/Aided/Unaided schools from Classes 1st to 10th."
             },
             {
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under the scheme, the educational assistance of \u20b9320/-, \u20b9630/- & \u20b9940/- will be given to the students of Classes I to IV, V to VII & VIII to X respectively."
+                "answer": "Under the scheme, the educational assistance of ₹320/-, ₹630/- & ₹940/- will be given to the students of Classes I to IV, V to VII & VIII to X respectively."
             },
             {
                 "question": "Can a student be eligible for assistance who is studying in a private school?",
@@ -65,7 +65,7 @@
             },
             {
                 "question": "What is the criterion for annual family income of the students who belong to Other Equivalent Communities?",
-                "answer": "The annual family income should be \u20b96,00,000/- for the students who belong to Other Equivalent Communities."
+                "answer": "The annual family income should be ₹6,00,000/- for the students who belong to Other Equivalent Communities."
             },
             {
                 "question": "How can a student apply under the scheme?",
@@ -73,7 +73,7 @@
             },
             {
                 "question": "How will the students receive the financial assistance?",
-                "answer": "The financial assistance reaches the eligible students\u2019 bank accounts through Direct Beneficiary Transfer (DBT)."
+                "answer": "The financial assistance reaches the eligible students’ bank accounts through Direct Beneficiary Transfer (DBT)."
             }
         ],
         "sources": [
@@ -104,5 +104,6 @@
             "Scholarship",
             "Kerala"
         ]
-    }
+    },
+    "id": "001368"
 }

@@ -5,16 +5,16 @@
         "department": "Leather Industries Development Corporation (LIDCOM)",
         "type": "Subsidy",
         "beneficiary": "Scheduled Caste (Charmakar Community)",
-        "details": "Being implemented particularly for the (Scheduled Caste) Charmakar Community, the '50% Subsidy Scheme' is a scheme by the Leather Industries Development Corporation (LIDCOM), Govt. of Maharashtra. In this scheme, 50% amount is being given as a subsidy on a maximum loan amount of \u20b950,000/-. The subsidy is subject to the maximum limit of \u20b910,000/-. The bank charge of interest is as per the existing rate. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is completely funded by the Govt. of Maharashtra. The main objective of LIDCOM is to implement various schemes to uplift the lifestyle of Charmakars (Dhor, Chambhar, Holar, Mochi, etc.) who are economically weak and below the poverty line and with an intention to develop them educationally, economically, and socially so as to give them a respectable place in society.",
+        "details": "Being implemented particularly for the (Scheduled Caste) Charmakar Community, the '50% Subsidy Scheme' is a scheme by the Leather Industries Development Corporation (LIDCOM), Govt. of Maharashtra. In this scheme, 50% amount is being given as a subsidy on a maximum loan amount of ₹50,000/-. The subsidy is subject to the maximum limit of ₹10,000/-. The bank charge of interest is as per the existing rate. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is completely funded by the Govt. of Maharashtra. The main objective of LIDCOM is to implement various schemes to uplift the lifestyle of Charmakars (Dhor, Chambhar, Holar, Mochi, etc.) who are economically weak and below the poverty line and with an intention to develop them educationally, economically, and socially so as to give them a respectable place in society.",
         "benefits": [
-            "For a maximum loan amount of upto \u20b950,000/-, 50% of the amount is given as a subsidy subject to the maximum limit of \u20b910,000/-."
+            "For a maximum loan amount of upto ₹50,000/-, 50% of the amount is given as a subsidy subject to the maximum limit of ₹10,000/-."
         ],
         "eligibility": [
             "The applicant should be a citizen of India.",
             "The applicant should be a permanent resident of Maharashtra State.",
             "The applicant should be in the 18 to 50 years age group.",
             "The applicant should be from Charmakar Community only (Dhor, Chambhar, Holar, Mochi, etc.).",
-            "The annual income of the family of the applicant should be less than or equal to \u20b91,00,000/-.",
+            "The annual income of the family of the applicant should be less than or equal to ₹1,00,000/-.",
             "The applicant should have knowledge of the business for which he has applied for the loan."
         ],
         "exclusions": [],
@@ -33,11 +33,11 @@
         "faqs": [
             {
                 "question": "What Is The Maximum Amount Of Subsidy That Can Be Availed Through This Scheme?",
-                "answer": "The subsidy is subject to the maximum limit of \u20b910,000/-."
+                "answer": "The subsidy is subject to the maximum limit of ₹10,000/-."
             },
             {
                 "question": "What Is The Limit On The Maximum Amount Of Loan Taken In Order To Be Eligible For The Subsidy?",
-                "answer": "50% amount is being given as a subsidy on a maximum loan amount of \u20b950,000/-."
+                "answer": "50% amount is being given as a subsidy on a maximum loan amount of ₹50,000/-."
             },
             {
                 "question": "What Are The Objectives Of This Scheme?",
@@ -89,7 +89,7 @@
             },
             {
                 "question": "Is There An Income-Related Criterion For This Scheme?",
-                "answer": "Yes, the annual income of the family of the applicant should be less than or equal to \u20b91,00,000/-."
+                "answer": "Yes, the annual income of the family of the applicant should be less than or equal to ₹1,00,000/-."
             }
         ],
         "sources": [
@@ -108,5 +108,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001002"
 }

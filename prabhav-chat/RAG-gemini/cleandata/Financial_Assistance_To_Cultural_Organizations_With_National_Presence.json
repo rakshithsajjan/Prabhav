@@ -7,8 +7,8 @@
         "beneficiary": "Cultural Organization",
         "details": "The scheme 'Financial Assistance to Cultural Organizations with National Presence' was launched by the Ministry of Culture, Government of India. The objective of the scheme component is to provide financial assistance to Cultural Organizations with National Presence to meet the expenditure to be incurred on conducting the cultural programmes/festivals.",
         "benefits": [
-            "An Organization would normally be given financial assistance amounting to \u20b91.00 crore.",
-            "The financial assistance by the Ministry would be limited to \u20b92.00 crores only. However, the amount may be enhanced up to \u20b95.00 crores in exceptional/deserving cases, with the approval of HCM.",
+            "An Organization would normally be given financial assistance amounting to ₹1.00 crore.",
+            "The financial assistance by the Ministry would be limited to ₹2.00 crores only. However, the amount may be enhanced up to ₹5.00 crores in exceptional/deserving cases, with the approval of HCM.",
             "Assistance under the scheme to an Organization will be restricted to a maximum of 67% of the approved cost, subject to the ceilings given above."
         ],
         "eligibility": [
@@ -18,7 +18,7 @@
             "The activities of the organization should be primarily or significantly cultural.",
             "The Organization should have capacity to do at least 20 events/programmes in a year.",
             "The Organization should have adequate working strength artistes/staff/volunteers.",
-            "The Organization should have spent \u20b91 crore or more during 3 of the last 5 years on cultural activities."
+            "The Organization should have spent ₹1 crore or more during 3 of the last 5 years on cultural activities."
         ],
         "application_process": "Offline",
         "documents_required": [
@@ -51,11 +51,11 @@
             },
             {
                 "question": "How much financial assistance will be provided under the scheme?",
-                "answer": "An Organization would normally be given financial assistance amounting to \u20b91.00 crore. Further, the financial assistance by the Ministry would be limited to \u20b92.00 crores only. However, the amount may be enhanced up to \u20b95.00 crores in exceptional/deserving cases, with the approval of the Hon\u2019ble Minister of Culture (HCM)."
+                "answer": "An Organization would normally be given financial assistance amounting to ₹1.00 crore. Further, the financial assistance by the Ministry would be limited to ₹2.00 crores only. However, the amount may be enhanced up to ₹5.00 crores in exceptional/deserving cases, with the approval of the Hon’ble Minister of Culture (HCM)."
             },
             {
                 "question": "How much amount of grant shall be released by the central government under the scheme?",
-                "answer": "The financial assistance under the scheme to an Organization will be restricted to a maximum of 67% of the approved cost. The balance 33% of the approved cost is to be incurred by the Organization as its \u2018matching share\u2019."
+                "answer": "The financial assistance under the scheme to an Organization will be restricted to a maximum of 67% of the approved cost. The balance 33% of the approved cost is to be incurred by the Organization as its ‘matching share’."
             },
             {
                 "question": "Which type of organization is eligible to apply under the scheme?",
@@ -79,7 +79,7 @@
             },
             {
                 "question": "How can an organization apply under the scheme?",
-                "answer": "The eligible applicant organizations should submit two copies of the applications, complete in all respect at the address mentioned below: Section Officer (P. Arts. I), Room No.205, 2nd Floor, \u2018D\u2019 \u2013 Block, Puratatva Bhawan, GPO Complex, INA, New Delhi-110023."
+                "answer": "The eligible applicant organizations should submit two copies of the applications, complete in all respect at the address mentioned below: Section Officer (P. Arts. I), Room No.205, 2nd Floor, ‘D’ – Block, Puratatva Bhawan, GPO Complex, INA, New Delhi-110023."
             }
         ],
         "sources": [
@@ -96,5 +96,6 @@
                 "url": "https://indiaculture.gov.in/sites/default/files/Schemes/Advertisement_on_website_06012023.pdf"
             }
         ]
-    }
+    },
+    "id": "000534"
 }

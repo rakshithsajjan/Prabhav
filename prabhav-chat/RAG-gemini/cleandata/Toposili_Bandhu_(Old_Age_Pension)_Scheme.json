@@ -5,9 +5,9 @@
         "department": "Tribal Development Department",
         "type": "Social Security Scheme",
         "beneficiary": "Old age persons belonging to the Scheduled Caste category",
-        "details": "Launched on 1st April 2020, \u201cToposili Bandhu (Old Age Pension)\u201d is a Social Security Scheme by the Tribal Development Department, Government of West Bengal. The main objective of the scheme is to provide financial assistance to old age persons who belong to the scheduled caste category of West Bengal State.",
+        "details": "Launched on 1st April 2020, “Toposili Bandhu (Old Age Pension)” is a Social Security Scheme by the Tribal Development Department, Government of West Bengal. The main objective of the scheme is to provide financial assistance to old age persons who belong to the scheduled caste category of West Bengal State.",
         "benefits": [
-            "Pension: \u20b91,000/- per month."
+            "Pension: ₹1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of West Bengal.",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "What is the rate and periodicity of the pension?",
-                "answer": "The monthly pension is \u20b91000/- per month."
+                "answer": "The monthly pension is ₹1000/- per month."
             },
             {
                 "question": "Where can an applicant apply for Toposili Bandhu Pension?",
@@ -104,5 +104,6 @@
             "Pension",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001964"
 }

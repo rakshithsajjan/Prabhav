@@ -5,9 +5,9 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Women Entrepreneurs",
-        "details": "The scheme 'Mahila Samiriddhi Yojana for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. This scheme provides loans up to \u20b91,25,000/- per beneficiary exclusively to women entrepreneurs of the target group, either directly or through self-help groups. It applies to women aged between 18 to 55 years who are permanent residents of Haryana. The scheme empowers women by offering financial support to start or expand their businesses.",
+        "details": "The scheme 'Mahila Samiriddhi Yojana for Backward Classes' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. This scheme provides loans up to ₹1,25,000/- per beneficiary exclusively to women entrepreneurs of the target group, either directly or through self-help groups. It applies to women aged between 18 to 55 years who are permanent residents of Haryana. The scheme empowers women by offering financial support to start or expand their businesses.",
         "benefits": [
-            "Under this scheme, Nigam provides loans up to \u20b91,25,000/- per beneficiary only to women entrepreneurs of the target group either directly or through Self-Help Groups."
+            "Under this scheme, Nigam provides loans up to ₹1,25,000/- per beneficiary only to women entrepreneurs of the target group either directly or through Self-Help Groups."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -15,7 +15,7 @@
             "This scheme is applicable for women only.",
             "The applicant should belong to Backward Classes in the case of individual woman beneficiary.",
             "In a Self-Help Group (SHG) 60% of members can be from Backward Classes and the remaining 40% members may be from other weaker sections like SC/Handicapped/Minorities etc.",
-            "The applicant's annual family income should not exceed \u20b93,00,000/- in both rural and urban areas.",
+            "The applicant's annual family income should not exceed ₹3,00,000/- in both rural and urban areas.",
             "The applicant should have Pariwar Pehchan Patra (PPP ID)."
         ],
         "exclusions": [],
@@ -42,7 +42,7 @@
             },
             {
                 "question": "Is there an income limit for applicants?",
-                "answer": "Yes, the annual family income should not exceed \u20b93,00,000/- in both rural and urban areas."
+                "answer": "Yes, the annual family income should not exceed ₹3,00,000/- in both rural and urban areas."
             },
             {
                 "question": "Can women who do not belong to Backward Classes apply?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the maximum loan amount available under this scheme?",
-                "answer": "The maximum loan amount is \u20b91,25,000/- per beneficiary."
+                "answer": "The maximum loan amount is ₹1,25,000/- per beneficiary."
             },
             {
                 "question": "Can the loan be taken individually or only through self-help groups?",
@@ -87,5 +87,6 @@
             "Woman",
             "Woman Entrepreneur"
         ]
-    }
+    },
+    "id": "001058"
 }

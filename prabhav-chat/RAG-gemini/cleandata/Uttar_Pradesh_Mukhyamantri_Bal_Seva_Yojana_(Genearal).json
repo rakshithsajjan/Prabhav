@@ -7,7 +7,7 @@
         "beneficiary": "Children and young adults under 23 years of age",
         "details": "Recognizing the importance of a safe and nurturing environment for children's development, the Uttar Pradesh Chief Minister Bal Seva Yojana (General) helps young people under 18 who have lost one or both parents (not due to Covid), and young adults aged 18-23 orphaned by Covid-19. The scheme supports students pursuing higher education at government institutions after completing 12th grade, including those achieving excellence in national exams like NEET, JEE, and CLAT.",
         "benefits": [
-            "Financial Assistance: \u20b9 2,500/- per month."
+            "Financial Assistance: ₹ 2,500/- per month."
         ],
         "eligibility": [
             "Children under 18 who have lost both parents or one parent due to non-Covid reasons.",
@@ -17,7 +17,7 @@
             "Children rescued from child labor, begging, or prostitution.",
             "Children of families involved in begging/prostitution.",
             "An assistance will be provided to maximum two children of the family.",
-            "The annual income of the family of all the categories of children should be less than \u20b93,00,000/- but the condition of income limit will not apply to those where both mother and father have died.",
+            "The annual income of the family of all the categories of children should be less than ₹3,00,000/- but the condition of income limit will not apply to those where both mother and father have died.",
             "Under the age group of 0-18, previously lived in children's homes and reintegrated back into families or residing in child care institutions."
         ],
         "exclusions": [
@@ -40,7 +40,7 @@
             },
             {
                 "question": "How much financial assistance will be provided?",
-                "answer": "Financial Assistance: \u20b9 2,500/- per month."
+                "answer": "Financial Assistance: ₹ 2,500/- per month."
             },
             {
                 "question": "Who will get the scheme benefits?",
@@ -82,5 +82,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001997"
 }

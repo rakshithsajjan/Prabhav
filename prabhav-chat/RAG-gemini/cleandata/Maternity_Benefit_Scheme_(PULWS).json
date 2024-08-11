@@ -5,9 +5,9 @@
         "department": "Labour Department, Union Territory of Puducherry",
         "type": "Welfare Scheme",
         "beneficiary": "Unorganized Workers",
-        "details": "The 'Maternity Benefit Scheme (PULWS)' is a Welfare Scheme for the Unorganized Workers in Puducherry by the 'Puducherry Unorganised Labourers' Welfare Society'. The Society extends a Maternity Benefit of \u20b9 4,000/- to the member/spouse of the member. The amount is credited through Direct Benefit Transfer (DBT) into the bank account. The applications are accepted offline.",
+        "details": "The 'Maternity Benefit Scheme (PULWS)' is a Welfare Scheme for the Unorganized Workers in Puducherry by the 'Puducherry Unorganised Labourers' Welfare Society'. The Society extends a Maternity Benefit of ₹ 4,000/- to the member/spouse of the member. The amount is credited through Direct Benefit Transfer (DBT) into the bank account. The applications are accepted offline.",
         "benefits": [
-            "Maternity Benefit of \u20b9 4,000/- (not more than two children)",
+            "Maternity Benefit of ₹ 4,000/- (not more than two children)",
             "The amount is credited through Direct Benefit Transfer (DBT) into the bank account"
         ],
         "eligibility": [
@@ -16,8 +16,8 @@
             "The applicant should be an Unorganized Worker: Taxi and Auto Drivers, Workers Employed in Shops & Catering Establishments, Carpenters, Nathaswara Vidwans, Hair Dressers, Tailors, Cycle Rickshaw Drivers, Cobblers, Washermans, Goldsmith, Blacksmith, Brass Vessel Makers, Sculptors, Loading and Unloading Workers, Tree Climbers, Pottery Workers, Coir Workers, Toddy Neera Tappers, Bullock Cart Drivers, Thatchers, Cooks, Hawkers, News Paper Vendors, Workers Engaged in Bricks and Tiles Manufacturing, One Hundred, Workers Engaged in Distribution of Liquid Petroleum Gas Cylinder, Domestic Workers, Light Music Instrument Players, Automobile Workshop Workers",
             "The applicant should be enrolled with the Puducherry Unorganised Labourers' Welfare Society",
             "The applicant should be between 18 to 59 years of age",
-            "The applicant should be taking an Annual Subscription of \u20b9100/- every year",
-            "The applicant should be paying a Registration Fee of \u20b925/-",
+            "The applicant should be taking an Annual Subscription of ₹100/- every year",
+            "The applicant should be paying a Registration Fee of ₹25/-",
             "The benefits are provided for up to two pregnancies"
         ],
         "application_process": "Offline. The interested applicant should visit the Office of the Puducherry Unorganised Labourer's Welfare Society, No.1, Rue Sufferen, Puducherry, and obtain the prescribed format of the application form free of cost from the concerned authority exclusively entrusted to issue and collect filled-in applications.",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "How much is the Annual Subscription for the Maternity Benefit Scheme, and who is required to pay it?",
-                "answer": "The applicant needs to pay an annual subscription of \u20b9100 every year."
+                "answer": "The applicant needs to pay an annual subscription of ₹100 every year."
             },
             {
                 "question": "What occupations are considered as 'Unorganized Workers' under the scheme?",
@@ -72,7 +72,7 @@
             },
             {
                 "question": "What is the mode of payment for the maternity benefit under the scheme?",
-                "answer": "The maternity benefit of \u20b94,000 is transferred through Direct Benefit Transfer (DBT) into the bank account."
+                "answer": "The maternity benefit of ₹4,000 is transferred through Direct Benefit Transfer (DBT) into the bank account."
             },
             {
                 "question": "Who administers the 'Maternity Benefit Scheme (PULWS)' in Puducherry?",
@@ -95,5 +95,6 @@
             "Mother",
             "Pregnant"
         ]
-    }
+    },
+    "id": "001109"
 }

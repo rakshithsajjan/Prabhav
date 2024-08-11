@@ -5,18 +5,18 @@
         "department": "Arts and Culture Department",
         "type": "Financial Assistance",
         "beneficiary": "Indigent Artists",
-        "details": "The scheme 'Financial Assistance to Indigent Artistes' was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide financial assistance of \u20b91,000/- per month to indigent artists aged 50 years and above and contributions to music, dance, drama, folk, painting and sculpture etc. The indigent artists resident of the Union Territory of Puducherry either by birth or by domicile.",
+        "details": "The scheme 'Financial Assistance to Indigent Artistes' was launched by the Arts and Culture Department, Puducherry. The scheme aims to provide financial assistance of ₹1,000/- per month to indigent artists aged 50 years and above and contributions to music, dance, drama, folk, painting and sculpture etc. The indigent artists resident of the Union Territory of Puducherry either by birth or by domicile.",
         "benefits": [
-            "Financial Assistance of \u20b91,000/- per month."
+            "Financial Assistance of ₹1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be an indigent artist.",
             "The applicant's age should be 50 years and above.",
-            "The annual income is less than \u20b924,000/-.",
+            "The annual income is less than ₹24,000/-.",
             "The applicant should contribute to music, dance, drama, folk, painting, and sculpture.",
             "The applicant should not be the recipient of any other assistance from any other Organizations.",
             "The applicant should be a resident of the Union Territory of Puducherry either by birth or by domicile.",
-            "The applicant\u2019s wife/children shall be eligible to receive assistance after the death of the indigent artist."
+            "The applicant’s wife/children shall be eligible to receive assistance after the death of the indigent artist."
         ],
         "exclusions": [],
         "application_process": "Offline. The interested applicant should visit (during office hours) the Department of Art and Culture, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Fill in all mandatory fields, paste the passport-sized photograph, and attach copies of all mandatory documents. Submit the duly filled and signed application form along with the documents to the superintendent, Department of Art and Culture, 1, Romain Rolland Street, Puducherry. Request a receipt or acknowledgment from the superintendent.",
@@ -29,7 +29,7 @@
         "faqs": [
             {
                 "question": "What is the financial assistance amount provided to indigent artists under this scheme?",
-                "answer": "The financial assistance amount is \u20b91000/- per month."
+                "answer": "The financial assistance amount is ₹1000/- per month."
             },
             {
                 "question": "Who is eligible for the financial assistance for indigent artists?",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "Can the financial assistance be transferred to the family of the artist after their death?",
-                "answer": "Yes, the artist\u2019s wife or children shall be eligible to receive the assistance after the death of the applicant."
+                "answer": "Yes, the artist’s wife or children shall be eligible to receive the assistance after the death of the applicant."
             },
             {
                 "question": "Is there a limit to the number of artists who can receive assistance under this scheme each year?",
@@ -80,5 +80,6 @@
             "Financial Assistance",
             "Indigent"
         ]
-    }
+    },
+    "id": "000593"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Unorganized Worker",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Readymade Kitchen Sahaayata Yojana' for unorganized worker on 19 June 2017. The main objective of the scheme to empower unorganized worker by providing financial assistance for Readymade Kitchen.",
         "benefits": [
-            "Registered unorganized labor individuals will need to cover the expenses of \u20b9 10,000 for scheme execution.",
-            "A grant of \u20b9 30,000/- will be provided by the Chhattisgarh Unorganized Worker State Social Security Board.",
+            "Registered unorganized labor individuals will need to cover the expenses of ₹ 10,000 for scheme execution.",
+            "A grant of ₹ 30,000/- will be provided by the Chhattisgarh Unorganized Worker State Social Security Board.",
             "The remaining sum will be extended to the tea and chaat cart operator as a bank loan, with the beneficiary responsible for repaying it within a specified timeframe and at the interest rate determined by the bank.",
             "The Board will only transfer its contribution to the beneficiary's account once all the necessary loan-related documents are submitted to the board."
         ],
@@ -86,5 +86,6 @@
             "Financial Assistance",
             "Unorganized Worker"
         ]
-    }
+    },
+    "id": "001580"
 }

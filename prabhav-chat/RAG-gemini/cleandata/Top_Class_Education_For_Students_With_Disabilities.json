@@ -8,17 +8,17 @@
         "details": "A scholarship scheme by DoEPwDs for Students with Disabilities (SwDs) pursuing studies beyond class 12th admitted in a full-time course in one of the 'notified institutions'. The students with the specified disabilities defined in Schedule of the 'Rights of Persons with Disabilities Act, 2016' will be eligible under this scheme. This includes persons with visual, hearing, speech, loco-motor, mental retardation, and other disabilities. The scheme aims to support SwDs to study further in order to prepare themselves to earn their livelihood and to find a dignified place for themselves in society.",
         "benefits": [
             "Payment of Full tuition fee and non-refundable charges (Ceiling of Rs. 2.00 LPA per student for private sector institutions)",
-            "Living expenses: \u20b9 3000/- per month per student.",
-            "Books and stationery: \u20b9 5000/- per annum per student.",
-            "A computer/laptop with accessories (UPS and printer) is limited to \u20b9 30,000/- per student (one-time assistance).",
-            "Reimbursement of expenses for the purchase of Aids and Assistive Devices including necessary software related to the particular disability of the selected candidate: \u20b9 30,000/- per student (one-time assistance).",
-            "Special Allowance (related to types of disabilities like Reader Allowance, Escort Allowance, Helper Allowance etc.): \u20b9 2000/- per month."
+            "Living expenses: ₹ 3000/- per month per student.",
+            "Books and stationery: ₹ 5000/- per annum per student.",
+            "A computer/laptop with accessories (UPS and printer) is limited to ₹ 30,000/- per student (one-time assistance).",
+            "Reimbursement of expenses for the purchase of Aids and Assistive Devices including necessary software related to the particular disability of the selected candidate: ₹ 30,000/- per student (one-time assistance).",
+            "Special Allowance (related to types of disabilities like Reader Allowance, Escort Allowance, Helper Allowance etc.): ₹ 2000/- per month."
         ],
         "eligibility": [
             "The applicant should be a Student admitted in a full-time course in one of the 'notified institutions'.",
             "The Percentage of Disability should be 40% or above.",
             "The applicant should be Pursuing a Graduate or Post Graduate Degree or Diploma.",
-            "The Total Annual Income of the Parent / Guardian should be less than or equal to \u20b9 6.00 Lakh per Annum.",
+            "The Total Annual Income of the Parent / Guardian should be less than or equal to ₹ 6.00 Lakh per Annum.",
             "The applicant MUST NOT be the third sibling in his/her family who is availing of this scholarship."
         ],
         "exclusions": [
@@ -32,7 +32,7 @@
             "Income Certificate.",
             "Domicile Certificate.",
             "Self-attested Degree/Mark Sheet of the last qualifying exam.",
-            "Fee Receipt of \u2018Current Course Year\u2019.",
+            "Fee Receipt of ‘Current Course Year’.",
             "Bank Details of the applicant or of the Parent/Guardian.",
             "Aadhaar Number.",
             "Bonafide Student Certificate from the school/institute.",
@@ -43,7 +43,7 @@
         "faqs": [
             {
                 "question": "Am I eligible for this scholarship if two of my siblings are availing the benefits of this scheme?",
-                "answer": "No. You won\u2019t be eligible in this case."
+                "answer": "No. You won’t be eligible in this case."
             },
             {
                 "question": "How will my tuition fee and non-refundable charges be paid?",
@@ -84,5 +84,6 @@
             "Student",
             "Tuition Fee"
         ]
-    }
+    },
+    "id": "001963"
 }

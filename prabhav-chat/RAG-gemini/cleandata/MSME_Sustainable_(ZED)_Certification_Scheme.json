@@ -7,14 +7,14 @@
         "beneficiary": "Micro, Small and Medium Enterprises (MSMEs)",
         "details": "Launched by the Ministry Of Micro, Small & Medium Enterprises, MSME Sustainable (ZED) Certification Scheme is an extensive drive to create awareness amongst MSMEs about Zero Defect Zero Effect (ZED) practices and motivate and incentivize them for ZED Certification while also encouraging them to become MSME Champions.",
         "benefits": [
-            "Cost of Certification: Level 1: BRONZE: \u20b9 10,000/-, Level 2: SILVER: \u20b9 40,000/-, Level 3: GOLD: \u20b9 90,000/-",
-            "Joining Reward of \u20b9 10,000/- (Bronze will become free if availed)",
+            "Cost of Certification: Level 1: BRONZE: ₹ 10,000/-, Level 2: SILVER: ₹ 40,000/-, Level 3: GOLD: ₹ 90,000/-",
+            "Joining Reward of ₹ 10,000/- (Bronze will become free if availed)",
             "80-60-50% subsidy for Micro, Small & Medium Enterprises",
             "10% additional subsidy for Women/SC/ST owned MSMEs or MSMEs in specific regions",
             "5% additional subsidy for MSMEs part of specific development programs",
             "Up to 75% financial assistance in Testing/Quality/Product Certification",
-            "Up to \u20b9 2,000,00/- for consultancy for all ZED certified MSMEs",
-            "Up to \u20b9 3,000,00/- for technology upgradation for ZED certified MSMEs",
+            "Up to ₹ 2,000,00/- for consultancy for all ZED certified MSMEs",
+            "Up to ₹ 3,000,00/- for technology upgradation for ZED certified MSMEs",
             "Support for COVID-19 preparedness after obtaining Certification"
         ],
         "eligibility": [
@@ -79,5 +79,6 @@
             "Incentives",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001046"
 }

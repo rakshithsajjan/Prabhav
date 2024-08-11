@@ -65,8 +65,8 @@
                 "answer": "Yes, the candidates are eligible for maternity/paternity leave as per Govt. of India norms issued from time to time."
             },
             {
-                "question": "What Is \u2018Intermittent Break\u2019?",
-                "answer": "Besides maternity/paternity leave, \u2018Intermittent Break\u2019 for a maximum period of 1 year may also be permissible to the women candidates."
+                "question": "What Is ‘Intermittent Break’?",
+                "answer": "Besides maternity/paternity leave, ‘Intermittent Break’ for a maximum period of 1 year may also be permissible to the women candidates."
             },
             {
                 "question": "Are The Candidates Who Have Qualified UGC-CSIR Also Eligible To Apply?",
@@ -94,5 +94,6 @@
             "M.Phil",
             "Ph.D."
         ]
-    }
+    },
+    "id": "000943"
 }

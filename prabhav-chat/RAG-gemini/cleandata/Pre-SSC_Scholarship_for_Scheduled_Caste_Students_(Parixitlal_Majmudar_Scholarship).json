@@ -5,12 +5,12 @@
         "department": "Director, Scheduled Caste Welfare, Government of Gujarat",
         "type": "Scholarship",
         "beneficiary": "Scheduled Caste Students",
-        "details": "The \u201cPre-SSC Scholarship for Scheduled Caste Students\u201d scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under this scheme, scholarships are provided to Scheduled Caste students who are studying in Class 1 to 10 in Government/Grant-in-Aid Schools/Private Schools.",
+        "details": "The “Pre-SSC Scholarship for Scheduled Caste Students” scheme is administered by the Director, Scheduled Caste Welfare, Government of Gujarat. Under this scheme, scholarships are provided to Scheduled Caste students who are studying in Class 1 to 10 in Government/Grant-in-Aid Schools/Private Schools.",
         "benefits": [
-            "Scholarship Rate for Standard 1 to 5: \u20b9750/-",
-            "Scholarship Rate for Standard 6 to 8 (Boys): \u20b9750/-",
-            "Scholarship Rate for Standard 6 to 8 (Girls): \u20b91000/-",
-            "Scholarship Rate for Standard 9 to 10: \u20b91000/-"
+            "Scholarship Rate for Standard 1 to 5: ₹750/-",
+            "Scholarship Rate for Standard 6 to 8 (Boys): ₹750/-",
+            "Scholarship Rate for Standard 6 to 8 (Girls): ₹1000/-",
+            "Scholarship Rate for Standard 9 to 10: ₹1000/-"
         ],
         "eligibility": [
             "The student should belong to the Scheduled Caste Category of Gujarat.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What are the benefits offered by the scheme?",
-                "answer": "The annual rate of scholarship is \u20b9750/- to \u20b91000."
+                "answer": "The annual rate of scholarship is ₹750/- to ₹1000."
             },
             {
                 "question": "Who is eligible to apply for this scholarship?",
@@ -63,5 +63,6 @@
             "Scholarship",
             "Gujarat"
         ]
-    }
+    },
+    "id": "001516"
 }

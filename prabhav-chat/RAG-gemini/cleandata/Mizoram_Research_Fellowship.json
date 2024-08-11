@@ -64,7 +64,7 @@
             },
             {
                 "question": "Is There Any Application Fee?",
-                "answer": "The cost of the application form is \u20b9 20/-."
+                "answer": "The cost of the application form is ₹ 20/-."
             }
         ],
         "sources": [
@@ -87,5 +87,6 @@
             "Postgraduation",
             "Research"
         ]
-    }
+    },
+    "id": "001147"
 }

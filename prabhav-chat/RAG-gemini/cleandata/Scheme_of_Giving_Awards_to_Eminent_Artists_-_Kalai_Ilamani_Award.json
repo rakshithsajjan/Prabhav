@@ -5,11 +5,11 @@
         "department": "Art and Culture Department",
         "type": "Award",
         "beneficiary": "Artists",
-        "details": "The 'Scheme of Giving Awards to Eminent Artists - Kalai Ilamani Award' is a state scheme launched by the Art and Culture Department, Government of Tamil Nadu. The scheme's objective is to promote and preserve the culture of Tamil Nadu. The selected artists are awarded financial assistance \u20b94,000/- and certificates of appreciation. The scheme is being implemented in all Districts of Tamil Nadu.",
+        "details": "The 'Scheme of Giving Awards to Eminent Artists - Kalai Ilamani Award' is a state scheme launched by the Art and Culture Department, Government of Tamil Nadu. The scheme's objective is to promote and preserve the culture of Tamil Nadu. The selected artists are awarded financial assistance ₹4,000/- and certificates of appreciation. The scheme is being implemented in all Districts of Tamil Nadu.",
         "benefits": [
-            "Financial Assistance of \u20b94,000/-",
+            "Financial Assistance of ₹4,000/-",
             "Certificate of Appreciation",
-            "A shawl worth \u20b9500/-",
+            "A shawl worth ₹500/-",
             "5 eminent artists are awarded every year"
         ],
         "eligibility": [
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the quantum of the award received by awardees?",
-                "answer": "Each awardee receives a purse of \u20b94000, a certificate of appreciation, and a shawl valued at \u20b9500/-."
+                "answer": "Each awardee receives a purse of ₹4000, a certificate of appreciation, and a shawl valued at ₹500/-."
             },
             {
                 "question": "Can artists from other states participate in this scheme?",
@@ -81,5 +81,6 @@
             "Culture",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001725"
 }

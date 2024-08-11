@@ -5,18 +5,18 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Insurance",
         "beneficiary": "Residents of Haryana aged 18-60 years",
-        "details": "The scheme 'Rajiv Gandhi Family Insurance Scheme' was launched by the Department of Social Justice and Empowerment, Government of Haryana on 1st April 2006. Under this scheme, compensation is given in case of accidental death/permanent disability in the age group of 18-60 years, who is a resident of Haryana and whose name appears in the electoral roll or holds a ration card issued by the competent authority. Income taxpayers and government employees are not eligible. The scheme has been amended and implemented on 30th August 2011, and accordingly, the compensation amount will not be given to the person having an income of more than \u20b92.50 Lakh per annum.",
+        "details": "The scheme 'Rajiv Gandhi Family Insurance Scheme' was launched by the Department of Social Justice and Empowerment, Government of Haryana on 1st April 2006. Under this scheme, compensation is given in case of accidental death/permanent disability in the age group of 18-60 years, who is a resident of Haryana and whose name appears in the electoral roll or holds a ration card issued by the competent authority. Income taxpayers and government employees are not eligible. The scheme has been amended and implemented on 30th August 2011, and accordingly, the compensation amount will not be given to the person having an income of more than ₹2.50 Lakh per annum.",
         "benefits": [
-            "Accidental Death/Permanent Disability: \u20b91.00 Lakh",
-            "Loss of two limbs, two eyes, one limb, and one eye: \u20b950,000",
-            "Loss of one eye or one limb: \u20b925,000"
+            "Accidental Death/Permanent Disability: ₹1.00 Lakh",
+            "Loss of two limbs, two eyes, one limb, and one eye: ₹50,000",
+            "Loss of one eye or one limb: ₹25,000"
         ],
         "eligibility": [
             "The applicant should be only eligible in case of Accidental Death/Permanent disability, or total/partial disability.",
             "Compensation is given in case of accidental death/permanent disability in the age group of 18-60 years.",
             "The applicant should be a permanent resident of Haryana.",
-            "The name of the applicant should appear in the Voter\u2019s list or should be a holder of the Ration Card.",
-            "The annual family income should not exceed \u20b92.5 lacs.",
+            "The name of the applicant should appear in the Voter’s list or should be a holder of the Ration Card.",
+            "The annual family income should not exceed ₹2.5 lacs.",
             "The applicant must not be a Government or Semi-Government employee."
         ],
         "exclusions": [
@@ -60,11 +60,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The financial assistance/compensation will be given to eligible beneficiaries i.e. Accidental Death / Permanent Disability \u20b91.00 Lakh. Loss of two limbs, two eyes, one limb, and one eye \u20b950,000. Loss of one eye or one limb \u20b925,000."
+                "answer": "The financial assistance/compensation will be given to eligible beneficiaries i.e. Accidental Death / Permanent Disability ₹1.00 Lakh. Loss of two limbs, two eyes, one limb, and one eye ₹50,000. Loss of one eye or one limb ₹25,000."
             },
             {
                 "question": "What is the income criterion under the scheme?",
-                "answer": "To get the benefits of the scheme, the income of parents/guardians should not exceed \u20b92,50,000/- per annum."
+                "answer": "To get the benefits of the scheme, the income of parents/guardians should not exceed ₹2,50,000/- per annum."
             },
             {
                 "question": "How can an applicant apply under the scheme?",
@@ -96,5 +96,6 @@
             "Insurance",
             "Permanent Disability"
         ]
-    }
+    },
+    "id": "001561"
 }

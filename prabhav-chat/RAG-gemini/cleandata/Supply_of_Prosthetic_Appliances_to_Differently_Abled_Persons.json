@@ -11,7 +11,7 @@
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The annual income of the applicant should not exceed \u20b9 75,000/-.",
+            "The annual income of the applicant should not exceed ₹ 75,000/-.",
             "The applicant should have a disability of 40% or above."
         ],
         "exclusions": [],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the income cap for eligibility in the scheme?",
-                "answer": "Applicants must have an annual income not exceeding \u20b975,000 to qualify for the scheme."
+                "answer": "Applicants must have an annual income not exceeding ₹75,000 to qualify for the scheme."
             },
             {
                 "question": "Who is the designated authority to address delays in Karaikal?",
@@ -112,5 +112,6 @@
             "Puducherry",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001890"
 }

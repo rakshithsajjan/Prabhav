@@ -10,9 +10,9 @@
             "A technology fellowship program will run to identify technology educators in technical educational institutes in Goa who are keen to further their expertise in areas such as Internet of Things, Artificial Intelligence, Machine Learning, Interaction Design, Big Data Analytics, Robotics, 3-D Printing, Data Science, Drones, Virtual Reality/Augmented Reality/Merged Reality, Others (subject to approval from SPC).",
             "Selected educators/fellows would be sent to Centres of Excellence within the country and abroad to undertake summer school and short-term training programs to further their learning in their area of specialization.",
             "The Department of IT will set up Centres of Excellence/Advanced Maker Labs in the technologies outlined above, in select technical educational institutes. Such selected educators/fellows will function as Master Trainers/Principal Mentors to students and student start-ups that would be incubated in such facilities.",
-            "Educators/fellows, upon selection, would receive an educational grant of \u20b910,00,000 per year, for a period of five years.",
+            "Educators/fellows, upon selection, would receive an educational grant of ₹10,00,000 per year, for a period of five years.",
             "The benefit of this scheme can be availed by up to ten educators/fellows per year, with one person in each focus area, who will be selected by the SPC as per its guidelines.",
-            "In case such educators/fellows generate and get any business and value-driven patents registered in their area of specialization, either through individual research or in collaboration with students, such fellows shall be eligible to receive a patent-specific grant of up to \u20b915,00,000, subject to certification by the Start-up Promotion Cell (SPC)."
+            "In case such educators/fellows generate and get any business and value-driven patents registered in their area of specialization, either through individual research or in collaboration with students, such fellows shall be eligible to receive a patent-specific grant of up to ₹15,00,000, subject to certification by the Start-up Promotion Cell (SPC)."
         ],
         "eligibility": [
             "The applicant should be a technology educator in a technical educational institute in Goa."
@@ -89,11 +89,11 @@
             },
             {
                 "question": "What responsibilities do selected educators/fellows have regarding setting up Centres of Excellence/Advanced Maker Labs?",
-                "answer": "They act as Master Trainers/Principal Mentors, executing a work plan and receiving an educational grant of \u20b910 lakh per year."
+                "answer": "They act as Master Trainers/Principal Mentors, executing a work plan and receiving an educational grant of ₹10 lakh per year."
             },
             {
                 "question": "How does the Start-up Promotion Cell (SPC) select educators for the fellowship, and what is the grant amount offered?",
-                "answer": "Educators are selected through evaluation and interviews. Selected fellows receive an educational grant of \u20b910 lakh per year for five years."
+                "answer": "Educators are selected through evaluation and interviews. Selected fellows receive an educational grant of ₹10 lakh per year for five years."
             },
             {
                 "question": "Could you elaborate on the focus areas for technology educators under the 'Technology Fellowship and Patent Promotion Scheme'?",
@@ -116,5 +116,6 @@
             "Patent",
             "Technology"
         ]
-    }
+    },
+    "id": "001930"
 }

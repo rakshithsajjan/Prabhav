@@ -5,9 +5,9 @@
         "department": "Haryana Labour Welfare Board",
         "type": "Pension",
         "beneficiary": "Spouse or living parents of the deceased worker",
-        "details": "The 'Family Pension' scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, after the death of the worker due to Silicosis, financial assistance of \u20b93,500/- per month is provided to the spouse of the worker until he/she remains alive. In the case of an unmarried worker, the financial assistance is provided to his/her living parents.",
+        "details": "The 'Family Pension' scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, after the death of the worker due to Silicosis, financial assistance of ₹3,500/- per month is provided to the spouse of the worker until he/she remains alive. In the case of an unmarried worker, the financial assistance is provided to his/her living parents.",
         "benefits": [
-            "Financial assistance of \u20b93,500/- per month after the death of the worker due to Silicosis."
+            "Financial assistance of ₹3,500/- per month after the death of the worker due to Silicosis."
         ],
         "eligibility": [
             "The applicant should be either the spouse or one of the living parents of the deceased worker.",
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What benefits are provided under this scheme?",
-                "answer": "Financial assistance of \u20b93,500/- per month is provided after the death of the worker due to Silicosis."
+                "answer": "Financial assistance of ₹3,500/- per month is provided after the death of the worker due to Silicosis."
             },
             {
                 "question": "Who is eligible to receive the financial assistance?",
@@ -76,5 +76,6 @@
             "Haryana",
             "Labour Welfare"
         ]
-    }
+    },
+    "id": "000502"
 }

@@ -5,9 +5,9 @@
         "department": "Haryana Labour Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Workers suffering from silicosis",
-        "details": "The 'Financial Assistance (Kanyadaan) on the Occasion of Marriage of Daughter' scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, financial assistance of \u20b951,000/- is provided to workers suffering from silicosis, as confirmed by the Silicosis Diagnosis Board, Haryana, for the marriage of up to three of their daughters.",
+        "details": "The 'Financial Assistance (Kanyadaan) on the Occasion of Marriage of Daughter' scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, financial assistance of ₹51,000/- is provided to workers suffering from silicosis, as confirmed by the Silicosis Diagnosis Board, Haryana, for the marriage of up to three of their daughters.",
         "benefits": [
-            "Financial assistance of \u20b951,000/- is provided to workers suffering from silicosis for the marriage of up to three daughters."
+            "Financial assistance of ₹51,000/- is provided to workers suffering from silicosis for the marriage of up to three daughters."
         ],
         "eligibility": [
             "The applicant/worker should be employed in a factory or at a construction site.",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "How much financial assistance is provided under this scheme?",
-                "answer": "The scheme provides \u20b951,000/- per daughter\u2019s marriage, up to a maximum of three daughters."
+                "answer": "The scheme provides ₹51,000/- per daughter’s marriage, up to a maximum of three daughters."
             },
             {
                 "question": "What is silicosis?",
@@ -87,5 +87,6 @@
             "Silicosis",
             "Worker"
         ]
-    }
+    },
+    "id": "000521"
 }

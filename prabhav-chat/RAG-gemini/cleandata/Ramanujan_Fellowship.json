@@ -7,9 +7,9 @@
         "beneficiary": "Brilliant Indian scientists and engineers",
         "details": "The Ramanujan Fellowship is meant for brilliant Indian scientists and engineers from all over the world to take up scientific positions in India and for those Indian scientists who want to return to India from abroad. The Fellowship is scientist-specific and very selective.",
         "benefits": [
-            "Fellowship of \u20b91,35,000/- consolidated per month",
-            "Research grant of \u20b97.00 Lakh per annum",
-            "Overhead charges of \u20b960,000/- to the host institute"
+            "Fellowship of ₹1,35,000/- consolidated per month",
+            "Research grant of ₹7.00 Lakh per annum",
+            "Overhead charges of ₹60,000/- to the host institute"
         ],
         "eligibility": [
             "Below the age of 40 years",
@@ -62,5 +62,6 @@
             "Science",
             "Engineering"
         ]
-    }
+    },
+    "id": "001569"
 }

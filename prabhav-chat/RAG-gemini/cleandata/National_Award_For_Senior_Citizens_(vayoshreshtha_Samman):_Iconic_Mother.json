@@ -5,11 +5,11 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Senior Citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Iconic Mother Award' is conferred to the women senior citizens who in the face of great odds, brought up their children and supported them in being high achievers in the field of their choice. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The Awards are given across 13 categories: 07 categories of Institutional type and 06 categories of individual type.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Iconic Mother Award' is conferred to the women senior citizens who in the face of great odds, brought up their children and supported them in being high achievers in the field of their choice. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The Awards are given across 13 categories: 07 categories of Institutional type and 06 categories of individual type.",
         "benefits": [
             "Citation",
             "Memento",
-            "Cash award of \u20b9 2,50,000/-"
+            "Cash award of ₹ 2,50,000/-"
         ],
         "eligibility": [
             "The applicant should be a woman.",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "Who confers these awards?",
-                "answer": "The awards are conferred by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi."
+                "answer": "The awards are conferred by the Hon’ble President of India at Vigyan Bhawan, New Delhi."
             },
             {
                 "question": "How many categories are there in this award?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What is the maximum amount of the cash award in the institutional category?",
-                "answer": "The Awardee is given a Cash award of \u20b9 2,50,000/-."
+                "answer": "The Awardee is given a Cash award of ₹ 2,50,000/-."
             },
             {
                 "question": "Can I nominate myself for this award?",
@@ -77,5 +77,6 @@
                 "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Englishfull169.pdf"
             }
         ]
-    }
+    },
+    "id": "001283"
 }

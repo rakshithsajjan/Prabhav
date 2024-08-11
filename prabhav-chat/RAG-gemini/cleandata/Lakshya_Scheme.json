@@ -7,14 +7,14 @@
         "beneficiary": "Permanent residents of Tripura who have cleared the Civil Services Examination (CSE) conducted by UPSC",
         "details": "The state scheme 'LAKSHYA' was launched by the Directorate of Higher Education, Government of Tripura. The objective of the scheme is to provide financial support in the form of scholarships to permanent residents in Tripura who have cleared the Civil Services Examination (CSE) conducted by the Union Public Service Commission (UPSC). The intervention will be in the form of direct financial support to candidates clearing Civil Services which includes Part I (Prelims to main- candidates who cleared prelims and appearing in the mains) and Part II (Mains to Interview- candidates who are invited to appear the interview) conducted by UPSC.",
         "benefits": [
-            "Part I: Candidate Clears the Civil Services Prelims Exam and Will Be Appearing for the Mains Exam - \u20b91,00,000/ (\u20b970,000 for coaching centre fee & study material cost\u00ad, and \u20b930,000 for travelling cost)",
-            "Part II: Candidate Clears the Mains Exam and is Invited for an Interview by UPSC - \u20b920,000/-",
+            "Part I: Candidate Clears the Civil Services Prelims Exam and Will Be Appearing for the Mains Exam - ₹1,00,000/ (₹70,000 for coaching centre fee & study material cost­, and ₹30,000 for travelling cost)",
+            "Part II: Candidate Clears the Mains Exam and is Invited for an Interview by UPSC - ₹20,000/-",
             "Mode of Disbursement: The monthly payment will be done in Direct Benefit Transfer (DBT) mode by the Implementing Agency."
         ],
         "eligibility": [
             "The Candidates should be a domicile of Tripura.",
             "The Candidate should have cleared the Civil Services Exam (Prelims Exam) conducted by the UPSC.",
-            "The combined annual family income of the candidate should not exceed \u20b910,00,000/-.",
+            "The combined annual family income of the candidate should not exceed ₹10,00,000/-.",
             "A candidate can receive assistance only twice, regardless of how many times he/she attempts to pass the exam."
         ],
         "exclusions": [],
@@ -36,7 +36,7 @@
             },
             {
                 "question": "What financial support does the scheme provide to candidates?",
-                "answer": "Prelims qualifiers receive \u20b91,00,000, while mains qualifiers get \u20b920,000."
+                "answer": "Prelims qualifiers receive ₹1,00,000, while mains qualifiers get ₹20,000."
             },
             {
                 "question": "When should candidates inform the implementing agency about their Main exam date?",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "Is there a maximum annual family income limit for eligibility?",
-                "answer": "Annual family income should not exceed \u20b910,00,000."
+                "answer": "Annual family income should not exceed ₹10,00,000."
             },
             {
                 "question": "What documents are needed to apply for the scheme?",
@@ -87,5 +87,6 @@
             "UPSC",
             "Tripura"
         ]
-    }
+    },
+    "id": "001016"
 }

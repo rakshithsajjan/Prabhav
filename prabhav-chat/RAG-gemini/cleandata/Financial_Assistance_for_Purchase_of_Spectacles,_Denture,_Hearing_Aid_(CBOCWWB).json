@@ -7,9 +7,9 @@
         "beneficiary": "Construction Workers",
         "details": "The scheme 'Financial Assistance for Purchase of Spectacles, Denture, Hearing Aid' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance shall be granted to the workers who are registered under the CBOCWWB for the purchase of Spectacles, Denture and Hearing Aid.",
         "benefits": [
-            "Financial assistance of \u20b91500/- for Spectacles",
-            "Financial assistance of \u20b95000/- for Denture",
-            "Financial assistance of \u20b94000/- for Hearing Aid"
+            "Financial assistance of ₹1500/- for Spectacles",
+            "Financial assistance of ₹5000/- for Denture",
+            "Financial assistance of ₹4000/- for Hearing Aid"
         ],
         "eligibility": [
             "The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contribution towards the labour welfare fund should regularly been received by the Board.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "How much financial assistance can an eligible worker receive?",
-                "answer": "The amount of financial assistance of \u20b91500/-, \u20b95000/- & \u20b94000/- is provided to the registered workers for the purchase of Spectacles, Denture & Hearing Aid respectively."
+                "answer": "The amount of financial assistance of ₹1500/-, ₹5000/- & ₹4000/- is provided to the registered workers for the purchase of Spectacles, Denture & Hearing Aid respectively."
             },
             {
                 "question": "Who is eligible for benefits under the scheme?",
@@ -92,5 +92,6 @@
             "Construction Workers",
             "Chandigarh"
         ]
-    }
+    },
+    "id": "000571"
 }

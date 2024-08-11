@@ -7,11 +7,11 @@
         "beneficiary": "Students from minority communities",
         "details": "Maulana Azad National Fellowship For Minority Students was launched in 2009 by the Ministry of Minority Affairs for providing financial aid to students for their higher studies. The objective of the Fellowship is to provide five year fellowships in the form of financial assistance to students from minority communities, notified by the Central Government, to pursue M. Phil and Ph.D.",
         "benefits": [
-            "Fellowship in Science Humanities and Social Science: \u20b9 31,000/- p.m. for initial two years (JRF), and \u20b9 35,000/- pm. for remaining tenure (SRF)",
-            "Fellowship in Engineering & Technology: \u20b9 31,000/- p.m. for initial two years (JRF), and \u20b9 35,000/- pm. for remaining tenure (SRF)",
-            "Contingency for Humanities & Social Sciences: \u20b9 10,000/- p.a. for initial two years, and \u20b9 20,500/- p.a. for remaining tenure",
-            "Contingency for Sciences, Engineering & Technology: \u20b9 12,000/- p.a. for initial two years, and \u20b9 25,000/- p.a. for remaining tenure",
-            "Escorts/Reader assistance (All subjects): \u20b9 2,000/- p.m. in cases of physically and visually handicapped candidate"
+            "Fellowship in Science Humanities and Social Science: ₹ 31,000/- p.m. for initial two years (JRF), and ₹ 35,000/- pm. for remaining tenure (SRF)",
+            "Fellowship in Engineering & Technology: ₹ 31,000/- p.m. for initial two years (JRF), and ₹ 35,000/- pm. for remaining tenure (SRF)",
+            "Contingency for Humanities & Social Sciences: ₹ 10,000/- p.a. for initial two years, and ₹ 20,500/- p.a. for remaining tenure",
+            "Contingency for Sciences, Engineering & Technology: ₹ 12,000/- p.a. for initial two years, and ₹ 25,000/- p.a. for remaining tenure",
+            "Escorts/Reader assistance (All subjects): ₹ 2,000/- p.m. in cases of physically and visually handicapped candidate"
         ],
         "eligibility": [
             "The applicant should be a part of one of the minority communities (Buddhist, Christian, Jain, Muslim, Sikh, or Zoroastrian (Parsi)).",
@@ -89,5 +89,6 @@
             "Higher Studies",
             "Minority Students"
         ]
-    }
+    },
+    "id": "001114"
 }

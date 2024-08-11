@@ -5,9 +5,9 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Disabled Person",
-        "details": "The scheme 'Agricultural Activities for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to \u20b910,00,000/- are provided to individuals identified as persons with disabilities for agricultural production, irrigation, horticulture, sericulture, the purchase of agricultural machinery and equipment for agricultural services, and the marketing of agricultural products etc. Permanent residents of Haryana, aged 18 years or older, with a disability of 40% or more, are eligible under this scheme.",
+        "details": "The scheme 'Agricultural Activities for Persons with Disabilities' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to ₹10,00,000/- are provided to individuals identified as persons with disabilities for agricultural production, irrigation, horticulture, sericulture, the purchase of agricultural machinery and equipment for agricultural services, and the marketing of agricultural products etc. Permanent residents of Haryana, aged 18 years or older, with a disability of 40% or more, are eligible under this scheme.",
         "benefits": [
-            "Loans up to \u20b910,00,000/- are provided to persons with disabilities for agricultural production, irrigation, horticulture, sericulture, purchasing agricultural machinery/equipment for agricultural services, marketing agricultural products, etc."
+            "Loans up to ₹10,00,000/- are provided to persons with disabilities for agricultural production, irrigation, horticulture, sericulture, purchasing agricultural machinery/equipment for agricultural services, marketing agricultural products, etc."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What is the maximum loan amount provided under this scheme?",
-                "answer": "Loans up to \u20b910,00,000/- are provided."
+                "answer": "Loans up to ₹10,00,000/- are provided."
             },
             {
                 "question": "What are the purposes for which the loan can be used?",
@@ -77,5 +77,6 @@
             "Loan",
             "PwD"
         ]
-    }
+    },
+    "id": "000058"
 }

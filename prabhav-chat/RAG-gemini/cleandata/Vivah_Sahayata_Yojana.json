@@ -5,9 +5,9 @@
         "department": "Department of Labour, Employment, Training & Skill Development",
         "type": "Financial Assistance",
         "beneficiary": "Residents/Domicile of Jharkhand",
-        "details": "'Vivah Sahayata Yojana' is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides financial assistance of \u20b9 30,000/- (Rupees Thirty Thousand Only) for the marriage of two children / female members of the family.",
+        "details": "'Vivah Sahayata Yojana' is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides financial assistance of ₹ 30,000/- (Rupees Thirty Thousand Only) for the marriage of two children / female members of the family.",
         "benefits": [
-            "Financial assistance of \u20b9 30,000/- for the marriage of two children / female members of the family."
+            "Financial assistance of ₹ 30,000/- for the marriage of two children / female members of the family."
         ],
         "eligibility": [
             "The applicant should be a domicile in the state of Jharkhand.",
@@ -77,5 +77,6 @@
                 "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
             }
         ]
-    }
+    },
+    "id": "002022"
 }

@@ -5,9 +5,9 @@
         "department": "Law Department",
         "type": "Financial Assistance",
         "beneficiary": "Law Graduate",
-        "details": "Being implemented since December 2019, the scheme 'YSR Law Nestham' by the Law Department, Govt. of Andhra Pradesh provides a monthly stipend of an amount of \u20b9 5,000/- to the Junior Advocates. The applicant should be in the rolls of Advocates being maintained by the Andhra Pradesh State Bar Council under Section 17 of the Advocates Act, 1961. Only the Law Graduates, who passed out in the year 2016 and afterward are only eligible.",
+        "details": "Being implemented since December 2019, the scheme 'YSR Law Nestham' by the Law Department, Govt. of Andhra Pradesh provides a monthly stipend of an amount of ₹ 5,000/- to the Junior Advocates. The applicant should be in the rolls of Advocates being maintained by the Andhra Pradesh State Bar Council under Section 17 of the Advocates Act, 1961. Only the Law Graduates, who passed out in the year 2016 and afterward are only eligible.",
         "benefits": [
-            "A monthly stipend of an amount of \u20b9 5,000/- for the first three years."
+            "A monthly stipend of an amount of ₹ 5,000/- for the first three years."
         ],
         "eligibility": [
             "The applicant should be a resident/domicile of the state of Andhra Pradesh.",
@@ -39,7 +39,7 @@
         "faqs": [
             {
                 "question": "What Is The Maximum Amount Of Financial Assistance That One Can Receive Through This Scheme?",
-                "answer": "The beneficiary shall be eligible for a monthly stipend of an amount of \u20b9 5,000/- for the first three years."
+                "answer": "The beneficiary shall be eligible for a monthly stipend of an amount of ₹ 5,000/- for the first three years."
             },
             {
                 "question": "What Shall Be The Duration Of The Stipend?",
@@ -79,7 +79,7 @@
             },
             {
                 "question": "How Will The Amount Of Financial Assistance Be Disbursed To The Eligible Beneficiaries?",
-                "answer": "The amount is credited into the bank account of the beneficiary. The Village /Ward volunteer will door deliver the 'payment receipt' and message of the Hon\u2019ble Chief Minister to the beneficiary."
+                "answer": "The amount is credited into the bank account of the beneficiary. The Village /Ward volunteer will door deliver the 'payment receipt' and message of the Hon’ble Chief Minister to the beneficiary."
             },
             {
                 "question": "Is This Scheme State Sponsored Or Centrally Sponsored?",
@@ -133,5 +133,6 @@
             "Law Graduate",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "002068"
 }

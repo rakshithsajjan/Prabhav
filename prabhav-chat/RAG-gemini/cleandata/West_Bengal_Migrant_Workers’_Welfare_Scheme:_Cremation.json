@@ -1,17 +1,17 @@
 {
     "content": {
-        "title": "West Bengal Migrant Workers\u2019 Welfare Scheme: Cremation",
+        "title": "West Bengal Migrant Workers’ Welfare Scheme: Cremation",
         "state": "West Bengal",
         "department": "Labour Department, Government of West Bengal",
         "type": "Social Welfare",
         "beneficiary": "Nominee of the registered Migrant Worker",
-        "details": "'West Bengal Migrant Workers\u2019 Welfare Scheme: Cremation' is a social welfare scheme implemented by the West Bengal Migrant Workers\u2019 Welfare Board, Labour Department, Government of West Bengal on 25th April, 2023. Under this scheme, if a registered Migrant Worker dies at his / her work place or the place he /she had to stay for the purpose of his / her job, an assistance amounting to \u20b9 3,000/- will be provided to the nominee of the worker for cremation at the place, the worker was employed.",
+        "details": "'West Bengal Migrant Workers’ Welfare Scheme: Cremation' is a social welfare scheme implemented by the West Bengal Migrant Workers’ Welfare Board, Labour Department, Government of West Bengal on 25th April, 2023. Under this scheme, if a registered Migrant Worker dies at his / her work place or the place he /she had to stay for the purpose of his / her job, an assistance amounting to ₹ 3,000/- will be provided to the nominee of the worker for cremation at the place, the worker was employed.",
         "benefits": [
-            "\u20b9 3,000/- to the nominee of the registered Migrant Worker."
+            "₹ 3,000/- to the nominee of the registered Migrant Worker."
         ],
         "eligibility": [
             "The applicant must be a resident of West Bengal.",
-            "The applicant\u2019s age should be between 18-60 years.",
+            "The applicant’s age should be between 18-60 years.",
             "The applicant must be ordinarily a worker who is employed/ likely to be employed in any State/Union Territories other than the state of West Bengal/ Outside India.",
             "The beneficiary should be a nominee i.e., a person nominated by the registered Migrant Worker from his/ her family.",
             "The migrant worker should have lost his/ her life due to death during the course of employment at his/ her work place or the place he/ she had to stay for the purpose of the job."
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the objective of the scheme?",
-                "answer": "'West Bengal Migrant Workers\u2019 Welfare Scheme: Cremation' is a social welfare scheme implemented by the West Bengal Migrant Workers\u2019 Welfare Board, Labour Department, Government of West Bengal, that provides an one time assistance to the nominee of the worker for cremation when the registered Migrant Worker dies."
+                "answer": "'West Bengal Migrant Workers’ Welfare Scheme: Cremation' is a social welfare scheme implemented by the West Bengal Migrant Workers’ Welfare Board, Labour Department, Government of West Bengal, that provides an one time assistance to the nominee of the worker for cremation when the registered Migrant Worker dies."
             },
             {
                 "question": "When was this scheme launched?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "What kind of assistance can be availed through this scheme?",
-                "answer": "Under this scheme, an amount of \u20b9 3,000/- is provided to the beneficiaries for cremation when the registered Migrant Worker dies."
+                "answer": "Under this scheme, an amount of ₹ 3,000/- is provided to the beneficiaries for cremation when the registered Migrant Worker dies."
             },
             {
                 "question": "How can the benefits be availed?",
@@ -96,5 +96,6 @@
             "Social Welfare",
             "Worker"
         ]
-    }
+    },
+    "id": "002040"
 }

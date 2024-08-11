@@ -7,7 +7,7 @@
         "beneficiary": "Children who are recipients of National Child Award for Exceptional Achievements and Other National / International Merit Awards",
         "details": "The scheme 'Award of Scholarship to the Children who are Recipients of National Child Award for Exceptional Achievements and Other National / International Merit Awards' is a Scholarship Scheme by the Directorate of School Education, Union Territory of Puducherry. The objectives of this scheme are to recognize the talents of children who are recipients of the National Child Award for Exceptional Achievements and other National / International Merit Awards and to recognize the talents of other children who are pursuing outstanding achievements in different fields of Human Resource Development.",
         "benefits": [
-            "Scholarship of \u20b96,000/- per annum per student.",
+            "Scholarship of ₹6,000/- per annum per student.",
             "Mode of Disbursal: The amount is disbursed directly into the Aadhaar-seeded viable bank account by Direct Benefit Transfer (DBT) through the Electronic Clearance System (ECS)."
         ],
         "eligibility": [
@@ -52,7 +52,7 @@
             },
             {
                 "question": "How much is the scholarship amount provided annually under this scheme?",
-                "answer": "The scholarship amount is \u20b96,000 per student per annum."
+                "answer": "The scholarship amount is ₹6,000 per student per annum."
             },
             {
                 "question": "Where should the applicants be domiciled to be eligible for the scheme?",
@@ -91,5 +91,6 @@
             "Puducherry",
             "Education"
         ]
-    }
+    },
+    "id": "000155"
 }

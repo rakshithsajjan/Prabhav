@@ -5,9 +5,9 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Registered female workers in building and construction work",
-        "details": "The scheme 'Mukhya Mantri Mahila Nirman Shramik Sammaan Yojana' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, registered female workers, who have a minimum of one year\u2019s regular membership, are being provided financial assistance of \u20b95100/- for the purchase of Saree, Suit, Slippers, Raincoat, Umbrella, Sanitary Napkin, and Kitchen utensils, etc. This benefit is given every year at the time of renewal of the membership.",
+        "details": "The scheme 'Mukhya Mantri Mahila Nirman Shramik Sammaan Yojana' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, registered female workers, who have a minimum of one year’s regular membership, are being provided financial assistance of ₹5100/- for the purchase of Saree, Suit, Slippers, Raincoat, Umbrella, Sanitary Napkin, and Kitchen utensils, etc. This benefit is given every year at the time of renewal of the membership.",
         "benefits": [
-            "Financial assistance of \u20b95100/- for the purchase of Saree, Suit, Slippers, Raincoat, Umbrella, Sanitary Napkin, and Kitchen utensils."
+            "Financial assistance of ₹5100/- for the purchase of Saree, Suit, Slippers, Raincoat, Umbrella, Sanitary Napkin, and Kitchen utensils."
         ],
         "eligibility": [
             "The applicant should be a woman engaged in building or construction work.",
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "What benefits does the scheme offer?",
-                "answer": "Registered female workers receive financial assistance of \u20b95100 for purchasing items like Saree, Suit, Slippers, Raincoat, Umbrella, Sanitary Napkin, and Kitchen utensils."
+                "answer": "Registered female workers receive financial assistance of ₹5100 for purchasing items like Saree, Suit, Slippers, Raincoat, Umbrella, Sanitary Napkin, and Kitchen utensils."
             },
             {
                 "question": "Who is eligible to avail of these benefits?",
@@ -65,7 +65,7 @@
             },
             {
                 "question": "Is there any registration fee needed while registering under HBOCWWB?",
-                "answer": "Registration fee \u20b925/- once in life-time and \u20b95/- per month (\u20b960/-P.A) as subscription fee shall be paid to the Board by the beneficiary."
+                "answer": "Registration fee ₹25/- once in life-time and ₹5/- per month (₹60/-P.A) as subscription fee shall be paid to the Board by the beneficiary."
             }
         ],
         "sources": [
@@ -94,5 +94,6 @@
             "Nirman Shramik",
             "Woman"
         ]
-    }
+    },
+    "id": "001175"
 }

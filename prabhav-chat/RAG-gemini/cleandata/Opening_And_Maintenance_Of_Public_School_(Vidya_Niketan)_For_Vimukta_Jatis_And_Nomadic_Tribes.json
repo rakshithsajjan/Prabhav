@@ -10,7 +10,7 @@
             "Financial Assistance is given to the institution for maintenance assistance is given on building rent.",
             "100 percent salary grants for approved teaching and non-teaching staff.",
             "Students are provided with facilities like books, notebooks, uniforms, education stationary free lodging, and boarding facilities.",
-            "\u20b91450/- p.m. per residential student is admissible."
+            "₹1450/- p.m. per residential student is admissible."
         ],
         "eligibility": [
             "The beneficiary should be a student.",
@@ -29,7 +29,7 @@
             "Domicile Certificate of Maharashtra.",
             "Caste Certificate VJNT And Nomadic Tribe Community (duly signed by an authorized Revenue Officer, not below the rank of Tehsildar).",
             "Marksheet of the Latest Educational Qualification.",
-            "Fee Receipt of \u2018Current Course Year\u2019.",
+            "Fee Receipt of ‘Current Course Year’.",
             "Bank Account Details.",
             "Passport-sized Photograph."
         ],
@@ -86,5 +86,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001392"
 }

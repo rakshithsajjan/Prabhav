@@ -5,9 +5,9 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Allowance",
         "beneficiary": "Eunuchs",
-        "details": "The scheme 'Allowance to Eunuchs Scheme' was launched by the Department of Social Justice and Empowerment, Government of Haryana on 1st June 2006. Under the scheme, the state government provides financial assistance to eunuchs who are living in various parts of the State. The allowance was initially given \u20b9300/- per month. The rate of allowance was \u20b91400/- per month per beneficiary w.e.f. 01.01.2016, \u20b91600/- w.e.f. 01.11.2016, \u20b91800/- w.e.f. 01.11.2017, \u20b92000/- w.e.f. 01.11.2018, \u20b9 2250/- w.e.f. 01.01.2020, \u20b92500/- w.e.f. 01.04.2021 and \u20b92750/- w.e.f. 01.04.2023.",
+        "details": "The scheme 'Allowance to Eunuchs Scheme' was launched by the Department of Social Justice and Empowerment, Government of Haryana on 1st June 2006. Under the scheme, the state government provides financial assistance to eunuchs who are living in various parts of the State. The allowance was initially given ₹300/- per month. The rate of allowance was ₹1400/- per month per beneficiary w.e.f. 01.01.2016, ₹1600/- w.e.f. 01.11.2016, ₹1800/- w.e.f. 01.11.2017, ₹2000/- w.e.f. 01.11.2018, ₹ 2250/- w.e.f. 01.01.2020, ₹2500/- w.e.f. 01.04.2021 and ₹2750/- w.e.f. 01.04.2023.",
         "benefits": [
-            "The financial assistance of \u20b92750/- will be given by the state government to eunuchs who are living in various parts of the State."
+            "The financial assistance of ₹2750/- will be given by the state government to eunuchs who are living in various parts of the State."
         ],
         "eligibility": [
             "The applicant should be a permanent resident/domicile of Haryana State and has been residing in Haryana State for the last 5 years at the time of submission of the application.",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, financial assistance \u20b92750/- per month will be given to eligible beneficiaries."
+                "answer": "Under this scheme, financial assistance ₹2750/- per month will be given to eligible beneficiaries."
             },
             {
                 "question": "For how long will the applicant get the benefit of this scheme?",
@@ -90,5 +90,6 @@
             "Eunuchs",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000074"
 }

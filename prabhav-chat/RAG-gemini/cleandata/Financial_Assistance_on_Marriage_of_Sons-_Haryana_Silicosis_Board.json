@@ -5,9 +5,9 @@
         "department": "Haryana Labour Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Workers suffering from silicosis",
-        "details": "The 'Financial Assistance on Marriage of Sons' scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, financial assistance of \u20b911,000/- is provided to workers suffering from silicosis, as confirmed by the Silicosis Diagnosis Board, Haryana, for the marriage of up to two of their sons. Silicosis is an incurable lung disease prevalent in workplaces like stone crushers and mines.",
+        "details": "The 'Financial Assistance on Marriage of Sons' scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, financial assistance of ₹11,000/- is provided to workers suffering from silicosis, as confirmed by the Silicosis Diagnosis Board, Haryana, for the marriage of up to two of their sons. Silicosis is an incurable lung disease prevalent in workplaces like stone crushers and mines.",
         "benefits": [
-            "Financial assistance of \u20b911,000/- for the marriage of up to two sons."
+            "Financial assistance of ₹11,000/- for the marriage of up to two sons."
         ],
         "eligibility": [
             "The applicant/worker should be employed in a factory or at a construction site.",
@@ -41,14 +41,14 @@
             },
             {
                 "question": "What is the amount of financial assistance provided under this scheme?",
-                "answer": "\u20b911,000 is provided for the marriage of son of the worker."
+                "answer": "₹11,000 is provided for the marriage of son of the worker."
             },
             {
                 "question": "Who is eligible for this scheme?",
                 "answer": "Workers suffering from silicosis, as confirmed by the Silicosis Diagnosis Board, Haryana, are eligible for this scheme."
             },
             {
-                "question": "How many sons\u2019 marriages can be covered under this scheme?",
+                "question": "How many sons’ marriages can be covered under this scheme?",
                 "answer": "The scheme covers the marriage of up to two sons of the eligible worker."
             },
             {
@@ -88,5 +88,6 @@
             "Silicosis",
             "Worker Welfare"
         ]
-    }
+    },
+    "id": "000588"
 }

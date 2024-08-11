@@ -5,9 +5,9 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Labourers/Industrial Workers",
-        "details": "The \u201cGo Green Scheme\u201d is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to encourage Labourers/Industrial Workers to purchase of battery-operated electric two-wheelers that reduce carbon emissions. It is also benefitted to Government of India's 'Green India Mission'.",
+        "details": "The “Go Green Scheme” is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The objective of the scheme is to encourage Labourers/Industrial Workers to purchase of battery-operated electric two-wheelers that reduce carbon emissions. It is also benefitted to Government of India's 'Green India Mission'.",
         "benefits": [
-            "Under the scheme, a subsidy will be provided to Labourers/Industrial Workers on the purchase of Battery-Operated Two-Wheelers, 30% of the purchase price or \u20b930,000/- whichever is less.",
+            "Under the scheme, a subsidy will be provided to Labourers/Industrial Workers on the purchase of Battery-Operated Two-Wheelers, 30% of the purchase price or ₹30,000/- whichever is less.",
             "In addition to this, a one-time subsidy will also be provided on the RTO Registration Tax and Road Tax of the Two-Wheeler."
         ],
         "eligibility": [
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "Under the scheme, subsidy is provided to laborers/industrial workers on the purchase of battery-operated two-wheelers, covering 30% of the purchase price or up to \u20b930,000, whichever is less. Additionally, one-time subsidies are provided on RTO Registration Tax and Road Tax of the two-wheeler."
+                "answer": "Under the scheme, subsidy is provided to laborers/industrial workers on the purchase of battery-operated two-wheelers, covering 30% of the purchase price or up to ₹30,000, whichever is less. Additionally, one-time subsidies are provided on RTO Registration Tax and Road Tax of the two-wheeler."
             },
             {
                 "question": "What are the eligibility criteria for the Scheme?",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How is the subsidy amount calculated for the purchase?",
-                "answer": "The subsidy covers 30% of the purchase price or up to \u20b930,000, whichever is less. The laborer is required to pay the residual amount after deducting the subsidy from the ex-showroom price."
+                "answer": "The subsidy covers 30% of the purchase price or up to ₹30,000, whichever is less. The laborer is required to pay the residual amount after deducting the subsidy from the ex-showroom price."
             },
             {
                 "question": "How is the subsidy amount disbursed?",
@@ -85,5 +85,6 @@
             "Labour",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000683"
 }

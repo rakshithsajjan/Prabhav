@@ -8,7 +8,7 @@
         "details": "The scheme 'Award of Scholarships to Young Artists in Different Cultural Fields' was launched by the Ministry of Culture, Government of India. This scheme seeks to give assistance to young artists of outstanding promise for advanced training within India in the field of Indian Classical Music, Indian Classical Dance, Theatre, Mime, Visual art, Folk, Traditional and Indigenous Arts, and Light Classical Music.",
         "benefits": [
             "Total number of scholarships is 400.",
-            "Each scholar will be paid \u20b95000/- per month for a period of two years to cover living expenses on travel, books, art material, or other equipment and tuition or training charges."
+            "Each scholar will be paid ₹5000/- per month for a period of two years to cover living expenses on travel, books, art material, or other equipment and tuition or training charges."
         ],
         "eligibility": [
             "Candidates should be Indian Nationals.",
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "Each scholar will be paid \u20b95000/- per month for a period of two years to cover living expenses."
+                "answer": "Each scholar will be paid ₹5000/- per month for a period of two years to cover living expenses."
             },
             {
                 "question": "What is the total number of scholarships?",
@@ -91,5 +91,6 @@
             "Scholarship",
             "Young Artists"
         ]
-    }
+    },
+    "id": "000147"
 }

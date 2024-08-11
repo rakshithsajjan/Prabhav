@@ -1,18 +1,18 @@
 {
     "content": {
-        "title": "Dr. Ambedkar Medical Aid Scheme (Revised \u2013 2009)",
+        "title": "Dr. Ambedkar Medical Aid Scheme (Revised – 2009)",
         "state": "Haryana",
         "department": "Directorate of Welfare of Scheduled Caste & Backward Classes, Government of Haryana",
         "type": "Medical Aid",
         "beneficiary": "Scheduled Caste and Scheduled Tribe persons",
-        "details": "The scheme is meant to provide medical treatment facilities to patients suffering from serious ailments requiring surgery of the Kidney, Heart, Liver, Cancer, and Brain or any other life-threatening diseases including Knee surgery and Spinal surgery to Scheduled Caste and Scheduled Tribe persons whose annual family income is less than \u20b9 1,00,000/- per annum.",
+        "details": "The scheme is meant to provide medical treatment facilities to patients suffering from serious ailments requiring surgery of the Kidney, Heart, Liver, Cancer, and Brain or any other life-threatening diseases including Knee surgery and Spinal surgery to Scheduled Caste and Scheduled Tribe persons whose annual family income is less than ₹ 1,00,000/- per annum.",
         "benefits": [
             "Medical treatment facilities for serious ailments.",
             "Coverage for surgeries related to Kidney, Heart, Liver, Cancer, Knee, Spinal, and Brain."
         ],
         "eligibility": [
             "Applicant must belong to Scheduled Caste and Scheduled Tribe Community.",
-            "Annual family income must not exceed \u20b9 1,00,000/- per annum.",
+            "Annual family income must not exceed ₹ 1,00,000/- per annum.",
             "Suffering from major ailments requiring surgery."
         ],
         "exclusions": [],
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What is the scope of this scheme?",
-                "answer": "The state government provides medical treatment facilities to patients suffering from serious ailments to Scheduled Caste and Scheduled Tribe persons whose annual family income is less than \u20b9 1,00,000/- per annum."
+                "answer": "The state government provides medical treatment facilities to patients suffering from serious ailments to Scheduled Caste and Scheduled Tribe persons whose annual family income is less than ₹ 1,00,000/- per annum."
             },
             {
                 "question": "What are the types of medical treatments provided under this scheme?",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "How much amount of the treatment will be directly released to the concerned Hospital?",
-                "answer": "75% of the estimated cost of the treatment will be directly released to the concerned Hospital, with a maximum ceiling limit of \u20b91,00,000/- in each case."
+                "answer": "75% of the estimated cost of the treatment will be directly released to the concerned Hospital, with a maximum ceiling limit of ₹1,00,000/- in each case."
             },
             {
                 "question": "How much amount of the total admissible medical aid will be paid, in advance to the concerned Hospital?",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "What should be the family income to avail the benefit of this scheme?",
-                "answer": "The annual family income should be less than \u20b9 1,00,000/- per annum."
+                "answer": "The annual family income should be less than ₹ 1,00,000/- per annum."
             },
             {
                 "question": "How I can apply for the medical aid?",
@@ -80,5 +80,6 @@
             "Health",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000429"
 }

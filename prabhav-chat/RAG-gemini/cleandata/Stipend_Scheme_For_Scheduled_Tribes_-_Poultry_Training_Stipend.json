@@ -5,9 +5,9 @@
         "department": "Department of Agriculture, Farmers Welfare & Co-operation",
         "type": "Stipend",
         "beneficiary": "Scheduled Tribe individuals",
-        "details": "The scheme 'Stipend Scheme for Scheduled Tribes - Poultry Training Stipend' was launched to raise the income of poultry farmers of Schedule Tribes through scientific poultry farming training. Under this scheme, the beneficiary will be given a maximum \u20b92000 (direct in bank account) stipend for six days of training and a poultry training certificate after completion of training.",
+        "details": "The scheme 'Stipend Scheme for Scheduled Tribes - Poultry Training Stipend' was launched to raise the income of poultry farmers of Schedule Tribes through scientific poultry farming training. Under this scheme, the beneficiary will be given a maximum ₹2000 (direct in bank account) stipend for six days of training and a poultry training certificate after completion of training.",
         "benefits": [
-            "The beneficiary will be given maximum \u20b92000 (direct in bank account) stipend for six days training.",
+            "The beneficiary will be given maximum ₹2000 (direct in bank account) stipend for six days training.",
             "Beneficiary will be given poultry training certificate after completion of training."
         ],
         "eligibility": [
@@ -38,11 +38,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "The beneficiary will be given a maximum \u20b92000 (direct in bank account) stipend for six days of training."
+                "answer": "The beneficiary will be given a maximum ₹2000 (direct in bank account) stipend for six days of training."
             },
             {
                 "question": "How much will daily allowance be given under this scheme?",
-                "answer": "\u20b9300/- per day will be given as a daily allowance to the beneficiary."
+                "answer": "₹300/- per day will be given as a daily allowance to the beneficiary."
             },
             {
                 "question": "For how many days will daily allowance be given to the trainees?",
@@ -50,7 +50,7 @@
             },
             {
                 "question": "How much will transport fare be given to the trainees?",
-                "answer": "\u20b9200/- will be given as transport fare to the beneficiary during training."
+                "answer": "₹200/- will be given as transport fare to the beneficiary during training."
             },
             {
                 "question": "Who will get priority under the scheme?",
@@ -90,5 +90,6 @@
             "Stipend",
             "Training"
         ]
-    }
+    },
+    "id": "001858"
 }

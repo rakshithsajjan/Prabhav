@@ -5,7 +5,7 @@
         "department": "Ministry Of Panchayati Raj",
         "type": "Central Sector Scheme",
         "beneficiary": "Village household owners",
-        "details": "SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a \u2018Record of Rights\u2019 to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology.",
+        "details": "SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology.",
         "benefits": [
             "Drone Digitally Maps All the Land Parcels of the Inhabited Area of the Village.",
             "Creation of Property Cards on the Exact Area of Each Property in the Village.",
@@ -87,5 +87,6 @@
             "Survey",
             "Village"
         ]
-    }
+    },
+    "id": "001623"
 }

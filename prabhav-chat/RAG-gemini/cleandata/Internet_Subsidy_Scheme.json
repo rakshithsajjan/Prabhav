@@ -5,9 +5,9 @@
         "department": "Department of Information Technology",
         "type": "Subsidy",
         "beneficiary": "Information Technology Units",
-        "details": "Launched in 2018, the 'Internet Subsidy Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Internet Subsidy to the eligible Information Technology Units in the State of Goa. 25% reimbursement on high-speed bandwidth, subject to a maximum of \u20b9 5,00,000 per annum whichever is lower. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
+        "details": "Launched in 2018, the 'Internet Subsidy Scheme' is one of the 'Information Technology Policy Schemes' by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Internet Subsidy to the eligible Information Technology Units in the State of Goa. 25% reimbursement on high-speed bandwidth, subject to a maximum of ₹ 5,00,000 per annum whichever is lower. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.",
         "benefits": [
-            "25% reimbursement on high-speed bandwidth, subject to a maximum of \u20b9 5,00,000 per annum whichever is lower.",
+            "25% reimbursement on high-speed bandwidth, subject to a maximum of ₹ 5,00,000 per annum whichever is lower.",
             "The subsidy can be availed for a period of three years from the date of commencement of operations or from the date of notification of this policy whichever is later."
         ],
         "eligibility": [
@@ -32,7 +32,7 @@
         "faqs": [
             {
                 "question": "What is the maximum annual reimbursement for high-speed bandwidth under the scheme?",
-                "answer": "The scheme allows a reimbursement of 25% on high-speed bandwidth, subject to a maximum of \u20b95,00,000 per annum or whichever is lower."
+                "answer": "The scheme allows a reimbursement of 25% on high-speed bandwidth, subject to a maximum of ₹5,00,000 per annum or whichever is lower."
             },
             {
                 "question": "Can you clarify the duration for which the subsidy on high-speed bandwidth can be availed?",
@@ -83,5 +83,6 @@
             "Reimbursement",
             "Broadband"
         ]
-    }
+    },
+    "id": "000889"
 }

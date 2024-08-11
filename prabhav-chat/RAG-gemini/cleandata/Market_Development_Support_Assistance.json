@@ -5,10 +5,10 @@
         "department": "Industries and Commerce Department",
         "type": "Subsidy",
         "beneficiary": "Micro, Small, Medium and Large Industries",
-        "details": "'Market Development Support Assistance' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, assistance worth 50% of total rent, literature and display material (subject to a maximum of \u20b95,00,000/-) is provided to the industrial unit for participation in international trade fair as an industry association. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Market Development Support Assistance' under 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, assistance worth 50% of total rent, literature and display material (subject to a maximum of ₹5,00,000/-) is provided to the industrial unit for participation in international trade fair as an industry association. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
             "Assistance: 50% of Total Rent, Literature and Display Material.",
-            "Ceiling: \u20b95,00,000/-.",
+            "Ceiling: ₹5,00,000/-.",
             "Purpose: Participation in International Trade Fair as an Industry Association.",
             "Number of Installments: In single or multiple installments, depending on the availability of fund.",
             "Mode of Disbursement: The subsidy amount shall be disbursed through the financial institutions/banks only, if the unit is financed by them, towards the adjustment against the loan availed by the entrepreneurs or for the creation of additional fixed assets or for the working capital purposes."
@@ -92,5 +92,6 @@
             "Market",
             "Trade"
         ]
-    }
+    },
+    "id": "001081"
 }

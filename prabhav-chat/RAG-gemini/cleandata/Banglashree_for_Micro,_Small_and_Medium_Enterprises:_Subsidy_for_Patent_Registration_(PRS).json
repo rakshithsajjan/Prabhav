@@ -8,7 +8,7 @@
         "details": "The scheme 'Subsidy for Patent Registration (PRS)' is a sub-scheme under the 'Banglashree for Micro, Small and Medium Enterprises' scheme. It was launched on 1st April 2020 by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal, and shall remain in force till 31st March 2025. The objective of the scheme is to extend fiscal incentives to encourage entrepreneurs to set up Micro, Small and Medium Enterprises with a view to focusing on the balanced development of MSMEs across the State and creating a sustainable ecosystem in the MSME sector which can maximize the utilization of resource, generate new employment and widen the area of operation to make the State emerge as the MSME leader in the country.",
         "benefits": [
             "Reimbursement of 50% of expenditure incurred for obtaining Patent Registration",
-            "Subsidy for Patent Registration shall not exceed \u20b9 5,00,000/-"
+            "Subsidy for Patent Registration shall not exceed ₹ 5,00,000/-"
         ],
         "eligibility": [
             "The business/organization should be a Micro/ Small/ Medium Enterprise.",
@@ -124,5 +124,6 @@
             "Reimbursement",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000173"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste",
         "details": "Through the 'Bank Tie-Up Scheme', the Punjab Scheduled Castes Land Development & Finance Corporation (PSCLDFC) arranges loans through banks, and subsidy is provided by PSCLDFC. The permanent residents of Punjab belonging to Scheduled Castes and living Below Poverty Line are eligible under this scheme. This is a 100% State Sponsored Scheme, and only the permanent residents of the state of Punjab can apply for this scheme.",
         "benefits": [
-            "Subsidy: Capital subsidy upto 50% of the total amount subject to a maximum of \u20b9 10,000/-.",
+            "Subsidy: Capital subsidy upto 50% of the total amount subject to a maximum of ₹ 10,000/-.",
             "Sources of Funds: The subsidy is provided by Govt. of India out of SCA.",
             "Loan: The loan amount is provided by various banks operating in the State.",
             "Rate of Interest: Charged by the Banks as per RBI guidelines."
@@ -17,7 +17,7 @@
             "The applicant should be a domicile / permanent resident of the state of Punjab.",
             "The applicant should be from Below Poverty Line (BPL).",
             "The applicant should be from the Scheduled Caste category.",
-            "The annual income of the family of the applicant (from all sources) should be \u20b9 67,649/- per annum (for rural areas); \u20b9 88,756/- per annum (for urban areas).",
+            "The annual income of the family of the applicant (from all sources) should be ₹ 67,649/- per annum (for rural areas); ₹ 88,756/- per annum (for urban areas).",
             "The applicant should not already be availing the benefits of the scheme."
         ],
         "exclusions": [],
@@ -40,7 +40,7 @@
         "faqs": [
             {
                 "question": "How Much Shall Be The Capital Subsidy? Is There An Upper Ceiling?",
-                "answer": "Subsidy: Capital Subsidy upto 50% of the total amount subject to a maximum of \u20b9 10,000/-."
+                "answer": "Subsidy: Capital Subsidy upto 50% of the total amount subject to a maximum of ₹ 10,000/-."
             },
             {
                 "question": "What Would Be The Sources Of Funds?",
@@ -56,7 +56,7 @@
             },
             {
                 "question": "What Are The Income Criteria For This Scheme?",
-                "answer": "The annual income of the family of the applicant (from all sources) should be \u20b9 67,649/- per annum (for rural areas); \u20b9 88,756/- per annum (for urban areas)."
+                "answer": "The annual income of the family of the applicant (from all sources) should be ₹ 67,649/- per annum (for rural areas); ₹ 88,756/- per annum (for urban areas)."
             },
             {
                 "question": "In Which Case Does The Copy Of The Registry Become A Mandatory Document?",
@@ -124,5 +124,6 @@
             "Social Welfare",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000182"
 }

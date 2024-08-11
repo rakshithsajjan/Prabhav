@@ -5,13 +5,13 @@
         "department": "Ministry Of Commerce And Industry",
         "type": "Subsidy",
         "beneficiary": "Small Tea Growers",
-        "details": "The Government of India has conveyed its approval for the Tea Board\u2019s Scheme 'Tea Development & Promotion Scheme' for implementation during the 15th Finance Commission (2021-26). The scheme has seven major components covering the broad areas of the Tea Board\u2019s operation for the overall protection, growth & sustenance of the Indian Tea Industry. The objective of the scheme is to improve the production, productivity, and quality of Indian teas in order to remain competitive in global markets, focus on the development of the small tea growers, their collectivization for moving up in the value chain, value addition in teas for better price realization and share in export markets, explore the potential of tea grown in the North Eastern States, focus on improving the per capita consumption of tea, improving tea exports from India to high-value markets, encouraging research and development and other technological innovation to bring transparency in the entire supply chain as envisaged in the Tea Act, 1953.",
+        "details": "The Government of India has conveyed its approval for the Tea Board’s Scheme 'Tea Development & Promotion Scheme' for implementation during the 15th Finance Commission (2021-26). The scheme has seven major components covering the broad areas of the Tea Board’s operation for the overall protection, growth & sustenance of the Indian Tea Industry. The objective of the scheme is to improve the production, productivity, and quality of Indian teas in order to remain competitive in global markets, focus on the development of the small tea growers, their collectivization for moving up in the value chain, value addition in teas for better price realization and share in export markets, explore the potential of tea grown in the North Eastern States, focus on improving the per capita consumption of tea, improving tea exports from India to high-value markets, encouraging research and development and other technological innovation to bring transparency in the entire supply chain as envisaged in the Tea Act, 1953.",
         "benefits": [
-            "Pruning Machine: Ceiling Limit (\u20b9): 30,000; Other Eligibility: One (1) Machine for each / upto 5.00 ha of tea area",
-            "Mechanical Harvester: Ceiling Limit (\u20b9): Single Man Harvester @ 25,000; Double Man Harvester @ 40,000; Other Eligibility: For each / up to 10.00 ha of tea area",
-            "Power Sprayer: Ceiling Limit (\u20b9): 15,000; Other Eligibility: For each / up to 5.00 ha of tea area",
-            "Brush Cutter: Ceiling Limit (\u20b9): 28,000; Other Eligibility: For each / up to 10.00 ha of tea area",
-            "Plucking Shear: Ceiling Limit (\u20b9): 550; Other Eligibility: For each/ up to 0.40 Ha of tea area"
+            "Pruning Machine: Ceiling Limit (₹): 30,000; Other Eligibility: One (1) Machine for each / upto 5.00 ha of tea area",
+            "Mechanical Harvester: Ceiling Limit (₹): Single Man Harvester @ 25,000; Double Man Harvester @ 40,000; Other Eligibility: For each / up to 10.00 ha of tea area",
+            "Power Sprayer: Ceiling Limit (₹): 15,000; Other Eligibility: For each / up to 5.00 ha of tea area",
+            "Brush Cutter: Ceiling Limit (₹): 28,000; Other Eligibility: For each / up to 10.00 ha of tea area",
+            "Plucking Shear: Ceiling Limit (₹): 550; Other Eligibility: For each/ up to 0.40 Ha of tea area"
         ],
         "eligibility": [
             "Small tea growers including members of self-help groups and Farmers' Producer Organizations."
@@ -71,5 +71,6 @@
             "Subsidy",
             "Tea"
         ]
-    }
+    },
+    "id": "001922"
 }

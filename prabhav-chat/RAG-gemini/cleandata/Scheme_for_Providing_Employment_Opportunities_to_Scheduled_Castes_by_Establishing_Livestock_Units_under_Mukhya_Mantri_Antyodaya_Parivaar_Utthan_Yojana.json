@@ -8,8 +8,8 @@
         "details": "The scheme is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana. Under the scheme, an unemployed resident of Haryana belonging to the Scheduled Caste category can avail a subsidy for purchasing livestock. This subsidy will be provided after the establishment of the livestock units and can be availed as a loan by the beneficiary. The scheme covers the establishment of dairy units with 2 milch animals, 10+1 piggery units, and 15+1 sheep/goat units.",
         "benefits": [
             "50% subsidy on the cost of milch animals for establishing dairy units of 2 milch animals.",
-            "50% subsidy on the cost of livestock for establishing 10+1 piggery units, with a maximum amount of \u20b950,000/- as financial assistance.",
-            "90% subsidy on the cost of livestock for establishing 15+1 sheep/goat units, with a maximum amount of \u20b988,200/- as financial assistance.",
+            "50% subsidy on the cost of livestock for establishing 10+1 piggery units, with a maximum amount of ₹50,000/- as financial assistance.",
+            "90% subsidy on the cost of livestock for establishing 15+1 sheep/goat units, with a maximum amount of ₹88,200/- as financial assistance.",
             "Insurance assistance will be provided as per the available departmental scheme."
         ],
         "eligibility": [
@@ -52,11 +52,11 @@
             },
             {
                 "question": "How much subsidy is provided for establishing piggery units?",
-                "answer": "A 50% subsidy on the cost of livestock is provided for piggery units, with a maximum financial assistance of \u20b950,000/-."
+                "answer": "A 50% subsidy on the cost of livestock is provided for piggery units, with a maximum financial assistance of ₹50,000/-."
             },
             {
                 "question": "What subsidy is available for sheep/goat units?",
-                "answer": "A 90% subsidy on the cost of livestock is provided for sheep/goat units, with a maximum financial assistance of \u20b988,200/-."
+                "answer": "A 90% subsidy on the cost of livestock is provided for sheep/goat units, with a maximum financial assistance of ₹88,200/-."
             },
             {
                 "question": "Is there any financial assistance for insurance under this scheme?",
@@ -111,5 +111,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001704"
 }

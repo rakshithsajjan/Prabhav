@@ -5,9 +5,9 @@
         "department": "Agriculture",
         "type": "Subsidy",
         "beneficiary": "Groups of 8-10 actual adult farmers",
-        "details": "The 'Distribution of Tractor Unit' Scheme is a Component under the Umbrella Scheme of 'Chief Minister Samagra Gramya Unnayan Yojna (CMSGUY)' by the Govt. of Assam. CMSGUY is a village development scheme launched by Hon'ble Chief Minister Sarbananda Sonowal on 5th February 2017 in Guwahati. The scheme is being implemented in a mega mission mode in all villages of Assam. CMSGUY will be implemented through a saturation model by covering each revenue village through focused interventions in direct economic activities, logistic support including market linkages, and community support. The main objective of the 'Distribution of Tractor Unit' scheme is to revive the agricultural sector and help in doubling the farmer\u2019s income by 2022. Under the new revised tractor scheme, the government will provide one tractor along with some necessary accessories in each revenue village at subsidized rates. The state govt. will distribute approx 10,109 tractors in the first phase. This tractor distribution scheme will cover all 26,000 villages of the entire state in a phase-wise manner. A group of 8-10 people who are actual adult farmers can apply to this scheme. The state govt. has allotted \u20b9 1,000 Crore for the successful implementation of this scheme.",
+        "details": "The 'Distribution of Tractor Unit' Scheme is a Component under the Umbrella Scheme of 'Chief Minister Samagra Gramya Unnayan Yojna (CMSGUY)' by the Govt. of Assam. CMSGUY is a village development scheme launched by Hon'ble Chief Minister Sarbananda Sonowal on 5th February 2017 in Guwahati. The scheme is being implemented in a mega mission mode in all villages of Assam. CMSGUY will be implemented through a saturation model by covering each revenue village through focused interventions in direct economic activities, logistic support including market linkages, and community support. The main objective of the 'Distribution of Tractor Unit' scheme is to revive the agricultural sector and help in doubling the farmer’s income by 2022. Under the new revised tractor scheme, the government will provide one tractor along with some necessary accessories in each revenue village at subsidized rates. The state govt. will distribute approx 10,109 tractors in the first phase. This tractor distribution scheme will cover all 26,000 villages of the entire state in a phase-wise manner. A group of 8-10 people who are actual adult farmers can apply to this scheme. The state govt. has allotted ₹ 1,000 Crore for the successful implementation of this scheme.",
         "benefits": [
-            "70% subsidy will be provided to the selected groups on the price of the tractor, and its accessories including implements (as opted by the beneficiary group) subject to a maximum of \u20b9 5,50,000.",
+            "70% subsidy will be provided to the selected groups on the price of the tractor, and its accessories including implements (as opted by the beneficiary group) subject to a maximum of ₹ 5,50,000.",
             "The group will provide tractors to the farmers on a rental basis.",
             "Each tractor unit shall consist of one tractor (35 to 50 HP) with standard accessories and Matching Implements."
         ],
@@ -26,7 +26,7 @@
             "Identity Card of all members of the Group",
             "PAN Card of all members of the Group",
             "Voter ID Cards of all members of the Group",
-            "Group\u2019s Bank Account Passbook and Bank Statement",
+            "Group’s Bank Account Passbook and Bank Statement",
             "KCC of Members (if any)",
             "Power of Attorney for Authorized Signatory in the form of an Affidavit",
             "Proof of Land Holding of all members of the Group",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What Are The Objectives Of The 'Distribution Of Tractor Unit' Component Of CMSGUY?",
-                "answer": "The main objective of the 'Distribution of Tractor Unit' scheme is to revive the agricultural sector and help in doubling the farmer\u2019s income by 2022."
+                "answer": "The main objective of the 'Distribution of Tractor Unit' scheme is to revive the agricultural sector and help in doubling the farmer’s income by 2022."
             },
             {
                 "question": "How Many Tractors Are Estimated For Distribution In The First Phase?",
@@ -59,7 +59,7 @@
             },
             {
                 "question": "How Many Funds Have Been Allotted By The State Government For This Scheme?",
-                "answer": "The state govt. has allotted \u20b9 1,000 Crore for the successful implementation of this scheme."
+                "answer": "The state govt. has allotted ₹ 1,000 Crore for the successful implementation of this scheme."
             },
             {
                 "question": "Can An Individual Person Apply To This Scheme?",
@@ -67,7 +67,7 @@
             },
             {
                 "question": "What Percentage Of The Subsidy Shall Be Provided By The Government?",
-                "answer": "70% subsidy will be provided to the selected groups on the price of the tractor, and its accessories including implements (as opted by the beneficiary group) subject to a maximum of \u20b9 5,50,000."
+                "answer": "70% subsidy will be provided to the selected groups on the price of the tractor, and its accessories including implements (as opted by the beneficiary group) subject to a maximum of ₹ 5,50,000."
             },
             {
                 "question": "What Shall Be The Duration Of The Service?",
@@ -93,5 +93,6 @@
             "Farming",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000413"
 }

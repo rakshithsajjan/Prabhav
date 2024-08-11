@@ -5,9 +5,9 @@
         "department": "Department for the Welfare of Differently Abled Persons",
         "type": "Allowance",
         "beneficiary": "Person With Disability",
-        "details": "The 'Scheme of Personal Assistance Allowance to Differently Abled Persons with High Support Need' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to provide a personal assistance allowance of \u20b91,000/- to differently abled persons who need assistance for their activities of daily living. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
+        "details": "The 'Scheme of Personal Assistance Allowance to Differently Abled Persons with High Support Need' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to provide a personal assistance allowance of ₹1,000/- to differently abled persons who need assistance for their activities of daily living. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
         "benefits": [
-            "Financial Assistance of \u20b91,000/- per month."
+            "Financial Assistance of ₹1,000/- per month."
         ],
         "eligibility": [
             "The applicant should be a differently abled person.",
@@ -30,7 +30,7 @@
             },
             {
                 "question": "What is the amount of allowance provided to differently abled persons under this scheme?",
-                "answer": "\u20b91,000/- per month is provided as the personal assistance allowance to eligible beneficiaries."
+                "answer": "₹1,000/- per month is provided as the personal assistance allowance to eligible beneficiaries."
             },
             {
                 "question": "How is the allowance disbursed to beneficiaries?",
@@ -74,5 +74,6 @@
             "Personal Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001735"
 }

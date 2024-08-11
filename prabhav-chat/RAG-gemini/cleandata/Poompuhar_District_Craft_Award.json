@@ -5,9 +5,9 @@
         "department": "Department of Handlooms, Handicrafts, Textiles & Khadi, Govt. of Tamil Nadu",
         "type": "Financial Assistance",
         "beneficiary": "Artisans",
-        "details": "The 'Poompuhar District Craft Award' scheme was launched in the year 2011-2012 by the Department of Handlooms, Handicrafts, Textiles & Khadi, Govt. of Tamil Nadu. The award was introduced to recognize and honor the artisans district-wise. The awards are conferred every year and consist of a cash prize of \u20b910,000/-, a silver medal, and a certificate. The award is granted annually.",
+        "details": "The 'Poompuhar District Craft Award' scheme was launched in the year 2011-2012 by the Department of Handlooms, Handicrafts, Textiles & Khadi, Govt. of Tamil Nadu. The award was introduced to recognize and honor the artisans district-wise. The awards are conferred every year and consist of a cash prize of ₹10,000/-, a silver medal, and a certificate. The award is granted annually.",
         "benefits": [
-            "Cash Prize of \u20b910,000/-",
+            "Cash Prize of ₹10,000/-",
             "Silver Medal",
             "Certificate"
         ],
@@ -26,7 +26,7 @@
             "Address Proof (Family Card/ Voter ID Card/Driving License)",
             "Aadhaar Card",
             "Front Page of Bank Passbook",
-            "Artisan's Affidavit on \u20b920/- Stamp Paper, attested by a First Class Criminal Judge or Notary Public",
+            "Artisan's Affidavit on ₹20/- Stamp Paper, attested by a First Class Criminal Judge or Notary Public",
             "Recommendation Certificate, attested by any of the Managers of Poombucar Outlets and Manufacturing Plants / the respective Area Assistant Directors (Handicrafts / Craft Council (Tamil Nadu/India/World) under the Office of the Development Commissioner, New Delhi",
             "Photographs of the Item to be offered for selection"
         ],
@@ -41,7 +41,7 @@
             },
             {
                 "question": "How much is the cash prize for the Poompuhar District Craft Award?",
-                "answer": "The cash prize for the Poompuhar District Craft Award is \u20b910,000/-, a silver medal, and a certificate."
+                "answer": "The cash prize for the Poompuhar District Craft Award is ₹10,000/-, a silver medal, and a certificate."
             },
             {
                 "question": "How many artisans are selected and considered for the award?",
@@ -107,5 +107,6 @@
             "Financial Assistance",
             "Prize"
         ]
-    }
+    },
+    "id": "001453"
 }

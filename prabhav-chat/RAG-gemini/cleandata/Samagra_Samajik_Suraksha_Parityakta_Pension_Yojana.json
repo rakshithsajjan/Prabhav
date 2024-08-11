@@ -7,7 +7,7 @@
         "beneficiary": "Families living below the poverty line",
         "details": "Samagra Samajik Suraksha Parityakta Pension Yojana under the Department of Social Justice government of Madhya Pradesh provides financial benefits to families living below the poverty line to fulfill the basic needs of life.",
         "benefits": [
-            "Pension Benefits: \u20b9 600/- per month"
+            "Pension Benefits: ₹ 600/- per month"
         ],
         "eligibility": [
             "The applicant should be a native of Madhya Pradesh.",
@@ -31,7 +31,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "Yes, there are cash benefit \u20b9 600 per month."
+                "answer": "Yes, there are cash benefit ₹ 600 per month."
             },
             {
                 "question": "Is this scheme for all the citizen of India?",
@@ -74,5 +74,6 @@
             "Financial Benefits",
             "Pension"
         ]
-    }
+    },
+    "id": "001639"
 }

@@ -7,10 +7,10 @@
         "beneficiary": "Law graduates belonging to the scheduled caste category and senior lawyers who train them",
         "details": "The scheme 'Dr. P. G. Solanki Scheme for Stipend to Scheduled Caste Lawyers' was launched by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was launched in year 2000. Under the scheme, a monthly stipend is provided for three years to law graduates belonging to the scheduled caste category, as well as to the senior lawyer who trains such individuals. This support is extended due to their poor financial condition, aiming to prevent mid-practice dropout.",
         "benefits": [
-            "\u20b91,000/- per month for First Year Training",
-            "\u20b9800/- per month for Second Year Training",
-            "\u20b9600/- per month for Third Year Training",
-            "\u20b9500/- per month as given to Senior Lawyer for giving training"
+            "₹1,000/- per month for First Year Training",
+            "₹800/- per month for Second Year Training",
+            "₹600/- per month for Third Year Training",
+            "₹500/- per month as given to Senior Lawyer for giving training"
         ],
         "eligibility": [
             "The applicant should be a Law graduate.",
@@ -56,19 +56,19 @@
             },
             {
                 "question": "How much stipend is provided for the first year of training?",
-                "answer": "\u20b91,000/- per month."
+                "answer": "₹1,000/- per month."
             },
             {
                 "question": "What is the stipend amount for the second year of training?",
-                "answer": "\u20b9800/- per month."
+                "answer": "₹800/- per month."
             },
             {
                 "question": "How much stipend is given for the third year of training?",
-                "answer": "\u20b9600/- per month."
+                "answer": "₹600/- per month."
             },
             {
                 "question": "What stipend amount is provided to the senior lawyer for providing training?",
-                "answer": "\u20b9500/- per month."
+                "answer": "₹500/- per month."
             },
             {
                 "question": "What are the eligibility criteria for applicants?",
@@ -140,5 +140,6 @@
             "Stipend",
             "Training"
         ]
-    }
+    },
+    "id": "000443"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Families Below Poverty Line (BPL) and persons with disabilities",
         "details": "The Sanjay Gandhi Niradhar Grant Scheme provides financial assistance to families Below Poverty Line (BPL) and persons with disabilities to support their living expenses.",
         "benefits": [
-            "Financial assistance of \u20b9600/- per month for one beneficiary",
-            "Financial assistance of \u20b9900/- per month for more than one beneficiary",
+            "Financial assistance of ₹600/- per month for one beneficiary",
+            "Financial assistance of ₹900/- per month for more than one beneficiary",
             "Support for orphan children and persons with disabilities"
         ],
         "eligibility": [
@@ -31,7 +31,7 @@
         "faqs": [
             {
                 "question": "How Much Shall Be The Maximum Amount Of Financial Assistance In Case There Is Only One Beneficiary In The Family?",
-                "answer": "The maximum amount of financial assistance shall be \u20b9600/- per month in case there is only one beneficiary in the family."
+                "answer": "The maximum amount of financial assistance shall be ₹600/- per month in case there is only one beneficiary in the family."
             },
             {
                 "question": "Can Only Families Who Are Below Poverty Line Apply To This Scheme?",
@@ -90,5 +90,6 @@
             "Disability Support",
             "Maharashtra Government Scheme"
         ]
-    }
+    },
+    "id": "001643"
 }

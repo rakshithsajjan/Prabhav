@@ -7,8 +7,8 @@
         "beneficiary": "Priests, Purohit",
         "details": "The scheme 'State Welfare Scheme for Purohits' was launched by the Department of Information & Cultural Affairs, West Bengal in September 2020 to benefit the financially distressed practicing temple /tribal purohit or priests of other communities like Christians, Jain, and Buddhists. The Purohits and priests of other communities like Christians, Jains, Buddhists & Parsis perform important social, cultural, and community functions having wide public ramifications. Considering the very significant roles played by the Purohits and priests of other communities like Christians, Jains, Buddhists & Parsis in our society and in view of their financial condition, the State Government has launched the scheme.",
         "benefits": [
-            "Monthly Financial Assistance for all the poor Purohits and poor priests of other communities like Christians, Jains, Buddhists & Parsis of \u20b91,000/- per month.",
-            "A grant of \u20b91,20,000/- will be provided to each poor Purohit/poor priest of other communities like Christians/ Jains/ Buddhists / Parsis for the construction of a dwelling house."
+            "Monthly Financial Assistance for all the poor Purohits and poor priests of other communities like Christians, Jains, Buddhists & Parsis of ₹1,000/- per month.",
+            "A grant of ₹1,20,000/- will be provided to each poor Purohit/poor priest of other communities like Christians/ Jains/ Buddhists / Parsis for the construction of a dwelling house."
         ],
         "eligibility": [
             "All the poor Purohits or poor priests of other communities like Christians, Jains, Buddhists, and Parsis in the State will be eligible under the scheme.",
@@ -50,11 +50,11 @@
             },
             {
                 "question": "How much financial assistance will be given to the eligible beneficiary?",
-                "answer": "Monthly Financial Assistance of \u20b91,000 /- will be given to the eligible beneficiary."
+                "answer": "Monthly Financial Assistance of ₹1,000 /- will be given to the eligible beneficiary."
             },
             {
                 "question": "How much financial grant will be provided to the beneficiary under Housing Scheme?",
-                "answer": "A grant of \u20b91,20,000/- will be provided to the eligible beneficiary for the construction of a dwelling house."
+                "answer": "A grant of ₹1,20,000/- will be provided to the eligible beneficiary for the construction of a dwelling house."
             },
             {
                 "question": "Is an applicant eligible if he/she is a beneficiary under any other Social Security pension scheme?",
@@ -94,5 +94,6 @@
             "Priests",
             "Purohit"
         ]
-    }
+    },
+    "id": "001854"
 }

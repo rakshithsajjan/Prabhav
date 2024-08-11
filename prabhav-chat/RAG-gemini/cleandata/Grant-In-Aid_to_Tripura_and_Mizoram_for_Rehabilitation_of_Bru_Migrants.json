@@ -5,12 +5,12 @@
         "department": "Ministry Of Home Affairs",
         "type": "Grant",
         "beneficiary": "Bru (Reang) families",
-        "details": "'Grant-In-Aid to Tripura and Mizoram for Rehabilitation of Bru Migrants' is a Repatriation Scheme by the Department of Home, Ministry of Home Affairs. The scheme aims at the permanent settlement of Bru (Reang) families. In 1997-1998, about 30,000 Bru (Reang) families migrated to North Tripura due to ethnic violence in Mizoram. Repatriation began in 2010, with around 1,622 Bru families (8,573 persons) resettled in Mizoram by 2014. An agreement in 2018 aimed to repatriate 5,407 Bru families, and by November 2019, 328 families (1,369 persons) returned to Mizoram. Some Bru families expressed a desire to settle in Tripura. A new agreement in January 2020 offered a financial assistance package of approximately \u20b96,61,00,00,000 for the permanent settlement of Bru (Reang) families in Tripura. The assistance package included Fixed Deposits (\u20b94,00,000 per family), monthly cash assistance (\u20b95,000 per family), free ration for 2 years, House Building Assistance (\u20b91,50,000 per family), land plots (30x40 sq. ft.), and free transportation to the place of resettlement. As of January 13, 2023, 6,179 families have been settled in 11 locations in Tripura.",
+        "details": "'Grant-In-Aid to Tripura and Mizoram for Rehabilitation of Bru Migrants' is a Repatriation Scheme by the Department of Home, Ministry of Home Affairs. The scheme aims at the permanent settlement of Bru (Reang) families. In 1997-1998, about 30,000 Bru (Reang) families migrated to North Tripura due to ethnic violence in Mizoram. Repatriation began in 2010, with around 1,622 Bru families (8,573 persons) resettled in Mizoram by 2014. An agreement in 2018 aimed to repatriate 5,407 Bru families, and by November 2019, 328 families (1,369 persons) returned to Mizoram. Some Bru families expressed a desire to settle in Tripura. A new agreement in January 2020 offered a financial assistance package of approximately ₹6,61,00,00,000 for the permanent settlement of Bru (Reang) families in Tripura. The assistance package included Fixed Deposits (₹4,00,000 per family), monthly cash assistance (₹5,000 per family), free ration for 2 years, House Building Assistance (₹1,50,000 per family), land plots (30x40 sq. ft.), and free transportation to the place of resettlement. As of January 13, 2023, 6,179 families have been settled in 11 locations in Tripura.",
         "benefits": [
-            "Fixed Deposits @ \u20b94,00,000 Per Family",
-            "Monthly Cash Assistance @ \u20b95,000 Per Family",
+            "Fixed Deposits @ ₹4,00,000 Per Family",
+            "Monthly Cash Assistance @ ₹5,000 Per Family",
             "Free Ration for 2 Years",
-            "House Building Assistance @ \u20b91,50,000 Per Family",
+            "House Building Assistance @ ₹1,50,000 Per Family",
             "Land Plots @ 30x40 Sq. Ft.",
             "Free Transportation to the Place of Resettlement"
         ],
@@ -31,7 +31,7 @@
             },
             {
                 "question": "Can you provide more details about the House Building Assistance provided to the Bru families?",
-                "answer": "Each family receives \u20b91,50,000 for House Building Assistance."
+                "answer": "Each family receives ₹1,50,000 for House Building Assistance."
             },
             {
                 "question": "What are the key components of the financial assistance package offered to the Bru (Reang) families for permanent settlement in Tripura?",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Can you provide more details on the financial assistance package offered in January 2020 for the permanent settlement of Bru (Reang) families in Tripura?",
-                "answer": "The package amounted to approximately \u20b96,61,00,00,000 and includes Fixed Deposits, monthly cash assistance, free ration, House Building Assistance, land plots, and transportation."
+                "answer": "The package amounted to approximately ₹6,61,00,00,000 and includes Fixed Deposits, monthly cash assistance, free ration, House Building Assistance, land plots, and transportation."
             },
             {
                 "question": "What led to the initiation of repatriation back to Mizoram, and how many families were resettled by 2014?",
@@ -87,5 +87,6 @@
             "Rehabilitation",
             "Shelter"
         ]
-    }
+    },
+    "id": "000705"
 }

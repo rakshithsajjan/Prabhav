@@ -7,16 +7,16 @@
         "beneficiary": "Students from minority communities",
         "details": "The Alpasankhyak Post-Matric Scholarship Scheme under the Higher Education Department of the Madhya Pradesh government provides financial assistance to students from minority communities in Madhya Pradesh pursuing post-secondary education. This scheme aims to alleviate the financial burden on economically disadvantaged minority students, enabling them to access quality education and pursue higher studies. By offering scholarships for tuition fees, maintenance allowances, and other educational expenses, it seeks to promote inclusive growth and empower minority communities through education.",
         "benefits": [
-            "Tuition fee of \u20b93,000/- per year for graduate and postgraduate students.",
-            "Maintenance allowance of \u20b9570/- per month for undergraduate and postgraduate hostel students.",
-            "Maintenance allowance of \u20b9300/- per month for non-hostel students.",
-            "Maintenance allowance of \u20b91,200/- per month for M.Phil. and Ph.D. hostel students.",
-            "Maintenance allowance of \u20b9550/- per month for M.Phil. and Ph.D. non-hostel students.",
+            "Tuition fee of ₹3,000/- per year for graduate and postgraduate students.",
+            "Maintenance allowance of ₹570/- per month for undergraduate and postgraduate hostel students.",
+            "Maintenance allowance of ₹300/- per month for non-hostel students.",
+            "Maintenance allowance of ₹1,200/- per month for M.Phil. and Ph.D. hostel students.",
+            "Maintenance allowance of ₹550/- per month for M.Phil. and Ph.D. non-hostel students.",
             "Maintenance allowance will be payable for 10 months."
         ],
         "eligibility": [
             "The applicant should be a native of the minority category of Madhya Pradesh.",
-            "The total annual income of the applicant's parents and guardian should not exceed \u20b92,00,000/-.",
+            "The total annual income of the applicant's parents and guardian should not exceed ₹2,00,000/-.",
             "Not less than 50 percent marks in the last qualifying examination."
         ],
         "exclusions": [],
@@ -45,19 +45,19 @@
             },
             {
                 "question": "How much is the maintenance allowance for undergraduate and postgraduate hostel students?",
-                "answer": "It is \u20b9570 per month for undergraduate and postgraduate hostel students."
+                "answer": "It is ₹570 per month for undergraduate and postgraduate hostel students."
             },
             {
                 "question": "How much is the maintenance allowance for non-hostel undergraduate and postgraduate students?",
-                "answer": "It is \u20b9300 per month for non-hostel undergraduate and postgraduate students."
+                "answer": "It is ₹300 per month for non-hostel undergraduate and postgraduate students."
             },
             {
                 "question": "What is the maintenance allowance for M.Phil. and Ph.D. hostel students?",
-                "answer": "It is \u20b91,200 per month for M.Phil. and Ph.D. hostel students."
+                "answer": "It is ₹1,200 per month for M.Phil. and Ph.D. hostel students."
             },
             {
                 "question": "How much is the maintenance allowance for M.Phil. and Ph.D. non-hostel students?",
-                "answer": "It is \u20b9550 per month for M.Phil. and Ph.D. non-hostel students."
+                "answer": "It is ₹550 per month for M.Phil. and Ph.D. non-hostel students."
             },
             {
                 "question": "Is there any additional financial assistance provided under the scheme?",
@@ -92,5 +92,6 @@
             "Scholarships",
             "Student"
         ]
-    }
+    },
+    "id": "000076"
 }

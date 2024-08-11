@@ -7,8 +7,8 @@
         "beneficiary": "Children of Construction Workers",
         "details": "The 'Riyaayati dar par Copies Ka Vitaran' scheme initiated by the Labor department of Madhya Pradesh with the aim to provide financial assistance to the children of the construction worker. It will reduce the financial burden and help to educate their children.",
         "benefits": [
-            "10 Small Copies: \u20b910/- per copy",
-            "10 Registers: \u20b914/- per register"
+            "10 Small Copies: ₹10/- per copy",
+            "10 Registers: ₹14/- per register"
         ],
         "eligibility": [
             "Applicant construction workers should be employed in industrial units/establishments falling within the circle's jurisdiction.",
@@ -75,5 +75,6 @@
             "Education Support",
             "Study Material"
         ]
-    }
+    },
+    "id": "001607"
 }

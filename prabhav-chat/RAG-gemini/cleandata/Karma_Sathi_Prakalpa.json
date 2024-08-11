@@ -7,7 +7,7 @@
         "beneficiary": "Intending or prospective entrepreneurs",
         "details": "The Government of West Bengal has taken remarkable initiatives in employment generation for the promising youth by opening new doors to help intending or prospective entrepreneurs and make them self-dependent, those who are interested in new ventures. Employment generation is one of the thrust areas of the State Government, and because of that Government of West Bengal has launched and announced the West Bengal Karma Sathi Prakalpa Scheme 2020. The scheme aims to provide financial assistance and help passionate and prospective young entrepreneurs to start their own businesses as self-employed youth who will become employers in the future and generate more employment.",
         "benefits": [
-            "Loans of up to \u20b92,00,000/- for each beneficiary",
+            "Loans of up to ₹2,00,000/- for each beneficiary",
             "Subsidies for taking up new projects",
             "Target of providing loans to one lakh youths every year"
         ],
@@ -74,5 +74,6 @@
             "Loan",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000970"
 }

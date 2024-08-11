@@ -8,8 +8,8 @@
         "details": "The scheme 'Post Graduate Scholarships for Professional Courses for SC/ST Candidates' has been initiated to provide opportunities to the deprived sections of the society, viz. the Scheduled Caste (SC) and Scheduled Tribe (ST) for undertaking postgraduate level studies in Professional subjects like Engineering & Technology, Management, Pharmacy etc. in recognized Indian Universities/Institutions/Colleges.",
         "benefits": [
             "The tenure of the award is for two/three years depending upon the tenure of the postgraduate course and not for an extended period of study, if any.",
-            "Candidates selected for the award of PG scholarships (under ME/M.Tech.) shall be provided a Scholarship @ \u20b97800/-per month for the duration of the PG Scholarship.",
-            "For other courses, the amount of scholarship will be paid @\u20b94500/- per month.",
+            "Candidates selected for the award of PG scholarships (under ME/M.Tech.) shall be provided a Scholarship @ ₹7800/-per month for the duration of the PG Scholarship.",
+            "For other courses, the amount of scholarship will be paid @₹4500/- per month.",
             "No contingency is payable to the students selected under the scheme with effect from the selection year 2017-18.",
             "The scholarship shall be payable to the awardee from the date of joining the Post Graduate 1 year course during the selection year."
         ],
@@ -91,5 +91,6 @@
             "SC/ST",
             "Professional Courses"
         ]
-    }
+    },
+    "id": "001456"
 }

@@ -5,15 +5,15 @@
         "department": "Department of Sainik Welfare",
         "type": "Grant",
         "beneficiary": "Academically meritorious wards of Ex-Servicemen and Widows of Ex-Servicemen",
-        "details": "'Grant to Meritorious Wards of Ex-Servicemen in Academics (Lump Sum Grant)' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the academically meritorious wards of the Ex-Servicemen (ESM) / Widows of ESM who have secured the top three ranks in academics are provided with lump sum grants of upto \u20b918,000. The application should be submitted within three months from the date of publication of the result of the respective exam.",
+        "details": "'Grant to Meritorious Wards of Ex-Servicemen in Academics (Lump Sum Grant)' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, the academically meritorious wards of the Ex-Servicemen (ESM) / Widows of ESM who have secured the top three ranks in academics are provided with lump sum grants of upto ₹18,000. The application should be submitted within three months from the date of publication of the result of the respective exam.",
         "benefits": [
-            "1st Rank in 10th: \u20b915,000",
-            "2nd Rank in 10th: \u20b913,000",
-            "3rd Rank in 10th: \u20b911,000",
-            "1st Rank in 12th: \u20b918,000",
-            "2nd Rank in 12th: \u20b916,000",
-            "3rd Rank in 12th: \u20b914,000",
-            "University Gold Medal: \u20b914,000"
+            "1st Rank in 10th: ₹15,000",
+            "2nd Rank in 10th: ₹13,000",
+            "3rd Rank in 10th: ₹11,000",
+            "1st Rank in 12th: ₹18,000",
+            "2nd Rank in 12th: ₹16,000",
+            "3rd Rank in 12th: ₹14,000",
+            "University Gold Medal: ₹14,000"
         ],
         "eligibility": [
             "The applicant should be a Ward of an ESM / Ward of the Widow of an ESM.",
@@ -72,5 +72,6 @@
             "Education Grant",
             "Puducherry"
         ]
-    }
+    },
+    "id": "000743"
 }

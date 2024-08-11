@@ -5,13 +5,13 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Subsidy",
         "beneficiary": "Children of migrant construction workers",
-        "details": "The 'Hostel Assistance Scheme for Children of Migrant Construction Workers' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). Under the scheme, hostel facilities for free accommodation and meals shall be provided to the children of migrant construction workers in primary school. The objective of the scheme is to provide primary, secondary and higher education to the children of migrant construction workers.",
+        "details": "The 'Hostel Assistance Scheme for Children of Migrant Construction Workers' is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB). Under the scheme, hostel facilities for free accommodation and meals shall be provided to the children of migrant construction workers in primary school. The objective of the scheme is to provide primary, secondary and higher education to the children of migrant construction workers.",
         "benefits": [
             "Free accommodation in primary school hostels"
         ],
         "eligibility": [
             "Children of registered construction workers studying in government primary and secondary schools of the district",
-            "Construction workers must be registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board"
+            "Construction workers must be registered with the Gujarat Building and Other Construction Worker’s Welfare Board"
         ],
         "exclusions": [],
         "application_process": "Applicants need to visit the nearest office of the District Development Officer.",
@@ -23,7 +23,7 @@
         "faqs": [
             {
                 "question": "Who implements the Hostel Assistance Scheme?",
-                "answer": "The scheme is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB), under the Labour, Skill Development & Employment Department, Government of Gujarat."
+                "answer": "The scheme is implemented by the Gujarat Building and Other Construction Worker’s Welfare Board (GBOCWWB), under the Labour, Skill Development & Employment Department, Government of Gujarat."
             },
             {
                 "question": "What is the purpose of the objectives of the scheme?",
@@ -56,5 +56,6 @@
             "Labour",
             "School"
         ]
-    }
+    },
+    "id": "000786"
 }

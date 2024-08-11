@@ -7,8 +7,8 @@
         "beneficiary": "Thrust Area Industries",
         "details": "The 'Capital Investment Subsidy: Thrust Area Industries' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. The Thrust Area Industries are provided Subsidy on the Investments on Plant and Machinery. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "20% subsidy subject to a maximum of \u20b920,00,000/- for large and medium enterprises.",
-            "35% subsidy subject to a maximum of \u20b930,00,000/- for small and micro enterprises.",
+            "20% subsidy subject to a maximum of ₹20,00,000/- for large and medium enterprises.",
+            "35% subsidy subject to a maximum of ₹30,00,000/- for small and micro enterprises.",
             "Subsidy disbursed in a single installment."
         ],
         "eligibility": [
@@ -22,7 +22,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
+            "Engineer’s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
             "Registered Lease Agreement for the Building Executed Between the Developer and the Unit.",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
@@ -57,11 +57,11 @@
             },
             {
                 "question": "How much subsidy is offered to small and micro enterprises, and what is the maximum limit?",
-                "answer": "Small and micro enterprises are eligible for a 35% subsidy, with a maximum limit of \u20b930,00,000."
+                "answer": "Small and micro enterprises are eligible for a 35% subsidy, with a maximum limit of ₹30,00,000."
             },
             {
                 "question": "What percentage of subsidy is provided for large and medium enterprises, and what is the maximum limit?",
-                "answer": "Large and medium enterprises receive a 20% subsidy, capped at \u20b920,00,000."
+                "answer": "Large and medium enterprises receive a 20% subsidy, capped at ₹20,00,000."
             },
             {
                 "question": "What types of industries are considered Thrust Area Industries eligible for the subsidy?",
@@ -106,5 +106,6 @@
             "Machine",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000244"
 }

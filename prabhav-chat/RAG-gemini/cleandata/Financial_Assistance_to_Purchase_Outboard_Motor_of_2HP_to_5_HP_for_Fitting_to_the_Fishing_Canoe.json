@@ -7,8 +7,8 @@
         "beneficiary": "Fishermen",
         "details": "Financial Assistance to Purchase Outboard Motor of 2HP to 5 HP for Fitting to the Fishing Canoe is a scheme by the Department of Fisheries, Government of Goa. This Scheme has been introduced to grant financial assistance in the form of a subsidy on the purchase of an outboard motor of 2HP to 5 HP for the operation of the fishing canoe below 26 feet. The applications are accepted only in offline mode.",
         "benefits": [
-            "50% subsidy, limited to \u20b930,000 on a unit cost of \u20b960,000 (excluding GST) for General Category",
-            "60% subsidy, limited to \u20b936,000 on a unit cost of \u20b960,000 (excluding GST) for SC/ST/Woman Category",
+            "50% subsidy, limited to ₹30,000 on a unit cost of ₹60,000 (excluding GST) for General Category",
+            "60% subsidy, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST) for SC/ST/Woman Category",
             "Financial assistance is provided for only 01 Outboard Motor for fitting to the fishing canoe of below 26 feet",
             "Beneficiary can avail of the scheme every 5 years"
         ],
@@ -18,7 +18,7 @@
             "The applicant's Fishing Canoe should be registered with the Department of Captain of Ports, Government of Goa"
         ],
         "exclusions": [],
-        "application_process": "Offline. The interested applicant should request the prescribed format of the application form from the department by paying \u20b950/-. Fill in all mandatory fields, paste a passport-sized photograph, and attach copies of all mandatory documents. Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/Sub-Offices of the Department of Fisheries.",
+        "application_process": "Offline. The interested applicant should request the prescribed format of the application form from the department by paying ₹50/-. Fill in all mandatory fields, paste a passport-sized photograph, and attach copies of all mandatory documents. Submit the duly filled and signed application form along with the documents to the concerned authority at the Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at BDO Office/Sub-Offices of the Department of Fisheries.",
         "documents_required": [
             "Vessel Registration Certificate (VRC) issued by the Captain of Ports or the Directorate of Fisheries, Government of Goa",
             "River Gill Net Registration Certificate (RGNC) and License Certificate (LC) issued by the Department of Fisheries",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What is the unit cost of the Outboard Motor for the scheme?",
-                "answer": "The unit cost of the Outboard Motor is \u20b960,000 (excluding GST)."
+                "answer": "The unit cost of the Outboard Motor is ₹60,000 (excluding GST)."
             },
             {
                 "question": "Can a beneficiary apply online for the scheme?",
@@ -56,11 +56,11 @@
             },
             {
                 "question": "What is the subsidy amount for SC/ST/Woman Category?",
-                "answer": "The subsidy for SC/ST/Woman Category is 60%, limited to \u20b936,000 on a unit cost of \u20b960,000 (excluding GST)."
+                "answer": "The subsidy for SC/ST/Woman Category is 60%, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST)."
             },
             {
                 "question": "Is there a specific format for the application form?",
-                "answer": "Yes, the applicant should request the prescribed format from the department by paying \u20b950."
+                "answer": "Yes, the applicant should request the prescribed format from the department by paying ₹50."
             },
             {
                 "question": "What is the Grievance Redressal Officer's contact information?",
@@ -111,5 +111,6 @@
             "Fishermen",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000604"
 }

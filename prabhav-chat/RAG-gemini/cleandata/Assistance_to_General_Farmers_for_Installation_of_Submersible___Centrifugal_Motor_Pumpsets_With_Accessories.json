@@ -5,10 +5,10 @@
         "department": "Department of Agriculture and Farmer's Welfare",
         "type": "Subsidy",
         "beneficiary": "Farmers from the General Category",
-        "details": "The scheme 'Assistance to General Farmers for Installation of Submersible / Centrifugal Motor Pumpsets With Accessories' was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the farmers from the General Category are provided with a grant of 65% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of \u20b950,000 per tubewell per individual.",
+        "details": "The scheme 'Assistance to General Farmers for Installation of Submersible / Centrifugal Motor Pumpsets With Accessories' was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, the farmers from the General Category are provided with a grant of 65% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of ₹50,000 per tubewell per individual.",
         "benefits": [
-            "65% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of \u20b950,000 per tubewell per individual.",
-            "The subsidy amount shall be released through the Electronic Clearing System (ECS) if the applicant has undertaken the construction with his/her funds. In case, he/she has availed himself/herself loan from the Nationalized Bank / Co\u2010operative Bank towards the construction of the tubewell, the subsidy amount shall be remitted to the Bank against the loan account of the beneficiary."
+            "65% subsidy towards the installation of suitable Submersible / Centrifugal motor pump sets with accessories, subject to a maximum of ₹50,000 per tubewell per individual.",
+            "The subsidy amount shall be released through the Electronic Clearing System (ECS) if the applicant has undertaken the construction with his/her funds. In case, he/she has availed himself/herself loan from the Nationalized Bank / Co‐operative Bank towards the construction of the tubewell, the subsidy amount shall be remitted to the Bank against the loan account of the beneficiary."
         ],
         "eligibility": [
             "The applicant should be from the General Category.",
@@ -53,12 +53,12 @@
                 "answer": "The applicant should have ownership of the land for at least 2 years and possess a clear ownership title deed in their name."
             },
             {
-                "question": "What is the mode of subsidy release if the applicant has availed a loan from a Nationalized Bank or Co\u2010operative Bank?",
+                "question": "What is the mode of subsidy release if the applicant has availed a loan from a Nationalized Bank or Co‐operative Bank?",
                 "answer": "The subsidy amount is remitted directly to the bank against the loan account of the beneficiary."
             },
             {
                 "question": "What is the maximum subsidy provided under the scheme for each tubewell per individual?",
-                "answer": "The scheme provides a 65% subsidy, with a maximum limit of \u20b950,000 per tubewell per individual."
+                "answer": "The scheme provides a 65% subsidy, with a maximum limit of ₹50,000 per tubewell per individual."
             },
             {
                 "question": "What type of bond should the applicant execute regarding the land use?",
@@ -105,5 +105,6 @@
             "Pump",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000127"
 }

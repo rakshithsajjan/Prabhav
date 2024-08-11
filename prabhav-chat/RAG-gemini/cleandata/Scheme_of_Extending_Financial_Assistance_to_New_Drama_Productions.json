@@ -5,9 +5,9 @@
         "department": "Art & Culture Department, Government of Tamil Nadu",
         "type": "Financial Assistance",
         "beneficiary": "Artists",
-        "details": "The 'Scheme of Extending Financial Assistance to New Drama Productions' was launched by the Art & Culture Department, Government of Tamil Nadu. The scheme aims to encourage the dance-drama art forms and the artists involved in such arts. The scheme provides grants of \u20b920,000/- for the production and staging of new Tamil dance dramas based on Tamil arts, literature and culture.",
+        "details": "The 'Scheme of Extending Financial Assistance to New Drama Productions' was launched by the Art & Culture Department, Government of Tamil Nadu. The scheme aims to encourage the dance-drama art forms and the artists involved in such arts. The scheme provides grants of ₹20,000/- for the production and staging of new Tamil dance dramas based on Tamil arts, literature and culture.",
         "benefits": [
-            "Financial Assistance of upto \u20b920,000/-, based on the quality and sceneries of the social, historical, mythological, dramas selected by the expert committee.",
+            "Financial Assistance of upto ₹20,000/-, based on the quality and sceneries of the social, historical, mythological, dramas selected by the expert committee.",
             "The financial assistance is provided in four instalments: 30% as the first instalment, 40% as the second instalment, 20% as the third instalment, and 10% as the fourth instalment."
         ],
         "eligibility": [
@@ -42,7 +42,7 @@
             },
             {
                 "question": "What is the financial assistance provided under this scheme?",
-                "answer": "Financial assistance of up to \u20b920,000/- is provided for the production and staging of new Tamil dance dramas based on Tamil arts, literature, and culture."
+                "answer": "Financial assistance of up to ₹20,000/- is provided for the production and staging of new Tamil dance dramas based on Tamil arts, literature, and culture."
             },
             {
                 "question": "Is there a specific timeframe within which applications must be submitted?",
@@ -85,5 +85,6 @@
             "Tamil Nadu",
             "Art & Culture"
         ]
-    }
+    },
+    "id": "001718"
 }

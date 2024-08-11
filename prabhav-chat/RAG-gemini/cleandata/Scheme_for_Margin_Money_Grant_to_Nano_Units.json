@@ -7,13 +7,13 @@
         "beneficiary": "Nano units in manufacturing, job work, and service activity",
         "details": "The scheme 'Margin Money Grant to Nano Units' is a loan-linked scheme aimed at providing financial assistance to Nano units in Kerala engaged in various activities with value addition. It promotes deserving entrepreneurs to set up Nano enterprises through Margin Money loans.",
         "benefits": [
-            "Units with project costs up to \u20b910 Lakhs will be covered in the scheme.",
+            "Units with project costs up to ₹10 Lakhs will be covered in the scheme.",
             "Margin Money Grant of 30% to 40% of the Total Project cost according to the category of the applicant.",
             "Women, Youth (Age between 18 and 40), Differentially-Abled Persons, Ex-Servicemen, and persons belonging to the SC/ST category will be eligible for a 10% additional Grant.",
-            "The maximum limit of margin money grant under the scheme shall be \u20b94 lakhs per unit."
+            "The maximum limit of margin money grant under the scheme shall be ₹4 lakhs per unit."
         ],
         "eligibility": [
-            "All new Nano proprietary enterprises in manufacturing/food processing and job works and units engaged in the service sector having any type of value addition, whose project cost includes fixed capital and working capital up to \u20b910 lakhs are eligible for assistance under the scheme.",
+            "All new Nano proprietary enterprises in manufacturing/food processing and job works and units engaged in the service sector having any type of value addition, whose project cost includes fixed capital and working capital up to ₹10 lakhs are eligible for assistance under the scheme.",
             "The unit shall not have availed any grant assistance earlier under any schemes of the Government of India & Government of Kerala or Local Self Government Department."
         ],
         "exclusions": [],
@@ -43,7 +43,7 @@
             },
             {
                 "question": "Which types of enterprises are eligible to get the benefits of the scheme?",
-                "answer": "All new Nano proprietary enterprises in manufacturing/food processing and job works and units engaged in the service sector having any type of value addition, whose project cost includes fixed capital and working capital up to \u20b910 lakhs are eligible for assistance under the scheme."
+                "answer": "All new Nano proprietary enterprises in manufacturing/food processing and job works and units engaged in the service sector having any type of value addition, whose project cost includes fixed capital and working capital up to ₹10 lakhs are eligible for assistance under the scheme."
             },
             {
                 "question": "What is the benefit of the scheme?",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the maximum limit of the margin money grant under the scheme?",
-                "answer": "The maximum limit of margin money grant under the scheme shall be \u20b94 lakhs per unit."
+                "answer": "The maximum limit of margin money grant under the scheme shall be ₹4 lakhs per unit."
             },
             {
                 "question": "How shall assistance be released to the eligible entrepreneur?",
@@ -102,5 +102,6 @@
             "Financial Assistance",
             "Kerala"
         ]
-    }
+    },
+    "id": "001696"
 }

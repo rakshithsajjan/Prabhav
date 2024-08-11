@@ -5,7 +5,7 @@
         "department": "Ministry Of Labour and Employment",
         "type": "Insurance",
         "beneficiary": "Insured Persons (IPs)",
-        "details": "The scheme 'Atal Beemit Vyakti Kalyan Yojana (ABVKY)' was introduced by the Employees\u2019 State Insurance Corporation (ESIC) on a pilot basis for a period of 2 years w.e.f. 01.07.2018 for providing relief to the Insured Persons (IPs) who have become unemployed. Under this scheme relief in the form of cash compensation to the extent of 50% of the average per day earnings was paid up to a maximum of 90 days of unemployment subject to conditions that the employee should have completed two years of Insurable employment and has contributed not less than Seventy-Eight (78) days in each of the three consecutive contribution periods immediately preceding to the claim of the relief.",
+        "details": "The scheme 'Atal Beemit Vyakti Kalyan Yojana (ABVKY)' was introduced by the Employees’ State Insurance Corporation (ESIC) on a pilot basis for a period of 2 years w.e.f. 01.07.2018 for providing relief to the Insured Persons (IPs) who have become unemployed. Under this scheme relief in the form of cash compensation to the extent of 50% of the average per day earnings was paid up to a maximum of 90 days of unemployment subject to conditions that the employee should have completed two years of Insurable employment and has contributed not less than Seventy-Eight (78) days in each of the three consecutive contribution periods immediately preceding to the claim of the relief.",
         "benefits": [
             "The scheme provides relief to the extent of 50% of the average per day earnings of employees during their last employment.",
             "The relief amount to be paid up to a maximum of 90 days of unemployment (once in a lifetime) subject to conditions that the employee should have completed two years of Insurable employment and has contributed not less than Seventy-Eight (78) days in each of the three consecutive contribution periods.",
@@ -45,11 +45,11 @@
         "faqs": [
             {
                 "question": "What is the 'ABVKY' Scheme?",
-                "answer": "The scheme 'Atal Beemit Vyakti Kalyan Yojana (ABVKY)' was introduced by the Employees\u2019 State Insurance Corporation (ESIC) on a pilot basis for a period of 2 years w.e.f. 01.07.2018 for providing relief to the Insured Persons (IPs) who have become unemployed."
+                "answer": "The scheme 'Atal Beemit Vyakti Kalyan Yojana (ABVKY)' was introduced by the Employees’ State Insurance Corporation (ESIC) on a pilot basis for a period of 2 years w.e.f. 01.07.2018 for providing relief to the Insured Persons (IPs) who have become unemployed."
             },
             {
                 "question": "Which is the implementing agency of this scheme?",
-                "answer": "Employees\u2019 State Insurance Corporation (ESIC), Ministry of Labour & Employment, Government of India."
+                "answer": "Employees’ State Insurance Corporation (ESIC), Ministry of Labour & Employment, Government of India."
             },
             {
                 "question": "What are the eligibility criteria to apply under the scheme?",
@@ -92,5 +92,6 @@
             "Employee Welfare",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000136"
 }

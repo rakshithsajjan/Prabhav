@@ -12,7 +12,7 @@
         "eligibility": [
             "Candidate must be domicile of the West Bengal.",
             "Merit rank in State Level/National Level Entrance Examination.",
-            "Annual family income of the candidate must not be more than \u20b9 2,50,000/-."
+            "Annual family income of the candidate must not be more than ₹ 2,50,000/-."
         ],
         "exclusions": [
             "Candidates selected under Tuition Free Waiver (TFW) Scheme of All India Council for Technical Education (AICTE) or West Bengal Swami Vivekananda Merit-cum-Means Scholarship Scheme will not be eligible under this WBFS."
@@ -57,7 +57,7 @@
             },
             {
                 "question": "What should be the income criteria for the candidate's family?",
-                "answer": "Annual family income of the candidate must not be more than \u20b9 2,50,000/-."
+                "answer": "Annual family income of the candidate must not be more than ₹ 2,50,000/-."
             },
             {
                 "question": "Whether the candidates selected under Tuition Free Waiver (TFW) Scheme of All India Council for Technical Education (AICTE) or West Bengal Swami Vivekananda Merit-cum-Means Scholarship Scheme are eligible under this scheme?",
@@ -82,5 +82,6 @@
             "Pharmacy",
             "Tuition Fee Waiver"
         ]
-    }
+    },
+    "id": "002034"
 }

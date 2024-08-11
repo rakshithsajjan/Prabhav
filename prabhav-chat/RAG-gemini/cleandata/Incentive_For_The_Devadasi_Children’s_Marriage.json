@@ -1,6 +1,6 @@
 {
     "content": {
-        "title": "Incentive For The Devadasi Children\u2019s Marriage",
+        "title": "Incentive For The Devadasi Children’s Marriage",
         "state": "Karnataka",
         "department": "Social Welfare Department",
         "type": "Incentive",
@@ -48,7 +48,7 @@
             },
             {
                 "question": "Is there a limit on the annual family income of the applicant?",
-                "answer": "Yes, the Annual Family Income Of The Applicant should be below \u20b95,00,000/-."
+                "answer": "Yes, the Annual Family Income Of The Applicant should be below ₹5,00,000/-."
             },
             {
                 "question": "Which documents are required for this scheme?",
@@ -60,7 +60,7 @@
             },
             {
                 "question": "How to obtain Caste and Income Certificates?",
-                "answer": "These certificates can be availed online. The link to get a Caste Certificate is \u2013 https://sevasindhu.karnataka.gov.in/Category/Caste%20Certificate.html The link to get an Income Certificate is \u2013 https://sevasindhu.karnataka.gov.in/Category/Income%20Certificate.html."
+                "answer": "These certificates can be availed online. The link to get a Caste Certificate is – https://sevasindhu.karnataka.gov.in/Category/Caste%20Certificate.html The link to get an Income Certificate is – https://sevasindhu.karnataka.gov.in/Category/Income%20Certificate.html."
             }
         ],
         "sources": [
@@ -87,5 +87,6 @@
             "Marriage",
             "SC"
         ]
-    }
+    },
+    "id": "000811"
 }

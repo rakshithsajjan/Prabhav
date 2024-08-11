@@ -7,7 +7,7 @@
         "beneficiary": "AICTE-approved technical institutions / University Departments",
         "details": "MODROB scheme, one of the AICTE Quality Improvement Scheme (AQIS), intends to support the development of laboratories with appropriate equipment/ technology/ tools/ software and encourages financial contribution from the industry. This is to ensure that the practical work and project work to be carried out by students is contemporary and suits the needs of the industry. The funds under this Scheme could ideally be used to create technical infrastructure for a revised curriculum, for up-gradation of equipment in existing laboratories, enhancement of performance of existing equipment, or replacement of depreciated equipment with modern equipment. This scheme has three variants addressing the needs of: (i) MODROB- Aspiring Institutes, (ii) MODROB- Polytechnic, (iii) MODROB- Regular.",
         "benefits": [
-            "Duration of Project: Two years from the date of receipt of funds in the institute\u2019s account.",
+            "Duration of Project: Two years from the date of receipt of funds in the institute’s account.",
             "Limit of Funding from AICTE: Not exceed Rs.20 lakhs.",
             "Disbursement of the Funds: 80% as advance followed by 20% as reimbursement."
         ],
@@ -18,7 +18,7 @@
             "Maximum 3 proposals per institute per year (Not more than one proposal is accepted from the same department)."
         ],
         "exclusions": [],
-        "application_process": "Online submission of application by the institution. Applications received will be processed in a single lot. Screening/ scrutiny of applications at Council. The proposal shall be assessed by a three-member committee comprising of members, not below the rank of Associate Professor/Scientist \u201cE\u201d. At least two members among them shall be the domain experts. The final decision will be taken by the Council, keeping in view the recommendations made by the expert and the availability of funds for the scheme.",
+        "application_process": "Online submission of application by the institution. Applications received will be processed in a single lot. Screening/ scrutiny of applications at Council. The proposal shall be assessed by a three-member committee comprising of members, not below the rank of Associate Professor/Scientist “E”. At least two members among them shall be the domain experts. The final decision will be taken by the Council, keeping in view the recommendations made by the expert and the availability of funds for the scheme.",
         "documents_required": [
             "Application Form",
             "Utilization Certificate",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What Is The Limit Of Funding From AICTE?",
-                "answer": "Funding for the sanctioned project will not exceed \u20b9 20,00,000 (covering recurring and non-recurring expenditures) per the proposal."
+                "answer": "Funding for the sanctioned project will not exceed ₹ 20,00,000 (covering recurring and non-recurring expenditures) per the proposal."
             },
             {
                 "question": "What Is The Eligibility Criteria For 'MODROBS - Aspiring Institutions'?",
@@ -58,5 +58,6 @@
             "Technical Education",
             "Laboratory Modernization"
         ]
-    }
+    },
+    "id": "001148"
 }

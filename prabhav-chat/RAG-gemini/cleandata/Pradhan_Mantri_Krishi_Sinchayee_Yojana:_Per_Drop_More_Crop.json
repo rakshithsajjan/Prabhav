@@ -8,7 +8,7 @@
         "details": "The scheme 'Pradhan Mantri Krishi Sinchayee Yojana: Per Drop More Crop' was launched by the Dept. of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Govt. of India on 1st July 2015. The scheme mainly focuses on enhancing water use efficiency at the farm level through Micro Irrigation (Drip and Sprinkler Irrigation System). Besides, it also supports micro-level water storage, and water conservation/management activities (Other Interventions) to supplement source creation for Micro Irrigation.",
         "benefits": [
             "Financial assistance to farmers for the installation of irrigation components under Micro Irrigation.",
-            "Installation of drip or sprinkler irrigation in the farmers\u2019 field for selected crops.",
+            "Installation of drip or sprinkler irrigation in the farmers’ field for selected crops.",
             "Direct Benefit Transfer into the accounts of farmers.",
             "Farmers can also avail benefits like water harvesting structures both at individual and community levels."
         ],
@@ -66,5 +66,6 @@
             "Water Management",
             "Micro Irrigation"
         ]
-    }
+    },
+    "id": "001495"
 }

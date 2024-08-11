@@ -7,8 +7,8 @@
         "beneficiary": "Silicosis Victim",
         "details": "'Silicosis Pidit Hita-dhikariyon Hetu Sahayata Yojana' has been started for the laborers working in stone mines in Rajasthan. An assistance scheme has been started for the beneficiaries suffering from silicosis. In which financial assistance will be provided to laborers and workers in case of silicosis or death. Applicants can apply for the assistance scheme to silicosis victims through both online and offline modes.",
         "benefits": [
-            "In case of suffering from silicosis: \u20b91,00,000/-",
-            "In case of death of a victim of silicosis: \u20b93,00,000/-"
+            "In case of suffering from silicosis: ₹1,00,000/-",
+            "In case of death of a victim of silicosis: ₹3,00,000/-"
         ],
         "eligibility": [
             "Those construction workers who are registered with the Board as beneficiaries and are depositing contributions.",
@@ -39,11 +39,11 @@
             },
             {
                 "question": "How much financial assistance will be provided in the case of death?",
-                "answer": "In case of death of a victim of silicosis will get the \u20b93,00,000/-"
+                "answer": "In case of death of a victim of silicosis will get the ₹3,00,000/-"
             },
             {
                 "question": "What amount of financial assistance is available to individuals diagnosed with silicosis?",
-                "answer": "In case of suffering from silicosis \u20b91,00,000/-"
+                "answer": "In case of suffering from silicosis ₹1,00,000/-"
             },
             {
                 "question": "What documents are required while applying?",
@@ -86,5 +86,6 @@
             "Labour",
             "Silicosis Victim"
         ]
-    }
+    },
+    "id": "001802"
 }

@@ -7,12 +7,12 @@
         "beneficiary": "Families holding Yellow, Orange, Antyodaya, and Annapurna ration cards",
         "details": "Mahatma Jyotirao Pule Jan Arogya Yojana is the flagship health insurance scheme of the Government of Maharashtra. The scheme provides end-to-end cashless services for identified diseases through a network of service providers from the Government and Private sector. The scheme earlier was known as Rajiv Gandhi Jeevandayee Arogya Yojana which was started on 2nd July 2012 in eight districts and then was expanded to 28 districts of Maharashtra from 21st November 2013.",
         "benefits": [
-            "Coverage for hospitalization expenses up to \u20b9 1,50,000/- per family per policy year.",
-            "Enhanced coverage up to \u20b9 2,50,000/- for Renal Transplants.",
+            "Coverage for hospitalization expenses up to ₹ 1,50,000/- per family per policy year.",
+            "Enhanced coverage up to ₹ 2,50,000/- for Renal Transplants.",
             "Cashless treatment for 996 Medical and Surgical procedures."
         ],
         "eligibility": [
-            "Families holding Yellow ration card, Antyodaya Anna Yojana ration card (AAY), Annapurna ration card, Orange ration card (annual income up to \u20b9 1,00,000).",
+            "Families holding Yellow ration card, Antyodaya Anna Yojana ration card (AAY), Annapurna ration card, Orange ration card (annual income up to ₹ 1,00,000).",
             "White ration card holder farmer families from agriculturally distressed districts.",
             "Children of Government Orphanages, Students of Government Ashram Shala, Female Inmates of Government Mahila Ashram, and Senior Citizens of Government Old Age Homes."
         ],
@@ -48,7 +48,7 @@
             },
             {
                 "question": "How much assistance is available under MJPJAY Yojana?",
-                "answer": "MJPJAY Yojana provides coverage up to \u20b9 1,50,000/- per policy year per family."
+                "answer": "MJPJAY Yojana provides coverage up to ₹ 1,50,000/- per policy year per family."
             }
         ],
         "sources": [
@@ -66,5 +66,6 @@
             "Maharashtra",
             "Cashless Service"
         ]
-    }
+    },
+    "id": "001055"
 }

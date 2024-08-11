@@ -8,8 +8,8 @@
         "details": "The 'Advanced Training in Handicrafts' Component of the 'Development of Handicrafts' Scheme is introduced by the Department of Industries and Commerce, Union Territory of Puducherry, to provide advanced training to individuals seeking to master exquisite craft skills. Through this scheme, candidates will be sponsored for training in other states where the craft is practised to its finest. The training program focuses on enhancing craft skills, enabling participants to acquire advanced techniques and proficiency in their chosen craft.",
         "benefits": [
             "Course Fee: as Prescribed by the Training Institution.",
-            "Stipend: \u20b92,500/- Per Month Per Trainee.",
-            "Accommodation Charges: \u20b9500/- Per Month Per Trainee.",
+            "Stipend: ₹2,500/- Per Month Per Trainee.",
+            "Accommodation Charges: ₹500/- Per Month Per Trainee.",
             "Travelling Allowance: Restricted to to-and-fro 2nd Class (Berth) Train Fare.",
             "Period of Training: As Prescribed by the Training Unit/institution."
         ],
@@ -36,11 +36,11 @@
             },
             {
                 "question": "How much is the stipend provided per month per trainee under this scheme?",
-                "answer": "Trainees are entitled to a stipend of \u20b92,500 per month."
+                "answer": "Trainees are entitled to a stipend of ₹2,500 per month."
             },
             {
                 "question": "What are the accommodation charges per month per trainee as per the scheme?",
-                "answer": "Accommodation charges amount to \u20b9500 per month per trainee."
+                "answer": "Accommodation charges amount to ₹500 per month per trainee."
             },
             {
                 "question": "Is there a specific age limit for applicants to be eligible for this scheme?",
@@ -110,5 +110,6 @@
             "Training",
             "Skill Development"
         ]
-    }
+    },
+    "id": "000054"
 }

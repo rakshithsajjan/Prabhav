@@ -5,10 +5,10 @@
         "department": "Ministry Of Textiles",
         "type": "Scholarship",
         "beneficiary": "Children of handloom weavers/workers",
-        "details": "The National Handloom Development Programme (NHDP) Scholarship Component, running from 2021-22 to 2025-26, aims to bolster India's handloom sector and improve the lives of handloom weavers. It particularly targets the children of these weavers, offering financial assistance of up to \u20b92,00,000 annually. This support covers tuition, admission, and examination fees at recognized textile institutions. Additionally, beneficiaries receive a monthly stipend of \u20b95,000. The scheme's primary objective is to empower weavers' families through education, ensuring the sustainable growth of the handloom industry, thus enhancing their socio-economic conditions and contributing to India's cultural heritage.",
+        "details": "The National Handloom Development Programme (NHDP) Scholarship Component, running from 2021-22 to 2025-26, aims to bolster India's handloom sector and improve the lives of handloom weavers. It particularly targets the children of these weavers, offering financial assistance of up to ₹2,00,000 annually. This support covers tuition, admission, and examination fees at recognized textile institutions. Additionally, beneficiaries receive a monthly stipend of ₹5,000. The scheme's primary objective is to empower weavers' families through education, ensuring the sustainable growth of the handloom industry, thus enhancing their socio-economic conditions and contributing to India's cultural heritage.",
         "benefits": [
             "Financial Coverage: The scholarship covers tuition fees, admission fees, examination fees, and other annual fees/charges as required by the academic institution.",
-            "Stipend: Eligible candidates will receive a stipend of \u20b95,000 per month, subject to a maximum of \u20b92,00,000 per child per annum or actuals, whichever is less.",
+            "Stipend: Eligible candidates will receive a stipend of ₹5,000 per month, subject to a maximum of ₹2,00,000 per child per annum or actuals, whichever is less.",
             "Direct Benefit Transfer (DBT): Funds will be directly transferred to the bank account of the concerned handloom weaver/worker or their children through the Direct Benefit Transfer (DBT) system."
         ],
         "eligibility": [
@@ -59,7 +59,7 @@
             },
             {
                 "question": "Is there an additional stipend provided to scholarship recipients?",
-                "answer": "Yes, in addition to academic fees, eligible candidates receive a monthly stipend of \u20b95,000, subject to a maximum of \u20b92,00,000 per child per annum or actuals, whichever is less."
+                "answer": "Yes, in addition to academic fees, eligible candidates receive a monthly stipend of ₹5,000, subject to a maximum of ₹2,00,000 per child per annum or actuals, whichever is less."
             },
             {
                 "question": "What expenses are covered by the scholarship?",
@@ -79,7 +79,7 @@
             },
             {
                 "question": "What is the financial support offered under this scholarship?",
-                "answer": "The scholarship provides a maximum of \u20b92,00,000 per annum for up to 2 children of handloom weavers/workers for pursuing diploma, undergraduate, or postgraduate courses at recognized government-funded textile institutions."
+                "answer": "The scholarship provides a maximum of ₹2,00,000 per annum for up to 2 children of handloom weavers/workers for pursuing diploma, undergraduate, or postgraduate courses at recognized government-funded textile institutions."
             },
             {
                 "question": "How long is the NHDP Scholarship Component intended to be implemented?",
@@ -98,5 +98,6 @@
             "Textile",
             "Weaver"
         ]
-    }
+    },
+    "id": "001313"
 }

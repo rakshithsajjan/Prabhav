@@ -7,10 +7,10 @@
         "beneficiary": "Registered Construction Workers (Nirman Shramik / Nirman Karmakar)",
         "details": "'Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana' is an Insurance Scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. The scheme is also known as the 'Jharkhand Construction Worker Death/Accident Assistance Scheme' in English. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. The applications for this scheme are accepted online through the official website of the department (http://shramadhan.jharkhand.gov.in). The scheme provides social security to all registered workers in the age group of 18-60 years.",
         "benefits": [
-            "In case of death in an accident, \u20b9 5,00,000/-",
-            "In case of complete disability in an accident, \u20b9 3,00,000/-",
-            "In case of partial disability in an accident, \u20b9 2,00,000/-",
-            "In case of normal death, \u20b9 1,00,000/-"
+            "In case of death in an accident, ₹ 5,00,000/-",
+            "In case of complete disability in an accident, ₹ 3,00,000/-",
+            "In case of partial disability in an accident, ₹ 2,00,000/-",
+            "In case of normal death, ₹ 1,00,000/-"
         ],
         "eligibility": [
             "The applicant should be a domicile in the state of Jharkhand.",
@@ -35,19 +35,19 @@
         "faqs": [
             {
                 "question": "What Shall Be The Grant Payable In The Case Of Death In An Accident?",
-                "answer": "In case of death in an accident, \u20b9 5,00,000/- shall be payable."
+                "answer": "In case of death in an accident, ₹ 5,00,000/- shall be payable."
             },
             {
                 "question": "What Shall Be The Grant Payable In The Case Of Complete Disability In An Accident?",
-                "answer": "In case of complete disability in an accident, \u20b9 3,00,000/- shall be payable."
+                "answer": "In case of complete disability in an accident, ₹ 3,00,000/- shall be payable."
             },
             {
                 "question": "What Shall Be The Grant Payable In The Case Of Partial Disability In An Accident?",
-                "answer": "In case of partial disability in an accident, \u20b9 2,00,000/- shall be payable."
+                "answer": "In case of partial disability in an accident, ₹ 2,00,000/- shall be payable."
             },
             {
                 "question": "What Shall Be The Grant Payable In The Case Of Normal Death?",
-                "answer": "In case of normal death, \u20b9 1,00,000/- shall be payable."
+                "answer": "In case of normal death, ₹ 1,00,000/- shall be payable."
             },
             {
                 "question": "Which Department Manages This Scheme?",
@@ -95,5 +95,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000936"
 }

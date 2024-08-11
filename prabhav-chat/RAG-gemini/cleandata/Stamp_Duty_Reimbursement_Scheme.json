@@ -5,9 +5,9 @@
         "department": "Department of Information Technology, Electronics and Communications",
         "type": "Reimbursement",
         "beneficiary": "Startups, Incubators, Accelerators",
-        "details": "The scheme 'Stamp Duty Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, in case of land/ developed area purchased/ leased by Start-ups/ incubators/ accelerators, the stamp duty for land area lease/ sale transaction for start-ups/incubators/ accelerators will not exceed \u20b9 100/-, and the excess amount paid to the authorities concerned will be reimbursed.",
+        "details": "The scheme 'Stamp Duty Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. Through this scheme, in case of land/ developed area purchased/ leased by Start-ups/ incubators/ accelerators, the stamp duty for land area lease/ sale transaction for start-ups/incubators/ accelerators will not exceed ₹ 100/-, and the excess amount paid to the authorities concerned will be reimbursed.",
         "benefits": [
-            "In case of land/ developed area purchased/ leased by Start-ups/ incubators/ accelerators, the stamp duty for land area lease/ sale transaction for start-ups/incubators/ accelerators will not exceed \u20b9 100/-, and the excess amount paid to the authorities concerned will be reimbursed.",
+            "In case of land/ developed area purchased/ leased by Start-ups/ incubators/ accelerators, the stamp duty for land area lease/ sale transaction for start-ups/incubators/ accelerators will not exceed ₹ 100/-, and the excess amount paid to the authorities concerned will be reimbursed.",
             "A start-up is eligible only once to avail the benefits of this scheme.",
             "In the case of an incubator/accelerator, this amount shall be paid after a period of three years of successful operation. This can be relaxed in the case of a company that is in the business of making incubators.",
             "Up to 100 start-ups can avail the benefits of this scheme per year."
@@ -30,7 +30,7 @@
         "faqs": [
             {
                 "question": "What is the maximum stamp duty for land area lease/sale transactions under the Stamp Duty Reimbursement Scheme for Goa startups?",
-                "answer": "The stamp duty for such transactions will not exceed \u20b9100, with the excess amount reimbursed."
+                "answer": "The stamp duty for such transactions will not exceed ₹100, with the excess amount reimbursed."
             },
             {
                 "question": "Can the three-year successful operation requirement be relaxed for a company making incubators under the Stamp Duty Reimbursement Scheme?",
@@ -86,5 +86,6 @@
             "Lease",
             "Startup"
         ]
-    }
+    },
+    "id": "001837"
 }

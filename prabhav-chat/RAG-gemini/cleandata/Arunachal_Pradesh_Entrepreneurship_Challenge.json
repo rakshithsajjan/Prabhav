@@ -5,7 +5,7 @@
         "department": "Department of Finance, Investment and Planning",
         "type": "Business Venture",
         "beneficiary": "Self-employed",
-        "details": "The 'Arunachal Pradesh Entrepreneurship Development Programme (APEDP)' was launched by Hon'ble Chief Minister Pema Khandu. The APEDP is aimed at 'catalyzing an inclusive solution to the motley local challenges by developing a vibrant entrepreneurial ecosystem in the state and facilitating aspiring entrepreneurs with comprehensive support and nurturing.' The objective of APEDP is to formulate an inclusive solution to the motley local challenges faced by aspiring entrepreneurs through the development of a vibrant entrepreneurial ecosystem and side-by-side facilitating their entrepreneurial endeavours with comprehensive support and nurturing. The 'Arunachal Pradesh Entrepreneurship Challenge (APEC)' was unveiled by the Department of Finance, Investment and Planning as the first part of the APEDP on the eve of the 74th Independence Day. The APEC will identify, promote, support, and nurture sustainable and locally relevant business ideas and entrepreneurs. After a thorough evaluation and screening of applications, 50 top entrepreneurs will be selected for the Incubation and Pre-Incubation programmes facilitated by the IIM Calcutta Innovation Park. Out of these, the top 10 entrepreneurs will be awarded up to \u20b95,00,000 and the next 40 entrepreneurs will be awarded up to \u20b94,00,000.",
+        "details": "The 'Arunachal Pradesh Entrepreneurship Development Programme (APEDP)' was launched by Hon'ble Chief Minister Pema Khandu. The APEDP is aimed at 'catalyzing an inclusive solution to the motley local challenges by developing a vibrant entrepreneurial ecosystem in the state and facilitating aspiring entrepreneurs with comprehensive support and nurturing.' The objective of APEDP is to formulate an inclusive solution to the motley local challenges faced by aspiring entrepreneurs through the development of a vibrant entrepreneurial ecosystem and side-by-side facilitating their entrepreneurial endeavours with comprehensive support and nurturing. The 'Arunachal Pradesh Entrepreneurship Challenge (APEC)' was unveiled by the Department of Finance, Investment and Planning as the first part of the APEDP on the eve of the 74th Independence Day. The APEC will identify, promote, support, and nurture sustainable and locally relevant business ideas and entrepreneurs. After a thorough evaluation and screening of applications, 50 top entrepreneurs will be selected for the Incubation and Pre-Incubation programmes facilitated by the IIM Calcutta Innovation Park. Out of these, the top 10 entrepreneurs will be awarded up to ₹5,00,000 and the next 40 entrepreneurs will be awarded up to ₹4,00,000.",
         "benefits": [
             "Financial: Top 50 entrepreneurs will be selected for the Incubation and Pre-Incubation programs facilitated by the IIM Calcutta Innovation Park. Out of these, the top 10 entrepreneurs will be awarded up to Rs. 5 lakhs and the next 40 entrepreneurs will be awarded up to Rs. 4 lakhs.",
             "Government Support: Eligibility to avail of various Government Support Schemes, Grants, Soft Loans & Pilot Opportunities.",
@@ -37,7 +37,7 @@
         "faqs": [
             {
                 "question": "What is the goal of launching this program?",
-                "answer": "A primary goal of the program is to inspire the state\u2019s youths to become job givers rather than job seekers, who will, in the process, create livelihood opportunities for thousands of others in the state."
+                "answer": "A primary goal of the program is to inspire the state’s youths to become job givers rather than job seekers, who will, in the process, create livelihood opportunities for thousands of others in the state."
             },
             {
                 "question": "Is this necessary to have domicile of Arunachal Pradesh to apply for the program?",
@@ -63,5 +63,6 @@
             "Self-employed",
             "Training"
         ]
-    }
+    },
+    "id": "000096"
 }

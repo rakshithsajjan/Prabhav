@@ -8,12 +8,12 @@
         "details": "Entrepreneur Support Scheme (ESS) is the most popular and attractive scheme operated by the Directorate of Industries and Commerce, Government of Kerala. The scheme is operational w.e.f. 01.04.2012. The scheme aims to provide financial assistance to Micro, Small, and Medium Enterprises engaged in manufacturing activities in the State, proportional to the capital investment made. Depending upon the category of the investor, sector, and the District of investment, the unit can avail subsidy from 15% to 45% of the fixed capital investment. For this scheme, a loan from a financial institution is not mandatory.",
         "benefits": [
             "Provides Subsidy for the investment in Land, Building, Plant and machinery, Electrification, Essential Office Equipment, Pollution Control Devices, and other fixed assets.",
-            "For the General Category, assistance is 15% of the capital investment limited to \u20b930 lakh.",
-            "For Young (18 to 45 years), Women, SC/ST, and Non-Resident Keralite (NRK) entrepreneurs, the assistance is 25% limited to \u20b940 lakh.",
-            "Enterprises in priority sectors are eligible for an additional assistance of 10% limited to \u20b910 lakh.",
-            "MSMEs started in the districts of Idukki, Wayanad, Kasargode and Pathanamthitta are eligible for an additional support of 10% limited to \u20b910 lakh.",
-            "Enterprises set up after acquiring new technology from approved research institutions are eligible for additional support of 10% limited to \u20b910 lakh.",
-            "The total eligible assistance for an enterprise is limited to \u20b940 lakh."
+            "For the General Category, assistance is 15% of the capital investment limited to ₹30 lakh.",
+            "For Young (18 to 45 years), Women, SC/ST, and Non-Resident Keralite (NRK) entrepreneurs, the assistance is 25% limited to ₹40 lakh.",
+            "Enterprises in priority sectors are eligible for an additional assistance of 10% limited to ₹10 lakh.",
+            "MSMEs started in the districts of Idukki, Wayanad, Kasargode and Pathanamthitta are eligible for an additional support of 10% limited to ₹10 lakh.",
+            "Enterprises set up after acquiring new technology from approved research institutions are eligible for additional support of 10% limited to ₹10 lakh.",
+            "The total eligible assistance for an enterprise is limited to ₹40 lakh."
         ],
         "eligibility": [
             "All Micro, Small, and Medium Enterprises engaged in manufacturing activities and set up in the State, which had filed Entrepreneurs Memorandum Part I/II with the respective General Manager; District Industries Centre shall be eligible for this assistance.",
@@ -79,5 +79,6 @@
                 "url": "https://ess.kerala.gov.in/login"
             }
         ]
-    }
+    },
+    "id": "000489"
 }

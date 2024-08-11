@@ -11,7 +11,7 @@
             "Financial assistance for individual weavers"
         ],
         "eligibility": [
-            "Registered Primary Weavers\u2019 Cooperative Societies (PWCS)",
+            "Registered Primary Weavers’ Cooperative Societies (PWCS)",
             "Khadi Societies registered under relevant acts"
         ],
         "exclusions": [],
@@ -20,7 +20,7 @@
         "faqs": [
             {
                 "question": "What is the definition of 'PWCS'?",
-                "answer": "'PWCS' means the Primary Weavers\u2019 Cooperative Societies registered under the West Bengal Cooperative Societies Act."
+                "answer": "'PWCS' means the Primary Weavers’ Cooperative Societies registered under the West Bengal Cooperative Societies Act."
             },
             {
                 "question": "What is the definition of 'Tantuja'?",
@@ -87,5 +87,6 @@
             "Financial Assistance",
             "West Bengal"
         ]
-    }
+    },
+    "id": "002037"
 }

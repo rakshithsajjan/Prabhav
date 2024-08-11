@@ -9,7 +9,7 @@
         "benefits": [
             "A medal",
             "A certificate",
-            "Cash Prize of \u20b9 50,000/-"
+            "Cash Prize of ₹ 50,000/-"
         ],
         "eligibility": [
             "Should be a regular faculty member",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "Is there any cash prize?",
-                "answer": "Yes, Cash Prize of \u20b9 50,000/-."
+                "answer": "Yes, Cash Prize of ₹ 50,000/-."
             },
             {
                 "question": "Is there any age criteria?",
@@ -81,5 +81,6 @@
             "National",
             "Teacher"
         ]
-    }
+    },
+    "id": "001296"
 }

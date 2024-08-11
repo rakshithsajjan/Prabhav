@@ -7,9 +7,9 @@
         "beneficiary": "Building and other construction workers",
         "details": "In 2020, Chhattisgarh State Government started the 'Nirmaan Shramik Mrtyu Evan Divyaang Sahaayata Yojana' for Building and other construction workers. With this scheme, family will able to get the financial benefits after the death or disability of the construction worker.",
         "benefits": [
-            "\u20b9 1,00,000/- on Normal Death",
-            "\u20b9 5,00,000/- on Death on work location",
-            "\u20b9 2,50,000/- on Permanent disability on work location"
+            "₹ 1,00,000/- on Normal Death",
+            "₹ 5,00,000/- on Death on work location",
+            "₹ 2,50,000/- on Permanent disability on work location"
         ],
         "eligibility": [
             "Construction workers between 18 to 60 years of age will be eligible.",
@@ -45,11 +45,11 @@
             },
             {
                 "question": "What is the benefit under the normal death?",
-                "answer": "\u20b9 1,00,000/-"
+                "answer": "₹ 1,00,000/-"
             },
             {
                 "question": "What is the benefit under the Death on work location?",
-                "answer": "\u20b9 5,00,000/-"
+                "answer": "₹ 5,00,000/-"
             },
             {
                 "question": "How to apply for the scheme?",
@@ -87,5 +87,6 @@
             "Construction Workers",
             "Chhattisgarh"
         ]
-    }
+    },
+    "id": "001357"
 }

@@ -5,11 +5,11 @@
         "department": "Directorate of Information Technology",
         "type": "Grant",
         "beneficiary": "Educational Institutions",
-        "details": "The Scheme \u201cNew Generation Innovation Network (NGIN)\u201d was launched by the Directorate of Information Technology, Government of Tripura with the vision to create an ecosystem to promote innovations in educational institutions and transform student ideas & concepts into successful business enterprises.",
+        "details": "The Scheme “New Generation Innovation Network (NGIN)” was launched by the Directorate of Information Technology, Government of Tripura with the vision to create an ecosystem to promote innovations in educational institutions and transform student ideas & concepts into successful business enterprises.",
         "benefits": [
-            "One-time grant of \u20b910 lakhs to set up required infrastructure.",
-            "Funding of \u20b95 Lakhs per year for operational expenses.",
-            "Maximum funding of \u20b91.00 lakh for each project/team."
+            "One-time grant of ₹10 lakhs to set up required infrastructure.",
+            "Funding of ₹5 Lakhs per year for operational expenses.",
+            "Maximum funding of ₹1.00 lakh for each project/team."
         ],
         "eligibility": [
             "All Technical Institutes in Tripura are eligible.",
@@ -27,7 +27,7 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cNew Generation Innovation Network (NGIN)\u201d Scheme?",
+                "question": "What is the “New Generation Innovation Network (NGIN)” Scheme?",
                 "answer": "NGIN is a scheme fostering innovation in Tripura's educational institutions, encouraging students and alumni to address local problems with frugal innovation."
             },
             {
@@ -83,5 +83,6 @@
             "Infrastructure",
             "Educational Institution"
         ]
-    }
+    },
+    "id": "001349"
 }

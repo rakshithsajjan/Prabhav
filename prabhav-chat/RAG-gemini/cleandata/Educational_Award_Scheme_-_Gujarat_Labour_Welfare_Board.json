@@ -5,10 +5,10 @@
         "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
         "type": "Award",
         "beneficiary": "Children of laborers",
-        "details": "The \u201cEducational Award Scheme\u201d is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The scheme has been implemented to encourage the students of the Labours to increase their enthusiasm and to get higher education through it.",
+        "details": "The “Educational Award Scheme” is implemented by the Gujarat Labour Welfare Board, Labour, Skill Development & Employment Department, Government of Gujarat. The scheme has been implemented to encourage the students of the Labours to increase their enthusiasm and to get higher education through it.",
         "benefits": [
-            "Under the scheme, children of laborers who have passed 70% or above marks in the 10th Standard will receive \u20b92,500/- as an award.",
-            "The children of laborers who have passed 70% or above marks in the 12th Standard will receive \u20b95,000/- as an award."
+            "Under the scheme, children of laborers who have passed 70% or above marks in the 10th Standard will receive ₹2,500/- as an award.",
+            "The children of laborers who have passed 70% or above marks in the 12th Standard will receive ₹5,000/- as an award."
         ],
         "eligibility": [
             "Only the children (students) whose parents are working in a factory/institute in the state of Gujarat and whose parents have been paying the Labour Welfare Fund will be eligible for this scheme.",
@@ -40,7 +40,7 @@
             },
             {
                 "question": "What are the benefits offered under the scheme?",
-                "answer": "Under this scheme, students who have secured 70% or above marks in the 10th Standard will receive \u20b92,500/- as an award, and those who have achieved the same in the 12th Standard will receive \u20b95,000/- as an award."
+                "answer": "Under this scheme, students who have secured 70% or above marks in the 10th Standard will receive ₹2,500/- as an award, and those who have achieved the same in the 12th Standard will receive ₹5,000/- as an award."
             },
             {
                 "question": "How can eligible applicants apply for the scheme?",
@@ -75,5 +75,6 @@
             "Labour",
             "Student"
         ]
-    }
+    },
+    "id": "000484"
 }

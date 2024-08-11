@@ -7,15 +7,15 @@
         "beneficiary": "Persons with Disability",
         "details": "The scheme 'Grant of Financial Assistance to Differently Abled Person' by the Department of Social Welfare, Government of Puducherry was introduced to provide monthly financial assistance to Persons with Disability to maintain their minimum standard of living. The selection is periodical and depends on the availability of funds.",
         "benefits": [
-            "Disability Range - 40% to 65%: \u20b9 2000/- per month.",
-            "Disability Range - 66% to 85%: \u20b9 2500/- per month.",
-            "Disability Range - 86% to 100%: \u20b9 3500/- per month.",
-            "Age Range - 60 to 79 years: \u20b9 2700/- per month.",
-            "Age Range - 80 years and above: \u20b9 3800/- per month."
+            "Disability Range - 40% to 65%: ₹ 2000/- per month.",
+            "Disability Range - 66% to 85%: ₹ 2500/- per month.",
+            "Disability Range - 86% to 100%: ₹ 3500/- per month.",
+            "Age Range - 60 to 79 years: ₹ 2700/- per month.",
+            "Age Range - 80 years and above: ₹ 3800/- per month."
         ],
         "eligibility": [
             "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
-            "The applicant should have an annual income not exceeding \u20b975,000/- per annum.",
+            "The applicant should have an annual income not exceeding ₹75,000/- per annum.",
             "For Orthopaedic/Deaf/Dumb/Blind, the disability of the applicant should be 40% and above.",
             "For the Mentally Retarded, the Intelligence Quotient (IQ) of the applicant should be below 69."
         ],
@@ -43,7 +43,7 @@
             },
             {
                 "question": "What is the maximum annual income allowed for eligibility?",
-                "answer": "Applicants must have an annual income not exceeding \u20b975,000 to qualify for the scheme."
+                "answer": "Applicants must have an annual income not exceeding ₹75,000 to qualify for the scheme."
             },
             {
                 "question": "What is the eligibility criterion for residence under this scheme?",
@@ -55,23 +55,23 @@
             },
             {
                 "question": "How are the benefits distributed based on the level of disability?",
-                "answer": "Benefits range from \u20b92000 to \u20b93500 per month, varying with disability percentages and age categories."
+                "answer": "Benefits range from ₹2000 to ₹3500 per month, varying with disability percentages and age categories."
             },
             {
                 "question": "What is the monthly support allocated for individuals aged 80 years and above?",
-                "answer": "Those aged 80 years and above are entitled to \u20b93800 per month as financial assistance."
+                "answer": "Those aged 80 years and above are entitled to ₹3800 per month as financial assistance."
             },
             {
                 "question": "What is the financial aid for individuals aged between 60 to 79 years?",
-                "answer": "Individuals in this age group receive \u20b92700 per month as financial assistance."
+                "answer": "Individuals in this age group receive ₹2700 per month as financial assistance."
             },
             {
                 "question": "How much monthly assistance is granted to individuals with a disability range of 86% to 100%?",
-                "answer": "Those with a disability range of 86% to 100% are eligible for \u20b93500 per month."
+                "answer": "Those with a disability range of 86% to 100% are eligible for ₹3500 per month."
             },
             {
                 "question": "Can you explain the monthly financial assistance for individuals with a disability range of 40% to 65%?",
-                "answer": "Individuals in this range receive \u20b92000 per month as financial assistance."
+                "answer": "Individuals in this range receive ₹2000 per month as financial assistance."
             },
             {
                 "question": "Where can applicants track the status of their application?",
@@ -118,5 +118,6 @@
             "Grant",
             "PwD"
         ]
-    }
+    },
+    "id": "000721"
 }

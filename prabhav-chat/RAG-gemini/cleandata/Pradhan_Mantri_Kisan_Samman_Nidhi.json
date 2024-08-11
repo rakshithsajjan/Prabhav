@@ -5,7 +5,7 @@
         "department": "Ministry Of Agriculture and Farmers Welfare",
         "type": "Income Support",
         "beneficiary": "Farmers",
-        "details": "The scheme aims to supplement the financial needs of all landholding farmers\u2019 families by procuring various inputs to ensure proper crop health and appropriate yields, commensurate with the anticipated farm income as well as for domestic needs. Under the scheme an amount of \u20b9 6000/- per year is released by the Central Government online directly into the bank accounts of the eligible farmers under Direct Benefit Transfer mode, subject to certain exclusions.",
+        "details": "The scheme aims to supplement the financial needs of all landholding farmers’ families by procuring various inputs to ensure proper crop health and appropriate yields, commensurate with the anticipated farm income as well as for domestic needs. Under the scheme an amount of ₹ 6000/- per year is released by the Central Government online directly into the bank accounts of the eligible farmers under Direct Benefit Transfer mode, subject to certain exclusions.",
         "benefits": [
             "Financial benefit of Rs. 6000 per annum per family payable in three equal installments of Rs 2000 each, every four months."
         ],
@@ -81,5 +81,6 @@
             "Income Support",
             "Farmers"
         ]
-    }
+    },
+    "id": "001494"
 }

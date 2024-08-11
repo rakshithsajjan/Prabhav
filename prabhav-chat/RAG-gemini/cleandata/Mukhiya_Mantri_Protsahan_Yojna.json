@@ -7,7 +7,7 @@
         "beneficiary": "Students of Himachal Pradesh",
         "details": "The scheme 'Mukhiya Mantri Protsahan Yojna' was launched by the Department of Higher Education, Himachal Pradesh during the year 2013-14. Under the scheme, an Incentive/Award will be given to all those students of the State who are selected and take admission for a degree course in any Indian Institutes of Technology (IIT) or All India Institute of Medical Sciences (AIIMS) or a post Graduate Diploma Course in any Indian Institute of Management (IIMs). Indian School of Mines (ISM) Dhanbad at Jharkhand & Indian Institute of Science (IISc) at Bangalore, have also been added to the list of institutions eligible for award under this scheme w.e.f. 2014-15.",
         "benefits": [
-            "Under this scheme, a one-time incentive/award of \u20b975000/- will be given to all the eligible students."
+            "Under this scheme, a one-time incentive/award of ₹75000/- will be given to all the eligible students."
         ],
         "eligibility": [
             "The student should be a native of Himachal Pradesh.",
@@ -20,7 +20,7 @@
             "Copy of Aadhaar Card",
             "Copy of Himachali Bonafide Certificate (Domicile of Himachal Pradesh)",
             "Copy of Marks Certificate for previous years matric onwards",
-            "Latest Bank Statement of the Student\u2019s Bank Account",
+            "Latest Bank Statement of the Student’s Bank Account",
             "Selection Letter of IIT/IIM/AIIMS/ISM/IISC",
             "Any other document, as required"
         ],
@@ -43,11 +43,11 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this scheme, a one-time incentive/award of \u20b975000/- will be given to all the eligible students."
+                "answer": "Under this scheme, a one-time incentive/award of ₹75000/- will be given to all the eligible students."
             },
             {
                 "question": "Which are the institutions eligible for the award under this scheme?",
-                "answer": "\u2022 All the Indian Institutes of Technology (IIT) \u2022 All India Institute of Medical Sciences (AIIMS) \u2022 Indian Institute of Management (IIM) \u2022 Indian School of Mines (ISM) Dhanbad at Jharkhand \u2022 Indian Institute of Science (IISc) at Bangalore"
+                "answer": "• All the Indian Institutes of Technology (IIT) • All India Institute of Medical Sciences (AIIMS) • Indian Institute of Management (IIM) • Indian School of Mines (ISM) Dhanbad at Jharkhand • Indian Institute of Science (IISc) at Bangalore"
             },
             {
                 "question": "How to apply for this scholarship?",
@@ -86,5 +86,6 @@
             "Higher Education",
             "Himachal Pradesh"
         ]
-    }
+    },
+    "id": "001166"
 }

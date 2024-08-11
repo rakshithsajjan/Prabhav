@@ -9,7 +9,7 @@
         "benefits": [
             "Financial assistance for procurement of eligible Plants and Machinery for modernization and establishing new units.",
             "25% of the cost of admissible items of Plant and Machinery procured.",
-            "Upper ceiling of financial assistance is \u20b92.50 crore per coir unit/project.",
+            "Upper ceiling of financial assistance is ₹2.50 crore per coir unit/project.",
             "Direct Benefit Transfer (DBT) mode for financial assistance."
         ],
         "eligibility": [
@@ -93,5 +93,6 @@
             "MSME",
             "Technology Upgradation"
         ]
-    }
+    },
+    "id": "000326"
 }

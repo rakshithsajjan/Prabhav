@@ -7,8 +7,8 @@
         "beneficiary": "Unemployed residents of Haryana",
         "details": "The scheme is implemented to provide employment opportunities to unemployed residents of Haryana by helping them establish piggery, sheep, and goat units. Under this scheme, an unemployed resident of Haryana who is between 18 and 60 years of age can avail a 25% subsidy on the cost of livestock, provided they have taken a loan for establishing a 10+1 Piggery unit or a 15+1 Sheep/Goat unit.",
         "benefits": [
-            "25% subsidy on the cost of livestock for establishing a 10+1 Piggery unit, with a maximum amount of \u20b925,000/-.",
-            "25% subsidy on the cost of livestock for establishing a 15+1 Sheep/Goat unit, with a maximum amount of \u20b924,500/-.",
+            "25% subsidy on the cost of livestock for establishing a 10+1 Piggery unit, with a maximum amount of ₹25,000/-.",
+            "25% subsidy on the cost of livestock for establishing a 15+1 Sheep/Goat unit, with a maximum amount of ₹24,500/-.",
             "Insurance assistance as per the available departmental scheme."
         ],
         "eligibility": [
@@ -49,11 +49,11 @@
             },
             {
                 "question": "How much subsidy can one get for establishing a 10+1 piggery unit?",
-                "answer": "A maximum of \u20b925,000 as financial assistance in the form of subsidy."
+                "answer": "A maximum of ₹25,000 as financial assistance in the form of subsidy."
             },
             {
                 "question": "How much subsidy is available for establishing a 15+1 sheep/goat unit?",
-                "answer": "A maximum of \u20b924,500 as financial assistance in the form of subsidy."
+                "answer": "A maximum of ₹24,500 as financial assistance in the form of subsidy."
             },
             {
                 "question": "Is insurance assistance provided under this scheme?",
@@ -104,5 +104,6 @@
             "Subsidy",
             "Unemployed"
         ]
-    }
+    },
+    "id": "001702"
 }

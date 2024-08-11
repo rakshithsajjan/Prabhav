@@ -5,9 +5,9 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Welfare Scheme",
         "beneficiary": "Construction Worker",
-        "details": "The 'Yatra Pass in DTC non AC Buses for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme that provides a pass of \u20b9 2400/- per three months for non AC DTC bus to the registered workers for purchasing. All types of bus passes i.e. Conventional Bus Pass as well as e-Bus Pass can be made online.",
+        "details": "The 'Yatra Pass in DTC non AC Buses for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme that provides a pass of ₹ 2400/- per three months for non AC DTC bus to the registered workers for purchasing. All types of bus passes i.e. Conventional Bus Pass as well as e-Bus Pass can be made online.",
         "benefits": [
-            "A pass of \u20b9 2400/- per three months for non AC DTC bus is provided."
+            "A pass of ₹ 2400/- per three months for non AC DTC bus is provided."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -73,5 +73,6 @@
             "Travel",
             "Yatra Pass"
         ]
-    }
+    },
+    "id": "002073"
 }

@@ -5,9 +5,9 @@
         "department": "Department of Fisheries",
         "type": "Subsidy",
         "beneficiary": "Bonafide agriculturists, individuals of the animal husbandry sector, fisheries sector",
-        "details": "Interest Subsidy on Loans for Agriculture and Allied Activities is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the bonafide agriculturist, individuals of the animal husbandry sector/ fisheries sector from Goa are provided a loan of upto \u20b9 5,00,000 for the purpose of Agriculture and Allied Activities. The applications are accepted only in offline mode.",
+        "details": "Interest Subsidy on Loans for Agriculture and Allied Activities is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the bonafide agriculturist, individuals of the animal husbandry sector/ fisheries sector from Goa are provided a loan of upto ₹ 5,00,000 for the purpose of Agriculture and Allied Activities. The applications are accepted only in offline mode.",
         "benefits": [
-            "Loan of upto \u20b9 5,00,000.",
+            "Loan of upto ₹ 5,00,000.",
             "Interest Subsidy on Short-Term Loans: 4% to farmers who promptly repay their loans.",
             "Interest Subsidy on Long-Term Loans: Equal to the difference between a 4% interest rate and the normal rate charged by eligible Banks, in line with their policies. The subsidy is subject to a maximum limit of 8%."
         ],
@@ -79,7 +79,7 @@
             },
             {
                 "question": "What is the maximum loan amount provided under the 'Interest Subsidy on Loans for Agriculture and Allied Activities' scheme?",
-                "answer": "The scheme offers loans up to \u20b95,00,000 for individuals in the fisheries sector."
+                "answer": "The scheme offers loans up to ₹5,00,000 for individuals in the fisheries sector."
             }
         ],
         "sources": [
@@ -103,5 +103,6 @@
             "Loan",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000886"
 }

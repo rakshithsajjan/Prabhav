@@ -2,10 +2,10 @@
     "content": {
         "title": "Bio Control Laboratory and Pesticides Testing Laboratory Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "department": "Department of Agriculture & Farmers’ Welfare",
         "type": "Laboratory",
         "beneficiary": "Farmer",
-        "details": "The \u201cBio Control Laboratory and Pesticides Testing Laboratory Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is the production of Bio Control Agents such as Trichoderma, Trichogramma, etc., and further distribution to farmers as awareness and demonstration for organic Plant Health Management in order to promote organic crop production.",
+        "details": "The “Bio Control Laboratory and Pesticides Testing Laboratory Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is the production of Bio Control Agents such as Trichoderma, Trichogramma, etc., and further distribution to farmers as awareness and demonstration for organic Plant Health Management in order to promote organic crop production.",
         "benefits": [
             "Distributions of bio agents to farmers.",
             "Free distribution to popularise the method."
@@ -29,7 +29,7 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "What is the type of assistance/entitlement?",
@@ -44,7 +44,7 @@
                 "answer": "Bona fide farmers can apply in plain paper to the District Agriculture Officer of the concerned Districts through the Agriculture Development officer of C & RD Block/ Agriculture Circle/Sub-Divisional Agricultural Officers of the concerned Sub-Divisions."
             },
             {
-                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "question": "What is the beneficiaries’ selection procedure?",
                 "answer": "Beneficiaries are selected based on first come first serve basis subject to availability of materials."
             }
         ],
@@ -60,5 +60,6 @@
             "Trichoderma",
             "Trichogramma"
         ]
-    }
+    },
+    "id": "000215"
 }

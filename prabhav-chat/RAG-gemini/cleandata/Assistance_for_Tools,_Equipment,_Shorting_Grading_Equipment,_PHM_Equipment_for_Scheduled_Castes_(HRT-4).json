@@ -7,8 +7,8 @@
         "beneficiary": "Farmers belonging to the Scheduled Castes category, farmer groups, and cooperative societies",
         "details": "The scheme provides financial assistance to farmers belonging to the Scheduled Castes category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment. This includes plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc.",
         "benefits": [
-            "Scheduled Castes farmers will be eligible for assistance up to 75% of the cost of the Tools/Equipment or \u20b93,750/-, whichever is less.",
-            "Farmer groups/cooperative societies will be eligible for assistance of 90% of the cost of equipment or up to \u20b97,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment."
+            "Scheduled Castes farmers will be eligible for assistance up to 75% of the cost of the Tools/Equipment or ₹3,750/-, whichever is less.",
+            "Farmer groups/cooperative societies will be eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment."
         ],
         "eligibility": [
             "The beneficiary should be a permanent resident of Gujarat.",
@@ -33,11 +33,11 @@
             },
             {
                 "question": "What financial assistance is available for Scheduled Castes farmers under the scheme?",
-                "answer": "Scheduled Castes farmers are eligible for assistance up to 75% of the cost of the tools/equipment or \u20b93,750/-, whichever is less."
+                "answer": "Scheduled Castes farmers are eligible for assistance up to 75% of the cost of the tools/equipment or ₹3,750/-, whichever is less."
             },
             {
                 "question": "What assistance is available for farmer groups/cooperative societies under the scheme?",
-                "answer": "Farmer groups/cooperative societies are eligible for assistance of 90% of the cost of equipment or up to \u20b97,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment."
+                "answer": "Farmer groups/cooperative societies are eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment."
             },
             {
                 "question": "What types of equipment are covered under the scheme?",
@@ -86,5 +86,6 @@
             "Scheduled Caste",
             "Tools"
         ]
-    }
+    },
+    "id": "000124"
 }

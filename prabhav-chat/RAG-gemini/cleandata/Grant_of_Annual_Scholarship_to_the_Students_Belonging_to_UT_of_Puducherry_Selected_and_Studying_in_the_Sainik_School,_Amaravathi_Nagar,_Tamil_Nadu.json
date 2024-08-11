@@ -5,9 +5,9 @@
         "department": "Directorate of School Education, Union Territory of Puducherry",
         "type": "Scholarship",
         "beneficiary": "Students belonging to UT of Puducherry studying in Sainik School, Amaravathi Nagar, Tamil Nadu",
-        "details": "The scheme 'Grant of Annual Scholarship to the Students Belonging to UT of Puducherry Selected and Studying in the Sainik School, Amaravathi Nagar, Tamil Nadu' is a Scholarship Scheme by the Directorate of School Education, Union Territory of Puducherry. A scholarship of \u20b910,000/- per annum per student is disbursed directly into the Aadhaar-seeded viable bank account by Direct Benefit Transfer (DBT) through the Electronic Clearance System (ECS). In order to be eligible, the applicant should have studied from an educational institution located in the UT of Puducherry in Government or Private Schools recognised by the State/Central Governments.",
+        "details": "The scheme 'Grant of Annual Scholarship to the Students Belonging to UT of Puducherry Selected and Studying in the Sainik School, Amaravathi Nagar, Tamil Nadu' is a Scholarship Scheme by the Directorate of School Education, Union Territory of Puducherry. A scholarship of ₹10,000/- per annum per student is disbursed directly into the Aadhaar-seeded viable bank account by Direct Benefit Transfer (DBT) through the Electronic Clearance System (ECS). In order to be eligible, the applicant should have studied from an educational institution located in the UT of Puducherry in Government or Private Schools recognised by the State/Central Governments.",
         "benefits": [
-            "Scholarship of \u20b910,000/- per annum per student",
+            "Scholarship of ₹10,000/- per annum per student",
             "Direct disbursal into Aadhaar-seeded viable bank account via DBT through ECS"
         ],
         "eligibility": [
@@ -37,7 +37,7 @@
             },
             {
                 "question": "What is the scholarship amount provided to each student annually?",
-                "answer": "The scholarship amount is \u20b910,000 per annum per student."
+                "answer": "The scholarship amount is ₹10,000 per annum per student."
             },
             {
                 "question": "Can students from both Government and Private Schools apply for the scholarship?",
@@ -88,5 +88,6 @@
             "School",
             "Student"
         ]
-    }
+    },
+    "id": "000718"
 }

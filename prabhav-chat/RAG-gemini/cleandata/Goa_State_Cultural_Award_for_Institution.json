@@ -8,7 +8,7 @@
         "details": "The scheme 'Goa State Cultural Award for Institution' by the Directorate of Art and Culture, Government of Goa is designed to recognize, promote and appreciate the contribution of the institution in the field of Art and culture. This will give a tremendous boost to cultural institutions in Goa, which in turn will give encouragement to new talents.",
         "benefits": [
             "A Memento",
-            "Financial Purse to the extent of \u20b9 3,00,000"
+            "Financial Purse to the extent of ₹ 3,00,000"
         ],
         "eligibility": [
             "The applicant should be a Goan institution (or institution working for Goan artists) working in the field of Art and culture.",
@@ -25,7 +25,7 @@
             "Registration Certificate of Institution",
             "Certificates if Any",
             "Souvenir",
-            "Bank Details \u2013 Passbook Copy"
+            "Bank Details – Passbook Copy"
         ],
         "faqs": [
             {
@@ -66,7 +66,7 @@
             },
             {
                 "question": "What are the benefits provided to the awardee institutions?",
-                "answer": "The awardee institutions receive a memento and a financial purse to the extent of \u20b93,00,000 as recognition for their outstanding contributions."
+                "answer": "The awardee institutions receive a memento and a financial purse to the extent of ₹3,00,000 as recognition for their outstanding contributions."
             },
             {
                 "question": "When is the award presented to the selected institutions?",
@@ -98,5 +98,6 @@
             "Financial Assistance",
             "Institution"
         ]
-    }
+    },
+    "id": "000687"
 }

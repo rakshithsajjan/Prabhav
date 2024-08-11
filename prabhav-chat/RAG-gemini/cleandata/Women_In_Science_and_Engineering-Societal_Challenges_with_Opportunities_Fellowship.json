@@ -7,10 +7,10 @@
         "beneficiary": "Women Scientists and Technologists",
         "details": "The 'Women In Science and Engineering-Societal Challenges with Opportunities (WISE-SCOPE) Fellowship' Program was started by the Department of Science & Technology, Government of India to provide opportunities to Women Scientists and Technologists who have completed Ph.D. and want to utilize their Science & Technology knowledge and expertise for the benefit of society. This program promotes projects that directly deal with challenges at the grassroots level and address them through Science & Technology interventions. Projects under WISE-SCOPE should provide Science & Technology solutions to social problems, livelihood generation, drudgery reduction, health and nutrition-related issues, management of natural resources, sustainable agriculture, climate change, disaster management, etc.",
         "benefits": [
-            "Fellowship amount of \u20b955,000/- and HRA (as per norms) per month.",
-            "Research Grant of \u20b92.00 Lakhs per year.",
-            "Field Demonstration of \u20b91.00 Lakh (for project tenure).",
-            "Cost of small equipment (up to a maximum of \u20b92.00 Lakhs) along with Institutional overhead charges as per DST norms."
+            "Fellowship amount of ₹55,000/- and HRA (as per norms) per month.",
+            "Research Grant of ₹2.00 Lakhs per year.",
+            "Field Demonstration of ₹1.00 Lakh (for project tenure).",
+            "Cost of small equipment (up to a maximum of ₹2.00 Lakhs) along with Institutional overhead charges as per DST norms."
         ],
         "eligibility": [
             "Candidates in regular employment are not eligible for WISE-SCOPE.",
@@ -51,7 +51,7 @@
             },
             {
                 "question": "What is the nature of support for the Fellow?",
-                "answer": "Fellowship amount of \u20b955,000/- and HRA (as per norms) per month, Research Grant of \u20b92.00 Lakhs per year, Field Demonstration of \u20b91.00 Lakh (for project tenure), and cost of small equipment (up to a maximum of \u20b92.00 Lakhs) along with Institutional overhead charges as per DST norms."
+                "answer": "Fellowship amount of ₹55,000/- and HRA (as per norms) per month, Research Grant of ₹2.00 Lakhs per year, Field Demonstration of ₹1.00 Lakh (for project tenure), and cost of small equipment (up to a maximum of ₹2.00 Lakhs) along with Institutional overhead charges as per DST norms."
             },
             {
                 "question": "What is the age criterion to apply under the program?",
@@ -103,5 +103,6 @@
             "Research",
             "Women in STEM"
         ]
-    }
+    },
+    "id": "002060"
 }

@@ -5,9 +5,9 @@
         "department": "Micro, Small & Medium Enterprise and Textiles Department",
         "type": "Grant",
         "beneficiary": "Individual handicrafts artisans",
-        "details": "This scheme provides a one-time grant up to \u20b915,000 for individual artisans for the purchase and repair of tool kits/equipment.",
+        "details": "This scheme provides a one-time grant up to ₹15,000 for individual artisans for the purchase and repair of tool kits/equipment.",
         "benefits": [
-            "One-time grant up to \u20b915,000 for toolkits/equipment",
+            "One-time grant up to ₹15,000 for toolkits/equipment",
             "Reimbursement of expenses upon verification"
         ],
         "eligibility": [
@@ -15,7 +15,7 @@
             "No specific income criteria"
         ],
         "exclusions": [],
-        "application_process": "Applications by individual artisans or by the Cooperative Societies of the artisans are to be submitted at BDO's office for rural areas, at SDO\u2019s office for Municipality areas and at the Municipal Corporation Office for the urban areas.",
+        "application_process": "Applications by individual artisans or by the Cooperative Societies of the artisans are to be submitted at BDO's office for rural areas, at SDO’s office for Municipality areas and at the Municipal Corporation Office for the urban areas.",
         "documents_required": [],
         "faqs": [
             {
@@ -24,11 +24,11 @@
             },
             {
                 "question": "How will the procurement and reimbursement process work for individual artisans under this scheme?",
-                "answer": "For individual artisans/trades, the toolkits shall be procured by the beneficiaries themselves and the same shall be reimbursed up to \u20b915,000/- on production of such vouchers and on verification."
+                "answer": "For individual artisans/trades, the toolkits shall be procured by the beneficiaries themselves and the same shall be reimbursed up to ₹15,000/- on production of such vouchers and on verification."
             },
             {
                 "question": "What process will be followed by the department for the administration of this scheme?",
-                "answer": "The applications in Panchayat areas will be screened fortnightly by a Screening Committee in the BDO Office, those in Municipality areas will be screened by a Screening Committee at SDO\u2019s Office and for Corporation areas, applications will be screened by a Screening Committee at Corporation office. Relevant checklist & inspection format will be finalised by the Directorate of MSME."
+                "answer": "The applications in Panchayat areas will be screened fortnightly by a Screening Committee in the BDO Office, those in Municipality areas will be screened by a Screening Committee at SDO’s Office and for Corporation areas, applications will be screened by a Screening Committee at Corporation office. Relevant checklist & inspection format will be finalised by the Directorate of MSME."
             },
             {
                 "question": "What measures are in place to prevent misuse of the Welfare Assistance?",
@@ -44,7 +44,7 @@
             },
             {
                 "question": "How can the benefits be availed?",
-                "answer": "Applications by individual artisans or by the Cooperative Societies of the artisans are to be submitted at BDO's office for rural areas, at SDO\u2019s office for Municipality areas and at the Municipal Corporation Office for the urban areas."
+                "answer": "Applications by individual artisans or by the Cooperative Societies of the artisans are to be submitted at BDO's office for rural areas, at SDO’s office for Municipality areas and at the Municipal Corporation Office for the urban areas."
             }
         ],
         "sources": [
@@ -59,5 +59,6 @@
             "West Bengal",
             "Grant"
         ]
-    }
+    },
+    "id": "002032"
 }

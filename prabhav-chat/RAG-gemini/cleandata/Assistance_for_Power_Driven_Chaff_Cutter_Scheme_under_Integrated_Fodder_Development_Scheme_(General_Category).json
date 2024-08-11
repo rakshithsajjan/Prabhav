@@ -7,7 +7,7 @@
         "beneficiary": "Dairy Farmer",
         "details": "The scheme 'Assistance for Power Driven Chaff Cutter Scheme under Integrated Fodder Development Scheme (General Category)' is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, financial assistance is given to dairy farmers belonging to the General Caste category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green and dry fodder which is economically important for their profitable dairy farming.",
         "benefits": [
-            "Financial assistance up to 75% of the purchase cost of powered chaff cutter or \u20b918,000/-, whichever is less."
+            "Financial assistance up to 75% of the purchase cost of powered chaff cutter or ₹18,000/-, whichever is less."
         ],
         "eligibility": [
             "The beneficiary should be a permanent resident of Gujarat.",
@@ -26,7 +26,7 @@
         "faqs": [
             {
                 "question": "What are the benefits of this scheme?",
-                "answer": "Eligible beneficiaries can receive financial assistance covering up to 75% of the purchase cost of a powered chaff cutter or \u20b918,000/-, whichever is lower."
+                "answer": "Eligible beneficiaries can receive financial assistance covering up to 75% of the purchase cost of a powered chaff cutter or ₹18,000/-, whichever is lower."
             },
             {
                 "question": "How is the financial assistance provided?",
@@ -69,5 +69,6 @@
             "Dairy Farmer",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000117"
 }

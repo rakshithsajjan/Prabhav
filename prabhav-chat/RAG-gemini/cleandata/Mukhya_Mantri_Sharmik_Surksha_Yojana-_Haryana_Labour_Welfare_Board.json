@@ -5,9 +5,9 @@
         "department": "Labour Department, Government of Haryana",
         "type": "Financial Assistance",
         "beneficiary": "Widows/Dependents of workers",
-        "details": "The scheme 'Mukhya Mantri Sharmik Surksha Yojana' is implemented by the Haryana Labour Welfare Board (HLWB). Under this scheme, financial assistance of \u20b95,00,000/- will be provided to the widows/dependents of workers employed in industrial and commercial institutions in Haryana, in the event of the worker's death while working at the workplace.",
+        "details": "The scheme 'Mukhya Mantri Sharmik Surksha Yojana' is implemented by the Haryana Labour Welfare Board (HLWB). Under this scheme, financial assistance of ₹5,00,000/- will be provided to the widows/dependents of workers employed in industrial and commercial institutions in Haryana, in the event of the worker's death while working at the workplace.",
         "benefits": [
-            "Financial assistance of \u20b95,00,000/- to the widows/dependents of workers in the event of the worker's death while working at the workplace."
+            "Financial assistance of ₹5,00,000/- to the widows/dependents of workers in the event of the worker's death while working at the workplace."
         ],
         "eligibility": [
             "The applicant should be the widow/dependent of the deceased worker.",
@@ -45,7 +45,7 @@
         "faqs": [
             {
                 "question": "What benefit does the scheme provide?",
-                "answer": "The scheme provides financial assistance of \u20b95,00,000/- to the widows/dependents of workers in the event of the worker's death while working at the workplace."
+                "answer": "The scheme provides financial assistance of ₹5,00,000/- to the widows/dependents of workers in the event of the worker's death while working at the workplace."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -94,5 +94,6 @@
                 "url": "https://saralharyana.gov.in/"
             }
         ]
-    }
+    },
+    "id": "001179"
 }

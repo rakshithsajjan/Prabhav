@@ -5,17 +5,17 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Minority Community Students",
-        "details": "The scheme 'Education Loan Scheme- Credit Line 2 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, education loans are provided to sections of the minority population defined based on a 'Creamy Layer' i.e., an annual family income of \u20b98,00,000/-. These loans are available for pursuing general/professional/technical courses or training at the graduate level or higher. The Nigam provides loans of up to \u20b920,00,000/- for professional degree courses in India and up to \u20b930,00,000/- for courses abroad, with an interest rate of 8% for males and 5% for females. Applicants must belong to a minority community (Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains) and be permanent residents of Haryana.",
+        "details": "The scheme 'Education Loan Scheme- Credit Line 2 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, education loans are provided to sections of the minority population defined based on a 'Creamy Layer' i.e., an annual family income of ₹8,00,000/-. These loans are available for pursuing general/professional/technical courses or training at the graduate level or higher. The Nigam provides loans of up to ₹20,00,000/- for professional degree courses in India and up to ₹30,00,000/- for courses abroad, with an interest rate of 8% for males and 5% for females. Applicants must belong to a minority community (Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains) and be permanent residents of Haryana.",
         "benefits": [
-            "Loans of up to \u20b920,00,000/- for professional degree courses in India.",
-            "Loans of up to \u20b930,00,000/- for courses abroad.",
+            "Loans of up to ₹20,00,000/- for professional degree courses in India.",
+            "Loans of up to ₹30,00,000/- for courses abroad.",
             "Interest rate of 8% for males and 5% for females.",
             "Education loans for pursuing general/professional/technical courses or training at the graduate and/or higher level."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The age of the applicant should be between 16 and 32 years.",
-            "The annual family income of the applicant should be between \u20b998,001/- to \u20b98,00,000/- (Rural Area) and \u20b91,20,001 to \u20b98,00,000/- (Urban Area).",
+            "The annual family income of the applicant should be between ₹98,001/- to ₹8,00,000/- (Rural Area) and ₹1,20,001 to ₹8,00,000/- (Urban Area).",
             "The applicant should belong to a minority community, i.e., Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
             "The applicant should have obtained admission to any professional and technical course approved by an appropriate agency such as AICTE, Medical Council of India, UGC, etc., in a duly accredited/recognized institute.",
             "The applicant must have secured a minimum of 50% marks in the qualifying exam.",
@@ -44,15 +44,15 @@
             },
             {
                 "question": "What is the 'Creamy Layer' income criterion?",
-                "answer": "The annual family income must be between \u20b998,001/- and \u20b98,00,000/- for rural areas and \u20b91,20,001/- and \u20b98,00,000/- for urban areas."
+                "answer": "The annual family income must be between ₹98,001/- and ₹8,00,000/- for rural areas and ₹1,20,001/- and ₹8,00,000/- for urban areas."
             },
             {
                 "question": "How much loan can be availed for courses in India?",
-                "answer": "Loans up to \u20b920,00,000/- are available for professional degree courses in India."
+                "answer": "Loans up to ₹20,00,000/- are available for professional degree courses in India."
             },
             {
                 "question": "How much loan can be availed for courses abroad?",
-                "answer": "Loans up to \u20b930,00,000/- are available for courses abroad."
+                "answer": "Loans up to ₹30,00,000/- are available for courses abroad."
             },
             {
                 "question": "What is the interest rate for males?",
@@ -107,5 +107,6 @@
             "Haryana",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000472"
 }

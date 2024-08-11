@@ -5,10 +5,10 @@
         "department": "Department for the Welfare of Differently Abled Persons",
         "type": "Training",
         "beneficiary": "Hearing Impaired",
-        "details": "The scheme 'Fitter Training to Hearing Impaired Persons' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to give fitter training to the hearing-impaired candidates at the ITI, Guindy for two years and a stipend of \u20b9300/- per month. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
+        "details": "The scheme 'Fitter Training to Hearing Impaired Persons' was launched by the Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu. The scheme aims to give fitter training to the hearing-impaired candidates at the ITI, Guindy for two years and a stipend of ₹300/- per month. The applications are accepted offline in the prescribed form available at the District Differently Abled Welfare Office.",
         "benefits": [
             "Fitter training is given to the hearing-impaired candidates at the ITI, Guindy for 2 years.",
-            "A stipend of \u20b9300/- per month is given to the trainees."
+            "A stipend of ₹300/- per month is given to the trainees."
         ],
         "eligibility": [
             "The applicant should be a hearing-impaired person.",
@@ -30,7 +30,7 @@
             },
             {
                 "question": "Is there a stipend provided during the training period?",
-                "answer": "Trainees enrolled in the program receive a stipend of \u20b9300/- per month."
+                "answer": "Trainees enrolled in the program receive a stipend of ₹300/- per month."
             },
             {
                 "question": "Who is eligible to enroll in the fitter training program?",
@@ -86,5 +86,6 @@
             "Stipend",
             "Training"
         ]
-    }
+    },
+    "id": "000622"
 }

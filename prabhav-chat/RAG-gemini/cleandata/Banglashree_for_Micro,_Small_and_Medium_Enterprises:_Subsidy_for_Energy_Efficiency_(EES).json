@@ -5,10 +5,10 @@
         "department": "Department of Micro, Small and Medium Enterprises and Textiles",
         "type": "Subsidy",
         "beneficiary": "Micro, Small and Medium Enterprises",
-        "details": "\u201cSubsidy for Energy Efficiency (EES)\u201d is a sub-scheme under the \u201cBanglashree for Micro, Small and Medium Enterprises\u201d scheme. It was launched on 1st April 2020 by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal, and shall remain in force till 31st March 2025.",
+        "details": "“Subsidy for Energy Efficiency (EES)” is a sub-scheme under the “Banglashree for Micro, Small and Medium Enterprises” scheme. It was launched on 1st April 2020 by the Department of Micro, Small and Medium Enterprises and Textiles, Government of West Bengal, and shall remain in force till 31st March 2025.",
         "benefits": [
             "Reimbursement of 50% of the cost of energy audit undertaken by a certified agency.",
-            "Reimbursement of 25% of the cost of installations for energy conservation as per energy audit subject to a maximum \u20b92,00,000/-."
+            "Reimbursement of 25% of the cost of installations for energy conservation as per energy audit subject to a maximum ₹2,00,000/-."
         ],
         "eligibility": [
             "The business/organization should be a Micro/ Small/ Medium Enterprise.",
@@ -124,5 +124,6 @@
             "MSME",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000172"
 }

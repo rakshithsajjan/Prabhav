@@ -5,14 +5,14 @@
         "department": "Department of Social Justice and Empowerment",
         "type": "Pension",
         "beneficiary": "Senior Citizens",
-        "details": "The scheme 'Old Age Samman Allowance' is a social security scheme implemented by the Department of Social Justice and Empowerment, Government of Haryana. The scheme provides pension of \u20b92,500/- per month to the senior citizens (60 years or above) who are unable to sustain themselves with their own resources. The scheme targets the needy and poorer sections of society, such as agricultural labourers, rural artisans, SCs/BCs, and small/marginal farmers. The scheme is implemented through the Zila Parishads. The pension is disbursed through the Panchayati Raj Institutions.",
+        "details": "The scheme 'Old Age Samman Allowance' is a social security scheme implemented by the Department of Social Justice and Empowerment, Government of Haryana. The scheme provides pension of ₹2,500/- per month to the senior citizens (60 years or above) who are unable to sustain themselves with their own resources. The scheme targets the needy and poorer sections of society, such as agricultural labourers, rural artisans, SCs/BCs, and small/marginal farmers. The scheme is implemented through the Zila Parishads. The pension is disbursed through the Panchayati Raj Institutions.",
         "benefits": [
-            "Pension of \u20b92,500/- per month."
+            "Pension of ₹2,500/- per month."
         ],
         "eligibility": [
             "The applicant should be 60 years or above in age.",
             "The applicant should be domicile and resident of Haryana.",
-            "The income of the applicant, from all sources, including that of their spouse should not exceed \u20b93,00,000/- per annum."
+            "The income of the applicant, from all sources, including that of their spouse should not exceed ₹3,00,000/- per annum."
         ],
         "exclusions": [
             "In case the person is receiving pension from any Government or Local/Statutory Body or any organization substantially financed by any Government or Local/Statutory body will not be eligible."
@@ -63,5 +63,6 @@
             "Social Security",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001382"
 }

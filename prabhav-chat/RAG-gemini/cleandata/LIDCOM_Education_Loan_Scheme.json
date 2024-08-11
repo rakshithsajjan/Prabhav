@@ -5,10 +5,10 @@
         "department": "Leather Industries Development Corporation (LIDCOM)",
         "type": "Loan",
         "beneficiary": "Scheduled Caste Students",
-        "details": "Being implemented since the year 2009, the 'Education Loan Scheme' is a scheme by the Leather Industries Development Corporation (LIDCOM), Govt. of Maharashtra. In this scheme, finance of upto \u20b9 20,00,000 is provided for post graduate students in the 18-50 years age group from Charmakar Community for studies in India and abroad. Only the citizens who are permanent residents of the state of Maharashtra are eligible to apply to this scheme. This is a Central Government Scheme and the funding for this scheme comes from the National Scheduled Castes Finance and Development Corporation, New Delhi (NSFDC). The main objective of LIDCOM is to implement various schemes to uplift the lifestyle of Charmakars (Dhor, Chambhar, Holar, Mochi etc.) who are economically weak and below the poverty line and with an intention to develop them educationally, economically and socially so as to give them a respectable place in society.",
+        "details": "Being implemented since the year 2009, the 'Education Loan Scheme' is a scheme by the Leather Industries Development Corporation (LIDCOM), Govt. of Maharashtra. In this scheme, finance of upto ₹ 20,00,000 is provided for post graduate students in the 18-50 years age group from Charmakar Community for studies in India and abroad. Only the citizens who are permanent residents of the state of Maharashtra are eligible to apply to this scheme. This is a Central Government Scheme and the funding for this scheme comes from the National Scheduled Castes Finance and Development Corporation, New Delhi (NSFDC). The main objective of LIDCOM is to implement various schemes to uplift the lifestyle of Charmakars (Dhor, Chambhar, Holar, Mochi etc.) who are economically weak and below the poverty line and with an intention to develop them educationally, economically and socially so as to give them a respectable place in society.",
         "benefits": [
-            "Education Loan up to \u20b910,00,000 for post graduate students in India.",
-            "Education Loan up to \u20b920,00,000 for post graduate students abroad.",
+            "Education Loan up to ₹10,00,000 for post graduate students in India.",
+            "Education Loan up to ₹20,00,000 for post graduate students abroad.",
             "Rate of Interest for Male Beneficiary: 4% per annum.",
             "Rate of Interest for Female Beneficiary: 3.5% per annum."
         ],
@@ -84,11 +84,11 @@
             },
             {
                 "question": "What Is The Maximum Amount Of Education Loan That A Student May Be Eligible For Post Graduate Studies In India?",
-                "answer": "A student may be eligible for Education Loan of up to \u20b910,00,000 for post graduate studies in India."
+                "answer": "A student may be eligible for Education Loan of up to ₹10,00,000 for post graduate studies in India."
             },
             {
                 "question": "What Is The Maximum Amount Of Education Loan That A Student May Be Eligible For Post Graduate Studies Abroad?",
-                "answer": "A student may be eligible for Education Loan of up to \u20b920,00,000 for post graduate studies abroad."
+                "answer": "A student may be eligible for Education Loan of up to ₹20,00,000 for post graduate studies abroad."
             },
             {
                 "question": "Is There An Age-Related Criteria For This Scheme?",
@@ -116,5 +116,6 @@
             "Scheduled Caste",
             "Student"
         ]
-    }
+    },
+    "id": "001003"
 }

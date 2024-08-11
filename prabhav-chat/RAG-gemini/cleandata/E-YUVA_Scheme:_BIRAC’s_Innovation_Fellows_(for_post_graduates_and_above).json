@@ -1,6 +1,6 @@
 {
     "content": {
-        "title": "E-YUVA Scheme: BIRAC\u2019s Innovation Fellows (for post graduates and above)",
+        "title": "E-YUVA Scheme: BIRAC’s Innovation Fellows (for post graduates and above)",
         "state": "India",
         "department": "Ministry Of Science And Technology",
         "type": "Fellowship",
@@ -18,7 +18,7 @@
             "The fellow should apply within 3 years of completion of the degree (Females are exempted from this condition).",
             "An Indian student who has completed a Ph.D. in any field of science is eligible to apply for this fellowship.",
             "The fellow should apply within 2 years of completion of the degree (Females are exempted from this condition).",
-            "BIRAC\u2019s Innovation fellows are required to work full-time at EYC.",
+            "BIRAC’s Innovation fellows are required to work full-time at EYC.",
             "Students pursuing PhD cannot be considered for fellowship grants.",
             "Selected fellows cannot pursue PhD during the fellowship tenure."
         ],
@@ -72,5 +72,6 @@
             "Biotechnology",
             "Entrepreneurship"
         ]
-    }
+    },
+    "id": "000456"
 }

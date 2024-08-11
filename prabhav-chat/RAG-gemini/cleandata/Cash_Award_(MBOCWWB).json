@@ -8,7 +8,7 @@
         "details": "The scheme 'Cash Award' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board annually awards cash prizes to three male and three female children of registered construction workers in each district who scores the highest marks in the SSLC examination.",
         "benefits": [
             "Every year, the Board awards a cash prize to three male and three female children of registered construction workers in each district who achieve the highest marks in the SSLC examination.",
-            "The award amounts are \u20b91000/-, \u20b9750/-, and \u20b9500/- respectively."
+            "The award amounts are ₹1000/-, ₹750/-, and ₹500/- respectively."
         ],
         "eligibility": [
             "The beneficiary should be a resident of Meghalaya.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How are the cash prizes distributed?",
-                "answer": "The cash prizes are distributed in amounts of \u20b91000/-, \u20b9750/-, and \u20b9500/- to the highest marks scorer among male and female children of registered construction workers in the district."
+                "answer": "The cash prizes are distributed in amounts of ₹1000/-, ₹750/-, and ₹500/- to the highest marks scorer among male and female children of registered construction workers in the district."
             },
             {
                 "question": "Who is eligible for the 'Cash Award' scheme?",
@@ -118,5 +118,6 @@
             "Construction Workers",
             "SSLC Examination"
         ]
-    }
+    },
+    "id": "000250"
 }

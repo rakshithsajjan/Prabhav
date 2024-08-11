@@ -5,10 +5,10 @@
         "department": "Ministry Of Panchayati Raj",
         "type": "Internship",
         "beneficiary": "Students and Research Scholars",
-        "details": "To allow/engage \u2018Students\u2019 enrolled/pursuing undergraduate, graduate, or postgraduate degree programs and 'Young Research Scholars' enrolled/pursuing Doctoral (Ph.D.) or post-doctoral degrees in given academic disciplines from recognized/reputed University(s)/Institution(s) within India or abroad for short-term (maximum of 3 months only) engagement of 'Selected Candidates' as 'Interns' in various Units, Cells, and Programmes of different Divisions of MoPR under the Revamped RGSA Scheme for the period of FY 2022-23 to 2025-26.",
+        "details": "To allow/engage ‘Students’ enrolled/pursuing undergraduate, graduate, or postgraduate degree programs and 'Young Research Scholars' enrolled/pursuing Doctoral (Ph.D.) or post-doctoral degrees in given academic disciplines from recognized/reputed University(s)/Institution(s) within India or abroad for short-term (maximum of 3 months only) engagement of 'Selected Candidates' as 'Interns' in various Units, Cells, and Programmes of different Divisions of MoPR under the Revamped RGSA Scheme for the period of FY 2022-23 to 2025-26.",
         "benefits": [
             "Certificate of completion",
-            "Logistic and Stipend Support of \u20b9 7000/- per month"
+            "Logistic and Stipend Support of ₹ 7000/- per month"
         ],
         "eligibility": [
             "Students enrolled/pursuing Undergraduate / Graduate/ Postgraduate degree programs",
@@ -38,7 +38,7 @@
             },
             {
                 "question": "Is the Internship program part of Rashtriya Gram Swaraj Abhiyan?",
-                "answer": "Yes, the 'Internship Program' is part of the Framework for Implementation of Centrally Sponsored Scheme (CSS) of Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) (2022\u201323 to 2025-26) of the Ministry of Panchayati Raj (MoPR), Government of India."
+                "answer": "Yes, the 'Internship Program' is part of the Framework for Implementation of Centrally Sponsored Scheme (CSS) of Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) (2022–23 to 2025-26) of the Ministry of Panchayati Raj (MoPR), Government of India."
             },
             {
                 "question": "Will I get the Experience Certificate?",
@@ -65,5 +65,6 @@
             "Research",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001572"
 }

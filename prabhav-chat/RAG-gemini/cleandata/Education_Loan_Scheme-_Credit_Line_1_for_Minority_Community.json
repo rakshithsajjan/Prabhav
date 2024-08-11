@@ -5,15 +5,15 @@
         "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
         "type": "Loan",
         "beneficiary": "Minority Community",
-        "details": "The scheme 'Education Loan Scheme- Credit Line 1 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, education loans are provided for pursuing general/professional/technical courses or training at the graduate and/or higher level to minority communities (Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains) as notified by the Government of India. The Nigam provides loans up to \u20b920,00,000/- for studies in India and up to \u20b930,00,000/- for studies abroad at an interest rate of 3%. Beneficiaries must have obtained admission to a professional or technical course approved by an appropriate agency such as AICTE, Medical Council of India, UGC, etc. in a recognized institute and must have secured a minimum of 50% marks in the qualifying exam.",
+        "details": "The scheme 'Education Loan Scheme- Credit Line 1 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, education loans are provided for pursuing general/professional/technical courses or training at the graduate and/or higher level to minority communities (Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains) as notified by the Government of India. The Nigam provides loans up to ₹20,00,000/- for studies in India and up to ₹30,00,000/- for studies abroad at an interest rate of 3%. Beneficiaries must have obtained admission to a professional or technical course approved by an appropriate agency such as AICTE, Medical Council of India, UGC, etc. in a recognized institute and must have secured a minimum of 50% marks in the qualifying exam.",
         "benefits": [
-            "Under this scheme, Nigam provides loans up to \u20b920,00,000/- for studies in India and up to \u20b930,00,000/- for studies abroad at an interest rate of 3%.",
+            "Under this scheme, Nigam provides loans up to ₹20,00,000/- for studies in India and up to ₹30,00,000/- for studies abroad at an interest rate of 3%.",
             "The education loans are provided for pursuing general/professional/technical courses or training at the graduate and/or higher level to minority communities i.e. Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains."
         ],
         "eligibility": [
             "The applicant should be a permanent resident of Haryana.",
             "The applicant should be between 16 and 32 years old.",
-            "The annual family income of the applicant should not exceed \u20b998,000/- (Rural Area) and \u20b91,20,000/- (Urban Area).",
+            "The annual family income of the applicant should not exceed ₹98,000/- (Rural Area) and ₹1,20,000/- (Urban Area).",
             "The applicant should belong to a minority community, i.e. Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
             "The applicant should have obtained admission to any professional and technical course approved by an appropriate agency such as AICTE, Medical Council of India, UGC, etc., in a duly accredited/recognized institute.",
             "The applicant must have secured a minimum of 50% marks in the qualifying exam i.e., the exam whose qualification is a pre-requisite for the course.",
@@ -47,11 +47,11 @@
             },
             {
                 "question": "What is the maximum loan amount provided under this scheme for studies in India?",
-                "answer": "The maximum loan amount provided for studies in India is \u20b920,00,000/-."
+                "answer": "The maximum loan amount provided for studies in India is ₹20,00,000/-."
             },
             {
                 "question": "What is the maximum loan amount provided for studies abroad?",
-                "answer": "The maximum loan amount for studies abroad is \u20b930,00,000/-."
+                "answer": "The maximum loan amount for studies abroad is ₹30,00,000/-."
             },
             {
                 "question": "What is the interest rate for the education loans under this scheme?",
@@ -59,15 +59,15 @@
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
-                "answer": "Permanent residents of Haryana, aged between 16 and 32 years, belonging to the specified minority communities, with an annual family income not exceeding \u20b998,000/- (rural) and \u20b91,20,000/- (urban), and meeting the educational qualifications are eligible."
+                "answer": "Permanent residents of Haryana, aged between 16 and 32 years, belonging to the specified minority communities, with an annual family income not exceeding ₹98,000/- (rural) and ₹1,20,000/- (urban), and meeting the educational qualifications are eligible."
             },
             {
                 "question": "What are the income criteria for applicants from rural areas?",
-                "answer": "The annual family income should not exceed \u20b998,000/- for applicants from rural areas."
+                "answer": "The annual family income should not exceed ₹98,000/- for applicants from rural areas."
             },
             {
                 "question": "What are the income criteria for applicants from urban areas?",
-                "answer": "The annual family income should not exceed \u20b91,20,000/- for applicants from urban areas."
+                "answer": "The annual family income should not exceed ₹1,20,000/- for applicants from urban areas."
             },
             {
                 "question": "Is there an age limit for applicants?",
@@ -100,5 +100,6 @@
                 "url": "https://saralharyana.gov.in/"
             }
         ]
-    }
+    },
+    "id": "000471"
 }

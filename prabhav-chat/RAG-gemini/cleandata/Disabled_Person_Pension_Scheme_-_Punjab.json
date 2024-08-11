@@ -7,7 +7,7 @@
         "beneficiary": "Differently Abled",
         "details": "Disabled People often do not have any permanent source of income. Due to this they are not able to take care of their daily need expenses. Government of Punjab comes to the rescue of disabled people by starting Disability Pension Scheme in State. The main objective behind launching this scheme is to provide financial support to disabled people of Punjab.",
         "benefits": [
-            "Amount : \u20b9 1,500/- per month"
+            "Amount : ₹ 1,500/- per month"
         ],
         "eligibility": [
             "Applicant should be a Permanent Resident of Punjab.",
@@ -36,7 +36,7 @@
             },
             {
                 "question": "How much amount will be provided in financial aid?",
-                "answer": "Amount : \u20b9 1,500/- per month."
+                "answer": "Amount : ₹ 1,500/- per month."
             },
             {
                 "question": "Who will get the benefits?",
@@ -90,5 +90,6 @@
             "Financial Assistance",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "000407"
 }

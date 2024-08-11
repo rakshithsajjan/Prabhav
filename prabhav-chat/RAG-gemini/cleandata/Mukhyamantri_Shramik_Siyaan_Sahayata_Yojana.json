@@ -7,7 +7,7 @@
         "beneficiary": "Construction Workers",
         "details": "Labor Department of Chhattisgarh State started this scheme 'Mukhyamantri Shramik Siyaan Sahayata Yojana' for Construction Workers on 12 May 2022. Upon reaching 60 years of age, construction workers' membership automatically terminates. Construction workers who are about to retire from Board membership under the aforementioned provision will be provided with financial assistance to enhance their quality of life prior to retirement.",
         "benefits": [
-            "A lump sum assistance amount of \u20b9 20,000/- will be given to the eligible beneficiaries."
+            "A lump sum assistance amount of ₹ 20,000/- will be given to the eligible beneficiaries."
         ],
         "eligibility": [
             "The beneficiary should be registered under the Board as a construction worker for at least the last 03 years.",
@@ -31,7 +31,7 @@
             },
             {
                 "question": "What are the benefits?",
-                "answer": "A lump sum assistance amount of \u20b9 20,000/- will be given to the eligible beneficiaries."
+                "answer": "A lump sum assistance amount of ₹ 20,000/- will be given to the eligible beneficiaries."
             },
             {
                 "question": "Who can get the benefits?",
@@ -61,5 +61,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001233"
 }

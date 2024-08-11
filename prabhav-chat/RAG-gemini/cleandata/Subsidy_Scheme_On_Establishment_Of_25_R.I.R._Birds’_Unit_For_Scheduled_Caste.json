@@ -1,14 +1,14 @@
 {
     "content": {
-        "title": "Subsidy Scheme On Establishment Of 25 R.I.R. Birds\u2019 Unit For Scheduled Caste",
+        "title": "Subsidy Scheme On Establishment Of 25 R.I.R. Birds’ Unit For Scheduled Caste",
         "state": "Gujarat",
         "department": "Department of Agriculture, Farmers Welfare & Co-operation",
         "type": "Subsidy",
         "beneficiary": "Scheduled Caste",
-        "details": "The scheme 'Subsidy Scheme on Establishment of 25 R.I.R. Birds\u2019 unit for Scheduled Caste' was launched to provide employment, nutritious diet and to raise the income of Schedule Caste People of the society. Under this scheme, beneficiaries will be given 25 R.I.R birds unit and a subsidy will be given 75% (maximum \u20b94500/- in the form of birds and poultry feed).",
+        "details": "The scheme 'Subsidy Scheme on Establishment of 25 R.I.R. Birds’ unit for Scheduled Caste' was launched to provide employment, nutritious diet and to raise the income of Schedule Caste People of the society. Under this scheme, beneficiaries will be given 25 R.I.R birds unit and a subsidy will be given 75% (maximum ₹4500/- in the form of birds and poultry feed).",
         "benefits": [
             "The beneficiary will be given 25 R.I.R birds unit along with poultry feed.",
-            "The subsidy will be given 75% (maximum \u20b94500/- in the form of birds and poultry feed).",
+            "The subsidy will be given 75% (maximum ₹4500/- in the form of birds and poultry feed).",
             "The birds will be given vaccination regularly."
         ],
         "eligibility": [
@@ -46,11 +46,11 @@
             },
             {
                 "question": "What is the unit cost of the scheme?",
-                "answer": "The unit cost of the scheme is \u20b96000/-."
+                "answer": "The unit cost of the scheme is ₹6000/-."
             },
             {
                 "question": "What will the percentage of subsidy be given to the beneficiary?",
-                "answer": "The subsidy will be given 75% (maximum \u20b94500/- in the form of birds and poultry feed)."
+                "answer": "The subsidy will be given 75% (maximum ₹4500/- in the form of birds and poultry feed)."
             },
             {
                 "question": "Who will get priority under the scheme?",
@@ -97,5 +97,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001870"
 }

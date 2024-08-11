@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "Is this scheme a Direct Benefit Transfer (DBT) Scheme?",
-                "answer": "No, NBM isn\u2019t covered under DBT scheme."
+                "answer": "No, NBM isn’t covered under DBT scheme."
             },
             {
                 "question": "Who all will be benefited under NBM scheme?",
@@ -67,5 +67,6 @@
             "Government Scheme",
             "Sustainability"
         ]
-    }
+    },
+    "id": "001297"
 }

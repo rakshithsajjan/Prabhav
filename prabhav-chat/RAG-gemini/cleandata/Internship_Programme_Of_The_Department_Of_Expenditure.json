@@ -7,7 +7,7 @@
         "beneficiary": "Undergraduates and Graduates pursuing post-Graduation/Research",
         "details": "The Internship Programme of the Department of Expenditure aims to familiarize willing and eligible undergraduates pursuing five-year integrated courses and Graduates pursuing post-Graduation/ post-Graduates pursuing Research with the overall process of formulation of economic policies of the Government. The internship is neither a job nor any such assurance for a job in the Department of Expenditure.",
         "benefits": [
-            "Token Remuneration @ \u20b9 10,000/- per month per intern",
+            "Token Remuneration @ ₹ 10,000/- per month per intern",
             "Certificates will be issued to the interns on satisfactory completion of their internship"
         ],
         "eligibility": [
@@ -55,7 +55,7 @@
             },
             {
                 "question": "Will Interns Receive Any Remuneration?",
-                "answer": "Yes, interns will receive a token remuneration of \u20b910,000 per month."
+                "answer": "Yes, interns will receive a token remuneration of ₹10,000 per month."
             },
             {
                 "question": "What Is The Duration Of The Internship?",
@@ -74,5 +74,6 @@
             "Economics",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000895"
 }

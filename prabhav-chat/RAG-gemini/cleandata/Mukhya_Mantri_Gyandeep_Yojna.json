@@ -7,7 +7,7 @@
         "beneficiary": "Students",
         "details": "The scheme 'Mukhya Mantri Gyandeep Yojna' was launched by the Higher Education Department, Government of Himachal Pradesh for all those students of the State who avail of educational loans from any Bank for pursuing professional/technical courses and higher education courses from recognized Institutions in India. The scheme shall be applicable for educational loans disbursed from the academic year 2016-17 starting from 1st April 2016 irrespective of the date of sanction of the education loan.",
         "benefits": [
-            "Under this Scheme, Interest subsidy is admissible from any bank on an education loan availed up to the maximum of \u20b910 lakhs.",
+            "Under this Scheme, Interest subsidy is admissible from any bank on an education loan availed up to the maximum of ₹10 lakhs.",
             "Interest subsidy to the extent of 4% per annum on education loans will be allowed."
         ],
         "eligibility": [
@@ -50,7 +50,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Under this Scheme, Interest subsidy is admissible from any bank on an education loan availed up to the maximum of \u20b910 lakhs. Interest subsidy to the extent of 4% per annum on education loans will be allowed."
+                "answer": "Under this Scheme, Interest subsidy is admissible from any bank on an education loan availed up to the maximum of ₹10 lakhs. Interest subsidy to the extent of 4% per annum on education loans will be allowed."
             },
             {
                 "question": "Who is not eligible to apply under the scheme?",
@@ -76,5 +76,6 @@
             }
         ],
         "tags": []
-    }
+    },
+    "id": "001170"
 }

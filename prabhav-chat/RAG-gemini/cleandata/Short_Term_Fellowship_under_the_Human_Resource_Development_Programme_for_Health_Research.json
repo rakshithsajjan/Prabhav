@@ -7,17 +7,17 @@
         "beneficiary": "Medical Students and Faculty",
         "details": "Short Term Fellowship under the Human Resource Development Programme for Health Research aims to provide advanced training in India and abroad to medical and health research personnel in cutting-edge research areas related to medicine and health to create trained human resources for carrying out advanced research activities. The scheme is intended to create a pool of talented health research personnel in the country by upgrading the skills of medical students & faculty through specialized training in priority areas of health research in leading national and international institutions.",
         "benefits": [
-            "A consolidated stipend of \u20b940,000/- per month for a period of stay in the host institute, which is at a different station from the parent Institute.",
+            "A consolidated stipend of ₹40,000/- per month for a period of stay in the host institute, which is at a different station from the parent Institute.",
             "Expenditure on travel will be as per the T.A. rules of the parent organization.",
-            "One-time contingency grant of \u20b920,000/- (maximum) to meet the expenses of local taxi charges, attending meetings, etc.",
+            "One-time contingency grant of ₹20,000/- (maximum) to meet the expenses of local taxi charges, attending meetings, etc.",
             "A consolidated stipend of US $ 3000/- per month for the period of stay in the host institute abroad.",
             "Cost of air passage in economy class by Air India from the parent institute to the foreign host institute by the shortest possible route.",
-            "One-time contingency grant of \u20b930,000 (maximum) to meet the expenses of local taxi charges visa fee and Health insurance, attending meetings, etc."
+            "One-time contingency grant of ₹30,000 (maximum) to meet the expenses of local taxi charges visa fee and Health insurance, attending meetings, etc."
         ],
         "eligibility": [
             "Only Indian citizens working in Indian institutes are eligible.",
             "They should hold M.D./ M.S./ M.D.S. or MBBS/BDS/ MVSc./ M.Sc./M.Pharma/M.Tech or equivalent with Ph.D. in health/biomedical research.",
-            "Faculty having at least three years\u2019 experience in the college/institute as a regular employee.",
+            "Faculty having at least three years’ experience in the college/institute as a regular employee.",
             "Persons up to 55 years of age as of the last date of receipt of application will be eligible.",
             "They should not have availed any fellowship of the duration of one month or above duration from any of the agencies of Govt. of India / State Governments for the same subject of training/research project."
         ],
@@ -65,7 +65,7 @@
             },
             {
                 "question": "How many years of experience do faculty need to apply under the programme?",
-                "answer": "The faculty having at least three years\u2019 experience in the college/institute as a regular employee."
+                "answer": "The faculty having at least three years’ experience in the college/institute as a regular employee."
             },
             {
                 "question": "What is the age limit to apply under the programme?",
@@ -77,11 +77,11 @@
             },
             {
                 "question": "What is the amount of fellowship given to the fellows in Indian institutes?",
-                "answer": "A consolidated stipend of \u20b940,000/- per month for a period of stay in the host institute, which is at a different station from the parent Institute."
+                "answer": "A consolidated stipend of ₹40,000/- per month for a period of stay in the host institute, which is at a different station from the parent Institute."
             },
             {
                 "question": "How much contingency grant is given to the fellows in Indian institutes?",
-                "answer": "One-time contingency grant of \u20b920,000/- (maximum) to meet the expenses of local taxi charges, attending meetings, etc."
+                "answer": "One-time contingency grant of ₹20,000/- (maximum) to meet the expenses of local taxi charges, attending meetings, etc."
             },
             {
                 "question": "What is the amount of fellowship given to the fellows in Foreign institutes?",
@@ -89,7 +89,7 @@
             },
             {
                 "question": "How much contingency grant is given to the fellows in Foreign institutes?",
-                "answer": "One-time contingency grant of \u20b930,000 (maximum) to meet the expenses of local taxi charges visa fee and Health insurance, attending meetings, etc."
+                "answer": "One-time contingency grant of ₹30,000 (maximum) to meet the expenses of local taxi charges visa fee and Health insurance, attending meetings, etc."
             },
             {
                 "question": "How can an applicant apply under the programme?",
@@ -120,5 +120,6 @@
             "Training",
             "Medical Education"
         ]
-    }
+    },
+    "id": "001783"
 }

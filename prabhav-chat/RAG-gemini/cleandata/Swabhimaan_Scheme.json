@@ -5,7 +5,7 @@
         "department": "Social Welfare Department",
         "type": "Subsidy",
         "beneficiary": "Pregnant Women, Lactating Mothers, Adolescent Girls",
-        "details": "The Union Territory of Daman & Diu and Dadra & Nagar Haveli has successfully launched the \u201cSwabhimaan Scheme\u201d scheme to tackle the problems of Malnutrition, Anemia, and other relevant issues. The Hon'ble Prime Minister launched the scheme in Daman on 25th February 2018 and Hon'ble Home Minister in Dadra and Nagar Haveli on 20th April 2018. Under this scheme, a take-home ration (7.5kgs nutritious) is provided every month to Pregnant Women, Lactating Mothers, and Sabla (Adolescent Category girls in the age group of 11-14 years).",
+        "details": "The Union Territory of Daman & Diu and Dadra & Nagar Haveli has successfully launched the “Swabhimaan Scheme” scheme to tackle the problems of Malnutrition, Anemia, and other relevant issues. The Hon'ble Prime Minister launched the scheme in Daman on 25th February 2018 and Hon'ble Home Minister in Dadra and Nagar Haveli on 20th April 2018. Under this scheme, a take-home ration (7.5kgs nutritious) is provided every month to Pregnant Women, Lactating Mothers, and Sabla (Adolescent Category girls in the age group of 11-14 years).",
         "benefits": [
             "Monthly quota of supplementary nutrition provided to pregnant women, lactating mothers, and adolescent girls.",
             "Items provided in the supplementary nutrition kits are procured from the market through an open and transparent process.",
@@ -27,8 +27,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cSwabhimaan Scheme\u201d scheme?",
-                "answer": "The Union Territory of Daman & Diu and Dadra & Nagar Haveli has successfully launched the \u201cSwabhimaan Scheme\u201d scheme to tackle the problems of Malnutrition, Anemia, and other relevant issues."
+                "question": "What is the “Swabhimaan Scheme” scheme?",
+                "answer": "The Union Territory of Daman & Diu and Dadra & Nagar Haveli has successfully launched the “Swabhimaan Scheme” scheme to tackle the problems of Malnutrition, Anemia, and other relevant issues."
             },
             {
                 "question": "When was this scheme launched?",
@@ -83,5 +83,6 @@
             "Health",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "001899"
 }

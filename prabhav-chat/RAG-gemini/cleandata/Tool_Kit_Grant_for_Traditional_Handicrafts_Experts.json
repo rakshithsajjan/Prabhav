@@ -7,8 +7,8 @@
         "beneficiary": "Craftsman",
         "details": "A sizeable population of OBCs is engaged in traditional occupations like handicrafts, jewellery making, metalwork, weaving, etc. Due to these low-paid occupations and due to modern technological intervention they face tough competition in the market which creates a feeling of inferiority and incapacity threatening their very existence. In order to have the traditional occupation as a sustainable self-employment and income-generating source for the families of traditional craftsmen their traditional skills need to be upgraded and they need to be equipped with modern technology to meet the market demands. The scheme is intended for the above purpose of improving the productivity and competitiveness of the traditional OBC craftsmen ensuring quality goods for enhanced income and thereby qualitative improvement in their living conditions.",
         "benefits": [
-            "The training costs, stipend (if found necessary), and tool kit grant together shall be limited to \u20b925000/-",
-            "The training and stipend portion is limited to \u20b95000/-",
+            "The training costs, stipend (if found necessary), and tool kit grant together shall be limited to ₹25000/-",
+            "The training and stipend portion is limited to ₹5000/-",
             "The maximum period of training will be three months"
         ],
         "eligibility": [
@@ -16,7 +16,7 @@
             "The applicant should belong to the State Backward Communities of Kerala State",
             "The applicant should be engaged in traditional craftwork/skilled work",
             "The upper age limit of the applicant should be 60 years",
-            "The annual family income of the applicant should be \u20b91,00,000/-"
+            "The annual family income of the applicant should be ₹1,00,000/-"
         ],
         "exclusions": [
             "The grant should not be used as working capital"
@@ -35,8 +35,8 @@
         ],
         "faqs": [
             {
-                "question": "What is the \u201cTool Kit Grant for Traditional Handicrafts Experts\u201d scheme?",
-                "answer": "The \u201cTool Kit Grant for Traditional Handicrafts Experts\u201d scheme is launched for the purpose of improving the productivity and competitiveness of the traditional OBC craftsmen ensuring quality goods for enhanced income and thereby qualitative improvement in their living conditions."
+                "question": "What is the “Tool Kit Grant for Traditional Handicrafts Experts” scheme?",
+                "answer": "The “Tool Kit Grant for Traditional Handicrafts Experts” scheme is launched for the purpose of improving the productivity and competitiveness of the traditional OBC craftsmen ensuring quality goods for enhanced income and thereby qualitative improvement in their living conditions."
             },
             {
                 "question": "What is the objective of the scheme?",
@@ -52,7 +52,7 @@
             },
             {
                 "question": "What are the benefits of the scheme?",
-                "answer": "The grant of \u20b925000/- shall be given to the eligible person for his/her training, stipend (if found necessary) and tool kits."
+                "answer": "The grant of ₹25000/- shall be given to the eligible person for his/her training, stipend (if found necessary) and tool kits."
             },
             {
                 "question": "What is the duration of the training?",
@@ -64,7 +64,7 @@
             },
             {
                 "question": "What is the criterion for annual family income under the scheme?",
-                "answer": "The annual family income of the applicant from all sources does not exceed \u20b91,00,000/-."
+                "answer": "The annual family income of the applicant from all sources does not exceed ₹1,00,000/-."
             },
             {
                 "question": "Who will be given preference under this scheme?",
@@ -107,5 +107,6 @@
             "Tool Kit",
             "Training"
         ]
-    }
+    },
+    "id": "001960"
 }

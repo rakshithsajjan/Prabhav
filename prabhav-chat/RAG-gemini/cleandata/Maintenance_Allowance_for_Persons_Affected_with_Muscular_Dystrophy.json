@@ -7,7 +7,7 @@
         "beneficiary": "Individuals affected by Muscular Dystrophy",
         "details": "The 'Maintenance Allowance Scheme for Persons Affected with Muscular Dystrophy,' initiated by the Department for the Welfare of Differently Abled Persons in the Government of Tamil Nadu, provides crucial financial support tailored to enhance the well-being and quality of life of individuals affected by this progressive neuromuscular condition. The monthly allowance acknowledges the potential economic challenges associated with muscular dystrophy, such as heightened healthcare expenses and limited job opportunities, ensuring that fundamental needs are met while upholding dignity and independence. Through this program, the Department underscores its dedication to assisting those with muscular dystrophy and promoting inclusivity within society.",
         "benefits": [
-            "Financial Assistance of \u20b92,000/- per month."
+            "Financial Assistance of ₹2,000/- per month."
         ],
         "eligibility": [
             "The applicant should be affected by muscular dystrophy.",
@@ -24,7 +24,7 @@
         "faqs": [
             {
                 "question": "What is the monthly rate of maintenance allowance for individuals affected with muscular dystrophy?",
-                "answer": "The monthly rate of maintenance allowance for individuals affected with muscular dystrophy is \u20b92,000/-."
+                "answer": "The monthly rate of maintenance allowance for individuals affected with muscular dystrophy is ₹2,000/-."
             },
             {
                 "question": "What percentage of disability is required for eligibility for the maintenance allowance?",
@@ -84,5 +84,6 @@
             "Muscular Dystrophy",
             "Social Welfare"
         ]
-    }
+    },
+    "id": "001068"
 }

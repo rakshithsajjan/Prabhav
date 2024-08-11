@@ -5,9 +5,9 @@
         "department": "Department of Women & Child Welfare, Govt. of Sikkim",
         "type": "Pension",
         "beneficiary": "Differently-abled persons belonging to Below Poverty Line households",
-        "details": "The scheme 'Indira Gandhi National Disability Pension Scheme (IGNDPS)' was started by the Department of Women & Child Welfare, Govt. of Sikkim in 2014. Under this scheme, financial assistance is provided to differently-abled persons of the age group of 18 years & above belonging to a household Below Poverty Line category with severe or multiple disabilities of more than 80%. The beneficiary will receive a monthly pension of \u20b9 2000/- and this pension amount consists of the Central and State governments' share.",
+        "details": "The scheme 'Indira Gandhi National Disability Pension Scheme (IGNDPS)' was started by the Department of Women & Child Welfare, Govt. of Sikkim in 2014. Under this scheme, financial assistance is provided to differently-abled persons of the age group of 18 years & above belonging to a household Below Poverty Line category with severe or multiple disabilities of more than 80%. The beneficiary will receive a monthly pension of ₹ 2000/- and this pension amount consists of the Central and State governments' share.",
         "benefits": [
-            "Monthly pension of \u20b9 2000/-"
+            "Monthly pension of ₹ 2000/-"
         ],
         "eligibility": [
             "The applicant should be a resident of the state of Sikkim.",
@@ -21,7 +21,7 @@
         "exclusions": [],
         "application_process": "Offline and Online. The applicant has to approach their concerned Gram Panchayat / Municipality / Municipal Corporation office, consult with the designated authority about the applying procedure, collect the application form, fill in all mandatory fields, attach all mandatory documents, and submit it to the designated receiving authority.",
         "documents_required": [
-            "Recent passport size photographs \u2013 3 Number",
+            "Recent passport size photographs – 3 Number",
             "Attested photocopy of Sikkim Subject Certificate / Certificate of Identification as the case may be i.e. Income certificate, Caste certificate.",
             "Attested photocopy of the Below Poverty Line Certificate.",
             "Birth Certificate or Electoral photo Identity Card or any other valid document having recorded the date as proof of age.",
@@ -33,7 +33,7 @@
         "faqs": [
             {
                 "question": "What should be the monthly pension under this scheme?",
-                "answer": "The beneficiary will receive a sum of \u20b9 2,000/- as a monthly pension under this scheme."
+                "answer": "The beneficiary will receive a sum of ₹ 2,000/- as a monthly pension under this scheme."
             },
             {
                 "question": "What is the age limit under this scheme?",
@@ -84,5 +84,6 @@
             "Disability",
             "Pension"
         ]
-    }
+    },
+    "id": "000833"
 }

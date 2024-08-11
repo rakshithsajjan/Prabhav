@@ -18,7 +18,7 @@
         "eligibility": [
             "Individuals and families listed in the BPL list by the State Government are eligible under the MA Yojana.",
             "Each family member should be present when enrolled under the scheme.",
-            "Families that belong marginally above the poverty line can be under the MA Vatsalya Yojana if they follow these criteria: annual income of the family is up to \u20b94 Lakhs, any member(s) who are Accredited Social Health Activist (ASHA) workers, any member(s) who have accredited reporters, Class-3 and Class-4 employees employed on a fixed payroll by the State Government, Senior Citizens with families of a total annual income of up to \u20b96 Lakhs."
+            "Families that belong marginally above the poverty line can be under the MA Vatsalya Yojana if they follow these criteria: annual income of the family is up to ₹4 Lakhs, any member(s) who are Accredited Social Health Activist (ASHA) workers, any member(s) who have accredited reporters, Class-3 and Class-4 employees employed on a fixed payroll by the State Government, Senior Citizens with families of a total annual income of up to ₹6 Lakhs."
         ],
         "exclusions": [],
         "application_process": "Offline. The eligible beneficiaries must visit the Kiosks at Taluka or Civic Centres in their area. Mobile kiosks are also available at a local level. The authorities are well equipped with the needed hardware for enrolment. The hardware is used to capture biometrics such as fingerprints, iris scans, and photos of the beneficiaries. The beneficiaries might even have to fill out the MA Card application form in Gujarati with appropriate details. Once the details are verified, the MA health card is issued to the beneficiaries and the enrolment process is complete.",
@@ -35,7 +35,7 @@
             },
             {
                 "question": "Who is eligible under the MA Yojana scheme?",
-                "answer": "The annual income of the family is up to \u20b94 Lakhs, any member(s) who are Accredited Social Health Activist (ASHA) workers, any member(s) who have accredited reporters, Class-3 and Class-4 employees employed on a fixed payroll by the State Government, Senior Citizens with families of a total annual income of up to \u20b96 Lakhs."
+                "answer": "The annual income of the family is up to ₹4 Lakhs, any member(s) who are Accredited Social Health Activist (ASHA) workers, any member(s) who have accredited reporters, Class-3 and Class-4 employees employed on a fixed payroll by the State Government, Senior Citizens with families of a total annual income of up to ₹6 Lakhs."
             },
             {
                 "question": "What documents do the beneficiaries need to provide at the time of enrolment?",
@@ -43,7 +43,7 @@
             },
             {
                 "question": "How much coverage does the MA Yojana scheme provide?",
-                "answer": "The scheme provides tertiary medical coverage of up to \u20b95 lakh to each eligible family. Besides, \u20b9300 is paid to the beneficiary for transportation to the empanelled hospital."
+                "answer": "The scheme provides tertiary medical coverage of up to ₹5 lakh to each eligible family. Besides, ₹300 is paid to the beneficiary for transportation to the empanelled hospital."
             },
             {
                 "question": "Which Surgeries Covered in this Scheme?",
@@ -70,5 +70,6 @@
             "BPL",
             "Medical Care"
         ]
-    }
+    },
+    "id": "001190"
 }

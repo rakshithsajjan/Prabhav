@@ -7,9 +7,9 @@
         "beneficiary": "Post-Doctoral Researchers",
         "details": "The National Post Doctoral Fellowship (NPDF) is designed to support researchers who have completed their Ph.D. and wish to pursue post-doctoral research in recognized academic institutions, national laboratories, and other recognized R&D institutions in India.",
         "benefits": [
-            "Fellowship amount of \u20b955,000/- per month",
-            "Research Grant of \u20b92,00,000/- per annum",
-            "Overheads of \u20b91,00,000/- per annum"
+            "Fellowship amount of ₹55,000/- per month",
+            "Research Grant of ₹2,00,000/- per annum",
+            "Overheads of ₹1,00,000/- per annum"
         ],
         "eligibility": [
             "Ph.D. degree in Science or Engineering or M.D/M.S degree in any area of medicine",
@@ -68,5 +68,6 @@
             "Engineering",
             "SERB"
         ]
-    }
+    },
+    "id": "001322"
 }

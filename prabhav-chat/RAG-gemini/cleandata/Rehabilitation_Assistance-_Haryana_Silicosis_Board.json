@@ -5,9 +5,9 @@
         "department": "Haryana Labour Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Silicosis-affected workers and their families",
-        "details": "The scheme 'Rehabilitation Assistance' is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, a one-time assistance of \u20b95,00,000/- will be given to silicosis-affected workers upon confirmation by the Silicosis Diagnosis Board. In the event of the worker's death before receiving the rehabilitation assistance after confirmation of silicosis, the assistance shall be payable to the widow or widower if the worker was married, or to one of the living parents if the worker was unmarried.",
+        "details": "The scheme 'Rehabilitation Assistance' is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, a one-time assistance of ₹5,00,000/- will be given to silicosis-affected workers upon confirmation by the Silicosis Diagnosis Board. In the event of the worker's death before receiving the rehabilitation assistance after confirmation of silicosis, the assistance shall be payable to the widow or widower if the worker was married, or to one of the living parents if the worker was unmarried.",
         "benefits": [
-            "One-time assistance of \u20b95,00,000/- for silicosis-affected workers upon confirmation by the Silicosis Diagnosis Board.",
+            "One-time assistance of ₹5,00,000/- for silicosis-affected workers upon confirmation by the Silicosis Diagnosis Board.",
             "Assistance payable to widow/widower if the worker was married or to one of the living parents if the worker was unmarried in case of death before receiving assistance."
         ],
         "eligibility": [
@@ -74,5 +74,6 @@
             "Widower",
             "Worker"
         ]
-    }
+    },
+    "id": "001585"
 }

@@ -5,10 +5,10 @@
         "department": "Department of Agriculture, Farmers Welfare & Co-operation",
         "type": "Subsidy",
         "beneficiary": "Weaker Section",
-        "details": "The scheme 'Subsidy Scheme on Establishment of 25 R.I.R. Birds' Unit for Weaker Section' was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to provide employment, nutritious diet and to raise the income of weaker section people of the society. Under this scheme, beneficiaries will be given 25 R.I.R bird units and a subsidy will be given 75% (maximum \u20b94500/- in the form of birds and poultry feed).",
+        "details": "The scheme 'Subsidy Scheme on Establishment of 25 R.I.R. Birds' Unit for Weaker Section' was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to provide employment, nutritious diet and to raise the income of weaker section people of the society. Under this scheme, beneficiaries will be given 25 R.I.R bird units and a subsidy will be given 75% (maximum ₹4500/- in the form of birds and poultry feed).",
         "benefits": [
             "The beneficiary will be given 25 R.I.R birds' unit along with poultry feed.",
-            "The subsidy will be given 75% (maximum \u20b94500/- in the form of birds and poultry feed)",
+            "The subsidy will be given 75% (maximum ₹4500/- in the form of birds and poultry feed)",
             "Under the scheme, the birds will be given vaccination regularly."
         ],
         "eligibility": [
@@ -41,11 +41,11 @@
             },
             {
                 "question": "What is the unit cost of the scheme?",
-                "answer": "The unit cost of the scheme is \u20b96000/-."
+                "answer": "The unit cost of the scheme is ₹6000/-."
             },
             {
                 "question": "What will the percentage of subsidy be given to the beneficiary?",
-                "answer": "The subsidy will be given 75% (maximum \u20b94500/- in the form of birds and poultry feed)."
+                "answer": "The subsidy will be given 75% (maximum ₹4500/- in the form of birds and poultry feed)."
             },
             {
                 "question": "Who will get priority under the scheme?",
@@ -91,5 +91,6 @@
             "Poultry Farming",
             "Rhode Island Red (RIR)"
         ]
-    }
+    },
+    "id": "001869"
 }

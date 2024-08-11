@@ -7,10 +7,10 @@
         "beneficiary": "AICTE approved institutions",
         "details": "AICTE has launched a new scheme namely, AICTE YOUTH UNDERTAKING VISIT FOR ACQUIRING KNOWLEDGE (YUVAK) STUDY TOUR OF ATAL TUNNEL, HIMACHAL PRADESH, on 21st May 2021 to provide financial grants to the team of one faculty and 10 students from AICTE approved institutions for the study tour of ATAL TUNNEL.",
         "benefits": [
-            "Train Fare from Institute to Chandigarh & back: \u20b930,000/- for NRO & NWRO, \u20b960,000/- for Other Regions",
-            "Transport charges from Chandigarh to Manali (including visits to ATAL Tunnel) & back: \u20b930,000/- for NRO & NWRO, \u20b930,000/- for Other Regions",
-            "Boarding & Lodging and incidental expenses at Manali for 03 days: \u20b91,10,000/- for both regions",
-            "Total Grant Amount: \u20b91,70,000/- for NRO & NWRO, \u20b92,00,000/- for Other Regions"
+            "Train Fare from Institute to Chandigarh & back: ₹30,000/- for NRO & NWRO, ₹60,000/- for Other Regions",
+            "Transport charges from Chandigarh to Manali (including visits to ATAL Tunnel) & back: ₹30,000/- for NRO & NWRO, ₹30,000/- for Other Regions",
+            "Boarding & Lodging and incidental expenses at Manali for 03 days: ₹1,10,000/- for both regions",
+            "Total Grant Amount: ₹1,70,000/- for NRO & NWRO, ₹2,00,000/- for Other Regions"
         ],
         "eligibility": [
             "AICTE approved Institutions in the field of Technical Education having latest NIRF ranking between 001 to 500 are eligible for the grant.",
@@ -25,8 +25,8 @@
         ],
         "faqs": [
             {
-                "question": "What is AICTE \u2013 Youth Undertaking Visit For Acquiring Knowledge (YUVAK) Study Tour Of Atal Tunnel scheme?",
-                "answer": "AICTE\u2013Youth Undertaking Visit For Acquiring Knowledge (YUVAK) Study Tour Of Atal Tunnel scheme has been launched to provide financial grants to the institutions who conducts study tour of ATAL TUNNEL to the team of one faculty and 10 students from AICTE approved institutions."
+                "question": "What is AICTE – Youth Undertaking Visit For Acquiring Knowledge (YUVAK) Study Tour Of Atal Tunnel scheme?",
+                "answer": "AICTE–Youth Undertaking Visit For Acquiring Knowledge (YUVAK) Study Tour Of Atal Tunnel scheme has been launched to provide financial grants to the institutions who conducts study tour of ATAL TUNNEL to the team of one faculty and 10 students from AICTE approved institutions."
             },
             {
                 "question": "When this scheme was launched?",
@@ -90,5 +90,6 @@
             "Atal Tunnel",
             "Financial Grant"
         ]
-    }
+    },
+    "id": "000028"
 }

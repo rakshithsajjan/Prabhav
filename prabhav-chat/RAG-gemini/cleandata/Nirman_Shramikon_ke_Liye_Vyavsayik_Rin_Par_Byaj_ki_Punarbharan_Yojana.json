@@ -7,7 +7,7 @@
         "beneficiary": "Construction Worker",
         "details": "The 'Nirman Shramikon ke Liye Vyavsayik Rin Par Byaj ki Punarbharan Yojana' is a scheme designed to alleviate financial burdens for construction workers by assisting in the repayment of interest on commercial loans. Recognizing the challenges faced by individuals in the construction sector, especially during economic downturns, the scheme aims to ease the burden of high-interest rates, which often weigh heavily on the shoulders of laborers. By providing support with interest repayments, the government not only relieves immediate financial pressure but also fosters an environment conducive to entrepreneurship and economic stability among the construction workforce. This initiative underscores the government's commitment to the welfare and prosperity of construction workers, recognizing their invaluable contributions to the nation's infrastructure and development. Through this scheme, the government aims to enhance the financial resilience of construction laborers, enabling them to pursue their entrepreneurial aspirations and secure a brighter future for themselves and their families.",
         "benefits": [
-            "The board will reimburse the interest payable on business loans up to \u20b95,00,000/-"
+            "The board will reimburse the interest payable on business loans up to ₹5,00,000/-"
         ],
         "eligibility": [
             "Applicant must be construction worker and registered with the board are regularly depositing contributions.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What benefits are provided under the scheme?",
-                "answer": "The board will reimburse the interest payable on business loans up to \u20b95,00,000/-"
+                "answer": "The board will reimburse the interest payable on business loans up to ₹5,00,000/-"
             },
             {
                 "question": "Can beneficiary buy a shop with the loan amount?",
@@ -47,7 +47,7 @@
             },
             {
                 "question": "How much reimbursement of interest amount on the loan is possible?",
-                "answer": "It will be maximum of \u20b95,00,000/-"
+                "answer": "It will be maximum of ₹5,00,000/-"
             },
             {
                 "question": "Is there an application fee?",
@@ -88,5 +88,6 @@
                 "url": "https://sso.rajasthan.gov.in/signin"
             }
         ]
-    }
+    },
+    "id": "001365"
 }

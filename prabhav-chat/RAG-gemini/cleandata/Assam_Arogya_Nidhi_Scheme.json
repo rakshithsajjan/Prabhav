@@ -4,16 +4,16 @@
         "state": "Assam",
         "department": "Health & Family Welfare Department, Govt. of Assam",
         "type": "Grant",
-        "beneficiary": "BPL families and families with an annual income of less than \u20b95.00 Lakhs",
+        "beneficiary": "BPL families and families with an annual income of less than ₹5.00 Lakhs",
         "details": "The scheme 'Assam Arogya Nidhi (AAN)' was launched to provide financial assistance for general and specialized treatment of life-threatening diseases and injuries caused by natural and manmade disasters. Beneficiaries are selected by a Selection Committee notified by the Government of Assam. The Government of India contributes 50% of the funds sanctioned by the State Government.",
         "benefits": [
-            "Financial assistance up to a maximum benefit of \u20b93.00 Lakh.",
+            "Financial assistance up to a maximum benefit of ₹3.00 Lakh.",
             "Coverage for serious diseases requiring surgery/implants/procedures.",
             "Financial assistance admissible for treatment in all Government hospitals and reputed private hospitals registered under the Clinical Establishment Act."
         ],
         "eligibility": [
             "All Indian citizens who are ordinarily resident of the State of Assam.",
-            "Family income of the applicant should be less than \u20b95.00 lakhs per annum.",
+            "Family income of the applicant should be less than ₹5.00 lakhs per annum.",
             "No age limit for coverage under the scheme.",
             "No Govt. employee or Govt. pensioners and their family members will be eligible."
         ],
@@ -34,11 +34,11 @@
         "faqs": [
             {
                 "question": "What is 'Assam Arogya Nidhi Scheme'?",
-                "answer": "A yearly Financial Assistance Scheme provided as reimbursement to families whose yearly income is less than \u20b95.00 lakhs for treatment of serious diseases including accident cases."
+                "answer": "A yearly Financial Assistance Scheme provided as reimbursement to families whose yearly income is less than ₹5.00 lakhs for treatment of serious diseases including accident cases."
             },
             {
                 "question": "How much financial assistance will be provided under the scheme?",
-                "answer": "Financial assistance up to a maximum benefit of \u20b93.00 Lakh will be provided."
+                "answer": "Financial assistance up to a maximum benefit of ₹3.00 Lakh will be provided."
             },
             {
                 "question": "What type of diseases are to be covered under the scheme?",
@@ -58,7 +58,7 @@
             },
             {
                 "question": "Who is eligible under the scheme?",
-                "answer": "Individuals whose family income is less than \u20b95.00 lakhs per annum."
+                "answer": "Individuals whose family income is less than ₹5.00 lakhs per annum."
             },
             {
                 "question": "Is this scheme only for residents of Assam State?",
@@ -101,5 +101,6 @@
             "Assam",
             "Government Scheme"
         ]
-    }
+    },
+    "id": "000104"
 }

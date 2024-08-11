@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste dairy farmers",
         "details": "The scheme 'Assistance for Power Driven Chaff Cutter Scheme under Scheduled Castes Sub Plan (SC Category)' is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, financial assistance is given to dairy farmers belonging to the Scheduled Caste category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green and dry fodder which is economically important for their profitable dairy farming.",
         "benefits": [
-            "Financial assistance up to 75% of the purchase cost of powered chaff cutter or \u20b918,000/-, whichever is less.",
+            "Financial assistance up to 75% of the purchase cost of powered chaff cutter or ₹18,000/-, whichever is less.",
             "The amount of assistance will be deposited in the bank account of the beneficiary."
         ],
         "eligibility": [
@@ -28,7 +28,7 @@
         "faqs": [
             {
                 "question": "What are the benefits of this scheme?",
-                "answer": "Eligible beneficiaries can receive financial assistance covering up to 75% of the purchase cost of a powered chaff cutter or \u20b918,000/-, whichever is lower."
+                "answer": "Eligible beneficiaries can receive financial assistance covering up to 75% of the purchase cost of a powered chaff cutter or ₹18,000/-, whichever is lower."
             },
             {
                 "question": "How is the financial assistance provided?",
@@ -76,5 +76,6 @@
             "Scheduled Caste",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000118"
 }

@@ -5,9 +5,9 @@
         "department": "Handlooms, Handicrafts, Textiles, and Khadi Dept, Government of Tamil Nadu",
         "type": "Prize",
         "beneficiary": "Exporter",
-        "details": "The 'Handicrafts Export Award' scheme was launched by the Handlooms, Handicrafts, Textiles, and Khadi Dept, Government of Tamil Nadu. This award is given to encourage the exporters of handicraft items with a cash prize of \u20b940,000/-, 4 gm gold medal, Thamirapattiram & a certificate. The exporter can apply offline for this award through Poompucar Sales and Manufacturing Plant Managers.",
+        "details": "The 'Handicrafts Export Award' scheme was launched by the Handlooms, Handicrafts, Textiles, and Khadi Dept, Government of Tamil Nadu. This award is given to encourage the exporters of handicraft items with a cash prize of ₹40,000/-, 4 gm gold medal, Thamirapattiram & a certificate. The exporter can apply offline for this award through Poompucar Sales and Manufacturing Plant Managers.",
         "benefits": [
-            "Cash Prize of \u20b940,000/-",
+            "Cash Prize of ₹40,000/-",
             "4gm Gold Medal",
             "Thamirapattiram",
             "Certificate"
@@ -32,7 +32,7 @@
             "Export/Import License Copy",
             "Registration Copy of Export Development Corporation of Handicrafts (EPCH)/Development Commissioner (Handicrafts)/Districts Industrial Center",
             "Photocopies of Export Documents of the Craftsman (last 3 years)",
-            "Craftsman's Self-Attestation Affidavit of \u20b920/- Stamp Paper"
+            "Craftsman's Self-Attestation Affidavit of ₹20/- Stamp Paper"
         ],
         "faqs": [
             {
@@ -96,5 +96,6 @@
             "Award",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "000759"
 }

@@ -7,13 +7,13 @@
         "beneficiary": "Senior Citizens",
         "details": "In 2 October 2021, The 'Mukhyamantri Vriddhjan Samman Pension Yojana' was started by the Labour department of Rajasthan. It will provide the benefits to old age people. By offering financial assistance, the program not only eases the burden of financial worries but also honors the lifelong contributions of seniors to the state's social fabric. It recognizes their wisdom, experience, and resilience, affirming their rightful place in society and ensuring they can live out their golden years with dignity and respect.",
         "benefits": [
-            "Pension amount: \u20b91,000/- per month"
+            "Pension amount: ₹1,000/- per month"
         ],
         "eligibility": [
             "The applicant should be a native of Rajasthan and living in Rajasthan.",
             "The female applicant should be 55 years or older.",
             "The male applicant should be aged 58 years or older.",
-            "The total annual income of the wife/husband from all sources should be less than \u20b948,000/-.",
+            "The total annual income of the wife/husband from all sources should be less than ₹48,000/-.",
             "People belonging to BPL/Antyodaya/Aastha Card holding families/Sahariya/Kathauri, Khairwa castes have been exempted from the income-related condition."
         ],
         "exclusions": [],
@@ -33,7 +33,7 @@
             },
             {
                 "question": "How much financial benefits are provided under the scheme?",
-                "answer": "Monthly pension of \u20b91,000/- will be provided."
+                "answer": "Monthly pension of ₹1,000/- will be provided."
             },
             {
                 "question": "Who can get the benefits of the scheme?",
@@ -49,7 +49,7 @@
             },
             {
                 "question": "What is the financial eligibility for applicant?",
-                "answer": "Annual income from all sources should be less than \u20b948,000/-."
+                "answer": "Annual income from all sources should be less than ₹48,000/-."
             },
             {
                 "question": "Is there an application fee?",
@@ -92,5 +92,6 @@
             "Pension",
             "Senior Citizens"
         ]
-    }
+    },
+    "id": "001242"
 }

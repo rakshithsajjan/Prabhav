@@ -7,10 +7,10 @@
         "beneficiary": "Physically handicapped persons",
         "details": "The 'Assistance for Purchase of Aids/Appliances' scheme under the Social Welfare, Women & Child Development Chandigarh financial assistance is being provided to physically handicapped persons for the purchase of aids/appliances to increase their mobility in their day-to-day working. The applicant should be a resident of UT, Chandigarh to avail of benefits under the scheme. By providing support for their purchase, the scheme empowers individuals to perform tasks and activities independently, thereby enhancing their self-esteem and overall well-being.",
         "benefits": [
-            "100% cost on purchase of artificial limbs/ aids/ appliances subject to a maximum of \u20b940,000/-"
+            "100% cost on purchase of artificial limbs/ aids/ appliances subject to a maximum of ₹40,000/-"
         ],
         "eligibility": [
-            "Annual income of the applicant from all sources should not exceed \u20b91,50,000/- per annum.",
+            "Annual income of the applicant from all sources should not exceed ₹1,50,000/- per annum.",
             "Applicant must be resident of UT, Chandigarh for more than 3 years.",
             "Applicant's Disability should be to the extent of 40% and above."
         ],
@@ -30,7 +30,7 @@
             },
             {
                 "question": "Is There An Income-Related Criterion For This Scheme?",
-                "answer": "Family income does not exceed \u20b91.50 lacs Maximum amount."
+                "answer": "Family income does not exceed ₹1.50 lacs Maximum amount."
             },
             {
                 "question": "How Do I Know If A Field In The Application Form Is Mandatory?",
@@ -86,5 +86,6 @@
             "Financial Assistance",
             "Handicapped"
         ]
-    }
+    },
+    "id": "000108"
 }

@@ -5,11 +5,11 @@
         "department": "Ministry Of Social Justice and Empowerment",
         "type": "Award",
         "beneficiary": "Senior Citizens",
-        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon\u2019ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Urban Local Body in Providing Services and Facilities to Senior Citizens' award shall be given to municipal bodies, which have done outstanding work for senior citizens. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The total number of Awardees is 15 (Fifteen). The Awards are given across 13 categories.",
+        "details": "Every year, the Department of Social Justice and Empowerment, Government of India confers the 'National Award for Senior Citizens (Vayoshreshtha Samman)' to the eminent and outstanding senior citizens and institutions/organizations involved in rendering distinguished service for the cause of elderly persons, especially indigent senior citizens. The awards are conferred on 1st October every year by the Hon’ble President of India at Vigyan Bhawan, New Delhi. The 'Vayoshreshtha Samman: Best Urban Local Body in Providing Services and Facilities to Senior Citizens' award shall be given to municipal bodies, which have done outstanding work for senior citizens. A total of 11 awards are given along with a Certificate, a Memento and also Cash Award. The total number of Awardees is 15 (Fifteen). The Awards are given across 13 categories.",
         "benefits": [
             "Citation",
             "Memento",
-            "Cash award of \u20b9 5,00,000",
+            "Cash award of ₹ 5,00,000",
             "Boarding and lodging expenses for awardees and one companion",
             "Reimbursement of to-and-fro travelling expenses and accommodation"
         ],
@@ -54,7 +54,7 @@
             },
             {
                 "question": "What Is The Maximum Amount Of The Cash Award In The Institutional Category?",
-                "answer": "The maximum amount of the cash award in the Institutional Category is \u20b9 10,00,000/-."
+                "answer": "The maximum amount of the cash award in the Institutional Category is ₹ 10,00,000/-."
             },
             {
                 "question": "Will the to-and-from travelling expenses of the awardee be reimbursed?",
@@ -97,5 +97,6 @@
             "Social Welfare",
             "Urban Local Body"
         ]
-    }
+    },
+    "id": "001280"
 }

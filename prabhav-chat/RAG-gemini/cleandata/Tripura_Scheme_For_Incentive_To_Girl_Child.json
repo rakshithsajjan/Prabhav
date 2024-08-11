@@ -5,9 +5,9 @@
         "department": "Directorate Of Social Welfare & Social Education",
         "type": "Incentive",
         "beneficiary": "Girl Child",
-        "details": "An Incentive Scheme by the Directorate Of Social Welfare & Social Education, Govt. of Tripura, for the girl child born on or after 01/06/2009 to the parents who are cardholders of listed BPL households. The incentive will be provided at the rate of \u20b9300 per head per month up to the month the girl child attains the age of 15 years. The incentive amount will be paid to the mother of the girl child, preferably to the bank/post office account. Up to two girl children in a family will be covered by the scheme. The CDPO will sanction the incentive with prior approval of the Director of Social Welfare and Social Education.",
+        "details": "An Incentive Scheme by the Directorate Of Social Welfare & Social Education, Govt. of Tripura, for the girl child born on or after 01/06/2009 to the parents who are cardholders of listed BPL households. The incentive will be provided at the rate of ₹300 per head per month up to the month the girl child attains the age of 15 years. The incentive amount will be paid to the mother of the girl child, preferably to the bank/post office account. Up to two girl children in a family will be covered by the scheme. The CDPO will sanction the incentive with prior approval of the Director of Social Welfare and Social Education.",
         "benefits": [
-            "Rate of Incentive: \u20b9300 per head per month up to the month the girl child attains the age of 15 years."
+            "Rate of Incentive: ₹300 per head per month up to the month the girl child attains the age of 15 years."
         ],
         "eligibility": [
             "Up to two girl children of a mother in each and every BPL family who are born on or after 01/06/2009 will be covered by the scheme up to the month the girl child attains 15 years of age."
@@ -26,7 +26,7 @@
             },
             {
                 "question": "What will be the rate of incentive?",
-                "answer": "Rate of Incentive will be \u20b9300 per head per month."
+                "answer": "Rate of Incentive will be ₹300 per head per month."
             },
             {
                 "question": "What would be the duration of the incentives?",
@@ -60,5 +60,6 @@
             "Incentive",
             "Tripura"
         ]
-    }
+    },
+    "id": "001977"
 }

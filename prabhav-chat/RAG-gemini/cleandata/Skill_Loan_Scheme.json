@@ -5,7 +5,7 @@
         "department": "Ministry Of Skill Development And Entrepreneurship",
         "type": "Loan",
         "beneficiary": "Students",
-        "details": "The Skill Loan Scheme was launched in July 2015 to provide institutional credit to individuals for skill development courses aligned to National Occupations Standards and Qualification Packs and leading to a certificate/diploma/degree by training institutes as per National Skill Qualification Framework (NSQF). This scheme is applicable to all member banks of the Indian Banks\u2019 Association (IBA) and any other banks and financial institutions as may be advised by the RBI. The scheme provides broad guidelines to the banks for operationalizing the skilling loan scheme.",
+        "details": "The Skill Loan Scheme was launched in July 2015 to provide institutional credit to individuals for skill development courses aligned to National Occupations Standards and Qualification Packs and leading to a certificate/diploma/degree by training institutes as per National Skill Qualification Framework (NSQF). This scheme is applicable to all member banks of the Indian Banks’ Association (IBA) and any other banks and financial institutions as may be advised by the RBI. The scheme provides broad guidelines to the banks for operationalizing the skilling loan scheme.",
         "benefits": [
             "Courses aligned to NSQF",
             "Quantum of Finance: Rs 5000-1,50,000",
@@ -53,5 +53,6 @@
             "Education",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001812"
 }

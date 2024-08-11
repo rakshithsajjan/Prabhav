@@ -2,12 +2,12 @@
     "content": {
         "title": "Meghalaya Agriculture Response Vehicle Scheme",
         "state": "Meghalaya",
-        "department": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya",
+        "department": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya",
         "type": "Financial Aid",
-        "beneficiary": "Individual entrepreneurs and registered farmer\u2019s associations",
+        "beneficiary": "Individual entrepreneurs and registered farmer’s associations",
         "details": "The scheme aims to provide 50% financial aid to buy commercial vehicles by 200 selected beneficiaries for agriculture transport. These vehicles will help the community involved in agriculture and allied sectors to transport their agricultural products and raw materials. The scheme also focuses on the economic upliftment of farmers by providing them with transportation at a competitive cost.",
         "benefits": [
-            "200 agriculture transport vehicles to be distributed across Meghalaya for individual entrepreneurs and any registered farmer\u2019s organizations with 50% financial aid.",
+            "200 agriculture transport vehicles to be distributed across Meghalaya for individual entrepreneurs and any registered farmer’s organizations with 50% financial aid.",
             "Vehicles will be pre-fitted with GPS devices.",
             "Farmers will have access to more vehicles dedicated to agriculture transportation services.",
             "The Project Management Unit will help in the connection between the farmers and agriculture response vehicles when demand arises."
@@ -46,11 +46,11 @@
             },
             {
                 "question": "Which department has launched this scheme?",
-                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya."
+                "answer": "Department of Agriculture & Farmers’ Welfare, Government of Meghalaya."
             },
             {
                 "question": "Who are the beneficiaries under this scheme?",
-                "answer": "Any registered farmer\u2019s association and Individual entrepreneurs are the beneficiaries under this scheme."
+                "answer": "Any registered farmer’s association and Individual entrepreneurs are the beneficiaries under this scheme."
             },
             {
                 "question": "What is the percentage of financial aid provided to the beneficiary?",
@@ -83,5 +83,6 @@
                 "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/Meghalaya_Agri_Response%20Vehicle_Scheme_14_June_2022_ver1.pdf"
             }
         ]
-    }
+    },
+    "id": "001127"
 }

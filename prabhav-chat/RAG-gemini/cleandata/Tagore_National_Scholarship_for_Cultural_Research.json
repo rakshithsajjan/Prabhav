@@ -7,10 +7,10 @@
         "beneficiary": "Scholars/Academicians",
         "details": "The Scheme 'Tagore National Scholarship for Cultural Research' has been introduced to invigorate and revitalize the various institutions under the Ministry of Culture (MoC) and other identified cultural institutions in the country, by encouraging scholars/academicians to affiliate themselves with these institutions to work on projects of mutual interest.",
         "benefits": [
-            "Honorarium of \u20b950,000/- per month",
-            "Contingency grant up to \u20b910,000 per month for Non-MoC institutions",
+            "Honorarium of ₹50,000/- per month",
+            "Contingency grant up to ₹10,000 per month for Non-MoC institutions",
             "House Rent Allowance of up to 30% of the honorarium",
-            "Settling allowance of \u20b91.00 lakh",
+            "Settling allowance of ₹1.00 lakh",
             "Infrastructural support from Nodal Institutions"
         ],
         "eligibility": [
@@ -59,7 +59,7 @@
             },
             {
                 "question": "How much will the monthly Scholarship be given to the eligible Scholar?",
-                "answer": "The scholarship honorarium will be \u20b950,000/- per month."
+                "answer": "The scholarship honorarium will be ₹50,000/- per month."
             },
             {
                 "question": "What is the duration of the Scholarship?",
@@ -85,5 +85,6 @@
             "Scholarship",
             "Tagore"
         ]
-    }
+    },
+    "id": "001918"
 }

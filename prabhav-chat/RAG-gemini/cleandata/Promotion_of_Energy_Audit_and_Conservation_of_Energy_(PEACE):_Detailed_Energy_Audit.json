@@ -7,7 +7,7 @@
         "beneficiary": "MSMEs",
         "details": "'Promotion of Energy Audit and Conservation of Energy (PEACE)' is a scheme by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu. The scheme comprises four main components: Awareness Programme; Training Programme; Detailed Energy Audit; and Implementation of Energy Audit Recommendations. The 'Detailed Energy Audit' component of this scheme is introduced to identify the major sources of energy in use, identify the lapses in energy usage, identify areas to improve energy usage and determine the level of consumption of the energy sources.",
         "benefits": [
-            "75 % of the cost of the audit is subject to a maximum of \u20b9 1,00,000 per energy audit."
+            "75 % of the cost of the audit is subject to a maximum of ₹ 1,00,000 per energy audit."
         ],
         "eligibility": [
             "All existing manufacturing MSMEs in the state which are undertaking energy audits for the first time.",
@@ -39,7 +39,7 @@
             },
             {
                 "question": "What is the maximum ceiling for the subsidy under the PEACE scheme?",
-                "answer": "The maximum subsidy is 75% of the audit cost, with a cap of \u20b91,00,000 per energy audit."
+                "answer": "The maximum subsidy is 75% of the audit cost, with a cap of ₹1,00,000 per energy audit."
             },
             {
                 "question": "Can enterprises with multiple units avail the subsidy separately for each unit under the PEACE scheme?",
@@ -79,7 +79,7 @@
             },
             {
                 "question": "What financial support does the scheme provide for MSMEs undergoing energy audits, and are there any specific conditions?",
-                "answer": "MSMEs can avail 75% of the audit cost, up to \u20b91,00,000, with the subsidy released after completion and certification of the Energy Audit Report."
+                "answer": "MSMEs can avail 75% of the audit cost, up to ₹1,00,000, with the subsidy released after completion and certification of the Energy Audit Report."
             },
             {
                 "question": "What information does the Energy Audit Final Report for the PEACE scheme include?",
@@ -122,5 +122,6 @@
             "MSME",
             "Tamil Nadu"
         ]
-    }
+    },
+    "id": "001536"
 }

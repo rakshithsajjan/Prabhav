@@ -7,7 +7,7 @@
         "beneficiary": "Old age persons of Punjab",
         "details": "Punjab State Government started a pension for old age person of the state people. The main objective is to provide financial security to those sections of society who doesn't have any stable source of income. Its a DBT scheme so pension amount will directly transferred in the bank account of beneficiary.",
         "benefits": [
-            "Amount : \u20b9 1,500/- per month"
+            "Amount : ₹ 1,500/- per month"
         ],
         "eligibility": [
             "Beneficiary should be a Permanent Resident of Punjab.",
@@ -42,7 +42,7 @@
             },
             {
                 "question": "How much amount will be provided in financial aid?",
-                "answer": "Amount : \u20b9 1,500/- per month."
+                "answer": "Amount : ₹ 1,500/- per month."
             },
             {
                 "question": "Who will get the benefits?",
@@ -92,5 +92,6 @@
             "Pension",
             "Welfare"
         ]
-    }
+    },
+    "id": "001380"
 }

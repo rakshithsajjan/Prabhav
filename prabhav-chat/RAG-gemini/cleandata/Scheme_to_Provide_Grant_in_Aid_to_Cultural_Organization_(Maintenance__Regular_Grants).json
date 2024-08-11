@@ -10,7 +10,7 @@
             "Grant-In-Aid in the form of reimbursement to the extent of 80% of the expenditure incurred by the institution for the last financial year, subject to the maximum ceiling based on group classification."
         ],
         "eligibility": [
-            "Any Goan institution registered under the Society\u2019s Registration Act, 1860 or under the Indian Trust Act."
+            "Any Goan institution registered under the Society’s Registration Act, 1860 or under the Indian Trust Act."
         ],
         "exclusions": [],
         "application_process": "Offline",
@@ -23,7 +23,7 @@
             "List of Managing Committee Members with phone nos. (mandatory)",
             "Report of activities, year-wise i.e. proposed and undertaken (submit details with dates of activities, Venue of programme, photographs, newspaper cutting etc.).",
             "Rent Valuation Certificate from PWD if any.",
-            "ECS statement \u2013 Bank details (mandatory) (Enclose the cancelled cheque with the seal of the institution).",
+            "ECS statement – Bank details (mandatory) (Enclose the cancelled cheque with the seal of the institution).",
             "Utilization Certificate of grant availed during last year duly signed by the Chartered Accountant and Office bearers (Mandatory).",
             "Audited Statements of Accounts of last year duly certified by the Chartered Accountant and Office bearers - Receipts & payment (mandatory), Income & expenditure (mandatory), Balance Sheet (mandatory)"
         ],
@@ -46,7 +46,7 @@
             },
             {
                 "question": "What is the maximum amount of grant-in-aid that an eligible institution can receive under this scheme?",
-                "answer": "The maximum grant-in-aid an institution can receive depends on its group classification. The grant amounts range from \u20b910,000 for Group 'H' institutions to \u20b93,00,000 for Group 'A' institutions. The specific amount is determined based on the institution's activities and needs."
+                "answer": "The maximum grant-in-aid an institution can receive depends on its group classification. The grant amounts range from ₹10,000 for Group 'H' institutions to ₹3,00,000 for Group 'A' institutions. The specific amount is determined based on the institution's activities and needs."
             },
             {
                 "question": "Are there any preferences or priorities given to specific types of cultural institutions?",
@@ -98,5 +98,6 @@
             "Reimbursement",
             "Talent"
         ]
-    }
+    },
+    "id": "001740"
 }

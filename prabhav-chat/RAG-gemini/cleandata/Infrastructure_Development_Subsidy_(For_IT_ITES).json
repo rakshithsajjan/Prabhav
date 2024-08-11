@@ -5,10 +5,10 @@
         "department": "Industries and Commerce Department",
         "type": "Subsidy",
         "beneficiary": "Entrepreneurs and Industries",
-        "details": "'Infrastructure Development Subsidy (For IT/ITES)' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, 30% Subsidy subject to a maximum of \u20b91,00,00,000/- will be granted on the investment made on building with a minimum extent of 50,000 sq.ft. constructed area, by the infrastructure developers/industries for leasing out to Information Technology industries or for own industrial use. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "details": "'Infrastructure Development Subsidy (For IT/ITES)' is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The scheme came into force with effect from 1st April 2017 and is in operation in the whole of the UT of Puducherry. Through this scheme, 30% Subsidy subject to a maximum of ₹1,00,00,000/- will be granted on the investment made on building with a minimum extent of 50,000 sq.ft. constructed area, by the infrastructure developers/industries for leasing out to Information Technology industries or for own industrial use. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "30% subsidy, subject to a maximum of \u20b91,00,00,000/-",
-            "Disbursed in annual installments not exceeding \u20b925,00,000/- per annum till completion of the total eligible subsidy",
+            "30% subsidy, subject to a maximum of ₹1,00,00,000/-",
+            "Disbursed in annual installments not exceeding ₹25,00,000/- per annum till completion of the total eligible subsidy",
             "Subsidy amount disbursed through financial institutions/banks if financed by them, or directly to self-financed units"
         ],
         "eligibility": [
@@ -29,7 +29,7 @@
             "Loan Sanction Letter",
             "Registered Land Document",
             "Plan Approval from the Pollution Control Board (PPA)",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by PWD/PIPDIC",
+            "Engineer’s Certificate for Building Valuation Assessed by PWD/PIPDIC",
             "Registered Lease Agreement for the Building",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator",
             "Chartered Accountant Certificate for Investment in Fixed Assets / Pollution Control Equipment / Generator",
@@ -112,5 +112,6 @@
             "MSME",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000853"
 }

@@ -7,7 +7,7 @@
         "beneficiary": "Scheduled Caste / Scheduled Tribe Micro and Small Enterprises (MSEs)",
         "details": "The Bank Loan Processing Fee Reimbursement Scheme provides crucial financial assistance by reimbursing a substantial portion of the processing fees charged by financial institutions (FIs) when SC/ST MSEs secure business loans. This includes loans supported by both fund-based and non-fund-based limits. By alleviating the upfront financial burden of loan processing fees, the scheme aims to enhance access to capital for SC/ST MSEs, promote inclusive economic development, and strengthen entrepreneurial ecosystems.",
         "benefits": [
-            "Reimbursement of Bank Loan Processing Fee is limited to 80% of the fee or \u20b9 1,00,000/- (excluding GST and other applicable taxes)."
+            "Reimbursement of Bank Loan Processing Fee is limited to 80% of the fee or ₹ 1,00,000/- (excluding GST and other applicable taxes)."
         ],
         "eligibility": [
             "Applicant should belong to the Scheduled Caste / Scheduled Tribe category.",
@@ -77,5 +77,6 @@
             "MSME",
             "Reimbursement"
         ]
-    }
+    },
+    "id": "000181"
 }

@@ -5,12 +5,12 @@
         "department": "Department of Women and Child Development",
         "type": "Grant",
         "beneficiary": "Poor Brides Living Below Poverty Line",
-        "details": "The scheme 'Grant of Financial Assistance for Performance of Marriage of Poor Brides Living Below Poverty Line' is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to provide financial assistance to poor brides living below the poverty line to meet their marriage expenses. The assistance amount is \u20b915,000, and it is granted for the first marriage of the bride. The scheme is implemented through the Department of Women and Child Development.",
+        "details": "The scheme 'Grant of Financial Assistance for Performance of Marriage of Poor Brides Living Below Poverty Line' is a financial assistance scheme by the Department of Women and Child Development, Government of Puducherry. This scheme aims to provide financial assistance to poor brides living below the poverty line to meet their marriage expenses. The assistance amount is ₹15,000, and it is granted for the first marriage of the bride. The scheme is implemented through the Department of Women and Child Development.",
         "benefits": [
-            "Financial assistance of \u20b925,000 for marriage expenses."
+            "Financial assistance of ₹25,000 for marriage expenses."
         ],
         "eligibility": [
-            "The annual income of the applicant should not exceed \u20b975,000 per annum.",
+            "The annual income of the applicant should not exceed ₹75,000 per annum.",
             "The parents/guardian of the bride should be a citizen of India and a native of the Union Territory of Pondicherry by birth or by continuous residence of 5 years or more.",
             "The assistance is payable only for the first marriage of the bride.",
             "The marriage should be performed in accordance with the law in force on the date of marriage.",
@@ -47,11 +47,11 @@
         "faqs": [
             {
                 "question": "How does the scheme address the financial needs of poor brides living below the poverty line for their marriage expenses?",
-                "answer": "The scheme addresses the financial needs by providing a fixed financial assistance amount of \u20b925,000 for the marriage expenses of eligible brides."
+                "answer": "The scheme addresses the financial needs by providing a fixed financial assistance amount of ₹25,000 for the marriage expenses of eligible brides."
             },
             {
                 "question": "Is the financial assistance amount the same for every eligible beneficiary, or does it vary based on specific criteria?",
-                "answer": "The financial assistance amount is fixed at \u20b925,000 for every eligible beneficiary."
+                "answer": "The financial assistance amount is fixed at ₹25,000 for every eligible beneficiary."
             },
             {
                 "question": "What is the significance of the Citizen's Charter, and where can interested applicants find it for reference?",
@@ -87,7 +87,7 @@
             },
             {
                 "question": "How is the financial assistance amount disbursed to the beneficiaries, and what is the mode of disbursement?",
-                "answer": "The financial assistance of \u20b925,000 is directly disbursed to the beneficiary."
+                "answer": "The financial assistance of ₹25,000 is directly disbursed to the beneficiary."
             },
             {
                 "question": "Can you elaborate on the eligibility criteria regarding the citizenship of the bride's parents or guardian under this scheme?",
@@ -128,5 +128,6 @@
             "Marriage",
             "Poor"
         ]
-    }
+    },
+    "id": "000719"
 }

@@ -7,8 +7,8 @@
         "beneficiary": "Institutions/Societies of Scheduled Castes and Backward Classes",
         "details": "The scheme 'Financial Assistance to Institutions/Societies Belonging to Scheduled Castes/Backward Classes' was launched to provide financial assistance to enable institutions/societies to construct/complete/repair/renovate buildings for community social or educational purposes.",
         "benefits": [
-            "Financial Assistance up to \u20b92.00 lakhs may be sanctioned by the Minister in charge.",
-            "The Chief Minister may sanction grants exceeding \u20b92.00 lakhs in genuine cases.",
+            "Financial Assistance up to ₹2.00 lakhs may be sanctioned by the Minister in charge.",
+            "The Chief Minister may sanction grants exceeding ₹2.00 lakhs in genuine cases.",
             "In deserving cases, additional funds can also be sanctioned later on."
         ],
         "eligibility": [
@@ -41,7 +41,7 @@
             },
             {
                 "question": "What is the benefit of the scheme?",
-                "answer": "Financial Assistance up to \u20b92.00 lakhs may be sanctioned by the Minister in charge."
+                "answer": "Financial Assistance up to ₹2.00 lakhs may be sanctioned by the Minister in charge."
             },
             {
                 "question": "Who is eligible to get the benefits of the scheme?",
@@ -68,5 +68,6 @@
             "Backward Classes",
             "Haryana"
         ]
-    }
+    },
+    "id": "000543"
 }

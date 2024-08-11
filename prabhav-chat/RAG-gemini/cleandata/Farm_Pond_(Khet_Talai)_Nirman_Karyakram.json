@@ -8,11 +8,11 @@
         "details": "The Farm Pond Construction Program, initiated on April 1, 2020, by the Rajasthan Agriculture Department, offers a solution to addressing a critical challenge of water scarcity for Rajasthan's farmers. This program allows farmers to establish farm ponds, essentially rainwater collection structures, for irrigation purposes. Recognizing the program's significance, the state government provides subsidies to facilitate farm pond construction. This enables farmers to effectively utilize rainwater and irrigate their fields.",
         "benefits": [
             "Subsidy breakdown:",
-            "1. Raw farm pond: 50% of the construction cost (capped at \u20b952,500)",
-            "2. Plastic lined farm pond: 50% of the construction cost with lining (capped at \u20b975,000)",
+            "1. Raw farm pond: 50% of the construction cost (capped at ₹52,500)",
+            "2. Plastic lined farm pond: 50% of the construction cost with lining (capped at ₹75,000)",
             "Additional subsidy:",
-            "1. Raw farm pond: Up to 60% of the total cost (capped at \u20b963,000)",
-            "2. Plastic lined farm pond: Up to 60% of the total cost (capped at \u20b990,000)"
+            "1. Raw farm pond: Up to 60% of the total cost (capped at ₹63,000)",
+            "2. Plastic lined farm pond: Up to 60% of the total cost (capped at ₹90,000)"
         ],
         "eligibility": [
             "The applicant should be a native of Rajasthan.",
@@ -86,5 +86,6 @@
             "Development",
             "Water Shortage"
         ]
-    }
+    },
+    "id": "000508"
 }

@@ -1,24 +1,24 @@
 {
     "content": {
-        "title": "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers \u2013 Pre & Post-Matric",
+        "title": "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers – Pre & Post-Matric",
         "state": "India",
         "department": "Ministry Of Labour and Employment",
         "type": "Scholarship",
         "beneficiary": "Wards of Beedi/Cine/IOMC/LSDM Workers",
-        "details": "A scholarship scheme by the Directorate of Social Welfare, Ministry of Labour and Employment wherein financial assistance for education is provided to the Wards of Beedi/Iron Ore Mines, Manganese Ore & Chrome Ore Mines (IOMC)/Limestone Mines, Dolomite Mines (LSDM)/Mica Mines and Cine Workers, varying from \u20b91,000/- to \u20b925,000/- per student per annum. The benefits under the scheme are being transferred through the DBT system and the applications under this scheme are invited and processed through the National Scholarship Portal. The Applicant must have passed the last qualifying examination on the first attempt. However, Students promoted to the next class are also eligible to apply for the above scholarships. Candidates for the award of scholarships should have taken regular admission for studies at recognized institutions in India in any course of general or technical education, including medical, engineering, and agricultural studies.",
+        "details": "A scholarship scheme by the Directorate of Social Welfare, Ministry of Labour and Employment wherein financial assistance for education is provided to the Wards of Beedi/Iron Ore Mines, Manganese Ore & Chrome Ore Mines (IOMC)/Limestone Mines, Dolomite Mines (LSDM)/Mica Mines and Cine Workers, varying from ₹1,000/- to ₹25,000/- per student per annum. The benefits under the scheme are being transferred through the DBT system and the applications under this scheme are invited and processed through the National Scholarship Portal. The Applicant must have passed the last qualifying examination on the first attempt. However, Students promoted to the next class are also eligible to apply for the above scholarships. Candidates for the award of scholarships should have taken regular admission for studies at recognized institutions in India in any course of general or technical education, including medical, engineering, and agricultural studies.",
         "benefits": [
-            "Class 1st to 4th: \u20b91,000",
-            "Class 5th to 8th: \u20b91,500",
-            "Class 9th & 10th: \u20b92,000",
-            "Class 11th & 12th: \u20b93,000",
-            "Industrial Training Institute (ITI): \u20b96,000",
-            "Polytechnic: \u20b96,000",
-            "Degree Courses (including B.Sc. Agriculture): \u20b96,000",
-            "Professional Courses: \u20b925,000"
+            "Class 1st to 4th: ₹1,000",
+            "Class 5th to 8th: ₹1,500",
+            "Class 9th & 10th: ₹2,000",
+            "Class 11th & 12th: ₹3,000",
+            "Industrial Training Institute (ITI): ₹6,000",
+            "Polytechnic: ₹6,000",
+            "Degree Courses (including B.Sc. Agriculture): ₹6,000",
+            "Professional Courses: ₹25,000"
         ],
         "eligibility": [
             "Candidates for the award of scholarships should have taken regular admission for studies at recognized institutions in India in any course of general or technical education, including medical, engineering, and agricultural studies.",
-            "The total monthly Income of the Worker\u2019s family from all sources should not exceed \u20b910,000/- for Beedi Workers and \u20b98,000/- for Cine Workers.",
+            "The total monthly Income of the Worker’s family from all sources should not exceed ₹10,000/- for Beedi Workers and ₹8,000/- for Cine Workers.",
             "The Applicant must have passed the last qualifying examination on the first attempt.",
             "Either of the parents of the students should be Beedi, Iron Ore Manganese & Chrome Ore Mines, Limestone & Dolomite Mines, and Cine workers with at least six months of service.",
             "The Educational Institute must be Government/Government Recognized Institute.",
@@ -78,5 +78,6 @@
             "IOMC",
             "LSDM"
         ]
-    }
+    },
+    "id": "001659"
 }

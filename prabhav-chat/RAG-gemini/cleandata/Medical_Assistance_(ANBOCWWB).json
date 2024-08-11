@@ -7,10 +7,10 @@
         "beneficiary": "Building & Other Construction Workers and their dependents",
         "details": "The scheme 'Medical Assistance' was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, medical assistance shall be provided to the Building & Other Construction Workers, who are registered under the A&N Islands Building and Other Construction Workers Welfare Board, and his/her dependents' family members during hospitalization because of an accident or illness.",
         "benefits": [
-            "Medical assistance will be provided to the beneficiaries @ \u20b9200/- per day for the first 5 days of hospitalization and \u20b9100 per day for the remaining days subject to a maximum of \u20b95,000/-.",
-            "The beneficiary shall be entitled to \u20b91,00,000/- in the event of medical referred cases to the Mainland of the beneficiary or his/her dependents to the Mainland by the Govt. Medical Authorities for treatment.",
-            "Subject to production of a referral letter from competent authority \u20b91,000/- for Beneficiary or their 'Family' in case of emergency treatment in a hospital operating in Andaman & Nicobar Islands (once in a year).",
-            "Subject to the production of referral remarks by Govt. Hospital/PHC in outer Islands \u20b9600/- per day for the period of their stay in Port Blair subject to a maximum of \u20b915,000/- (Medical referral cases from outer Islands of Andaman & Nicobar Islands to Port Blair)."
+            "Medical assistance will be provided to the beneficiaries @ ₹200/- per day for the first 5 days of hospitalization and ₹100 per day for the remaining days subject to a maximum of ₹5,000/-.",
+            "The beneficiary shall be entitled to ₹1,00,000/- in the event of medical referred cases to the Mainland of the beneficiary or his/her dependents to the Mainland by the Govt. Medical Authorities for treatment.",
+            "Subject to production of a referral letter from competent authority ₹1,000/- for Beneficiary or their 'Family' in case of emergency treatment in a hospital operating in Andaman & Nicobar Islands (once in a year).",
+            "Subject to the production of referral remarks by Govt. Hospital/PHC in outer Islands ₹600/- per day for the period of their stay in Port Blair subject to a maximum of ₹15,000/- (Medical referral cases from outer Islands of Andaman & Nicobar Islands to Port Blair)."
         ],
         "eligibility": [
             "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What are the benefits provided under the scheme?",
-                "answer": "The scheme offers medical assistance of \u20b9200/- per day for the first 5 days of hospitalization and \u20b9100 per day for the subsequent days, up to a maximum of \u20b95,000/-. In case of referral cases to the Mainland for treatment, beneficiaries are entitled to \u20b91,00,000/-."
+                "answer": "The scheme offers medical assistance of ₹200/- per day for the first 5 days of hospitalization and ₹100 per day for the subsequent days, up to a maximum of ₹5,000/-. In case of referral cases to the Mainland for treatment, beneficiaries are entitled to ₹1,00,000/-."
             },
             {
                 "question": "Who is eligible to avail of these benefits?",
@@ -92,5 +92,6 @@
             "Building Workers",
             "Construction Workers"
         ]
-    }
+    },
+    "id": "001118"
 }

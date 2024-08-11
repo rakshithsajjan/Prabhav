@@ -5,10 +5,10 @@
         "department": "Labour Department, Delhi Building and Other Construction Workers Welfare Board",
         "type": "Financial Assistance",
         "beneficiary": "Construction Workers",
-        "details": "The 'Pension Benefit for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, the registered workers of the board are provided with a pension benefit of \u20b93000/- per month after completion of 60 years. An increase of \u20b9300/- shall be given for every completed year of membership beyond 5 years.",
+        "details": "The 'Pension Benefit for the Construction Workers' by the Delhi Building and Other Construction Workers Welfare Board, Labour Department, Delhi, is a welfare scheme for the registered workers of the board. Through this scheme, the registered workers of the board are provided with a pension benefit of ₹3000/- per month after completion of 60 years. An increase of ₹300/- shall be given for every completed year of membership beyond 5 years.",
         "benefits": [
-            "\u20b93000/- per month after completion of 60 years.",
-            "An increase of \u20b9300/- shall be given for every completed year of membership beyond five years."
+            "₹3000/- per month after completion of 60 years.",
+            "An increase of ₹300/- shall be given for every completed year of membership beyond five years."
         ],
         "eligibility": [
             "The applicant should be a resident of Delhi.",
@@ -73,5 +73,6 @@
             "Labour",
             "Financial Assistance"
         ]
-    }
+    },
+    "id": "001422"
 }

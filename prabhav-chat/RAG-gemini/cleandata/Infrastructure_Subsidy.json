@@ -7,10 +7,10 @@
         "beneficiary": "Entrepreneurs",
         "details": "The 'Infrastructure Subsidy' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Industries and Commerce Department, Union Territory of Puducherry. 25% subsidy is provided to the industrial units who have made investments on building with a minimum extent of 50,000 sq. ft. constructed area. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
         "benefits": [
-            "25% subsidy subject to a maximum of \u20b91,00,00,000/- for the infrastructure developer who has made investment on building with a minimum extent of 50,000 sq. ft. constructed area, for leasing out to IT industries.",
-            "25% subsidy subject to a maximum of \u20b91,00,00,000/- for the industrial unit, which is investing for construction of factory building of not less than 50,000 sq.ft for setting up of the IT industries.",
-            "25% subsidy subject to a maximum of \u20b91,00,00,000/- for the infrastructure developer who has made investment on building with a minimum extent of 50,000 sq. ft. constructed area, for leasing out to the bio-technology industries.",
-            "25% subsidy subject to a maximum of \u20b950,00,000/- for the bio-technology industry unit which has made investment on building with a minimum extent of 5,000 sq. ft for self-occupation."
+            "25% subsidy subject to a maximum of ₹1,00,00,000/- for the infrastructure developer who has made investment on building with a minimum extent of 50,000 sq. ft. constructed area, for leasing out to IT industries.",
+            "25% subsidy subject to a maximum of ₹1,00,00,000/- for the industrial unit, which is investing for construction of factory building of not less than 50,000 sq.ft for setting up of the IT industries.",
+            "25% subsidy subject to a maximum of ₹1,00,00,000/- for the infrastructure developer who has made investment on building with a minimum extent of 50,000 sq. ft. constructed area, for leasing out to the bio-technology industries.",
+            "25% subsidy subject to a maximum of ₹50,00,000/- for the bio-technology industry unit which has made investment on building with a minimum extent of 5,000 sq. ft for self-occupation."
         ],
         "eligibility": [
             "The applicant should be an infrastructure developer who has made investment on building with a minimum extent of 50,000 sq. ft. constructed area, for leasing out to IT industries.",
@@ -25,7 +25,7 @@
             "Loan Sanction Letter.",
             "Registered Land Document.",
             "Plan Approval from the Pollution Control Board (PPA).",
-            "Engineer\u2019s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
+            "Engineer’s Certificate for Building Valuation Assessed by Public Works Department (PWD)/Pondicherry Industrial Promotion Development and Investment Corporation (PIPDIC).",
             "Registered Lease Agreement for the Building Executed Between the Developer and the Unit.",
             "Purchase Invoices for Plant & Machinery/ Pollution Equipment/ Generator.",
             "Chartered Accountant Certificate for the Investment in Fixed Assets / Pollution Control Equipment / Generator.",
@@ -52,11 +52,11 @@
             },
             {
                 "question": "What is the subsidy amount provided to bio-technology industry units under the Infrastructure Subsidy scheme?",
-                "answer": "Bio-technology industry units are eligible for a 25% subsidy, subject to a maximum of \u20b950,00,000/-, for investments made in buildings with a minimum extent of 5,000 sq. ft. for self-occupation."
+                "answer": "Bio-technology industry units are eligible for a 25% subsidy, subject to a maximum of ₹50,00,000/-, for investments made in buildings with a minimum extent of 5,000 sq. ft. for self-occupation."
             },
             {
                 "question": "How many installments are disbursed under the Infrastructure Subsidy scheme?",
-                "answer": "The subsidy is disbursed in annual installments not exceeding \u20b925,00,000/- per annum until the total eligible subsidy is completed."
+                "answer": "The subsidy is disbursed in annual installments not exceeding ₹25,00,000/- per annum until the total eligible subsidy is completed."
             },
             {
                 "question": "What is the mode of application submission for the Infrastructure Subsidy scheme?",
@@ -95,5 +95,6 @@
             "Infrastructure",
             "Subsidy"
         ]
-    }
+    },
+    "id": "000854"
 }

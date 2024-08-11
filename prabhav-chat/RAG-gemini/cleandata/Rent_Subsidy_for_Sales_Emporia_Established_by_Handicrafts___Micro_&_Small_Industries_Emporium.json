@@ -7,9 +7,9 @@
         "beneficiary": "Sales Emporium/Showroom owners",
         "details": "The scheme 'Rent Subsidy for Sales Emporia Established by Handicrafts / Micro & Small Industries Emporium' under 'Marketing And Publicity' was launched by the Department of Industries and Commerce, Union Territory of Puducherry. Through this scheme, financial support will be provided via the Industrial Associations, Handicrafts Societies and Recognized Institutions for promotion of Handicrafts, Coir, Jute, Micro and Small Industrial products, i.e. for acquiring suitable buildings/premises and providing infrastructure facilities for setting up of Sales emporia locally and in important cities in India.",
         "benefits": [
-            "Rent subsidy to Sales Emporium/Showroom at the rate of 90% subsidy subject to maximum of \u20b910,000/- per month for three years.",
+            "Rent subsidy to Sales Emporium/Showroom at the rate of 90% subsidy subject to maximum of ₹10,000/- per month for three years.",
             "Financial assistances for providing infrastructure facilities to such buildings/premises.",
-            "75% of the expenses of infrastructure facilities / interior decoration works in the Sales Emporia buildings/premises to be borne under the scheme, subject to maximum of \u20b91,50,000 or the actual whichever is less, for a minimum period of 3 years."
+            "75% of the expenses of infrastructure facilities / interior decoration works in the Sales Emporia buildings/premises to be borne under the scheme, subject to maximum of ₹1,50,000 or the actual whichever is less, for a minimum period of 3 years."
         ],
         "eligibility": [
             "The applicant should own a Sales Emporium/Showroom in Puducherry."
@@ -27,7 +27,7 @@
             },
             {
                 "question": "What specific expenses are covered under the rent subsidy for Sales Emporiums/Showrooms?",
-                "answer": "The rent subsidy covers 90% of the rent expenses, subject to a maximum of \u20b910,000 per month for a duration of three years."
+                "answer": "The rent subsidy covers 90% of the rent expenses, subject to a maximum of ₹10,000 per month for a duration of three years."
             },
             {
                 "question": "Can the rent subsidy be used to cover other operational costs of Sales Emporiums, such as utilities or maintenance?",
@@ -95,5 +95,6 @@
             "Showroom",
             "Subsidy"
         ]
-    }
+    },
+    "id": "001596"
 }

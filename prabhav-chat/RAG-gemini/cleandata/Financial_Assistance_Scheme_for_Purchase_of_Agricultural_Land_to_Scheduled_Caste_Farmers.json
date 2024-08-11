@@ -7,14 +7,14 @@
         "beneficiary": "Scheduled Caste Farmers",
         "details": "The scheme 'Financial Assistance Scheme for Purchase of Agricultural Land to Scheduled Caste Farmers' is implemented by the Director Scheduled Caste Welfare, Department of Social Justice & Empowerment, Government of Gujarat. The scheme was launched in the year 1986. Under the scheme, financial assistance is provided to farmers belonging to the scheduled castes to purchase agricultural land, with a maximum limit of 2 acres, for self-cultivation. This initiative aims to enhance their income, particularly considering the dependence of many scheduled caste individuals on farm labour.",
         "benefits": [
-            "Under the scheme, Scheduled caste farmers are provided with financial assistance of \u20b91,00,000/- per acre to purchase agricultural land.",
-            "Assistance is provided up to \u20b92,00,000/- for a maximum of 2 acres to enable the purchase of agricultural land."
+            "Under the scheme, Scheduled caste farmers are provided with financial assistance of ₹1,00,000/- per acre to purchase agricultural land.",
+            "Assistance is provided up to ₹2,00,000/- for a maximum of 2 acres to enable the purchase of agricultural land."
         ],
         "eligibility": [
             "The applicant should belong to Scheduled Castes Category.",
             "The applicant should be a native of Gujarat.",
             "The applicant must be an agricultural labourer.",
-            "The annual income limit will be \u20b96,00,000/- for rural areas and \u20b96,00,000/- for urban areas.",
+            "The annual income limit will be ₹6,00,000/- for rural areas and ₹6,00,000/- for urban areas.",
             "Excluding government assistance, only the beneficiary who is able to purchase the land is eligible for the benefit.",
             "Only one member of the family is eligible for the benefit.",
             "Beneficiaries of land acquired with government assistance will be subject to non-sale for 15 years.",
@@ -43,11 +43,11 @@
             },
             {
                 "question": "How much financial assistance is provided per acre under the scheme?",
-                "answer": "Scheduled caste farmers are provided with \u20b91,00,000/- per acre to purchase agricultural land."
+                "answer": "Scheduled caste farmers are provided with ₹1,00,000/- per acre to purchase agricultural land."
             },
             {
                 "question": "What is the maximum assistance provided for land purchase?",
-                "answer": "Assistance is provided up to \u20b92,00,000/- for a maximum of 2 acres of agricultural land."
+                "answer": "Assistance is provided up to ₹2,00,000/- for a maximum of 2 acres of agricultural land."
             },
             {
                 "question": "Who is eligible to apply for this scheme?",
@@ -55,7 +55,7 @@
             },
             {
                 "question": "What are the income limits for eligibility under the scheme?",
-                "answer": "The annual income limit is \u20b96,00,000/- for both rural and urban areas."
+                "answer": "The annual income limit is ₹6,00,000/- for both rural and urban areas."
             },
             {
                 "question": "Are there any restrictions on land purchase with government assistance?",
@@ -103,5 +103,6 @@
             "Purchase Of Land",
             "Scheduled Caste"
         ]
-    }
+    },
+    "id": "000533"
 }
