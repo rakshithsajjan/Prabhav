@@ -1,0 +1,64 @@
+{
+    "content": {
+        "title": "Dr. B. R. Ambedkar State Award To SC/ST/OBC/Minorities Students",
+        "state": "Delhi",
+        "department": "Department of SC/ST Welfare",
+        "type": "Scholarship",
+        "beneficiary": "Students belonging to SC/ST/OBC/Minorities",
+        "details": "The scheme provides state-sponsored scholarship schemes and reimbursement of tuition fees for eligible students belonging to SC/ST/OBC/Minorities categories.",
+        "benefits": [
+            "Financial assistance for tuition fees",
+            "Scholarship opportunities for eligible students"
+        ],
+        "eligibility": [
+            "Students belonging to SC/ST/OBC/Minorities categories",
+            "Must satisfy the eligibility criteria of the concerned scheme"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the e-district portal or departmental web page.",
+        "documents_required": [
+            "Aadhaar Number",
+            "School/College registration details",
+            "Other relevant documents as specified by the scheme"
+        ],
+        "faqs": [
+            {
+                "question": "Students belonging to which category can apply for state sponsored scholarship schemes?",
+                "answer": "Students belonging to SC/ST/OBC/Min category satisfying the eligibility criteria of the concerned scheme can apply."
+            },
+            {
+                "question": "How can applicants apply online for scholarship?",
+                "answer": "Applicants can apply online through the e-district portal or the link available on the departmental web page."
+            },
+            {
+                "question": "Do I have to fill up the online application in one sitting?",
+                "answer": "No, you can fill up the online application in as many sittings as you wish."
+            },
+            {
+                "question": "Is Aadhaar number required for applying online scholarship scheme?",
+                "answer": "Yes, Aadhaar number is required."
+            },
+            {
+                "question": "What is the responsibility of Schools/ Colleges/ Institutes?",
+                "answer": "They have to upload requisite information and authenticate/verify the details of the students."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/dbrasa"
+            },
+            {
+                "type": "Department Web Portal",
+                "url": "http://www.scstwelfare.delhigovt.nic.in"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "SC/ST",
+            "OBC",
+            "Minorities",
+            "Education"
+        ]
+    }
+}

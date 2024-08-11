@@ -1,0 +1,63 @@
+{
+    "content": {
+        "title": "Chief Minister\u2019s Health Insurance Scheme - Nagaland",
+        "state": "Nagaland",
+        "department": "Health and Family Welfare Department",
+        "type": "Health Insurance",
+        "beneficiary": "Permanent and indigenous residents of Nagaland",
+        "details": "The Chief Minister Health Insurance Scheme (CMHIS) in Nagaland is a health insurance scheme that provides financial protection to the citizens of the state against the cost of hospitalization and medical treatment. The scheme is aimed at providing health insurance coverage to the citizens of Nagaland, especially those who are economically weaker and unable to afford quality healthcare services. Under the CMHIS scheme, eligible beneficiaries are provided with health insurance coverage of up to INR 2 lakh per family per year. The scheme covers the cost of hospitalization, surgical procedures, diagnostic tests, and other medical expenses incurred during the treatment of an illness or injury. The scheme also provides coverage for pre-existing conditions, maternity benefits, and ambulance charges.",
+        "benefits": [
+            "Free and cashless hospitalization care for various ailments including pre-existing conditions/diseases.",
+            "Entitlement to more than 1950 medical and surgical packages across 27 major clinical specialties.",
+            "Annual Risk Cover/Sum Insured of Rs. 5,00,000/- for CMHIS (GEN) beneficiary families.",
+            "Annual Risk Cover/Sum Insured of Rs. 20,00,000/- for CMHIS (EP) beneficiary families."
+        ],
+        "eligibility": [
+            "All permanent and indigenous residents of Nagaland.",
+            "CMHIS (GEN) category includes those not beneficiaries under AB PM-JAY or any other publicly funded health insurance scheme.",
+            "CMHIS (EP) category includes State government employees eligible for monthly Medical Allowance and reimbursement of medical expenses."
+        ],
+        "exclusions": [
+            "Cosmetic surgeries, dental treatments, and infertility treatments are not covered under the CMHIS scheme.",
+            "AB PM-JAY Beneficiaries including Building and other Construction Workers will not be covered under CMHIS (GEN) category."
+        ],
+        "application_process": "Online application process through the Chief Minister\u2019s Health Insurance Scheme (CMHIS) Nagaland portal. Applicants must register, fill in the application form, and submit it along with necessary documents to the nearest Common Service Center (CSC) or empanelled hospital.",
+        "documents_required": [
+            "Valid Mobile Phone number.",
+            "Indigenous Inhabitant Certificate (IIC) or Permanent Residential Certificate (PRC).",
+            "Government issued Photo ID card for employees without PIMS number.",
+            "Proof of continuity of being engaged for employees without PIMS number.",
+            "First Three pages of the Pensioner\u2019s PPO book for pensioners."
+        ],
+        "faqs": [
+            {
+                "question": "What is CMHIS?",
+                "answer": "The Chief Minister Health Insurance Scheme (CMHIS) Nagaland was initiated to alleviate financial hardships due to hospitalization expenses and to prevent inaccessibility to medical care on account of unaffordability."
+            },
+            {
+                "question": "Who are Eligible under CMHIS (GEN) Category?",
+                "answer": "CMHIS (GEN) category includes all Indigenous and/or Permanent residents of the State who are not beneficiaries under the AB PM-JAY or any other public funded health insurance scheme."
+            },
+            {
+                "question": "How much is the Annual Risk Cover/ Sum Insured per family?",
+                "answer": "For CMHIS (GEN) beneficiary families, the Sum Insured is Rs. 5,00,000/- and for CMHIS (EP) beneficiary families, it is Rs. 20,00,000/-."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Site",
+                "url": "https://cmhis.nagaland.gov.in/"
+            },
+            {
+                "type": "Registration",
+                "url": "https://cmhis.nagaland.gov.in/login"
+            }
+        ],
+        "tags": [
+            "Health Insurance",
+            "Nagaland",
+            "Government Scheme",
+            "Financial Protection"
+        ]
+    }
+}

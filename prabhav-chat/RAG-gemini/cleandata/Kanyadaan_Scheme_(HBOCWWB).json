@@ -1,0 +1,108 @@
+{
+    "content": {
+        "title": "Kanyadaan Scheme (HBOCWWB)",
+        "state": "Haryana",
+        "department": "Labour Department, Government of Haryana",
+        "type": "Financial Assistance",
+        "beneficiary": "Registered construction workers",
+        "details": "The scheme 'Kanyadaan Scheme' is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB). Under this scheme, the Board provides financial assistance in the form of Kanyadaan to registered construction workers on the occasion of the marriage of their daughters. This assistance is available for up to three daughters of the worker.",
+        "benefits": [
+            "Financial assistance of \u20b951,000/- as Kanyadaan on the marriage of their daughters.",
+            "Additional financial assistance of \u20b950,000/- for arranging the marriage of the daughter of a registered worker."
+        ],
+        "eligibility": [
+            "The applicant should be registered under the Haryana Building & Other Construction Workers Welfare Board.",
+            "The registered worker must have a minimum of one year\u2019s regular membership.",
+            "The registered member must have worked for 90 days as a Building and Other Construction Worker during the preceding twelve months.",
+            "The worker must have paid up-to-date contributions.",
+            "The benefit is payable up to the marriage of three daughters only.",
+            "The applicant should submit all the documents within one year after the marriage.",
+            "The applicant should not avail of this assistance from any other government department/board/corporation."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof i.e. Aadhaar Card, Voter Card",
+            "Passport-size photograph",
+            "Attested work experience document",
+            "Proof of residence",
+            "Ration Card",
+            "Bank account details",
+            "Caste Certificate (If applicable)",
+            "Proof of age",
+            "Parivar Pehchan Patra (Family ID)",
+            "Disability certificate (If applicable)",
+            "Any other documents as required"
+        ],
+        "tags": [
+            "Kanyadaan",
+            "Building Worker",
+            "Construction Worker",
+            "Labour",
+            "Marriage"
+        ],
+        "faqs": [
+            {
+                "question": "What is the financial assistance provided under the scheme?",
+                "answer": "Registered workers are provided with \u20b951,000/- as Kanyadaan on the marriage of their daughters."
+            },
+            {
+                "question": "Are there any additional benefits provided under the scheme?",
+                "answer": "Yes, the Board provides an additional \u20b950,000/- for arranging the marriage of the worker's daughter, totaling \u20b91,01,000/- in financial assistance."
+            },
+            {
+                "question": "Who is eligible for the scheme?",
+                "answer": "Applicants must be registered under the Haryana Building & Other Construction Workers Welfare Board and have at least one year's regular membership."
+            },
+            {
+                "question": "How many daughters can benefit from the scheme?",
+                "answer": "The scheme covers financial assistance for up to three daughters of the registered worker."
+            },
+            {
+                "question": "What is the deadline for submitting documents after marriage?",
+                "answer": "All documents must be submitted within one year after the marriage."
+            },
+            {
+                "question": "Can applicants avail of assistance from other government departments or boards?",
+                "answer": "No, applicants cannot avail of this assistance from any other government department/board/corporation."
+            },
+            {
+                "question": "What is the eligibility criterion related to work experience?",
+                "answer": "The registered worker must have worked for 90 days as a Building and Other Construction Worker during the preceding twelve months."
+            },
+            {
+                "question": "Is there a contribution requirement for eligibility?",
+                "answer": "Yes, the worker must have paid up-to-date contributions."
+            },
+            {
+                "question": "How can a construction worker register under HBOCWWB?",
+                "answer": "They can visit the Official Website of the Labour Department Haryana."
+            },
+            {
+                "question": "Where can applicants apply for the scheme?",
+                "answer": "Applicants can apply for the scheme through the Official Portal - Antyodaya-SARAL Portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/bocw/settings/schemeDetail/113"
+            },
+            {
+                "type": "Registration",
+                "url": "https://hrylabour.gov.in/bocw/Basicinfo/bocw_terms"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=SptEybKHn%2ftmZmXl8s4YGw%3d%3d"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://saralharyana.gov.in/"
+            },
+            {
+                "type": "HBOCWWB Rule",
+                "url": "https://hrylabour.gov.in/staticdocs/labourActpdfdocs/HBOCW_Rules.pdf"
+            }
+        ]
+    }
+}

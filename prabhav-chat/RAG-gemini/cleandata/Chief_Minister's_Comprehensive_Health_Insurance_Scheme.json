@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Chief Minister's Comprehensive Health Insurance Scheme",
+        "state": "Tamil Nadu",
+        "department": "Health and Family Welfare Department",
+        "type": "Health Insurance",
+        "beneficiary": "Economically-weaker Sections",
+        "details": "The Chief Minister Comprehensive Health Insurance Scheme, formerly known as Kalaingar Kaappittu Thittam, was launched on 23rd July 2009, with the objective of providing quality healthcare to eligible individuals through empanelled government and private hospitals, thereby reducing financial hardship for enrolled families and moving towards universal health coverage by effectively linking with the public health system. From January 2022 to 2027, the scheme is being implemented through United India Insurance Company. As of January 2022, the scheme covers around 1.37 crore families. A total of 1090 procedures, 8 follow-up procedures, and 52 diagnostic procedures are covered under CMCHIS in 800 government and 900 private empanelled hospitals. The scheme aims to provide cashless hospitalization for specific ailments/procedures and provides coverage up to Rs. 5,00,000/- per family, per year on a floater basis for the ailments and procedures covered under the scheme.",
+        "benefits": [
+            "Extensive Coverage for Medical Emergencies",
+            "Large Network of Hospitals",
+            "Comprehensive Coverage for Multiple Treatments",
+            "High Sum Insured",
+            "Coverage for Additional Medical Procedures"
+        ],
+        "eligibility": [
+            "The applicant's name must be present in the family card.",
+            "The family's annual income should be less than Rs.1,20,000/- per annum."
+        ],
+        "exclusions": [
+            "Non-residents of Tamil Nadu are not eligible for this scheme.",
+            "Individuals with an annual income exceeding Rs.72,000/- are not eligible for this scheme.",
+            "Members not listed in the ration card of the family are not eligible for this scheme.",
+            "Non-Sri Lankan refugees without proof of citizenship are not eligible for this scheme.",
+            "Migrants from other Indian states who do not possess migration certificates from the appropriate authority are not eligible for this scheme.",
+            "Orphans and rescued girl children who are not associated with any registered/unregistered organization are not eligible for this scheme."
+        ],
+        "application_process": "Offline. Step 1: Obtain an income certificate from the Village Administrative Officer or Revenue authorities. Step 2: Gather all the necessary documents such as Aadhar card, ration card, and income certificate and proceed to the enrollment center. Step 3: Present your documents to the kiosk operator for verification. Step 4: Provide your biometric details such as fingerprints, photograph, and eye scan. Step 5: Your details will be verified and the e-card will be issued to you.",
+        "documents_required": [
+            "Income certificate from the Village Administrative Officer/Revenue authorities",
+            "Ration Card (both original and photocopy)",
+            "Self-declaration from the head of the family",
+            "Proof of identity",
+            "Address proof",
+            "Aadhar card",
+            "PAN card (optional)"
+        ],
+        "faqs": [
+            {
+                "question": "Which Family Members Are Eligible To Enrol Under CMCHIS?",
+                "answer": "The following members of a family with an annual income of less than 1.2 lakhs rupees can enrol under the scheme: Head of the family, Legal spouse, Children of the eligible person, Dependant parents."
+            },
+            {
+                "question": "Can I file a claim online?",
+                "answer": "Yes, you can file a claim online on the official website of the Tamil Nadu Chief Minister's by entering the User ID and Password provided to you."
+            },
+            {
+                "question": "Till what age are children of the beneficiary included in the policy cover?",
+                "answer": "The children of the eligible individual are covered under this policy until they reach the age of 25 years, get employed or get married, whichever comes first."
+            },
+            {
+                "question": "Are reimbursement claims allowed under CMCHIS Health Insurance?",
+                "answer": "No, only cashless claims can be availed at an empanelled hospital. This is to reduce the financial burden on the beneficiary of the health insurance plan."
+            },
+            {
+                "question": "What if the head of the family is not present at the time of enrollment?",
+                "answer": "If the head of the family is not present at the time of enrollment, the spouse is considered as the head. The enrollment process is still carried out for all family members present."
+            },
+            {
+                "question": "Are dental treatments included in CMCHIS?",
+                "answer": "Yes, various types of dental treatments are covered under CMCHIS. Dental procedures come under outpatient treatments."
+            },
+            {
+                "question": "Is abdominal hysterectomy listed in CMCHIS?",
+                "answer": "Yes, a beneficiary of Amma Health Insurance plan can undergo abdominal hysterectomy for both benign and malignant conditions. These costs will be covered under the plan."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/cmchis"
+            }
+        ],
+        "tags": [
+            "Health Insurance",
+            "Tamil Nadu",
+            "Government Scheme",
+            "Cashless Treatment"
+        ]
+    }
+}

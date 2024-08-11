@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Entrepreneurship and Skill Development Programme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Skill Development",
+        "beneficiary": "Youth and individuals interested in self-employment",
+        "details": "The O/o DC-MSME under the 'Development of MSMEs' vertical has launched the 'Entrepreneurship and Skill Development Programme (ESDP)'. The Programme is being organized regularly to nurture the talent of youth by enlightening them on various aspects of industrial/business activity required for setting up MSMEs. These Programmes are conducted for youth and other people interested in setting up their own industrial/self-employment venture.",
+        "benefits": [
+            "Entrepreneurship Awareness Programme (EAP)",
+            "Entrepreneurship-cum-Skill Development Programme (E-SDP)",
+            "Management Development Programme (MDP)"
+        ],
+        "eligibility": [
+            "Age of participants must be 18 years and above.",
+            "Youth and other people interested in setting up their own industrial/business/self-employment venture.",
+            "40% of targeted beneficiaries should be from weaker sections of society (SC/ST/Women/Physically Handicapped)."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Interested candidates may contact the nearby MSME Development Institute or MSME-Technology Centre.",
+        "documents_required": [
+            "Identity proof (Aadhaar Card, Voter ID Card, etc.)",
+            "Proof of age",
+            "Caste certificate (if applicable)",
+            "Disability certificate (if applicable)",
+            "Any other document, if required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Entrepreneurship and Skill Development Programme'?",
+                "answer": "The Programme is being organized regularly to nurture the talent of youth by enlightening them on various aspects of industrial/business activity required for setting up MSEs."
+            },
+            {
+                "question": "What is the objective of this programme?",
+                "answer": "To motivate young persons representing different sections of society to consider self-employment or entrepreneurship as a career option."
+            },
+            {
+                "question": "Which is the implementing agency of this programme?",
+                "answer": "Ministry of Micro, Small & Medium Enterprises, Government of India."
+            },
+            {
+                "question": "Who is eligible under the programme?",
+                "answer": "Youth and other people interested in setting up their own industrial/business/self-employment venture."
+            },
+            {
+                "question": "What is the minimum age criterion for the programme?",
+                "answer": "The age of the participants will be 18 years and above."
+            },
+            {
+                "question": "Will participants have to pay any fees for the programme?",
+                "answer": "Yes, but participants from SC, ST, Differently-Abled Persons, Ex-Servicemen, BPL category, and women will be exempted from the fee."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/esdp"
+            },
+            {
+                "type": "MSME-Website",
+                "url": "https://msme.gov.in/entrepreneurship-and-skill-development-programs"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://msmedi.dcmsme.gov.in/Manuals/Approved%20ESDP%20Guidelines_new.pdf"
+            }
+        ],
+        "tags": [
+            "Entrepreneurship",
+            "Skill Development",
+            "MSME",
+            "Self-employment"
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Post Graduate Scholarship Scheme for GATE/GPAT Qualified Students-AICTE",
+        "state": "India",
+        "department": "AICTE",
+        "type": "Scholarship",
+        "beneficiary": "GATE/CEED qualified students",
+        "details": "AICTE awards Post Graduate Scholarship of \u20b912,400/- per month to full-time GATE/CEED qualified students admitted to AICTE approved post-graduate programs in AICTE approved Institutions/ University Departments.",
+        "benefits": [
+            "Monthly scholarship of \u20b912,400/-",
+            "Financial assistance for full-time GATE/CEED qualified students"
+        ],
+        "eligibility": [
+            "Having a valid GATE/CEED score at the time of admission",
+            "Must be admitted as a full-time scholar",
+            "Students of final years of dual degree integrated programmes entitled from the 9th semester",
+            "Admitted in AICTE approved Institutions/ University Departments & AICTE approved programs",
+            "Number of PG Scholarship limited to AICTE approved intake"
+        ],
+        "exclusions": [
+            "Foreign students",
+            "Sponsored candidates",
+            "Candidates admitted in PG programs through management quota"
+        ],
+        "application_process": "Online application through AICTE portal",
+        "documents_required": [
+            "Valid GATE/CEED scorecard",
+            "Admission proof in AICTE approved program",
+            "Aadhaar number"
+        ],
+        "faqs": [
+            {
+                "question": "What is the duration of the scholarship period?",
+                "answer": "The Scholarship is tenable for 24 months or for the duration of the course, whichever is lower."
+            },
+            {
+                "question": "Is there any reservation for EWS?",
+                "answer": "AICTE will provide PG scholarship to an additional 10% candidates from EWS category."
+            },
+            {
+                "question": "What are the various types of leave entitlement during the scholarship period?",
+                "answer": "Casual leave: 15 days, Medical leave: Maximum of one month, Maternity leave as per Govt. norms."
+            },
+            {
+                "question": "What action shall be taken against the students who leave the course in midway?",
+                "answer": "The student shall be required to give an undertaking that he/she would not leave the course midway."
+            },
+            {
+                "question": "Is there any condition for payment of scholarship?",
+                "answer": "The Scholarship will be granted on a monthly basis subject to satisfactory academic performance."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/pgssgategpatqsaicte"
+            },
+            {
+                "type": "Aadhaar Active Status Manual",
+                "url": "https://www.aicte-india.org/sites/default/files/stdc/Manual%20for%0Bank%20account%20linkage%20with%20Aadhaar.PDF"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "GATE",
+            "GPAT",
+            "AICTE",
+            "Post Graduate"
+        ]
+    }
+}

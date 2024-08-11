@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Samagra Samajik Suraksha Parityakta Pension Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Department of Social Justice",
+        "type": "Pension",
+        "beneficiary": "Families living below the poverty line",
+        "details": "Samagra Samajik Suraksha Parityakta Pension Yojana under the Department of Social Justice government of Madhya Pradesh provides financial benefits to families living below the poverty line to fulfill the basic needs of life.",
+        "benefits": [
+            "Pension Benefits: \u20b9 600/- per month"
+        ],
+        "eligibility": [
+            "The applicant should be a native of Madhya Pradesh.",
+            "The Abandoned women aged between 18 to 59 years.",
+            "The applicant should be living below the poverty line.",
+            "The applicant name should be mentioned on the Samagr portal."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline. Steps: 1. Go to the Samajik Suraksha portal. 2. Click on Samajik Suraksha pension avm arthik sahayata yojanaen. 3. Click on Pension Yojana hetu online aavedan. 4. Fill in the required details and submit.",
+        "documents_required": [
+            "Three photos of yourself",
+            "B.P.L. card",
+            "Certificate to confirm age",
+            "Certificate of abandonment",
+            "9-digit composite ID"
+        ],
+        "faqs": [
+            {
+                "question": "What is Samagra Samajik Suraksha Parityakta Pension Yojana?",
+                "answer": "Samagra Samajik Suraksha Parityakta Pension Yojana for a family living below the poverty line."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Yes, there are cash benefit \u20b9 600 per month."
+            },
+            {
+                "question": "Is this scheme for all the citizen of India?",
+                "answer": "No, only a native of Madhya Pradesh."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Three photos of yourself, B.P.L. card, Certificate to confirm age, certificate of abandonment."
+            },
+            {
+                "question": "What will be the age criteria?",
+                "answer": "The applicant's age should be between 18 to 59 years."
+            },
+            {
+                "question": "Can applicant apply online?",
+                "answer": "Yes, go to this link https://socialsecurity.mp.gov.in/Home.aspx and follow the steps given into the scheme."
+            },
+            {
+                "question": "Under which department does this scheme come?",
+                "answer": "Department of Social Justice and Empowerment of Persons with Disabilities."
+            },
+            {
+                "question": "Is there any fees for application?",
+                "answer": "No, there are no application fees."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialsecurity.mp.gov.in/Scheme/SSWP.aspx"
+            },
+            {
+                "type": "Apply Portal",
+                "url": "https://socialsecurity.mp.gov.in/Home.aspx"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Empowerment",
+            "Financial Benefits",
+            "Pension"
+        ]
+    }
+}

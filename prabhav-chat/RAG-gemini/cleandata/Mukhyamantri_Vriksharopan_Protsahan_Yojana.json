@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Mukhyamantri Vriksharopan Protsahan Yojana",
+        "state": "Chhattisgarh",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmers of Chhattisgarh",
+        "details": "The scheme aims to promote tree plantation to conserve the environment and increase the income of farmers by providing financial incentives for successful plantations.",
+        "benefits": [
+            "Farmers who plant trees instead of paddy will receive Rs. 10,000/- per year for 3 years for successful plantations.",
+            "Forest rights holders will also receive Rs. 10,000/- per acre per year for successful plantations.",
+            "Gram Panchayats and Joint Forest Management Committees will receive Rs. 10,000/- per acre for successful commercial plantations."
+        ],
+        "eligibility": [
+            "Farmers of Chhattisgarh who sold paddy to the government after cultivating it in 2020.",
+            "Forest rights holders who sold paddy to the government and want to plant trees instead.",
+            "All Gram Panchayats and Joint Forest Management Committees wishing to plant trees on revenue land."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Farmers must register to be eligible for incentives. They need to fill out the appropriate application forms and submit them to the Chhattisgarh Forest Department Office.",
+        "documents_required": [
+            "Aadhaar Card of the applicant",
+            "Address proof",
+            "Income certificate",
+            "Mobile number",
+            "Bank passbook",
+            "Passport-size photo"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Mukhyamantri Vriksharopan Protsahan Yojana?",
+                "answer": "It is a scheme aimed at conserving the environment and doubling the income of farmers by promoting tree plantation in the state."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "Farmers receive Rs. 10,000/- per year for plantation in farms, forest/revenue forest/revenue land and commercial plantation."
+            },
+            {
+                "question": "Can people from other states also apply for this scheme?",
+                "answer": "No. This scheme is only for residents of Chhattisgarh."
+            },
+            {
+                "question": "Who can avail the benefits of the scheme?",
+                "answer": "Only residents of Chhattisgarh can take benefits of this scheme."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "Farmers of Chhattisgarh who sold paddy to the government after cultivating it in 2020, forest rights holders wanting to plant trees, and Gram Panchayats and Joint Forest Management Committees."
+            },
+            {
+                "question": "How to get the benefits?",
+                "answer": "Fill out the registration form and submit it to the Chhattisgarh Forest Department Office."
+            },
+            {
+                "question": "What are the required documents for this scheme?",
+                "answer": "Aadhaar Card, Address proof, Income certificate, Mobile number, Bank passbook, Passport-size photo."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://www.forest.cg.gov.in/CMPlantation/Login.aspx"
+            },
+            {
+                "type": "Application Form for Forest Rights Holders",
+                "url": "http://www.forest.cg.gov.in/CMPlantation/img/FRA_Application.pdf"
+            },
+            {
+                "type": "Application Form for Joint Forest Management Committees",
+                "url": "http://www.forest.cg.gov.in/CMPlantation/img/JFMC_Application.pdf"
+            },
+            {
+                "type": "Application Form for Gram Panchayat",
+                "url": "http://www.forest.cg.gov.in/CMPlantation/img/Gram_Panchayat.pdf"
+            }
+        ],
+        "tags": [
+            "Tree Plantation",
+            "Environmental Conservation",
+            "Farmer Welfare",
+            "Chhattisgarh"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
+        "state": "India",
+        "department": "Ministry of Chemicals and Fertilizers",
+        "type": "Scheme",
+        "beneficiary": "Entrepreneurs, General Public",
+        "details": "The scheme 'Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)' was launched by the Department of Pharmaceuticals, Ministry of Chemicals & Fertilizers, in November 2008. The branded (Generic) medicines are sold at significantly higher prices than their un-branded generic equivalents, though are identical in therapeutic value. Given the widespread poverty across the country, making available reasonably priced quality generic medicines in the market would benefit everyone.",
+        "benefits": [
+            "Normal Incentive: Enhanced from \u20b9 2,50,000/- to up to \u20b9 5,00,000/- based on monthly purchases.",
+            "Special Incentive: One-time incentive of \u20b9 2,00,000/- for specific regions and demographics.",
+            "Prices of Janaushadhi medicines are 50%\u201390% less than branded medicines.",
+            "Medicines are procured from WHO-GMP-certified suppliers.",
+            "Quality assurance through NABL-accredited laboratories."
+        ],
+        "eligibility": [
+            "Individual applicants must have a D. Pharma/B. Pharma degree or employ degree holders.",
+            "Organizations or NGOs must employ B. Pharma/D. Pharma degree holders.",
+            "Reputed NGOs/Charitable organizations preferred in government hospital premises."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline. Steps include visiting the official website, applying for Kendra, and submitting required documents.",
+        "documents_required": [
+            "Own or hired space documentation.",
+            "Proof of securing a pharmacist.",
+            "Financial capacity documents.",
+            "Sale License from Competent Authority.",
+            "Drug license in the name of 'Pradhan Mantri Janaushadhi Kendra'."
+        ],
+        "faqs": [
+            {
+                "question": "What Is Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)?",
+                "answer": "A campaign to provide quality medicines at affordable prices through dedicated outlets."
+            },
+            {
+                "question": "What Is A Generic Medicine?",
+                "answer": "Generic drugs marketed under a non-proprietary name, equally effective and inexpensive."
+            },
+            {
+                "question": "How The Quality, Safety And Efficacy Of Medicines Are Ensured?",
+                "answer": "Each batch of medicines is tested from NABL-approved laboratories."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://janaushadhi.gov.in/pdf/Guideline%20for%20opening%20PMBJP%20Kendra_06052022.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "http://janaushadhi.gov.in/pmjy.aspx"
+            },
+            {
+                "type": "Kendra Locator",
+                "url": "http://janaushadhi.gov.in/KendraDetails.aspx"
+            }
+        ],
+        "tags": [
+            "Entrepreneur",
+            "Generic Drugs",
+            "Healthcare",
+            "Janaushadhi",
+            "Medicine",
+            "Pharmaceutical"
+        ]
+    }
+}

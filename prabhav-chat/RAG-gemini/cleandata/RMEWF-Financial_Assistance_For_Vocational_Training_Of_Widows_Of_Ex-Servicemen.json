@@ -1,0 +1,61 @@
+{
+    "content": {
+        "title": "RMEWF-Financial Assistance For Vocational Training Of Widows Of Ex-Servicemen",
+        "state": "Not specified",
+        "department": "Ministry Of Defence",
+        "type": "Grant",
+        "beneficiary": "Widows Of Ex-Servicemen",
+        "details": "A scheme to provide financial assistance to a widow of Ex-Servicemen to settle in life through vocational training. Depending on their educational level and aptitude, they may opt to undergo the requisite vocational training. Such a course may be pursued at any recognized vocational training institution run by Rajya Sainik Board/Zonal Sainik Board, state like ITI or private training institutions of repute like NIIT etc.",
+        "benefits": [
+            "A financial assistance of Rs.20,000/- (max- one time aid) is provided to widows of Ex-Servicemen on successful completion of said vocational training."
+        ],
+        "eligibility": [
+            "Applicant must be widow of an ESM of rank up to Havildar/equiv.",
+            "Should have successfully completed said training.",
+            "Should be recommended by respective Zila Sainik Board (ZSB)."
+        ],
+        "exclusions": [],
+        "application_process": "Eligible Ex-servicemen / their widows can visit the official website of Kendriya Sainik Board Secretariat (KSBS) [https://ksb.gov.in/](https://ksb.gov.in/). Click on 'Register' which is available on the homepage of the portal. Now, the registration form will be displayed, fill the form with necessary details. Upload the Photo. Save the application by clicking on the 'Save' button and the saved details and password will be forwarded to the registered mail id. Click the activation link which is sent to the mail id to login into the KSB portal. Provide user name, password and verification code and click on the 'Login' button. Select the scheme name and start filling the new application form by entering the required details. Copies of the supporting documents duly attested by the respective Zila Sainik Welfare Officer (ZSWO) must be uploaded with the online application. Once the online application is submitted, ZSWO will scrutinize the online applications and give appointment to the applicant for verification. After successful verification, ZWSO will recommend the online application and forward the hard copy as well soft copy to Kendriya Sainik Board (KSB) through Rajya Sainik Boards (RSBs) for further processing.",
+        "documents_required": [
+            "Complete Service Discharge Certificate/Book.",
+            "Copy of Widow I-Card.",
+            "Certificate from institute after completion of training.",
+            "Certificate from ZSWO that widow after vocational training is gainfully employed.",
+            "Details of Bank A/c No (in PNB/SBI only) and IFS Code."
+        ],
+        "faqs": [
+            {
+                "question": "Can I Apply For Multiple Vocational Courses?",
+                "answer": "This is a one time benefit and for only one vocational course."
+            },
+            {
+                "question": "Can I Apply While Pursuing Vocational Training?",
+                "answer": "No. Widow can apply only when she has successfully completed her vocational training."
+            },
+            {
+                "question": "Can I Give Bank Details Of Any Bank?",
+                "answer": "No. Account Details Of Only State Bank Of India (SBI) Or Punjab National Bank (PNB) Is Valid For Application."
+            },
+            {
+                "question": "Will Old Cases Of Financial Assistance Be Considered For This Scheme?",
+                "answer": "Old Cases Will Not Be Entertained."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/rmewf-vocational-training"
+            },
+            {
+                "type": "Kendriya Sainik Board",
+                "url": "https://ksb.gov.in/"
+            }
+        ],
+        "tags": [
+            "Vocational Training",
+            "Financial Assistance",
+            "Widows",
+            "Ex-Servicemen"
+        ]
+    }
+}

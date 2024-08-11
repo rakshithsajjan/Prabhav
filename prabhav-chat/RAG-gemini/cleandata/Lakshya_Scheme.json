@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Lakshya Scheme",
+        "state": "Tripura",
+        "department": "Directorate of Higher Education, Government of Tripura",
+        "type": "Scholarship",
+        "beneficiary": "Permanent residents of Tripura who have cleared the Civil Services Examination (CSE) conducted by UPSC",
+        "details": "The state scheme 'LAKSHYA' was launched by the Directorate of Higher Education, Government of Tripura. The objective of the scheme is to provide financial support in the form of scholarships to permanent residents in Tripura who have cleared the Civil Services Examination (CSE) conducted by the Union Public Service Commission (UPSC). The intervention will be in the form of direct financial support to candidates clearing Civil Services which includes Part I (Prelims to main- candidates who cleared prelims and appearing in the mains) and Part II (Mains to Interview- candidates who are invited to appear the interview) conducted by UPSC.",
+        "benefits": [
+            "Part I: Candidate Clears the Civil Services Prelims Exam and Will Be Appearing for the Mains Exam - \u20b91,00,000/ (\u20b970,000 for coaching centre fee & study material cost\u00ad, and \u20b930,000 for travelling cost)",
+            "Part II: Candidate Clears the Mains Exam and is Invited for an Interview by UPSC - \u20b920,000/-",
+            "Mode of Disbursement: The monthly payment will be done in Direct Benefit Transfer (DBT) mode by the Implementing Agency."
+        ],
+        "eligibility": [
+            "The Candidates should be a domicile of Tripura.",
+            "The Candidate should have cleared the Civil Services Exam (Prelims Exam) conducted by the UPSC.",
+            "The combined annual family income of the candidate should not exceed \u20b910,00,000/-.",
+            "A candidate can receive assistance only twice, regardless of how many times he/she attempts to pass the exam."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Photograph (jpg format)",
+            "RC member ID",
+            "Bank Passbook",
+            "Permanent Resident Tripura Certificate (PRTC)",
+            "Income Certificate (Issued by Sub-Divisional Magistrate (SDM)/ Deputy Commissioner of Magistrate (DCM)/ Deputy Commissioner (DC))",
+            "Admit Card/ Hall Ticket/ Roll Slip",
+            "UPSC Prelims/Mains Clearance Proof",
+            "Proof of Admission (Coaching Centre)"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for the 'LAKSHYA' scheme?",
+                "answer": "Residents of Tripura who clear the UPSC Civil Services Prelims exam are eligible."
+            },
+            {
+                "question": "What financial support does the scheme provide to candidates?",
+                "answer": "Prelims qualifiers receive \u20b91,00,000, while mains qualifiers get \u20b920,000."
+            },
+            {
+                "question": "When should candidates inform the implementing agency about their Main exam date?",
+                "answer": "Candidates must inform two months before the Main exam."
+            },
+            {
+                "question": "When should candidates inform the implementing agency about their interview date?",
+                "answer": "Candidates must inform before the interview date."
+            },
+            {
+                "question": "How many times can a candidate receive assistance from the scheme?",
+                "answer": "Candidates can receive assistance twice."
+            },
+            {
+                "question": "Do candidates need to be residents of Tripura to apply?",
+                "answer": "Yes, candidates must be Tripura residents."
+            },
+            {
+                "question": "What specific exam do candidates need to clear to be eligible for the scheme?",
+                "answer": "The UPSC Civil Services Prelims exam."
+            },
+            {
+                "question": "Is there a maximum annual family income limit for eligibility?",
+                "answer": "Annual family income should not exceed \u20b910,00,000."
+            },
+            {
+                "question": "What documents are needed to apply for the scheme?",
+                "answer": "PRTC, Income Certificate, Admit Card, Call Letter, Proof of Admission."
+            },
+            {
+                "question": "How do candidates apply for the 'LAKSHYA' scheme?",
+                "answer": "Apply online within two months of result declaration."
+            },
+            {
+                "question": "Where can candidates find more information about the 'LAKSHYA' scheme?",
+                "answer": "The official website is https://highereducation.tripura.gov.in/."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://highereducation.tripura.gov.in/sites/default/files/lakshya_1.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Financial Assistance",
+            "UPSC",
+            "Tripura"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Scheme Of Post Matric Scholarships To The Students Belonging To Scheduled Tribes For Studies In India",
+        "state": "India",
+        "department": "Ministry of Tribal Affairs",
+        "type": "Scholarship",
+        "beneficiary": "Students belonging to Scheduled Tribes",
+        "details": "The scheme provides scholarships to students belonging to Scheduled Tribes for pursuing post-matriculation courses in India. It includes various allowances and provisions for students with disabilities.",
+        "benefits": [
+            "Maintenance allowance",
+            "Reimbursement of compulsory non-refundable fees",
+            "Study tour charges",
+            "Thesis typing/printing charges",
+            "Book allowance for correspondence courses"
+        ],
+        "eligibility": [
+            "Students belonging to Scheduled Tribes",
+            "Students pursuing post-matriculation courses"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the official website.",
+        "documents_required": [
+            "Caste certificate",
+            "Income certificate",
+            "Admission proof",
+            "Disability certificate (if applicable)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the value of the scholarship?",
+                "answer": "The scholarship includes maintenance allowance, reimbursement of fees, and additional provisions for students with disabilities."
+            },
+            {
+                "question": "Are there any provisions for students with disabilities?",
+                "answer": "Yes, there are additional allowances for blind scholars, transport allowance, escort allowance, and special pay for helpers."
+            },
+            {
+                "question": "How is the maintenance allowance structured?",
+                "answer": "The maintenance allowance varies by group and course type, with specific rates for hostellers and day scholars."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/post-st"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Scheduled Tribes",
+            "Education",
+            "Financial Assistance"
+        ]
+    }
+}

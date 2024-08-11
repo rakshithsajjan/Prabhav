@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Capital Investment Subsidy: SC/ST/Women Entrepreneurs",
+        "state": "Puducherry",
+        "department": "Department of Industrial Development (Industries and Commerce)",
+        "type": "Subsidy",
+        "beneficiary": "Scheduled Caste/ Scheduled Tribe/ Women Entrepreneurs",
+        "details": "The 'Capital Investment Subsidy: SC/ST/Women Entrepreneurs' is a Component of the 'Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries' Scheme by the Department of Industrial Development (Industries and Commerce), Union Territory of Puducherry. The department extends subsidies for the investments made on land, buildings, plants & machinery @ 25% by the Scheduled Caste/ Scheduled Tribe/ Women Entrepreneurs. The applications are accepted offline in the prescribed form available on the Official Website of the Department.",
+        "benefits": [
+            "Subsidy for the investments made on land, building, plant & machinery @ 25% thereof subject to a maximum of \u20b925,00,000/- for SC/ST/Women Entrepreneurs.",
+            "Subsidy at the rate of 25% on the land, building and plant & machinery subject to a cumulative maximum of \u20b950,00,000/- for Scheduled Caste and Scheduled Tribe Entrepreneurs.",
+            "The subsidy shall be disbursed in a single instalment, or in instalments if necessary due to fund constraints."
+        ],
+        "eligibility": [
+            "The applicant should be a Scheduled Caste/ Scheduled Tribe/ Woman Entrepreneur.",
+            "Investment for indigenous second-hand machinery will be assessed based on the initial purchase value with depreciation or the second-hand purchase value.",
+            "Units set up by the same person can be eligible for subsidy as separate entities if they have distinct locations, products, and licenses."
+        ],
+        "exclusions": [
+            "Working Capital, Commissioning Fees, Goodwill Fees, Royalty, Preliminary and Pre-operative Expenses, Capitalised Interest, Technical Know-how Fees, Transportation and Erection Charges, Goods Vehicles, Office Equipment, Furniture, Grates, Pallets and Consumable Stores.",
+            "Units that have availed of an investment subsidy from the Central Government or any other agency for the same investment."
+        ],
+        "application_process": "Offline. The industrial unit should register the claim for the grant of incentive/subsidy in the prescribed form available on the Official Website of the Directorate of Industries and Commerce, Puducherry.",
+        "documents_required": [
+            "Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration/ Commencement of Production Certificate.",
+            "Caste certificate from the competent authority in the case of SC/ST Entrepreneurs.",
+            "Loan Sanction Letter.",
+            "Registered Land Document.",
+            "Plan Approval from the Pollution Control Board (PPA).",
+            "Engineer\u2019s Certificate for Building Valuation.",
+            "Registered Lease Agreement for the Building.",
+            "Purchase Invoices for Plant & Machinery.",
+            "Chartered Accountant Certificate for the Investment in Fixed Assets.",
+            "Certificate for the Installation of Pollution Control Equipment.",
+            "Air/Water Consent Orders.",
+            "Notary Affidavit."
+        ],
+        "faqs": [
+            {
+                "question": "What measures are in place to address challenges related to fund availability for single installment disbursement?",
+                "answer": "In case single installment disbursement is not possible due to fund constraints, disbursement may be made in installments."
+            },
+            {
+                "question": "Can units expect timely disbursement of subsidies, or is it subject to the availability of funds?",
+                "answer": "The subsidy is disbursed upon the availability of funds during the financial year, and if funds are insufficient, disbursement may be made in the next financial year."
+            },
+            {
+                "question": "Are there any specific criteria for units set up by the same person or group to be considered as separate entities for subsidy eligibility?",
+                "answer": "For units set up by the same person or group to be considered as separate entities, they must have distinct locations, products, and obtain licenses or clearances separately."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://industry.py.gov.in/sites/default/files/subsidy-g.o-2012.pdf"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://industry.py.gov.in/grievance-redressal-mechanism"
+            },
+            {
+                "type": "Helpline",
+                "url": "https://industry.py.gov.in/state-helpline"
+            },
+            {
+                "type": "Application Form & Documents Required",
+                "url": "https://industry.py.gov.in/common-application-subsidies"
+            }
+        ],
+        "tags": [
+            "Subsidy",
+            "Entrepreneurship",
+            "SC/ST",
+            "Women Empowerment",
+            "Puducherry"
+        ]
+    }
+}

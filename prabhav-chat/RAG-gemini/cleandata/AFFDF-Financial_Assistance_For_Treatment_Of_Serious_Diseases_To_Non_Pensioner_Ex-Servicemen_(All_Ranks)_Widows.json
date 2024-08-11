@@ -1,0 +1,53 @@
+{
+    "content": {
+        "title": "AFFDF-Financial Assistance For Treatment Of Serious Diseases To Non Pensioner Ex-Servicemen (All Ranks)/Widows",
+        "state": "India",
+        "department": "Ministry Of Defence",
+        "type": "Financial Assistance",
+        "beneficiary": "Non-Pensioner Ex-Servicemen and their Widows",
+        "details": "A scheme to provide financial assistance to a non-pensioner Ex-Servicemen of all ranks and widows to meet medical expenses related to treatment of approved serious diseases like cancer, renal failure, knee replacement and heart surgery. Expenditure must be incurred at an approved govt hospital at the rates applicable under CGHS / ECHS.",
+        "benefits": [
+            "Financial assistance for treatment of the approved serious diseases to non-pensioner Ex-Servicemen of all ranks and widows subject to a maximum of Rs 1,25,000/- (One Time) and for treatment of cancer/dialysis subject to a maximum of Rs 75,000/- per annum.",
+            "For Non-Pensioner Officers/Widows: 75% of total expenditure incurred on medical treatment, hospitalization, medicines etc.",
+            "For Non-Pensioner other Ranks/Widows: 90% of total expenditure incurred per annum on medical treatment, hospitalization, medicine etc."
+        ],
+        "eligibility": [
+            "Applicant must be a non-pensioner ESM or his widow.",
+            "Should not be a member of ECHS or availing AFMS facilities.",
+            "Should be recommended by respective Zila Sainik Board (ZSB).",
+            "Expenditure must be incurred at an approved govt hospital at the rates applicable under CGHS / ECHS."
+        ],
+        "exclusions": [],
+        "application_process": "Online application process through the official website of Kendriya Sainik Board Secretariat (KSBS).",
+        "documents_required": [
+            "Complete Service Discharge Book/Documents.",
+            "Photocopy of ESM / widow I Card.",
+            "Original medical bills duly countersigned by attending doctor.",
+            "Hospital admission and discharge report duly countersigned by hospital authority.",
+            "A certificate from applicant that he/she has not taken any money/grant from the State Govt or present employer in the form of reimbursement or medical allowance.",
+            "Details of Bank A/c No (in PNB/SBI only) and IFS Code."
+        ],
+        "faqs": [
+            {
+                "question": "Can I Take The Benefit Of This Scheme For Treatment In Any Private Or Government Hospital?",
+                "answer": "No. the financial assistance will be provided for expenditure incurred at an approved govt hospital at the rates applicable under CGHS / ECHS."
+            },
+            {
+                "question": "Can I Give Bank Details Of Any Bank?",
+                "answer": "No. Account details of only State Bank of India (SBI) or Punjab National Bank (PNB) is valid for application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://ksb.gov.in/treatment-of-serious-diseases.htm"
+            }
+        ],
+        "tags": [
+            "Ex-Servicemen",
+            "Financial Assistance",
+            "Medical Treatment",
+            "Serious Diseases"
+        ]
+    }
+}

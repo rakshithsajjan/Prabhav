@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Khadi Karigar Janashree Bima Yojana",
+        "state": "All States",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Insurance",
+        "beneficiary": "Khadi Artisans",
+        "details": "A group insurance scheme by MoMSME for khadi artisans (spinners and weavers). The scheme provides insurance cover against normal death, accidental death, permanent or partial disability of the insured artisan. Scholarships are provided to the insurer\u2019s children studying in class 9th to 12th.",
+        "benefits": [
+            "For death: Natural causes \u2013 \u20b920,000; and Accident \u2013 \u20b950,000.",
+            "For permanent disability (loss of two eyes or two limbs) \u2013 \u20b950,000.",
+            "For partial disability (loss of one eye or one limb) \u2013 \u20b925,000.",
+            "Free add-on benefit: Scholarship of \u20b9300 per quarter for children of Khadi Karigar, studying in class 9th to 12th standard, subject to a maximum of 2 children per family."
+        ],
+        "eligibility": [
+            "The applicant must be a Khadi Artisan (Khadi Karigar).",
+            "The age of the applicant must be between 18 and 59 years.",
+            "The applicant must be a member of the approved vocation/occupation groups.",
+            "The group must have a minimum of 25 members."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Proof of Age",
+            "Proof of Income (Income Certificate)",
+            "Proof of Occupation",
+            "Aadhaar",
+            "Bank Details (Aadhaar Seeded)",
+            "Death Certificate / Certificate of Disability (case specific)"
+        ],
+        "faqs": [
+            {
+                "question": "What defines \u2018permanent disability\u2019 as per this scheme?",
+                "answer": "For the purpose of this scheme, 'permanent disability' means the loss of two eyes or two limbs."
+            },
+            {
+                "question": "What is the maximum financial assistance provided for death due to natural causes?",
+                "answer": "A financial assistance of \u20b920,000 is provided for death occurring from a natural cause."
+            },
+            {
+                "question": "Are there any benefits for the children of the applicant?",
+                "answer": "Yes, there is provision for providing scholarship of \u20b9300 per quarter for children of a Khadi Karigar, studying in 9th to 12th standard, (subject to a maximum of 2 children per family)."
+            },
+            {
+                "question": "I am a 45 year old khadi weaver. I seek to know if I am too old to apply for the scheme?",
+                "answer": "The upper age limit in this scheme is 59 years. You are therefore eligible to apply."
+            },
+            {
+                "question": "Do I need to be from a particular state in order to be eligible for this scheme?",
+                "answer": "The scheme is equally applicable to citizens across all the states of India."
+            },
+            {
+                "question": "Is partial disability covered under this scheme?",
+                "answer": "Yes, partial disability, i.e. loss of one eye or one limb is completely covered in KKJBY."
+            },
+            {
+                "question": "By what means shall I be receiving the benefits of the scheme?",
+                "answer": "The scheme is under the LIC so it will be LIC who issues the benefit to the nominee of the deceased person."
+            },
+            {
+                "question": "Is the application process online?",
+                "answer": "At the moment, the scheme only supports offline process of application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://my.msme.gov.in/MyMsmeMob/MsmeScheme/Pages/1_3_1.html"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Citizen Empowerment",
+            "Entrepreneur",
+            "Insurance",
+            "Persons With Disability"
+        ]
+    }
+}

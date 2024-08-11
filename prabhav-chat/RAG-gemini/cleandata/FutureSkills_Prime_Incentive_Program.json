@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "FutureSkills Prime Incentive Program",
+        "state": "India",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Incentive Program",
+        "beneficiary": "Indian citizens",
+        "details": "The scheme 'FutureSkills Prime Incentive Program' is being administered by the MeitY (Ministry of Electronics and Information Technology) to promote a novel skilling ecosystem in the country. The program incentivizes the cost of eligible courses, providing authentic and accredited certifications that are acceptable in the industry. FutureSkills Prime has introduced a first-of-its-kind incentive program for digital upskilling, allowing learners to upskill in 10 of the most in-demand technologies and earn incentives up to \u20b9 14,500. The program covers Foundation, Bridge, and Deep Skilling courses across technologies, including AI, IoT, Big Data Analytics, Cloud Computing, Cybersecurity, etc.",
+        "benefits": [
+            "Incentives up to \u20b914,500 for eligible courses",
+            "50% reimbursement of course fees for Deep Skilling courses",
+            "Assessment reimbursement of \u20b9600 for successful certifications",
+            "Multiple course enrollment options"
+        ],
+        "eligibility": [
+            "Applicant must be a citizen of India",
+            "Open to all Indian citizens regardless of age, educational qualification, or income level",
+            "Incentive can be availed for all courses offered on the FutureSkills Prime platform, except for free courses",
+            "Incentive can be availed only once for each course"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card",
+            "Bank Account Statement Showing the Account Number and IFSC Code",
+            "Course Completion Certificate",
+            "Assessment Completion Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "Can a learner apply for incentives before completing the course?",
+                "answer": "No, the incentives are provided after successful course completion and certification."
+            },
+            {
+                "question": "Is there a limit to the number of courses one can enroll in simultaneously?",
+                "answer": "There's no specified limit on the number of courses one can enroll in."
+            },
+            {
+                "question": "How is the incentive amount disbursed to learners?",
+                "answer": "The incentive will be credited to the applicant's bank account within 30 days of submitting the application."
+            },
+            {
+                "question": "Who is eligible to participate in this program?",
+                "answer": "The program is open to all Indian citizens, with no restrictions based on age, educational qualifications, or income levels."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/fspip"
+            },
+            {
+                "type": "Terms & Conditions",
+                "url": "https://futureskillsprime.in/terms-and-conditions"
+            },
+            {
+                "type": "Eligibility & FAQs",
+                "url": "https://futureskillsprime.in/govt-of-India-incentives"
+            }
+        ],
+        "tags": [
+            "Digital Skilling",
+            "Incentive Program",
+            "FutureSkills Prime",
+            "Skill Development"
+        ]
+    }
+}

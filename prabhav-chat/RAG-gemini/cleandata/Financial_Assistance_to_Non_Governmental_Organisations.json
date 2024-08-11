@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Financial Assistance to Non Governmental Organisations",
+        "state": "Tamil Nadu",
+        "department": "Department for the Welfare of Differently Abled Persons",
+        "type": "Financial Assistance",
+        "beneficiary": "Non Governmental Organisations (NGOs) for schools catering to children with intellectual disabilities",
+        "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu launched the scheme 'Financial Assistance to Non Governmental Organisations'. Under this scheme, funds are sanctioned to schools for children with an intellectual disability run by NGOs towards feeding charges, rent, and construction/extension of buildings.",
+        "benefits": [
+            "Financial assistance is given to the NGO for feeding charges, rent, and construction/extension of building."
+        ],
+        "eligibility": [
+            "The school for children with intellectual disability should have functioned for a minimum period of 5 years.",
+            "The school should be registered under section 51 of the Rights of Persons with Disability Act, 2016."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested NGO should visit (during office hours) the District Differently Abled Welfare Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Fill in all mandatory fields, attach copies of all mandatory documents, and submit the application form to the District Differently Abled Welfare Officer.",
+        "documents_required": [
+            "Registration Certificate (under Section 51 of the Rights of Persons with Disability Act, 2016)",
+            "Any Other Document If Required"
+        ],
+        "faqs": [
+            {
+                "question": "What expenses are covered by the financial assistance provided to NGOs?",
+                "answer": "The financial assistance provided to NGOs covers feeding charges, rent, and construction/extension of building for schools catering to children with intellectual disabilities."
+            },
+            {
+                "question": "How long should a school for children with intellectual disabilities have been operational to be eligible for funding?",
+                "answer": "Schools for children with intellectual disabilities must have been operational for a minimum period of 5 years to be eligible for funding."
+            },
+            {
+                "question": "Are there any specific guidelines or regulations governing the use of funds by NGOs?",
+                "answer": "Yes, there are specific guidelines and regulations governing the use of funds by NGOs, which should be adhered to."
+            },
+            {
+                "question": "Can NGOs use the funds for salaries of staff members?",
+                "answer": "No, funds can be utilized for approved purposes such as feeding charges, rent, and construction/extension of building, but not for salaries of staff members."
+            },
+            {
+                "question": "Can NGOs apply for financial assistance if they are not registered under Section 51 of the Rights of Persons with Disability Act, 2016?",
+                "answer": "No, NGOs need to be registered under Section 51 of the Rights of Persons with Disability Act, 2016, to be eligible for financial assistance."
+            },
+            {
+                "question": "Is there a specific timeframe for submitting applications?",
+                "answer": "While there may not be a strict timeframe, applications should be submitted within a reasonable period."
+            },
+            {
+                "question": "Who is the contact person for addressing grievances?",
+                "answer": "Grievances related to the scheme can be addressed to the Deputy Director (Schemes) at the Commissionerate for Welfare of the Differently abled."
+            },
+            {
+                "question": "Is there a limit on the amount of funding that can be requested?",
+                "answer": "While there not be a specified limit on the amount of funding, it depends on the discretion of the authorities and the availability of funds."
+            },
+            {
+                "question": "Who is responsible for receiving the application?",
+                "answer": "The application is to be submitted to the District Differently Abled Welfare Officer."
+            },
+            {
+                "question": "Are there any reporting requirements for NGOs receiving financial assistance?",
+                "answer": "NGOs receiving financial assistance may have reporting requirements to provide updates on fund utilization and program outcomes."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "NGO",
+            "Disability",
+            "Tamil Nadu"
+        ]
+    }
+}

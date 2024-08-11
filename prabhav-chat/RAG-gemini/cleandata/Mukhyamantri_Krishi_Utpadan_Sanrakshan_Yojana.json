@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Mukhyamantri Krishi Utpadan Sanrakshan Yojana",
+        "state": "Himachal Pradesh",
+        "department": "Department of Agriculture, Government of Himachal Pradesh",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "The scheme 'Mukhyamantri Krishi Utpadan Sanrakshan Yojana' was launched by the Department of Agriculture, Government of Himachal Pradesh by merging three ongoing protection based Departmental schemes namely Sour Badhbandi, Anti-Hail Net Structure & Green House Renovation Scheme into a single scheme having a common objective.",
+        "benefits": [
+            "Sour Badhbandi (Solar Fencing): Under this scheme, a subsidy of 85% is being provided if three or more farmers opt to install solar fencing, and if farmers opt to install solar fencing on individual land then an 80% subsidy is being provided.",
+            "Anti-Hail Net Structure: Financial assistance maximum of up to 80% is being provided to the eligible farmer for an area coverage maximum of up to 5000 Square Meters.",
+            "Green House Renovation Scheme: Under this scheme, 70% assistance is being provided to the farmers for the replacement of poly sheets after 5 years of setting up of polyhouse or damage due to natural calamities."
+        ],
+        "eligibility": [
+            "The beneficiary should be a permanent resident of Himachal Pradesh.",
+            "All the farmers of the state of Himachal Pradesh.",
+            "Priority will be given to small and marginal farmers for giving benefits of the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of Aadhaar card",
+            "Address proof",
+            "Bank passbook",
+            "Identity card",
+            "Mobile number",
+            "Passport-size photo",
+            "Land Details Document (Jamabandi/Khata/Khatauni Number)",
+            "Caste Certificate (If applicable)",
+            "Polyhouse training certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What are the three component of the scheme?",
+                "answer": "The three components of the scheme are Sour Badhbandi (Solar Fencing), Anti-Hail Net Structure & Green House Renovation Scheme."
+            },
+            {
+                "question": "By which department was this scheme launched?",
+                "answer": "Department of Agriculture, Government of Himachal Pradesh."
+            },
+            {
+                "question": "Who is eligible under this scheme?",
+                "answer": "All the farmers who are permanent residents of Himachal Pradesh are eligible to apply under the scheme."
+            },
+            {
+                "question": "What is the benefit of the scheme 'Sour Badhbandi (Solar Fencing)'?",
+                "answer": "Under this scheme, a subsidy of 85% is being provided if three or more farmers opt to install solar fencing, and if farmers opt to install solar fencing on individual land then an 80% subsidy is being provided."
+            },
+            {
+                "question": "What is the benefit of the scheme 'Anti-Hail Net Structure'?",
+                "answer": "Under the scheme, a financial assistance maximum of up to 80% is being provided to the eligible farmer for an area coverage maximum of up to 5000 Square Meters."
+            },
+            {
+                "question": "What is the benefit of the scheme 'Green House Renovation Scheme'?",
+                "answer": "Under this scheme, 70% assistance is being provided to the farmers for the replacement of poly sheets after 5 years of setting up of polyhouse or damage due to natural calamities."
+            },
+            {
+                "question": "How can I apply under the scheme?",
+                "answer": "The beneficiary may apply online mode."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://agriculture.hp.gov.in/en/our-scheme/mukhya-mantri-krishi-utpadan-sanrakshan-yojna/"
+            },
+            {
+                "type": "Application Process",
+                "url": "https://agridbt.hp.gov.in/agri/#/Login"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Crop Protection",
+            "Financial Assistance",
+            "Hailstorms",
+            "Solar Fencing"
+        ]
+    }
+}

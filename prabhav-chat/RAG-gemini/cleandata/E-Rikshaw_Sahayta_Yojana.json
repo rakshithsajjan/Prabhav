@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "E-Rikshaw Sahayta Yojana",
+        "state": "Chhattisgarh",
+        "department": "Chhattisgarh Unorganized Worker State Social Security Board",
+        "type": "Financial Assistance",
+        "beneficiary": "Unorganized workers, specifically auto/cycle rickshaw drivers",
+        "details": "Chhattisgarh State Government started a scheme 'E-Rikshaw Sahayta Yojana' for unorganized workers on 20 December 2016. The main objective of the scheme is to empower unorganized workers by providing them financial assistance.",
+        "benefits": [
+            "Registered unorganized labor individuals will need to cover the expenses of \u20b9 10,000 for scheme execution.",
+            "A grant of \u20b9 30,000/- will be provided by the Chhattisgarh Unorganized Worker State Social Security Board.",
+            "The remaining sum will be extended to the Rikshaw/Auto Driver as a bank loan, with the beneficiary responsible for repaying it within a specified timeframe and at the interest rate determined by the bank.",
+            "The Board will only transfer its contribution to the beneficiary's account once all the necessary loan-related documents are submitted to the board."
+        ],
+        "eligibility": [
+            "Only auto/cycle rickshaw drivers who are registered with the Chhattisgarh Unorganized Workers' State Social Security Board are eligible for this scheme.",
+            "Registered workers must be between 18 and 50 years old.",
+            "Registered workers must be registered with the RTO.",
+            "Registered workers must have a commercial vehicle driver's license.",
+            "Workers must have been registered with the Chhattisgarh Unorganized Workers' State Social Security Board for at least 90 days.",
+            "Each beneficiary can only receive the benefits of this scheme once.",
+            "Beneficiaries who have already received benefits from any other equivalent scheme offered by the state government are not eligible for the benefits of this scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card",
+            "Permanent Residence Certificate",
+            "Copy of ration card",
+            "Bank Account Details",
+            "Receipt of e-rickshaw"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Chhattisgarh State Government started a scheme 'E-Rikshaw Sahayta Yojana' for unorganized workers on 20 December 2016."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The main goal of the scheme is to empower unorganized workers by providing them with financial assistance."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "Beneficiaries will get the subsidy on purchasing the e-rikshaw."
+            },
+            {
+                "question": "Who can get the benefits?",
+                "answer": "All registered unorganized labor individuals from Chhattisgarh State."
+            },
+            {
+                "question": "What is the required age to get the benefits?",
+                "answer": "Registered workers must be between 18 and 50 years old."
+            },
+            {
+                "question": "What type of vehicle license is required to get the scheme benefits?",
+                "answer": "Registered workers must have a commercial vehicle driver's license."
+            },
+            {
+                "question": "What is the procedure to apply for the scheme?",
+                "answer": "Applicant must be registered under 'Chhattisgarh Unorganized Workers State Social Security Board'. Only then can the applicant apply for the scheme."
+            },
+            {
+                "question": "How can applicant register under Chhattisgarh Unorganized Workers State Social Security Board?",
+                "answer": "All the applicants have to visit the official website Chhattisgarh Labour Department, click on 'Apply' under 'Chhattisgarh Unorganized Workers State Social Security Board', enter the required details, check eligibility criteria, and fill out the online registration form."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "All the applicants have to visit the official website Chhattisgarh Labour Department, click on 'Apply' under 'Chhattisgarh Unorganized Workers State Social Security Board', provide the required details, fill out the application form, and submit."
+            },
+            {
+                "question": "What is the official website to apply for the scheme?",
+                "answer": "URL: https://cglabour.nic.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cglabour.nic.in/UOW/U1.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://cglabour.nic.in/"
+            }
+        ],
+        "tags": [
+            "Employment",
+            "Empowerment",
+            "Financial Assistance"
+        ]
+    }
+}

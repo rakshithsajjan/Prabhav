@@ -1,0 +1,103 @@
+{
+    "content": {
+        "title": "Bicycle/Sewing Machine Assistance Scheme (UKBOCWWB)",
+        "state": "Uttarakhand",
+        "department": "Labour Department, Government of Uttarakhand",
+        "type": "Welfare Scheme",
+        "beneficiary": "Registered building & construction workers",
+        "details": "The \u201cBicycle/Sewing Machine Assistance Scheme\u201d is a welfare scheme which is implemented by the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board (UKBOCWWB), Labour Department, Government of Uttarakhand. Under the scheme, bicycles are provided to registered building & construction workers in plain areas, while sewing machines are provided to registered workers or their dependents in mountainous/hilly areas. These benefits are granted only once in a lifetime.",
+        "benefits": [
+            "Under the scheme, bicycles are given to registered building & construction workers in plain areas.",
+            "Sewing machines are given to registered workers or their dependents in mountainous/hilly areas."
+        ],
+        "eligibility": [
+            "The applicant/beneficiary should be a resident of Uttarakhand.",
+            "The applicant should be engaged in any building or construction work.",
+            "The applicant should be registered under the Uttarakhand Building and Other Construction Workers\u2019 Welfare Board.",
+            "The applicant will become eligible for assistance only after three months from their registration.",
+            "The applicant should have an active membership of the Board.",
+            "The benefits are granted only once in a lifetime."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs. To become a beneficiary, a construction worker who has completed 18 years of age and has not completed 60 years, has worked as a construction worker for at least 90 days during the preceding 01 year, can register himself/herself. The eligible worker may visit the nearest Jan Seva Kendra or Shramik Suvidha Kendra along with all the relevant documents for online registration.",
+        "documents_required": [
+            "Two Passport size photographs",
+            "Proof of age",
+            "Certificate of working as a construction worker for at least 90 days in the previous year",
+            "Affidavit of construction worker attested by notary",
+            "Voter ID card",
+            "Ration card",
+            "[Self-declaration](https://ukbocw.uk.gov.in/images/Labour%20Registration.pdf) certificate",
+            "Nominee\u2019s Identity proof i.e. Aadhaar Card",
+            "Bank account details",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "Registered building & construction workers in plain areas receive bicycles, while sewing machines are provided to registered workers or their dependents in mountainous/hilly areas."
+            },
+            {
+                "question": "Are the benefits granted more than once?",
+                "answer": "No, these benefits are granted only once in a lifetime to eligible beneficiaries."
+            },
+            {
+                "question": "Who is eligible to apply for assistance under this scheme?",
+                "answer": "Eligibility criteria include being a resident of Uttarakhand, engaging in building or construction work, being registered under UKBOCWWB, having active membership, and becoming eligible for assistance three months after registration."
+            },
+            {
+                "question": "How can one apply for new registration under UKBOCWWB?",
+                "answer": "Applicants meeting the eligibility criteria can register online or visit the nearest Jan Seva Kendra or Shramik Suvidha Kendra with relevant documents."
+            },
+            {
+                "question": "Is there a cost for registration under UKBOCWWB?",
+                "answer": "Registration is free for the first three years. Afterward, a \u20b9100 contribution is required every three years."
+            },
+            {
+                "question": "Can the status of registration application be tracked online?",
+                "answer": "The applicant can track the status of their application online by visiting the official website: https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+            },
+            {
+                "question": "What is the application process for availing scheme benefits?",
+                "answer": "Eligible applicants can visit the nearest Shram Suvidha Kendra with relevant documents to apply for scheme benefits."
+            },
+            {
+                "question": "Is there an online option to track the application status for benefits?",
+                "answer": "The applicant can track the status of their application online by visiting the official website: https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+            },
+            {
+                "question": "How long is the registration valid for?",
+                "answer": "Registration is valid for three years initially, after which a renewal fee is required every three years."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://ukbocw.uk.gov.in/StaticPages/SpecialScheme2-hi.aspx"
+            },
+            {
+                "type": "Scheme Details (Page No. 53)",
+                "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+            },
+            {
+                "type": "Notification",
+                "url": "https://ukbocw.uk.gov.in/MediaGallery/Scheme_PDF/9and11.pdf"
+            },
+            {
+                "type": "Track Your Scheme Application Status",
+                "url": "https://ukbocw.uk.gov.in/DynamicPages/LabourSchemeSearch.aspx"
+            },
+            {
+                "type": "Track Your New Registration Application Status",
+                "url": "https://ukbocw.uk.gov.in/DynamicPages/LabourSearch-hi.aspx"
+            }
+        ],
+        "tags": [
+            "Bicycle",
+            "Sewing Machine",
+            "Building Worker",
+            "Construction Worker",
+            "Labour"
+        ]
+    }
+}

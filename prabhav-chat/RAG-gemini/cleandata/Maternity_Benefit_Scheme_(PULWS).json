@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Maternity Benefit Scheme (PULWS)",
+        "state": "Puducherry",
+        "department": "Labour Department, Union Territory of Puducherry",
+        "type": "Welfare Scheme",
+        "beneficiary": "Unorganized Workers",
+        "details": "The 'Maternity Benefit Scheme (PULWS)' is a Welfare Scheme for the Unorganized Workers in Puducherry by the 'Puducherry Unorganised Labourers' Welfare Society'. The Society extends a Maternity Benefit of \u20b9 4,000/- to the member/spouse of the member. The amount is credited through Direct Benefit Transfer (DBT) into the bank account. The applications are accepted offline.",
+        "benefits": [
+            "Maternity Benefit of \u20b9 4,000/- (not more than two children)",
+            "The amount is credited through Direct Benefit Transfer (DBT) into the bank account"
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India",
+            "The applicant should be a resident of the Union Territory of Puducherry",
+            "The applicant should be an Unorganized Worker: Taxi and Auto Drivers, Workers Employed in Shops & Catering Establishments, Carpenters, Nathaswara Vidwans, Hair Dressers, Tailors, Cycle Rickshaw Drivers, Cobblers, Washermans, Goldsmith, Blacksmith, Brass Vessel Makers, Sculptors, Loading and Unloading Workers, Tree Climbers, Pottery Workers, Coir Workers, Toddy Neera Tappers, Bullock Cart Drivers, Thatchers, Cooks, Hawkers, News Paper Vendors, Workers Engaged in Bricks and Tiles Manufacturing, One Hundred, Workers Engaged in Distribution of Liquid Petroleum Gas Cylinder, Domestic Workers, Light Music Instrument Players, Automobile Workshop Workers",
+            "The applicant should be enrolled with the Puducherry Unorganised Labourers' Welfare Society",
+            "The applicant should be between 18 to 59 years of age",
+            "The applicant should be taking an Annual Subscription of \u20b9100/- every year",
+            "The applicant should be paying a Registration Fee of \u20b925/-",
+            "The benefits are provided for up to two pregnancies"
+        ],
+        "application_process": "Offline. The interested applicant should visit the Office of the Puducherry Unorganised Labourer's Welfare Society, No.1, Rue Sufferen, Puducherry, and obtain the prescribed format of the application form free of cost from the concerned authority exclusively entrusted to issue and collect filled-in applications.",
+        "documents_required": [
+            "Two Passport-size Photographs",
+            "Residential/Domicile Certificate",
+            "Original Birth Certificate",
+            "Discharge Slip",
+            "Last Subscription Bill",
+            "Society ID Card/ Proof of Registration",
+            "Aadhaar Card",
+            "Ration Card",
+            "Bank Details",
+            "Medical Certificate issued by the competent authority"
+        ],
+        "faqs": [
+            {
+                "question": "Is there a helpline or support system for applicants facing difficulties in the application process?",
+                "answer": "For assistance, applicants can reach out to the concerned authority at the Office of the Puducherry Unorganised Labourer's Welfare Society, No.1, Rue Sufferen, Puducherry."
+            },
+            {
+                "question": "Are there any specific locations where the application forms are available, or is it only at the main office?",
+                "answer": "The application forms can be obtained from the Office of the Puducherry Unorganised Labourer's Welfare Society, No.1, Rue Sufferen, Puducherry."
+            },
+            {
+                "question": "How can an applicant request a receipt or acknowledgement for the submitted Maternity Benefit Scheme application?",
+                "answer": "The applicant should request a receipt or acknowledgement from the concerned authority to whom the application form has been submitted."
+            },
+            {
+                "question": "Is self-attestation required for attaching documents with the application?",
+                "answer": "Yes, applicants need to self-attest the copies of mandatory documents while submitting the application."
+            },
+            {
+                "question": "Can a pregnant woman apply for the Maternity Benefit Scheme at any point during her pregnancy?",
+                "answer": "Interested applicants should apply as early as possible during their pregnancy."
+            },
+            {
+                "question": "What is the maximum number of pregnancies for which benefits are provided under the Maternity Benefit Scheme?",
+                "answer": "The benefits are provided for up to two pregnancies under the scheme."
+            },
+            {
+                "question": "How much is the Annual Subscription for the Maternity Benefit Scheme, and who is required to pay it?",
+                "answer": "The applicant needs to pay an annual subscription of \u20b9100 every year."
+            },
+            {
+                "question": "What occupations are considered as 'Unorganized Workers' under the scheme?",
+                "answer": "Occupations such as taxi and auto drivers, workers employed in shops and catering establishments, carpenters, hairdressers, cobblers, and various others are considered as unorganized workers eligible for the scheme."
+            },
+            {
+                "question": "Are applications for the Maternity Benefit Scheme accepted online or offline?",
+                "answer": "Applications for the scheme are accepted offline."
+            },
+            {
+                "question": "What is the mode of payment for the maternity benefit under the scheme?",
+                "answer": "The maternity benefit of \u20b94,000 is transferred through Direct Benefit Transfer (DBT) into the bank account."
+            },
+            {
+                "question": "Who administers the 'Maternity Benefit Scheme (PULWS)' in Puducherry?",
+                "answer": "The scheme is administered by the Puducherry Unorganised Labourers' Welfare Society under the Labour Department, Union Territory of Puducherry."
+            },
+            {
+                "question": "What documents are required for applying to the Maternity Benefit Scheme?",
+                "answer": "The necessary documents include two passport-size photographs, residential/domicile certificate, original birth certificate, discharge slip, last subscription bill, society ID card/proof of registration, Aadhaar card, ration card, bank details, and a medical certificate issued by the competent authority."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://labour.py.gov.in/sites/default/files/citizens-charter-2020.pdf"
+            }
+        ],
+        "tags": [
+            "Maternity",
+            "Medical",
+            "Mother",
+            "Pregnant"
+        ]
+    }
+}

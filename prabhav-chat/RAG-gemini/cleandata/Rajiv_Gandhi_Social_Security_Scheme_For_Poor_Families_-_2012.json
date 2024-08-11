@@ -1,0 +1,105 @@
+{
+    "content": {
+        "title": "Rajiv Gandhi Social Security Scheme For Poor Families - 2012",
+        "state": "Puducherry",
+        "department": "Department of Revenue and Disaster Management",
+        "type": "Financial Assistance",
+        "beneficiary": "Below Poverty Line Families",
+        "details": "The scheme 'Rajiv Gandhi Social Security Scheme for Poor Families - 2012' was started by the Department of Revenue and Disaster Management, Union Territory of Puducherry on 25.03.2011. The objective of the scheme is to provide financial assistance to all the below Poverty Line Family members in the Union Territory of Puducherry in the age group of 18-60 years, in the event of natural and unnatural death, partial total disability, and permanent total disability due to accidents.",
+        "benefits": [
+            "Natural death: \u20b930,000/-",
+            "Unnatural death: \u20b975,000/-",
+            "Permanent Total Disability (PTD) due to an accident: \u20b975,000/-",
+            "Partial Permanent Total Disability due to accident: \u20b937,500/-"
+        ],
+        "eligibility": [
+            "The deceased/disabled person for whom the claim is made shall be a member of the Below Poverty Line (BPL) family.",
+            "The age of the applicant/member should be between 18-60 years.",
+            "The applicant should be a permanent resident of the Union Territory of Puducherry.",
+            "The annual family income of the applicant shall not be more than \u20b975,000/-."
+        ],
+        "exclusions": [
+            "A beneficiary under this scheme is not eligible to avail any other benefit in a scheme operated by the Government of India / Government of Puducherry / Local Bodies of Puducherry Government."
+        ],
+        "application_process": "Offline. The claim application form is available in all the respective Taluk/Sub-Taluk Offices free of cost. The claim application form can also be downloaded from the official website.",
+        "documents_required": [
+            "Attested photocopy of the BPL Family Ration card",
+            "Original Income Certificate of the family issued by the Tahsildar/Deputy Tahsildar Taluk/Sub-Taluk Office",
+            "Original Death Certificate issued by the competent authority",
+            "Original Disability Certificate issued by the competent authority in case of accident to the member",
+            "Attested photocopy of the (i) F.I.R (ii) Post-mortem report (iii) Police Inquest report in case of the accidental/unnatural death",
+            "Attested photocopy of the Ration Card or Aadhaar Card",
+            "The attested photocopy of the first page of the bank account of any nationalized bank maintained by the claimant/beneficiary"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of the scheme is to provide financial assistance to all the below poverty line family members in the Union Territory of Puducherry in the age group of 18-60 years, in the event of natural and unnatural death, partial total disability, and permanent total disability due to accidents."
+            },
+            {
+                "question": "Which is the implementing department of the scheme?",
+                "answer": "Department of Revenue and Disaster Management, Union Territory of Puducherry."
+            },
+            {
+                "question": "When was this scheme started?",
+                "answer": "This scheme was started on 25.03.2011."
+            },
+            {
+                "question": "What does 'Partial Total Disability' mean under the scheme?",
+                "answer": "'Partial Total Disability' shall mean a disability that is less than 40 %."
+            },
+            {
+                "question": "What does 'Permanent Total Disability' mean under the scheme?",
+                "answer": "'Permanent Total Disability' shall mean a disability that is more than 40%."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "The financial assistance is provided to the members covered under this scheme: Natural death, \u20b9 30,000/-; Unnatural death, \u20b9 75,000/-; Permanent Total Disability (PTD) due to accident, \u20b975,000/-; Partial Permanent Total Disability due to accident, \u20b937,500/-."
+            },
+            {
+                "question": "Who is eligible to get the benefits of the scheme?",
+                "answer": "The deceased/disabled person for whom the claim is made shall be a member of the Below Poverty Line family in the age group of 18-60 years and is eligible to get the benefits of the scheme."
+            },
+            {
+                "question": "What is the income criterion under the scheme?",
+                "answer": "The annual family income shall not be more than \u20b975,000/-."
+            },
+            {
+                "question": "Is this scheme only for a permanent resident of the Union Territory of Puducherry?",
+                "answer": "Yes, the applicant should be a resident of the Union Territory of Puducherry."
+            },
+            {
+                "question": "Where can an applicant get the application form?",
+                "answer": "The claim application form is available in all the respective Taluk/Sub-Taluk Offices free of cost. The claim application form can also be downloaded from the official website."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification",
+                "url": "https://cdn.s3waas.gov.in/s3b4288d9c0ec0a1841b3b3728321e7088/uploads/2022/05/2022051783.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://puducherry-dt.gov.in/scheme/rajiv-gandhi-social-security-scheme/"
+            },
+            {
+                "type": "Application Form-A",
+                "url": "https://cdn.s3waas.gov.in/s3b4288d9c0ec0a1841b3b3728321e7088/uploads/2017/05/2018040532.pdf"
+            },
+            {
+                "type": "Application Form-B",
+                "url": "https://cdn.s3waas.gov.in/s3b4288d9c0ec0a1841b3b3728321e7088/uploads/2017/05/2018040549.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Financial Assistance",
+            "Natural Death",
+            "Partial Total Disability",
+            "Permanent Total Disability",
+            "Poverty Line Family",
+            "Social Security",
+            "Unnatural Death"
+        ]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "content": {
+        "title": "Surakshit Matritva Aashwasan Yojana",
+        "state": "India",
+        "department": "Ministry Of Health & Family Welfare",
+        "type": "Maternity Benefit",
+        "beneficiary": "Pregnant women and newborns",
+        "details": "SUMAN Yojana or Surakshit Matritva Aashwasan Yojana is a maternity benefit initiative launched by the Ministry of Union Health and Family Welfare. This program provides affordable and quality healthcare solutions to pregnant women and newborns. Under this scheme, pregnant women, sick newborns, and mothers receive zero expense access up to six months after delivery. They receive treatment from quality hospitals and professionals. The PMSMA programme allows four antenatal check-ups during the 1st trimester and check-ups under Pradhan Mantri Surakshit Matritva Abhiyan.",
+        "benefits": [
+            "Zero expense delivery and C-section facilities at public health facilities.",
+            "Four antenatal check-ups, one check-up during the 1st trimester, and one check-up under Pradhan Mantri Surakshit Matritva Abhiyan.",
+            "Coverage for Tetanus-Diphtheria injection, iron-folic acid supplementation, six home-based newborn care visits, and components of the ANC package.",
+            "Free transport from home to the health facility and drop back after discharge.",
+            "Counseling and IEC/BCC facilities for safe motherhood.",
+            "Hassle-free access to all medical facilities."
+        ],
+        "eligibility": [
+            "Pregnant women from all categories, including APL and BPL.",
+            "Newborns aged 0 to 6 months old.",
+            "Lactating mothers up to 6 months from delivery."
+        ],
+        "exclusions": [],
+        "application_process": "Individuals have to visit civil hospitals in their respective areas to register themselves for the PM SUMAN Yojana. They must fulfill the eligibility criteria and submit the required documents to register for the scheme.",
+        "documents_required": [
+            "Identity proof, comprising Aadhaar card, PAN card, driving license, voter ID card, etc.",
+            "Women's pregnancy details from a concerned hospital.",
+            "Address proof, such as valid passport, Aadhaar card, utility bill, property tax bill, telephone bill, etc."
+        ],
+        "faqs": [
+            {
+                "question": "What Is The Primary Aim Of SUMAN Yojana?",
+                "answer": "This scheme aims to stabilise population, ensuring optimal maternal and child health and family planning."
+            },
+            {
+                "question": "Is SUMAN Yojana Applicable For Every Woman?",
+                "answer": "Yes, SUMAN Yojana is applicable for every pregnant woman. They have to register themselves in a civil hospital."
+            },
+            {
+                "question": "What Is Infant Mortality Rate?",
+                "answer": "Infant mortality rate (IMR) is the number of deaths per 1,000 live births of children under one year of age."
+            },
+            {
+                "question": "What Is The Maternal Mortality Rate?",
+                "answer": "Maternal mortality refers to deaths due to complications from pregnancy or childbirth."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/suman"
+            }
+        ],
+        "tags": [
+            "Maternity",
+            "Healthcare",
+            "Government Scheme"
+        ]
+    }
+}

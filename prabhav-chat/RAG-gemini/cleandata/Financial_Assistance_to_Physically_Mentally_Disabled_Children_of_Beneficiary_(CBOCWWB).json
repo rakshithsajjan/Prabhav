@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Financial Assistance to Physically/Mentally Disabled Children of Beneficiary (CBOCWWB)",
+        "state": "Chandigarh",
+        "department": "Labour Department, Chandigarh",
+        "type": "Financial Assistance",
+        "beneficiary": "Registered construction workers with children having a disability of 40% or more",
+        "details": "The scheme 'Financial Assistance to Physically/Mentally Disabled Children of Beneficiary' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, registered construction workers whose child has a disability of 40% or more will receive financial assistance.",
+        "benefits": [
+            "Financial assistance of \u20b91000/- per month for each child with a disability of 40% or more.",
+            "The benefit is admissible only till such time the child is alive.",
+            "The benefit is given for a maximum of two children."
+        ],
+        "eligibility": [
+            "The beneficiary should be working in an Establishment registered under the Punjab Labour Welfare Fund Act, 1965.",
+            "Registered construction workers whose child has a disability of 40% or more are eligible to apply under the scheme.",
+            "This benefit is for a maximum of two children.",
+            "The applicant shall be eligible to avail the benefit of the scheme only after 06 months of becoming a member of the Board."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport size photograph",
+            "Filled-in/signed form of CBOCW Board",
+            "Copy of Aadhaar Card of applicant",
+            "BOCW Card, if any",
+            "Copy of Aadhaar Card of nominee",
+            "Bank details",
+            "Receipt of payment file",
+            "Any other relevant documents",
+            "Disability certificate issued from competent authority",
+            "Copy of salary slip of the worker"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Financial Assistance to Physically/Mentally Disabled Children of Beneficiary' scheme?",
+                "answer": "The scheme was initiated by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. It provides financial assistance to registered construction workers whose child has a disability of 40% or more."
+            },
+            {
+                "question": "Who is eligible to receive benefits under this scheme?",
+                "answer": "Registered construction workers in Chandigarh are eligible for benefits if their child has a disability of 40% or more."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Under the scheme, eligible workers will receive a financial assistance of \u20b91000/- per month for each child with a disability of 40% or more."
+            },
+            {
+                "question": "How long will the financial assistance be provided?",
+                "answer": "The financial assistance will be provided only until the child is alive."
+            },
+            {
+                "question": "Is there a limit to the number of children eligible for financial assistance?",
+                "answer": "Yes, the benefit is provided for a maximum of two children per registered construction worker."
+            },
+            {
+                "question": "When can an applicant start availing the benefits of the scheme?",
+                "answer": "The applicant shall be eligible to avail the benefits of the scheme only after six months of becoming a member of the Board."
+            },
+            {
+                "question": "Can a construction worker apply for the scheme immediately upon becoming a member of the Board?",
+                "answer": "No."
+            },
+            {
+                "question": "Can an applicant apply for the scheme on behalf of a child with a disability of less than 40%?",
+                "answer": "No, the financial assistance under the scheme is specifically for children with a disability of 40% or more."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme 'FINANCIAL ASSISTANCE TO PHYSICALLY / MENTALLY DISABLED CHILDREN OF BENEFICIARY' under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://labour.chd.gov.in/PublicPages/mentally-disabled-children-of-beneficiary.aspx"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&newLink=N&%3Ccsrf:token%20uri=%27serviceLinkHome.html%27/%3E"
+            },
+            {
+                "type": "User Manual",
+                "url": "http://labour.chd.gov.in/pdf/LWB.pdf"
+            }
+        ],
+        "tags": [
+            "Construction Worker",
+            "Financial Assistance",
+            "Labour",
+            "Mentally Disabled Child",
+            "Physically Disabled Child",
+            "PwD"
+        ]
+    }
+}

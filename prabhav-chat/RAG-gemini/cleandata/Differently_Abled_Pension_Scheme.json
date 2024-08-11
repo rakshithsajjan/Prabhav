@@ -1,0 +1,106 @@
+{
+    "content": {
+        "title": "Differently Abled Pension Scheme",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Pension",
+        "beneficiary": "Differently-abled persons",
+        "details": "The 'Differently Abled Pension Scheme' is a state scheme launched by the Social Welfare and Women Empowerment Department, Tamil Nadu. The scheme aims to provide a pension of \u20b91,000/- to differently-abled persons with disability 40% and above. One free saree to females and one free dhoti to males is given on Pongal and Diwali. A nutritious meal is provided to the beneficiaries through the Anganwadi Centres.",
+        "benefits": [
+            "\u20b91,000/- per month pension",
+            "One free dhoti to a male pensioner during Pongal and Deepavali",
+            "One free saree to a female pensioner during Pongal and Deepavali",
+            "2kg/month of rice for those taking nutritious meals from Anganwadi Centres",
+            "4kg/month of rice for those not taking nutritious meals from Anganwadi Centres"
+        ],
+        "eligibility": [
+            "The applicant should be 18 years or above in age.",
+            "The applicant should have a disability of 40% or above.",
+            "The applicant should not be employed in government or government-affiliated organizations.",
+            "If the applicant is employed permanently in the private sector institutions and drawing monthly salaries, OR if the applicant is self-employed, his/her income should not exceed \u20b9 3,00,000/- per annum."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs. The applicant should gather copies of the necessary documents needed to apply for the concerned scheme, visit the nearest Common Service Center (CSC) for biometric verification, fill in the application form, and request a receipt or acknowledgment.",
+        "documents_required": [
+            "Applicant's Photo",
+            "Aadhaar Card",
+            "Proof of Age",
+            "Aadhaar Consent Form",
+            "Smart Ration Card or Any Address Proof",
+            "Self\u2013declaration of Applicant",
+            "Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License (Optional))",
+            "Bank Passbook",
+            "Differently Abled ID card"
+        ],
+        "faqs": [
+            {
+                "question": "Is there a time limit to apply for this scheme?",
+                "answer": "No, the Differently Abled Pension Scheme is an ongoing initiative, and you can apply at any time."
+            },
+            {
+                "question": "Will the application process cost me anything?",
+                "answer": "No, applying for the Differently Abled Pension Scheme is completely free."
+            },
+            {
+                "question": "I live in a remote area with limited internet access. Are there alternative ways to access the application form?",
+                "answer": "You can visit the CSC and request a printed copy of the application form."
+            },
+            {
+                "question": "Do I need to renew my application every year to continue receiving the benefits?",
+                "answer": "No, once approved, you don't need to reapply every year."
+            },
+            {
+                "question": "I am a transgender person. Which free clothing (dhoti/saree) should I choose on the application form?",
+                "answer": "Consult the CSC staff for guidance on selecting the appropriate clothing based on your self-identification."
+            },
+            {
+                "question": "What happens to the free clothes (dhoti/saree) if I cannot attend the distribution event?",
+                "answer": "In most cases, the clothes can be collected later from the designated distribution centers."
+            },
+            {
+                "question": "Can I apply for the scheme online without visiting the CSC?",
+                "answer": "Currently, the application process requires visiting the nearest Common Service Center (CSC)."
+            },
+            {
+                "question": "I am self-employed and earn more than \u20b93,00,000/- annually. Am I still eligible?",
+                "answer": "No, if you are self-employed and your annual income exceeds \u20b93,00,000/-, you wouldn't be eligible for this scheme."
+            },
+            {
+                "question": "I am a differently-abled person with a 35% disability. Am I eligible for the scheme?",
+                "answer": "Unfortunately, no. The scheme requires a minimum disability of 40% and above to be eligible."
+            },
+            {
+                "question": "Is there a specific timeline for collecting the free rice from the Anganwadi center?",
+                "answer": "Yes, each Anganwadi center will have its own designated distribution days and timings."
+            },
+            {
+                "question": "Can I choose the color or design of the free clothes (dhoti/saree)?",
+                "answer": "No, the scheme typically provides pre-selected colors and designs."
+            },
+            {
+                "question": "I am interested in volunteering to help with the distribution of free clothes. Who can I contact?",
+                "answer": "You can contact the Social Welfare Department or local NGOs involved in the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://tnlegalservices.tn.gov.in/swwe/Annexure_English.pdf"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/daps"
+            }
+        ],
+        "tags": [
+            "Differently-abled",
+            "Pension",
+            "Financial Assistance",
+            "Tamil Nadu"
+        ]
+    }
+}

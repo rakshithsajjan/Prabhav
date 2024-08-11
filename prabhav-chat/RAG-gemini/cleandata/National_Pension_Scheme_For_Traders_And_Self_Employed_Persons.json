@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "National Pension Scheme For Traders And Self Employed Persons",
+        "state": "Not specified",
+        "department": "Ministry Of Labour and Employment",
+        "type": "Pension Scheme",
+        "beneficiary": "Small Scale Traders and Retailers",
+        "details": "A voluntary and contributory pension scheme by the Ministry of Labour and Employment. This scheme is meant for old age protection and social security of Small Scale Traders and Retailers. The beneficiary would receive a minimum assured pension of \u20b9 3000/- per month after attaining the age of 60 years and if the beneficiary dies, the spouse of the beneficiary shall be entitled to receive 50% of the pension as a family pension. A family pension is applicable only to spouses. Vyaparis, who are self-employed and are working as shop owners, retail traders, rice mill owners, oil mill owners, workshop owners, commission agents, brokers of real estate, owners of small hotels, restaurants, and other Vyaparis with similar occupations whose annual turnover does not exceed \u20b9 1.5 crores are eligible to get benefit under the scheme.",
+        "benefits": [
+            "Minimum assured pension of \u20b9 3000/- per month after age 60",
+            "Family pension of 50% for spouse upon beneficiary's death",
+            "Pension amount helps aid financial requirements",
+            "Tribute to workers in the Unorganized sectors contributing to GDP"
+        ],
+        "eligibility": [
+            "Self-employed shop owner or retail owner or vyapari",
+            "Age between 18 to 40 years",
+            "Annual turnover of the business should not exceed \u20b9 1.5 crores"
+        ],
+        "exclusions": [
+            "Covered under any National Pension Scheme contributed by the Central Government or member of EPFO/NPS/ESIC",
+            "An income taxpayer",
+            "Enrolled under Pradhan Mantri Shram Yogi Maandhan Yojana or Pradhan Mantri Kisan Maandhan Yojana"
+        ],
+        "application_process": "The interested eligible person shall visit the nearest CSC center and follow the enrollment process including providing Aadhaar Card and bank account details.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Savings/Jan Dhan Bank Account details along with IFSC Code"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply to this scheme?",
+                "answer": "Any retail trader, shopkeepers and self-employed person with annual turn-over not exceeding Rs.1.5 crore, in the age group of 18-40 year can subscribe this Scheme."
+            },
+            {
+                "question": "How much pension would be received through this scheme and at what age?",
+                "answer": "Under the Scheme, a minimum monthly assured pension of Rs. 3000/- will commence after the beneficiary attains the age of 60 years."
+            },
+            {
+                "question": "How can I enrol for this scheme?",
+                "answer": "The beneficiary may visit the nearest Common Service Centre and get enrolled in the scheme using her/his Aadhar number and savings bank account/Jan-Dhan account number."
+            },
+            {
+                "question": "Is there a fee for enrollment in this scheme?",
+                "answer": "There is no administrative cost to the beneficiary as it is a Social Security Scheme of the Government of India."
+            },
+            {
+                "question": "Is there a provision for family pension?",
+                "answer": "Yes, there is a provision for family pension under the scheme, applicable only to the spouse of the beneficiary."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/nps-tsep"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Social Security",
+            "Traders",
+            "Self Employed"
+        ]
+    }
+}

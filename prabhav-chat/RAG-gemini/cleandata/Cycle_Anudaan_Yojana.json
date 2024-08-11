@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Cycle Anudaan Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Labour Department",
+        "type": "Financial",
+        "beneficiary": "Construction Workers",
+        "details": "Saikil Anudaan Yojana is an initiative by the Labour Department, Madhya Pradesh. Its aim is to provide transportation facilities to construction workers registered under the MP Building and Other Construction Workers Welfare Board. The government recognized that laborers working in Madhya Pradesh often have to travel long distances to reach their workplaces. Many of these laborers lack proper means of transportation to reach the work site, forcing them to rely on alternative methods and incur additional expenses. This, in turn, increases their financial burden.",
+        "benefits": [
+            "Financial Assistance: 90 percent of actual expenditure or \u20b94,000/- whichever is less."
+        ],
+        "eligibility": [
+            "Applicant must be a registered construction worker of the division with a valid identity card.",
+            "Applicant can get the scheme benefits only at once.",
+            "Applicant must be working as registered construction workers for 3 consecutive years.",
+            "Bicycle purchased on a grant will be prohibited from sale for 3 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The applicant has to submit the application form in the prescribed format and within the time limit to the office of the designated officer. Rural Area - Chief Executive Officer, Janpad Panchayat; Urban Area - Commissioner, Municipal Corporation/Chief Municipal Officer, Municipality/Municipal Council. Apply duration: Within 03 months from the date of purchase of the cycle.",
+        "documents_required": [
+            "Prescribed application form",
+            "Labor registration card/copy",
+            "Cycle purchase bill copy"
+        ],
+        "faqs": [
+            {
+                "question": "What is the scheme?",
+                "answer": "A labor department initiated a scheme 'Cycle Anudan Yojana' in 2018 for the construction worker of Madhya Pradesh and provide them financial assistance for cycle."
+            },
+            {
+                "question": "What benefits are provided?",
+                "answer": "Financial assistance will be provided."
+            },
+            {
+                "question": "How much financial assistance will be provided?",
+                "answer": "Maximum 90% of actual expenditure or \u20b94,000/- whichever is less."
+            },
+            {
+                "question": "Who can get the scheme benefits?",
+                "answer": "A registered construction worker will fulfill the eligibility criteria."
+            },
+            {
+                "question": "Can applicant get the scheme benefits twice?",
+                "answer": "No, Applicant can only get the benefits at once."
+            },
+            {
+                "question": "How long does an applicant need to be registered as a construction worker before they can apply for scheme benefits?",
+                "answer": "Applicant must be working as registered construction workers for 3 consecutive years."
+            },
+            {
+                "question": "Can beneficiary sell his/her cycle after the purchase?",
+                "answer": "Yes, but after the 3 years."
+            },
+            {
+                "question": "Is there any time limit to claim the scheme benefits?",
+                "answer": "Yes, within 03 months from the date of purchase of the cycle."
+            },
+            {
+                "question": "How to get the scheme benefits?",
+                "answer": "Applicant need to visit the below offices to get the benefit. 1. Rural Area - Chief Executive Officer, Janpad Panchayat 2. Urban Area - Commissioner, Municipal Corporation/Chief Municipal Officer, Municipality/Municipal Council."
+            },
+            {
+                "question": "What Documents are required?",
+                "answer": "1. Prescribed application form. 2. Labor registration card/copy. 3. Cycle purchase bill copy."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=775"
+            },
+            {
+                "type": "Details",
+                "url": "https://labour.mp.gov.in/Public/Pages/Schemes/SaykalAnudanYojna.aspx"
+            }
+        ],
+        "tags": [
+            "Cycle",
+            "Financial",
+            "Transportation",
+            "Workers"
+        ]
+    }
+}

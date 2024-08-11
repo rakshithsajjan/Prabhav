@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Mahila Samman Savings Certificate",
+        "state": "India",
+        "department": "Ministry Of Finance",
+        "type": "Savings Scheme",
+        "beneficiary": "Women and Girl Children",
+        "details": "The scheme 'Mahila Samman Savings Certificate' was launched by the Department of Economic Affairs, Ministry of Finance to provide financial security to every girl and woman in India. The scheme aims at enabling enhanced access to the scheme for girls/women and is available for subscription in Post Offices and eligible Scheduled Banks. The scheme has been in operation since April 1, 2023, and is valid for a two-year period up to 31st March 2025.",
+        "benefits": [
+            "Provides attractive and secured investment options to all girls and women.",
+            "Offers an attractive and fixed interest of 7.5% compounded quarterly.",
+            "Tenure of the scheme is two years.",
+            "Interest is credited to the account quarterly."
+        ],
+        "eligibility": [
+            "Applicants must have Indian citizenship.",
+            "This scheme is only for women and girl children.",
+            "Any Individual Woman can apply under the scheme.",
+            "Minor accounts can be opened by the guardian.",
+            "No upper age limit for women to avail the benefits."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Applicants can visit the nearest Post Office Branch or a designated bank to apply.",
+        "documents_required": [
+            "Passport size photograph",
+            "Proof of age, i.e. Birth Certificate",
+            "Aadhaar Card",
+            "PAN Card",
+            "Pay-in-Slip along with deposit amount or cheque",
+            "Valid documents for identification and address proof (Passport, Driving license, Voter\u2019s ID card, Job card issued by NREGA, Letter issued by the National Population Register)"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Mahila Samman Savings Certificate' scheme?",
+                "answer": "It is a small savings scheme introduced by the Government of India for women with a maturity period of two years."
+            },
+            {
+                "question": "What is the interest rate of the Mahila Samman Savings Certificate?",
+                "answer": "The interest rate is 7.5% p.a., credited quarterly and paid at the time of closure of the account."
+            },
+            {
+                "question": "Who can open an account under the scheme?",
+                "answer": "A woman for herself or a guardian on behalf of a minor girl."
+            },
+            {
+                "question": "What is the benefit of the scheme?",
+                "answer": "Women will get a 7.5% interest p.a. for the one-time deposit made by them at the end of two years."
+            },
+            {
+                "question": "Where to open under the scheme?",
+                "answer": "Applicants can open an account through their nearest Post Office Branch or Bank."
+            },
+            {
+                "question": "When is the investment period for this scheme?",
+                "answer": "The scheme is available for investment for a duration of two years, starting from April 1, 2023, to March 31, 2025."
+            },
+            {
+                "question": "What is the minimum and maximum investment allowed?",
+                "answer": "The minimum investment amount for this scheme is \u20b91000/-, while the maximum deposit in a single account is capped at \u20b92 lakhs."
+            },
+            {
+                "question": "When does the maturity of the account occur?",
+                "answer": "After two years from the date of opening, the eligible balance will be paid to the depositor."
+            },
+            {
+                "question": "Can the Mahila Samman Savings Certificate be closed prematurely?",
+                "answer": "Yes, investors can close the account before two years in certain situations, including after six months of opening without providing any reason."
+            },
+            {
+                "question": "How does the withdrawal process work?",
+                "answer": "40% of the eligible balance can be withdrawn after one year from the date of account opening."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification",
+                "url": "https://www.indiapost.gov.in/VAS/DOP_PDFFiles/MSSC/Mahila_Samman_Savings_Certificate_2023_English.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1936386"
+            }
+        ],
+        "tags": [
+            "Savings",
+            "Women Empowerment",
+            "Financial Security",
+            "Investment"
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "content": {
+        "title": "Durghatana Mein Chikitsa Sahaayata Yojana",
+        "state": "Chhattisgarh",
+        "department": "Labor Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Labor Workers",
+        "details": "'Chhattisgarh Durghatana Mein Chikitsa Sahaayata Yojana' has been started by the Chhattisgarh Government and manage/run by the Chhattisgarh, Labor Department.",
+        "benefits": [
+            "To the registered beneficiaries, medical assistance of \u20b9 20,000/- or the actual expenditure incurred on the treatment, whichever is less, will be provided."
+        ],
+        "eligibility": [
+            "The applicant must be a permanent resident of Chhattisgarh state.",
+            "It is mandatory for construction workers to be registered in any district.",
+            "Must have completed 90 days as a laborer in the board."
+        ],
+        "exclusions": [],
+        "application_process": "Registered construction workers can apply through any CSC center or labor office. Get the application form. Fill out with required details. Attach the necessary documents.",
+        "documents_required": [
+            "Aadhar card.",
+            "Permanent residence certificate.",
+            "Bank account details.",
+            "Hospital certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is the benefits of the scheme?",
+                "answer": "Financial Assistance"
+            },
+            {
+                "question": "What is the maximum limit of Financial assistance?",
+                "answer": "Up to \u20b9 20,000/- (Maximum)"
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "1. The applicant must be a permanent resident of Chhattisgarh state. 2. It is mandatory for construction workers to be registered in any district."
+            },
+            {
+                "question": "What is the financial eligibility for the scheme?",
+                "answer": "There is no financial eligibility criteria."
+            },
+            {
+                "question": "Can other state applicant also apply for the scheme benefits?",
+                "answer": "No."
+            },
+            {
+                "question": "How to apply for the scholarship?",
+                "answer": "1. Registered construction workers can apply through any CSC center or labor office. 2. Get the application form. 3. Fill out with required details. 4. Attach the necessary documents."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Aadhar card. 2. Permanent residence certificate. 3. Bank account details. 4. Hospital certificate."
+            },
+            {
+                "question": "Can both male and female worker get the scheme benefits?",
+                "answer": "Yes"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/dmcsy"
+            }
+        ],
+        "tags": []
+    }
+}

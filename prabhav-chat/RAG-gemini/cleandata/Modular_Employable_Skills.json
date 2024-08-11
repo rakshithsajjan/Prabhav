@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "Modular Employable Skills",
+        "state": "Himachal Pradesh",
+        "department": "Ministry of Electronics & IT (MeitY)",
+        "type": "Skill Development Initiative Scheme",
+        "beneficiary": "Youth, Workers, ITI Graduates",
+        "details": "The Skill Development Initiative Scheme (SDIS) or Modular Employable Skills (MES) under the Indian government is aimed at improving the employability of the Indian workforce by providing vocational training. The majority of the Indian workforce lacks marketable skills, with only 5% obtaining formal vocational training. The SDIS is a public-private partnership between the government and industry to promote skills development programs for early school dropouts and existing workers, especially in the unorganized sector. The main goal is to provide employable skills and test and certify existing skills for school leavers, workers, ITI graduates, etc. The priority is given to those above 14 years of age who have been withdrawn as child labor. The SDIS aims to bring transparency and gather valuable feedback from stakeholders and the public.",
+        "benefits": [
+            "Improved employability",
+            "Flexible training",
+            "Certification",
+            "Skill development",
+            "Cost-effective",
+            "Encourages entrepreneurship"
+        ],
+        "eligibility": [
+            "Less educated/ Out of school youth/ unemployed",
+            "Workers",
+            "ITI graduates"
+        ],
+        "exclusions": [],
+        "application_process": "Offline: Visit the official website of the Directorate of Technical Education, Vocational and Industrial Training, Himachal Pradesh. Click on the 'MES Scheme' link under the 'Schemes' tab. Download the application form, fill it out, attach necessary documents, and submit it to the nearest ITI or VTP center.",
+        "documents_required": [
+            "Identity proof: Any government-issued ID card such as Aadhaar card, Voter ID, Driving license, Passport, etc.",
+            "Educational certificates: Copies of your educational certificates such as class 10 or 12 mark sheets, diploma or degree certificates.",
+            "Age proof: A birth certificate, class 10 mark sheet, or any other document that shows your date of birth.",
+            "Passport-sized photographs: Recent passport-sized photographs of the applicant.",
+            "Residential proof: Any document that shows your address such as ration card, electricity bill, water bill, etc.",
+            "Caste certificate: If applicable, a caste certificate issued by the competent authority.",
+            "Income certificate: If applicable, an income certificate issued by the competent authority."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Skill Development Initiative Scheme (SDIS)?",
+                "answer": "SDIS is a government initiative in India aimed at improving the employability of the workforce through vocational training. It is a public-private partnership between the government and industry to provide skills development programs for early school dropouts and workers in the unorganized sector."
+            },
+            {
+                "question": "Who can apply for SDIS?",
+                "answer": "The priority is given to those above 14 years who have been withdrawn as child labor, but any early school dropouts or workers in the unorganized sector can apply."
+            },
+            {
+                "question": "What is the goal of SDIS?",
+                "answer": "The goal of SDIS is to provide employable skills and certify existing skills."
+            },
+            {
+                "question": "Is there an age limit for applicants?",
+                "answer": "Yes, applicants must be above 14 years of age."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/mes"
+            },
+            {
+                "type": "Additional Information",
+                "url": "https://techedu.hp.gov.in/?q=mes-scheme"
+            }
+        ],
+        "tags": [
+            "Vocational Training",
+            "Skill Development",
+            "Employment",
+            "Youth Empowerment"
+        ]
+    }
+}

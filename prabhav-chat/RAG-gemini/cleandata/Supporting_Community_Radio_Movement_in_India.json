@@ -1,0 +1,67 @@
+{
+    "content": {
+        "title": "Supporting Community Radio Movement in India",
+        "state": "India",
+        "department": "Ministry Of Information And Broadcasting",
+        "type": "Central Sector Scheme",
+        "beneficiary": "Community Based Organizations, Educational Institutions, NGOs",
+        "details": "Community Radio is a form of local broadcasting that focuses on the needs and interests of a community. The Community Radio is an important third tier in Radio Broadcasting, distinct from Akashwani and Private FM Radio. It provides a platform to communities to air their voices on issues concerning their lives. The Community Radios are essentially low power FM Radio stations meant to be owned, set up and operated by not-for-profit community-based organizations.",
+        "benefits": [
+            "Financial assistance provided once the CRS is made operational by Licensee.",
+            "Encourages more Community Based organizations to set up Community Radios."
+        ],
+        "eligibility": [
+            "Must be a non-profit organization with a proven record of at least three years of service to the local community.",
+            "The CRS should serve a specific well-defined local community.",
+            "Ownership and management structure must reflect the community served.",
+            "Programs must be relevant to the educational, developmental, social, and cultural needs of the community.",
+            "Must be a Legal Entity registered under relevant acts.",
+            "NGOs must be registered on NITI Aayog's NGO Darpan portal."
+        ],
+        "exclusions": [
+            "Not a generic Scheme; only organizations granted permission/license for running CRS are eligible."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of the registration certificate.",
+            "Copy of the memorandum of association/bye laws.",
+            "Complete balance sheets with auditor's report for previous 3 years.",
+            "Map of service area.",
+            "Profile of organization.",
+            "Profile of community residing within 10 Km radius of CRS.",
+            "Geo-Coordinates (Latitude and Longitude) of the location for the antenna.",
+            "Details of all Governing Body Members in the prescribed format.",
+            "Processing fee of Rs. 2500/-."
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for financial assistance?",
+                "answer": "Only Operational Community Radio Stations can apply once they have completed 3 months of broadcasting after obtaining a license."
+            },
+            {
+                "question": "Can an NGO apply for financial assistance?",
+                "answer": "Yes, provided the NGO has a license to operate a Community Radio Station."
+            },
+            {
+                "question": "How to obtain a license for Community Radio?",
+                "answer": "Eligible organizations can apply online."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://mib.gov.in/sites/default/files/Guidelines%20for%20the%20Scheme%20Supporting%20Community%20Radio%20Movement%20in%20India_30.11.2021_signed.pdf"
+            },
+            {
+                "type": "Registration And Apply",
+                "url": "https://new.broadcastseva.gov.in/digigov-portal-web-app/jsp/mib/common/login.jsp"
+            }
+        ],
+        "tags": [
+            "Community Radio",
+            "Broadcasting",
+            "Non-profit",
+            "Social Development"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Financial Assistance to Indigent Tamil Scholars",
+        "state": "Puducherry",
+        "department": "Arts and Culture Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Indigent Tamil Scholars",
+        "details": "The Arts and Culture Department, Puducherry launched the scheme 'Financial Assistance to Indigent Tamil Scholars'. The scheme aims to provide financial assistance of \u20b91,500/- per month to indigent artists aged 58 years and above and contribution to Tamil language and literature must be of significance. The applications are accepted offline.",
+        "benefits": [
+            "Financial Assistance of \u20b91,500/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be an indigent artist.",
+            "The applicant's age should be 58 years and above.",
+            "The applicant should contribute to Tamil language and literature.",
+            "The income of the applicant should not exceed \u20b91,500/- per month."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The interested applicant should visit (during office hours) the Department of Art and Culture and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the superintendent, Department of Art and Culture, 1, Romain Rolland Street, Puducherry. Step 4: Request a receipt or acknowledgment from the superintendent to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "documents_required": [
+            "Identity Proof.",
+            "Proof of Age.",
+            "Any Other Document If Required."
+        ],
+        "faqs": [
+            {
+                "question": "What is the monthly financial assistance provided to indigent Tamil scholars under this scheme?",
+                "answer": "The scheme provides \u20b91,500/- per month to eligible scholars."
+            },
+            {
+                "question": "Who is eligible for this financial assistance?",
+                "answer": "Tamil scholars aged 58 years and above who have made significant contributions to Tamil language and literature are eligible."
+            },
+            {
+                "question": "Is there a maximum income limit to qualify for this assistance?",
+                "answer": "Yes, the private means of the applicant must not exceed \u20b91,500/- per month."
+            },
+            {
+                "question": "How is 'significant contribution to Tamil language and literature' defined?",
+                "answer": "A significant contribution can include published works, research, teaching, or any other substantial involvement in promoting Tamil language and literature."
+            },
+            {
+                "question": "What documents are required to prove the applicant's contribution to Tamil language and literature?",
+                "answer": "Applicants may need to provide certificates, published works, documentation demonstrating their contribution."
+            },
+            {
+                "question": "What proof is needed to show that an applicant's private means do not exceed Rs. 1,500/- per month?",
+                "answer": "Applicants must provide income statements or any other relevant financial records to verify their income."
+            },
+            {
+                "question": "How can an applicant apply for this financial assistance?",
+                "answer": "Applicants need to fill out a specific application form and submit it along with the required documentation to the designated authority."
+            },
+            {
+                "question": "Is there a deadline for applying for this assistance?",
+                "answer": "Information regarding application deadlines should be obtained from the administering body, as it may vary."
+            },
+            {
+                "question": "Can the financial assistance be stopped or withdrawn? If so, under what circumstances?",
+                "answer": "Yes, the assistance can be withdrawn if the applicant\u2019s financial situation improves beyond the specified limit, or if any false information was provided during the application process."
+            },
+            {
+                "question": "Who should be contacted for more information or assistance with the application process?",
+                "answer": "Applicants can contact the designated department or authority responsible for the scheme, which may be specified in the official notification or guidelines."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizens Charter",
+                "url": "https://art.py.gov.in//sites/default/files/ecit1.pdf"
+            }
+        ],
+        "tags": [
+            "Artist",
+            "Culture",
+            "Financial Assistance",
+            "Indigent"
+        ]
+    }
+}

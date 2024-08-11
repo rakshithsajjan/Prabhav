@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Educational Assistance (A.B.O.C.W.W.B)",
+        "state": "Assam",
+        "department": "Labour Welfare Department, Government of Assam",
+        "type": "Scholarship",
+        "beneficiary": "Children of registered construction workers",
+        "details": "The \u201cEducational Assistance\u201d scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, educational assistance/scholarship will be provided to the children of the registered construction workers who are studying in Class I to Post Graduate, to lay greater emphasis on education. Further, if the children of the construction workers pursue higher study in the Government Institution of IIT/Engineering /Medical etc. then the entire expenses will be borne by the Board on submission of proper documents from the Institution.",
+        "benefits": [
+            "Class 1 to 4: \u20b91,500/-",
+            "Class 5 to 7: \u20b92,750/-",
+            "Class 8 to 10: \u20b94,000/-",
+            "Class 11 to 12 (each year) including ITI: \u20b97,000/-",
+            "Degree Course & its equivalent courses including ITI: \u20b910,000/-",
+            "Post Graduate or equivalent classes including engineering/ medical/competitive exam: \u20b920,000/-",
+            "All Expenses for higher study in Government Institutions"
+        ],
+        "eligibility": [
+            "The applicant student should be a permanent resident of Assam.",
+            "The applicant\u2019s parent should be engaged in any building & other construction work.",
+            "The applicant\u2019s parent should be registered with the Assam Building and Other Construction Workers Welfare Board.",
+            "The parent of the applicant should have an active membership with the Board.",
+            "The students should be enrolled in educational programs from Class I to higher study levels."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs. To avail the benefits of the scheme, the eligible applicant may apply through the Official Portal.",
+        "documents_required": [
+            "ABOCWWB ID Card",
+            "Applicant's Passport size Photograph",
+            "Affidavit by the Parent",
+            "Letter from the institute signed by the head of the Institute",
+            "Attested copy of the pass certificate from the head of the Institution",
+            "Attested copy of the marksheet of the exam",
+            "Copy of Payslip of Account Paybook",
+            "Caste Certificate (Other than General category)",
+            "Attested Copy of Admission Slip",
+            "Attested Copy of Certificate from the institute signed by the head of the Institute",
+            "Any other relevant documents"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible to benefit from the Educational Assistance scheme?",
+                "answer": "Children of registered construction workers studying in Class I to higher study levels are eligible for educational assistance."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Under this scheme, educational assistance/scholarship will be provided to the children of the registered construction workers, to lay greater emphasis on education."
+            },
+            {
+                "question": "How does the scheme support higher education in government institutions?",
+                "answer": "For children of construction workers pursuing higher education in government institutions such as IIT, Engineering, Medical, etc., the Board covers the entire expenses."
+            },
+            {
+                "question": "Can the scheme be availed if the parent is in a different occupation?",
+                "answer": "No, eligibility is restricted to children whose parents are engaged in building and other construction work."
+            },
+            {
+                "question": "What is the residency requirement for applicants?",
+                "answer": "Applicant students must be permanent residents of Assam to qualify for the scheme."
+            },
+            {
+                "question": "Is registration with the Assam Building and Other Construction Workers Welfare Board mandatory?",
+                "answer": "Yes, the applicant's parent must be registered with the Assam Building and Other Construction Workers Welfare Board."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "The eligible applicants may apply through the portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labourcommissioner.assam.gov.in/portlet-innerpage/various-welfare-benefits-for-registered-construction-workers"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://abocwwb.assam.gov.in/"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://labourcommissioner.assam.gov.in/sites/default/files/swf_utility_folder/departments/coi_labour_uneecopscloud_com_oid_14/portlet/level_2/sop_bocw_online_mode_for_uploading.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Educational Assistance",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Uttar Pradesh Old Age Pension Scheme",
+        "state": "Uttar Pradesh",
+        "department": "Department of Social Welfare",
+        "type": "Pension Scheme",
+        "beneficiary": "Senior Citizens",
+        "details": "The Uttar Pradesh Old Age Pension Scheme provides financial assistance to senior citizens from economically weaker sections through monthly pension payments.",
+        "benefits": [
+            "Monthly pension Rs. 1000/-"
+        ],
+        "eligibility": [
+            "Age should be between 60 to 150.",
+            "Applicant should be below poverty line or his/her annual income should be upto for Rural Areas Rs. 46,080/- and Urban Areas Rs. 56,460/-."
+        ],
+        "exclusions": [
+            "Not eligible if the applicant is benefited from other pension schemes."
+        ],
+        "application_process": "Applicants need to visit the official website, select the option 'Old Age Pension', choose 'Apply Online', fill out the form, upload required documents (Photograph and Age certificate), and submit.",
+        "documents_required": [
+            "Photograph",
+            "Income certificate",
+            "Age Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is UP Old age pension Scheme?",
+                "answer": "The Government of Uttar Pradesh has introduced an old-age pension scheme for the benefit of the senior citizens in the state. Under this scheme, eligible senior citizens will be provided with financial assistance in the form of a monthly pension."
+            },
+            {
+                "question": "What is the eligibility?",
+                "answer": "Applicant's age should be between 60 to 150. Applicant should be below the poverty line or his/her annual income should be upto for Rural Areas Rs. 46,080/- and for Urban Areas Rs. 56,460/-."
+            },
+            {
+                "question": "What is the process to apply online?",
+                "answer": "Applicants need to visit the official website, select the option 'Old Age Pension', choose 'Apply Online', fill out the form, upload required documents (Photograph and Age certificate), and submit."
+            },
+            {
+                "question": "List of required document?",
+                "answer": "Photographs, Income certificate, Age Certificate."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/upoaps"
+            }
+        ],
+        "tags": [
+            "Old Age Pension",
+            "Uttar Pradesh",
+            "Social Welfare"
+        ]
+    }
+}

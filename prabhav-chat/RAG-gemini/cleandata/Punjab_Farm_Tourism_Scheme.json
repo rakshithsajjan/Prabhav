@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Punjab Farm Tourism Scheme",
+        "state": "Punjab",
+        "department": "Department of Tourism & Cultural Affairs, Government of Punjab",
+        "type": "Tourism",
+        "beneficiary": "Farm owners and tourists",
+        "details": "The scheme 'Punjab Farm Tourism Scheme' was launched to provide tourists with a clean, hygienic, and comfortable stay in farmhouses across Punjab. It aims to offer a cultural experience to domestic and foreign tourists through exposure to village life, while also providing additional income sources to the farming community.",
+        "benefits": [
+            "A useful source of additional income to the farm owners of the registered Farm Stay units.",
+            "Registered Farm stay units shall be allowed to use Punjab Tourism Logo on their sign boards.",
+            "Support from the Department of Tourism in marketing the Farm Stay unit through various promotional activities."
+        ],
+        "eligibility": [
+            "Farm stay units having an area of at least 2.5 acres.",
+            "Gold category requires more than 5 acres with specific accommodation standards.",
+            "Silver category requires up to 5 acres with specific accommodation standards."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Department of Tourism's web portal.",
+        "documents_required": [
+            "Checklist of facilities duly filled",
+            "Signed Declaration",
+            "Additional relevant background information, if any",
+            "Coloured photographs of the property and the rooms proposed to be let out",
+            "An affidavit for medical help and transportation facility",
+            "Approved layout of the farmhouse",
+            "Copy of ownership documents",
+            "Photo Identity proof of the owner",
+            "Proof of Ownership (NOC)",
+            "Proof of having paid the necessary fee"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Punjab Farm Tourism Scheme'?",
+                "answer": "The scheme envisages to provide to tourists with a clean, hygienic, and comfortable stay in the farmhouses spread across the State of Punjab."
+            },
+            {
+                "question": "What is the aim of this scheme?",
+                "answer": "The scheme also aims to provide a cultural experience to domestic and foreign tourists through their exposure to village life."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department of Tourism & Cultural Affairs, Government of Punjab."
+            },
+            {
+                "question": "What is the 'Farm Stay unit'?",
+                "answer": "A farm stay unit will be a property having an area of at least 2.5 acres or above with suitable accommodation built inside for providing a comfortable stay to the guests/tourists."
+            },
+            {
+                "question": "Who can apply under the scheme?",
+                "answer": "The owners of the properties in Punjab are eligible to apply under the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://pbindustries.gov.in/webportal/uploads/pdffiles/481f31afd3f5844b86e8eee060712cfa.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://punjabtourism.punjab.gov.in/"
+            },
+            {
+                "type": "Scheme/Application Portal",
+                "url": "https://eservices.punjab.gov.in/serviceLinkHome.html?serviceToken=RIsxLjrZ3Z&message=Successfully+logged+out&OWASP_CSRFTOKEN=5RH4-0KQF-9ZM5-MNHP-87A2-R662-KB75-2Y8Y"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://punjabtourism.punjab.gov.in/pdf/compliance-reduction-information-2.pdf"
+            }
+        ],
+        "tags": [
+            "Farm Tourism",
+            "Punjab",
+            "Tourism",
+            "Cultural Experience"
+        ]
+    }
+}

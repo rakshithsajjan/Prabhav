@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Kisan Credit Card",
+        "state": "India",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Credit Card",
+        "beneficiary": "Farmers",
+        "details": "The KCC Scheme was introduced with the objective of providing adequate and timely credit to the farmers for their agricultural operations. The Government of India provides interest subvention of 2% and Prompt Repayment Incentive of 3% to the farmers, thus making the credit available at a very subsidized rate of 4% per annum. The scheme was further extended for the investment credit requirement of farmers viz. allied and non-farm activities in the year 2004 and further revisited in 2012 by a working Group under the Chairmanship of Shri T. M. Bhasin, CMD, Indian Bank with a view to simplify the scheme and facilitate issue of Electronic Kisan Credit Cards.",
+        "benefits": [
+            "Interest subvention of 2% and Prompt Repayment Incentive of 3%",
+            "Credit available at a subsidized rate of 4% per annum",
+            "Flexible and simplified procedures for farmers",
+            "Support for cultivation and other agricultural needs"
+        ],
+        "eligibility": [
+            "Farmers - individual/joint borrowers who are owner cultivators",
+            "Tenant farmers, oral lessees & share croppers",
+            "Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers including tenant farmers, share croppers etc"
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline. Visit the website of the bank you wish to apply for the Kisan Credit Card scheme, choose the Kisan Credit Card option, fill the form with the required details and submit.",
+        "documents_required": [
+            "Application Form",
+            "Two Passport Size Photographs",
+            "ID proof such as Driving License / Aadhar Card / Voter Identity Card / Passport",
+            "Address Proof such as Driving License, Aadhar Card",
+            "Proof of landholding duly certified by the revenue authorities",
+            "Cropping pattern (Crops grown) with acreage",
+            "Security documents for loan limit above Rs.1.60 lakhs / Rs.3.00 lakhs, as applicable",
+            "Any other document as per sanction"
+        ],
+        "faqs": [
+            {
+                "question": "What is the validity period of the Kisan Credit Card?",
+                "answer": "This validity period is 5 years."
+            },
+            {
+                "question": "What is the age requirement in order to apply for a Kisan Credit Card?",
+                "answer": "You should be a minimum of 18 years of age and a maximum age of 75 years."
+            },
+            {
+                "question": "What is the interest rate applicable on the KCC?",
+                "answer": "The interest rate will be left to the discretion of the bank, but it is generally 7% p.a. on short-term credit."
+            },
+            {
+                "question": "What are the types of facilities available for finance under the scheme?",
+                "answer": "Kisan Credit Card & Term loan."
+            },
+            {
+                "question": "What are the security norms for financing under Kisan credit card?",
+                "answer": "For limits up to Rs.1.60 lakh, security is the hypothecation of crops. For limits above, mortgage of land or third-party guarantee is required."
+            },
+            {
+                "question": "What benefits does the Government of India provide to improve finance under KCC?",
+                "answer": "The interest subvention @2% and prompt repayment incentive benefit @3% on KCC loan."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://pib.gov.in/FactsheetDetails.aspx?Id=148600"
+            },
+            {
+                "type": "Details",
+                "url": "https://sbi.co.in/web/agri-rural/agriculture-banking/crop-loan/kisan-credit-card"
+            },
+            {
+                "type": "Notification",
+                "url": "https://rbidocs.rbi.org.in/rdocs/notification/PDFs/04MCKCC030720171E79A08735884C429CF26F5414AB36D9.PDF"
+            }
+        ],
+        "tags": [
+            "Kisan Credit Card",
+            "Agriculture",
+            "Farmers",
+            "Credit Scheme"
+        ]
+    }
+}

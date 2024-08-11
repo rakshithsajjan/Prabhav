@@ -1,0 +1,61 @@
+{
+    "content": {
+        "title": "Production Linked Incentive Scheme (pli) For Promoting Telecom & Networking Products Manufacturing In India",
+        "state": "India",
+        "department": "Department of Telecommunications",
+        "type": "Incentive Scheme",
+        "beneficiary": "Telecom and Networking Products Manufacturers",
+        "details": "The Production Linked Incentive (PLI) Scheme would promote Telecom and Networking Products manufacturing in India and accordingly, a financial incentive is proposed to boost domestic manufacturing and attract investments in the target segments of telecom and networking products in order to encourage 'Make in India'. The Scheme is also expected to boost export of telecom and networking products 'Made in India'.",
+        "benefits": [
+            "Financial incentives for domestic manufacturing",
+            "Attracts investments in telecom and networking sectors",
+            "Encourages 'Make in India' initiative",
+            "Boosts export of telecom and networking products"
+        ],
+        "eligibility": [
+            "Companies registered in India under the Companies Act 2013",
+            "Minimum Global Revenue defined as per the Scheme Guidelines",
+            "Achievement of minimum threshold of cumulative incremental investment over four years",
+            "Incremental sales of manufactured goods net of taxes",
+            "Minimum investment threshold of \u20b9 10 Crores for MSME and \u20b9 100 Crores for others"
+        ],
+        "exclusions": [
+            "Companies declared as Non-Performing Asset (NPA) as per RBI guidelines",
+            "Wilful defaulters or reported as fraud by any bank or financial institution",
+            "Companies with insolvency proceedings admitted against them"
+        ],
+        "application_process": "Online application process with a non-refundable application fee of INR 1,00,000.",
+        "documents_required": [
+            "Certificate of compliance with Design-led Manufacturing criteria",
+            "Declaration for specific products satisfying Design-led criteria",
+            "Financial statements for the base year"
+        ],
+        "faqs": [
+            {
+                "question": "Can an existing PLI beneficiary company claim additional incentives?",
+                "answer": "Yes, existing PLI beneficiaries can claim additional incentives of 1% for products qualified under Design-led Manufacturing."
+            },
+            {
+                "question": "What is the scheme outlay and tenure?",
+                "answer": "The scheme will be implemented within the overall financial limits of Rs 12,195 Crores over a period of 5 years."
+            },
+            {
+                "question": "What are the eligible categories of investment?",
+                "answer": "Investment can be made in Plant, Machinery, Equipment, Research and Development, and Transfer of Technology Agreements."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/dot-pli-scheme"
+            }
+        ],
+        "tags": [
+            "PLI Scheme",
+            "Telecom",
+            "Networking Products",
+            "Manufacturing",
+            "Make in India"
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "content": {
+        "title": "Credit Linked Subsidy Scheme for Middle Income Group",
+        "state": "India",
+        "department": "Ministry of Housing and Urban Affairs",
+        "type": "Subsidy",
+        "beneficiary": "Middle Income Group (MIG)",
+        "details": "Under Credit Linked Subsidy Scheme, beneficiaries of Middle-Income Group (MIG) can seek housing loans from Banks, Housing Finance Companies and other such institutions for acquisition/ construction of house (including re-purchase). The credit linked subsidy will be available only for loan amounts upto Rs. 9 lakhs for MIG-I and Rs 12 lakhs for MIG-II and such loans would be eligible for an interest subsidy at the rate of 4 % and 3% respectively for a tenure of 20 years or during tenure of loan whichever is lower. The Net Present Value (NPV) of the interest subsidy will be calculated at a discount rate of 9%. Any additional loan amount beyond the limit will be at non-subsidized rate. However, the carpet area of the house should be strictly restricted within the permissible carpet area of 160 sq m and 200 sq m for MIG-I and MIG-II categories respectively.",
+        "benefits": [
+            "Interest subsidy of 4% for MIG-I and 3% for MIG-II",
+            "Loan amounts up to Rs. 9 lakhs for MIG-I and Rs. 12 lakhs for MIG-II",
+            "Support for acquisition/construction of housing"
+        ],
+        "eligibility": [
+            "MIG I households with an annual income more than Rs.6 lakh and up to Rs.12 lakh",
+            "MIG II households with an annual income more than Rs. 12 lakh and up to Rs. 18 lakh",
+            "Property must have basic amenities such as water, sanitation, sewerage, roads, electricity",
+            "Property must be located at Statutory Towns as per Census 2011 and towns notified subsequently"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through identified Primary Lending Institutions (PLIs)",
+        "documents_required": [
+            "Aadhaar card for beneficiary identification",
+            "Income proof",
+            "Property documents"
+        ],
+        "faqs": [
+            {
+                "question": "What happens when the subsidy has already been disbursed, but due to certain reasons, the construction of the house is stalled?",
+                "answer": "In cases where the construction of house is not completed within 36 months from the date of release of the first disbursement, subsidy is to be recovered by the PLI and refunded to the CNA who had released the subsidy."
+            },
+            {
+                "question": "Can NRIs be considered under this scheme?",
+                "answer": "NRIs can be considered provided they are eligible under the Scheme Guidelines and are also in compliance with other GoI/RBI rules, if any, applicable to NRIs."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/clssmig"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Subsidy",
+            "Middle Income Group",
+            "PMAY",
+            "Affordable Housing"
+        ]
+    }
+}

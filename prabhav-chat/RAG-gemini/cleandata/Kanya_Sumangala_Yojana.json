@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Kanya Sumangala Yojana",
+        "state": "Uttar Pradesh",
+        "department": "Women and Child Development Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Girl Child",
+        "details": "Women empowerment is the commitment of the state government. In view of the above, it has been decided by the state government to implement the 'Kanya Sumangala Yojana'. The main objective of Kanya Sumangala Yojana is to end female feticide, establish an equal gender ratio, stop the malpractice of child marriage, and improve the health of girls. And to encourage education, help in making girls self-reliant, to develop positive thinking in the society towards the birth of a girl child.",
+        "benefits": [
+            "Rs. 2,000/- at the birth of a girl child.",
+            "Rs. 1,000/- after complete vaccination of the girl child up to one year.",
+            "Rs. 2,000/- after the admission of girl child in first class.",
+            "Rs. 2,000/- after the admission of girl child in class VI.",
+            "Rs. 3,000/- after the admission of girl child in class IX.",
+            "Rs. 5,000/- for girls who have passed class 12th and have taken admission in graduation or diploma courses of 02 years or more duration."
+        ],
+        "eligibility": [
+            "The beneficiary's family should be a resident of Uttar Pradesh and have a permanent residence certificate.",
+            "The maximum annual family income of the beneficiary should be Rs.3.00 lakh.",
+            "Maximum of two girls in a family will be able to get the benefit of the scheme.",
+            "There should be a maximum of two children in the family.",
+            "If a woman has twins from the second delivery, the benefit will also be admissible to the girl child as the third child."
+        ],
+        "exclusions": [],
+        "application_process": "Applicants have to go to the official website of MKSY of the Women and Child Development Department, click on Citizen Service Portal, agree to the consent, fill the registration form, verify the information, and submit the required documents.",
+        "documents_required": [
+            "Latest Photo of the girl child.",
+            "Joint photo of the girl child with the applicant.",
+            "Affidavit on prescribed format.",
+            "Birthday Certificate.",
+            "Immunization Card.",
+            "Admission certificate for class 1st.",
+            "Admission certificate for class 6th.",
+            "Admission certificate for class 9th.",
+            "10th/12th certificate/mark sheet.",
+            "ID of Institution.",
+            "Admission fee receipt in Degree/Diploma course."
+        ],
+        "faqs": [
+            {
+                "question": "What is Kanya Sumangala Yojana?",
+                "answer": "Various schemes are run by the government for the purpose of providing social security to women, Kanya Sumangala Yojana is one such scheme."
+            },
+            {
+                "question": "What is the maximum Eligible family income?",
+                "answer": "The maximum annual family income of the beneficiary should be Rs.3.00 lakh."
+            },
+            {
+                "question": "How many girl child from a family can get the benefits of the scheme?",
+                "answer": "Maximum of two girls in a family will be able to get the benefit of the scheme."
+            },
+            {
+                "question": "What is the limit for the number of children in a family?",
+                "answer": "There should be a maximum of two children in the family."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Visit the official portal, fill out the online application form, upload the required documents, and submit."
+            },
+            {
+                "question": "How many documents are required?",
+                "answer": "Various documents including photos, affidavits, and admission certificates are required depending on the phase."
+            },
+            {
+                "question": "What is the official web portal to login?",
+                "answer": "Click on the following link: https://mksy.up.gov.in/women_welfare/citizen/guest_login.php"
+            },
+            {
+                "question": "May other state person also apply for the scheme?",
+                "answer": "No, Only residents of Uttar Pradesh female can apply."
+            },
+            {
+                "question": "Is there any caste specific eligibility criteria?",
+                "answer": "No, this scheme is open to all females/girls/children."
+            },
+            {
+                "question": "Do applicants get the benefits in one phase?",
+                "answer": "No, Applicants will get the benefits in 6 phases."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/ksy"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://mksy.up.gov.in/women_welfare/citizen/guest_login.php"
+            }
+        ],
+        "tags": [
+            "Child Empowerment",
+            "Education",
+            "Financial Assistance",
+            "Girl Welfare"
+        ]
+    }
+}

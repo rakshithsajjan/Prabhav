@@ -1,0 +1,62 @@
+{
+    "content": {
+        "title": "Credit Based Schemes For SC - Micro Credit Finance",
+        "state": "Not specified",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Micro Finance Scheme",
+        "beneficiary": "Entrepreneurs of Scheduled Caste Category",
+        "details": "A Micro finance scheme by Ministry of Social Justice and Empowerment for Entrepreneur of Scheduled Caste Category. Financial Assistance up to Project Cost of Rs. 1,40,000 is provided for small income generating activities.",
+        "benefits": [
+            "Financial Assistance up to 90% of Project Cost of Rs. 1,40,000 for small income generating activities at Interest rates chargeable at 5%",
+            "Repayment Period: Within 3 and \u00bd years, in quarterly installments from date of each disbursement including moratorium period",
+            "Moratorium Period: 3 months",
+            "On repayment of loans under Micro-Credit, through the concerned SCAs, the eligible beneficiaries can avail any loan under NSFDC scheme."
+        ],
+        "eligibility": [
+            "The scheme is for entrepreneurs of the Scheduled Caste Category.",
+            "Scheduled Castes persons having annual family income up to Rs. 3.00 lakhs."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested eligible person shall contact the nearest Channeling Agency.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Income certificate",
+            "Caste certificate",
+            "Bank account statement"
+        ],
+        "faqs": [
+            {
+                "question": "What is moratorium period?",
+                "answer": "A moratorium period refers to a particular period of a loan tenure during which the borrower does not have to repay anything."
+            },
+            {
+                "question": "Does the scheme provide loans to all Scheduled Castes persons?",
+                "answer": "No, NSFDC provides loans only to economically poor sections of Scheduled Castes whose annual family income is up to Rs. 3.00 lakh both in rural & urban areas."
+            },
+            {
+                "question": "How does the scheme provide assistance?",
+                "answer": "The applicants should contact the Channelizing Agencies if they wish to avail the scheme."
+            },
+            {
+                "question": "With what type of Projects can I avail this scheme?",
+                "answer": "These are indicative list of projects: Bricks Making, Readymade Garments Manufacturing, Handlooms/Powerlooms, Handicrafts Making, Footwear Manufacturing, etc."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://socialjustice.gov.in/writereaddata/UploadFile/About_NSFDC_08_2021.pdf"
+            },
+            {
+                "type": "Additional Guidelines",
+                "url": "https://nsfdc.nic.in/en/micro-credit-finance"
+            }
+        ],
+        "tags": [
+            "Micro Finance",
+            "Scheduled Caste",
+            "Entrepreneurship",
+            "Financial Assistance"
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "content": {
+        "title": "Pension Benefit (ANBOCWWB)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Labour, Employment & Training, Andaman & Nicobar Administration",
+        "type": "Pension",
+        "beneficiary": "Building Worker, Construction Worker, Labour",
+        "details": "The scheme \u201cPension Benefit\u201d was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, a pension shall be provided to the Building and Other Construction Workers who are registered under the A&N Islands Building and Other Construction Workers Welfare Board upon attaining the age of 55 years.",
+        "benefits": [
+            "Registered construction worker, who has completed 55 years of age, is eligible for pension @ \u20b91,000/- per month."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of the Union territory of Andaman & Nicobar Islands.",
+            "The beneficiary should be engaged in building or other construction works and continue as such work for a continuous period of not less than five years.",
+            "The beneficiary should be registered under the A&N Islands Building and Other Construction Workers Welfare Board.",
+            "The registered construction worker, who has completed 55 years of age, is eligible to apply under the scheme.",
+            "The beneficiary must have made regular contributions to the welfare fund for at least 5 years."
+        ],
+        "exclusions": [],
+        "application_process": "Online, Offline",
+        "documents_required": [
+            "Passport size photograph",
+            "Proof of age",
+            "Identity proof i.e. Aadhaar Card",
+            "Details of EPF, if any",
+            "Proof of address",
+            "90 Days Work Duration Certificate issued by the competent authority",
+            "Bank account details",
+            "Any other document as required",
+            "Registration ID Card",
+            "Identity proof i.e. Aadhaar Card",
+            "Proof of age",
+            "Details of payment of first and last subscription of contribution to fund (Subscription Receipt)",
+            "Address proof",
+            "Category certificate, if any",
+            "Life Certificate",
+            "Bank account details/Copy of passbook",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for the pension under this scheme?",
+                "answer": "To be eligible for the pension, the beneficiary must be engaged in building or other construction works for a continuous period of at least five years. Additionally, they must be registered under the A&N Islands Building and Other Construction Workers Welfare Board and maintain active membership."
+            },
+            {
+                "question": "What is the pension amount provided under the scheme?",
+                "answer": "The registered construction worker, upon attaining 55 years of age, is eligible for a pension of \u20b91,000 per month under the scheme."
+            },
+            {
+                "question": "Is there any age requirement for applying for the scheme?",
+                "answer": "Yes, the beneficiary must have completed 55 years of age to apply for the pension under this scheme."
+            },
+            {
+                "question": "What if a construction worker hasn't been contributing regularly to the fund?",
+                "answer": "If a beneficiary hasn't been contributing regularly, they may not qualify for the pension benefits."
+            },
+            {
+                "question": "Can a beneficiary apply for the pension before reaching 55 years of age?",
+                "answer": "No, the pension benefits are applicable only upon attaining the age of 55 years as per the scheme's guidelines."
+            },
+            {
+                "question": "Are there any exceptions to the continuous period of five years of engagement in construction work?",
+                "answer": "No."
+            },
+            {
+                "question": "Can beneficiaries nominate someone to receive the pension in case of their demise?",
+                "answer": "No."
+            },
+            {
+                "question": "What documents are required for registration under the scheme?",
+                "answer": "Documents such as proof of residence, proof of engagement in construction work, registration with the welfare board, and active membership details may be required for registration under the scheme."
+            },
+            {
+                "question": "How can one apply for the Pension Benefit Scheme?",
+                "answer": "The eligible applicant can visit and apply through online Portal: https://serviceonline.gov.in/login.do."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labour.and.nic.in/webPages/welfareboard.html#:~:text=Pension%20Benefit%3A%20%2D%20Registered%20construction%20worker,Rs%201000%2F%2Dper%20month.&text=MBBS%2FBE%2FProfessional%20Course%20the,a%20case%20to%20case%20basis."
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/login.do"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://labour.and.nic.in/webPages/forms/Pen.pdf"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Building Worker",
+            "Construction Worker",
+            "Labour"
+        ]
+    }
+}

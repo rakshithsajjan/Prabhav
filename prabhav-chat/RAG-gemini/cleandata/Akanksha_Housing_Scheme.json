@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Akanksha Housing Scheme",
+        "state": "West Bengal",
+        "department": "Housing Department, Government of West Bengal",
+        "type": "Housing",
+        "beneficiary": "State Government Employees",
+        "details": "Akanksha Housing Scheme was launched by the Housing Department, Government of West Bengal on 28/02/2014 to provide housing to the serving State Government employees. The present project is situated in premises No. 07/300, Block-DB, Action Area-ID at New Town, Kolkata - 700107 on a pilot basis. The project has been designed on a no-profit no-loss basis and without the cost of the land. The instant project is spread over 5.0599 acres of land and comprising of 13 towers. (7 nos. of G+10 Towers for Elegant, Premium and Classic categories and 6 nos. of Straight 4 towers for Economy and Standard categories) containing of 576 flats and 236 covered Car parking spaces and 35 open Car parking spaces (only for Elegant, Premium and Classic categories) with provision for Gymnasium, Club-House and Community Hall within the Complex.",
+        "benefits": [
+            "Housing for serving State Government employees of West Bengal on a transparent lottery basis.",
+            "Various categories of houses based on the grade pay of the employees."
+        ],
+        "eligibility": [
+            "All serving State Govt. employees as defined in West Bengal Service Rules, except those State Govt. employees who have their own housing scheme such as 'Pratyasha' for Policemen or similar housing schemes under Government of West Bengal."
+        ],
+        "exclusions": [
+            "West Bengal State Government employees already covered under any other housing scheme",
+            "All India Service officers.",
+            "Employees of local bodies like Panchayat, Municipalities, Corporations, etc.",
+            "Teaching/ non-teaching staff of non Govt. School & Colleges/Universities etc.",
+            "Employees of various companies/undertakings like WBPDCL, WBSEDCL, CSTC, CTC, SBSTC, NBSTC, WBTEDCL, WBHIDCO, KMDA, KIT, KMWSA and etc.",
+            "Retired but reemployed Govt. employees.",
+            "Judicial Service Officers of West Bengal."
+        ],
+        "application_process": "Online. You can apply for Akanksha Housing Scheme by following the steps outlined on the official website.",
+        "documents_required": [
+            "Copy of Identity Card",
+            "Online application with deposit amount of \u20b925,000 as 'Application money' in any branch of Bank of Baroda by generating challan through online system.",
+            "Copy of Aadhar Card",
+            "Residence proof of the applicant of the state of West Bengal",
+            "Income certificate of the applicant."
+        ],
+        "faqs": [
+            {
+                "question": "Are central government employees eligible for this scheme?",
+                "answer": "No, only West Bengal state government employees are eligible for this scheme."
+            },
+            {
+                "question": "Can a person with higher grade pay than \u20b98900 apply for house under this scheme?",
+                "answer": "Yes, for them, the type of house available is 'Elegant', which is a 3 BHK house with 2 balconies."
+            },
+            {
+                "question": "Can the employees of PSU apply under this scheme?",
+                "answer": "No, only the state government employees are eligible."
+            },
+            {
+                "question": "Can a person apply jointly with a family member in this scheme?",
+                "answer": "Yes, a person can apply jointly for a house under this scheme, but only with spouse."
+            },
+            {
+                "question": "What happens if the conflict arises between the builder and purchaser?",
+                "answer": "All disputes and differences shall be referred for arbitration to such person as may be appointed by the Housing Department as the sole arbitrator."
+            },
+            {
+                "question": "Can the owner resell the house after buying it?",
+                "answer": "No, The owners of the property will not be able to sell the property to any person upto a period of 15 years from the date of purchase."
+            },
+            {
+                "question": "When does the owner get possession of the property?",
+                "answer": "All allottees will take over the possession within 15 days from the date of issue of intimation letter regarding completion of the project."
+            },
+            {
+                "question": "Who will bear the cost of registration and deed of conveyance?",
+                "answer": "Cost of registration of the deed of conveyance will be borne by the allottee."
+            },
+            {
+                "question": "How will the allottees be selected?",
+                "answer": "The allottees will be selected on the basis of a transparent lottery system from all the complete applications received."
+            },
+            {
+                "question": "Is car parking space available for all?",
+                "answer": "Department do not give any assurance to provide Car Parking Space to each and every allottee."
+            },
+            {
+                "question": "What would be the payment schedule for Elegant, premium, and classic houses?",
+                "answer": "The payment will be made in 6 parts - Application Money (\u20b925,000/-), Allotment money (40% of the Tentative total price), and 4 Installments."
+            },
+            {
+                "question": "What Would Be The Payment Schedule For Economy and standard flats?",
+                "answer": "The Payment Will Be Made In 3 Parts - Application Money (\u20b925,000/-), Allotment Money (20% of the tentative total price), And Residual amount of the final price."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/ahs"
+            },
+            {
+                "type": "West Bengal Housing Website",
+                "url": "https://wbhousing.gov.in/general-terms-condition"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "West Bengal",
+            "Government Scheme",
+            "State Employees"
+        ]
+    }
+}

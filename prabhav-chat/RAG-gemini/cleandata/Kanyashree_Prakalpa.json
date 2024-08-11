@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "Kanyashree Prakalpa",
+        "state": "West Bengal",
+        "department": "Government Of West Bengal",
+        "type": "Grant",
+        "beneficiary": "Socio-economically Disadvantaged Families",
+        "details": "Kanyashree Prakalpa seeks to improve the status and well-being of girls, specifically those from socio-economically disadvantaged families through Conditional Cash Transfers by incentivizing them to continue in education for a longer period, and complete secondary or higher secondary education, or equivalent in technical or vocational streams. It aims to disincentivize marriage till at least the age of 18, thereby reducing the risks of early pregnancies and associated health conditions. The scheme also works to enhance the social power and self-esteem of girls through targeted behavior change communication strategies.",
+        "benefits": [
+            "Annual scholarships of Rs. 750 for girls studying in classes 8 to 12",
+            "One-time grant of Rs. 25,000 for unmarried girls who have completed 18 years of age"
+        ],
+        "eligibility": [
+            "Girls between the ages of 13 and 18 years",
+            "Annual income limit of up to Rs. 1.2 lakhs",
+            "Studying in classes 8 to 12 in government-aided or recognized schools",
+            "Unmarried girls are eligible for the one-time grant",
+            "Residents of West Bengal"
+        ],
+        "exclusions": [
+            "Girls younger than 13 years or older than 18 years",
+            "Families with an annual income of more than Rs. 1.2 lakhs",
+            "Married girls",
+            "Girls studying in private schools",
+            "Non-residents of West Bengal"
+        ],
+        "application_process": "Offline. Applicants must check eligibility, obtain the application form, fill it out, attach supporting documents, and submit it to the school or Block Development Officer's office.",
+        "documents_required": [
+            "Income certificate",
+            "Age proof",
+            "Educational certificates"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the Kanyashree Prakalpa Scheme?",
+                "answer": "The objective is to improve the status and well-being of girls from socio-economically disadvantaged families by promoting their education, preventing child marriage, and improving their overall quality of life."
+            },
+            {
+                "question": "What conditions do I need to fulfill to be eligible for Kanyashree Prakalpa?",
+                "answer": "Girls must be residents of West Bengal, enrolled in an educational institution, unmarried, and from families with an annual income not exceeding Rs. 1.2 lakhs."
+            },
+            {
+                "question": "Is there any fee for applying to the scheme?",
+                "answer": "No, there is no fee for applying to the scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.wbkanyashree.gov.in/kp_4.0/kp_objectives.php"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://www.wbkanyashree.gov.in/readwrite/notice_publications/01-Kanyashree%20Prakalpa%20Guidelines.pdf"
+            }
+        ],
+        "tags": [
+            "Child Marriage Prevention",
+            "Empowerment Of Girls",
+            "Girls' Education",
+            "Grants For Higher Education",
+            "Vocational Training"
+        ]
+    }
+}

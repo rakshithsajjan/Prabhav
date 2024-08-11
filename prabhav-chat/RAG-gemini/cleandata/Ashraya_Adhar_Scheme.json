@@ -1,0 +1,113 @@
+{
+    "content": {
+        "title": "Ashraya Adhar Scheme",
+        "state": "Goa",
+        "department": "Housing Corporation",
+        "type": "Loan",
+        "beneficiary": "Individuals seeking housing loans",
+        "details": "The Ashraya Adhar Scheme provides financial assistance in the form of loans for housing purposes, with specific provisions for repayment and moratorium periods.",
+        "benefits": [
+            "Grace period before loan repayment starts",
+            "Option to repay loan before moratorium ends",
+            "Extended repayment period for applicants above 50 years",
+            "Loan repayment alignment with retirement plans",
+            "Possibility to transfer loan to another financial institution",
+            "Provision for partial prepayment of the loan",
+            "Potential tax benefits on loan repayments"
+        ],
+        "eligibility": [
+            "Must be a resident of Goa",
+            "Age criteria for extended repayment",
+            "Employment status may affect repayment terms"
+        ],
+        "exclusions": [
+            "Providing false information may lead to legal consequences",
+            "Specific penalties for defaulting on EMIs"
+        ],
+        "application_process": "Applications can be submitted online or offline to the Housing Corporation.",
+        "documents_required": [
+            "Proof of identity",
+            "Proof of residence",
+            "Income statements",
+            "Loan application form"
+        ],
+        "faqs": [
+            {
+                "question": "What is the purpose of the moratorium period in the loan repayment process?",
+                "answer": "The moratorium period serves as a grace period before the repayment of the loan starts, allowing borrowers to adjust financially."
+            },
+            {
+                "question": "Can I repay the loan before the end of the moratorium period?",
+                "answer": "Yes, you can repay the loan immediately after the disbursement of the first installment."
+            },
+            {
+                "question": "How is the loan repayment period determined for applicants above 50 years of age?",
+                "answer": "The repayment period will be extended until you reach 60 years of age."
+            },
+            {
+                "question": "What happens if I'm employed by a government entity and plan to retire during the loan repayment period?",
+                "answer": "Your repayment period will be re-fixed until your retirement age, plus an additional six months."
+            },
+            {
+                "question": "What is the penalty for defaulting on an EMI repayment?",
+                "answer": "An interest rate of 2% will be charged on the overdue installment amount."
+            },
+            {
+                "question": "Can I transfer my loan to another financial institution for house reconstruction during the repayment period?",
+                "answer": "Yes, but you will need to repay the outstanding loan balance in one lump sum."
+            },
+            {
+                "question": "What happens if I'm unable to repay the loan as per the schedule?",
+                "answer": "The Corporation will initiate recovery proceedings as arrears under the Goa Daman and Diu Land Revenue Code."
+            },
+            {
+                "question": "Who has the authority to sanction loans under the Ashraya Adhar Scheme?",
+                "answer": "The Chairman of the Corporation, along with any two Directors, will approve the loan applications."
+            },
+            {
+                "question": "Is there a provision to modify the scheme if needed?",
+                "answer": "Yes, the scheme can be modified to address new challenges or requirements."
+            },
+            {
+                "question": "What if I provide incorrect or fraudulent information to avail benefits under the scheme?",
+                "answer": "Providing false information can result in criminal breach of trust."
+            },
+            {
+                "question": "Can I prepay a portion of my loan during the repayment period?",
+                "answer": "Yes, partial prepayment is generally allowed."
+            },
+            {
+                "question": "What happens if I miss a few EMIs due to unforeseen circumstances?",
+                "answer": "You might incur penalties in the form of the 2% interest on overdue amounts."
+            },
+            {
+                "question": "Can I change my repayment schedule after the loan is sanctioned?",
+                "answer": "The repayment schedule is typically fixed, but you can discuss changes with the Corporation."
+            },
+            {
+                "question": "Are there any tax benefits associated with this loan repayment?",
+                "answer": "Tax benefits might be available based on local regulations."
+            },
+            {
+                "question": "Can I apply for a loan extension beyond the specified tenure?",
+                "answer": "Loan extensions might be considered on a case-by-case basis."
+            },
+            {
+                "question": "Is there a penalty for repaying the loan earlier than the scheduled tenure?",
+                "answer": "Check the loan agreement for any prepayment penalties."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/aas"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Loan",
+            "Financial Assistance",
+            "Goa"
+        ]
+    }
+}

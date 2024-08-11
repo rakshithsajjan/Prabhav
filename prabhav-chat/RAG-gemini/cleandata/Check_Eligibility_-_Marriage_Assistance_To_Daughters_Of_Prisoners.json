@@ -1,0 +1,37 @@
+{
+    "content": {
+        "title": "Check Eligibility - Marriage Assistance To Daughters Of Prisoners",
+        "state": "Kerala",
+        "department": "Department of Social Justice",
+        "type": "Assistance",
+        "beneficiary": "Daughters of prisoners",
+        "details": "This scheme provides financial assistance for the marriage of daughters of prisoners.",
+        "benefits": [
+            "Financial support for marriage",
+            "Support for social integration"
+        ],
+        "eligibility": [
+            "Must be a daughter of a prisoner",
+            "Must be a native of Kerala"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof",
+            "Prisoner status certificate",
+            "Marriage registration certificate"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/madp"
+            }
+        ],
+        "tags": [
+            "Marriage Assistance",
+            "Daughters of Prisoners",
+            "Kerala"
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Financial Support",
+        "beneficiary": "Farmer",
+        "details": "The Agriculture Department of the Rajasthan Government is pleased to announce the Mahatma Jyotiba Phule Mandi Shramik Kalyan Yojana. This program is designed to enhance the lives of mandi workers within the state. The Yojana offers a comprehensive suite of benefits, including healthcare services with a focus on medical insurance coverage. Furthermore, the program extends financial assistance to aid mandi workers with matrimonial endeavors. In the event of a medical condition, the Yojana can facilitate access to appropriate treatment facilities, ensuring workers receive the necessary care.",
+        "benefits": [
+            "Obstetric Support: For a maximum of two deliveries, the female license holder Hammal and Palledar are entitled to be paid assistance equivalent to 45 days' wages as per the prevailing wage rate determined by the state government as an unskilled labourer.",
+            "As paternity leave, an amount equivalent to 15 days wages is payable to the Hammal/Tulara/Palledar father of the child as per the prevailing wage rate determined by the State Government as an unskilled laborer.",
+            "Help for marriage: To the extent of the marriage of a licensed woman and two daughters of a licensed woman, \u20b9 50,000/-per marriage assistance is payable.",
+            "Scholarship / Meritorious Student Award Scheme: Every student who gets first-division marks and whose guardian is a licensed Hammal or Palledar in Mandi is given a merit scholarship.",
+            "Medical Aid: Reimbursement of medical expenditures up to a maximum of \u20b920,000/- is permitted if a licensed Hammaal or Pulladar becomes gravely ill."
+        ],
+        "eligibility": [
+            "The applicant should be Farmers/agricultural laborers of the Rajasthan.",
+            "The applicant workers hold licenses from the market committee."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar Card / Janadhar Card.",
+            "Mark sheet.",
+            "Age proof.",
+            "Medical certificate.",
+            "Bank account.",
+            "Photos."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana?",
+                "answer": "The Mahatma Jyotiba Phule Mandi Shramik Kalyaan Yojana is a welfare scheme aimed at improving the lives of laborers working in agricultural produce markets (mandis)."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, this scheme is only for Rajasthan."
+            },
+            {
+                "question": "What is Janadhar card?",
+                "answer": "Jan Aadhaar is 'one number, one card, one identity' scheme, Its main objective is to prepare a database of demographic and socio-economic information of the resident families of the state."
+            },
+            {
+                "question": "How can I apply online?",
+                "answer": "One can apply by visiting the e-Mitra center."
+            },
+            {
+                "question": "Are there specific eligibility criteria for beneficiaries?",
+                "answer": "Yes, eligibility criteria may include holding a valid mandi license or being a registered mandi laborer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": []
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "The Artist Welfare Fund Of Assam",
+        "state": "Assam",
+        "department": "Department of Cultural Affairs, Govt. of Assam",
+        "type": "Grant",
+        "beneficiary": "Artists and their dependents",
+        "details": "The scheme aims to provide financial assistance to artists who are in distress due to old age or other handicaps, including medical aid and educational support for their dependents.",
+        "benefits": [
+            "Financial assistance for artists in distress",
+            "Medical aid for artists and their dependents",
+            "Educational support for up to two children of artists",
+            "Assistance in case of accidents or medical emergencies"
+        ],
+        "eligibility": [
+            "Artists must be above the age of 20 years",
+            "Applicants must provide artistic credentials supporting their achievements"
+        ],
+        "exclusions": [],
+        "application_process": "Offline application in the standard application form available on the website, sent to the office of Assam State Film (Finance & Development) Corporation Ltd.",
+        "documents_required": [
+            "Proof of Residence: Passport, Driving License, Electricity Bill, etc.",
+            "Proof of Age / DOB: Aadhaar Card, PAN Card, Birth Certificate, etc.",
+            "Recent Passport Sized Photograph (not older than six months)"
+        ],
+        "faqs": [
+            {
+                "question": "Does the scheme extend to other Northeastern states of India?",
+                "answer": "No, the 'The Artist Welfare Fund of Assam' extends only to the whole of Assam."
+            },
+            {
+                "question": "What is meant by 'Dependent' for the purpose of this scheme?",
+                "answer": "'Dependent' means and includes: Spouse of a deceased Artist; Minor sons and daughters; Unmarried and non-earning daughters; Parents wholly dependent on the Artist."
+            },
+            {
+                "question": "Are the artists who are in financial distress due to their old age also covered in this scheme?",
+                "answer": "Yes, the scheme helps the Artists (or their dependents) who are in financial distress due to old age or otherwise handicapped from accident or disease."
+            },
+            {
+                "question": "Is the education of the children of the artists also covered in this scheme?",
+                "answer": "Yes, the education for such Artists and their dependents (to be limited up to two children) is covered in this scheme."
+            },
+            {
+                "question": "Can the passport sized photograph be older than one year?",
+                "answer": "No, the Passport Sized Photograph should be recent (not older than six months), Clear, and Colored."
+            },
+            {
+                "question": "Is the grant of financial assistance from the Artist Welfare (Corpus) Fund of Assam to any artist a matter of right?",
+                "answer": "No, the Grant of financial assistance from the Artist Welfare (Corpus) Fund of Assam to any Artist is NOT a matter of right."
+            },
+            {
+                "question": "How is an 'Artist' defined for the purpose of this scheme?",
+                "answer": "An 'Artist' means a person who has made substantial contribution in the field of art and culture of the State, including cine artists, performing artists, visual artists, technicians, sculptors, craftsmen, puppeteers, etc."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/tawfa"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://filmfinance.assam.gov.in/sites/default/files/10/how_do_i/level_1/Application%20Form.pdf"
+            }
+        ],
+        "tags": [
+            "Artist Welfare",
+            "Financial Assistance",
+            "Assam",
+            "Cultural Affairs"
+        ]
+    }
+}

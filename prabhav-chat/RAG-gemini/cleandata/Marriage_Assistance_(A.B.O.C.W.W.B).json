@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Marriage Assistance (A.B.O.C.W.W.B)",
+        "state": "Assam",
+        "department": "Labour Welfare Department, Government of Assam",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Workers",
+        "details": "The scheme 'Marriage Assistance' was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the construction workers who are registered under A.B.O.C.W.W.B. for the marriage of their children. The assistance shall be for the marriage of two children of the beneficiary. A female registered member is also eligible for this assistance for her own marriage.",
+        "benefits": [
+            "The financial assistance of \u20b925,000/- shall be given to registered workers for the marriage of their children.",
+            "This assistance shall be for the marriage of two children of the registered workers.",
+            "A female registered worker is also eligible for this assistance for her own marriage."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Assam.",
+            "The applicant should be engaged in any building & other construction work.",
+            "The construction worker should be registered with the Assam Building and Other Construction Workers Welfare Board.",
+            "The workers having continuous membership for 5 years shall be eligible to get financial assistance under the scheme.",
+            "This assistance shall be for the marriage of two children of the beneficiary.",
+            "A female member registered under A.B.O.C.W.W.B is also eligible for this assistance for her own marriage."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs",
+        "documents_required": [
+            "Passport size photograph (Applicant and Nominee)",
+            "Proof of Age/DOB",
+            "Copy of Aadhaar Card",
+            "Copy of Voter ID Card",
+            "Bank passbook first page",
+            "Experience Certificate/Employers Certificate (90 days working record to check eligibility)",
+            "Completely filled Nomination Form",
+            "Completely filled Registration Form",
+            "Any other relevant documents",
+            "ABOCWWB ID Card",
+            "Copy of Payslip of Account Pay book Showing Monthly Contribution Deposited",
+            "Marriage Certificate",
+            "Any other relevant documents"
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for the Marriage Assistance Scheme?",
+                "answer": "The scheme is available to construction workers who are registered under the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B). Female registered members are also eligible for assistance for their own marriage."
+            },
+            {
+                "question": "What is the purpose of the Scheme?",
+                "answer": "The scheme aims to provide financial assistance to registered construction workers for the marriage of their children."
+            },
+            {
+                "question": "How much financial assistance is provided under the scheme?",
+                "answer": "Registered workers are eligible for a financial assistance amounting to \u20b925,000/- for each child's marriage."
+            },
+            {
+                "question": "Can a female registered worker avail assistance for her own marriage under this scheme?",
+                "answer": "Yes, female registered workers are eligible for the Marriage Assistance Scheme to support the expenses related to their own marriage."
+            },
+            {
+                "question": "How many children's marriages can a registered worker claim assistance for?",
+                "answer": "Each registered worker is eligible for financial assistance for the marriage of two of their children."
+            },
+            {
+                "question": "Is registration with the Assam Building and Other Construction Workers Welfare Board mandatory?",
+                "answer": "Yes, the construction worker must be registered with the Assam Building and Other Construction Workers Welfare Board to be eligible for the Marriage Assistance Scheme."
+            },
+            {
+                "question": "Are there any specific membership requirements to avail financial assistance under the scheme?",
+                "answer": "Workers with continuous membership for 5 years are eligible to receive financial assistance under the scheme."
+            },
+            {
+                "question": "What is the age range for applicants to qualify for the scheme?",
+                "answer": "The age of the applicant should be between 18 to 55 years."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "Only active registered construction workers may login in through ID No./registered phone number and apply through the portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labourcommissioner.assam.gov.in/portlet-innerpage/various-welfare-benefits-for-registered-construction-workers"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://abocwwb.assam.gov.in/"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://labourcommissioner.assam.gov.in/sites/default/files/swf_utility_folder/departments/coi_labour_uneecopscloud_com_oid_14/portlet/level_2/sop_bocw_online_mode_for_uploading.pdf"
+            }
+        ],
+        "tags": [
+            "Marriage",
+            "Financial Assistance",
+            "Labour",
+            "Construction Worker"
+        ]
+    }
+}

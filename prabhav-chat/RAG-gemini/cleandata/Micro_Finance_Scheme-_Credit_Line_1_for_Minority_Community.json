@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Micro Finance Scheme- Credit Line 1 for Minority Community",
+        "state": "Haryana",
+        "department": "Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam",
+        "type": "Loan",
+        "beneficiary": "Members of Self-Help Groups (SHGs) from minority communities",
+        "details": "The scheme 'Micro Finance Scheme- Credit Line 1 for Minority Community' is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam. Under the scheme, small loans of \u20b91,00,000/- per beneficiary are provided to members of Self-Help Groups (SHGs), either directly or through the SHGs, to meet the needs of the poorest among the poor. Applicants must be permanent residents of Haryana and belong to minority communities such as Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
+        "benefits": [
+            "Small loans of \u20b91,00,000/- per beneficiary are provided to members of Self-Help Groups (SHGs), either directly or through the SHGs."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The age of the applicant should be between 18 and 55 years.",
+            "The applicant's annual family income should not exceed \u20b998,000/- (Rural Area) and \u20b91,20,000/- (Urban Area).",
+            "The applicant should belong to a minority community, i.e., Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains.",
+            "In an SHG 75% of members can be from Minority Communities and the remaining 25% members may be from other weaker sections like SC/Handicapped/Minorities etc. in very exceptional cases, groups with up to 60% members belonging to Minority Communities will also be eligible.",
+            "The applicant should have a Parivar Pehchan Patra (PPP ID)."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity/Citizenship proof i.e. Aadhaar Card",
+            "Proof of age",
+            "Resident Proof/Address Proof/Ownership Proof i.e. Haryana Domicile Certificate",
+            "Caste/Religion/Community Proof",
+            "Parivar Pehchan Patra (PPP ID)",
+            "Copy of PAN Card",
+            "Passport-size photograph of the applicant",
+            "Bank account details",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who can apply for the scheme?",
+                "answer": "Permanent residents of Haryana who belong to minority communities such as Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains."
+            },
+            {
+                "question": "What is the loan amount provided under this scheme?",
+                "answer": "A loan amount of \u20b91,00,000/- per beneficiary is provided."
+            },
+            {
+                "question": "What is the age limit for applicants?",
+                "answer": "Applicants must be between 18 and 55 years old."
+            },
+            {
+                "question": "What is the maximum annual family income allowed for eligibility?",
+                "answer": "The maximum annual family income is \u20b998,000/- for rural areas and \u20b91,20,000/- for urban areas."
+            },
+            {
+                "question": "What minority communities are eligible for this scheme?",
+                "answer": "Eligible communities include Muslims, Sikhs, Christians, Buddhists, Parsis, and Jains."
+            },
+            {
+                "question": "How can eligible applicants apply for the scheme?",
+                "answer": "Applicants can apply online through the Antyodaya-SARAL Portal (https://saralharyana.gov.in/)."
+            },
+            {
+                "question": "How is the loan amount disbursed?",
+                "answer": "The loan amount is provided either directly to the beneficiary or through the SHGs."
+            },
+            {
+                "question": "How does one track the status of their application?",
+                "answer": "Applicants can track their applications through the Official Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=tzJZRI86VQ0gSuPVjduoDA%3d%3d"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Micro Finance",
+            "Loan",
+            "Minority Community",
+            "SHG"
+        ]
+    }
+}

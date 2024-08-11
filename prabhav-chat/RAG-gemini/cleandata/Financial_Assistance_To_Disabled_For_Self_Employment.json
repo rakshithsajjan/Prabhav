@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Financial Assistance To Disabled For Self Employment",
+        "state": "Maharashtra",
+        "department": "Department of Social Justice & Special Assistance",
+        "type": "Subsidy",
+        "beneficiary": "Persons with Disabilities (PwDs)",
+        "details": "The objective of this scheme is to facilitate the self-employment of unemployed disabled persons. Under this scheme, financial assistance is provided to persons with disabilities for self-employment, small-scale business, and agro-based project.",
+        "benefits": [
+            "80% loan amount is provided by the Nationalized Bank.",
+            "20% subsidy of up to \u20b930,000/- is provided by the Department."
+        ],
+        "eligibility": [
+            "The percentage of disability of the applicant should be 40% and above.",
+            "Orthopedically Handicapped Persons are also covered."
+        ],
+        "exclusions": [
+            "Only citizens who are permanent residents of the state of Maharashtra are eligible to apply.",
+            "You cannot reapply if you have already availed of its benefits."
+        ],
+        "application_process": "The entire application process is free of cost.",
+        "documents_required": [
+            "Residential Certificate / Domicile Certificate of the State of Maharashtra"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum amount of financial assistance that one can receive through this scheme?",
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b91,50,000/-."
+            },
+            {
+                "question": "Is there any compensation for the delay in the disbursal of the scheme benefits?",
+                "answer": "No, there is no such mention in the scheme guidelines."
+            },
+            {
+                "question": "How do I know if a field in the application form is mandatory?",
+                "answer": "The mandatory fields have an asterisk (*) mark at the end."
+            },
+            {
+                "question": "Is this a state funded or a centrally funded scheme?",
+                "answer": "This is a 100% State Funded scheme."
+            },
+            {
+                "question": "Where can I find the URL to the website of the Dept. of Social Justice & Special Assistance?",
+                "answer": "The URL to the official website of the Department of Social Justice & Special Assistance, Government of Maharashtra is - https://sjsa.maharashtra.gov.in/"
+            },
+            {
+                "question": "Where can I find the link to the scheme guidelines?",
+                "answer": "The Scheme Guidelines can be found at this link - https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare."
+            },
+            {
+                "question": "Where can I post my grievances related to this scheme?",
+                "answer": "You can post your grievances at the Grievance Redressal Portal by the Govt. of Maharashtra: https://grievances.maharashtra.gov.in/en."
+            },
+            {
+                "question": "Where can I find the format of the application form? Is it available online?",
+                "answer": "You need to visit the District Social Welfare Office and request a hard copy of the format of the application form for the scheme from the concerned authority."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/fadse"
+            },
+            {
+                "type": "Department Website",
+                "url": "https://sjsa.maharashtra.gov.in/"
+            },
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+            },
+            {
+                "type": "District Social Welfare Offices",
+                "url": "https://sjsa.maharashtra.gov.in/en/contacts"
+            },
+            {
+                "type": "Grievance Redressal Portal",
+                "url": "https://grievances.maharashtra.gov.in/en"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Disability",
+            "Self Employment",
+            "Maharashtra"
+        ]
+    }
+}

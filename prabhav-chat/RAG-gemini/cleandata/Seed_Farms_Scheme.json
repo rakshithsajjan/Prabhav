@@ -1,0 +1,70 @@
+{
+    "content": {
+        "title": "Seed Farms Scheme",
+        "state": "Meghalaya",
+        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "type": "Subsidy",
+        "beneficiary": "Cultivator",
+        "details": "The \u201cSeed Farms Scheme\u201d is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya. The objective of the scheme is the production of high-quality seeds of cereals, pulses, oilseeds etc., and for raising Horticultural seedlings such as orange, coconut, arecanut, etc. for distribution to cultivators.",
+        "benefits": [
+            "Supply of quality seeds to farmers.",
+            "Subsidy sale"
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Meghalaya.",
+            "The applicant should be a bonafide farmer engaged in agriculture."
+        ],
+        "exclusions": [],
+        "application_process": "The eligible bonafide farmer can apply/write an application on plain paper. Along with the application, attach copies of all the mandatory documents (self-attest, if required). Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle. The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis.",
+        "documents_required": [
+            "Passport-size photograph",
+            "Identity Proof",
+            "Documents proof of having sufficient available cultivable land",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective of the scheme is the production of high quality seeds of cereals, pulses, oilseeds etc. and for raising Horticultural seedlings such as orange, coconut, arecanut etc. for distribution to cultivators."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department Of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya"
+            },
+            {
+                "question": "Who is eligible to apply under this scheme?",
+                "answer": "The bonafide farmers who have sufficient available cultivable land and are engaged in agriculture can apply under the scheme."
+            },
+            {
+                "question": "What is the pattern of assistance?",
+                "answer": "Supply of quality seeds to farmers."
+            },
+            {
+                "question": "What is the type of assistance/service?",
+                "answer": "Subsidy sale to farmers."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "The bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/ Agriculture Circle."
+            },
+            {
+                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "answer": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/sfs"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Cultivator",
+            "Farmer",
+            "Farms",
+            "Horticultural Seedlings",
+            "Seed"
+        ]
+    }
+}

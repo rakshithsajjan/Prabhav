@@ -1,0 +1,95 @@
+{
+    "content": {
+        "title": "Silicosis Rehabilitation Pension- Haryana Silicosis Board",
+        "state": "Haryana",
+        "department": "Haryana Labour Welfare Board",
+        "type": "Pension",
+        "beneficiary": "Silicosis-affected workers",
+        "details": "The scheme 'Silicosis Rehabilitation Pension' is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, a monthly pension of \u20b94,000/- is given to the Silicosis-affected worker categorized as category (A, B, or C) according to the ILO Classification, until he/she remains alive. Only workers who are confirmed to be suffering from Silicosis by the Silicosis Diagnosis Board, Haryana, will be eligible for the assistance.",
+        "benefits": [
+            "Monthly pension of \u20b94,000/- for Silicosis-affected workers categorized as category (A, B, or C) according to the ILO Classification."
+        ],
+        "eligibility": [
+            "Only workers who are confirmed to be suffering from Silicosis by the Silicosis Diagnosis Board, Haryana, will be eligible for the assistance.",
+            "The Silicosis-affected worker should be categorized as either category A, B, or C according to the ILO Classification.",
+            "The worker should have been registered with the Haryana Silicosis Board.",
+            "The worker should have been employed in a factory or at a construction site."
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online. Applicants may visit the nearest Labour Office to collect the application form or download it from the Official Website of the Labour Department Haryana.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Passport-size photograph",
+            "Medical Report (X-Ray, CT Scan, Medical Prescription, Any Other)",
+            "General Document ( ESI Card, Any Other)",
+            "Work experience document",
+            "Proof of residence",
+            "Ration Card",
+            "Bank account details",
+            "Proof of age",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who implements this scheme?",
+                "answer": "The scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana."
+            },
+            {
+                "question": "Who is eligible for the pension under this scheme?",
+                "answer": "Only workers confirmed to be suffering from Silicosis by the Silicosis Diagnosis Board, Haryana, and categorized as category (A, B, or C) according to the ILO Classification are eligible."
+            },
+            {
+                "question": "How much is the monthly pension provided under this scheme?",
+                "answer": "The scheme provides a monthly pension of \u20b94,000/-."
+            },
+            {
+                "question": "What is Silicosis?",
+                "answer": "Silicosis is an incurable lung disease caused by inhaling silica dust, common in workplaces like stone crushers and mines."
+            },
+            {
+                "question": "What are the symptoms of Silicosis?",
+                "answer": "Symptoms include shortness of breath, fatigue, loss of appetite, chest pain, dry cough, respiratory failure, and it eventually leads to death."
+            },
+            {
+                "question": "Who confirms the diagnosis of Silicosis?",
+                "answer": "The diagnosis is confirmed by the Silicosis Diagnosis Board, Haryana."
+            },
+            {
+                "question": "How is the category of a Silicosis-affected worker determined?",
+                "answer": "The category (A, B, or C) is determined according to the ILO Classification by the Silicosis Diagnosis Board."
+            },
+            {
+                "question": "How can eligible workers apply for the pension benefits?",
+                "answer": "Eligible workers may visit the nearest Antyodaya Kendra or Labour Office and fill up the application form."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification- English",
+                "url": "https://hrylabour.gov.in/staticdocs/labourpolicies/Haryana%20Silicosis%20Rehabilitation%20Policy%20/(English/).pdf"
+            },
+            {
+                "type": "Notification- Hindi",
+                "url": "https://hrylabour.gov.in/uploads/silicosis/Haryana_Silicosis_Rehabilitation_Policy.pdf"
+            },
+            {
+                "type": "Registration Link",
+                "url": "https://hrylabour.gov.in/silicosis/register/basicinfo"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://hrylabour.gov.in/content/faq"
+            }
+        ],
+        "tags": [
+            "Silicosis",
+            "Rehabilitation",
+            "Pension",
+            "Worker"
+        ]
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Pre-Matric Disability Scholarship - Uttarakhand",
+        "state": "Uttarakhand",
+        "department": "Social Welfare Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Disabled students",
+        "details": "In Uttarakhand State, Pre-Matric Disability Scholarship is an initiative of the Social Welfare Department, Government of Uttarakhand for disabled students. Financial Assistance will be provided to the selected eligible students from the State.",
+        "benefits": [
+            "Students of Classes 1 - 5 will receive Rs. 600/- per annum.",
+            "Students of Classes 6 - 8 will receive Rs. 960/- per annum."
+        ],
+        "eligibility": [
+            "The applicant student should be a resident of Uttarakhand state and should be studying as an institutional student in a recognized school run in the state.",
+            "The applicant student must have passed the previous year's examination.",
+            "Applicant students should not be studying in more than one school in the same academic year.",
+            "Scholarship applicants should ensure that the name in the scholarship application, the name mentioned in Aadhaar, and the name mentioned in the bank account are the same.",
+            "It is necessary for the applicant student to provide their guardian's mobile number."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Scanned copy for Bank Passbook.",
+            "Identification Card.",
+            "Income Certificate.",
+            "Student Photograph.",
+            "Disability Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "Uttarakhand government started a scheme Pre-Matric Scholarship for disabled persons."
+            },
+            {
+                "question": "What Are The Benefits Under The Scheme?",
+                "answer": "Financial Assistance to disabled persons."
+            },
+            {
+                "question": "What is the Beneficial amount or financial assistance provided?",
+                "answer": "Students of Classes 1 - 5 will receive Rs. 600/- per annum. Students of Classes 6 - 8 will receive Rs. 960/- per annum."
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "The Applicant Student Should Be A Resident Of Uttarakhand State And Should Be Studying As An Institutional Student In A Recognized School Run In The State And Fulfill The Eligibility Criteria."
+            },
+            {
+                "question": "May Student Study More Than One School In The Same Academic Year?",
+                "answer": "Applicant Students Should Not Be Studying In More Than One School In The Same Academic Year."
+            },
+            {
+                "question": "May Other State Person Apply For The Scheme?",
+                "answer": "No. This Scheme Is Only For Uttarakhand State."
+            },
+            {
+                "question": "How To Apply For The Scheme?",
+                "answer": "Visit The Official National Scholarship Portal. Students Must Register First. So For Registration Click On New Registration. If Already Registered Then Start The Application Process By Clicking On Login. Fill Out The Application Form And Provide The Required Details (Registration Details, Academic Details And Basic Details). Upload The Required Documents."
+            },
+            {
+                "question": "What Documents Are Needed?",
+                "answer": "Scanned Copy For Bank Passbook, Identification Card, Income Certificate, Student Photograph, Disability Certificate."
+            },
+            {
+                "question": "What Is The Official Portal To Apply?",
+                "answer": "Follow The URL: https://scholarships.gov.in/#"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/UK_PRE_GUIDELINE.pdf"
+            },
+            {
+                "type": "Scholarship Portal",
+                "url": "https://scholarships.gov.in/#"
+            }
+        ],
+        "tags": [
+            "Disabled Welfare",
+            "Education",
+            "Financial Assistance",
+            "Student Finance"
+        ]
+    }
+}

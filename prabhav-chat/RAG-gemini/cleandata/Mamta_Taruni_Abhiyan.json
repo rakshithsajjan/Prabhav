@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Mamta Taruni Abhiyan",
+        "state": "Gujarat",
+        "department": "Healthcare",
+        "type": "Abhiyan",
+        "beneficiary": "Adolescent girls and pregnant women",
+        "details": "Under this program, free medical check-ups, iron and folic acid supplements, and deworming medication were provided to adolescent girls between the ages of 10 and 19 years, and pregnant women. The program also aimed to create awareness about menstrual hygiene, family planning, and nutrition among adolescent girls and pregnant women. The program was implemented through a network of health workers, including Accredited Social Health Activists (ASHAs), Auxiliary Nurse Midwives (ANMs), and Anganwadi workers. The Mamta Taruni Abhiyan was seen as a significant step towards improving maternal and child health in rural areas of Gujarat.",
+        "benefits": [
+            "Access to Health and Wellness Services: The scheme provides access to various health and wellness services, including health check-ups, antenatal care, postnatal care, and nutritional support.",
+            "Improved Maternal and Child Health: The scheme aims to improve maternal and child health outcomes by providing timely and quality healthcare services to pregnant women and young girls.",
+            "Health Education: The scheme also provides health education and awareness sessions to beneficiaries, which helps them make informed decisions about their health and well-being.",
+            "Empowerment of Women and Girls: The scheme aims to empower women and girls by providing them with knowledge and skills related to health and nutrition, which helps them lead healthy and productive life.",
+            "Financial Support: The scheme also provides financial support to pregnant women in the form of a cash incentive, which helps them meet their medical and nutritional needs."
+        ],
+        "eligibility": [
+            "Adolescent Girls: The scheme is open to all adolescent girls between the ages of 10 and 19 years who are residents of Gujarat.",
+            "Pregnant Women: The scheme is open to all pregnant women who are residents of Gujarat.",
+            "BPL Families: The scheme gives priority to women and girls belonging to Below Poverty Line (BPL) families."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Identification Documents: Beneficiaries must have identification documents such as a birth certificate, Aadhaar card, or any other valid government-issued identity proof.",
+            "Medical Certificate: Pregnant women may be required to provide a valid medical certificate indicating their pregnancy status and health condition.",
+            "Bank Account Details: Beneficiaries may need to provide their bank account details to receive financial support under the scheme.",
+            "Income Certificate: Women and girls belonging to Below Poverty Line (BPL) families may need to provide an income certificate as proof of their eligibility.",
+            "Address Proof: Beneficiaries may need to provide an address proof such as a utility bill or a rent agreement to establish their residence in Gujarat."
+        ],
+        "faqs": [
+            {
+                "question": "Who can avail the benefits of the Mamta Taruni Abhiyan scheme in Gujarat?",
+                "answer": "The scheme is open to adolescent girls and pregnant women who are residents of Gujarat. Women and girls belonging to Below Poverty Line (BPL) families are given priority."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "The scheme provides access to health and wellness services such as health check-ups, antenatal care, postnatal care, and nutritional support. It also provides health education and awareness sessions to beneficiaries and financial support to pregnant women in the form of a cash incentive."
+            },
+            {
+                "question": "What is the cash incentive provided to pregnant women under the scheme?",
+                "answer": "Pregnant women are provided a cash incentive of Rs. 6000 under the scheme to meet their medical and nutritional needs."
+            },
+            {
+                "question": "Is there any age limit for availing the benefits of the scheme?",
+                "answer": "The scheme is open to all adolescent girls between the ages of 10 and 19 years and pregnant women."
+            },
+            {
+                "question": "Can I avail the benefits of the scheme if I am not a resident of Gujarat?",
+                "answer": "No, the scheme is only for residents of Gujarat."
+            },
+            {
+                "question": "What are the necessary documents needed?",
+                "answer": "Identification Documents, Medical Certificate, Bank Account Details, Income Certificate, Address Proof."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Visit the Nearest Health Center, Fill out the Application Form, Submit the Required Documents, Get Enrolled, Receive Benefits and Services."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://nhm.gujarat.gov.in/mamta-abhiyan.htm"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/mta"
+            }
+        ],
+        "tags": [
+            "Healthcare",
+            "Maternal Health",
+            "Child Health",
+            "Women Empowerment",
+            "Nutrition"
+        ]
+    }
+}

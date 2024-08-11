@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Chikitsa Pratipoorti Yojana",
+        "state": "Jharkhand",
+        "department": "Department of Labour, Employment, Training & Skill Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Worker",
+        "details": "'Chikitsa Pratipoorti Yojana' is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides financial assistance to the Registered Workers for the treatment of serious illnesses such as cancer, heart disease (including surgery), kidney disease (including surgery), incurable mental disease (including surgery), AIDS, etc. The scheme's benefits are applicable once per disease per beneficiary.",
+        "benefits": [
+            "The scheme provides financial assistance to the Registered Workers for the treatment of serious illnesses such as cancer, heart disease (including surgery), kidney disease (including surgery), incurable mental disease (including surgery), AIDS, total hip replacement, spinal surgery, major vascular disease, bone marrow transplant, liver transplant, hepatoma, advanced cirrhosis of the liver, retinal detachment, proliferative diabetic retinopathy, reflux disease.",
+            "The scheme's benefits are applicable once per disease per beneficiary."
+        ],
+        "eligibility": [
+            "The applicant should be a domicile in the state of Jharkhand.",
+            "The applicant should be a Worker registered with the 'Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)'.",
+            "The applicant should be 18 years or above in age.",
+            "The applicant should be engaged in construction work such as masons, carpenters, electricians, porters, painters, etc.",
+            "The scheme's benefits are applicable once per disease per beneficiary.",
+            "The applicant should be suffering from one of the following serious illnesses: Cancer, heart disease (including surgery), kidney disease (including surgery), incurable mental disease (including surgery), AIDS, total hip replacement, spinal surgery, major vascular disease, bone marrow transplant, liver transplant, hepatoma, advanced cirrhosis of the liver, retinal detachment, proliferative diabetic retinopathy, reflux disease."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card",
+            "Residential Certificate / Domicile Certificate",
+            "Proof of Identity",
+            "eSHRAM Card",
+            "Passport Sized Photograph",
+            "Proof of Registration as a Construction Worker",
+            "Details of the Bank Account",
+            "Income Certificate",
+            "Proof of the Medical Condition"
+        ],
+        "faqs": [
+            {
+                "question": "Which Department Manages This Scheme?",
+                "answer": "This scheme is managed by the Department of Labour, Employment, Training & Skill Development, Govt. of Jharkhand."
+            },
+            {
+                "question": "Is This Scheme State Sponsored Or Centrally Sponsored?",
+                "answer": "This scheme is a 100% State Sponsored Scheme."
+            },
+            {
+                "question": "Where Can I Find The Link To The Scheme Guidelines?",
+                "answer": "The Scheme Guidelines can be found at this link - https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+            },
+            {
+                "question": "Can Women Also Apply To This Scheme?",
+                "answer": "Yes, this scheme is open to applicants from all genders."
+            },
+            {
+                "question": "Does This Scheme Accept Offline Applications?",
+                "answer": "No, this scheme only accepts online applications."
+            },
+            {
+                "question": "What Is The URL Of The Website Of Comprehensive Labour Management System For Factory Establishment/Worker Registration/Inspection/Management & Grievance Redressal?",
+                "answer": "The URL of the website of Comprehensive Labour Management System for Factory Establishment / Worker Registration / Inspection / Management & Grievance Redressal is https://shramadhan.jharkhand.gov.in/home."
+            },
+            {
+                "question": "What Details Are Required To Register On The Portal?",
+                "answer": "The following details are required to register on the portal - First Name, Last Name, Email, Mobile, Username, and Password."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "How Do I Track The Status Of My Application?",
+                "answer": "To track the status of your application, follow the stepwise process given below: Step 1: Once submitted, the application goes for 3-level approval: Clerk > Labour Superintendent > DLC."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+            },
+            {
+                "type": "Application Process",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+            },
+            {
+                "type": "District-Wise Contact Details Of Labour Offices",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Financial Assistance",
+            "Construction Worker",
+            "Disease"
+        ]
+    }
+}

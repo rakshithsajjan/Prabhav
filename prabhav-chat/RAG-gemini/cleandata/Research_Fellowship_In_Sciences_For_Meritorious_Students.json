@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Research Fellowship In Sciences For Meritorious Students",
+        "state": "Not specified",
+        "department": "Ministry of Education",
+        "type": "Fellowship",
+        "beneficiary": "Meritorious students registered for Ph.D. in Science",
+        "details": "The Research Fellowship in Sciences for meritorious students (RFSMS) scheme of the UGC is open to candidates who have registered for Ph.D. in Science in Universities with Potential for Excellence/Centres with Potential for Excellence/Centres of Advance Studies and Department of Special Assistance identified by UGC. The objective of the RFSMS scheme is to provide opportunities to meritorious candidates to undertake advanced studies and research leading to Ph.D. degrees in sciences.",
+        "benefits": [
+            "Fellowship of \u20b9 8,000/- per month",
+            "Contingency of \u20b9 6,000/- per annum",
+            "Tenure of fellowship is initially for two years, extendable based on performance"
+        ],
+        "eligibility": [
+            "Candidates must be registered for Ph.D. in science subjects in specified universities"
+        ],
+        "exclusions": [
+            "Misconduct",
+            "Unsatisfactory progress of research work",
+            "Failure in any examination related to M.Phil./Ph.D.",
+            "Ineligibility found later"
+        ],
+        "application_process": "Offline. Candidates must download and print the application form, fill it out, attach supporting documents, and submit it to the respective institution.",
+        "documents_required": [
+            "Proof of Identity",
+            "Proof of Address",
+            "Proof of Date of Birth",
+            "Proof of Educational Qualifications",
+            "Proof of being registered for Ph.D. in Science subjects"
+        ],
+        "faqs": [
+            {
+                "question": "Does Only The Submission Of An Application Form Guarantee The Award Of A Fellowship And Research Grant?",
+                "answer": "No, mere submission of an application form does not guarantee the award of a Fellowship and Research Grant."
+            },
+            {
+                "question": "Who Shall Be Held Responsible If The Applicant Furnishes Incorrect/Incomplete Information That Results In The Cancellation Of His/Her Candidature?",
+                "answer": "It is the responsibility of the applicant to provide correct information, failing which he/she will be solely responsible for the cancellation for his/her candidature."
+            },
+            {
+                "question": "What Is Meant By 'Aadhaar Seeding'?",
+                "answer": "The fellowship is directly paid to the research scholars in their bank accounts. For this, the bank account numbers of the scholars are required to be Aadhaar linked and verified."
+            },
+            {
+                "question": "What Would Be The Mode Of Payment For The Scholarship/Fellowship?",
+                "answer": "The payment of the scholarship/fellowship will be through DBT."
+            },
+            {
+                "question": "Is There Validity To The Scheme's Benefits?",
+                "answer": "The benefits are provided till the complete duration of the course."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "Do I Need To Complete The Application In One Sitting?",
+                "answer": "No. You can save the application as draft and continue at a later time before the deadline."
+            },
+            {
+                "question": "How Do I Know If A Field In The Application Form Is Mandatory?",
+                "answer": "The mandatory fields have a red asterisk (*) mark at the end."
+            },
+            {
+                "question": "To Whom Should The Candidates Reach Out If They Have Any Doubts Regarding The UGC Scholarship/Fellowship Scheme?",
+                "answer": "The candidates can reach out to the helpdesk if they have any doubts regarding the UGC scholarship and fellowship schemes."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.ugc.ac.in/oldpdf/xiplanpdf/meritorious%20students.pdf"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Research",
+            "Ph.D.",
+            "Education"
+        ]
+    }
+}

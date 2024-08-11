@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Antayoshti Sahayata Yojana",
+        "state": "Jharkhand",
+        "department": "Department of Labour, Employment, Training & Skill Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Worker",
+        "details": "'Antayoshti Sahayata Yojana' is a scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. Applications for this scheme are accepted online through the official website of the department. The scheme provides \u20b9 10,000/- for the last rites in the case of the death of the registered beneficiary.",
+        "benefits": [
+            "The scheme provides \u20b9 10,000/- for the last rites in the case of the death of the registered beneficiary."
+        ],
+        "eligibility": [
+            "The deceased should have been a domicile in the state of Jharkhand.",
+            "The deceased should have been a worker registered with the 'Jharkhand Building and Other Construction Worker Welfare Board (JBOCWW Board)'.",
+            "The deceased should have been between 18-60 years of age.",
+            "The deceased should have been engaged in construction work such as masons, carpenters, electricians, porters, painters, etc."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card",
+            "Residential Certificate / Domicile Certificate",
+            "Proof of Identity",
+            "eSHRAM Card",
+            "Passport Sized Photograph",
+            "Proof of Registration as a Construction Worker",
+            "Details of the Bank Account",
+            "Income Certificate",
+            "Death Certificate",
+            "Document establishing the relationship between the deceased and the applicant",
+            "Surviving Member Certificate"
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Social Welfare",
+            "Jharkhand"
+        ],
+        "faqs": [
+            {
+                "question": "Which Department Manages This Scheme?",
+                "answer": "This scheme is managed by the Department of Labour, Employment, Training & Skill Development, Govt. of Jharkhand."
+            },
+            {
+                "question": "Is This Scheme State Sponsored Or Centrally Sponsored?",
+                "answer": "This scheme is a 100% State Sponsored Scheme."
+            },
+            {
+                "question": "Where Can I Find The Link To The Scheme Guidelines?",
+                "answer": "The Scheme Guidelines can be found at this link - https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+            },
+            {
+                "question": "Can Women Also Apply To This Scheme?",
+                "answer": "Yes, this scheme is open to applicants from all genders."
+            },
+            {
+                "question": "Does This Scheme Accept Offline Applications?",
+                "answer": "No, this scheme only accepts online applications."
+            },
+            {
+                "question": "What Is The URL Of The Website Of Comprehensive Labour Management System For Factory Establishment/Worker Registration/Inspection/Management & Grievance Redressal?",
+                "answer": "The URL of the website of Comprehensive Labour Management System for Factory Establishment / Worker Registration / Inspection / Management & Grievance Redressal is https://shramadhan.jharkhand.gov.in/home."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No. The entire application process is completely free of cost."
+            },
+            {
+                "question": "How Do I Track The Status Of My Application?",
+                "answer": "To track the status of your application, follow the stepwise process given below: Step 1: Once submitted, the application goes for 3-level approval: Clerk > Labour Superintendent > DLC. Step 2: Go to Services > BOC Scheme Benefit > Application Status."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://shramadhan.jharkhand.gov.in/schemmeDetailsShow.action"
+            },
+            {
+                "type": "Application Process",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/BOC_SCHEME_BENEFIT_APPLICANT_SIDE.pdf"
+            },
+            {
+                "type": "District-Wise Contact Details Of Labour Offices",
+                "url": "https://shramadhan.jharkhand.gov.in/ftp/WebAdmin/documents/labourcontactdetails.pdf"
+            }
+        ]
+    }
+}

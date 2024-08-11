@@ -1,0 +1,58 @@
+{
+    "content": {
+        "title": "AICTE-Margdarshan scheme",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Grant-in-aid",
+        "beneficiary": "Mentee Beneficiary Institutes and Mentor Institute",
+        "details": "Margdarshan Initiative has been introduced by All India Council for Technical Education in 2018 for facilitating the technical institutes in order to improve the quality of technical education as a whole through accreditation by providing access to the facilities available in host institute. This Initiative is a facilitative mechanism that aims to foster & augment the support ecosystem in the Institutes approved by AICTE for enhancing their quality across all domains.",
+        "benefits": [
+            "The Council has made provisions of a token grant in aid of \u20b9 3,00,000/- per MBI. Hence a maximum \u20b9 30,00,000/- can be sanctioned to an MI for conducting activities under the Margdarshan Scheme for 10 MBIs altogether.",
+            "Suitable honorarium to staff engaged in running the scheme."
+        ],
+        "eligibility": [
+            "The institution must have been approved by AICTE.",
+            "For MI, accreditation status must be valid for at least 6 months from the date of submission of the proposal.",
+            "Only AICTE approved institutes are eligible to receive mentoring from MIs."
+        ],
+        "exclusions": [
+            "AICTE approved institutions having break in extension of approval or no admission in the institute for any reason in the last 10 years shall not be considered.",
+            "An institution cannot submit more than one project proposal for MI scheme."
+        ],
+        "application_process": "Offline. An institute seeking MI status will be required to forward an application signed from head of the institute along with the detailed project report (DPR).",
+        "documents_required": [
+            "Basic Details of the institute",
+            "Number of MBIs proposed in the Detailed Project Report (DPR)",
+            "Consent of all MBIs proposed in DPR",
+            "Programme wise Pre-Qualifiers for each MBI",
+            "Self-undertaking enclosed",
+            "Details of Proposed Activities enclosed",
+            "Mandate form"
+        ],
+        "faqs": [
+            {
+                "question": "What is Margdarshan scheme?",
+                "answer": "Margdarshan Initiative has been introduced by All India Council for Technical Education for facilitating the technical institutes in order to improve the quality of technical education as a whole through accreditation by providing access to the facilities available in host institute."
+            },
+            {
+                "question": "Who manages this scheme?",
+                "answer": "This scheme is managed by All India Council for Technical Education (AICTE)."
+            },
+            {
+                "question": "When was this scheme introduced?",
+                "answer": "Margdarshan scheme was introduced in 2018."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.aicte-india.org/sites/default/files/margdarshak/Margdarshan%20Scheme%20Guidelines%20new.pdf"
+            }
+        ],
+        "tags": [
+            "Technical Education",
+            "Accreditation",
+            "Mentorship"
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "content": {
+        "title": "Grant of Financial Assistance to Differently Abled Person",
+        "state": "Puducherry",
+        "department": "Department of Social Welfare",
+        "type": "Grant",
+        "beneficiary": "Persons with Disability",
+        "details": "The scheme 'Grant of Financial Assistance to Differently Abled Person' by the Department of Social Welfare, Government of Puducherry was introduced to provide monthly financial assistance to Persons with Disability to maintain their minimum standard of living. The selection is periodical and depends on the availability of funds.",
+        "benefits": [
+            "Disability Range - 40% to 65%: \u20b9 2000/- per month.",
+            "Disability Range - 66% to 85%: \u20b9 2500/- per month.",
+            "Disability Range - 86% to 100%: \u20b9 3500/- per month.",
+            "Age Range - 60 to 79 years: \u20b9 2700/- per month.",
+            "Age Range - 80 years and above: \u20b9 3800/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
+            "The applicant should have an annual income not exceeding \u20b975,000/- per annum.",
+            "For Orthopaedic/Deaf/Dumb/Blind, the disability of the applicant should be 40% and above.",
+            "For the Mentally Retarded, the Intelligence Quotient (IQ) of the applicant should be below 69."
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online. The interested applicant should visit the Office/ Sub-Office of the Department of Social Welfare, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications or take print of the prescribed format of the application form.",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Ration Card.",
+            "Birth Certificate.",
+            "Disability Certificate.",
+            "Income Certificate.",
+            "Community Certificate.",
+            "Residence-cum-Nativity Certificate, issued by the competent authority.",
+            "Recent Passport-Size Photograph.",
+            "Bank Passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What is the Intelligence Quotient (IQ) threshold for mentally retarded applicants?",
+                "answer": "Applicants in the mentally retarded category should have an IQ below 69."
+            },
+            {
+                "question": "What are the disability criteria for Orthopaedic/Deaf/Dumb/Blind applicants?",
+                "answer": "The disability should be 40% and above for these categories."
+            },
+            {
+                "question": "What is the maximum annual income allowed for eligibility?",
+                "answer": "Applicants must have an annual income not exceeding \u20b975,000 to qualify for the scheme."
+            },
+            {
+                "question": "What is the eligibility criterion for residence under this scheme?",
+                "answer": "Applicants must be native residents of the Union Territory of Puducherry for at least 5 years."
+            },
+            {
+                "question": "What are the contact details for grievance redressal in case of delayed benefits disbursal?",
+                "answer": "Refer to the Grievance Redressal link at pgportal.gov.in or contact local authorities in Puducherry, Karaikal, Mahe/Yanam as specified."
+            },
+            {
+                "question": "How are the benefits distributed based on the level of disability?",
+                "answer": "Benefits range from \u20b92000 to \u20b93500 per month, varying with disability percentages and age categories."
+            },
+            {
+                "question": "What is the monthly support allocated for individuals aged 80 years and above?",
+                "answer": "Those aged 80 years and above are entitled to \u20b93800 per month as financial assistance."
+            },
+            {
+                "question": "What is the financial aid for individuals aged between 60 to 79 years?",
+                "answer": "Individuals in this age group receive \u20b92700 per month as financial assistance."
+            },
+            {
+                "question": "How much monthly assistance is granted to individuals with a disability range of 86% to 100%?",
+                "answer": "Those with a disability range of 86% to 100% are eligible for \u20b93500 per month."
+            },
+            {
+                "question": "Can you explain the monthly financial assistance for individuals with a disability range of 40% to 65%?",
+                "answer": "Individuals in this range receive \u20b92000 per month as financial assistance."
+            },
+            {
+                "question": "Where can applicants track the status of their application?",
+                "answer": "Applicants can track the status of their application at https://edistrict.py.gov.in/User/TrackApplication.aspx."
+            },
+            {
+                "question": "How can individuals address grievances related to the scheme?",
+                "answer": "Grievances can be addressed through the Grievance Redressal portal at https://pgportal.gov.in/."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socwelfare.py.gov.in/grant-financial-assistance-differently-abled-person"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://socwelfare.py.gov.in/sites/default/files/financial-assistance-differently-abled-persons.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://socwelfare.py.gov.in/contact-us"
+            },
+            {
+                "type": "Sub Offices",
+                "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://pgportal.gov.in/"
+            },
+            {
+                "type": "Track Your Application",
+                "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Financial Assistance",
+            "Grant",
+            "PwD"
+        ]
+    }
+}

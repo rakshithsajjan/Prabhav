@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "SERB - POWER Research Grants",
+        "state": "India",
+        "department": "Ministry of Science and Technology",
+        "type": "Grant",
+        "beneficiary": "Women Researchers",
+        "details": "The \u201cSERB - POWER Research Grants\u201d is a program category under the SERB-POWER (Promoting Opportunities For Women in Exploratory Research) Program, launched by the Science and Engineering Research Board (SERB), Ministry of Science & Technology, Government of India. SERB - POWER program is formulated to mitigate gender disparity in science and engineering research funding in various S&T programs in Indian academic institutions and R&D Laboratories. The aim of the \u2018SERB - POWER Research Grants\u2019 is to encourage emerging and eminent women researchers for an individual-centric and competitive mode of research funding to undertake R&D activities in frontier areas of science and engineering.",
+        "benefits": [
+            "Level I: The scale of funding up to \u20b960 lakhs for three years.",
+            "Level II: The scale of funding up to \u20b930 lakhs for three years.",
+            "Funding for equipment, manpower, consumables, travel, and contingency."
+        ],
+        "eligibility": [
+            "Applicants should be Indian citizens.",
+            "Must hold a regular academic/research position in a recognized institution.",
+            "Applicants from IITs, IISERs, IISc, NITs, Central Universities, and National Labs are considered under Level I.",
+            "Applicants from State Universities/Colleges and Private Academic Institutions should apply under Level II.",
+            "Mandatory requirement for female CO-PI from the same institute.",
+            "Male CO-PI is not allowed.",
+            "PhD guide cannot be CO-PI.",
+            "PIs who have already got a POWER Grant cannot apply again.",
+            "JC Bose fellows and PIs who have completed two CRG are not allowed to apply.",
+            "The number of CO-PIs should not exceed two per project."
+        ],
+        "exclusions": [
+            "Women Scientists cannot hold POWER Fellowship and POWER Grant at the same time."
+        ],
+        "application_process": "Online application process through the SERB website.",
+        "documents_required": [
+            "Identity proof",
+            "Passport size photograph",
+            "Details of proposal",
+            "Educational Qualifications certificates",
+            "Any other document, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum amount of the grant the Board will fund?",
+                "answer": "POWER Grants will empower women researchers by funding them under Level I: up to 60 Lakhs for three years and Level II: up to 30 Lakhs for three years."
+            },
+            {
+                "question": "Does the Board have any priority areas for funding under SERB- POWER research grant?",
+                "answer": "No, the Board funds all areas of Science and Engineering without discriminating between disciplines."
+            },
+            {
+                "question": "Are Co-Investigators allowed in SERB- POWER research grant project?",
+                "answer": "Yes, only female Co-Investigator(s) are allowed."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://serb.gov.in/page/english/research_grants#SERB%20-%20POWER%20Research%20Grants"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.serbonline.in/SERB/serbPowerInstructions#:~:text=SERB%20POWER%20(Promoting%20Opportunities%20For,academic%20institutions%20and%20R%26D%20Laboratories."
+            },
+            {
+                "type": "Registration - SERB Online",
+                "url": "https://www.serbonline.in/SERB/Registration"
+            }
+        ],
+        "tags": [
+            "Research Grants",
+            "Women Empowerment",
+            "Science and Technology"
+        ]
+    }
+}

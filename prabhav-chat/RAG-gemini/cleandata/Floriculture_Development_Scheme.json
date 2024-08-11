@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Floriculture Development Scheme",
+        "state": "Meghalaya",
+        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The scheme 'Floriculture Development Scheme' was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs.",
+        "benefits": [
+            "Providing good quality flower planting material at 50% subsidy",
+            "Low cost polyhouse free of cost with a minimum of 100sqm/unit area",
+            "Motivating farmers by cultivating low volume high-value crops to increase economic income",
+            "Providing poly house and good quality flower planting materials including organic fertilizers, micronutrients, and organic-based and P.P chemicals and drip irrigation"
+        ],
+        "eligibility": [
+            "The applicant/farmer should be a permanent resident of Meghalaya.",
+            "The applicant should be a bonafide farmer engaged in agriculture."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The eligible bonafide farmer can apply/write an application on plain paper, attach copies of all the mandatory documents, and submit the duly filled and signed application at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.",
+        "documents_required": [
+            "Passport-size photograph",
+            "Identity Proof",
+            "Bank passbook/account details",
+            "Documents proof of possessing agricultural land",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the key objective of the scheme?",
+                "answer": "To motivate the farmers to take up floriculture (traditional and non-traditional flowers) as a commercial venture through the distribution of planting materials and other inputs."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya has launched this scheme."
+            },
+            {
+                "question": "What is the type of assistance/service?",
+                "answer": "The scheme motivates farmers by cultivating low-volume high-value crops to increase economic income. Under this aspect, poly house and good quality flower planting materials including organic fertilizers, micronutrients and organic-based and P.P. chemicals, and drip irrigation are provided."
+            },
+            {
+                "question": "What is the pattern of assistance?",
+                "answer": "By providing good quality flower planting material at 50% subsidy and low cost polyhouse free of cost with a minimum of 100sqm/unit area."
+            },
+            {
+                "question": "Who can apply for the scheme?",
+                "answer": "All bonafide farmers of Meghalaya State."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Bonafide farmers can apply in plain paper through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
+            },
+            {
+                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "answer": "Bonafide farmers having minimum area of 0.2 (hectares) willing to invest for future expansion in terms of planting materials, infrastructures etc."
+            },
+            {
+                "question": "Whom to contact?",
+                "answer": "District Horticulture Officer and Horticulture Development Officer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=102"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Floriculture",
+            "Flower",
+            "Horticulture",
+            "Subsidy"
+        ]
+    }
+}

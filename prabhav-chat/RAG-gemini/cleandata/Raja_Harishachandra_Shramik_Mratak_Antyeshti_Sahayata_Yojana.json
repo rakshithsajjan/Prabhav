@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Raja Harishachandra Shramik Mratak Antyeshti Sahayata Yojana",
+        "state": "Uttar Pradesh",
+        "department": "Labour Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Families of registered workers who die while in service",
+        "details": "The 'Raja Harishchandra Shramik Mrityu Antim Sanskar Sahayata Yojana' (RHSMASSSY) is a scheme launched by the Government of Uttar Pradesh to provide financial assistance to the families of registered workers who die while in service. The scheme's purpose is to alleviate the financial burden on these families during a difficult time and help them with the final rites of the deceased worker.",
+        "benefits": [
+            "Financial Assistance: \u20b910,000/-"
+        ],
+        "eligibility": [
+            "Workers should be working in an establishment registered under the Factories Act, 1948.",
+            "The monthly salary of the worker (basic salary + dearness allowance) should not exceed \u20b915,000/-.",
+            "It is mandatory to apply within one year from the date of death of the worker.",
+            "Financial assistance will be payable to the worker's spouse or dependent (son/unmarried daughter), mother/father in case the worker is unmarried."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Attested photocopy of the online filled application form related to the scheme.",
+            "Read photocopy of the beneficiary's bank passbook (with IFS code of the bank).",
+            "Read photocopy of ration card/family register or other government record in confirmation of relationship with the dependent.",
+            "Death certificate issued by Registrar (Birth/Death)."
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme all about?",
+                "answer": "The Government of Uttar Pradesh initiated a scheme 'Raja Harishchandra Shramik Mrityu Antim Sanskar Sahayata Yojana' for the financial assistance to the families of deceased workers."
+            },
+            {
+                "question": "What benefits are provided?",
+                "answer": "Financial benefits are provided."
+            },
+            {
+                "question": "How much financial benefits are provided under the scheme?",
+                "answer": "Financial Assistance of \u20b910,000/- will be provided."
+            },
+            {
+                "question": "What is the employment eligibility criteria?",
+                "answer": "The applicant must be employed in a registered factory, commercial establishment, or shop in Uttar Pradesh."
+            },
+            {
+                "question": "Within what time period does an applicant need to submit their application?",
+                "answer": "It is mandatory to apply within one year from the date of death of the worker."
+            },
+            {
+                "question": "Who will get the death benefits?",
+                "answer": "Financial assistance will be payable to the worker's spouse or dependent (son/unmarried daughter), mother/father in case the worker is unmarried."
+            },
+            {
+                "question": "What the financial eligibility criteria?",
+                "answer": "The applicant worker's monthly salary (basic pay + dearness allowance) should not exceed \u20b915,000/-."
+            },
+            {
+                "question": "What is procedure to get the scheme benefits?",
+                "answer": "1. Applicant need to do the registration. 2. Fill out the application form and apply."
+            },
+            {
+                "question": "What is official website to get register and apply?",
+                "answer": "Follow the below URL. Link: https://skpuplabour.in/"
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Attested photocopy of the online filled application form related to the scheme. 2. Read photocopy of the beneficiary's bank passbook (with IFS code of the bank). 3. Read photocopy of ration card/family register or other government record in confirmation of relationship with the dependent. 4. Death certificate issued by Registrar (Birth/Death)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/rhsmas"
+            },
+            {
+                "type": "Labour Welfare Board",
+                "url": "https://skpuplabour.in/"
+            }
+        ],
+        "tags": [
+            "Death Benefits",
+            "Financial Assistance",
+            "Social Welfare"
+        ]
+    }
+}

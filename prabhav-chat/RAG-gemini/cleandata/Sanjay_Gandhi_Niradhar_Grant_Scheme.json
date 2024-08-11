@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "Sanjay Gandhi Niradhar Grant Scheme",
+        "state": "Maharashtra",
+        "department": "Department of Social Justice & Special Assistance",
+        "type": "Grant",
+        "beneficiary": "Families Below Poverty Line (BPL) and persons with disabilities",
+        "details": "The Sanjay Gandhi Niradhar Grant Scheme provides financial assistance to families Below Poverty Line (BPL) and persons with disabilities to support their living expenses.",
+        "benefits": [
+            "Financial assistance of \u20b9600/- per month for one beneficiary",
+            "Financial assistance of \u20b9900/- per month for more than one beneficiary",
+            "Support for orphan children and persons with disabilities"
+        ],
+        "eligibility": [
+            "Families must be Below Poverty Line (BPL)",
+            "Orphan children can apply",
+            "Women in the process of divorce can apply",
+            "Transgenders can apply",
+            "Persons with Sickle Cell Disease are eligible"
+        ],
+        "exclusions": [
+            "Only permanent residents of Maharashtra can apply",
+            "Applicants from neighboring states are not eligible"
+        ],
+        "application_process": "This scheme accepts both offline and online applications.",
+        "documents_required": [
+            "Proof of Identity: PAN Card, Voter ID Card, Passport, Aadhaar Card, Driving License, Government ID",
+            "Proof of Address: Ration Card, Aadhaar Card, Driving License, Voter ID, Utility Bills",
+            "Residential Certificate / Domicile Certificate of Maharashtra"
+        ],
+        "faqs": [
+            {
+                "question": "How Much Shall Be The Maximum Amount Of Financial Assistance In Case There Is Only One Beneficiary In The Family?",
+                "answer": "The maximum amount of financial assistance shall be \u20b9600/- per month in case there is only one beneficiary in the family."
+            },
+            {
+                "question": "Can Only Families Who Are Below Poverty Line Apply To This Scheme?",
+                "answer": "Yes, in order to be eligible for this scheme, the family should be Below Poverty Line (BPL)."
+            },
+            {
+                "question": "Can Orphan Children Also Apply?",
+                "answer": "Yes, Orphan Children can also apply to this scheme."
+            },
+            {
+                "question": "Does This Scheme Accept Applications From Transgenders?",
+                "answer": "Yes, Transgenders too can apply to this scheme."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No, the entire application process is entirely free of cost."
+            },
+            {
+                "question": "Can Applicants From The Neighboring States Gujarat, Madhya Pradesh, Chhattisgarh, Telangana, Etc Also Apply To This Scheme?",
+                "answer": "No, only the citizens who are permanent residents of the state of Maharashtra are eligible to apply."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Portal",
+                "url": "https://www.myscheme.gov.in/schemes/sgngs"
+            },
+            {
+                "type": "Scheme Guidelines in Marathi",
+                "url": "https://static.s3waas.gov.in/s3db85e2590b6109813dafa101ceb2faeb/uploads/2018/03/2018030785.pdf"
+            },
+            {
+                "type": "Aaple Sarkar Portal",
+                "url": "https://aaplesarkar.mahaonline.gov.in/"
+            },
+            {
+                "type": "Registration Manual for Online Application",
+                "url": "https://aaplesarkar.mahaonline.gov.in/pdf/UM_AS_Reg.pdf"
+            },
+            {
+                "type": "Department of Social Justice & Special Assistance",
+                "url": "https://sjsa.maharashtra.gov.in/"
+            },
+            {
+                "type": "District Social Welfare Offices Contacts",
+                "url": "https://sjsa.maharashtra.gov.in/en/contacts"
+            },
+            {
+                "type": "Grievance Redressal Portal",
+                "url": "https://grievances.maharashtra.gov.in/en"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "BPL",
+            "Disability Support",
+            "Maharashtra Government Scheme"
+        ]
+    }
+}

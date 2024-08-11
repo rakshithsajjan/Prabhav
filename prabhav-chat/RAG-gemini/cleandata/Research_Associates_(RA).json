@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Research Associates (RA)",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Fellowship",
+        "beneficiary": "Young researchers and scientists",
+        "details": "The objective of DBT-Research Associateship (DBT-RA) Programme is to train and nurture young researchers, scientists and generate a critical mass of trained manpower in modern areas of biology and biotechnology and build a robust postdoctoral base for the growth of Biotechnology sectors in the country.",
+        "benefits": [
+            "Stipend of \u20b955,000 per month",
+            "House rent allowance (HRA)",
+            "Research contingency grant of \u20b950,000 per year",
+            "Access to state-of-the-art research facilities",
+            "Mentorship from senior scientists"
+        ],
+        "eligibility": [
+            "Applicant must have Ph.D./ M.D./ M.S. degree in a relevant field.",
+            "Applicant must have good academic record.",
+            "Age limit is 40 years for male candidates and 45 years for female candidates.",
+            "Applicants who are employed can apply, but must relinquish their employment to accept the fellowship.",
+            "The DBT-RA fellowship can be availed only once in a career."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Self-attested pdf copy of DOB certificate",
+            "Self-attested pdf copies of degree certificates",
+            "A Consent letter from the mentor"
+        ],
+        "faqs": [
+            {
+                "question": "What is the DBT-RA program?",
+                "answer": "The DBT-RA program is a research associateship program initiated by the Department of Biotechnology (DBT) in India to support postdoctoral research in the field of biotechnology."
+            },
+            {
+                "question": "Who is eligible for the DBT-RA?",
+                "answer": "To be eligible for the DBT-RA, applicants must have: 1. A Ph.D. degree in Science, Engineering, or M.D./M.S. degree in any area of medicine with research interests in Biotechnology and Life Sciences and a good academic record. 2. Be below the age of 40 years (45 years for female candidates) as on the last date of application."
+            },
+            {
+                "question": "What are the benefits of the DBT-RA?",
+                "answer": "DBT-RA fellows receive a monthly stipend of \u20b955,000, plus house rent allowance (HRA) and other benefits. They are also provided with a research contingency grant of \u20b950,000 per year. In addition, DBT-RA fellows have access to state-of-the-art research facilities and mentorship from senior scientists."
+            },
+            {
+                "question": "How long is the DBT-RA fellowship?",
+                "answer": "The DBT-RA fellowship is for a duration of two years, with the possibility of renewal for another two years based on satisfactory performance."
+            },
+            {
+                "question": "Where can I apply for the DBT-RA?",
+                "answer": "Applications for the DBT-RA are accepted online through the DBT-RA website: https://ra.dbtindia.gov.in/"
+            },
+            {
+                "question": "What is the application deadline for the DBT-RA?",
+                "answer": "The application deadline for the DBT-RA typically falls in the month of November. However, it is advisable to check the DBT-RA website for the latest information on the application deadline."
+            },
+            {
+                "question": "What is the selection process for the DBT-RA?",
+                "answer": "The selection process for the DBT-RA is based on a competitive review of applications. Applicants are shortlisted based on their academic qualifications, research experience, and publications. Shortlisted candidates are then invited for an interview."
+            },
+            {
+                "question": "Can I apply for the DBT-RA if I am already employed?",
+                "answer": "Yes, you can apply for the DBT-RA even if you are already employed. However, if you are selected, you will have to relinquish your employment to accept the fellowship."
+            },
+            {
+                "question": "Can I apply for the DBT-RA if I have not yet received my Ph.D./M.D./M.S. degree?",
+                "answer": "Yes, you can apply for the DBT-RA even if you have not yet received your Ph.D./M.D./M.S. degree. However, if you are selected, you will be offered a lower fellowship amount until you qualify the eligible degree."
+            },
+            {
+                "question": "Can I apply for the DBT-RA more than once?",
+                "answer": "No, you can apply for the DBT-RA only once in your career."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification",
+                "url": "https://ra.dbtindia.gov.in/dbtraImages/circular/Detailed_Advertisement_RA_Call_I_2023-24.pdf"
+            },
+            {
+                "type": "DBT-RA Portal",
+                "url": "https://ra.dbtindia.gov.in/dbtraStaticPortal.html"
+            },
+            {
+                "type": "GUIDELINES",
+                "url": "https://ra.dbtindia.gov.in/dbtraStaticGuidelines.html"
+            }
+        ],
+        "tags": [
+            "Research",
+            "Biotechnology",
+            "Fellowship",
+            "Postdoctoral"
+        ]
+    }
+}

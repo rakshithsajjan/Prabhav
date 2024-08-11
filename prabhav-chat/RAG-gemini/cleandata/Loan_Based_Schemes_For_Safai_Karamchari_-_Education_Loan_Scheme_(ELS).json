@@ -1,0 +1,52 @@
+{
+    "content": {
+        "title": "Loan Based Schemes For Safai Karamchari - Education Loan Scheme (ELS)",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Loan",
+        "beneficiary": "Safai Karamcharis, Manual Scavengers, and their dependents aged 18 years and above",
+        "details": "An Education Loan scheme by the Ministry of Social Justice and Empowerment for Safai Karamchari, Manual Scavengers, and their dependents aged 18 years and above. Under this scheme, term loans are extended through State Channelising Agencies (SCA), Regional Rural Banks (RRBs) and Nationalised Banks to the target group.",
+        "benefits": [
+            "Upto 90% of the unit cost with a maximum unit cost of Rs.10.00 lacs for study in India and Rs.20.00 lacs to study abroad at interest rate of 4%",
+            "0.5% per annum rebate for women in case of study in India",
+            "Coverage for Admission Fees & Tuition Fee, Books, Stationery, Examination Fee, Boarding and lodging expenses, Insurance premium for policy"
+        ],
+        "eligibility": [
+            "Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents.",
+            "Registered co-operative societies of the target group.",
+            "Legally constituted association/firm promoted by the target group.",
+            "Persons with a certificate from local authorities as specified.",
+            "Mukhia/ Sarpanch/ President or equivalent authority for the issue of Occupation Certificate."
+        ],
+        "exclusions": [],
+        "application_process": "Online application process through district offices of SCAs of NSKFDC of RRBs and Nationalised Banks.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Income certificate",
+            "Caste certificate",
+            "Bank account statement",
+            "Educational Certificates"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://nskfdc.nic.in/writereaddata/files/LPGBROCHURE.pdf"
+            },
+            {
+                "type": "Additional Guidelines",
+                "url": "https://nskfdc.nic.in/en/content/schemes-programmes/education-loan-el"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/lbssf-els"
+            }
+        ],
+        "tags": [
+            "Education Loan",
+            "Safai Karamcharis",
+            "Manual Scavengers",
+            "Financial Assistance"
+        ]
+    }
+}

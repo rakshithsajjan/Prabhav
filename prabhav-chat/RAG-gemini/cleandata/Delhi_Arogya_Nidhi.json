@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Delhi Arogya Nidhi",
+        "state": "Delhi",
+        "department": "Directorate General of Health Services",
+        "type": "Financial Assistance",
+        "beneficiary": "Needy patients with National Food Security Cards",
+        "details": "The 'Delhi Arogya Nidhi (DAN)' is a scheme implemented by the Directorate General of Health Services to provide financial assistance of up to \u20b91.5 lacs to needy patients who have National Food Security Cards for treatment of diseases in Government hospitals only.",
+        "benefits": [
+            "Financial assistance of up to \u20b91.5 lacs for treatment in Government hospitals."
+        ],
+        "eligibility": [
+            "Patients should have a National Food Security Card.",
+            "The patient must be a resident of Delhi and has to furnish domicile proof of residing in Delhi continuously for the last 3 years.",
+            "Treatment should be from the Government Hospital in Delhi."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Proof of continuous residence in Delhi for the last 3 years through any one of the following documents: National Food Security Card, Electoral Voter\u2019s Photo Identity Card, Birth certificate (In case the patient is a minor), Extract from the electoral roll, Aadhaar Card.",
+            "Original Estimate Certificate duly signed by Consultant/ Medical Superintendent/ Chief Medical Officer of the Hospital.",
+            "Two photographs of the patient, duly attested by the treating doctor.",
+            "A copy of the National Food Security Card.",
+            "Photocopies of the treatment record."
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Delhi Arogya Nidhi (DAN)' scheme?",
+                "answer": "DAN is a scheme initiated to provide financial assistance of up to \u20b91.5 lakhs to needy patients holding the National Food Security Card for the treatment of diseases in government hospitals in Delhi."
+            },
+            {
+                "question": "Who is eligible under the 'Delhi Arogya Nidhi' Scheme?",
+                "answer": "Patients holding the National Food Security Card are eligible for financial aid under the scheme."
+            },
+            {
+                "question": "What is the maximum financial aid provided under the 'DAN' Scheme?",
+                "answer": "DAN offers financial assistance up to \u20b91.5 lakhs to eligible patients."
+            },
+            {
+                "question": "Where can eligible patients avail treatment under this scheme?",
+                "answer": "Treatment is restricted to government hospitals in Delhi."
+            },
+            {
+                "question": "What documents are required to establish eligibility for the scheme?",
+                "answer": "Essential documents include the National Food Security Card, proof of continuous residence in Delhi for the last 3 years, and other identification documents."
+            },
+            {
+                "question": "Can a minor apply for the DAN grant?",
+                "answer": "Yes, a minor patient can apply, and the Electoral Voter\u2019s Photo Identity Card or birth certificate is required as proof."
+            },
+            {
+                "question": "Are non-Delhi residents eligible for the assistance under DAN?",
+                "answer": "No, patients must be residents of Delhi and furnish domicile proof of residing in Delhi continuously for the last 3 years."
+            },
+            {
+                "question": "How to apply for the DAN grant?",
+                "answer": "The eligible applicant may submit the Application Form at the Patient Welfare Cell, Directorate of Health Services, 6th Floor, F-17, Karkardooma, Delhi-110032, using the prescribed proforma."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://dgehs.delhi.gov.in/dghs/delhi-arogya-nidhi"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://dgehs.delhi.gov.in/sites/default/files/inline-files/delhi_arogya_nidhi.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://health.delhi.gov.in/sites/default/files/Health/generic_multiple_files/totalform.pdf"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Financial Assistance",
+            "Delhi",
+            "Government Scheme"
+        ]
+    }
+}

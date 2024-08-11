@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "Kam Lagat Pyaaj Bhandaran Sanrachna",
+        "state": "Rajasthan",
+        "department": "Agriculture",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The Kam Lagat Pyaaj Bhandaran Sanrachna yojana under the Agriculture Department of the Rajasthan government provides subsidies and support, the scheme aims to assist farmers in constructing storage facilities for onions at affordable rates. This initiative seeks to address post-harvest losses, prolong the shelf life of onions, and stabilize market prices by ensuring adequate storage infrastructure. Ultimately, the scheme aims to enhance the income of onion farmers and contribute to the overall development of the agricultural sector.",
+        "benefits": [
+            "Onion storage structure (25 Metric Ton capacity): 50% unit cost subsidy, max grant \u20b9 87,500/-."
+        ],
+        "eligibility": [
+            "The applicant must be a native of Rajasthan.",
+            "The applicant should be a Farmer.",
+            "The applicant must have a minimum of 0.5 land ownership.",
+            "A farmer who is cultivating onion and wants to build a low-cost onion storage structure."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card/Jan Aadhar Card.",
+            "Copy of Jamabandi (not more than six months old)."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Under the Kam Lagat Pyaaj Bhandaran Sanrachna yojana Construction of warehouses should be done at a high level to prevent moisture and dampness which occur due to direct contact of onions with soil."
+            },
+            {
+                "question": "Who is eligible to benefit from this scheme?",
+                "answer": "Farmers involved in onion cultivation are typically eligible to avail themselves of subsidies and support for constructing onion storage facilities under this scheme."
+            },
+            {
+                "question": "What is the subsidy provided for constructing onion storage structures?",
+                "answer": "The scheme offers a subsidy of 50% of the unit cost for the construction of onion storage structures, with a maximum grant of \u20b987,500/-."
+            },
+            {
+                "question": "What is the capacity of the onion storage structure supported under the scheme?",
+                "answer": "The supported onion storage structures typically have a capacity of 25 metric tons."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, only Rajasthan people can apply for this scheme."
+            },
+            {
+                "question": "Is there any Land criteria?",
+                "answer": "The applicant must have a minimum of 0.5 land ownership."
+            },
+            {
+                "question": "How do a applicant know if a field in the application form is mandatory?",
+                "answer": "Mandatory fields are usually marked with an asterisk sign (*)."
+            },
+            {
+                "question": "How can i apply online?",
+                "answer": "One can apply by visiting the e-Mitra center. https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "question": "How long is the Jamabandi copy valid?",
+                "answer": "Not more than six months old."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Aadhaar Card/Jan Aadhar Card, copy of Jamabandi."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Login",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Farming",
+            "Vegetables"
+        ]
+    }
+}

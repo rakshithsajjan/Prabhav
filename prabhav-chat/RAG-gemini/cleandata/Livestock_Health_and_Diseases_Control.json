@@ -1,0 +1,62 @@
+{
+    "content": {
+        "title": "Livestock Health and Diseases Control",
+        "state": "India",
+        "department": "Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Centrally Sponsored Scheme",
+        "beneficiary": "Bona fide farmers or livestock owners",
+        "details": "To implement Critical Animal disease control programme to eradicate PPR by 2030 by vaccinating all sheep and goats and to control Classical Swine Fever (CSF) by vaccinating the entire pig population. The scheme provides veterinary services at the farmers\u2019 doorstep through Mobile Veterinary Units (MVUs) and assists States/UTs for Control of Animal Disease (ASCAD) by prevention & control of important livestock and poultry diseases prevalent in different States / UTs as per the State /UT\u2019s priorities.",
+        "benefits": [
+            "Improved animal health and productivity",
+            "Reduced economic losses",
+            "Improved food security",
+            "Increased employment opportunities",
+            "Improved rural livelihood"
+        ],
+        "eligibility": [
+            "Beneficiary must be a bona fide farmer or livestock owner",
+            "Beneficiary must have a valid livestock ownership document",
+            "Beneficiary's livestock must be used for commercial purposes"
+        ],
+        "exclusions": [],
+        "application_process": "Contact local veterinary office or the Department of Animal Husbandry and Dairying in state. Get the application form, fill it out with required details, submit it to the concerned authority, and attach the required documents.",
+        "documents_required": [
+            "An application form",
+            "A copy of your Aadhaar card or other identity proof",
+            "A copy of your livestock ownership documents"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Improved animal health and productivity, reduced economic losses, improved food security, increased employment opportunities, and improved rural livelihood."
+            },
+            {
+                "question": "Who can get the scheme benefits?",
+                "answer": "Beneficiary must be a bona fide farmer or livestock owner, must have a valid livestock ownership document, and livestock must be used for commercial purposes."
+            },
+            {
+                "question": "What activities are covered under the scheme?",
+                "answer": "Prophylactic vaccination programmes against various livestock and poultry diseases, disease surveillance and early detection, control and eradication of livestock diseases, capacity building of veterinary personnel, and strengthening of veterinary infrastructure."
+            },
+            {
+                "question": "What is the application process?",
+                "answer": "Contact local veterinary office or the Department of Animal Husbandry and Dairying in state, fill out the application form and submit it to the concerned authority, along with the required documents."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "An application form, a copy of your Aadhaar card or other identity proof, and a copy of your livestock ownership documents."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/lhadc"
+            }
+        ],
+        "tags": [
+            "Animal Health",
+            "Animal Husbandry",
+            "Livestock Diseases"
+        ]
+    }
+}

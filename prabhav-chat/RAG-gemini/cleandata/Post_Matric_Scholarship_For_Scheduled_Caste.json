@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "Post Matric Scholarship For Scheduled Caste",
+        "state": "Punjab",
+        "department": "Department of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Scheduled Caste students",
+        "details": "The objective of the scheme is to provide financial assistance to the Scheduled Caste students studying at post matriculation or post-secondary stage to enable them to complete their education. Scholarships will be paid to the students whose parents/guardians' income from all sources does not exceed Rs. 2,50,000/- (Rupees two lakh, fifty thousand only) per annum.",
+        "benefits": [
+            "Compulsory non-refundable fees including tuition fees",
+            "Academic Allowance based on course category"
+        ],
+        "eligibility": [
+            "Nationals of India only",
+            "Candidates belonging to Scheduled Castes specified by the State/UT",
+            "Passed Matriculation or Higher Secondary or any higher examination of a recognized University or Board",
+            "Parents' income does not exceed Rs. 2,50,000/- per annum",
+            "Students pursuing studies through correspondence/online courses are also eligible"
+        ],
+        "exclusions": [
+            "Students studying in the same stage of education in a different subject are not eligible",
+            "Students who hold other scholarships/stipends cannot receive this scholarship"
+        ],
+        "application_process": "Applicants need to visit the official website, click on the registration link, select the application form, fill out the required information, upload the documents/certificate, and submit the application.",
+        "documents_required": [
+            "Aadhar card",
+            "Permanent address/Resident proof",
+            "Previous year academic mark sheet",
+            "Admission proof",
+            "Passport-size photograph (3 copies)",
+            "Bank passbook"
+        ],
+        "faqs": [
+            {
+                "question": "What is Post Matric Scholarship For Scheduled Caste Scheme?",
+                "answer": "To provide financial assistance to the Scheduled Caste students studying at post matriculation or post-secondary stage to enable them to complete their education."
+            },
+            {
+                "question": "What is the eligibility criteria?",
+                "answer": "The applicant should be a native of India resident in Punjab, must hold at least a 12th standard passing certificate from a recognized school, and must enroll in a degree course in a government college."
+            },
+            {
+                "question": "Which documents are required?",
+                "answer": "Resident proof, Aadhar card, Admission proof, Previous academic records, Photograph, Scanned signatures, Bank account details, and other significant documents."
+            },
+            {
+                "question": "What are the benefits under the scheme?",
+                "answer": "Get Financial Assistance from the government based on the Category of Opted courses."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/pmssc"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://www.scholarships.punjab.gov.in/"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Scheduled Caste",
+            "Punjab",
+            "Education"
+        ]
+    }
+}

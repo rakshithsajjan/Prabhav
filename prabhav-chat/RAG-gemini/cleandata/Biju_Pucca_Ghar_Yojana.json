@@ -1,0 +1,71 @@
+{
+    "content": {
+        "title": "Biju Pucca Ghar Yojana",
+        "state": "Odisha",
+        "department": "Panchayati Raj & Drinking Water Department",
+        "type": "Grant",
+        "beneficiary": "Rural households living in kutcha houses",
+        "details": "The objective of the scheme is to convert all kutcha houses into Pucca houses in rural areas of the state in a mission-mode approach. A Pucca house means that it should be able to withstand normal wear & tear due to usage and natural forces including climatic conditions.",
+        "benefits": [
+            "Unit cost for construction of a new Pucca house is Rs. 1,20,000/- for non-IAP districts and Rs. 1,30,000/- for IAP districts.",
+            "The fund under the scheme shall be credited to the beneficiary\u2019s account through Public Financial Management System (PFMS).",
+            "No contractor shall be involved in the construction of houses."
+        ],
+        "eligibility": [
+            "The applicant must be a permanent resident of Odisha state.",
+            "An application must belong to an economically weaker section.",
+            "The applicant must be living in a kutcha house.",
+            "The application should not own any pucca house in the state.",
+            "Beneficiary allotted a house under any Scheme whose house was washed away/ fully damaged/has fully collapsed due to landslide/elephant menace/earthquake/flood or cyclone will also get a house under the Scheme."
+        ],
+        "exclusions": [
+            "Households who have been sanctioned a house earlier under any of the RH Schemes.",
+            "Households who live in a Pucca house."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card",
+            "Bonafide certificate",
+            "Voter ID card",
+            "Residence certificate",
+            "Address Proof",
+            "Identification Proof",
+            "BPL Certificate",
+            "EWS Certificate",
+            "Passport size photograph"
+        ],
+        "faqs": [
+            {
+                "question": "BPGY scheme is applicable for how many district and blocks?",
+                "answer": "Currently, it's applicable for 9 districts and 36 blocks."
+            },
+            {
+                "question": "What is the eligibility for BPGY?",
+                "answer": "The applicant must be a permanent resident of Odisha state, belong to an economically weaker section, live in a kutcha house, not own any pucca house, and beneficiaries whose houses were damaged due to natural calamities are also eligible."
+            },
+            {
+                "question": "What are the benefits under BPGY?",
+                "answer": "The unit cost under Biju Pucca Ghar for the construction of a new Pucca house is Rs. 1,20,000/- for non-IAP districts and Rs. 1,30,000/- for IAP districts."
+            },
+            {
+                "question": "What are the certificates/documents required?",
+                "answer": "Aadhaar Card, Bonafide certificate, Voter ID card, residence certificate, address Proof, Identification Proof, BPL Certificate, EWS Certificate, Passport size photograph."
+            },
+            {
+                "question": "What is the official site to apply?",
+                "answer": "Follow the official website https://rhodisha.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rhodisha.gov.in/home/img/guidelines/PGY/(Minning/)_guidelines.pdf"
+            }
+        ],
+        "tags": [
+            "Housing",
+            "Rural Development",
+            "Odisha"
+        ]
+    }
+}

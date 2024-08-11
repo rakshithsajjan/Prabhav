@@ -1,0 +1,85 @@
+{
+    "content": {
+        "title": "Grant Scheme for Marriage of SC and ST Girls",
+        "state": "Uttarakhand",
+        "department": "Social Welfare Department",
+        "type": "Grant",
+        "beneficiary": "Scheduled Caste and Scheduled Tribe Girls",
+        "details": "\u201cGrant Scheme for Marriage of SC and ST Girls\u201d scheme is a social security scheme by the Social Welfare Department, Government of Uttarakhand. The scheme aims to provide financial assistance to the Scheduled Castes (SC) and Scheduled Tribes (ST) girls to cover the expenses of marriage.",
+        "benefits": [
+            "\u20b9 50,000/- to the beneficiaries.",
+            "Assistance can be availed for the marriage of a maximum of 2 (two) daughters in a family."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Uttarakhand.",
+            "The applicant should be a girl/woman.",
+            "The applicant should belong to the category of Scheduled Castes (SC)/ Scheduled Tribes (ST)/ BPL (Below Poverty Level).",
+            "Applicant\u2019s monthly family income should not exceed \u20b94,000/-.",
+            "The applicant (Bride) should be between 18-45 years of age and the groom should be between 21-45 years of age."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Antyodaya Card/ BPL Certificate/ Income Certificate.",
+            "Residential Certificate.",
+            "Copy of marriage certificate issued by the Registration Office.",
+            "Self-declaration from the applicant and the applicant's family members that they have not availed the benefit of this scheme for the marriage of more than one daughter before.",
+            "Copy of Caste Certificate of the applicant.",
+            "Certificate of date of birth of the bridegroom/bride (High School Certificate/ Birth Certificate/ Family Register/ Aadhaar Card/ Family Register).",
+            "Self-attested Ration Card.",
+            "Photo of the applicant.",
+            "Aadhaar card of the applicant.",
+            "Copy of Savings Bank account (should be seeded with Aadhaar)."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of \u201cGrant Scheme for Marriage of SC and ST Girls\u201d?",
+                "answer": "\u201cGrant Scheme for Marriage of SC and ST Girls\u201d is a social security scheme by the Social Welfare Department, Government of Uttarakhand, that provides financial assistance to the SC and ST girls to cover their expenses of marriage."
+            },
+            {
+                "question": "Which department has launched this Scheme?",
+                "answer": "This scheme has been launched by the Social Welfare Department, Government of Uttarakhand."
+            },
+            {
+                "question": "Who are the targeted beneficiaries under this scheme?",
+                "answer": "SC and ST Girls of Uttarakhand are the targeted beneficiaries under this scheme."
+            },
+            {
+                "question": "What kind of financial assistance can be availed through this scheme?",
+                "answer": "Financial assistance of \u20b950,000/- is provided to the beneficiaries to cover their expenses of marriage."
+            },
+            {
+                "question": "What should be the age criteria for the beneficiaries?",
+                "answer": "The applicant should be between 18-45 years of age."
+            },
+            {
+                "question": "What should be the income criteria for the beneficiaries?",
+                "answer": "The income of the applicant\u2019s family should not exceed \u20b9 4000/- per month."
+            },
+            {
+                "question": "How can the application be submitted?",
+                "answer": "Applications can be made online at: https://ssp.uk.gov.in/Home.aspx."
+            },
+            {
+                "question": "Whether the application can be tracked?",
+                "answer": "Yes, applications can be tracked from: https://ssp.uk.gov.in/frmApplicantionVerificationDetailAtDiffLevels.aspx by providing Application Number/Mobile number/Aadhaar number."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://agriculture.uk.gov.in/files/MERI_YOJANA_book_pdf__04-12-23.pdf"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://ssp.uk.gov.in/Documents/ProcessForRegistration.pdf"
+            }
+        ],
+        "tags": [
+            "Marriage Grant",
+            "Scheduled Caste",
+            "Scheduled Tribe",
+            "Financial Assistance"
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "content": {
+        "title": "Pension Scheme for Cancer Patients",
+        "state": "Tripura",
+        "department": "Directorate of Social Welfare and Social Education",
+        "type": "Financial Assistance",
+        "beneficiary": "Cancer Patients",
+        "details": "The scheme 'Pension Scheme for Cancer Patients' was launched by the Directorate of Social Welfare and Social Education, Government of Tripura. The scheme aims to provide a monthly pension of \u20b92,000/- to persons suffering from cancer.",
+        "benefits": [
+            "\u20b92,000/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be a resident of Tripura.",
+            "The income of the applicant should not exceed \u20b91,50,000/- per annum.",
+            "No member of the family (father, mother, son(s), or unmarried daughter(s)) of the applicant should be in government service.",
+            "The applicant should be suffering from cancer."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Applications would be invited in the prescribed form by giving wide publicity through print and electronic media.",
+        "documents_required": [
+            "Passport-size Photograph.",
+            "Bank Passbook.",
+            "Aadhaar Card.",
+            "Income Certificate (issued by the DCM/ Sub Divisional Magistrate).",
+            "Certificate From a Gazetted Government Officer That No Person in His/her Family is a Government Servant.",
+            "Medical Certificate from Regional Cancer Center, Agartala, or a Govt. Hospital or Any Recognized Hospital.",
+            "Proof of Residence (Ration Card, Permanent Resident of Tripura Certificate (PRTC), Voter ID, Driving License, or Passport)."
+        ],
+        "faqs": [
+            {
+                "question": "What are the permissible proofs of residence?",
+                "answer": "Proof of residence can be in the form of a Ration Card, Permanent Resident of Tripura Certificate (PRTC), Voter ID, Driving License, or Passport."
+            },
+            {
+                "question": "What medical certificate is accepted for the scheme?",
+                "answer": "A Medical Certificate from Regional Cancer Center, Agartala, or a Govt. Hospital or any recognized hospital is accepted."
+            },
+            {
+                "question": "What role does the Directorate of Social Welfare and Social Education play in the scheme?",
+                "answer": "The Directorate is responsible for launching and overseeing the Pension Scheme for Cancer Patients."
+            },
+            {
+                "question": "Where should the application be submitted?",
+                "answer": "Applications should be submitted to the Office of the Child Development Project Officer (CDPO) of the concerned area."
+            },
+            {
+                "question": "Is there an age limit for applicants to qualify for the scheme?",
+                "answer": "The guidelines do not specify an age limit; eligibility is primarily based on residency, income, and cancer diagnosis."
+            },
+            {
+                "question": "How is the proof of income determined for eligibility?",
+                "answer": "The Income Certificate issued by the DCM/Sub Divisional Magistrate is used to determine income eligibility."
+            },
+            {
+                "question": "Can the applicant submit the application to any government office?",
+                "answer": "No, the application should be submitted specifically to the Office of the Child Development Project Officer (CDPO) of the concerned area."
+            },
+            {
+                "question": "What details should the acknowledgment receipt contain?",
+                "answer": "The receipt should include essential details such as the date, time of submission, and a unique identification number if applicable."
+            },
+            {
+                "question": "Is there a deadline for submitting applications?",
+                "answer": "The scheme guidelines do not specify a deadline; however, timely submission is recommended."
+            },
+            {
+                "question": "What is the role of the Child Development Project Officer (CDPO) in the application process?",
+                "answer": "The CDPO is the authority to whom the application should be submitted for processing."
+            },
+            {
+                "question": "How is the publicity for inviting applications carried out?",
+                "answer": "Applications are invited through wide publicity in print and electronic media."
+            },
+            {
+                "question": "Can applicants from outside Tripura avail of the scheme benefits?",
+                "answer": "No, applicants must be residents of Tripura to be eligible for the Pension Scheme for Cancer Patients."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Notification%20of%20Scheme%20for%20providing%20pension%20to%20the%20Cancer%20Patients_0.pdf"
+            },
+            {
+                "type": "Revised Rate Of Pension",
+                "url": "https://socialwelfare.tripura.gov.in/sites/default/files/Monthly%20revised%20rate%20of%20following%20Social%20Security%20Pension%20Schemes%20including%20NSAP%20%26%20State%20Social%20Pension%20Schemes%20%281%29.pdf"
+            }
+        ],
+        "tags": [
+            "Cancer",
+            "Financial Assistance",
+            "Medical",
+            "Patient",
+            "Pension"
+        ]
+    }
+}

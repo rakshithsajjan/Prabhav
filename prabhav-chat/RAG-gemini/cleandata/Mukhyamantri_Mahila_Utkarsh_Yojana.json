@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Mukhyamantri Mahila Utkarsh Yojana",
+        "state": "Gujarat",
+        "department": "Ministry of Electronics & IT (MeitY)",
+        "type": "Loan",
+        "beneficiary": "Women entrepreneurs",
+        "details": "Under the scheme, the government provides interest-free loans of up to Rs. 1 lakh to women entrepreneurs who wish to start a new business or expand their existing one. The loans are provided without any collateral security, and the repayment period is up to five years. The scheme also provides training and skill development programs to women entrepreneurs to help them build their business acumen and enhance their knowledge of entrepreneurship.",
+        "benefits": [
+            "Interest-Free Loans: Women entrepreneurs can avail of interest-free loans of up to Rs. 1 lakh to start or expand their businesses.",
+            "Subsidy: The government provides a subsidy of 6% per annum to women entrepreneurs who repay their loans on time.",
+            "No Processing Fee: The scheme does not charge any processing fee for the loan application.",
+            "Repayment Period: The repayment period for the loan is up to 5 years.",
+            "Skill Development: The scheme provides training and skill development programs to women entrepreneurs.",
+            "Employment Generation: The scheme promotes the creation of employment opportunities for women.",
+            "Financial Independence: The scheme empowers women entrepreneurs to become financially independent.",
+            "No Income Limit: There is no income limit for women entrepreneurs to apply for the scheme."
+        ],
+        "eligibility": [
+            "The applicant should be a woman who is a permanent resident of Gujarat.",
+            "The applicant should be 18 years of age or above.",
+            "The applicant should have passed at least the 8th standard.",
+            "The applicant should have a valid Aadhaar card."
+        ],
+        "exclusions": [
+            "Government employees are not allowed to apply to the scheme.",
+            "The student obtaining benefits under this scheme shall not be allowed to avail of benefits under any other scheme for this purpose."
+        ],
+        "application_process": "Online. Visit the official website of the scheme, download the application form, fill it in with necessary details, attach required documents, and submit the application form.",
+        "documents_required": [
+            "The applicant should have a valid Aadhaar card.",
+            "Any government-issued identity proof such as Voter ID, Driving License, or PAN Card.",
+            "Any government-issued address proof such as Voter ID, Driving License, or Passport.",
+            "The applicant should provide a certificate of having passed at least 8th standard.",
+            "The applicant should submit a detailed business plan.",
+            "The applicant should provide the bank account details for the loan disbursement.",
+            "Recent passport-size photographs of the applicant."
+        ],
+        "faqs": [
+            {
+                "question": "Can the loan be used for any type of business?",
+                "answer": "Yes, the loan can be used for any type of business, including manufacturing, service, or trading."
+            },
+            {
+                "question": "Is there any income limit for women entrepreneurs to apply for the scheme?",
+                "answer": "No, there is no income limit for women entrepreneurs to apply for the scheme."
+            },
+            {
+                "question": "Is collateral security required for the loan?",
+                "answer": "No, collateral security is not required for the loan."
+            },
+            {
+                "question": "What is the repayment period for the loan?",
+                "answer": "The repayment period for the loan is up to 5 years."
+            },
+            {
+                "question": "Can women entrepreneurs who have already taken loans from other schemes apply for this scheme?",
+                "answer": "Yes, provided they meet the eligibility criteria."
+            },
+            {
+                "question": "Is the scheme open only to women residents of Gujarat?",
+                "answer": "Yes, it is open only to women residents of Gujarat."
+            },
+            {
+                "question": "Is it mandatory to have a business plan to apply for the scheme?",
+                "answer": "Yes, it is mandatory to submit a detailed business plan."
+            },
+            {
+                "question": "Is there any application fee for applying to the scheme?",
+                "answer": "No, there is no application fee."
+            },
+            {
+                "question": "Can an applicant submit multiple applications for the same business idea?",
+                "answer": "No, an applicant can submit only one application for the same business idea."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/mmuy"
+            }
+        ],
+        "tags": [
+            "Women Empowerment",
+            "Entrepreneurship",
+            "Financial Assistance",
+            "Skill Development"
+        ]
+    }
+}

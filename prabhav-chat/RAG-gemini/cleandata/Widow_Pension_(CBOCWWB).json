@@ -1,0 +1,78 @@
+{
+    "content": {
+        "title": "Widow Pension (CBOCWWB)",
+        "state": "Chandigarh",
+        "department": "Labour Department, Chandigarh",
+        "type": "Pension",
+        "beneficiary": "Widows of male registered construction workers",
+        "details": "The scheme 'Widow Pension' was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance in the form of a monthly pension shall be given to the widows of male registered construction workers of the Board.",
+        "benefits": [
+            "Financial assistance of \u20b91000/- per month in the form of pension"
+        ],
+        "eligibility": [
+            "The deceased worker should have been working at the establishment, registered under the Punjab Labour Welfare Fund Act, 1965 and his contributions to the labour welfare fund should have been regularly received by the board.",
+            "The financial assistance will be given on the production of the death certificate issued by the competent authority along with self-declaration for not withdrawing pension from any other sources/office/factory.",
+            "The financial assistance will not be given to those beneficiaries who are covered under EPF.",
+            "The widow of a male construction worker would be eligible to avail the benefit of this scheme only if the male construction worker was a member of the Board for at least the last six months.",
+            "The widow should apply for the benefit of this scheme within one year."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport-size photograph",
+            "A copy of the Aadhaar card of the applicant",
+            "Self-declaration by the applicant that she is not receiving a pension from any other office",
+            "Death Certificate issued by a Competent Authority",
+            "Copy of BOCW Card of deceased worker",
+            "Bank account details/Bank Passbook",
+            "A copy of the salary slip of the deceased worker",
+            "Any other relevant documents"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Widow Pension Scheme?",
+                "answer": "The Widow Pension Scheme is introduced by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. The scheme is designed to provide monthly pension support to the widows of male registered construction workers affiliated with the Board."
+            },
+            {
+                "question": "What financial assistance is provided under the Widow Pension Scheme by the CBOCWWB?",
+                "answer": "The Widow Pension Scheme offers financial assistance of \u20b91000 per month in the form of a monthly pension to eligible widows of male registered construction workers affiliated with the Board."
+            },
+            {
+                "question": "What are the eligibility criteria for the Widow Pension Scheme by CBOCWWB?",
+                "answer": "To be eligible for the Widow Pension Scheme, the deceased worker should have been employed at an establishment registered under the Punjab Labour Welfare Fund Act, 1965. Additionally, his contribution to the labour welfare fund should have been regularly received by the board."
+            },
+            {
+                "question": "Are there any exclusions for beneficiaries covered under EPF (Employees' Provident Fund)?",
+                "answer": "Yes, financial assistance under the Widow Pension Scheme will not be provided to beneficiaries who are covered under the Employees' Provident Fund (EPF)."
+            },
+            {
+                "question": "How long should the deceased male construction worker have been a member of the Board for the widow to be eligible?",
+                "answer": "The widow of a male construction worker is eligible to avail the benefits of the scheme only if the male construction worker was a member of the Board for at least the last six months preceding their demise."
+            },
+            {
+                "question": "Is there a time limit for widows to apply for the benefits of the scheme?",
+                "answer": "Yes, widows are required to apply for the benefits of the Widow Pension Scheme within one year of the male construction worker's demise."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://labour.chd.gov.in/PublicPages/widow-pension.aspx"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&message=Successfully+logged+out&OWASP_CSRFTOKEN=FG8Q-N9Y9-L6GR-9YL1-RX8I-7E5P-RHHN-9DZK"
+            },
+            {
+                "type": "User Manual",
+                "url": "http://labour.chd.gov.in/pdf/LWB.pdf"
+            }
+        ],
+        "tags": [
+            "Construction Worker",
+            "Labour",
+            "Pension",
+            "Widow"
+        ]
+    }
+}

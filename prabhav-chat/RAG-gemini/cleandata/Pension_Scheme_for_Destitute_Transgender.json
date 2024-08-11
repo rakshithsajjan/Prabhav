@@ -1,0 +1,97 @@
+{
+    "content": {
+        "title": "Pension Scheme for Destitute Transgender",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Pension",
+        "beneficiary": "Transgender individuals above the age of 40 who are destitute",
+        "details": "The scheme 'Pension Scheme for Destitute Transgender' was launched by the Social Welfare and Women Empowerment Department, Government of Tamil Nadu. The scheme aims to help poor transgender who are above the age of 40 years and are unable to earn their livelihood. Interested and eligible applicants should apply via Common Service Centres (CSC).",
+        "benefits": [
+            "Pension of \u20b9 1,000/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be Transgender.",
+            "The applicant should be destitute.",
+            "The applicant's age should be 40 years and above.",
+            "The applicant should be physically unable to work and earn.",
+            "The applicant should not have received assistance from any family member or other sources."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs. The applicant should gather copies of the necessary documents needed to apply for the concerned scheme, visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process, fill in all the mandatory fields in the application form and upload copies of all the mandatory documents, and request a receipt or acknowledgment from the concerned authority.",
+        "documents_required": [
+            "Transgender Identity Card (Issued by the Tamil Nadu Transgender Welfare Board).",
+            "Disability Certificate (If required).",
+            "Applicant's Photo.",
+            "Aadhaar Card.",
+            "Proof of Age.",
+            "Bank Passbook.",
+            "Any other document, if required."
+        ],
+        "faqs": [
+            {
+                "question": "I am a transgender person above 40 and have a disability, but I can still work part-time. Am I eligible for the scheme?",
+                "answer": "No, unfortunately, the scheme is strictly for destitute transgender individuals who are unable to work and earn their livelihood due to physical limitations."
+            },
+            {
+                "question": "I am a young transgender person below 40. Can I apply and receive the benefits when I turn 40?",
+                "answer": "No, the scheme requires the applicant to be 40 years and above at the time of application."
+            },
+            {
+                "question": "I am a transgender person living with my supportive family. Am I still eligible for the scheme?",
+                "answer": "Eligibility depends on whether you receive financial assistance from your family. If you have sufficient support from your family, you wouldn't be considered destitute."
+            },
+            {
+                "question": "I don't have a computer or internet access. How can I apply for the scheme?",
+                "answer": "You can still apply by visiting the nearest CSC. They have the necessary facilities to complete the application process on your behalf."
+            },
+            {
+                "question": "Is the pension amount paid directly into my bank account?",
+                "answer": "Yes, the pension amount is typically deposited directly into your bank account."
+            },
+            {
+                "question": "Do I need to renew my application every year to continue receiving the pension?",
+                "answer": "No, once approved, you don't need to reapply every year."
+            },
+            {
+                "question": "I live in a remote area with limited access to CSCs. Are there any alternative ways to apply?",
+                "answer": "You can inquire with the Social Welfare Department about potential mobile camps or designated application centers closer to your location."
+            },
+            {
+                "question": "Is there a specific deadline to apply for the scheme?",
+                "answer": "No, the Pension Scheme for Destitute Transgender is an ongoing initiative, and you can apply at any time."
+            },
+            {
+                "question": "Will the application process cost me anything?",
+                "answer": "No, applying for the scheme is completely free."
+            },
+            {
+                "question": "What happens if I am hospitalized for an extended period? Will I still receive the pension?",
+                "answer": "Yes, you will still receive your monthly pension even if you are hospitalized."
+            },
+            {
+                "question": "Can I withdraw the entire pension amount at once, or is it disbursed in installments?",
+                "answer": "The pension amount of \u20b91,000/- is typically credited to your bank account on a monthly basis."
+            },
+            {
+                "question": "What happens if I miss receiving a pension payment in a month?",
+                "answer": "If you don't receive your pension on the expected date, you can contact the Social Welfare Department or the bank where your pension account is held."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://tnlegalservices.tn.gov.in/swwe/Annexure_English.pdf"
+            }
+        ],
+        "tags": [
+            "Destitute",
+            "Financial Assistance",
+            "Pension",
+            "Transgender"
+        ]
+    }
+}

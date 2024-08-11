@@ -1,0 +1,122 @@
+{
+    "content": {
+        "title": "Cash Award (MBOCWWB)",
+        "state": "Meghalaya",
+        "department": "Labour Department, Government of Meghalaya",
+        "type": "Award",
+        "beneficiary": "Children of registered construction workers",
+        "details": "The scheme 'Cash Award' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board annually awards cash prizes to three male and three female children of registered construction workers in each district who scores the highest marks in the SSLC examination.",
+        "benefits": [
+            "Every year, the Board awards a cash prize to three male and three female children of registered construction workers in each district who achieve the highest marks in the SSLC examination.",
+            "The award amounts are \u20b91000/-, \u20b9750/-, and \u20b9500/- respectively."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of Meghalaya.",
+            "The beneficiary should be engaged in any building or other construction work.",
+            "The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.",
+            "The beneficiary should have an active membership of the Board.",
+            "Registered construction workers whose child or children achieve the highest marks in the SSLC examination within their district can apply to avail the benefits of the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)",
+            "Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)",
+            "Bank Passbook of the worker",
+            "eShram ID card, if any",
+            "Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card",
+            "Nomination Form duly signed by the applicant",
+            "Self-declaration towards non-enrolment as a member of any other welfare fund/ board",
+            "SC/ST Certificate (if applicable)",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers the 'Cash Award' scheme?",
+                "answer": "The scheme is administered by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), under the Labour Department of the Government of Meghalaya."
+            },
+            {
+                "question": "What are the benefits of the 'Cash Award' scheme?",
+                "answer": "The scheme provides cash prizes to three male and three female children of registered construction workers in each district who achieve the highest marks in the SSLC examination."
+            },
+            {
+                "question": "How are the cash prizes distributed?",
+                "answer": "The cash prizes are distributed in amounts of \u20b91000/-, \u20b9750/-, and \u20b9500/- to the highest marks scorer among male and female children of registered construction workers in the district."
+            },
+            {
+                "question": "Who is eligible for the 'Cash Award' scheme?",
+                "answer": "Registered construction workers whose child or children achieve the highest marks in the SSLC examination within their district can apply to avail the benefits of the scheme."
+            },
+            {
+                "question": "Can children of registered construction workers from other states apply for the scheme?",
+                "answer": "No, the scheme is specifically for the benefit of children of registered construction workers in Meghalaya."
+            },
+            {
+                "question": "Can children of both male and female construction workers avail the benefits?",
+                "answer": "Yes, the scheme is gender-inclusive, allowing both male and female children of registered construction workers to benefit."
+            },
+            {
+                "question": "Are there any documents required for application?",
+                "answer": "Documents such as proof of residency, registration under the Welfare Board, and SSLC examination results may be required for application."
+            },
+            {
+                "question": "How are the students selected?",
+                "answer": "The students are selected based on the highest marks achieved in the SSLC examination among the children of registered construction workers in each district."
+            },
+            {
+                "question": "How can the application be submitted?",
+                "answer": "Applications can be made online at http://megbocwwb.gov.in/bocw_services"
+            },
+            {
+                "question": "Can the application be tracked?",
+                "answer": "Yes, applications can be tracked from the Dashboard after logging into http://megbocwwb.gov.in/bocw_services"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megbocwwb.gov.in/enrollment"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://megbocwwb.gov.in/schemes_awards"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+            },
+            {
+                "type": "Registration Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+            },
+            {
+                "type": "Application Form For Cash Award",
+                "url": "https://megbocwwb.gov.in/forms/benefit/cashaward.pdf"
+            },
+            {
+                "type": "Nomination Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+            },
+            {
+                "type": "Family Members Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+            },
+            {
+                "type": "SDO Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+            },
+            {
+                "type": "Employer Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+            }
+        ],
+        "tags": [
+            "Cash Award",
+            "MBOCWWB",
+            "Meghalaya",
+            "Construction Workers",
+            "SSLC Examination"
+        ]
+    }
+}

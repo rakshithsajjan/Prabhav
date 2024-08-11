@@ -1,0 +1,101 @@
+{
+    "content": {
+        "title": "Gharaunda-Group Home for Adults Scheme",
+        "state": "Not specified",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Group Home",
+        "beneficiary": "Persons With Disability (PwD)",
+        "details": "Gharaunda-Group Home for Adults scheme, launched by the Department of Empowerment of Persons with Disabilities, aims at setting up Gharaunda Centres or Registered Organisations (RO) for all Adult PwDs covered under the National Trust Act with adequate and quality care service with acceptable living standards including provision of basic medical care from professional doctors. The objective of Gharaunda scheme is to provide an assured home and minimum quality of care services throughout the life of the person with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities.",
+        "benefits": [
+            "An assured home and minimum quality of care services throughout the life of the PwD.",
+            "Adequate and quality care service with acceptable living standards including provision of basic medical care from professional doctors.",
+            "Vocational activities, pre-vocational activities and assistance for further training."
+        ],
+        "eligibility": [
+            "PwD should be more than 18 years of age.",
+            "PwD should have one of the disabilities under the National Trust Act, 1999, which are Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities.",
+            "Applicant should be registered with the National Trust.",
+            "Applicant should have a valid registration under the PwD Act 1995, at the time of enrolment.",
+            "The group home land should either be owned by RO or should have lease of at least 10 years with provision of renewal.",
+            "RO should have minimum 2 years of experience of working with Persons with Disabilities (PwD) with at least one year experience in one of the four disabilities under the National Trust Act.",
+            "RO should not be blacklisted by the National Trust or any other Government Organization on the date of submission of scheme enrolment form."
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online. Enrolment of PwD at the Gharaunda Centre involves several steps including assessment, certification, and verification.",
+        "documents_required": [
+            "Enrolment form.",
+            "Birth certificate or Date of Birth proof of the PwD.",
+            "Disability certificate.",
+            "BPL certificate or Income certificate of Parent or Guardian issued by competent authority as authorized by the concerned State/ Union Territory (for LIG or BPL family).",
+            "ID proof of parent or guardian.",
+            "LG certificate in case parents are not the guardians, OR LG certificate, if PwD>18 years of age and parents are not the guardians."
+        ],
+        "faqs": [
+            {
+                "question": "Which department has launched Gharaunda scheme?",
+                "answer": "This scheme has been launched by the Department of Empowerment of Persons with Disabilities."
+            },
+            {
+                "question": "What are the main benefits of this scheme?",
+                "answer": "Benefits includes life long shelter and care of Persons with Disability (PwD) covered under the National Trust Act."
+            },
+            {
+                "question": "From where the PwD can get the facilities?",
+                "answer": "PwD can avail the benefits from Gharaunda Centres or Registered Organisation."
+            },
+            {
+                "question": "What is the main objective of this scheme?",
+                "answer": "The main purpose of this scheme is to provide an assured home and minimum quality of care services throughout the life of the person with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities."
+            },
+            {
+                "question": "What would be batch size in a Gharaunda Centre?",
+                "answer": "Batch size of a Gharaunda centre is 20 PwDs with a maximum number of PwDs allowed is 30% extra of batch size i.e. 26 for Gharaunda Centres."
+            },
+            {
+                "question": "What are the other benefits of the scheme?",
+                "answer": "PwD will be also provided with Vocational activities, pre-vocational activities and assistance for further training."
+            },
+            {
+                "question": "Who will be covered under this scheme?",
+                "answer": "Adult PwDs with more than age of 18 years will be covered under this scheme."
+            },
+            {
+                "question": "What is the enrolment process of the of PwD at the Gharaunda Centre?",
+                "answer": "Parent/legal guardian of the PwD have to come together at the Gharaunda Centre. Then the centre will conduct a PwD Assessment Test with the help of a Therapist or Counsellor."
+            },
+            {
+                "question": "How this scheme is also beneficial to the family of the PwD?",
+                "answer": "This scheme also helps in supporting family members of the PwDs to get some time during the day to fulfil other responsibilities."
+            },
+            {
+                "question": "What documents are required for enrolment?",
+                "answer": "1. Enrolment form. 2. Birth certificate or Date of Birth proof of the PwD. 3. Disability certificate. 4. BPL certificate or Income certificate of Parent or Guardian issued by competent authority as authorized by the concerned State/ Union Territory (for LIG or BPL family). 5. ID proof of parent or guardian. 6. LG certificate in case parents are not the guardians, OR 7. LG certificate, if PwD>18 years of age and parents are not the guardians."
+            },
+            {
+                "question": "How to find the nearest Gharaunda center?",
+                "answer": "Following the below URL Link: https://thenationaltrust.gov.in/content/centre-sanctioned-list.php"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://thenationaltrust.gov.in/upload/uploadfiles/files/gharaunda_eng.pdf"
+            },
+            {
+                "type": "Registration Link",
+                "url": "https://thenationaltrust.gov.in/auth/login.php"
+            },
+            {
+                "type": "List Of Registered Centers",
+                "url": "https://thenationaltrust.gov.in/content/centre-sanctioned-list.php"
+            }
+        ],
+        "tags": [
+            "Abandoned",
+            "Group Home",
+            "Life Long Shelter",
+            "Person With Disability",
+            "Respite And Residential Care"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "content": {
+        "title": "Laadli Laxmi Scheme",
+        "state": "Goa",
+        "department": "Department of Women & Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Girl",
+        "details": "Laadli Laxmi Scheme was launched on 6th July 2012 as one of the flagship programmes of the Department of Women & Child Development, Government of Goa with the intention to address the undesirable tendency of female foeticides and with an aim towards erasing the general perception that the birth of a girl in the family is the burden on her parents/guardian during her marriage. The objective of the scheme is to financially empower the girl child to meet educational and other expenses on becoming a major of age and to improve the female sex ratio in the State.",
+        "benefits": [
+            "For Unmarried Beneficiaries: Financial Assistance of \u20b9 1,00,000, by means of a bank fixed deposit, jointly in the name of the Director (DoWCD) and the applicant. The fixed deposit shall be renewed annually automatically on maturity, along with the amount of interest accrued, till the date of claim by the applicant as per the scheme or until the age of 45 years whichever is earlier.",
+            "For Married Beneficiaries: Financial Assistance of \u20b9 1,00,000, by means of cash payment."
+        ],
+        "eligibility": [
+            "The applicant should be a Girl.",
+            "The applicant should be born in the State of Goa OR should be a resident of Goa for the last fifteen years.",
+            "In case, the applicant is a resident of Goa for the last fifteen years, she should have been educated in Goa for a minimum period of 7 years (continuous).",
+            "The parental income of the applicant does not exceed \u20b9 3,00,000 per annum.",
+            "The applicant should qualify for ANY ONE of the following three criteria: At least one of the parents of the applicant is born in Goa and is also a resident of Goa for the last fifteen years; One of the parents of the applicant is residing in Goa for the last twenty-five years."
+        ],
+        "application_process": "Offline. Step 1: In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required). Step 2: The applicant should send the application to: Director, Directorate of Women And Child Development, Panaji-Goa, 2nd floor, Old Education Building, 18th June Road, Altinho, Panaji, Goa - 403 001. The application shall be submitted within one year, from the date of attaining the age of 18 years or from the date of Civil Marriage Registration.",
+        "documents_required": [
+            "Birth Certificate (Self-Attested)",
+            "Any document as proof (Self-Attested) of 15 years of residence of the applicant in the State of Goa.",
+            "Residence Certificate of the Parent(s) (15 years or 25 years) as the case may be.",
+            "Birth Certificate of the parent(s).",
+            "Aadhaar card (for the applicants after 01-04-2013).",
+            "A Self-Declaration in the format as given in 'Annexure II' to this scheme.",
+            "Annual Income Certificate of parents of the immediate previous financial year at the time of submission of application, issued by the Competent Authority."
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Girl",
+            "Marriage",
+            "Social Welfare"
+        ],
+        "faqs": [
+            {
+                "question": "How will the operation of the scheme be conducted through the bank/financial institution?",
+                "answer": "The operation of the scheme through the bank/financial institution will be governed by a Memorandum of Understanding (MoU), which outlines the terms and conditions related to the bank account, fixed deposit account/certificate, interest accrual, payment authorization procedure, and payment terms by the Government."
+            },
+            {
+                "question": "Who Is Responsible For Deciding The Eligibility Of Applicants Under The Scheme?",
+                "answer": "The Committee responsible for deciding the eligibility of applicants under the scheme consists of the Secretary to the Government of Goa in charge of the Department of Women and Child Development as Chairperson, a Social Worker appointed by the Government as Member, an Additional/Joint Secretary to Government of Goa in charge of the Department of Finance as Member, and the Director of the Directorate of Women and Child Development as Member Secretary."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2021/01/Laadli-Laxmi-Scheme-Griha-Aadhar-Schme-Amendment-Notification.pdf"
+            }
+        ]
+    }
+}

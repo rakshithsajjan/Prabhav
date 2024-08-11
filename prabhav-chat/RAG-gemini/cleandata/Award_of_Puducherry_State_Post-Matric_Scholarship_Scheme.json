@@ -1,0 +1,107 @@
+{
+    "content": {
+        "title": "Award of Puducherry State Post-Matric Scholarship Scheme",
+        "state": "Puducherry",
+        "department": "Directorate of School Education",
+        "type": "Scholarship",
+        "beneficiary": "Students studying in 11th and 12th standards",
+        "details": "The 'Award of Puducherry State Post-Matric Scholarship Scheme' initiated by the Directorate of School Education, Union Territory of Puducherry, is designed to make sure that no brilliant student is prevented on the grounds of poverty alone from pursuing an academic career. Through this scheme, scholarship is awarded to students studying in 11th and 12th standards and have secured promotion to the next higher class with 60% & 50% of marks in 10th and 11th standards respectively.",
+        "benefits": [
+            "90 scholarships for 11th Standard and 90 scholarships for 12th Standard are awarded every year.",
+            "Day Scholar: \u20b960/month per student (\u20b9600/year/student).",
+            "Hosteller: \u20b9100/month per student (\u20b91,000/year/student).",
+            "The amount is disbursed directly into Aadhaar-seeded bank account of the applicant through Direct Benefit Transfer (DBT) and Public Financial Management System (PFMS)."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than five years.",
+            "The applicant should be studying in 11th or 12th standard.",
+            "The applicant should have secured promotion to the next higher class.",
+            "The family income of the applicant should not exceed \u20b975,000 per annum.",
+            "If the applicant is studying in 11th standard, she/he should have secured 60% marks in 10th standard.",
+            "If the applicant is studying in 12th standard, she/he should have secured 50% marks in 11th standard."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the e-District Portal of the Government of Puducherry.",
+        "documents_required": [
+            "Nativity/Citizenship/Residential Certificate, issued by the Officer of the Revenue Department not below the rank of a Deputy Tahsildar.",
+            "Income Certificate.",
+            "Birth Certificate.",
+            "Stamp-sized Photograph.",
+            "Aadhaar Card.",
+            "Secondary School Leaving Certificate (SSLC) Certificate.",
+            "Public Information Certificate (PIC)."
+        ],
+        "faqs": [
+            {
+                "question": "Is there any specific duration for the scholarship disbursement, and how many months does it cover?",
+                "answer": "Scholarships are disbursed for ten months in an academic year. Day scholars receive \u20b960/month (\u20b9600/year/student), and hostellers receive \u20b9100/month (\u20b91,000/year/student)."
+            },
+            {
+                "question": "Can applicants from outside the Union Territory of Puducherry apply for the scholarship?",
+                "answer": "No, applicants must be either native or residents of the Union Territory of Puducherry by birth or continuous residence for not less than five years to be eligible for the Puducherry State Post-Matric Scholarship Scheme."
+            },
+            {
+                "question": "What is the selection process if the number of proposals exceeds the available scholarships?",
+                "answer": "If proposals exceed the required number, beneficiaries are selected based on merit, starting from the top, and in the order of preference from Government schools, Government-Aided schools, and then Private schools recognized by the Government."
+            },
+            {
+                "question": "How are the scholarships disbursed, and what is the mode of payment?",
+                "answer": "Scholarships are disbursed directly into Aadhaar-seeded bank accounts through Direct Benefit Transfer (DBT) and Public Financial Management System (PFMS). Day scholars receive \u20b960/month (\u20b9600/year/student), and hostellers receive \u20b9100/month (\u20b91,000/year/student) for ten months in an academic year."
+            },
+            {
+                "question": "Can students from private schools apply for the Puducherry State Post-Matric Scholarship?",
+                "answer": "Yes, students from Government schools, Government-Aided schools, and Private schools recognized by the Government are eligible. If proposals exceed the required number, beneficiaries are selected based on merit and preference from these categories."
+            },
+            {
+                "question": "How many scholarships are awarded annually?",
+                "answer": "Ninety scholarships are awarded for both 11th and 12th standards each year."
+            },
+            {
+                "question": "Are there any deductions or taxes applied to the scholarship amount during disbursement?",
+                "answer": "The scholarship amount is typically disbursed without deductions or taxes. The aim is to provide financial support to students, and the disbursement process is structured to ensure the maximum benefit reaches the intended recipients."
+            },
+            {
+                "question": "Is there any provision for emergency or interim disbursement for unforeseen circumstances during the academic year?",
+                "answer": "The scheme typically follows a regular monthly disbursement pattern, and there may not be specific provisions for emergency or interim disbursements. However, applicants are advised to contact the relevant authorities for guidance in exceptional situations."
+            },
+            {
+                "question": "Can students choose the mode of disbursement, or is it a standardized process for all beneficiaries?",
+                "answer": "The mode of disbursement is standardized for all beneficiaries, with funds directly transferred into Aadhaar-seeded bank accounts through the DBT and PFMS."
+            },
+            {
+                "question": "Are there any delays or challenges in the disbursement process that applicants should be aware of?",
+                "answer": "The disbursement process is designed for efficiency; however, applicants should ensure that their Aadhaar-seeded bank accounts are active and correctly linked to avoid any potential delays in receiving the scholarship funds."
+            },
+            {
+                "question": "Is the scholarship disbursed as a lump sum or in instalments, and when does the disbursement typically occur?",
+                "answer": "The scholarship is disbursed in monthly instalments for ten months in an academic year. Disbursement usually begins at the start of the academic session and continues until the end of the academic year."
+            },
+            {
+                "question": "How is the scholarship amount determined for day scholars and hostellers in the Puducherry State Post-Matric Scholarship Scheme?",
+                "answer": "The scholarship amount is \u20b960 per month for day scholars (\u20b9600 per year per student) and \u20b9100 per month for hostellers (\u20b91,000 per year per student)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://schooledn.py.gov.in/Welfare/InnerPages/edu_PostMetricScholarship.html"
+            },
+            {
+                "type": "User Manual For Online Application",
+                "url": "https://edistrict.py.gov.in/Help.rar"
+            },
+            {
+                "type": "Track Your Application",
+                "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+            }
+        ],
+        "tags": [
+            "DBT",
+            "Education",
+            "Scholarship",
+            "School",
+            "Student"
+        ]
+    }
+}

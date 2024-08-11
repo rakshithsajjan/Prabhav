@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Financial Assistance To Self-Employment For Trained Disabled Persons",
+        "state": "Maharashtra",
+        "department": "Department of Social Justice & Special Assistance",
+        "type": "Financial Assistance",
+        "beneficiary": "Persons with Disabilities (PwDs)",
+        "details": "The objective of this scheme is to provide financial assistance to facilitate the purchase of equipment for those disabled persons who are completing vocational training from government institutions or recognized institutions to start their own businesses.",
+        "benefits": [
+            "Financial assistance for purchasing Tool Kits/Equipment",
+            "Support for starting own businesses"
+        ],
+        "eligibility": [
+            "Percentage of disability should be 40% and above",
+            "Orthopedically Handicapped Persons are also covered",
+            "Permanent residents of the state of Maharashtra are eligible"
+        ],
+        "exclusions": [
+            "Cannot reapply if already availed benefits",
+            "No income-related criterion"
+        ],
+        "application_process": "The entire application process is free of cost.",
+        "documents_required": [
+            "Residential Certificate / Domicile Certificate of the State of Maharashtra"
+        ],
+        "faqs": [
+            {
+                "question": "What is the maximum amount of financial assistance that one can receive through this scheme?",
+                "answer": "The maximum amount of financial assistance that one can receive through this scheme is \u20b91,000/-."
+            },
+            {
+                "question": "Is this a state funded or a centrally funded scheme?",
+                "answer": "This is a 100% State Funded scheme."
+            },
+            {
+                "question": "Can applicants from neighboring states also apply to this scheme?",
+                "answer": "No, only the citizens who are permanent residents of the state of Maharashtra are eligible to apply."
+            },
+            {
+                "question": "Where can I find the URL to the website of the Dept. of Social Justice & Special Assistance?",
+                "answer": "The URL to the official website of the Department of Social Justice & Special Assistance, Government of Maharashtra is - https://sjsa.maharashtra.gov.in/"
+            },
+            {
+                "question": "Where can I find the link to the scheme guidelines?",
+                "answer": "The Scheme Guidelines can be found at this link - https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+            },
+            {
+                "question": "Where can I post my grievances related to this scheme?",
+                "answer": "You can post your grievances at the Grievance Redressal Portal by the Govt. of Maharashtra: https://grievances.maharashtra.gov.in/en"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://sjsa.maharashtra.gov.in/"
+            },
+            {
+                "type": "Grievance Redressal Portal",
+                "url": "https://grievances.maharashtra.gov.in/en"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Disability",
+            "Self-Employment",
+            "Maharashtra"
+        ]
+    }
+}

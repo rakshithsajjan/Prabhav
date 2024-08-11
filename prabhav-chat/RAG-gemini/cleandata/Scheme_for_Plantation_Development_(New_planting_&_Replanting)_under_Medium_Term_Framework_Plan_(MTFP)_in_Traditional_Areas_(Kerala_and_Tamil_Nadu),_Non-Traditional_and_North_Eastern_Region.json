@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Scheme for Plantation Development (New planting & Replanting) under Medium Term Framework Plan (MTFP) in Traditional Areas (Kerala and Tamil Nadu), Non-Traditional and North Eastern Region",
+        "state": "Kerala and Tamil Nadu",
+        "department": "Ministry of Commerce and Industry",
+        "type": "Subsidy",
+        "beneficiary": "Rubber growers",
+        "details": "The Scheme is intended to increase the production of natural rubber in India by accelerating new planting and replanting of rubber on scientific lines. Accelerated new planting/replanting would be achieved by giving proper technical guidance and financial assistance to growers.",
+        "benefits": [
+            "Traditional Region: \u20b9 20,000/- ha + \u20b9 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth.",
+            "SC Category: \u20b9 35,000/- ha + \u20b9 5,000 /ha for planting material (Polybag/ Root trainer plants) of advanced growth.",
+            "Non-Traditional and North Eastern Region: \u20b9 35,000 per ha and \u20b9 5,000/ ha for planting material (Polybag/ Root trainer plants) of advanced growth."
+        ],
+        "eligibility": [
+            "Traditional: Growers owning rubber areas not exceeding 2.00 ha.",
+            "Non-Traditional: Growers owning rubber areas not exceeding 5.00 ha.",
+            "Minimum area for new planting/replanting rubber is 0.10 ha.",
+            "Applicant must have absolute possession over the land.",
+            "Paddy fields are not eligible for assistance."
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the ServicePlus Portal.",
+        "documents_required": [
+            "Identity Proof (Voter ID, PAN, Driving Licence, Passport)",
+            "Photocopy of bank passbook showing name of the Account holder, account number and IFS Code of Bank",
+            "Valid Certificate from Village Officer to prove ownership of the total rubber area owned by the applicant",
+            "Sketch of the applied area showing descriptions of boundary on all sides with names of the owners",
+            "Bill of Planting Material purchased (self-declaration for certain years)",
+            "Nomination, if applicable (in case of joint ownership/ minor owner)",
+            "Caste Certificate (in the case of SC Applicants)",
+            "PAH Declaration Form (in the case of PAH)"
+        ],
+        "faqs": [
+            {
+                "question": "Is it mandatory to provide the bill of planting material for certain years?",
+                "answer": "For plantations in 2018, 2019, 2020, and 2021, the bill of planting material is not mandatory. Instead, a self-declaration containing purchase details is to be uploaded."
+            },
+            {
+                "question": "When is a nomination required in the application?",
+                "answer": "A nomination is required in case of joint ownership or minor ownership."
+            },
+            {
+                "question": "Are there any specific requirements for SC applicants in terms of documents?",
+                "answer": "SC applicants are required to provide a caste certificate as part of the application."
+            },
+            {
+                "question": "Is there a requirement to provide a sketch of the applied area?",
+                "answer": "Yes, a sketch of the applied area is required, showing descriptions of boundaries on all sides with the names of the owners."
+            },
+            {
+                "question": "How is ownership of the rubber area proven in the application?",
+                "answer": "Ownership is established by providing a valid certificate from the Village Officer."
+            },
+            {
+                "question": "What kind of identity proof is preferred for the application?",
+                "answer": "Preferred identity proof documents include Voter ID, PAN card, Driving Licence, or Passport."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "http://rubberboard.org.in/menuview"
+            },
+            {
+                "type": "Terms Of Reference (ToR) For Evaluation Of The Rubber Board, Department Of Commerce",
+                "url": "https://dmeo.gov.in/sites/default/files/2022-05/Rubber_Board.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "DBT",
+            "Farming",
+            "Plant",
+            "Rubber",
+            "Seed",
+            "Subsidy"
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "content": {
+        "title": "Disability Pension (MBOCWWB)",
+        "state": "Meghalaya",
+        "department": "Labour Department, Government of Meghalaya",
+        "type": "Pension",
+        "beneficiary": "Building Workers, Construction Workers",
+        "details": "The scheme 'Disability Pension' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board shall provide financial assistance in the form of a disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc. Additionally, the worker will be eligible for an ex-gratia payment based on the percentage of disability and subject to conditions as may fixed by the Board.",
+        "benefits": [
+            "The financial assistance of \u20b9150/- per month as disability pension shall be given to a beneficiary who is permanently disabled due to paralysis, leprosy, tuberculosis (T.B.), accidents, etc.",
+            "In addition to this pension, the worker will also be eligible for an ex-gratia payment of not more than \u20b95,000/- depending upon the percentage of disability and subject to such conditions as may fixed by the Board."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of Meghalaya.",
+            "The beneficiary should be engaged in a building or other construction work.",
+            "The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.",
+            "The beneficiary should have an active membership of the Board.",
+            "Registered construction workers who have become permanently disabled due to conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc., are eligible to avail of the benefits under the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)",
+            "Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)",
+            "Bank Passbook of the worker",
+            "eShram ID card, if any",
+            "Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card",
+            "Nomination Form duly signed by the applicant",
+            "Self-declaration towards non-enrolment as a member of any other welfare fund/ board",
+            "SC/ST Certificate (if applicable)",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers the Scheme?",
+                "answer": "The scheme is administered by the Labour Department, Government of Meghalaya, through the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB)."
+            },
+            {
+                "question": "Who is eligible for the Disability Pension Scheme?",
+                "answer": "Registered construction workers who have become permanently disabled due to conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc., are eligible to avail of the benefits under the scheme."
+            },
+            {
+                "question": "How much is the monthly disability pension?",
+                "answer": "The monthly disability pension provided under the scheme is \u20b9150/-."
+            },
+            {
+                "question": "How is the ex-gratia payment determined?",
+                "answer": "The ex-gratia payment, which can be up to \u20b95,000/-, depends on the percentage of disability and is subject to conditions established by the Board."
+            },
+            {
+                "question": "Can a beneficiary receive both the disability pension and the ex-gratia payment?",
+                "answer": "Yes, eligible beneficiaries can receive both the monthly disability pension and the ex-gratia payment."
+            },
+            {
+                "question": "Are there any specific disabilities covered under the scheme?",
+                "answer": "Yes, the scheme covers disabilities resulting from conditions such as paralysis, leprosy, tuberculosis (T.B.), accidents, etc."
+            },
+            {
+                "question": "How does one apply for the Disability Pension Scheme?",
+                "answer": "Applications can be made online at http://megbocwwb.gov.in/bocw_services."
+            },
+            {
+                "question": "Can the application be tracked?",
+                "answer": "Yes, applications can be tracked from the Dashboard after logging into http://megbocwwb.gov.in/bocw_services."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megbocwwb.gov.in/enrollment"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://megbocwwb.gov.in/schemes_disability_pension"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+            },
+            {
+                "type": "Registration Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+            },
+            {
+                "type": "Application Form For Disability Pension",
+                "url": "https://megbocwwb.gov.in/forms/benefit/disability_pension_form.pdf"
+            },
+            {
+                "type": "Nomination Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+            },
+            {
+                "type": "Family Members Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+            },
+            {
+                "type": "SDO Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+            },
+            {
+                "type": "Employer Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Labour",
+            "Pension"
+        ]
+    }
+}

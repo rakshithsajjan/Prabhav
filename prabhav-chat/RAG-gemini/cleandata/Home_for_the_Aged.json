@@ -1,0 +1,96 @@
+{
+    "content": {
+        "title": "Home for the Aged",
+        "state": "Puducherry",
+        "department": "Department of Social Welfare",
+        "type": "Grant",
+        "beneficiary": "Senior Citizens",
+        "details": "The sub-scheme 'Home for the Aged' under the umbrella scheme 'Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)' was launched by the Department of Social Welfare, Government of Puducherry. Through this scheme, the senior citizens are provided with stay at subsidiary rates, food (both vegetarian and non-vegetarian), routine health check up by doctors thrice in a week, providing newspapers and television for entertainment.",
+        "benefits": [
+            "Stay at Subsidiary Rate of \u20b91200/- for the Inmates.",
+            "Food (Both Vegetarian and Non-vegetarian).",
+            "Routine Health Check Up by Doctors Thrice in a Week.",
+            "Newspapers and Television for Entertainment."
+        ],
+        "eligibility": [
+            "The applicant should be 60 years or above in age.",
+            "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit the Pondicherry Society for the care of the Aged (PONCARE) during office hours and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "documents_required": [
+            "Aadhaar Card.",
+            "Birth Certificate / Age Proof.",
+            "Residence-cum-Nativity Certificate, issued by the competent authority.",
+            "Recent Passport-Size Photograph.",
+            "Bank Passbook."
+        ],
+        "faqs": [
+            {
+                "question": "What are the stay charges for the inmates under this scheme?",
+                "answer": "Inmates enjoy a stay at a subsidiary rate of \u20b91200 per month."
+            },
+            {
+                "question": "What services are provided to senior citizens under this scheme?",
+                "answer": "Senior citizens receive food, routine health check-ups, newspapers, and television for entertainment."
+            },
+            {
+                "question": "Can you specify the age requirement for applicants?",
+                "answer": "Applicants must be 60 years or above to be eligible for the scheme."
+            },
+            {
+                "question": "Which organization should be contacted for more details about the scheme?",
+                "answer": "For more information, contact the Secretary, Pondicherry Society for the care of the Aged (PONCARE)."
+            },
+            {
+                "question": "What contact details are available for inquiries about the scheme?",
+                "answer": "Inquiries can be made at +91-413-2245317, +91-413-2246318, or +91-9443405499."
+            },
+            {
+                "question": "What health services are part of the scheme?",
+                "answer": "Inmates receive routine health check-ups by doctors three times a week."
+            },
+            {
+                "question": "Is the stay rate inclusive of meals for the inmates?",
+                "answer": "Yes, the stay rate of \u20b91200 includes both vegetarian and non-vegetarian meals."
+            },
+            {
+                "question": "What entertainment facilities are provided to the senior citizens?",
+                "answer": "Senior citizens have access to newspapers and television for entertainment."
+            },
+            {
+                "question": "What is the geographical scope of this scheme?",
+                "answer": "The scheme is for residents of the Union Territory of Puducherry."
+            },
+            {
+                "question": "Can applicants from outside Puducherry apply for this scheme?",
+                "answer": "No, applicants must be residents of the Union Territory of Puducherry for at least 5 years."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://socwelfare.py.gov.in/sites/default/files/citizen-charter.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://socwelfare.py.gov.in/contact-us"
+            },
+            {
+                "type": "Sub Offices",
+                "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://pgportal.gov.in/"
+            }
+        ],
+        "tags": [
+            "Doctor",
+            "Food",
+            "Home",
+            "Senior Citizen",
+            "Social Welfare"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Mukhyamantree Baal Aasheervaad Yojana",
+        "state": "Madhya Pradesh",
+        "department": "Women and Child Development Department",
+        "type": "Financial Assistance",
+        "beneficiary": "Orphan children and children above 18 years of age transitioning from childcare institutions",
+        "details": "The scheme aims to provide financial and educational support to children above 18 years of age (aftercare) as they transition from childcare institutions, and financial assistance to orphan children up to the age of 18 years living with relatives or guardians.",
+        "benefits": [
+            "AfterCare: Internship, Vocational training, Technical Education, Medical Education, Ayush Education, and Legal Education Assistance.",
+            "Sponsorship: Economic Assistance and Medical Aid."
+        ],
+        "eligibility": [
+            "Children residing in childcare institutions continuously for 5 years including the year of release date.",
+            "For orphans, an exemption will be given in the eligibility related to the period required for residence in the childcare institution.",
+            "Children below 18 years of age for sponsorship.",
+            "Child's parents must have died."
+        ],
+        "exclusions": [
+            "Relative/guardian should not come under eligibility under Mukhyamantri covid 19 Bal Seva Yojana."
+        ],
+        "application_process": "Offline. The superintendent/manager of each childcare institution will identify eligible children and prepare an individual care plan. Applications will be processed through the portal.",
+        "documents_required": [
+            "Aadhaar card",
+            "Voter ID Card",
+            "Birth certificate",
+            "Death certificate of the parents of the child",
+            "Child's school certificate (mark sheet)"
+        ],
+        "faqs": [
+            {
+                "question": "What is Mukhyamantree Baal Aasheervaad Yojana?",
+                "answer": "Madhya Pradesh State government started a scheme 'Mukhyamantri Baal Aashirwad Yojana' for orphan youngsters."
+            },
+            {
+                "question": "What are the types of assistance/benefits?",
+                "answer": "AfterCare and Sponsorship."
+            },
+            {
+                "question": "What type of benefits are provided in AfterCare?",
+                "answer": "Internship, Vocational Training, Technical Education, Medical Education, Ayush Education, and Legal Education Assistance."
+            },
+            {
+                "question": "What type of benefits are provided in Sponsorship?",
+                "answer": "Economic Assistance and Medical Aid."
+            },
+            {
+                "question": "Who can get the benefits under AfterCare?",
+                "answer": "Children residing in childcare institutions continuously for 5 years including the year of release date."
+            },
+            {
+                "question": "Who can get the benefits under Sponsorship?",
+                "answer": "Children should be below 18 years of age and fulfill the eligibility criteria."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Aadhaar card, Voter ID Card, Birth certificate, Death certificate of the parents of the child, Child's school certificate (mark sheet)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://scps.mp.gov.in/Home/AftercareScheme"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://mpwcdmis.gov.in/Downloads/ICPS_BalAshirwadYojna.pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Learning",
+            "Scholarship",
+            "Training"
+        ]
+    }
+}

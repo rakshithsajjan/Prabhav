@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "The Punjab Financial Assistance to Acid Victims Scheme",
+        "state": "Punjab",
+        "department": "Department of Social Security And Women & Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Acid Victim",
+        "details": "The scheme 'The Punjab Financial Assistance to Acid Victims Scheme' was launched by the Department of Social Security And Women & Child Development, Government of Punjab in the year 2017. The objective of the Scheme is to provide monthly Financial Assistance to females who have been rendered 40% disabled due to acid attack. This scheme is fully state-sponsored.",
+        "benefits": [
+            "The Financial Assistance of \u20b98,000/- per month is given to rehabilitate the victims of acid attack and make them self-reliant."
+        ],
+        "eligibility": [
+            "The acid attack victim should be a resident of Punjab State.",
+            "The females who have been rendered 40% disabled due to acid attack are eligible for the assistance."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "A medical certificate to the effect that the applicant has been rendered disabled due to an acid attack",
+            "Copy of F.I.R/ complaint",
+            "An attested copy of any one of the documents- Voter list, Electoral Photo Identity Card (EPIC), Aadhaar card, Passport, Driving License, Residence certificate",
+            "Particulars of the Bank Account of the applicant (along with the IFSC Code and Aadhaar Card No., if available)",
+            "Any other document, as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Punjab Financial Assistance to Acid Victims Scheme?",
+                "answer": "The Punjab Financial Assistance to Acid Victims Scheme is an initiative launched by the Department of Social Security and Women & Child Development, Government of Punjab to provide monthly financial assistance to females who have been rendered 40% disabled due to acid attacks."
+            },
+            {
+                "question": "When was the Scheme launched?",
+                "answer": "The scheme was launched by the Department of Social Security and Women & Child Development, Government of Punjab, in the year 2017."
+            },
+            {
+                "question": "What is the main objective of the scheme?",
+                "answer": "The primary objective of the scheme is to provide monthly financial assistance to females who have been rendered 40% disabled due to acid attacks. It aims to support their rehabilitation and promote self-reliance."
+            },
+            {
+                "question": "Who sponsors this scheme?",
+                "answer": "This scheme is fully state-sponsored by the Government of Punjab."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "The scheme offers a monthly financial assistance of \u20b98,000 to acid attack victims."
+            },
+            {
+                "question": "How is the financial assistance disbursed?",
+                "answer": "The financial assistance is directly transferred to the beneficiary's account by the directorate through online."
+            },
+            {
+                "question": "Who is eligible for assistance under this scheme?",
+                "answer": "To be eligible for assistance, the acid attack victim must meet two main criteria: 1. They should be a resident of Punjab State. 2. Females who have been rendered 40% disabled due to acid attacks are eligible for financial assistance."
+            },
+            {
+                "question": "Can acid attack victims from outside Punjab apply for this scheme?",
+                "answer": "No, only acid attack victims who are residents of Punjab State are eligible to avail of the benefits."
+            },
+            {
+                "question": "Is there any specific documentation required for availing the benefits of this scheme?",
+                "answer": "An applicant shall be required to submit the following documents with the application: 1. Medical Certificate 2. Copy of FIR 3. An attested copy of one document out of the voter list, Electoral Photo Identity Card, Aadhar card, Passport, Driving License, and Residence certificate. 4. Bank Account details."
+            },
+            {
+                "question": "How can an applicant apply under the scheme?",
+                "answer": "The victim or victim's parents/guardian/legal heir/family member/any relative may submit an application to the concerned District Social Security Officer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sswcd.punjab.gov.in/sites/default/files/2020-01/Acid%20Atack%20Victims%20Scheme_0.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://sswcd.punjab.gov.in/en/financial-assistance-to-acid-victims"
+            }
+        ],
+        "tags": [
+            "Acid Victims",
+            "Financial Assistance",
+            "Punjab",
+            "Women Empowerment"
+        ]
+    }
+}

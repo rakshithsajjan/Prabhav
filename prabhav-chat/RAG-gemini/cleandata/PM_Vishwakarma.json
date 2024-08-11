@@ -1,0 +1,87 @@
+{
+    "content": {
+        "title": "PM Vishwakarma",
+        "state": "Central",
+        "department": "Ministry of Micro, Small and Medium Enterprises",
+        "type": "Central Sector Scheme",
+        "beneficiary": "Artisans and Craftspeople",
+        "details": "PM Vishwakarma is a Central Sector Scheme launched by Ministry of Micro, Small and Medium Enterprises to provide holistic and end-to-end support to artisans and craftspeople through access to collateral free credit, skill training, modern tools, incentive for digital transactions and market linkage support. The scheme will initially be implemented for five years up to 2027-28.",
+        "benefits": [
+            "Recognition as Vishwakarma through Certificate and ID Card",
+            "Skill Verification followed by 5-7 days (40 hours) of Basic Training",
+            "Interested candidates can also enrol for 15 days (120 hours) of Advanced Training",
+            "Training Stipend: \u20b9 500 per day",
+            "Toolkit Incentive: \u20b9 15,000 grant",
+            "Collateral-free Enterprise Development Loans: \u20b9 1,00,000 (First Tranche for 18 months repayment) & \u20b9 2,00,000 (Second Tranche for 30 months repayment)",
+            "Concessional Rate of Interest: 5% to be charged from the beneficiary with an Interest Subvention cap of 8% to be paid by MoMSME",
+            "Credit Guarantee fees to be borne by GoI",
+            "Incentive for Digital Transaction: \u20b9 1 per transaction for a maximum of up to 100 transactions (monthly)",
+            "Marketing Support: The National Committee for Marketing (NCM) will provide services such as Quality Certification, Branding and Promotion, e-commerce Linkage, Trade Fair Advertising, Publicity and Other Marketing Activities."
+        ],
+        "eligibility": [
+            "The applicant should be an artisan or craftsperson working with hands and tools.",
+            "The applicant should be engaged in an unorganized sector on a self-employment basis.",
+            "The applicant should be engaged in one of the 18 family-based traditional trades mentioned in the scheme.",
+            "On the date of registration for the scheme, the minimum age of the applicant should be 18 years.",
+            "The applicant should be engaged in the concerned trade on the date of registration.",
+            "The applicant should not have availed loans under similar credit-based schemes of the Central Government or State Government for self-employment/ business development, e.g. PMEGP, PM SVANidhi, Mudra, in the past 5 years.",
+            "The registration and benefits under the Scheme shall be restricted to one member of the family."
+        ],
+        "exclusions": [
+            "A person in government service and their family members shall not be eligible."
+        ],
+        "application_process": "Online - via CSCs. The eligible beneficiaries are required to get themselves enrolled through nearest CSC in their area. The beneficiary can apply either on their own or with the help of the CSCs through Village Level Entrepreneurs (VLEs) or Enumerators.",
+        "documents_required": [
+            "Aadhaar",
+            "Mobile number",
+            "Bank details",
+            "Ration card mandatory for the registration."
+        ],
+        "faqs": [
+            {
+                "question": "What is Pradhan Mantri Vishwakarma Scheme?",
+                "answer": "PM Vishwakarma is a Central Sector Scheme launched by Ministry of Micro, Small and Medium Enterprises to provide holistic and end-to-end support to artisans and craftspeople through access to collateral free credit, skill training, modern tools, incentive for digital transactions and market linkage support."
+            },
+            {
+                "question": "Which category of trades are covered in the scheme?",
+                "answer": "Carpenter (Suthar), Boat Maker, Armourer, Blacksmith (Lohar), Hammer and Tool Kit Maker, Locksmith, Goldsmith (Sunar), Potter (Kumhaar), Sculptor (Moortikar)/ stone carver / Stone breaker, Cobbler (Charmkar)/ Shoesmith/ Footwear artisan, Mason (Raajmistri), Basket Maker/ Basket Waver: Mat maker/ Coir Weaver/ Broom maker, Doll & Toy Maker (Traditional), Barber (Naai), Garland Maker (Malakaar), Washerman (Dhobi), Tailor (Darzi) and Fishing Net Maker."
+            },
+            {
+                "question": "What are the key components of PM Vishwakarma?",
+                "answer": "The key components of PM Vishwakarma Scheme are: 1. Recognition: PM Vishwakarma Certificate and ID Card 2. Skill Upgradation 3. Toolkit Incentive 4. Credit Support 5. Incentive for Digital Transactions 6. Marketing Support."
+            },
+            {
+                "question": "What are the eligibility criteria of the Scheme?",
+                "answer": "An artisan or crafts person working with hands and tools and engaged in one of the above family-based traditional trades, in unorganized sector on self-employment basis, shall be eligible for registration under PM Vishwakarma."
+            },
+            {
+                "question": "How to avail benefits under the Scheme?",
+                "answer": "Any individual willing to avail the benefits of the Scheme, may register on the portal www.pmvishwakarma.gov.in."
+            },
+            {
+                "question": "Which documents are required to be provided during registration on PM Vishwakarma portal?",
+                "answer": "Aadhaar, Mobile number, Bank details, Ration card mandatory for the registration."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://pmvishwakarma.gov.in/FileHandling/GetPdf/MiscFiles%5Ceng_v28.0_PM_Vishwakarma_Guidelines_final.pdf"
+            },
+            {
+                "type": "FAQ",
+                "url": "https://pmvishwakarma.gov.in/Home/FAQ"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://pmvishwakarma.gov.in/"
+            }
+        ],
+        "tags": [
+            "Artisans",
+            "Craftspeople",
+            "Skill Upgradation",
+            "Toolkit Incentive"
+        ]
+    }
+}

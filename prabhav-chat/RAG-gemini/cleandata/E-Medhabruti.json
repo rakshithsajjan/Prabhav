@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "E-Medhabruti",
+        "state": "Odisha",
+        "department": "Higher Education Department",
+        "type": "Scholarship",
+        "beneficiary": "Meritorious students of Odisha",
+        "details": "The scheme 'e-Medhabruti' is a Scholarship Scheme by the Higher Education Department, Government of Odisha. The objective of the scheme is to provide financial assistance of up to \u20b9 20,000 to meritorious students of Odisha whose parental income does not exceed \u20b9 6,00,000. The number of scholarships that are awarded every year is 14,500. The scholarship is provided for the complete duration of the course. The student can apply for e-Medhabruti Scholarship only in the year of joining (i.e. 1st year of the course).",
+        "benefits": [
+            "U.G. Merit: 6,000 scholarships at \u20b9 5,000 per year",
+            "P.G. Merit: 2,500 scholarships at \u20b9 10,000 per year",
+            "Technical & Professional Merit: 6,000 scholarships at \u20b9 10,000 per year"
+        ],
+        "eligibility": [
+            "Permanent resident of Odisha State",
+            "Parental income not exceeding \u20b9 6,00,000 per annum",
+            "Minimum of 60% marks in the previous qualifying examination",
+            "Application only in the year of joining (1st year of the course)"
+        ],
+        "exclusions": [
+            "Students pursuing higher study through open universities or distance learning",
+            "Students already availing scholarships under any other schemes",
+            "Students pursuing Diploma level courses",
+            "Students of M.Phil., Ph.D., B.Ed., and M.Ed.",
+            "Students admitted to unapproved Colleges/Institutes",
+            "Students studying abroad",
+            "Students completing one Technical/Professional course and pursuing another",
+            "Students not validated by the concerned Principal/Institution"
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Residence Certificate",
+            "Proof of Annual Income",
+            "Mark Sheets of the Last Qualifying Examination",
+            "Bank Account details of the student",
+            "College ID Card or Admission receipt",
+            "Aadhaar Card of the student"
+        ],
+        "faqs": [
+            {
+                "question": "Which Department Manages The 'E-Medhabruti' Scholarship Scheme?",
+                "answer": "The 'e-Medhabruti' Scholarship Scheme is managed by the Higher Education Department, Government of Odisha."
+            },
+            {
+                "question": "What Is The Maximum Amount Of Financial Assistance Available Through This Scheme?",
+                "answer": "The maximum amount of financial assistance available through this scheme is \u20b9 20,000."
+            },
+            {
+                "question": "How Many Scholarships Shall Be Awarded In 2023?",
+                "answer": "The number of scholarships that are awarded every year is 14,500."
+            },
+            {
+                "question": "What Shall Be The Duration Of The Scholarship?",
+                "answer": "The scholarship is provided for the complete duration of the course."
+            },
+            {
+                "question": "Can I Apply For The Scholarship If I Am Studying In The 2nd Year Of The Degree Course?",
+                "answer": "No, the student can apply for e-Medhabruti Scholarship only in the year of joining (1st year of the course)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dhe.odisha.gov.in/sites/default/files/2021-06/Medhabruti%20Guideline2020-21.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Odisha",
+            "Higher Education",
+            "Financial Assistance"
+        ]
+    }
+}

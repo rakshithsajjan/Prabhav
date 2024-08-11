@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "IASRI Scholarship For M.Sc And Ph.D",
+        "state": "Agricultural",
+        "department": "Ministry Of Agriculture and Farmers Welfare",
+        "type": "Scholarship",
+        "beneficiary": "Students pursuing M.Sc and Ph.D in Agricultural Statistics and Computer Application",
+        "details": "The Indian Agricultural Statistics Research Institute is a premier Institute under Indian Council of Agricultural Research for conducting research and education in the field of agricultural statistics and computer application in agriculture. The Institute conducts Post Graduate Degree Programmes in collaboration with the Indian Agricultural Research Institute which has the status of a Deemed University under the University Grants Commission Act.",
+        "benefits": [
+            "Scholarships are offered to all admitted students.",
+            "An M.Sc. student is granted a scholarship/fellowship of value Rs.7,500/- p.m.",
+            "M.Sc. students have a contingent grant of Rs.6,000/- per annum for study tours, experimental material, purchase of books, and preparation of the thesis."
+        ],
+        "eligibility": [
+            "Bachelor of Science degree in Agriculture / Horticulture / Forestry / Agroforestry / Sericulture / Agricultural Marketing/ B.Sc.(10+2+3 System) with 60% marks or its equivalent Overall grade point average (OGPA) for the general category.",
+            "55% marks or its equivalent OGPA for SC/ST/PH candidates.",
+            "Minimum age limit for admission to M.Sc. is 19 years."
+        ],
+        "exclusions": [],
+        "application_process": "Online application process through the official website.",
+        "documents_required": [
+            "Upload Image (less than 100 kb and greater than 10 kb)",
+            "Signature (less than 20 kb and greater than 10 kb)",
+            "All requisite documents starting from Matriculation to Qualifying Degree Examination."
+        ],
+        "faqs": [
+            {
+                "question": "Can I apply online?",
+                "answer": "Yes!!, Application can be proceed through http://pgs.iasri.res.in"
+            },
+            {
+                "question": "What will be the required document?",
+                "answer": "Required Documents: Upload Image (less than 100 kb and greater than 10 kb), Signature (less than 20 kb and greater than 10 kb), Documents (All the requisite documents starting from Matriculation to Qualifying Degree Examination)."
+            },
+            {
+                "question": "What is the age limit?",
+                "answer": "The minimum age limits for admission to M.Sc. is 19 years."
+            },
+            {
+                "question": "What is the scholarship/Fellowships amount?",
+                "answer": "Scholarships are offered to all the admitted students. An M.Sc. student is granted a scholarship / fellowship of value Rs.7,500/- p.m."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guideline",
+                "url": "http://apps.iasri.res.in/IASRIWEBSITE/pg_prog_2014/PhD%28Ag_Stat%29.pdf"
+            },
+            {
+                "type": "Instructions For Filling Up Application Form",
+                "url": "http://pgs.iasri.res.in/Instructions%20regarding%20filling%20up%20application%20form%20and%20Uploading%20of%20Required%20documents%20under%20Different%20Schemes%20at%20IARI,%20New%20Delhi%20for%20academic%20year%202021-22.pdf"
+            },
+            {
+                "type": "Details",
+                "url": "https://iasri.icar.gov.in/about-iasri-2/"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Agricultural Statistics",
+            "M.Sc",
+            "Ph.D"
+        ]
+    }
+}

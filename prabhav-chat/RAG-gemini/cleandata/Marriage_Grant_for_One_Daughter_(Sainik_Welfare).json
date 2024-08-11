@@ -1,0 +1,70 @@
+{
+    "content": {
+        "title": "Marriage Grant for One Daughter (Sainik Welfare)",
+        "state": "Puducherry",
+        "department": "Department of Sainik Welfare",
+        "type": "Grant",
+        "beneficiary": "Ex-Serviceman and Widow of Ex-Serviceman",
+        "details": "The scheme 'Marriage Grant for One Daughter' is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. The objective of the scheme is to provide a one-time financial assistance of \u20b925,000/- for the purpose of marriage of one daughter of the ESM. This scheme applies only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry. The applications are accepted offline.",
+        "benefits": [
+            "One-time financial assistance of \u20b925,000/-",
+            "The amount is credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT"
+        ],
+        "eligibility": [
+            "The applicant should be an Ex-Serviceman or the Widow of an Ex-Serviceman.",
+            "The Ex-Serviceman should be registered with the Department of Sainik Welfare, Puducherry.",
+            "The applicant should have a Daughter.",
+            "The daughter of the applicant should be 18 years or above in age.",
+            "The applicant should not already have received financial assistance through this scheme.",
+            "The scope of the financial assistance will also apply to those ESM / living spouse/widows who are re-employed as regular / deemed to be regular in Government/Public Sector Undertakings/Private Organizations and self-employed IT assesses."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should take print of the prescribed format of the application form for the scheme from the Official Website of the Department of Sainik Welfare or visit the Rajya Sainik Board to request a hard copy.",
+        "documents_required": [
+            "Identity Card of the ESM / Widow of the ESM.",
+            "Marriage Certificate, issued by Registrar of Marriage.",
+            "Marriage Invitation.",
+            "Bills for the purchase of utensils or clothing items.",
+            "Affidavit (if applicable).",
+            "Declaration."
+        ],
+        "faqs": [
+            {
+                "question": "Which Department of the UT of Puducherry administers this scheme?",
+                "answer": "The scheme is administered by the Department of Sainik Welfare, Union Territory of Puducherry."
+            },
+            {
+                "question": "Where can I find the URL of the Official Website of the Department of Sainik Welfare, Puducherry?",
+                "answer": "The URL of the Official Website of the Department of Sainik Welfare, Puducherry is: https://sainik.py.gov.in/"
+            },
+            {
+                "question": "What is the definition of 'Ex-Servicemen' for the purpose of this scheme?",
+                "answer": "The definition of 'Ex-Servicemen' can be accessed through the following URL: https://sainik.py.gov.in/definition-ex-servicemen"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sainik.py.gov.in/assistance-affd-fund"
+            },
+            {
+                "type": "Government Order",
+                "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+            },
+            {
+                "type": "Application Form & Documents Required",
+                "url": "https://sainik.py.gov.in/sites/default/files/marriage_grant.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://sainik.py.gov.in/contact-us"
+            }
+        ],
+        "tags": [
+            "Marriage",
+            "Financial Assistance",
+            "Ex-Serviceman",
+            "Welfare Scheme"
+        ]
+    }
+}

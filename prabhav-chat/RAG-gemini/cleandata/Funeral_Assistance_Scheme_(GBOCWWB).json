@@ -1,0 +1,84 @@
+{
+    "content": {
+        "title": "Funeral Assistance Scheme (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Financial Assistance",
+        "beneficiary": "Legal heirs of deceased construction workers",
+        "details": "The \u201cFuneral Assistance Scheme\u201d is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board in case of death during the ongoing membership.",
+        "benefits": [
+            "Financial assistance of \u20b910,000/- shall be given to the legal heirs of the deceased construction workers."
+        ],
+        "eligibility": [
+            "The applicant should be a legal heir of the deceased worker.",
+            "The deceased worker should have been engaged in any building or other construction work.",
+            "The deceased worker should have been registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "Financial assistance is provided to the legal heir of the deceased worker in the event of their death during the ongoing membership."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Identity proof of deceased worker",
+            "Identity proof of heir",
+            "Copy of death certificate",
+            "Self-Declaration Certificate (Affidavit)",
+            "Self-Declaration of Inheritance Certificate",
+            "Copy of bank passbook of heir",
+            "Copy of ration card",
+            "Self Declaration Form as per Resolution dated 20/09/2022 of Revenue Department",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers the Funeral Assistance Scheme?",
+                "answer": "The scheme is administered by the Labour, Skill Development & Employment Department, Government of Gujarat, through the Gujarat Building and Other Construction Worker\u2019s Welfare Board."
+            },
+            {
+                "question": "What is the primary objective of the Scheme?",
+                "answer": "The main objective of this scheme is to provide financial assistance to the heir of a deceased construction worker registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board in case of death during the ongoing membership."
+            },
+            {
+                "question": "What benefits does the scheme offer?",
+                "answer": "The scheme provides a financial assistance amounting to \u20b910,000/- to the legal heirs of the deceased construction workers."
+            },
+            {
+                "question": "Who is eligible to apply for assistance under this scheme?",
+                "answer": "The legal heirs of the deceased worker who was engaged in building or other construction work and registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible."
+            },
+            {
+                "question": "What types of incidents are covered under the scheme?",
+                "answer": "The scheme covers the death of a construction worker during their ongoing membership period."
+            },
+            {
+                "question": "Are there any documents required for claiming assistance?",
+                "answer": "Documents such as proof of relationship with the deceased worker and registration details with the board may be required for claiming assistance."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "Online application has to be done from Sanman portal: https://sanman.gujarat.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://sanman.gujarat.gov.in/Home/BOCWScheme#"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_406_1_Funeral_Assistance_Scheme_27102023.pdf"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Death",
+            "Financial Assistance",
+            "Funeral",
+            "Labour"
+        ]
+    }
+}

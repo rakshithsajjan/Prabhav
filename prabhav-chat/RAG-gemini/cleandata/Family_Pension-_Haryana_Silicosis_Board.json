@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Family Pension- Haryana Silicosis Board",
+        "state": "Haryana",
+        "department": "Haryana Labour Welfare Board",
+        "type": "Pension",
+        "beneficiary": "Spouse or living parents of the deceased worker",
+        "details": "The 'Family Pension' scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana. Under this scheme, after the death of the worker due to Silicosis, financial assistance of \u20b93,500/- per month is provided to the spouse of the worker until he/she remains alive. In the case of an unmarried worker, the financial assistance is provided to his/her living parents.",
+        "benefits": [
+            "Financial assistance of \u20b93,500/- per month after the death of the worker due to Silicosis."
+        ],
+        "eligibility": [
+            "The applicant should be either the spouse or one of the living parents of the deceased worker.",
+            "The deceased worker should have been suffering from silicosis as confirmed by the Silicosis Diagnosis Board, Haryana.",
+            "The death of the worker should have been due to silicosis.",
+            "The deceased worker should have been employed in a factory or at a construction site."
+        ],
+        "exclusions": [],
+        "application_process": "Offline and Online - via CSCs. The applicant may visit the nearest Labour Office and collect the application form. The Application Performa may also be downloaded from the Official Website of the Labour Department Haryana. Fill out the application form with all required details, ensuring accuracy and completeness. Attach all necessary documents and submit the application to the Assistant Director, Industrial Health of your concerned jurisdiction.",
+        "documents_required": [
+            "Identity card of deceased worker",
+            "Copy of Aadhaar Card of applicant",
+            "Passport-size photograph of applicant",
+            "Death Certificate of the worker",
+            "Proof of relation with the deceased worker",
+            "Copy of Bank Passbook",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who implements this scheme?",
+                "answer": "The scheme is implemented by the Haryana Labour Welfare Board, Government of Haryana."
+            },
+            {
+                "question": "What is Silicosis?",
+                "answer": "Silicosis is an incurable lung disease caused by inhaling silica dust, prevalent in workplaces like stone crushers and mines."
+            },
+            {
+                "question": "What benefits are provided under this scheme?",
+                "answer": "Financial assistance of \u20b93,500/- per month is provided after the death of the worker due to Silicosis."
+            },
+            {
+                "question": "Who is eligible to receive the financial assistance?",
+                "answer": "The spouse of the deceased worker or one of their living parents is eligible to receive the financial assistance."
+            },
+            {
+                "question": "What happens if the deceased worker was married?",
+                "answer": "If the deceased worker was married, the assistance will be given to the widow or widower until he/she remains alive."
+            },
+            {
+                "question": "What happens if the deceased worker was unmarried?",
+                "answer": "If the deceased worker was unmarried, the financial assistance will be given to his/her living parents."
+            },
+            {
+                "question": "Where can eligible applicants apply for the scheme benefits?",
+                "answer": "Eligible applicants may visit the nearest Antyodaya Kendra or Labour Office and fill up the application form."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification- English",
+                "url": "https://hrylabour.gov.in/staticdocs/labourpolicies/Haryana%20Silicosis%20Rehabilitation%20Policy%20/(English/).pdf"
+            },
+            {
+                "type": "Notification- Hindi",
+                "url": "https://hrylabour.gov.in/uploads/silicosis/Haryana_Silicosis_Rehabilitation_Policy.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/"
+            }
+        ],
+        "tags": [
+            "Family Pension",
+            "Silicosis",
+            "Haryana",
+            "Labour Welfare"
+        ]
+    }
+}

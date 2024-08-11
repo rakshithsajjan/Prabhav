@@ -1,0 +1,60 @@
+{
+    "content": {
+        "title": "Credit Enhancement Guarantee Scheme For The Scheduled Castes",
+        "state": "Nationwide",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Credit Enhancement Guarantee",
+        "beneficiary": "Scheduled Caste Entrepreneurs",
+        "details": "To encourage and promote entrepreneurship among the Scheduled Castes who are oriented towards innovations and growth technologies by supporting the Bank and Financial Institutions designated as Members Lending Institutions (MLIs) for the Scheme, in the form of Credit Enhancement Guarantee (minimum Rs.0.15 crore and maximum Rs.5.00 crore) against Working Capital Loans, Term Loans or Composite Terms Loans granted by MLIs to SC entrepreneurs.",
+        "benefits": [
+            "Minimum guarantee cover of Rs.0.15 crore and maximum of Rs.5.00 crore.",
+            "Individual SC Entrepreneur eligible for a guarantee cover of a loan amount of up to Rs. 1.00 crore.",
+            "Maximum tenure of guarantee cover may be up to 7 years or loan repayment period, whichever is earlier."
+        ],
+        "eligibility": [
+            "Enterprises, projects/units being set up, promoted and run by Scheduled castes in primary, manufacturing and services sector.",
+            "Registered Companies and Societies/Registered Partnership Firms/Sole Proprietorship firms/Individual SC Entrepreneur having more than 51% shareholding by Scheduled Caste entrepreneurs/promoters/members with management control for the past 6 months.",
+            "Credit Guarantee would be extended to startup SC Entrepreneur.",
+            "Documentary proofs of being SC must be submitted."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Documentary proofs of being SC must be submitted by the entrepreneurs/promoters/partners/society members/sole proprietorship firms/individual SC Entrepreneur."
+        ],
+        "faqs": [
+            {
+                "question": "What types of sectors does the scheme cover?",
+                "answer": "The borrower engaged in Primary/Manufacturing/Service sector may be considered for financial assistance by MLIs."
+            },
+            {
+                "question": "I am a transgender, am I eligible for the course?",
+                "answer": "Yes, The scheme has no gender restrictions."
+            },
+            {
+                "question": "Which type of borrowers can be covered under the scheme?",
+                "answer": "Registered Companies and Societies/Registered Partnership Firms/Sole Proprietorship firms/Individual SC Entrepreneurs having more than 51% shareholding by Scheduled Caste entrepreneurs/promoters/members with management control for the past 6 months engaged in the manufacturing and services sector are covered under the Scheme."
+            },
+            {
+                "question": "What is the maximum quantum of loan provided in the scheme?",
+                "answer": "There is no restriction on the quantum of loan that a bank can sanction in the scheme. However, guarantee cover under the scheme will be minimum for Rs.0.15 crore and maximum Rs.5.00 crore."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://socialjustice.gov.in/writereaddata/UploadFile/creditguide09082019.pdf"
+            },
+            {
+                "type": "Additional Guidelines",
+                "url": "https://www.ifcicegssc.in/Default/ViewFile/?id=Scheme_Details-English_2018.pdf&path=DownloadForms"
+            }
+        ],
+        "tags": [
+            "Credit Enhancement",
+            "Scheduled Castes",
+            "Entrepreneurship",
+            "Financial Inclusion"
+        ]
+    }
+}

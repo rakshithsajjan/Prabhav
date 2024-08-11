@@ -1,0 +1,68 @@
+{
+    "content": {
+        "title": "Biotechnology Ignition Grant Scheme",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Grant",
+        "beneficiary": "Individual Entrepreneurs and Start-ups in Biotechnology",
+        "details": "The Biotechnology Ignition Grant Scheme (BIG) is a flagship scheme of the Biotechnology Industry Research Assistance Council (BIRAC), which recognizes and invests in innovative ideas in the biotech sector. The ideas should have clear potential to translate into commercial products/technologies. BIG supports individual entrepreneurs/start-ups from ideation to Proof of Concept (PoC).",
+        "benefits": [
+            "Grant-in-aid of up to INR 50 lakhs (approx. USD 75,000) for a period of 18 months.",
+            "Continuous mentoring support including technical mentoring, IP support, legal support, networking, training, regulatory advice, and business mentoring."
+        ],
+        "eligibility": [
+            "The individual applicant should be an Indian citizen.",
+            "The primary applicant should be the Project Leader.",
+            "The applicant must be incubated in an incubator.",
+            "If employed with an academic or research organization, a No Objection Certificate (NOC) is required.",
+            "If employed with a for-profit company, an undertaking to terminate association is needed."
+        ],
+        "exclusions": [
+            "Basic/exploratory research projects.",
+            "Projects having a low element of novelty.",
+            "Projects involving systematic clinical trials, field trials or late-stage validation/certification of the technology."
+        ],
+        "application_process": "Online application through the BIRAC website. The call for proposals is issued at least twice a year.",
+        "documents_required": [
+            "Letter of commitment from Scientific Advisors/Mentors.",
+            "Letter of intent from the incubator.",
+            "Evidence of access to unique facilities needed for the project.",
+            "Formal agreements/MoUs with key facility providers."
+        ],
+        "faqs": [
+            {
+                "question": "What is BIG scheme and its salient features?",
+                "answer": "Biotechnology Ignition Grant (BIG) Scheme is grant-in-aid funding to support individuals and startups in the field of Biotechnology."
+            },
+            {
+                "question": "Who all can apply?",
+                "answer": "Individual Entrepreneur, a registered Startup including LLP."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://birac.nic.in/webcontent/BIG_Guidelines_Version_8_Jul_2020.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://birac.nic.in/big.php"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://birac.nic.in/webcontent/1596458927_updated_faq_big_scheme.pdf"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.birac.nic.in/cfp_view.php?id=30&scheme_type=5"
+            }
+        ],
+        "tags": [
+            "Biotechnology",
+            "Grant",
+            "Start-up",
+            "Entrepreneurship",
+            "Innovation"
+        ]
+    }
+}

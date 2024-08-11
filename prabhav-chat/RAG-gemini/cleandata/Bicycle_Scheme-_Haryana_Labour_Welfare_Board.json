@@ -1,0 +1,47 @@
+{
+    "content": {
+        "title": "Bicycle Scheme- Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Labour Department",
+        "type": "Welfare Scheme",
+        "beneficiary": "Workers registered under the Haryana Labour Welfare Board",
+        "details": "The scheme aims to provide benefits to workers registered under the Haryana Labour Welfare Board through a structured application process.",
+        "benefits": [
+            "Financial assistance for purchasing bicycles",
+            "Support for transportation needs of workers"
+        ],
+        "eligibility": [
+            "Must be a registered worker under the Haryana Labour Welfare Board",
+            "Must possess a Parivar Pehchan Patra (PPP) Family ID"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Labour Department Haryana website and Antyodaya-SARAL Portal.",
+        "documents_required": [
+            "Aadhaar Number (if no Family ID)",
+            "Parivar Pehchan Patra number",
+            "Identity proof",
+            "Address proof"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.myscheme.gov.in/schemes/bs-hlwb"
+            }
+        ],
+        "tags": [
+            "Bicycle Scheme",
+            "Haryana",
+            "Labour Welfare",
+            "Financial Assistance"
+        ]
+    }
+}

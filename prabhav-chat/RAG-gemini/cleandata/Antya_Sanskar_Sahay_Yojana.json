@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Antya Sanskar Sahay Yojana",
+        "state": "Goa",
+        "department": "Department of Tribal Welfare",
+        "type": "Financial Assistance",
+        "beneficiary": "Scheduled Tribe families",
+        "details": "The main objective of the 'Antya Sanskar Sahay Yojana' is to provide financial support to Scheduled Tribe families in covering the expenses associated with the funeral and religious ceremonies of deceased family members.",
+        "benefits": [
+            "Financial assistance of up to \u20b9 20,000 or the actual cost, whichever is less, for funeral and religious ceremonies."
+        ],
+        "eligibility": [
+            "The applicant must belong to a Scheduled Tribe family.",
+            "The deceased individual must belong to a Scheduled Tribe family.",
+            "The family's annual income should not exceed \u20b9 3,00,000."
+        ],
+        "exclusions": [
+            "Applicants not from a Scheduled Tribe family must establish a direct relationship with the deceased."
+        ],
+        "application_process": "Applications must be made within 12 months from the time of the individual's death.",
+        "documents_required": [
+            "Caste Certificate issued by the Competent Authority",
+            "Death Certificate of the deceased",
+            "Income Certificate issued by the Competent Authority",
+            "Ration Card",
+            "Election Card",
+            "Aadhar Card",
+            "Mandate Form"
+        ],
+        "faqs": [
+            {
+                "question": "Is there a specific timeframe within which the applicant must apply for the scheme after the occurrence of death?",
+                "answer": "Yes, in cases where the applicant seeks assistance based on their relationship with a deceased Scheduled Tribe individual, the application must be made within 12 months from the time of the individual's death."
+            },
+            {
+                "question": "How does the scheme ensure that the applicants meet the eligibility criteria?",
+                "answer": "The scheme requires essential documents such as a Caste Certificate issued by the Competent Authority, Death Certificate of the deceased, Income Certificate issued by the Competent Authority, Ration Card, Election Card, and Aadhar Card."
+            },
+            {
+                "question": "What is the maximum financial assistance offered under this scheme?",
+                "answer": "The scheme provides financial assistance of up to \u20b9 20,000 or the actual cost, whichever is less, to cover the expenses associated with the funeral and religious ceremonies of Scheduled Tribe families."
+            },
+            {
+                "question": "Could you provide insights into the special case scenario mentioned in the scheme?",
+                "answer": "In cases where the applicant is not from a Scheduled Tribe family but the deceased individual is, the applicant can still claim assistance under the scheme, provided they establish a direct relationship with the deceased."
+            },
+            {
+                "question": "Who is eligible to apply for the benefits of the 'Antya Sanskar Sahay Yojana'?",
+                "answer": "The scheme is open to Scheduled Tribe families, with eligibility criteria specifying that either the deceased individual or the applicant must belong to a Scheduled Tribe family."
+            },
+            {
+                "question": "How does the scheme determine the actual cost of funeral and religious ceremonies?",
+                "answer": "The scheme allows financial assistance of up to \u20b9 20,000 or the actual cost, whichever is less, based on 'Vouchers Receipts' that record expenses incurred during the ceremonies."
+            },
+            {
+                "question": "Can you provide insights into the 'Sanctioning Authority' and the decision-making process within the scheme?",
+                "answer": "The Director of Tribal Welfare scrutinizes the applications, and approved applications are sanctioned by the Directorate of Tribal Welfare, with benefits electronically transferred to beneficiaries' bank accounts."
+            },
+            {
+                "question": "Can you explain the significance of the 'Mandate Form' among the required documents?",
+                "answer": "The 'Mandate Form' provides authorization for the financial assistance to be transferred to the beneficiary's bank account."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/assy-goa"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Scheduled Tribe",
+            "Funeral Support",
+            "Goa"
+        ]
+    }
+}

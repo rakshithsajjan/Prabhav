@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Haryana Divyang Pension Schemes",
+        "state": "Haryana",
+        "department": "Department of Social Justice and Empowerment",
+        "type": "Pension",
+        "beneficiary": "Disabled Persons",
+        "details": "To provide social security to Disabled Persons, the scheme called \u201cThe Haryana Disabled Persons Pension Schemes\u201d was introduced in the year 1981-82. The aim of the scheme is to provide social security to Disabled persons who are unable to sustain themselves with their own resources and are in need of financial assistance from the State. The rate of pension has been increased over the years, currently set at Rs. 2500/- per month as of 01.04.2021.",
+        "benefits": [
+            "Pension amount increased from Rs. 50/- to Rs. 2500/- over the years.",
+            "Financial assistance for disabled individuals who cannot sustain themselves."
+        ],
+        "eligibility": [
+            "The individual is of age 18 years and above.",
+            "The person is a Domicile of Haryana & has been residing in Haryana for the last 3 years at the time of submission of application.",
+            "Self income of the person from all sources should not exceed the minimum wages of unskilled labour as notified by the Labour Department.",
+            "Disability of the person should range from 60-100%."
+        ],
+        "exclusions": [
+            "Income received from accumulated earnings, including schemes like Provident Funds or Annuities.",
+            "Citizens with less than 60% disability.",
+            "Disabled person having a three or four wheeler vehicle."
+        ],
+        "application_process": "Online and Offline. Visit the link to fill and submit the form online.",
+        "documents_required": [
+            "Disability certificate of 60% & above.",
+            "Birth Certificate",
+            "Aadhaar Card",
+            "Residential Proof (e.g., Ration Card, Voter Card, etc.)"
+        ],
+        "faqs": [
+            {
+                "question": "Is there any age criteria required to fulfil before applying for the scheme?",
+                "answer": "Yes, the age of the applicant should be above 18 years."
+            },
+            {
+                "question": "What is the minimum percentage of disability?",
+                "answer": "Disability range should be from 60-100%."
+            },
+            {
+                "question": "What is the Rate of Allowance for 100% disabled person?",
+                "answer": "The allowance for the scheme is Rs. 2000/- w.e.f 1.11.2018."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Portal",
+                "url": "https://socialjusticehry.gov.in/social-security-pension-schemes/"
+            },
+            {
+                "type": "State Schemes",
+                "url": "http://haryanascbc.gov.in/welfare-schemes/state-schemes"
+            },
+            {
+                "type": "Haryana Divyang Pension Schemes",
+                "url": "https://socialjusticehry.gov.in/haryana-divyang-pension-schemes/"
+            },
+            {
+                "type": "Disability Pension Scheme",
+                "url": "https://haryana.gov.in/scheme/disability-pension-scheme/"
+            },
+            {
+                "type": "Notification",
+                "url": "https://cdnbbsr.s3waas.gov.in/s37b7a53e239400a13bd6be6c91c4f6c4e/uploads/2020/05/2020051430.pdf"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Disability",
+            "Social Security",
+            "Haryana"
+        ]
+    }
+}

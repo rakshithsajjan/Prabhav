@@ -1,0 +1,63 @@
+{
+    "content": {
+        "title": "Krushi Mahotsav",
+        "state": "Gujarat",
+        "department": "Agriculture Department",
+        "type": "Training and Support",
+        "beneficiary": "Farmers",
+        "details": "The Krushi Mahotsav Yojana provides education and training on various aspects of agriculture and modern farming techniques, along with the distribution of free inputs like seeds, fertilizers, and pesticides to help farmers improve their yields, reduce costs, and increase their income.",
+        "benefits": [
+            "Education and training on modern farming techniques",
+            "Distribution of free seeds, fertilizers, and pesticides",
+            "Improvement in crop yields",
+            "Reduction in farming costs",
+            "Increased income potential for farmers",
+            "Networking opportunities with experts and other farmers"
+        ],
+        "eligibility": [
+            "All farmers in the state of Gujarat",
+            "No restrictions based on caste, religion, or gender",
+            "No age limit for participation",
+            "No specific type of land required"
+        ],
+        "exclusions": [],
+        "application_process": "Farmers do not need to apply separately. They can participate by visiting the camps organized at the district and taluka levels.",
+        "documents_required": [
+            "Land documents or any relevant agricultural documents (optional)"
+        ],
+        "faqs": [
+            {
+                "question": "Does the scheme provide any financial assistance to farmers?",
+                "answer": "No, the scheme does not provide any direct financial assistance to farmers."
+            },
+            {
+                "question": "Is there any preference given to small or marginal farmers?",
+                "answer": "No, there is no preference given to any specific category of farmers."
+            },
+            {
+                "question": "Is there any application fee or registration fee to participate in the scheme?",
+                "answer": "No, there is no application fee or registration fee to participate in the scheme."
+            },
+            {
+                "question": "Is there any deadline to participate in the scheme?",
+                "answer": "The scheme is ongoing, and there is no deadline to participate."
+            },
+            {
+                "question": "Can farmers participate in the scheme more than once?",
+                "answer": "Yes, farmers can participate in the scheme as many times as they want."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/km"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Training",
+            "Support",
+            "Gujarat"
+        ]
+    }
+}

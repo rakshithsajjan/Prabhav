@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Development Support for Coffee in Traditional Areas: Replantation",
+        "state": "Not specified",
+        "department": "Ministry of Commerce and Industry",
+        "type": "Subsidy",
+        "beneficiary": "Coffee growers",
+        "details": "The scheme 'Development Support for Coffee in Traditional Areas: Replantation' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging replantation of old/senile and unproductive plantations with high-yielding, disease-tolerant coffee varieties.",
+        "benefits": [
+            "Unit Cost for Arabica: \u20b9 2,75,000/- per ha",
+            "Unit Cost for Robusta: \u20b9 2,00,000/- per ha",
+            "Scale of Subsidy: 40% of the unit cost",
+            "Additional support of 10% for SC/ST community coffee growers with holdings up to 4.00 Ha"
+        ],
+        "eligibility": [
+            "Only Small growers with coffee holding sizes of up to 10 Ha are eligible.",
+            "Applicable for replantation of existing old/senile and low-productive Arabica and Robusta coffee plantations; aged 25 years in the case of Arabica, 40 years in the case of Robusta and 15 years in the case of Arabica dwarfs.",
+            "In the case of inter-planting of Arabica in Robusta adopting clean replanting, the subsidy will be given only to Robusta which is the main crop.",
+            "Old/unproductive plants should preferably be removed after one harvest and under no circumstances beyond two harvests.",
+            "In Arabica zones with an elevation of 1000 metres above MSL, only disease-tolerant, high-yielding Arabica varieties should be replanted.",
+            "In states like Tamil Nadu, if coffee is grown along with intercrops, the subsidy will be based on the actual extent of the area replanted with coffee."
+        ],
+        "exclusions": [
+            "A grower who has availed subsidy under one activity/component is not eligible to avail subsidy for the same activity/component during the MTF period until new beneficiaries are covered.",
+            "Arabica replaced with Robusta material at a higher elevation of more than 1000 metres is not eligible for support."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Application and Self Declaration duly filled in and signed by the Applicant/s (in duplicate) in the prescribed format.",
+            "Copy of Aadhaar Card",
+            "In case the applicant is a GPA holder, an attested copy of the registered GPA.",
+            "Copy of the Bank Pass Book having the details of account number, name of the Bank, branch, IFSC code etc.",
+            "Rough sketch of the estate along with check bandi / boundaries marked with clear demarcation of the proposed replanted blocks/area duly signed by the applicant.",
+            "In the case of SC /ST caste certificate issued by the competent authority.",
+            "Proof of Land Ownership in the form of any one of the following: Patta, Khatha Extract, Land Possession Certificate, Chitta & Adangal."
+        ],
+        "faqs": [
+            {
+                "question": "How much is the unit cost for Arabica and Robusta under this scheme?",
+                "answer": "The unit cost for Arabica is \u20b92,75,000 per hectare, and for Robusta, it is \u20b92,00,000 per hectare."
+            },
+            {
+                "question": "What percentage of subsidy is provided to coffee growers under this scheme?",
+                "answer": "Coffee growers are eligible for a 40% subsidy of the unit cost."
+            },
+            {
+                "question": "Are there any special provisions for SC/ST community coffee growers?",
+                "answer": "Yes, SC/ST community coffee growers with holdings up to 4.00 hectares are eligible for an additional 10% support of the unit cost."
+            },
+            {
+                "question": "How is the subsidy released for clean replanting?",
+                "answer": "For clean replanting, the first instalment is 70% of the applicable unit cost, and the second instalment is 30% of the applicable unit cost."
+            },
+            {
+                "question": "What is the subsidy release process for replantation by interlining method?",
+                "answer": "In the case of replantation by interlining, the first instalment is 30% of the applicable unit cost, and the second instalment is 70% of the applicable unit cost."
+            },
+            {
+                "question": "What are the age criteria for coffee plants that can be replanted under this scheme?",
+                "answer": "Arabica plants aged 25 years, Robusta plants aged 40 years, and Arabica dwarfs aged 15 years can be replanted."
+            },
+            {
+                "question": "Is there a specific requirement for the removal of old plants in the case of interlining?",
+                "answer": "Old and unproductive plants should preferably be removed after one harvest but not beyond two harvests."
+            },
+            {
+                "question": "Does the choice of coffee variety depend on the elevation of the plantation?",
+                "answer": "Yes, in Arabica zones with an elevation of 1000 meters above MSL, only disease-tolerant, high-yielding Arabica varieties should be replanted."
+            },
+            {
+                "question": "What is the subsidy calculation for coffee grown with intercrops like pepper and banana?",
+                "answer": "The subsidy is based on the actual extent of the area replanted with coffee or the maximum extent mentioned in the land documents."
+            },
+            {
+                "question": "Are there any exclusions for those who have previously received subsidies?",
+                "answer": "A grower who has availed subsidy for one activity/component cannot avail subsidy for the same activity/component during the MTF period."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Coffee",
+            "Farmer",
+            "Plantation",
+            "Subsidy"
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "content": {
+        "title": "Prime Minister's Employment Generation Programme",
+        "state": "India",
+        "department": "Ministry Of Micro, Small and Medium Enterprises",
+        "type": "Loan",
+        "beneficiary": "Entrepreneur",
+        "details": "Launched in August 2008, Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme, administered by the Ministry of Micro, Small and Medium Enterprises (MSME). PMEGP aims to generate employment opportunities through the establishment of micro-enterprises in the non-farm sector for rural as well as urban areas. The scheme has been approved for continuation over the 15th Finance Commission cycle i.e., for the period of five years from 2021-22 to 2025-26. PMEGP was formed by merging the two schemes that were in operation till 31st March 2008, namely Prime Minister's Rojgar Yojana (PMRY) and Rural Employment Generation Programme (REGP). An outlay of \u20b913,554.42 Crore has been approved for PMEGP for five Financial Years (2021-22 to 2025-26) to set up about 4,00,000 projects with the creation of 30,00,000 employment @8 persons per unit). In addition, 1,000 Units will be upgraded in each FY.",
+        "benefits": [
+            "Margin Money Subsidy",
+            "Backward and Forward Linkages",
+            "Financial assistance for setting up new micro-enterprises/units",
+            "Support for upgradation of existing PMEGP/REGP/MUDRA units"
+        ],
+        "eligibility": [
+            "Any individual, above 18 years of age.",
+            "No income ceiling for assistance in setting up projects under PMEGP.",
+            "For projects costing above Rs.10 lakh in Manufacturing sector and above \u20b95,00,000 in Business/Service sector, beneficiaries should possess at least VIII standard pass educational qualification.",
+            "Assistance is available only for new projects sanctioned specifically under PMEGP.",
+            "Existing Units under PMRY, REGP, or any other scheme of the Government of India or State Government are not eligible."
+        ],
+        "exclusions": [
+            "Existing Units under PMRY, REGP, or any other scheme of the Government of India or State Government are not eligible.",
+            "Only one person from one family is eligible for obtaining financial assistance for setting up of projects under PMEGP."
+        ],
+        "application_process": "Online and Offline. Visit the official website [KVIC PMEGP Portal](https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp) for application.",
+        "documents_required": [
+            "Caste Certificate",
+            "Special Category Certificate, wherever required",
+            "Rural Area Certificate",
+            "Project Report",
+            "Education / EDP / Skill Development Training Certificate",
+            "Any other applicable document"
+        ],
+        "faqs": [
+            {
+                "question": "What Is Maximum Project Cost Allowed Under PMEGP?",
+                "answer": "Rs.25.00 lakhs for the manufacturing unit and Rs.10.00 lakhs for Service Unit."
+            },
+            {
+                "question": "What Is The Component Of Project Cost?",
+                "answer": "Capital Expenditure Loan, one cycle of working capital and 10% of project cost as own contribution in case of General category and 5% of project cost in case of weaker section."
+            },
+            {
+                "question": "Who Is Eligible To Apply For PMEGP Scheme?",
+                "answer": "Any individual above 18 years of age can apply for the PMEGP scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines-2023",
+                "url": "https://msme.gov.in/sites/default/files/Revisedguidelines07.12.2023.pdf"
+            },
+            {
+                "type": "Guidelines-2022",
+                "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/PMEGP_Guidelines_Certified_2022_3.pdf"
+            },
+            {
+                "type": "Final Guidelines For Second Loan",
+                "url": "https://msme.gov.in/sites/default/files/final-guidlines-for-2nd-loan.pdf"
+            },
+            {
+                "type": "Exemption Of COVID Years",
+                "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/Circular%20-%20issued.pdf"
+            },
+            {
+                "type": "Receipt Of Applications In Physical Form",
+                "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/Drfat%20signed.pdf"
+            },
+            {
+                "type": "Return Or Refund Of PMEGP Margin Money Subsidy",
+                "url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/SoP_Compendium_14_12_2023.pdf"
+            },
+            {
+                "type": "Agency Wise Contact Details",
+                "url": "https://www.kviconline.gov.in/pmegpeportal/dynamicdistrict/officeSearchForm.jsp"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://www.kviconline.gov.in/pmegpeportal/jsp/FAQ.jsp"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://msme.gov.in/1-prime-ministers-employment-generation-programme-pmegp"
+            }
+        ],
+        "tags": [
+            "Employment Generation",
+            "Micro Enterprises",
+            "Financial Assistance",
+            "Government Scheme"
+        ]
+    }
+}

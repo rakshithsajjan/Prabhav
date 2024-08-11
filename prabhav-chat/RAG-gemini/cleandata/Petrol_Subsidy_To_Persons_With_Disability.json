@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Petrol Subsidy To Persons With Disability",
+        "state": "Chandigarh",
+        "department": "Department Social Welfare, Women & Child Development",
+        "type": "Subsidy",
+        "beneficiary": "Persons with Disability",
+        "details": "The Petrol Subsidy To Persons With Disability scheme under the Department Social Welfare, Women & Child Development of Chandigarh will handicapped persons using motorized vehicles entitled to a 50% subsidy on actual expenditure on the purchase of petrol/diesel subject to fulfillment of other conditions laid down under the scheme. The physically handicapped persons having income up to \u20b91.50 lacs from all sources are eligible for subsidy. The physically handicapped persons who are already in receipt of the conveyance allowance either from any voluntary or State source shall not be eligible for a grant of subsidy on the purchase of petrol/diesel. Petrol/Diesel Subsidy @50% of actual expenditure on purchase of Petrol/Diesel up to a maximum of 20 Ltrs. Per month.",
+        "benefits": [
+            "Petrol Subsidy Scheme to Persons with Disability provides benefits in the form of subsidy on Petrol and Diesel",
+            "Under this scheme 50% subsidy on actual expenditure on purchase of petrol/ diesel provided",
+            "Vehicle of 2 Horse Power and Below \u2013 15 liters per month",
+            "Vehicle of more than 2 Horse Power \u2013 More than 15 liters per month",
+            "Due to this scheme, some financial burden will be reduced from disabling person and family"
+        ],
+        "eligibility": [
+            "Persons with Disability who are owners of motorized vehicles.",
+            "Persons with Disability having an income up to Rs.1.50 lacs / p.a. from all sources are eligible for subsidy.",
+            "Those Persons with Disability who are already in receipt of the conveyance allowance either from any voluntary or Govt. source shall not be eligible for a grant of subsidy on the purchase of petrol/ diesel."
+        ],
+        "exclusions": [
+            "Those Persons with Disability who are already in receipt of the conveyance allowance either from any voluntary or Govt. source shall not be eligible for grant of subsidy on purchase of petrol/ diesel."
+        ],
+        "application_process": "Online. Step 1: Applicant visit the ServicesPlus website. Step 2: Look for a 'Register' on the homepage. Click on it to proceed to the registration page. Step 3: Fill out the registration form with your Name, Email id, Password, Mobile number, Select State, Enter Captcha. Step 4: Once you've filled out all the required information and completed any additional steps, review your details to ensure accuracy, and then submit your registration. Step 5: After successful registration, you may receive a confirmation message on the website or via email, confirming that your registration was successful. Login: Once registered, you can log in to your account using the username and password you created during the registration process.",
+        "documents_required": [
+            "Two passport size photographs.",
+            "Residence Proof for the last three years (Voter Identity Card, Ration Card, Electricity Bill)",
+            "Copy of Disability Certificate/Identity Card with 40% or above Disability.",
+            "Copy of Registration Certificate of the vehicle which should be in the name of the applicant.",
+            "Copy of Driving License of the applicant.",
+            "Income Certificate."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Under this scheme handicapped person using motorized vehicles are entitled to 50% subsidy on actual expenditure on purchase of petrol/diesel subject to fulfillment of other conditions laid down under the scheme."
+            },
+            {
+                "question": "Persons with Disability who are owner of motorized vehicles, are they eligible for same?",
+                "answer": "Yes"
+            },
+            {
+                "question": "What is the maximum income limit of an individual to avail this benefit?",
+                "answer": "Upto Rs.1.50 lacs / p.a. from all sources"
+            },
+            {
+                "question": "Do applicant(s) need to register to avail this service?",
+                "answer": "Yes"
+            },
+            {
+                "question": "Is this applicable only for disabled person?",
+                "answer": "Yes, this scheme is only for a disabled person"
+            },
+            {
+                "question": "What is DBT?",
+                "answer": "Direct Benefit Transfer (DBT) was launched by the Government of India in January, 2013. Here the money will be directly transferred to the bank account of the beneficiaries of various Government schemes."
+            },
+            {
+                "question": "Is there any Driving Licence requirement of the applicant?",
+                "answer": "Yes, a Driving Licence Required in the Document."
+            },
+            {
+                "question": "What documents are required while submitting the application form?",
+                "answer": "Two passport size photographs. Residence Proof for the last three years (Voter Identity Card, Ration Card, Electricity Bill) Copy of Disability Certificate/Identity Card with 40% or above Disability Copy of Registration Certificate of the vehicle which should be in the name of the applicant. Copy of Driving Licence of the applicant. Income Certificate."
+            },
+            {
+                "question": "Is There Any Application Fee For The Scheme?",
+                "answer": "NO"
+            },
+            {
+                "question": "Is this scheme for Urban area?",
+                "answer": "Yes, Urban area people can apply for this scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://chdsw.gov.in/index.php/scheme/petrol-subsidy-to-persons-with-disability"
+            },
+            {
+                "type": "Registration",
+                "url": "https://serviceonline.gov.in/citizenRegistration.html"
+            }
+        ],
+        "tags": [
+            "Disable Person",
+            "Person With Disability",
+            "Petrol Subsidy",
+            "Physically Handicapped",
+            "Scheme Handicapped Person"
+        ]
+    }
+}

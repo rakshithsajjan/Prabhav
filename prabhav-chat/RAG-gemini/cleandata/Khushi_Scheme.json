@@ -1,0 +1,64 @@
+{
+    "content": {
+        "title": "Khushi Scheme",
+        "state": "Odisha",
+        "department": "Health and Family Welfare Department",
+        "type": "Health",
+        "beneficiary": "School Girls",
+        "details": "Khushi (meaning 'Happiness' in Odia) is a female health and hygiene program run by the Government of Odisha to provide free sanitary pads to girl students in Odisha. It was launched on February 26, 2018, by the Chief Minister of Odisha Naveen Patnaik. The scheme aims to provide good menstrual hygiene care to women of the state, promoting health and hygiene among school-going adolescent girls, leading to higher retention in school and greater empowerment of women.",
+        "benefits": [
+            "Girl students from grade 6th to 12th in government and government-aided schools will receive free sanitary pads"
+        ],
+        "eligibility": [
+            "All school girls from classes 6th to 12th are eligible."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. No application process is required. The stock is made available and distributed through the school.",
+        "documents_required": [
+            "No documents needed."
+        ],
+        "faqs": [
+            {
+                "question": "Is this scheme only for girls?",
+                "answer": "Yes, this scheme is only for girls."
+            },
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "The school-going girls from class 6th to 12th are eligible under this scheme."
+            },
+            {
+                "question": "What is the purpose of this scheme?",
+                "answer": "The purpose of this scheme is to improve the health and hygiene of the girls with respect to their menstrual cycles, and to also retain them in the school even after they reach puberty."
+            },
+            {
+                "question": "Is there any such benefit for grown-up women in Odisha?",
+                "answer": "Yes, The government of Odisha is also providing sanitary napkins to rural women at subsidised rates of Rs. 6 for six napkins through ASHA workers."
+            },
+            {
+                "question": "Is there any application procedure to get free sanitary napkins under this scheme?",
+                "answer": "No, the school takes care of the distribution of the sanitary pads to the girls, no application is needed for this."
+            },
+            {
+                "question": "How do they keep track of the stocks and distribution and ensure proper monitoring of this scheme?",
+                "answer": "To address that, an app called 'Khushi' has been created which helps them monitor and keep track of this scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Website",
+                "url": "https://khushi.nic.in/"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.myscheme.gov.in/schemes/ks"
+            }
+        ],
+        "tags": [
+            "Health",
+            "Hygiene",
+            "Sanitary Napkins",
+            "Sanitary Pads",
+            "School Girls"
+        ]
+    }
+}

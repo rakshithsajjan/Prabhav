@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Unemployment Allowance to Disabled Persons",
+        "state": "Chandigarh",
+        "department": "Social Welfare, Women & Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Disabled Persons",
+        "details": "The Unemployment Allowance To Disabled Person scheme under the Social Welfare, Women & Child Development Chandigarh Government is to provide unemployment allowance to handicapped individuals who have been unemployed for an unduly long period and belong to the poor section of society. These individuals need assistance until they secure gainful employment. The scheme seeks to alleviate the financial burden faced by unemployed handicapped persons, ensuring they can meet their basic needs while actively seeking employment opportunities. By offering financial support, the scheme aims to empower disabled individuals to become self-sufficient members of society.",
+        "benefits": [
+            "To all categories of Handicapped Persons: \u20b9500/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be an unemployed person.",
+            "The applicant's age should be between 18-30 years.",
+            "The applicant's total family income of parents should not exceed \u20b9 1,50,000/- per annum.",
+            "The applicants should have a minimum of two years of registration in the Special Employment Exchange in the U.T. Chandigarh.",
+            "The applicants should have been residing in U.T. Chandigarh for at least three years immediately before the submission."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Disability Certificate",
+            "ID proof",
+            "Application form",
+            "Bank Account"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The scheme aims to give an unemployment allowance to the unemployed Handicapped Person waiting for employment for an unduly long period who belongs to the poor section of society and is required to be assisted till their gainful employment."
+            },
+            {
+                "question": "Is there any age criteria?",
+                "answer": "His/her age is between 18-30 years."
+            },
+            {
+                "question": "What is the financial benefit amount?",
+                "answer": "All categories of Handicapped Persons \u20b9500/month."
+            },
+            {
+                "question": "May Other State persons also apply for this scheme?",
+                "answer": "No, only Chandigarh people can apply for this scheme."
+            },
+            {
+                "question": "Is there any income related criteria?",
+                "answer": "The total family income of parents should not exceed \u20b91.50 lacs p.a."
+            },
+            {
+                "question": "How many times the applicant can avail of the benefits of the scheme?",
+                "answer": "Only ones."
+            },
+            {
+                "question": "Is this scheme only for disabled unemployed people?",
+                "answer": "Yes, this scheme is only for disabled unemployed people."
+            },
+            {
+                "question": "How can I apply online?",
+                "answer": "Go to the ServicesPlus website https://serviceonline.gov.in/ and follow the steps given in the scheme."
+            },
+            {
+                "question": "Can this scheme be applied offline?",
+                "answer": "No, this scheme applies online."
+            },
+            {
+                "question": "Under which department does this scheme come?",
+                "answer": "Social Welfare, Women & Child Development."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://chdsw.gov.in/index.php/scheme/unemployment-allowance-to-disabled-persons"
+            },
+            {
+                "type": "Registration",
+                "url": "https://serviceonline.gov.in/citizenRegistration.html"
+            },
+            {
+                "type": "Login",
+                "url": "https://serviceonline.gov.in/loginWindow.do"
+            }
+        ],
+        "tags": [
+            "Unemployment",
+            "Disabled Persons",
+            "Financial Assistance"
+        ]
+    }
+}

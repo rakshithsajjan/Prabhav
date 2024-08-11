@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "Scholarships to Students with Disabilities Scheme",
+        "state": "Punjab",
+        "department": "Department of Social Security and Women & Child Development",
+        "type": "Scholarship",
+        "beneficiary": "Students with Disabilities",
+        "details": "The scheme 'Scholarships to Students with Disabilities Scheme' was started by the Department of Social Security and Women & Child Development, Government of Punjab in the year 1996. The objective of the scheme is to assist students with disabilities to secure education, academic, technical, or professional training to enable them to earn a living and become useful members of society. This scheme is fully state-sponsored.",
+        "benefits": [
+            "Scholarship @ \u20b9200/- per month per Student with Disability for education for class 1st to 8th.",
+            "Scholarship @ \u20b9300/- per month per student with Disability for education/training from 9th Class onwards."
+        ],
+        "eligibility": [
+            "All students of Punjab having 40 % and above disability (In any disability contained in the schedule of RPwD Act 2016) certificate.",
+            "The monthly income of family/guardians should not exceed \u20b95,000/- per month.",
+            "The candidate should have secured at least 40% marks in the previous annual examination.",
+            "The scholarship will be provided to each student with disability from 1st class onwards."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Application for the scholarship is submitted to the Head of school/college/institution who after verifying it shall forward it to the District Social Security Officer (DSSO) of the concerned district.",
+        "documents_required": [
+            "Disability Certificate/ UDID showing 40% and above disability",
+            "Income certificate showing less than \u20b9 60,000/- per year income of parents",
+            "Copy of the bank account details"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'Scholarships to Students with Disabilities Scheme'?",
+                "answer": "The scheme 'Scholarships to Students with Disabilities Scheme' was started by the Department of Social Security and Women & Child Development, Government of Punjab in the year 1996. The objective of the scheme is to assist students with disabilities to secure education, academic, technical, or professional training to enable them to earn a living and to become useful members of society."
+            },
+            {
+                "question": "Is this scheme centrally sponsored or state-sponsored?",
+                "answer": "The scheme is fully state-sponsored by the Government of Punjab."
+            },
+            {
+                "question": "What is the scholarship amount provided under this scheme for students in classes 1st to 8th?",
+                "answer": "Under this scheme, students in classes 1st to 8th are eligible for a scholarship of \u20b9200 per month per student with a disability."
+            },
+            {
+                "question": "How much scholarship is awarded to students with disabilities in 9th class onwards or during advanced education and training?",
+                "answer": "Students with disabilities in 9th class onwards or those pursuing advanced education and training are eligible for a higher scholarship amount of \u20b9300 per month per student."
+            },
+            {
+                "question": "How is the scholarship disbursed to the students under this scheme?",
+                "answer": "The Directorate responsible for the scheme disburses the scholarship amount directly into the bank account of the eligible student."
+            },
+            {
+                "question": "Who is eligible to apply for the scholarship under this scheme?",
+                "answer": "To be eligible for the scholarship, students must be residents of Punjab and possess a disability certificate indicating a disability of 40% or above. The disability should fall within the categories specified in the schedule of the Rights of Persons with Disabilities (RPwD) Act 2016."
+            },
+            {
+                "question": "Is there a specific income limit for the family or guardians of the student to qualify for the scholarship?",
+                "answer": "Yes, the monthly income of the family or guardians of the student should not exceed \u20b95,000 to be eligible for the scholarship."
+            },
+            {
+                "question": "What academic requirement must a candidate meet to be eligible for the scholarship?",
+                "answer": "To be eligible, candidates should have secured a minimum of 40% marks in their previous annual examination."
+            },
+            {
+                "question": "How do a student apply for the scholarship under this scheme?",
+                "answer": "Application for the scholarship is submitted to Head of school/college/institution who after verifying it shall forward to the District Social Security Officer (DSSO) of the concerned district."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sswcd.punjab.gov.in/en/scholarships-to-students-with-disabilities-divyang"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://sswcd.punjab.gov.in/en/wcd/state-schemes"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "PwD",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

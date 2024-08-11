@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Pre-Matric Scholarships to the Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards",
+        "state": "India",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Scholarship",
+        "beneficiary": "Children of those engaged in occupations involving cleaning and prone to health hazards",
+        "details": "Launched in the year 1977-78, the scheme aims to provide financial assistance to children whose parents/guardians belong to categories such as Tanners, Flayers, Waste Pickers, and Persons engaged in Manual Scavenging.",
+        "benefits": [
+            "Day Scholars: \u20b9 110/- per month for ten months.",
+            "Hostellers: \u20b9 700/- per month for ten months.",
+            "Ad-Hoc Grant: \u20b9 750/- per student per annum for day scholars and \u20b9 1000/- per student per annum for hostellers.",
+            "Additional provisions for students with disabilities including reader allowance, transport allowance, special pay, escort allowance, and extra coaching allowance."
+        ],
+        "eligibility": [
+            "Children/wards of Indian Nationals belonging to Tanners & Flayers, Waste Pickers, Manual Scavengers, and those engaged in hazardous cleaning.",
+            "Students must not take up employment during their studies.",
+            "Scholarship may be discontinued if a student fails to secure annual promotion."
+        ],
+        "exclusions": [
+            "Students benefiting from this scheme cannot avail of benefits under any other pre-matric scholarship scheme."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport Sized Photograph",
+            "Aadhaar Card (Optional/Mandatory)",
+            "Bank Details of the Aadhaar-linked Bank Account",
+            "Disability Certificate (if applicable)",
+            "Proof of Educational Qualification",
+            "Bonafide Certificate from the School",
+            "Birth Certificate",
+            "Certificate from the District Social Welfare Officer proving that at least one parent is engaged in eligible occupations."
+        ],
+        "faqs": [
+            {
+                "question": "What role do schools play in assisting students with scholarship applications?",
+                "answer": "Schools are expected to provide full support to students in submitting their scholarship applications and coordinating with the State Government and NSKFDC."
+            },
+            {
+                "question": "How is the scheme announced, and how can students apply for it?",
+                "answer": "The scheme is announced by the State Government/Union Territory Administration through advertisements in newspapers, and application forms are supplied by the concerned department."
+            },
+            {
+                "question": "Can you explain the duration and course of studies covered by the scholarship?",
+                "answer": "The scholarship applies to students in class I or subsequent classes for day scholars and class III or subsequent classes for hostellers. It terminates at the end of class X."
+            },
+            {
+                "question": "How is the scholarship disbursed?",
+                "answer": "The scholarship amount is paid from the date of joining to the date of leaving school, excluding vacation periods, and is typically disbursed through Direct Benefit Transfer (DBT)."
+            },
+            {
+                "question": "What qualifies as a disability for this scholarship?",
+                "answer": "Disabilities are defined by the Persons with Disabilities Act and include conditions like blindness, low-vision, leprosy-cured, hearing impairment, locomotor disability, mental retardation, and mental illness."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://nskfdc.nic.in/writereaddata/files/Regulations_PMS.pdf"
+            },
+            {
+                "type": "MoSJE - Compendium Of Schemes",
+                "url": "https://socialjustice.gov.in/writereaddata/UploadFile/Compendium%20of%20Schemes-2016%20English636257859335528764.pdf"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Education",
+            "Social Justice",
+            "Financial Assistance"
+        ]
+    }
+}

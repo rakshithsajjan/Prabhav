@@ -1,0 +1,97 @@
+{
+    "content": {
+        "title": "Scheme For Campus Accommodation & Facilities Enhancing Social Experience",
+        "state": "Not specified",
+        "department": "Ministry of Education",
+        "type": "Grant",
+        "beneficiary": "Students and researchers in Government/Government-aided engineering colleges/University departments/Polytechnics",
+        "details": "The 'Scheme for Campus Accommodation & Facilities Enhancing Social Experience (CAFES)' was introduced by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE), to provide financial assistance for construction of hostel to create a congenial study atmosphere free from the shackles of domestic shores so as to encourage students to pursue their education career without dropping out.",
+        "benefits": [
+            "Financial assistance for construction of hostel",
+            "Support for establishment of gym equipment",
+            "Support for establishment of indoor sports club",
+            "Support for establishment of library for preparation of tests for competitive examination/higher education"
+        ],
+        "eligibility": [
+            "AICTE approved Government/Government-aided engineering colleges/University departments/Polytechnics",
+            "Institute must be in existence for the last five years",
+            "CAFES (SC/ST students) \u2013 200 SC/ST students on roll",
+            "CAFES (NER) \u2013 60 students on a roll per year",
+            "CAFES (Differently abled students) - 150 Differently abled students"
+        ],
+        "exclusions": [
+            "Institutes located in Punjab, Haryana, Arunachal Pradesh, Meghalaya, Mizoram, Nagaland & UTs are not covered under CAFES \u2013 SC/ST students scheme"
+        ],
+        "application_process": "Offline application process through AICTE Web Portal using Institute's Login Credential.",
+        "documents_required": [
+            "Hostel Plan",
+            "Abstract of the estimates",
+            "PWD rate certificate",
+            "Enrollment figures as per official records",
+            "Two copies of the plan and detailed estimates signed by the Engineer/Architect and countersigned by the Principal",
+            "Certificate from the college indicating covered area and cost per sq. meter",
+            "Land ownership and possession certificate",
+            "Mode of construction certificate",
+            "Certificate from the competent authority regarding additional expenditure",
+            "Structural soundness certificate from a competent structural engineer"
+        ],
+        "faqs": [
+            {
+                "question": "What Are The Objectives Of The 'CAFES' Scheme?",
+                "answer": "The scheme aims to facilitate continuation of education and interaction between students for their all-around development."
+            },
+            {
+                "question": "How Many Variants Are To This Scheme?",
+                "answer": "This scheme has three variants addressing the needs of: (i) CAFES - SC/ST students (ii) CAFES \u2013 NER (Institute located in North Eastern Region) (iii) CAFES \u2013 Differently Abled students."
+            },
+            {
+                "question": "Does The Scheme Also Provide Support To Polytechnics?",
+                "answer": "Yes, the scheme supports Government/Government-aided engineering colleges/University departments/Polytechnics."
+            },
+            {
+                "question": "Is There An Upper Ceiling To The Financial Assistance Of The Universities?",
+                "answer": "Yes, the limit of Funding from AICTE is \u20b9 3.25 crore."
+            },
+            {
+                "question": "What Amount Out Of The Total Fund Must Go For The Construction Of The Hostel?",
+                "answer": "Construction of Hostel: \u20b9 3,00,00,000."
+            },
+            {
+                "question": "What Amount Out Of The Total Fund Must Go For The Establishment Of Gym Equipment?",
+                "answer": "Establishment of Gym equipment: \u20b9 5,00,000."
+            },
+            {
+                "question": "Are The Funds Disbursed In Installments Or As A Lump Sum?",
+                "answer": "Funds are disbursed in installments based on project milestones."
+            },
+            {
+                "question": "What If The Institute Fails To Initiate The Construction Work Within Six Months?",
+                "answer": "The amount is to be refunded to AICTE with accrued interest."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.aicte-india.org/sites/default/files/CAFES/CAFES%20SCHEME%20DOCUMENT%202020-21_20_01_21.pdf"
+            },
+            {
+                "type": "User Manual - Application Process",
+                "url": "https://www.aicte-india.org/sites/default/files/CAFES/User%20Manual%20for%20CAFES%20scheme.pdf"
+            },
+            {
+                "type": "Annexure",
+                "url": "https://www.aicte-india.org/sites/default/files/CAFES/CAFES_Annexures.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://www.aicte-india.org/sites/default/files/CAFES/How%20to%20apply/(CAFES/).pdf"
+            }
+        ],
+        "tags": [
+            "Accommodation",
+            "Education",
+            "Financial Assistance",
+            "Hostel Construction"
+        ]
+    }
+}

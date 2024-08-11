@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Loan Based Schemes For Safai Karamchari - Sanitary Marts Scheme",
+        "state": "Not specified",
+        "department": "Ministry Of Social Justice and Empowerment",
+        "type": "Loan",
+        "beneficiary": "Safai Karamcharis, Manual Scavengers and their dependants",
+        "details": "A contributory Loan scheme by Ministry of Social Justice and Empowerment for individual beneficiaries/self help groups of Liberated Safai Karamchari, Manual Scavengers and their dependants aged 18 years and above, for setting up A Sanitary Marts (SM) is a one-stop-shop for all things for sanitation and hygiene. Under this scheme, term loans are extended through State Channelising Agencies (SCA), Regional Rural Banks(RRBs), and Nationalised Banks to the target group. Loan of Upto 90% of total cost for starting a Sanitary Mart with a maximum of Rs.15.00 lacs.",
+        "benefits": [
+            "Loan of Upto 90% of total cost for starting a Sanitary Mart with a maximum of Rs.15.00 lacs",
+            "Interest payable by the beneficiaries shall not exceed 4% p.a. (1% p.a. rebate for women beneficiaries and 0.50% rebate for timely repayments)",
+            "10% of the total cost of a Sanitary Mart will be brought in by the beneficiaries",
+            "Term loans drawn from NSKFDC will be required to be repaid upto 10 years in quarterly installments",
+            "A moratorium period of 6 months in addition to implementation period of 4 months will be allowed"
+        ],
+        "eligibility": [
+            "Safai Karamcharis (including Wastepickers), identified Manual Scavengers and their dependents",
+            "Registered co-operative societies of the target group",
+            "Legally constituted association/firm promoted by the target group",
+            "Persons with a certificate from local authorities as specified"
+        ],
+        "exclusions": [
+            "Domestic Workers shall not be eligible for the scheme"
+        ],
+        "application_process": "Online and Offline. Loan applications are submitted by the applicants to the district offices of SCAs of NSKFDC of RRBs and Nationalised Banks. These applications are then sent to the head offices for appraisal and approval.",
+        "documents_required": [
+            "Aadhaar Card (not mandatory)",
+            "Occupation Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "What is moratorium period?",
+                "answer": "A moratorium period refers to a particular period of a loan tenure during which the borrower does not have to repay anything."
+            },
+            {
+                "question": "Does the scheme provide loans to all Unorganized Workers persons?",
+                "answer": "No, the scheme provides loans only to Safai Karamchari, Manual Scavengers and their dependants."
+            },
+            {
+                "question": "How does the scheme provide assistance?",
+                "answer": "Under this scheme, term loans are extended through State Channelising Agencies (SCA), Regional Rural Banks(RRBs) and Nationalised Banks to the target group."
+            },
+            {
+                "question": "Is there any income limit for the scheme?",
+                "answer": "The Scheme Guidelines do not mention any income limit, but priority is given to Manual Scavengers and women from among the target group."
+            },
+            {
+                "question": "I am a Domestic Worker, am I eligible for the scheme?",
+                "answer": "No, you are not eligible."
+            },
+            {
+                "question": "I am a Waste Picker, am I eligible for the scheme?",
+                "answer": "Yes, you are eligible."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://nskfdc.nic.in/writereaddata/files/LPGBROCHURE.pdf"
+            },
+            {
+                "type": "Additional Guidelines",
+                "url": "https://nskfdc.nic.in/en/content/schemes-programmes/general-term-loan-tl"
+            }
+        ],
+        "tags": [
+            "Credit",
+            "Financial Assistance",
+            "Loan",
+            "Manual Scavengers",
+            "Safai Karamcharis",
+            "Sanitary Mart",
+            "Sanitation",
+            "Waste Pickers"
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Haritha Haram",
+        "state": "Telangana",
+        "department": "Forest Department",
+        "type": "Flagship Programme",
+        "beneficiary": "General Public, NGOs, Educational Institutions, Government Departments, Corporates",
+        "details": "Haritha Haram is a flagship programme of the Government of Telangana, India, aimed at increasing the green cover in the state. The name Haritha Haram means 'green garland' in Telugu, the official language of Telangana. The main objective of the Haritha Haram programme is to increase the green cover of the state from the existing 24% to 33% by planting and nurturing millions of saplings every year. The programme also aims to create awareness among the public about the importance of preserving and protecting the environment.",
+        "benefits": [
+            "Increased green cover",
+            "Mitigation of climate change",
+            "Soil conservation",
+            "Water conservation",
+            "Biodiversity conservation",
+            "Economic benefits",
+            "Health benefits"
+        ],
+        "eligibility": [
+            "Individuals: Any individual can participate by volunteering for tree plantation drives or by planting saplings.",
+            "NGOs: Registered NGOs involved in environmental conservation can partner with the government.",
+            "Educational institutions: Schools, colleges, and universities can organize tree plantation drives.",
+            "Government departments: Various government departments can participate in plantation activities.",
+            "Corporates: Companies can partner with the government or organize tree plantation drives in their CSR activities."
+        ],
+        "exclusions": [
+            "Construction activities",
+            "Non-forest areas",
+            "Private lands",
+            "Commercial plantations",
+            "Unsuitable lands",
+            "Areas with conflicts"
+        ],
+        "application_process": "The application process varies based on the type of participant. Individuals can volunteer, while NGOs, educational institutions, government departments, and corporates need to contact the district forest officer (DFO) for partnership and participation details.",
+        "documents_required": [
+            "Individuals: Declaration form pledging commitment.",
+            "NGOs: Registration certificate, memorandum of association, annual report, PAN card, bank account details.",
+            "Educational institutions: Letter of authorization, infrastructure details, PAN card, bank account details.",
+            "Government departments: Letter of authorization, area of operation details, PAN card, bank account details.",
+            "Corporates: Certificate of incorporation, memorandum of association, CSR policy, PAN card, bank account details."
+        ],
+        "faqs": [
+            {
+                "question": "Where can I find details about the nearest nursery?",
+                "answer": "The details of the nursery can be found in the search box under the \u2018MIS\u2019 tab."
+            },
+            {
+                "question": "Is it possible to find species available in a nursery?",
+                "answer": "Nursery-wise, species wise stock can be obtained from nursery database located under \u2018MIS\u2019 tab."
+            },
+            {
+                "question": "How can I find the availability of species of my choice?",
+                "answer": "The availability of species required can be ascertained by using \u2018Species Search\u2019 option available under \u2018MIS\u2019 tab."
+            },
+            {
+                "question": "Where can I find information regarding nursery at district level?",
+                "answer": "The Divisional Forest Officers, and Social Forestry Divisions in respective Districts are designated District Nodal officers for Telangana Ku Haritha Haram programme."
+            },
+            {
+                "question": "How can I register a planting site after identification?",
+                "answer": "A Planting site can only be registered by a Government Department Participating in Telangana Ku Haritha Haram programme."
+            },
+            {
+                "question": "Where can I provide feedback about the programme?",
+                "answer": "Feedback on TKHH can be provided from \u2018Contact us\u2019 tab under \u2018feedback\u2019 option."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/haritha-haram"
+            }
+        ],
+        "tags": [
+            "Environmental Conservation",
+            "Tree Plantation",
+            "Green Cover",
+            "Telangana"
+        ]
+    }
+}

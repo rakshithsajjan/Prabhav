@@ -1,0 +1,79 @@
+{
+    "content": {
+        "title": "Feed And Fodder Entrepreneurship Scheme",
+        "state": "Mizoram",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Subsidy",
+        "beneficiary": "Farmers and Entrepreneurs",
+        "details": "The scheme aims to establish an effective seed production chain, build capacity among state functionaries and livestock owners in forage production, and create synergy among ongoing programs for fodder resource development.",
+        "benefits": [
+            "Affordable quality fodder",
+            "Increased farmer\u2019s income",
+            "50% direct capital subsidy to beneficiaries",
+            "100% subsidy on fodder seed production to identified beneficiaries",
+            "Assistance for procuring machinery like Bailers, Block making machines, TMR machines/equipment, and Forage Harvesters"
+        ],
+        "eligibility": [
+            "Entrepreneurs/Eligible Entities with training or experience in managing the project",
+            "Sanctioned loan for the project from a bank or financial institution",
+            "Ownership or lease of land for project establishment",
+            "Relevant documents for KYC"
+        ],
+        "exclusions": [],
+        "application_process": "Online application through the Udyam Mitra portal, followed by screening, loan sanctioning, subsidy approval, and disbursement.",
+        "documents_required": [
+            "Proof of Address",
+            "Aadhar card",
+            "Caste certificate (if applicable)",
+            "Proof of land holding (ownership or lease)",
+            "Education certificate",
+            "Photocopies of training certificate",
+            "Income proof and bank statement for the last six months",
+            "Detailed Project Report including total cost, recurring cost, net income",
+            "Name, Aadhar no., mobile no., and address of farmers linked with the entrepreneur",
+            "Photograph of the project area"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "Affordable quality fodder, increased farmer\u2019s income, and assistance in procuring machinery."
+            },
+            {
+                "question": "Who are eligible for the scheme?",
+                "answer": "Individuals, Self-Help Groups (SHG), Joint Liability Groups (JLG), Private entrepreneurs, Farmer producer organizations, Dairy cooperative societies, Section 8 companies (NGOs)."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Applicants can apply through the Udyam Mitra portal."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Supporting documents including proof of address, land holding, education certificate, and detailed project report."
+            },
+            {
+                "question": "How much subsidy is provided under the feed and fodder entrepreneurship program?",
+                "answer": "50% direct capital subsidy to the beneficiaries."
+            },
+            {
+                "question": "How much subsidy is provided under fodder seed production to identified beneficiaries?",
+                "answer": "100% subsidy on fodder seed production."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://ahvety.mizoram.gov.in/uploads/attachments/d2aa170eea17c223ac1a17f4af194019/feed-and-fodder-entrepreneurship-scheme-english.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://nlm.udyamimitra.in/"
+            }
+        ],
+        "tags": [
+            "Farming",
+            "Entrepreneurship",
+            "Subsidy",
+            "Fodder Production"
+        ]
+    }
+}

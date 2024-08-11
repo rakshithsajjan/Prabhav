@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan",
+        "state": "Rural Areas of India",
+        "department": "Ministry of Electronics and Information Technology",
+        "type": "Digital Literacy Scheme",
+        "beneficiary": "Digitally illiterate individuals aged 14 to 60 years in rural areas",
+        "details": "Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a Digital Literacy Scheme by the Ministry of Electronics and Information Technology (MeitY), aimed at making six crore persons in rural areas digitally literate, reaching around 40% of rural households by covering one member from every eligible household.",
+        "benefits": [
+            "Empowers citizens in rural areas by training them to operate computers or digital access devices.",
+            "Enables participants to send and receive e-mails, browse the Internet, access government services, and undertake digital payments.",
+            "Targets a minimum of 200-300 beneficiaries per Gram Panchayat.",
+            "Aims to provide full Digital Literacy to villages under Pradhan Mantri Adarsh Gram Yojana.",
+            "Establishes Training Centres in identified Districts/Blocks/Gram Panchayats."
+        ],
+        "eligibility": [
+            "The beneficiary should be Digitally Illiterate.",
+            "Only one person in a household where none of the family members is digitally literate will be considered.",
+            "The age of the beneficiary should be between 14 years and 60 years.",
+            "Priority is given to Non-smartphone users, Antyodaya households, college drop-outs, and participants of the adult literacy mission."
+        ],
+        "exclusions": [
+            "Panchayats that are part of urban agglomerations are excluded from the Scheme.",
+            "A complete list of cities not covered under this scheme can be viewed in the Appendix-I of the scheme guidelines."
+        ],
+        "application_process": "Offline. Beneficiaries are identified by CSC e-Governance Services India Limited in collaboration with DeGS, Gram Panchayats, and Block Development Officers. Eligible persons must enroll in the nearest PMGDISHA training Centre using their Aadhaar number.",
+        "documents_required": [
+            "Aadhaar Number",
+            "Proof of Age / DOB"
+        ],
+        "faqs": [
+            {
+                "question": "Who Can Be The Training Partners?",
+                "answer": "A training partner must be an organization registered in India, conducting business in the domain of education/IT literacy for more than three years."
+            },
+            {
+                "question": "What Is The Role Of A Training Partner Under The Scheme?",
+                "answer": "A training partner is responsible for setting up Training Centres that impart digital literacy training to candidates."
+            },
+            {
+                "question": "What Is The Training Fees Under PMGDISHA?",
+                "answer": "A training fee of Rs. 300/- per candidate is payable directly to respective Training Partners/Centres."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.pmgdisha.in/wp-content/uploads/2017/11/letter_eng_guidlines1.pdf"
+            },
+            {
+                "type": "Guidelines (Other Languages)",
+                "url": "https://www.pmgdisha.in/guidelines-and-letters/"
+            },
+            {
+                "type": "Aadhaar Security Guidelines",
+                "url": "https://www.pmgdisha.in/wp-content/uploads/2021/09/Aadhaar-Security-Guidelines.pdf"
+            },
+            {
+                "type": "YouTube Channel",
+                "url": "https://www.youtube.com/c/PMGDISHA"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://www.pmgdisha.in/faq/"
+            }
+        ],
+        "tags": [
+            "Digital Literacy",
+            "Rural Development",
+            "Skill Development",
+            "Education"
+        ]
+    }
+}

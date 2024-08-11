@@ -1,0 +1,83 @@
+{
+    "content": {
+        "title": "Coffee Development Programme in North Eastern Region: Water Augmentation",
+        "state": "North Eastern Region",
+        "department": "Ministry of Commerce and Industry",
+        "type": "Subsidy",
+        "beneficiary": "Farmer",
+        "details": "The scheme 'Coffee Development Programme in North Eastern Region: Water Augmentation' is a Sub-Component of the Scheme 'Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders' by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to improve the productivity and quality of coffee by facilitating the creation of infrastructure for water augmentation for irrigation and wet processing of coffee.",
+        "benefits": [
+            "The eligible subsidy for water harvesting structures and sprinkler units is 75% of the unit cost, capped at a maximum ceiling of \u20b91,25,000 for all related activities combined.",
+            "For below-ground water storage tanks, the subsidy is based on the lower value between dimension and unit cost applicable to the size of the holding.",
+            "For above-ground water storage tanks, the subsidy is based on the lower value between the actual cost or the unit cost applicable to the below-ground water tank.",
+            "Growers can claim subsidies for water harvesting structures and irrigation equipment either simultaneously or at different times."
+        ],
+        "eligibility": [
+            "The applicant must be a tribal grower.",
+            "The applicant should not have received a subsidy for Water Augmentation during the XII plan period.",
+            "The land records must be in the beneficiary's name.",
+            "These records should be certified by the Village Authority/State Government/Competent Authority."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Application in the prescribed format (in duplicate).",
+            "Invoice / Bill (original) with TIN No. in case of Sprinkler/Drip Equipment.",
+            "Work completion report and expenditure statement signed by the applicant."
+        ],
+        "faqs": [
+            {
+                "question": "What's the precise focus of the 'Coffee Development Programme in North Eastern Region: Water Augmentation' scheme by the Coffee Board?",
+                "answer": "The scheme concentrates on enhancing coffee quality and productivity by creating infrastructure for water augmentation, aiding irrigation, and wet coffee processing."
+            },
+            {
+                "question": "Could you clarify the specific eligibility criteria for applicants under this scheme?",
+                "answer": "Eligibility involves being a tribal grower without prior Water Augmentation subsidies during the XII plan period and possessing land records certified by Village/State Authorities."
+            },
+            {
+                "question": "What activities are deemed eligible for subsidy under this scheme?",
+                "answer": "Installing water storage tanks, open wells, and irrigation equipment like sprinklers or drip systems to boost coffee production and quality qualify for subsidies."
+            },
+            {
+                "question": "What's the subsidy percentage available for water harvesting structures and sprinkler units?",
+                "answer": "The subsidy is set at 75% of the unit cost, capped at a maximum of \u20b91.25 lakh for all related activities combined."
+            },
+            {
+                "question": "Can you explain the construction specifics for water storage tanks in this scheme?",
+                "answer": "Water storage tanks can be constructed either above or below ground level, with different subsidy considerations based on the type of tank."
+            },
+            {
+                "question": "What are the specifications for the location of water augmentation structures under this scheme?",
+                "answer": "Water augmentation structures should be situated on the estate or within its vicinity to qualify for the subsidies."
+            },
+            {
+                "question": "Is it possible for growers to claim subsidies for water harvesting structures and irrigation equipment at different times?",
+                "answer": "Yes, growers have the option to claim subsidies for these structures and equipment either simultaneously or at different times."
+            },
+            {
+                "question": "Could you outline the documents required for claiming the subsidy?",
+                "answer": "The required documents include an application in duplicate, the original invoice/bill with TIN No. for sprinkler/drip equipment, and a work completion report signed by the applicant."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines, Application And Declaration Form",
+                "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+            },
+            {
+                "type": "Grower's Registration (UMANG)",
+                "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://coffeeboard.gov.in/contact-us.html"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "DBT",
+            "Farmer",
+            "Subsidy"
+        ]
+    }
+}

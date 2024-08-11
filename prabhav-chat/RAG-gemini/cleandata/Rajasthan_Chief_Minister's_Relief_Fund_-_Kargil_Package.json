@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Rajasthan Chief Minister's Relief Fund - Kargil Package",
+        "state": "Rajasthan",
+        "department": "Chief Minister's Office, Rajasthan",
+        "type": "Financial Assistance",
+        "beneficiary": "Families of soldiers from Rajasthan who were killed or disabled during the Kargil War",
+        "details": "The Rajasthan Chief Minister's Fund- Kargil Package is a government scheme that was launched in 1999 to support the families of soldiers from Rajasthan who were killed or disabled during the Kargil War. Under this scheme, financial assistance is provided to the families of martyrs and disabled soldiers, including their children's education and medical treatment. The scheme also provides assistance to war widows and helps them become self-reliant by providing training and employment opportunities. The fund is managed by a committee headed by the Chief Minister of Rajasthan and includes senior government officials and representatives of ex-servicemen associations.",
+        "benefits": [
+            "In case of death due to accident from 18.02.2019, an amount of Rs 1 lakh to the dependent of the deceased.",
+            "From 18.02.2019, in case of serious injury, assistance should be approved up to Rs 20,000.",
+            "Assistance is payable only on applying within a maximum period of 6 months from the date of accident.",
+            "In case of death of a seriously injured person in an accident while undergoing treatment, assistance is given on applying within a period of 6 months from the date of death instead of the date of application.",
+            "Information of pending cases/ monthly information of revolving fund should be sent to Chief Minister\u2019s Relief Fund on email- cmrf.cmo@rajasthan.gov.in by 10th of every month."
+        ],
+        "eligibility": [
+            "Assistance is payable only on applying within a maximum period of 6 months from the date of accident.",
+            "In case of death of a seriously injured person in an accident while undergoing treatment, assistance is given on applying within a period of 6 months from the date of death instead of the date of application.",
+            "Information of pending cases/ monthly information of revolving fund should be sent to Chief Minister\u2019s Relief Fund on email- cmrf.cmo@rajasthan.gov.in by 10th of every month."
+        ],
+        "exclusions": [
+            "Assistance is not payable in cases of suicide.",
+            "Assistance is not payable in case of loss of property due to fire or other reasons."
+        ],
+        "application_process": "Offline. Visit the official website of the Rajasthan Government http://cmrelief.rajasthan.gov.in/ and look for the application form for the Kargil Package or contact the nearest Sainik Welfare and Resettlement Office for the application form.",
+        "documents_required": [
+            "Application",
+            "Battle Casualty Report",
+            "Copy of the medical report of the injured (Mandatory)",
+            "Copy of post mortem report in case of death (Mandatory) or satisfaction certificate of the investigating officer in case of mutilation of the dead body (mandatory)",
+            "Copy of FIR report (Mandatory)",
+            "Copy of Ration Card",
+            "Copy of Aadhaar Card",
+            "Copy of first page of bank account passbook / canceled check or photocopy"
+        ],
+        "faqs": [
+            {
+                "question": "Is Assistance payable in cases of suicide?",
+                "answer": "No."
+            },
+            {
+                "question": "Is assistance payable in case of loss of property due to fire or other reasons?",
+                "answer": "No."
+            },
+            {
+                "question": "In case the application is incomplete, should the applicant be informed to make corrections?",
+                "answer": "Yes."
+            },
+            {
+                "question": "How to apply for this scheme?",
+                "answer": "Visit the official website of the Rajasthan Government http://cmrelief.rajasthan.gov.in/ and look for the application form for the Kargil Package or contact the nearest Sainik Welfare and Resettlement Office for the application form."
+            },
+            {
+                "question": "Which documents are required to apply for this scheme?",
+                "answer": "Application, Copy of the medical report of the injured (Mandatory), Copy of post mortem report in case of death (Mandatory), Copy of FIR report (Mandatory), Copy of Ration Card, Copy of Aadhaar Card, Copy of first page of bank account passbook / canceled check or photocopy."
+            },
+            {
+                "question": "What are the Benefits of this scheme?",
+                "answer": "In case of death due to accident from 18.02.2019, an amount of Rs 1 lakh to the dependent of the deceased. From 18.02.2019, in case of serious injury, assistance should be approved up to Rs 20,000."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/436"
+            }
+        ],
+        "tags": [
+            "Kargil War",
+            "Financial Assistance",
+            "Rajasthan Government",
+            "Soldiers Welfare"
+        ]
+    }
+}

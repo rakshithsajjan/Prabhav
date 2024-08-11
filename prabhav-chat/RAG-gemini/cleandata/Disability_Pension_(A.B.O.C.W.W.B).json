@@ -1,0 +1,106 @@
+{
+    "content": {
+        "title": "Disability Pension (A.B.O.C.W.W.B)",
+        "state": "Assam",
+        "department": "Labour Welfare Department, Government of Assam",
+        "type": "Pension",
+        "beneficiary": "Building Workers, Construction Workers",
+        "details": "The scheme \u201cDisability Pension\u201d was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, the Board provides financial assistance as disability pension to a beneficiary who is permanently disabled due to paralysis, leprosy, TB, accident, etc. In addition to this pension, he/she will be eligible for a one-time Ex-gratia payment depending upon the percentage of disability and subject to such conditions as fixed by the Board.",
+        "benefits": [
+            "A monthly disability pension of \u20b92,000/- plus \u20b9100/- per month for every completed year of service from the year of registration.",
+            "A one-time Ex-gratia payment of not more than \u20b93.00 Lakhs depending upon the percentage of disability."
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Assam.",
+            "The applicant should be engaged in any building & other construction work.",
+            "The construction worker should be registered with the Assam Building and Other Construction Workers Welfare Board.",
+            "The applicant should have an active membership with the Board.",
+            "The construction worker who is permanently disabled due to paralysis, leprosy, TB, accident, etc. is eligible to apply for the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via CSCs",
+        "documents_required": [
+            "Passport size photograph (Applicant and Nominee)",
+            "Proof of Age/DOB",
+            "Copy of Aadhaar Card",
+            "Copy of Voter ID Card",
+            "Bank passbook first page",
+            "Experience Certificate/Employers Certificate (90 days working record to check eligibility)",
+            "Completely filled Nomination Form",
+            "Completely filled Registration Form",
+            "Any other relevant documents",
+            "ABOCWWB ID Card",
+            "Attested Copy of ID Card",
+            "Applicant's Photo",
+            "Upload Medical Bills Countersigned By Government Doctor",
+            "Employer's Certificate on Accident",
+            "Document of Admission and Discharge from the Hospital",
+            "Permanent Disability Certificate from the Appropriate Authority",
+            "Copy of Payslip of Account Paybook",
+            "Caste Certificate (Other than General category)",
+            "Photograph of the part of the Person affected due to the Accident",
+            "Original Application Form of Registration",
+            "Any other related documents",
+            "Loan Recovery Documents"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Disability Pension Scheme introduced by A.B.O.C.W.W.B, Assam?",
+                "answer": "This scheme aims to provide disability pension and one-time ex-gratia payment to beneficiaries who are permanently disabled due to reasons such as paralysis, leprosy, TB, accidents, etc."
+            },
+            {
+                "question": "Who is eligible to benefit from the Disability Pension Scheme?",
+                "answer": "Any individual registered with the Assam Building and Other Construction Workers Welfare Board who becomes permanently disabled due to paralysis, leprosy, TB, accidents, etc., is eligible for the Disability Pension Scheme."
+            },
+            {
+                "question": "How is the monthly disability pension calculated?",
+                "answer": "The monthly disability pension is fixed at \u20b92,000, and an additional \u20b9100 is granted for every completed year of service from the year of registration."
+            },
+            {
+                "question": "What is the one-time Ex-gratia payment, and how is it determined?",
+                "answer": "The one-time ex-gratia payment is a lump sum amount provided to the beneficiary based on the percentage of disability. The specific amount is subject to conditions set by the Board and may not exceed \u20b93.00 Lakhs."
+            },
+            {
+                "question": "Can a beneficiary avail both the monthly disability pension and the one-time Ex-gratia payment?",
+                "answer": "Yes, an eligible beneficiary is entitled to receive both the monthly disability pension and the one-time ex-gratia payment based on their percentage of disability, subject to conditions laid out by the Board."
+            },
+            {
+                "question": "What is the residency requirement for applicants?",
+                "answer": "The applicant should be a permanent resident of Assam to qualify for the Disability Pension Scheme."
+            },
+            {
+                "question": "Is the scheme restricted to certain occupations?",
+                "answer": "Yes, the applicant should be engaged in building and other construction work to be eligible for the Disability Pension Scheme."
+            },
+            {
+                "question": "Can temporary disabilities be considered for eligibility?",
+                "answer": "No."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "The eligible registered construction workers may apply through the portal."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labourcommissioner.assam.gov.in/portlet-innerpage/various-welfare-benefits-for-registered-construction-workers"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://abocwwb.assam.gov.in/"
+            },
+            {
+                "type": "User Manual",
+                "url": "https://labourcommissioner.assam.gov.in/sites/default/files/swf_utility_folder/departments/coi_labour_uneecopscloud_com_oid_14/portlet/level_2/sop_bocw_online_mode_for_uploading.pdf"
+            }
+        ],
+        "tags": [
+            "Disability Pension",
+            "Financial Assistance",
+            "Building Worker",
+            "Construction Worker",
+            "Labour"
+        ]
+    }
+}

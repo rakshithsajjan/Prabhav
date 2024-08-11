@@ -1,0 +1,65 @@
+{
+    "content": {
+        "title": "SWADHAR Greh (A Scheme For Women In Difficult Circumstances)",
+        "state": "India",
+        "department": "Ministry of Women and Child Development",
+        "type": "Support Scheme",
+        "beneficiary": "Women in difficult circumstances",
+        "details": "The Ministry of Women and Child Development is implementing the Swadhar Greh Scheme which targets the women victims of difficult circumstances who are in need of institutional support for rehabilitation so that they could lead their life with dignity. The Scheme envisages providing shelter, food, clothing and health as well as economic and social security for these women.",
+        "benefits": [
+            "Women affected by domestic violence could stay up to one year.",
+            "For other categories of women, the maximum period of stay could be up to 3 years.",
+            "Older women above the 55 years of age may be accommodated for a maximum period of 5 years.",
+            "Swadhar Greh facilities could also be availed by the children accompanying women in the above categories.",
+            "Girls up to the age of 18 years and boys up to the age of 8 years would be allowed to stay in the Swadhar Greh with their mothers."
+        ],
+        "eligibility": [
+            "Women who are deserted and are without any social and economic support.",
+            "Women survivors of natural disasters who have been rendered homeless and are without any social and economic support.",
+            "Women prisoners released from jail and are without family, social and economic support.",
+            "Women victims of domestic violence, family tension or discord, who are made to leave their homes without any means of subsistence.",
+            "Trafficked women/girls rescued or run away from brothels or other places where they face exploitation.",
+            "Women affected by HIV/AIDS who do not have any social or economic support."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "The documents required shall be notified to you by the helpcentre."
+        ],
+        "faqs": [
+            {
+                "question": "What kind of Legal assistance is provided?",
+                "answer": "The legal assistance requirements of the beneficiaries shall be met through the District Legal Services Authority(DLSA)."
+            },
+            {
+                "question": "What is meant by Vocational Training as a service?",
+                "answer": "Arrangement would be made by the implementing organization for providing vocational training to the women through the Vocational Training Institutes recognized by Directorate General of Employment and Training."
+            },
+            {
+                "question": "What kind of Medical Facilities is provided as a service?",
+                "answer": "Health Check up and medical facilities will be tied up with local civil hospital/CHC/PHC."
+            },
+            {
+                "question": "What is the meaning of Counselling Facility?",
+                "answer": "The staff proposed under Swadhar Greh scheme will provide the telephonic counseling to the needy women."
+            },
+            {
+                "question": "Is there any application process?",
+                "answer": "No. The entire application process is easy, Just call the nearest Swadhar Greh."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://wcd.nic.in/sites/default/files/Revised%20Guidelines%20Swadhar%20Greh%2C2015%20%28%20English%29.pdf"
+            }
+        ],
+        "tags": [
+            "Women Empowerment",
+            "Support",
+            "Rehabilitation",
+            "Domestic Violence",
+            "Social Security"
+        ]
+    }
+}

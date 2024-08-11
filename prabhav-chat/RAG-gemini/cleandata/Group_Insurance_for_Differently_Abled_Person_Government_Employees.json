@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Group Insurance for Differently Abled Person Government Employees",
+        "state": "Puducherry",
+        "department": "Department of Social Welfare",
+        "type": "Insurance",
+        "beneficiary": "Differently Abled Government Employees",
+        "details": "The scheme 'Group Insurance for Differently Abled Person Government Employees' was launched by the Department of Social Welfare, Government of Puducherry. In this scheme, in the case of death due to accident while in service the sum insured will be given to the family of the deceased employee.",
+        "benefits": [
+            "Group A: \u20b9 1,20,000/-",
+            "Group B: \u20b9 60,000/-",
+            "Group C: \u20b9 30,000/-",
+            "Group D: \u20b9 15,000/-"
+        ],
+        "eligibility": [
+            "The applicant should be a Native/Resident of the Union Territory of Puducherry for at least 5 years.",
+            "The applicant should have a disability of 40% or above.",
+            "The applicant should be a government servant."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit the Office/Sub-Office of the Department of Social Welfare and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Residence-cum-nativity Certificate, Issued by the Competent Authority",
+            "Recent Passport-size Photograph",
+            "Bank Passbook",
+            "Disability Certificate / Medical Certificate",
+            "Proof of being a Government Servant"
+        ],
+        "faqs": [
+            {
+                "question": "How is the sum insured determined under this scheme?",
+                "answer": "The sum insured varies based on the employee's group: Group A - \u20b91,20,000/-, Group B - \u20b960,000/-, Group C - \u20b930,000/-, and Group D - \u20b915,000/-."
+            },
+            {
+                "question": "Who is eligible to apply for the scheme?",
+                "answer": "Applicants must be residents of Puducherry for at least 5 years, have a disability of 40% or above, and be government servants."
+            },
+            {
+                "question": "How can individuals contact the Department of Social Welfare?",
+                "answer": "For queries and assistance, individuals can contact the department through the provided link: https://socwelfare.py.gov.in/contact-us."
+            },
+            {
+                "question": "Is the Aadhaar Card mandatory for scheme application?",
+                "answer": "Yes, applicants must submit their Aadhaar Card as a mandatory document for the application process."
+            },
+            {
+                "question": "Can individuals with a disability below 40% apply for the scheme?",
+                "answer": "No, the scheme is specifically for individuals with a disability of 40% or above."
+            },
+            {
+                "question": "Is there an application deadline for this scheme?",
+                "answer": "The scheme guidelines do not mention any opening date or closing date for applications."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://socwelfare.py.gov.in/group-insurance-differently-abled-person-government-employees"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://socwelfare.py.gov.in/contact-us"
+            },
+            {
+                "type": "Sub Offices",
+                "url": "https://socwelfare.py.gov.in/sub--office-social-welfare-department"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://pgportal.gov.in/"
+            }
+        ],
+        "tags": [
+            "Banking",
+            "Disability",
+            "Employee",
+            "Government",
+            "Insurance"
+        ]
+    }
+}

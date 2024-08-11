@@ -1,0 +1,63 @@
+{
+    "content": {
+        "title": "Himachal Pradesh Maharishi Valmiki Sampoorn Swachata Puraskar (state Sanitation Reward Scheme)",
+        "state": "Himachal Pradesh",
+        "department": "Department of Rural Development",
+        "type": "Competition",
+        "beneficiary": "Gram Panchayats",
+        "details": "The Government of Himachal Pradesh has implemented a comprehensive strategy to address the sanitation challenges prevalent in rural areas. The primary focus of this strategy is to encourage and motivate rural communities to abandon the traditional practice of open defecation and adopt safe sanitation practices. As part of this initiative, the Maharishi Valmiki Sampoorn Swachata Puruskar (MVSSP) has been introduced. The MVSSP is an annual competition that aims to identify and recognize the cleanest Gram Panchayat at various levels, including block, district, division, and state.",
+        "benefits": [
+            "Block Level: The Gram Panchayat that attains the first position at the block level receives a cash prize of 1 lakh rupees.",
+            "District Level: At the district level, the prize amount increases to 3 lakh rupees.",
+            "Division Level: The winning Gram Panchayat at the division level is awarded a cash prize of 5 lakh rupees.",
+            "State Level: The highest recognition and incentive are reserved for the winning Gram Panchayat at the state level, which receives a cash prize of 10 lakh rupees."
+        ],
+        "eligibility": [
+            "Open Defecation Free Gram Panchayat: The Gram Panchayat should have achieved the status of being open defecation free.",
+            "Previous Level Winners: Gram Panchayats that have won an award at a particular level in the MVSSP competition are not eligible to participate for the same level for the next three years.",
+            "State Level Winner: The Gram Panchayat that has won the state-level award is not eligible to participate in the MVSSP competition for three years after winning the award."
+        ],
+        "exclusions": [
+            "Non-Open Defecation Free Gram Panchayats: Gram Panchayats that have not achieved the status of being open defecation free are not eligible to participate.",
+            "Previous Level Winners: Winning Gram Panchayats at any level are excluded from participating in the MVSSP competition for the same level for the next three years.",
+            "State Level Winner: The Gram Panchayat that wins the state-level award is not eligible to participate in the MVSSP competition for three years after the year of winning."
+        ],
+        "application_process": "Offline. The Gram Panchayat should pass a resolution expressing their intention to participate, fill out the application form, and submit it to the Block Development Officer by 23rd April each year.",
+        "documents_required": [
+            "Gram Panchayat Resolution: A resolution passed by the Gram Panchayat expressing their intention to participate.",
+            "Application Form (Annexure-A): The completed application form provided by the MVSSP.",
+            "Proof of Open Defecation-Free Status: Documents or certificates verifying that the Gram Panchayat has achieved the status of being open defecation-free.",
+            "Supporting Documents: Any additional documents or evidence that may be required to support the application."
+        ],
+        "faqs": [
+            {
+                "question": "What is MVSSP?",
+                "answer": "MVSSP stands for Maharishi Valmiki Sampoorn Swachata Puruskar, which is a competition organized by the Government of Himachal Pradesh to recognize and reward the cleanest Gram Panchayats at various levels."
+            },
+            {
+                "question": "Who is eligible to participate in the MVSSP competition?",
+                "answer": "Any Gram Panchayat that has achieved the status of being open defecation-free is eligible to participate."
+            },
+            {
+                "question": "Can a Gram Panchayat participate in the MVSSP competition if it has previously won an award at a lower level?",
+                "answer": "Yes, a Gram Panchayat can participate in the competition at a higher level even if it has won an award at a lower level."
+            },
+            {
+                "question": "How are the assessments conducted in the MVSSP competition?",
+                "answer": "Assessment committees are set up at block, district, division, and state levels. The assessments are carried out based on prescribed norms and marking criteria by these committees."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines And Notification",
+                "url": "https://hptsc.nic.in/pdf/MVSSP.pdf"
+            }
+        ],
+        "tags": [
+            "Sanitation",
+            "Cleanliness",
+            "Gram Panchayat",
+            "Himachal Pradesh"
+        ]
+    }
+}

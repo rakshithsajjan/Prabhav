@@ -1,0 +1,92 @@
+{
+    "content": {
+        "title": "Diggy",
+        "state": "Rajasthan",
+        "department": "Agriculture Department",
+        "type": "Subsidy",
+        "beneficiary": "Farmers",
+        "details": "In Agriculture Department, Rajasthan Government has started the Diggy Scheme to provide subsidies to the farmers of Rajasthan for making dig for irrigation. Under the scheme, farmers can prepare ways in their fields collect water in one place, and do more irrigation with the help of sprinklers. By providing this grant amount to the farmers, the government will encourage the farmers to grow good crops by building dig and irrigating the crops without any financial pressure. This scheme is to help farmers improve their farming by using more water resources and encourage them to grow good crops.",
+        "benefits": [
+            "The farmer must purchase a permanent container with a minimum filling capacity of 4 lakh liters and above.",
+            "The state government will provide a 75% to 85% subsidy.",
+            "Farmer will be provided a grant amount of up to \u20b9 3,00,000/- to \u20b9 3,40,000/- by the government for making a dig in fields."
+        ],
+        "eligibility": [
+            "The applicant should have a native of Rajasthan.",
+            "The applicant should be a farmer.",
+            "A farmer must have at least 0.5 (half) hectares of irrigated agricultural land."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhar card.",
+            "Address proof.",
+            "Identity card.",
+            "Land related documents.",
+            "Ration card.",
+            "Mobile number.",
+            "Passport size photo."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective is to provide subsidy to the farmers of Rajasthan for making dig for irrigation. Farmers can prepare dig in their fields and collect water at one place and do more irrigation with the help of sprinklers."
+            },
+            {
+                "question": "How much subsidy is provided on Rajasthan Diggy Grant?",
+                "answer": "In the scheme, 75%-85% subsidy is provided to the farmer."
+            },
+            {
+                "question": "What should be the minimum irrigated cultivable land for construction of dig/pond?",
+                "answer": "Farmer has 0.5 hectares of cultivable land then he can apply for this scheme."
+            },
+            {
+                "question": "How to get dig construction subsidy amount?",
+                "answer": "The subsidy fixed by the state government is directly transferred to their bank account."
+            },
+            {
+                "question": "In which state has Diggy Yojana been started?",
+                "answer": "Diggy Nirman Yojana has been started in the state of Rajasthan."
+            },
+            {
+                "question": "What is the maximum grant amount under the scheme?",
+                "answer": "Farmer will be provided a grant amount of up to \u20b9 3,00,000/- to \u20b9 3,40,000/- by the government for making a dig in fields."
+            },
+            {
+                "question": "What is the official website of the scheme?",
+                "answer": "This is the official website of the scheme. https://rajkisan.rajasthan.gov.in/Rajkisanweb/Home"
+            },
+            {
+                "question": "Who Can Get The Benefits Of The Scheme?",
+                "answer": "Farmers can get the benefits of the scheme."
+            },
+            {
+                "question": "What is application url to apply for the scheme?",
+                "answer": "Applicant has to visit the following official portal to register and apply. URL : https://sso.rajasthan.gov.in/signin"
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "1. Aadhar card. 2. Address proof. 3. Identity card. 4. Land related documents. 5. Ration card. 6. Mobile number. 7. Passport size photo."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+                "type": "Registration",
+                "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+                "type": "Log In",
+                "url": "https://sso.rajasthan.gov.in/signin"
+            }
+        ],
+        "tags": [
+            "Development",
+            "Farmer",
+            "Farming"
+        ]
+    }
+}

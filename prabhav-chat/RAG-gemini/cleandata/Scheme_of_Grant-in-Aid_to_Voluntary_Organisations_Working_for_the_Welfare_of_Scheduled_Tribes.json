@@ -1,0 +1,49 @@
+{
+    "content": {
+        "title": "Scheme of Grant-in-Aid to Voluntary Organisations Working for the Welfare of Scheduled Tribes",
+        "state": "Not specified",
+        "department": "Ministry of Tribal Affairs",
+        "type": "Grant",
+        "beneficiary": "Voluntary Organisations working for the welfare of Scheduled Tribes",
+        "details": "This scheme provides financial assistance to NGOs working for the welfare of Scheduled Tribes through a structured application and approval process.",
+        "benefits": [
+            "Financial assistance for projects aimed at the welfare of Scheduled Tribes",
+            "Support for ongoing and new projects",
+            "Guidance and facilitation through the NGO portal"
+        ],
+        "eligibility": [
+            "Registered NGOs on the NGO-Darpan Portal",
+            "Submission of proposals through the NGO portal"
+        ],
+        "exclusions": [],
+        "application_process": "Applications must be submitted online through the NGO portal of the Ministry of Tribal Affairs after registration on the NGO-Darpan Portal.",
+        "documents_required": [
+            "Online application in the prescribed proforma",
+            "Utilization certificate of the last released grant",
+            "Audited accounts for the previous year",
+            "Budget estimates for the financial year",
+            "Expenditure Statement in REAT Module"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/sgiavowwst"
+            },
+            {
+                "type": "NGO-Darpan Portal",
+                "url": "https://ngodarpan.gov.in/index.php/home"
+            },
+            {
+                "type": "Ministry NGO Portal",
+                "url": "https://ngo.tribal.gov.in/ngo-login"
+            }
+        ],
+        "tags": [
+            "Grant-in-Aid",
+            "Scheduled Tribes",
+            "NGO",
+            "Welfare"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Kisan Pension Yojana",
+        "state": "Uttarakhand",
+        "department": "Department of Social Welfare",
+        "type": "Pension",
+        "beneficiary": "Elderly farmers",
+        "details": "The Kisan Pension Yojana, implemented by the Department of Social Welfare of Uttarakhand, provides financial assistance in the form of monthly pension to eligible farmers. This scheme supports old age farmers, who owning up to 02 hectares of land and cultivate their own land and do not receive any other pension. This initiative to ensure financial security for the elderly farming community in Uttarakhand.",
+        "benefits": [
+            "Monthly pension of \u20b91,200/- (one thousand two hundred)."
+        ],
+        "eligibility": [
+            "The applicant must be a permanent resident of Uttarakhand.",
+            "The applicant's age should be more than 60 years.",
+            "The applicant should not get pension benefits from any other sources.",
+            "The Applicant should have a maximum of 2 hectares of land and do farming on the same."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Land Documents.",
+            "Aadhaar Card of the applicant farmer.",
+            "Age certificate.",
+            "The land related affidavit will have to be submitted on stamp paper of Rs.10.",
+            "Address proof.",
+            "Photocopy of the first page of bank account for bank account details.",
+            "Passport size colour photo.",
+            "Caste certificate.",
+            "Voter ID card."
+        ],
+        "faqs": [
+            {
+                "question": "What is the main objective of the Kisan Pension Scheme?",
+                "answer": "The main objective is to provide financial support to elderly farmers who cultivate their own land and do not receive pensions from other sources."
+            },
+            {
+                "question": "Who is eligible for the Kisan Pension Scheme in Uttarakhand?",
+                "answer": "Landholder farmers above 60 years of age with up to 02 hectares of land who cultivate their own land and are not receiving any other pension."
+            },
+            {
+                "question": "Which department implements the Kisan Pension Scheme?",
+                "answer": "The scheme is implemented by the Department of Social Welfare of Uttarakhand."
+            },
+            {
+                "question": "Can beneficiaries of the Kisan Pension Scheme receive pensions from other sources?",
+                "answer": "No, eligible beneficiaries of the Kisan Pension Scheme are not entitled to pensions or grants from any other sources."
+            },
+            {
+                "question": "What must farmers submit to get the benefit of the Kisan Pension Scheme?",
+                "answer": "Farmers must submit an affidavit on a stamp paper of \u20b910/- regarding their land."
+            },
+            {
+                "question": "Are there any conditions for receiving the pension under this scheme?",
+                "answer": "Yes, farmers must continuously cultivate their own land to continue receiving the pension."
+            },
+            {
+                "question": "What is the monthly pension amount provided under the Kisan Pension Scheme?",
+                "answer": "The monthly pension amount is \u20b91200 (Rupees one thousand two hundred)."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Details",
+                "url": "https://socialwelfare.uk.gov.in/pages/display/115-kisan-pension"
+            },
+            {
+                "type": "Registration",
+                "url": "https://ssp.uk.gov.in/OnlineRegistration/FrmKisanOnlineApplicationForm.aspx"
+            }
+        ],
+        "tags": [
+            "Empowerment",
+            "Farmer",
+            "Uttarakhand"
+        ]
+    }
+}

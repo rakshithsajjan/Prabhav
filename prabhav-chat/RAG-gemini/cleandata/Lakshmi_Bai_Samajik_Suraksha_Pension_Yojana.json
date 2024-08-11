@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Lakshmi Bai Samajik Suraksha Pension Yojana",
+        "state": "Bihar",
+        "department": "Government of Bihar",
+        "type": "Pension Scheme",
+        "beneficiary": "Widow women living below the poverty line",
+        "details": "It has been started with the aim of improving the citizens living below the poverty line. Through this scheme, the state government will provide assistance to old women living below the economic poverty line.",
+        "benefits": [
+            "Financial Assistance of Rs. 300/- per month."
+        ],
+        "eligibility": [
+            "Widow woman must be a resident of Bihar.",
+            "The woman should be a widow.",
+            "The woman should be living below the poverty line.",
+            "The annual income of the woman's family should be Rs. 60,000/- or less.",
+            "The age of the woman should be 18 years or more."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Female Aadhaar card.",
+            "Address proof.",
+            "BPL ration card.",
+            "Age certificate.",
+            "Income certificate.",
+            "Husband's death certificate.",
+            "Identity card.",
+            "Bank account statement.",
+            "Mobile number.",
+            "Email id.",
+            "Passport-size photo."
+        ],
+        "faqs": [
+            {
+                "question": "What is Lakshmi Bai Samajik Suraksha Pension Yojana?",
+                "answer": "Lakshmi Bai Social Security Scheme has been launched by the Bihar Government for the widow women of the state."
+            },
+            {
+                "question": "What are the benefits under this scheme?",
+                "answer": "Financial Assistance of Rs. 300/- per month."
+            },
+            {
+                "question": "Who can avail the benefits?",
+                "answer": "Bihar resident widow women may avail the scheme benefits."
+            },
+            {
+                "question": "What is the financial eligibility criteria?",
+                "answer": "The woman should be living below the poverty line or the annual income of the woman's family should be Rs. 60,000/- or less."
+            },
+            {
+                "question": "What is The Minimum Eligible Age of the scheme?",
+                "answer": "The age of the woman should be 18 years or more."
+            },
+            {
+                "question": "May Other State Residents Apply For The Scheme?",
+                "answer": "No, Only Bihar resident widow women can apply."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Applicants have to visit the official website, click on the option of Apply for Social Security Pension Schemes, select the scheme name and fill out the required details, then submit."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Female Aadhaar card, Address proof, BPL ration card, Age certificate, Income certificate, Husband's death certificate, Bank account statement, Mobile number, Email id, Passport-size photo."
+            },
+            {
+                "question": "By Which Mode Applicant Can Apply For Scheme?",
+                "answer": "Applicants can apply through online and offline mode both."
+            },
+            {
+                "question": "How to apply offline for the scheme?",
+                "answer": "Download the application form, fill out the application form, enclose the required documents (three photographs, Age Certificate, Address Proof, B.P.L. Card, and Husband's Death Certificate), and submit these to District Director or District Social Security cell."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Details",
+                "url": "https://cdn.s3waas.gov.in/s30d0fd7c6e093f7b804fa0150b875b868/uploads/2018/03/2018031763.pdf"
+            }
+        ],
+        "tags": [
+            "Empowerment",
+            "Financial Assistance",
+            "Widow Pension",
+            "Women Welfare"
+        ]
+    }
+}

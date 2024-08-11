@@ -1,0 +1,115 @@
+{
+    "content": {
+        "title": "Pension Plan (MBOCWWB)",
+        "state": "Meghalaya",
+        "department": "Labour Department, Government of Meghalaya",
+        "type": "Pension",
+        "beneficiary": "Building Worker",
+        "details": "The scheme \u201cPension Plan\u201d is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, a member of the fund who has been working as a building worker for not less than one year after the commencement of these rules shall on completion of sixty years of age be eligible for a person. The Pension will become payable from the 60 years of the succeeding to the month in which he completed 60 years of age.",
+        "benefits": [
+            "Under the scheme, the registered worker who has been working as a building worker for not less than one year shall receive an amount of \u20b91,000/- per mensem as pension."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of Meghalaya.",
+            "The beneficiary should be engaged in a building or other construction work.",
+            "The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.",
+            "The registered workers who have been working as building workers for not less than one year shall be eligible to receive pension benefits under the scheme.",
+            "The registered worker shall become eligible to avail pension benefits upon attaining the age of 60 years."
+        ],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)",
+            "Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)",
+            "Bank Passbook of the worker",
+            "eShram ID card, if any",
+            "Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card",
+            "Nomination Form duly signed by the applicant",
+            "Self-declaration towards non-enrolment as a member of any other welfare fund/ board",
+            "SC/ST Certificate (if applicable)",
+            "Any other documents as required"
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Labour",
+            "Pension"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers the Pension Plan scheme?",
+                "answer": "The scheme is administered by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), under the Labour Department of the Government of Meghalaya."
+            },
+            {
+                "question": "Who is eligible to receive pension benefits under this scheme?",
+                "answer": "The registered workers who have been working as building workers for not less than one year shall be eligible to receive pension benefits under the scheme."
+            },
+            {
+                "question": "At what age does a registered worker become eligible for pension benefits?",
+                "answer": "Registered workers become eligible for pension benefits upon attaining the age of 60 years."
+            },
+            {
+                "question": "What is the amount of pension provided under this scheme?",
+                "answer": "Registered workers who meet the eligibility criteria receive an amount of \u20b91,000/- per month as pension."
+            },
+            {
+                "question": "When does the pension become payable?",
+                "answer": "Pension becomes payable from the 60th year succeeding the month in which the beneficiary completes 60 years of age."
+            },
+            {
+                "question": "What is the minimum duration of work required to qualify for pension benefits?",
+                "answer": "The beneficiary should have worked as a building worker for not less than one year to be eligible for pension benefits."
+            },
+            {
+                "question": "How does one apply for pension benefits under this scheme?",
+                "answer": "Applications can be made online at http://megbocwwb.gov.in/bocw_services"
+            },
+            {
+                "question": "Can the application be tracked?",
+                "answer": "Yes, applications can be tracked from the Dashboard after logging into http://megbocwwb.gov.in/bocw_services"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megbocwwb.gov.in/enrollment"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://megbocwwb.gov.in/schemes_pension"
+            },
+            {
+                "type": "Amendment Notification",
+                "url": "https://meglc.gov.in/acts/MBOCW%20Amendment%20Rules%202017.pdf"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+            },
+            {
+                "type": "Registration Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+            },
+            {
+                "type": "Application Form For Pension",
+                "url": "https://megbocwwb.gov.in/forms/benefit/pension_form.pdf"
+            },
+            {
+                "type": "Nomination Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+            },
+            {
+                "type": "Family Members Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+            },
+            {
+                "type": "SDO Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+            },
+            {
+                "type": "Employer Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+            }
+        ]
+    }
+}

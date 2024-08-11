@@ -1,0 +1,117 @@
+{
+    "content": {
+        "title": "Medical Assistance (MBOCWWB)",
+        "state": "Meghalaya",
+        "department": "Labour Department, Government of Meghalaya",
+        "type": "Social Security Scheme",
+        "beneficiary": "Registered construction workers",
+        "details": "The scheme 'Medical Assistance' is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, the Board shall provide financial assistance to registered construction workers who are hospitalized for five or more days due to an accident or any disease.",
+        "benefits": [
+            "The financial assistance shall be \u20b9200/- for first 5 days and \u20b920/- each for the remaining days subject to a minimum \u20b91,000/-.",
+            "This assistance shall also be given to the beneficiary who meets with an accident and is put in plaster at the residence.",
+            "If disability resulted due to an accident, the worker shall be eligible for financial assistance upto a maximum \u20b95,000/- depending upon the percentage of disability."
+        ],
+        "eligibility": [
+            "The beneficiary should be a resident of Meghalaya.",
+            "The beneficiary should be engaged in a building or other construction work.",
+            "The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.",
+            "The beneficiary should have an active membership of the Board.",
+            "The registered construction workers who are hospitalized for five or more days due to an accident or any disease are eligible to apply under the scheme."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)",
+            "Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)",
+            "Bank Passbook of the worker",
+            "eShram ID card, if any",
+            "Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card",
+            "Nomination Form duly signed by the applicant",
+            "Self-declaration towards non-enrolment as a member of any other welfare fund/ board",
+            "SC/ST Certificate (if applicable)",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who administers the Medical Assistance Scheme?",
+                "answer": "The scheme is administered by the Labour Department, Government of Meghalaya, through the MBOCWWB."
+            },
+            {
+                "question": "What are the benefits of the scheme?",
+                "answer": "The scheme offers financial assistance of \u20b9200 for the first 5 days and \u20b920 for each subsequent day, ensuring a minimum payout of \u20b91,000. Additional assistance is provided for disabilities resulting from accidents, up to a maximum of \u20b95,000, based on the severity of disability."
+            },
+            {
+                "question": "Who is eligible for the Medical Assistance Scheme?",
+                "answer": "To be eligible, beneficiaries must be residents of Meghalaya, engaged in building or other construction works, registered under MBOCWWB, and have active membership with the Board."
+            },
+            {
+                "question": "How does one qualify for assistance under the scheme?",
+                "answer": "Registered construction workers who are hospitalized for five or more days due to accidents or diseases are eligible to apply for assistance under the scheme."
+            },
+            {
+                "question": "Can assistance be claimed for accidents resulting in plastering at home?",
+                "answer": "Yes, beneficiaries who meet with accidents and are put in plaster at home are also eligible for financial assistance under the scheme."
+            },
+            {
+                "question": "What types of diseases are covered under the scheme?",
+                "answer": "The scheme covers hospitalization due to accidents or any disease, subject to the specified duration and eligibility criteria."
+            },
+            {
+                "question": "How can the application be submitted?",
+                "answer": "Applications can be made online at http://megbocwwb.gov.in/bocw_services"
+            },
+            {
+                "question": "Can the application be tracked?",
+                "answer": "Yes, applications can be tracked from the Dashboard after logging into http://megbocwwb.gov.in/bocw_services"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megbocwwb.gov.in/enrollment"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://megbocwwb.gov.in/schemes_medical"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+            },
+            {
+                "type": "Registration Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Registration%20Form.pdf"
+            },
+            {
+                "type": "Application For Medical Benefit",
+                "url": "https://megbocwwb.gov.in/forms/benefit/medicalbenefit.pdf"
+            },
+            {
+                "type": "Nomination Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/NominationForm.pdf"
+            },
+            {
+                "type": "Family Members Form",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/Familymembers.pdf"
+            },
+            {
+                "type": "SDO Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/SDOCertificate.pdf"
+            },
+            {
+                "type": "Employer Certificate",
+                "url": "https://megbocwwb.gov.in/forms/registration-form/EmployersCertificate.pdf"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Building Worker",
+            "Construction Worker",
+            "Disease",
+            "Financial Assistance",
+            "Labour",
+            "Medical"
+        ]
+    }
+}

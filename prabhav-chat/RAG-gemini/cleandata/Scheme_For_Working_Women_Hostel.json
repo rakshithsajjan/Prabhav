@@ -1,0 +1,55 @@
+{
+    "content": {
+        "title": "Scheme For Working Women Hostel",
+        "state": "Not specified",
+        "department": "Ministry of Women and Child Development",
+        "type": "Accommodation Scheme",
+        "beneficiary": "Working women and women under training for job",
+        "details": "A scheme to promote accommodation for working women, with day care facility for their children, wherever possible, in urban, semi urban, or even rural areas where employment opportunity for women exist. Particular preference may be given to women from disadvantaged sections of the society. There are also provision for reservation of seats for physically challenged beneficiaries.",
+        "benefits": [
+            "Safe and secure Hostel Facilities to working women or women under going job Training",
+            "Girls up to the age of 18 years and boys up to the age of 5 years, accompanying working mothers will be provided accommodation, with their mothers.",
+            "Working mothers may also avail of the services of the Day Care Centre"
+        ],
+        "eligibility": [
+            "Working women, who may be single, widowed, divorced, separated, married but whose husband or immediate family does not reside in the same city/area.",
+            "Women who are under training for job provided the total training period does not exceed one year.",
+            "Girls up to the age of 18 years and boys up to the age of 5 years, accompanying working mothers will be provided accommodation, with their mothers."
+        ],
+        "exclusions": [
+            "When the income of any working woman already residing in a hostel exceeds the prescribed limits, she will be required to vacate the hostel within a period of 6 months of crossing the income ceiling."
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhaar Card",
+            "Proof of Address - Passport/ Passport Verification, Driving License, Voter ID Card, Water Bill/ Connection, Electricity Bill, Telephone Bill, Registration of Vehicles, Land Valuation/ Holding/ Record Certificate, post office/bank passbook, Photo Identity Card having address (of Central Govt./PSU or State Govt./PSU only)",
+            "Income Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "Can I Apply For Hostel In My Hometown?",
+                "answer": "No. For availing hostel service women's husband or immediate family must not reside in the same city/area."
+            },
+            {
+                "question": "Can I Apply Online?",
+                "answer": "The Complete Process Id Offline."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://wcd.nic.in/sites/default/files/Working%20Women%20Hostel_about_revised_about.pdf"
+            },
+            {
+                "type": "Hostel List",
+                "url": "https://wcd.nic.in/sites/default/files/wwhlistdtd09112012.pdf"
+            }
+        ],
+        "tags": [
+            "Day Care",
+            "Hostel",
+            "Women Accommodation",
+            "Working Women"
+        ]
+    }
+}

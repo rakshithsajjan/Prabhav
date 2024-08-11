@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "WISE Fellowship for Ph.D.",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Fellowship",
+        "beneficiary": "Women scientists and technologists",
+        "details": "The 'WISE Fellowship for Ph.D. (WISE-PhD)' was started by the Department of Science and Technology under \u2018Women in Science and Engineering-KIRAN (WISE-KIRAN)\u2019 Scheme to provide an opportunity to carry out Doctoral research in basic and applied sciences to women scientists and technologists between the age group of 27-45 years who want to pursue research in STEM fields as a bench-level scientist.",
+        "benefits": [
+            "The fellowship amount under this programme is \u20b937,000/- per month along with House Rent Allowances (HRA) as per norms.",
+            "This Programme also provides a Research Grant of \u20b91.00 lakh per year and Institutional overhead charges @\u20b9 0.50 lakh per year (as per DST norms)."
+        ],
+        "eligibility": [
+            "Unemployed women who want to pursue a Ph.D. can apply for a fellowship under WISE-PhD.",
+            "The applicant should have an M. Sc./ M. Tech. or equivalent degree like B. Tech., M.Phil., M. Pharm. etc. in basic and applied sciences from a recognized University/Institute.",
+            "The minimum age to apply for the programme is 27 years and the maximum is 45 years (A relaxation of 3 years in the upper age limit is allowed for SC/ ST/ PH candidates).",
+            "Women in regular employment are not eligible for WISE-PhD."
+        ],
+        "exclusions": [
+            "Candidates who have completed two (2) years duration in Ph.D. as of the date of application are NOT eligible."
+        ],
+        "application_process": "Online application process through the DST e-PMS Portal.",
+        "documents_required": [
+            "Complete Proposal in Prescribed Proposal Format",
+            "High School Certificate",
+            "Highest Degree Certificate",
+            "SC/ ST/ PH Certificate (if claiming age relaxation)",
+            "Certificate from the Head of the Institution",
+            "Ph.D. Registration Letter (if registered)",
+            "Consent letter from Scientist Mentor cum Ph.D. Supervisor",
+            "Bio-Data of Scientist-Mentor"
+        ],
+        "faqs": [
+            {
+                "question": "Who is PI?",
+                "answer": "Principal Investigator (PI) is the WISE-PhD Fellow, i.e., the applicant."
+            },
+            {
+                "question": "What is the last date for application submission?",
+                "answer": "The portal is open throughout the year for proposal submission."
+            },
+            {
+                "question": "What is the age limit for WISE-PhD?",
+                "answer": "27-45 years."
+            },
+            {
+                "question": "Is there any relaxation in the lower age limit?",
+                "answer": "No, there is 3 years relaxation in the upper age limit for SC/ ST/ PH candidates."
+            },
+            {
+                "question": "I am not registered for Ph.D. Can I apply?",
+                "answer": "Yes, subject to other eligibility criteria."
+            },
+            {
+                "question": "I am registered for Ph.D. and receiving a fellowship, am I still eligible to apply?",
+                "answer": "No."
+            },
+            {
+                "question": "I have filled the application online. Do I need to fill the Proposal format provided in the Formats section also?",
+                "answer": "Yes. The docx and pdf file of the offline proposal available in formats is to be mandatorily uploaded in the Submission section of the Online form."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Advertisement",
+                "url": "https://online-wosa.gov.in/wisephd/Advertisement-English.pdf"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://online-wosa.gov.in/wisephd/WISEPhDGuidelines.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://online-wosa.gov.in/wisephd.html"
+            },
+            {
+                "type": "E-PMS",
+                "url": "https://onlinedst.gov.in/Login.aspx"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://onlinedst.gov.in/Projectproposalformat.aspx?Id=2319"
+            }
+        ],
+        "tags": [
+            "Fellowship",
+            "Women in Science",
+            "Ph.D.",
+            "Research",
+            "STEM"
+        ]
+    }
+}

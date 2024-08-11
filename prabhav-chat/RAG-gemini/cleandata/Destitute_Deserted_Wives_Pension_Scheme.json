@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Destitute/Deserted Wives Pension Scheme",
+        "state": "Tamil Nadu",
+        "department": "Social Welfare and Women Empowerment Department",
+        "type": "Pension",
+        "beneficiary": "Destitute/Deserted Wives",
+        "details": "The 'Destitute/Deserted Wives Pension Scheme' is a state scheme launched by the Social Welfare and Women Empowerment Department, Tamil Nadu. The objective is to provide financial assistance of \u20b91,000/- to the destitute/deserted wives. The scheme provides other benefits every year during the Pongal and Deepavali festival, including one priceless saree and a nutritious meal supplied through the Anganwadi Centres.",
+        "benefits": [
+            "\u20b91,000/- per month pension",
+            "One free saree during Pongal and Deepavali",
+            "2kg/month of free rice for those taking nutritious meals",
+            "4kg/month of free rice for those not taking nutritious meals"
+        ],
+        "eligibility": [
+            "The applicant should be legally divorced or deserted for a minimum of 5 years.",
+            "The applicant should be a destitute woman.",
+            "The applicant's age should be 30 years and above.",
+            "The applicant's fixed assets should not exceed \u20b91,00,000."
+        ],
+        "exclusions": [],
+        "application_process": "Online - via Common Service Centers (CSCs). The applicant should gather necessary documents, visit the nearest CSC for biometric verification, fill in the application form, and request a receipt from the concerned authority.",
+        "documents_required": [
+            "Applicant's Photo",
+            "Aadhaar Card",
+            "Proof of Age",
+            "Aadhaar Consent Form",
+            "Smart Ration Card or Any Address Proof",
+            "Legal Separation Certificate (Issued by Court of law)",
+            "Self-declaration of Applicant",
+            "Any Identity Proof (Voter ID Card, Passport, PAN Card, Driving License)",
+            "Bank Passbook",
+            "Not remarried certificate",
+            "Abandonment Certificate"
+        ],
+        "faqs": [
+            {
+                "question": "Do I need to visit the government office to apply for the scheme?",
+                "answer": "No, you can apply online through the nearest Common Service Center (CSC)."
+            },
+            {
+                "question": "What is the amount of the monthly pension?",
+                "answer": "The monthly pension under this scheme is \u20b91,000."
+            },
+            {
+                "question": "Do I get the free saree and rice every month?",
+                "answer": "No, the sarees are distributed during Pongal and Deepavali festivals, and the free rice is provided through Anganwadi centers, with varying quantities based on participation in the nutritious meal program."
+            },
+            {
+                "question": "I am 28 years old and destitute. Am I eligible for the scheme?",
+                "answer": "No, the minimum age requirement is 30 years old."
+            },
+            {
+                "question": "My husband left me 5 years ago, but I have savings of \u20b91.5 lakh. Can I still apply?",
+                "answer": "The maximum limit for fixed assets is \u20b91 lakh. Your savings exceed the limit, so you might not be eligible."
+            },
+            {
+                "question": "Can I track the status of my application?",
+                "answer": "You can inquire about the application status by visiting the CSC where you submitted it or contacting the Social Welfare and Women Empowerment Department."
+            },
+            {
+                "question": "Can you clarify the criteria for receiving free rice at Anganwadi Centres?",
+                "answer": "Beneficiaries who take nutritious meals at Anganwadi Centres are entitled to receive 2kg of free rice per month. However, those not availing nutritious meals receive 4kg of free rice every month."
+            },
+            {
+                "question": "Is there any age restriction for applicants to the 'Destitute/Deserted Wives Pension Scheme'?",
+                "answer": "Yes, applicants must be 30 years old or above to qualify for the scheme."
+            },
+            {
+                "question": "What is the significance of the abandonment certificate in the list of required documents?",
+                "answer": "The abandonment certificate is a crucial document that certifies the applicant's status of being legally divorced or deserted for a minimum of 5 years, meeting one of the eligibility criteria for the scheme."
+            },
+            {
+                "question": "How often is the pension disbursed to the beneficiaries?",
+                "answer": "Beneficiaries receive the pension amount of \u20b91,000 per month."
+            },
+            {
+                "question": "Are there any specific guidelines regarding the fixed assets of the applicant?",
+                "answer": "Yes, to be eligible, the applicant's fixed assets should not exceed \u20b91,00,000."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/swwe_e_cc_2022_23.pdf"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://tnlegalservices.tn.gov.in/swwe/Annexure_English.pdf"
+            }
+        ],
+        "tags": [
+            "Destitute",
+            "Deserted",
+            "Divorced Woman",
+            "Financial Assistance",
+            "Pension"
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Scheme for Grant of Pension Benefits to Journalists",
+        "state": "Puducherry",
+        "department": "Department of Information & Publicity",
+        "type": "Grant",
+        "beneficiary": "Journalists",
+        "details": "The 'Scheme for Grant of Pension Benefits to Journalists' by the Department of Information & Publicity, Union Territory of Puducherry, aims to provide financial support and recognition to eligible media professionals. The scheme offers a monthly pension of \u20b96,000/- to qualified journalists who are 58 years or above in age, and have served for a minimum of 20 years in roles such as Full-time Editor, Reporter, Sub-Editor, Press Photographer / Videographer / Correspondent.",
+        "benefits": [
+            "Pension Amount: \u20b96,000/- per month, or as may be fixed by the Government from time to time.",
+            "Date of Payment: Payment will be made on the 10th of every month.",
+            "Mode of Payment: Payment will be made through the Electronic Clearing System."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a native of the Union Territory of Puducherry by birth or by continuous residence for not less than ten years.",
+            "The applicant should be 58 years or above in age at the time of application.",
+            "The applicant should have served for a minimum of 20 years in roles such as Full-time Editor, Reporter, Sub-Editor, Press Photographer / Videographer / Correspondent of a Newspaper/Periodical/News Agency/Electronic Media.",
+            "In the case of Media Persons who are unable to pursue their profession on account of chronic ill-health or are permanently incapacitated from performing their job, the pension shall be sanctioned if they have put in service for at least 10 years in any capacity.",
+            "The applicant should not be receiving pension/honoraria from the Central/State Government.",
+            "In the case of the death of the journalist, his/her spouse is eligible for 50% of the pension."
+        ],
+        "application_process": "Offline. The interested applicant should take print of the prescribed format of the application form, fill in all mandatory fields, paste a passport-sized photograph, and attach copies of all mandatory documents. The applicant should visit the Office of the Department of Information & Publicity or one of its Branch Offices to submit the application.",
+        "documents_required": [
+            "Nativity/Nationality/Residence Certificate from an officer of the Revenue Department not below the rank of a Deputy Tahsildar.",
+            "Income Certificate from an officer of the Revenue Department not below the rank of a Deputy Tahsildar.",
+            "Birth Certificate or Transfer Certificate/School Leaving Certificate.",
+            "Experience Certificate.",
+            "Certificate regarding pensions/honoraria received from other schemes.",
+            "Medical Certificate for Physically Handicapped or those with incurable diseases.",
+            "Aadhaar Card.",
+            "The 'Life Certificate' should be produced every year to the effect that he/she is alive to avail of the benefit."
+        ],
+        "faqs": [
+            {
+                "question": "Can media persons suffering from chronic ill-health or permanent incapacitation apply for pension benefits, and if so, what are the conditions?",
+                "answer": "Yes, media persons unable to pursue their profession due to chronic ill-health or permanent incapacitation may apply for pension benefits if they have completed at least 10 years of service, irrespective of their present age. Other eligibility conditions still apply."
+            },
+            {
+                "question": "What is the quantum of pension provided under the scheme?",
+                "answer": "The quantum of pension under the Scheme for Grant of Pension Benefits to Journalists is \u20b96,000 per month, subject to adjustments as fixed by the government from time to time."
+            },
+            {
+                "question": "When does the pension become payable, and what is the mode of payment?",
+                "answer": "Pension becomes payable from the first month of sanction and is due at the end of each month. Payments are made on the 10th of each month through the Electronic Clearing System."
+            },
+            {
+                "question": "Can you provide details on the circumstances under which the Director of Information and Publicity has the right to stop the payment of pension?",
+                "answer": "The Director of Information and Publicity can stop the payment of pension if it is found that the pension was sanctioned on mistaken grounds, false information was provided, or the conditions for granting the pension no longer exist."
+            },
+            {
+                "question": "What happens if the pensioner or family pensioner passes away before receiving the pension for a particular period?",
+                "answer": "If the pensioner or family pensioner passes away before receiving the pension for a specific period, the unpaid amount for that period shall be lapsed."
+            },
+            {
+                "question": "Is there an appeal process available for pensioners who are aggrieved by a decision of the Commissioner-cum-Secretary to the Government of Puducherry (Information and Publicity)?",
+                "answer": "Yes, any pensioner aggrieved by a decision of the Commissioner-cum-Secretary to the Government of Puducherry (Information and Publicity) may appeal to the Chief Secretary to the Government of Puducherry, and the decision of the Chief Secretary shall be final."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines & Application Form",
+                "url": "https://info.py.gov.in/sites/default/files/2-pension.pdf"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://py.gov.in/sites/default/files/citizens-charterinfopublicity.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://info.py.gov.in/contact-us"
+            }
+        ],
+        "tags": [
+            "Journalist",
+            "Media",
+            "Newspaper",
+            "Pension",
+            "Press"
+        ]
+    }
+}

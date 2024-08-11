@@ -1,0 +1,113 @@
+{
+    "content": {
+        "title": "Immediate Relief Assistance",
+        "state": "Puducherry",
+        "department": "Department of Fisheries and Fishermen Welfare",
+        "type": "Sub-Component",
+        "beneficiary": "Fishermen's families",
+        "details": "The scheme 'Immediate Relief Assistance' is a Sub-Component under the scheme 'Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme'. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective of extending financial assistance to the fishermen's families to compensate for the loss due to the missing breadwinner and to support them financially to run their family.",
+        "benefits": [
+            "\u20b9 1,00,000, in two installments of \u20b9 50,000 each, as immediate relief assistance for the family (legal heir) of the missing fisherman."
+        ],
+        "eligibility": [
+            "The applicant should be the family (legal heir) of the missing fisherman.",
+            "The missing fisherman should have been a resident of the Union territory of Puducherry.",
+            "The missing fisherman must have lost his/her life while fishing.",
+            "The missing fisherman must have been in the age group of 18-60 years.",
+            "The missing fisherman must not have been a beneficiary of the old age pension scheme.",
+            "The missing fisherman should have enrolled as a member of the Fishermen/Fisherwomen Co-operative Society."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit the office of the concerned authority i.e. the Department of Fisheries and Fishermen Welfare/Sub-Offices of outlying regions in all four regions.",
+        "documents_required": [
+            "Photograph of the Family (Legal Heir) of the Missing Fisherman.",
+            "Residential Certificate of the Missing Fishermen.",
+            "Proof of Age of the Missing Fishermen.",
+            "Declaration That the Missing Fisherman Was Not a Beneficiary of the Old Age Pension Scheme.",
+            "Membership Certificate from the President/Administrator of Fishermen/Fisherwoman Co-operative Society.",
+            "Electoral Identity Card (Attested Copy)",
+            "Ration Card (Attested Copy)",
+            "Panchayathar\u2019s Letter of Village Concerned",
+            "Name, Relationship, and Address of the Legal Heir (Affidavit in \u20b9 5 Stamp Paper, Affixing as the Legal Heir Duly Signed in Before a Notary Public).",
+            "\u2018No Claim\u2019 Certificate in Respect of Financial Assistance Extended by the Revenue Department Should Be Obtained From the Department of Revenue and Disaster Management.",
+            "FIR and Non-traceable Certificate From Respective Station House Officer of Police Department.",
+            "Statement of Next Kin of Missing Person, Statement of Panchayathars, Statement of Persons Who Have Lastly Seen the Missing Person.",
+            "Advertisement/newspaper Report of the Missing Person in Gazette in Tamil/local Newspaper, Municipality/ Commune Panchayat Office, Ration Shop, and Police Station in the Vernacular Language."
+        ],
+        "faqs": [
+            {
+                "question": "Is there a provision for recovering the compensation amount if the missing fisherman returns?",
+                "answer": "Yes, the compensation amount will be recovered by invoking an insurance bond if the missing fisherman returns."
+            },
+            {
+                "question": "What is the role of the standing committee in the release of relief assistance?",
+                "answer": "The standing committee recommends the release of the relief amount, and the Director of Fisheries and Fishermen Welfare acts on this recommendation."
+            },
+            {
+                "question": "What happens if the missing person is not found, and the prescribed period lapses?",
+                "answer": "The balance amount is released in favor of the next of kin (legal heir) after the prescribed 9-month period, assuming no further information is received."
+            },
+            {
+                "question": "How is the eligibility of the missing fisherman determined?",
+                "answer": "The missing fisherman should have lost his/her life while fishing, be in the age group of 18-60, and not be a beneficiary of the old age pension scheme."
+            },
+            {
+                "question": "Can the application form be submitted without the prescribed documents?",
+                "answer": "No, the application form must be submitted with all mandatory documents, self-attested if required, to the concerned authority."
+            },
+            {
+                "question": "Is there any specific procedure for the release of the balance 50% of the relief amount?",
+                "answer": "The balance 50% is released to the next of kin (legal heir) after the prescribed 9-month period and is deposited in a joint account in their name."
+            },
+            {
+                "question": "How is doubt or interpretation issues regarding the scheme addressed?",
+                "answer": "Matters of doubt or interpretation are referred to the Director of Fisheries and Fishermen Welfare, Puducherry, whose decision is final."
+            },
+            {
+                "question": "What is the application deadline for families seeking relief assistance?",
+                "answer": "The affected family (legal heir) must apply within 30 days from the date of the fisherman being reported missing."
+            },
+            {
+                "question": "What does the term 'Fishermen' encompass in the context of this scheme?",
+                "answer": "'Fishermen' refers to individuals involved in fishing operations and allied activities in the Union territory of Puducherry."
+            },
+            {
+                "question": "What is the definition of 'missing fishermen' under the scheme?",
+                "answer": "Missing fishermen are those reported by police and family members to be missing while fishing, treated as deceased for the purpose of the scheme."
+            },
+            {
+                "question": "How is the term 'family (legal heir)' defined in the context of the scheme?",
+                "answer": "It includes immediate family members such as husband/wife, children/step children, parents/widow daughter/sister, legal guardian of the minor, married daughters/widow daughter in law/widowed brothers."
+            },
+            {
+                "question": "How is the \u20b9 1,00,000 relief assistance distributed to the family (legal heir) of the missing fisherman?",
+                "answer": "The relief is disbursed in two installments of \u20b9 50,000 each, with the first installment released within 3 months, and the balance deposited in a joint account after the prescribed 9-month period."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines & Application Form",
+                "url": "https://fisheries.py.gov.in/sites/default/files/immediate20relief20notification.pdf"
+            },
+            {
+                "type": "State Plan Schemes",
+                "url": "https://fisheries.py.gov.in/sites/default/files/fisheries-state-plan-schemes.pdf"
+            },
+            {
+                "type": "List Of Sub-Offices",
+                "url": "https://fisheries.py.gov.in/sub-offices"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://fisheries.py.gov.in/contact-us"
+            }
+        ],
+        "tags": [
+            "Family",
+            "Financial Assistance",
+            "Fisherman",
+            "Missing",
+            "Relief"
+        ]
+    }
+}

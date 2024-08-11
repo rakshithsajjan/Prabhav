@@ -1,0 +1,108 @@
+{
+    "content": {
+        "title": "National Scheme of Apprenticeship Training",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Training",
+        "beneficiary": "Graduate Engineers, Diploma Holders (Technicians), 10+2 Vocational Pass-outs",
+        "details": "'National Scheme of Apprenticeship Training' of the Department of Higher Education, Ministry of Education is overseen by four Regional Boards of Apprenticeship/Practical (BOATs/BOPT) in Mumbai, Kanpur, Chennai, and Kolkata. The scheme offers practical training to graduate engineers, diploma holders (Technicians), and 10+2 Vocational pass-outs in approximately 10,000 industrial establishments. This program operates in compliance with guidelines established by the Central Apprenticeship Council (CAC), a statutory body created under the Apprentices Act, 1961. The primary goal is to bridge the gap in practical experience for fresh Graduate Engineers, Diploma holders, and 10+2 Vocational pass-outs. The apprentices undergo a one-year training period, receiving a monthly stipend shared equally between the Central Government and the Employer.",
+        "benefits": [
+            "The apprentices undergo a one-year Apprenticeship Training period.",
+            "Apprentices receive a monthly stipend during their training.",
+            "Engineering Graduate: \u20b94,984 per month",
+            "Technicians: \u20b93,542 per month",
+            "10+2 Vocational pass-outs: \u20b92,758 per month",
+            "The stipend is shared equally between the Central Government and the employer, with the employer initially paying the full stipend and later claiming 50% reimbursement from the Central Government through the respective Boards of Apprenticeship/Practical (BOATs/BOPT)."
+        ],
+        "eligibility": [
+            "Graduate Engineers",
+            "Diploma Holders (Technicians)",
+            "10+2 Vocational Passouts"
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar card",
+            "Valid Personal Email ID",
+            "Mobile number",
+            "Passport size photograph (Format: JPEG, Size: Less than 1 MB)",
+            "Aadhaar seeded/mapped Bank account details",
+            "Qualifying Degree / Provisional Certificate (Format: PDF, Size: Less than 1 MB)",
+            "First page of Bank passbook / Bank account statement (Format: PDF, Size: Less than 1 MB)"
+        ],
+        "faqs": [
+            {
+                "question": "How many Regional Boards of Apprenticeship oversee this scheme, and where are they located?",
+                "answer": "There are four Regional Boards of Apprenticeship/Practical (BOATs/BOPT) located in Mumbai, Kanpur, Chennai, and Kolkata."
+            },
+            {
+                "question": "What is the primary source of funding for the monthly stipends given to apprentices?",
+                "answer": "The monthly stipend is shared equally between the Central Government and the employer."
+            },
+            {
+                "question": "How can students track the status of their apprenticeship applications?",
+                "answer": "Students can check the application status in the application management section of the portal."
+            },
+            {
+                "question": "Who created the Central Apprenticeship Council, and what is its role?",
+                "answer": "The Central Apprenticeship Council (CAC) is a statutory body created under the Apprentices Act, 1961, and it plays a vital role in establishing guidelines for the scheme."
+            },
+            {
+                "question": "Can apprentices change their profile details after their contract is created?",
+                "answer": "No, once a student's contract is created, their profile is locked, preventing further profile changes."
+            },
+            {
+                "question": "Are there any age restrictions for individuals applying for apprenticeships?",
+                "answer": "No specific age restrictions are mentioned."
+            },
+            {
+                "question": "Can students choose their preferred field and location for apprenticeship?",
+                "answer": "Yes, students can select their preferred field and location for apprenticeship during the registration process."
+            },
+            {
+                "question": "What are the main categories of individuals who can benefit from this apprenticeship program?",
+                "answer": "Graduate engineers, diploma holders (Technicians), and 10+2 Vocational pass-outs are the main categories eligible for this apprenticeship program."
+            },
+            {
+                "question": "Is there a specific time frame for the apprenticeship training period?",
+                "answer": "Yes, apprentices undergo a one-year apprenticeship training period."
+            },
+            {
+                "question": "What are the essential documents required for the registration process?",
+                "answer": "The necessary documents include Aadhaar card, a valid personal email ID, mobile number, a passport-size photograph, Aadhaar-seeded/mapped bank account details, and qualifying degree/provisional certificate."
+            },
+            {
+                "question": "Can you provide the monthly stipend for Technicians participating in the apprenticeship program?",
+                "answer": "Technicians receive a monthly stipend of \u20b93,542."
+            },
+            {
+                "question": "What is the stipend amount for 10+2 Vocational pass-outs during their apprenticeship?",
+                "answer": "10+2 Vocational pass-outs receive a monthly stipend of \u20b92,758."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.education.gov.in/technical-education-13"
+            },
+            {
+                "type": "Documents Required",
+                "url": "https://nats.education.gov.in/student_register.php"
+            },
+            {
+                "type": "User Manual For Online Application",
+                "url": "https://nats.education.gov.in/assets/manual/student_manual.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://nats.education.gov.in/contact-us.php"
+            }
+        ],
+        "tags": [
+            "Apprenticeship",
+            "Training",
+            "Skill Development",
+            "Government Scheme"
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "content": {
+        "title": "Micro Credit Finance under NSKFDC- Haryana",
+        "state": "Haryana",
+        "department": "Haryana Scheduled Castes Finance and Development Corporation (HSFDC)",
+        "type": "Loan",
+        "beneficiary": "Safai Karamcharis",
+        "details": "The scheme 'Micro Credit Finance under NSKFDC' is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC). The HSFDC is a Company registered under the Companies Act, 1956 on 02.01.1971. It is a wholly Government-owned Corporation with a 51% share of the State Government and a 49% share of the Government of India. Under this scheme, the loan is provided to Safai Karamchari and their dependents for projects with a maximum cost of up to \u20b91,00,000/- per beneficiary for small and petty trade/business and various income-generating activities. The beneficiary should be between 18 and 55 years of age and should be either Safai Karamchari or his/her dependent, and permanent Safai Karamchari means a person engaged in, or employed for any sanitation work and includes his dependents.",
+        "benefits": [
+            "Loan amount up to \u20b91,00,000/- per beneficiary for small and petty trade/business",
+            "Margin money @ 10% of the project cost",
+            "Subsidy @ 50% of the total project cost (Maximum subsidy amount is \u20b910,000/-)"
+        ],
+        "eligibility": [
+            "The applicant should be a permanent resident of Haryana.",
+            "The applicant's age should be between 18 and 55 years.",
+            "There is no income limit.",
+            "The applicant should be either Safai Karamchari or his/her dependent."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Safai Karamchari or dependent of Safai Karamchari Certificate issued by the competent authority",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "Who implements the Micro Credit Finance scheme?",
+                "answer": "The scheme is implemented by the Haryana Scheduled Castes Finance and Development Corporation (HSFDC) in collaboration with the National Safai Karamcharis Finance & Development Corporation (NSKFDC)."
+            },
+            {
+                "question": "When was the HSFDC established?",
+                "answer": "HSFDC was established on January 2, 1971."
+            },
+            {
+                "question": "Who is eligible for the loan under this scheme?",
+                "answer": "Permanent residents of Haryana aged between 18 and 55 who are either Safai Karamcharis or their dependents."
+            },
+            {
+                "question": "What is the maximum loan amount provided under this scheme?",
+                "answer": "The maximum loan amount is \u20b91,00,000 per beneficiary."
+            },
+            {
+                "question": "What types of activities can the loan be used for?",
+                "answer": "The loan can be used for small trades, businesses, and various income-generating activities."
+            },
+            {
+                "question": "Is there a margin money requirement for the loan?",
+                "answer": "Yes, the corporation provides margin money at 10% of the project cost."
+            },
+            {
+                "question": "Is there a subsidy provided under this scheme?",
+                "answer": "Yes, a subsidy of 50% of the total project cost, up to a maximum of \u20b910,000, is provided to beneficiaries living below the poverty line."
+            },
+            {
+                "question": "Is there an income limit for applicants?",
+                "answer": "No, there is no income limit for applicants."
+            },
+            {
+                "question": "How can one apply for the loan?",
+                "answer": "Applicants can apply online through the official HSFDC website or the Antyodaya-SARAL Portal."
+            },
+            {
+                "question": "What is the process after applying for the loan?",
+                "answer": "Applications are scrutinized and verified by District Managers. Eligible cases are sent to NSKFDC for loan sanction, followed by the issuance of the requisite sanction."
+            },
+            {
+                "question": "What does 'permanent Safai Karamchari' mean?",
+                "answer": "It refers to a person engaged in or employed for sanitation work, including their dependents."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://hsfdc.org.in/detail.php"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=uLyXlad%2fMkcccXKCZu86ag%3d%3d"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            },
+            {
+                "type": "NSKFDC",
+                "url": "https://nskfdc.nic.in/en/content/schemes-programmes/micro-credit-finance-mcf"
+            }
+        ],
+        "tags": [
+            "Micro Credit",
+            "Loan",
+            "NSKFDC",
+            "Safai Karamcharis",
+            "Self-employment"
+        ]
+    }
+}

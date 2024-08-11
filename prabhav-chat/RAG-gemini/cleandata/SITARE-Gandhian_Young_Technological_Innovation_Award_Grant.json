@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "SITARE-Gandhian Young Technological Innovation Award Grant",
+        "state": "India",
+        "department": "Ministry Of Science And Technology",
+        "type": "Grant",
+        "beneficiary": "Postgraduate and Doctoral Students",
+        "details": "The SITARE-Gandhian Young Technological Innovation Award Grant (SITARE-GYTI) is part of the SITARE scheme initiated by the Biotechnology Industry Research Assistance Council (BIRAC) to support innovative student projects in biotechnology. The scheme aims to promote translational research and the development of biotech startups.",
+        "benefits": [
+            "Funding support of up to INR 15 lakhs per project",
+            "Milestone-based funding released in installments",
+            "Continuous mentoring support including technical, IP, legal, networking, and business mentoring"
+        ],
+        "eligibility": [
+            "Indian student pursuing a Ph.D/Masters in any discipline",
+            "Valid ID issued by the Institution/University",
+            "No Objection Certificate (NoC) as per prescribed format",
+            "Only one SITARE-GYTI Award Grant per student"
+        ],
+        "exclusions": [],
+        "application_process": "Online submission during an active Call for Proposals, which occurs once a year typically in August/September.",
+        "documents_required": [
+            "Valid ID issued by the Institution/University",
+            "No Objection Certificate (NoC)",
+            "PAN Card",
+            "Educational qualification certificates",
+            "Details of proposal/report",
+            "Any other relevant document"
+        ],
+        "faqs": [
+            {
+                "question": "What is the 'SITARE Scheme'?",
+                "answer": "The SITARE Scheme supports innovative student projects in biotechnology, promoting translational research."
+            },
+            {
+                "question": "What is the 'SITARE-GYTI'?",
+                "answer": "Under SITARE-GYTI, 15 innovative student projects receive funding support of up to INR 15 lakhs each."
+            },
+            {
+                "question": "Is 'SITARE-GYTI' Award Grant a usual research fellowship?",
+                "answer": "No, it is not a usual research fellowship."
+            },
+            {
+                "question": "What is the nature of support provided to beneficiaries under the scheme?",
+                "answer": "Funding support in the form of grant-in-aid, milestone-based funding, and continuous mentoring."
+            },
+            {
+                "question": "What is the duration of the project?",
+                "answer": "Funding is provided for a period of up to 24 months."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://birac.nic.in/webcontent/1584008982_SITARE_Scheme_Guidelines.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://birac.nic.in/desc_new.php?id=581"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://www.indiascienceandtechnology.gov.in/programme-schemes/human-resource-and-development/students-innovations-advancement-research-explorations-sitare"
+            }
+        ],
+        "tags": [
+            "SITARE",
+            "Innovation",
+            "Biotechnology",
+            "Research Grant",
+            "Student Projects"
+        ]
+    }
+}

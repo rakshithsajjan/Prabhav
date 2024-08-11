@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "Free Education For Sports Medal Winners / Participants Of National/ International Events",
+        "state": "Not specified",
+        "department": "Ministry of Education",
+        "type": "Grant",
+        "beneficiary": "Sports Medal Winners / Participants of National/ International Events",
+        "details": "The scheme aims to provide financial assistance to medal winners and elite sports persons studying in universities/colleges for full-time regular courses, including PG Diploma and other professional courses. It motivates sports persons to achieve higher performance levels by assisting them financially in education and sports development.",
+        "benefits": [
+            "Tuition Fee and Other Funds for various degrees",
+            "Hostel Facilities (Boarding and Lodging)",
+            "Allowances for special courses abroad",
+            "Kit allowance"
+        ],
+        "eligibility": [
+            "Medal winners of National games",
+            "Participants in recognized international sporting events recognized by the World University Service, International Olympic Committee, and Olympic Committee of Asia (OCA)",
+            "Admitted to eligible Universities/Colleges/Institutions"
+        ],
+        "exclusions": [
+            "Misconduct of the candidate",
+            "Unsatisfactory progress report",
+            "Termination by the Commission on recommendation of the University"
+        ],
+        "application_process": "Online application through the UGC portal. A certificate of participation/medal winner must be submitted as proof.",
+        "documents_required": [
+            "Application in the prescribed format",
+            "Certificate of participation/medal winner attested by Registrar/Principal",
+            "Statement of selected students and their scholarship receipts",
+            "Progress Report after the first year",
+            "Utilization certificate for previous grants",
+            "Justification certificate for scholarship continuance"
+        ],
+        "faqs": [
+            {
+                "question": "Is There A List Of Documents That Are To Be Submitted By The Candidate Through The University/College?",
+                "answer": "Yes, the candidate must submit an application in the prescribed format and a certificate of participation/medal winner."
+            },
+            {
+                "question": "Can The Applications Also Be Submitted Offline?",
+                "answer": "No, applications must be submitted online."
+            },
+            {
+                "question": "What Is The Eligibility Criteria For This Scheme?",
+                "answer": "The scholarship is for medal winners of National games and participants in recognized international sporting events."
+            },
+            {
+                "question": "What Are The Objectives Of This Scheme?",
+                "answer": "To provide financial assistance to medal winners and motivate them to achieve higher performance levels."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.ugc.ac.in/oldpdf/xiiplanpdf/medal-winners-guidelines.pdf"
+            },
+            {
+                "type": "Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/fesmwpnie"
+            }
+        ],
+        "tags": [
+            "Education",
+            "Sports",
+            "Financial Assistance",
+            "Scholarship"
+        ]
+    }
+}

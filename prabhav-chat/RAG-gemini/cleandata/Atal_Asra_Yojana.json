@@ -1,0 +1,86 @@
+{
+    "content": {
+        "title": "Atal Asra Yojana",
+        "state": "Goa",
+        "department": "Department of Tribal Welfare, Government of Goa",
+        "type": "Grant",
+        "beneficiary": "Individuals belonging to Scheduled Tribes communities",
+        "details": "The 'Atal Asra Yojana' has been established to provide financial support to individuals belonging to Scheduled Tribes communities within the state of Goa. The scheme aims to assist them in house-related matters such as construction, re-construction, and repairs, thus improving their living conditions.",
+        "benefits": [
+            "Financial assistance of \u20b9 3,00,000 for the construction of a new house or re-construction of an existing one",
+            "Financial assistance of \u20b9 1,50,000 for repairs to an existing house"
+        ],
+        "eligibility": [
+            "Individuals who are part of the Scheduled Tribes community residing in Goa",
+            "Annual income of the applicant's family should not exceed \u20b9 3,00,000"
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Ownership documents or NOC from the landowner",
+            "Construction license issued by the competent authority"
+        ],
+        "faqs": [
+            {
+                "question": "What is the role of the 'Ownership Documents or NOC From the Landowner' in the context of new construction and re-construction?",
+                "answer": "The ownership documents or NOC from the landowner are essential to establish legal ownership or permission for the construction on the particular property. This ensures that construction activities are conducted with the necessary rights and permissions in place."
+            },
+            {
+                "question": "How does the scheme determine the amount of financial assistance for construction and repairs?",
+                "answer": "The financial assistance for construction, re-construction, and repairs is fixed at \u20b9 3,00,000 and \u20b9 1,50,000, respectively. These amounts are established to cover the costs associated with house-related activities and ensure equitable distribution of assistance."
+            },
+            {
+                "question": "Can an applicant avail both the construction and repair benefits under this scheme?",
+                "answer": "Yes, an applicant can avail either the benefit for construction/re-construction or the one for repairs. However, they cannot avail both benefits simultaneously for the same property."
+            },
+            {
+                "question": "Could you provide insights into the additional documents required for new construction or re-construction under the scheme?",
+                "answer": "Certainly. For new construction or re-construction, ownership documents or a No Objection Certificate (NOC) from the landowner and a construction license issued by the competent authority are required. These documents ensure legal compliance and transparency in the construction process."
+            },
+            {
+                "question": "Who is eligible to apply for the benefits of the 'Atal Asra Yojana'?",
+                "answer": "Any individual who is part of the Scheduled Tribes community residing in Goa can apply for the scheme. Eligibility is also determined by the annual income of the applicant's family, which should not exceed \u20b9 3,00,000."
+            },
+            {
+                "question": "Which department manages this scheme?",
+                "answer": "This scheme is managed by the Department of Tribal Welfare, Government of Goa."
+            },
+            {
+                "question": "Does this scheme accept online applications?",
+                "answer": "No, as of 18/08/2023 this scheme only accepts offline mode of application."
+            },
+            {
+                "question": "Does this scheme accept applications from Transgenders?",
+                "answer": "Yes, the scheme is open to applicants from all genders."
+            },
+            {
+                "question": "Can individuals from Scheduled Castes / Scheduled Tribe also apply to this scheme?",
+                "answer": "Yes, the scheme is open to applicants from all Social Categories."
+            },
+            {
+                "question": "What is the full form of GSIDC?",
+                "answer": "The full form of GSIDC is 'Goa State Infrastructure Development Corporation Limited'."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme URL",
+                "url": "https://www.myscheme.gov.in/schemes/aay-goa"
+            },
+            {
+                "type": "Citizen's Charter",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2022/05/Citizen-Charter-2022-tribal-welfare.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://tribalwelfare.goa.gov.in/attachments/article/45/ATAL%20ASRA%20FORM%20(New).pdf"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Scheduled Tribes",
+            "Housing",
+            "Goa"
+        ]
+    }
+}

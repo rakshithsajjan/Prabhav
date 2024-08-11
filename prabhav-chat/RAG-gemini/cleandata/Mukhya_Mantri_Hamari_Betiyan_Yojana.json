@@ -1,0 +1,73 @@
+{
+    "content": {
+        "title": "Mukhya Mantri Hamari Betiyan Yojana",
+        "state": "Rajasthan",
+        "department": "Secondary Education Department",
+        "type": "Financial Assistance",
+        "beneficiary": "For Girls Only",
+        "details": "Mukhya Mantri Hamari Betiyan Yojana was launched in 2015-16 by centre under the secondary education department for the benefit of girls in their education. The girl students receive the financial assistance according to the following rules: While studying in government schools under the scheme, in class 10 examination of Board of Secondary Education Rajasthan, Ajmer in each district - 02 meritorious girl students who got 1st and 2nd position. (minimum marks 75%) 2 First position holder B.P.L. 01 meritorious student of the family. (minimum marks 75%) Orphan 01 meritorious girl student who got 3 first position. (minimum marks 75%) Financial assistance is payable for pursuing regular studies up to postgraduate level and the nodal agency is the Girl Child Education Foundation.",
+        "benefits": [
+            "For class 11th & 12th students: One time assistance- 15,000/- p.a. on submission of hostel/coaching bills- Maximum 1,00,000/- p.a.",
+            "For graduate and post graduate: One time assistance- 25,000/- p.a. on submission of hostel/coaching bills- Maximum 2,00,000/- p.a."
+        ],
+        "eligibility": [
+            "02 meritorious girl students who got first and second position in class 10 examination (minimum marks 75%)",
+            "B.P.L. 01 meritorious student of the family (minimum marks 75%)",
+            "Orphan 01 meritorious girl student who got first position (minimum marks 75%)",
+            "Financial assistance is admissible for pursuing regular studies up to post graduate level"
+        ],
+        "exclusions": [
+            "Only 1 girl child per family is eligible for getting benefits under this scheme."
+        ],
+        "application_process": "The application form is free for this scheme. Please contact your state government school (rajkiya vidyalaya) for the same.",
+        "documents_required": [
+            "Bank Passbook Copy",
+            "Education Qualification Marksheet / Certificate Copy",
+            "Aadhaar Copy"
+        ],
+        "faqs": [
+            {
+                "question": "Is this scheme only for girls?",
+                "answer": "Yes, this scheme is only for girl students."
+            },
+            {
+                "question": "Who will get the benefit of this scheme?",
+                "answer": "The girl students who have got first and second rank in class 10th, 11th, and 12th, will receive the benefits of this scheme, provided their passing percentage is more than 75%."
+            },
+            {
+                "question": "How many girls in a family can receive the benefit of this scheme?",
+                "answer": "Only one girl child in the family is allowed to avail the benefit of this scheme."
+            },
+            {
+                "question": "How much assistance is given to such girl student?",
+                "answer": "In class 11th and 12th, the assistance given is \u20b915,000, which can be increased to a maximum of \u20b91,00,000 on presenting hostel / coaching bills. In graduation / Post graduation, The Assistance Given Is \u20b925,000, which Can Be Increased To A Maximum Of \u20b92,00,000 On Presenting Hostel / Coaching Bills."
+            },
+            {
+                "question": "Is this scheme available only in Rajasthan state?",
+                "answer": "Yes, this scheme is available only in Rajasthan state."
+            },
+            {
+                "question": "When was this scheme launched? Is it still open?",
+                "answer": "This scheme was launched in the year 2015-16, and the applications are still open for this scheme."
+            },
+            {
+                "question": "How can I apply for this scheme?",
+                "answer": "The applications are available with your school. Please contact the school authorities for Application and submission of documents."
+            },
+            {
+                "question": "Which documents do I need to apply for this scheme?",
+                "answer": "Aadhaar of the student, passing certificate and marksheet of the student, and Bank account details."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Link",
+                "url": "https://www.myscheme.gov.in/schemes/mmhby"
+            }
+        ],
+        "tags": [
+            "DBT",
+            "Scheme For Girls"
+        ]
+    }
+}

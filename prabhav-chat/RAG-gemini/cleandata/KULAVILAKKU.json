@@ -1,0 +1,109 @@
+{
+    "content": {
+        "title": "KULAVILAKKU",
+        "state": "Puducherry",
+        "department": "Department of Women and Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "Pregnant Women",
+        "details": "'KULAVILAKKU' is a scheme for pregnant women by the Department of Women and Child Development, Government of Puducherry. This scheme aims to enhance the nutritional status of Pregnant Women. \u20b9500/- assistance is provided to eligible beneficiaries during their pregnancies. The scheme is a crucial step towards ensuring the well-being of both mother and child. The benefit will be provided for upto two pregnancies only.",
+        "benefits": [
+            "\u20b9500/- financial assistance during pregnancy.",
+            "The benefit will be provided for upto two pregnancies only."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a native of the Union Territory of Pondicherry by birth or by continuous residence of not less than 5 years.",
+            "The applicant should be a woman.",
+            "The applicant should be pregnant.",
+            "The applicant should have attained the age of 18 years.",
+            "The applicant should have crossed seven months of pregnancy.",
+            "The annual income of the applicant should not exceed \u20b924,000/- per annum.",
+            "The benefit will be provided for upto two pregnancies only."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. The interested applicant should visit (during office hours) the Office/ Sub-Office of the Department of Women and Child Development, and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Alternatively, the interested applicant should take print of the prescribed format of the application form.",
+        "documents_required": [
+            "Passport-sized Photograph.",
+            "Aadhaar Card.",
+            "Residence Certificate from the Revenue Department.",
+            "Income Certificate from the Revenue Department.",
+            "Declaration/Undertaking (if any).",
+            "Medical Certificate from a Competent Authority.",
+            "In the absence of an Aadhaar Card; the applicant is required to provide his/her Aadhaar Enrolment ID along with ANY ONE of the following documents: Bank or Post Office Passbook with Photo, Permanent Account Number (PAN) Card, Passport, Ration Card, Voter Identity Card, MGNREGA Card, Kisan Photo Passbook, Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988, Certificate of identity having a photo of such person issued by a Gazetted Officer or a Tehsildar on an official letterhead, Any other document as specified by the Department."
+        ],
+        "faqs": [
+            {
+                "question": "Can an applicant below the age of 18 apply for the scheme?",
+                "answer": "No, the applicant should have attained the age of 18 years to be eligible for the scheme."
+            },
+            {
+                "question": "How many pregnancies are considered for benefits under the scheme?",
+                "answer": "Benefits are provided for up to two pregnancies only."
+            },
+            {
+                "question": "What department oversees the 'KULAVILAKKU' scheme?",
+                "answer": "The scheme is managed by the Department of Women and Child Development, Government of Puducherry."
+            },
+            {
+                "question": "Can an applicant provide an Aadhaar Enrolment ID in place of an Aadhaar Card?",
+                "answer": "Yes, an applicant can provide Aadhaar Enrolment ID along with specified alternative documents in the absence of an Aadhaar Card."
+            },
+            {
+                "question": "What is the maximum annual income for eligibility under the scheme?",
+                "answer": "The applicant's annual income should not exceed \u20b924,000/-."
+            },
+            {
+                "question": "How can one track the status of their application?",
+                "answer": "Application status can be tracked at https://edistrict.py.gov.in/User/TrackApplication.aspx."
+            },
+            {
+                "question": "What is the grievance redressal mechanism for the 'KULAVILAKKU' scheme?",
+                "answer": "Grievances can be addressed at https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system."
+            },
+            {
+                "question": "What documents are required for scheme application?",
+                "answer": "Required documents include a passport-sized photograph, Aadhaar Card, Residence Certificate, Income Certificate, Declaration/Undertaking, and a Medical Certificate."
+            },
+            {
+                "question": "When does the applicant become eligible for consideration under the scheme?",
+                "answer": "The applicant is considered only when she crosses seven months of pregnancy."
+            },
+            {
+                "question": "What is the financial assistance provided to eligible beneficiaries during pregnancy?",
+                "answer": "Beneficiaries receive \u20b9500/- during their pregnancies."
+            },
+            {
+                "question": "How many pregnancies are eligible for benefits under the scheme?",
+                "answer": "The benefit will be provided for up to two pregnancies only."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://py.gov.in/sites/default/files/womenrtimanual.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://wcd.py.gov.in/sites/default/files/kulavilakku-appl-tamil.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://wcd.py.gov.in/contact-us"
+            },
+            {
+                "type": "Office Locations",
+                "url": "https://wcd.py.gov.in/office-locations"
+            },
+            {
+                "type": "Grievance Redressal",
+                "url": "https://wcd.py.gov.in/ta/central-public-grievance-redress-and-monitoring-system"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Pregnant Women",
+            "Puducherry",
+            "Women and Child Development"
+        ]
+    }
+}

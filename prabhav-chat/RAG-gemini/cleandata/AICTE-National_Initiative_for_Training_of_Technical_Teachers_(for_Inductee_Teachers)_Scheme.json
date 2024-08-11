@@ -1,0 +1,102 @@
+{
+    "content": {
+        "title": "AICTE-National Initiative for Training of Technical Teachers (for Inductee Teachers) Scheme",
+        "state": "India",
+        "department": "Ministry of Education",
+        "type": "Training",
+        "beneficiary": "Inductee Teacher",
+        "details": "In order to train the Inductee Teachers in AICTE approved / recognised institutions, this National Initiative for Technical Teachers Training (for Inductee Teachers) has been launched in 2020. It imparts training to the Inductee Teachers in three phases. The first phase of the training programme for the Inductee Teachers shall be conducted in Massive Open Online Courses (MOOCs) mode for eight modules on the SWAYAM platform through the NITTT portal followed by one-month industrial internship (second phase) and then mentor based training (third phase). The purpose of this scheme is to provide a framework for training of Inductee Teachers in AICTE approved institutions.",
+        "benefits": [
+            "Training: Inductee Teachers will get training in three phases.",
+            "Certification: Only after successful completion of all the three phases, a final training completion certificate shall be issued to the Inductee Teacher."
+        ],
+        "eligibility": [
+            "All the teachers working in technical institutions/universities imparting technical education (as defined in Section 2(h) of AICTE Act 1987).",
+            "Programmes should be recognised by AICTE."
+        ],
+        "exclusions": [],
+        "application_process": "Online. Participants need to register on the NITTT portal and follow the specified steps for registration.",
+        "documents_required": [
+            "Photo (Size less than 30KB).",
+            "All educational qualification certificates."
+        ],
+        "faqs": [
+            {
+                "question": "What is NITTT Scheme?",
+                "answer": "NITTT Scheme aims to provide training to the Inductee Teachers in three phases in the field of technical education."
+            },
+            {
+                "question": "Through which platform the training would be provided?",
+                "answer": "On SWAYAM platform through the NITTT portal."
+            },
+            {
+                "question": "How many modules are there in the training?",
+                "answer": "Eight modules."
+            },
+            {
+                "question": "What is the main purpose of the scheme?",
+                "answer": "The purpose of this scheme is to provide a framework for training of Inductee Teachers in AICTE approved institutions."
+            },
+            {
+                "question": "When was this scheme launched?",
+                "answer": "The scheme was launched in 2020."
+            },
+            {
+                "question": "What is the duration of the program?",
+                "answer": "Three(3) years."
+            },
+            {
+                "question": "In which portal the teachers need to register?",
+                "answer": "All the teachers need to register themselves on NITTT portal."
+            },
+            {
+                "question": "Is there any certificate provided?",
+                "answer": "Yes, Only after successful completion of all the three phases, a final training completion certificate shall be issued to the Inductee Teacher."
+            },
+            {
+                "question": "How many phases are there in this training program?",
+                "answer": "Three phases."
+            },
+            {
+                "question": "Is there any registration fee?",
+                "answer": "One-time registration fee as notified from time to time (currently, it is \u20b9 2,000/-) is to be paid to the Coordinating Institute."
+            },
+            {
+                "question": "Is there any certification fee?",
+                "answer": "The module based certification fee as notified from time to time (currently \u20b9 1,000/- per module) is required to be paid to the Coordinating Institute for each module."
+            },
+            {
+                "question": "Who is eligible for this scheme?",
+                "answer": "All the teachers working in technical institutions/universities imparting technical education."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://www.aicte-india.org/sites/default/files/NITTT%20Scheme%20document.pdf"
+            },
+            {
+                "type": "Registration Manual",
+                "url": "https://www.nittt.ac.in/documents.php"
+            },
+            {
+                "type": "Handbook",
+                "url": "https://www.nittt.ac.in/documents.php"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://www.nittt.ac.in/"
+            },
+            {
+                "type": "Helpdesk",
+                "url": "https://www.nittt.ac.in/announcement.php#contact"
+            }
+        ],
+        "tags": [
+            "Technical Education",
+            "Teacher Training",
+            "AICTE",
+            "Inductee Teachers"
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "National Youth Award",
+        "state": "National",
+        "department": "Ministry Of Youth Affairs & Sports",
+        "type": "Purashkar",
+        "beneficiary": "Good Citizens",
+        "details": "The National Youth Award was sponsored by The Ministry of Youth Affairs for the Indian youth for their tremendous and outstanding work in social service. This award is to motivate young persons to achieve excellence in the field of national development or social service and to develop in them a sense of responsibility to the community and thus to improve their own personal potential as good citizens. The award shall be given for identifiable excellent work for youth in different fields of development activities and social services such as health, research and innovation, culture, promotion of human rights, art and literature, tourism, traditional medicine, active citizenship, community service, sports and academic excellence and smart learning.",
+        "benefits": [
+            "Receive a medal, certificate, and \u20b91,00,000/- for individuals.",
+            "Receive a medal, certificate, and \u20b93,00,000/- for voluntary youth organizations."
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be between the age of 15-29 years as of the first January of the nominated year.",
+            "The applicant should have done extraordinarily identifiable social work.",
+            "Persons employed in any government service i.e. with the Central/State Governments, PSUs/Universities, Colleges/schools, etc. are not eligible for the award.",
+            "The award will be conferred once in a lifetime."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Proof of Date of birth (DOB)",
+            "Supporting documents for outstanding work.",
+            "Recommendation letter."
+        ],
+        "tags": [
+            "Youth",
+            "Social Service",
+            "National Development",
+            "Awards"
+        ],
+        "faqs": [
+            {
+                "question": "What is the National Youth Award?",
+                "answer": "The National Youth Award is a prestigious honor in India, recognizing outstanding work and achievements in the field of youth development and social service."
+            },
+            {
+                "question": "Who organizes the National Youth Award?",
+                "answer": "The award is organized by the Ministry of Youth Affairs and Sports, Government of India, to acknowledge and celebrate the contributions of young individuals and organizations."
+            },
+            {
+                "question": "What is the eligibility criterion for the National Youth Award?",
+                "answer": "Eligibility criteria include being an Indian citizen aged between 15 to 29 years, having made significant contributions to community service and nation-building."
+            },
+            {
+                "question": "In which categories are the National Youth Awards conferred?",
+                "answer": "The awards are given in various categories, including social service, art and culture, education, health, sports, and promotion of human rights."
+            },
+            {
+                "question": "How can one apply or be nominated for the National Youth Award?",
+                "answer": "Individuals can apply or be nominated through a formal process outlined by the Ministry, usually involving submission of achievements, recommendations, and supporting documents."
+            },
+            {
+                "question": "Is there any monetary reward associated with the National Youth Award?",
+                "answer": "Yes, along with the honor, recipients of the National Youth Award receive a medal, a certificate, and a cash prize as a token of appreciation for their exemplary work."
+            },
+            {
+                "question": "Can organizations or institutions be honored with the National Youth Award?",
+                "answer": "Yes, organizations and institutions that have made substantial contributions to youth development can be recognized in specific categories of the National Youth Award."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://awards.gov.in/Home/AwardLibrary"
+            },
+            {
+                "type": "Registration",
+                "url": "https://awards.gov.in/Registration/SignUp"
+            },
+            {
+                "type": "Login",
+                "url": "https://awards.gov.in/Login"
+            }
+        ]
+    }
+}

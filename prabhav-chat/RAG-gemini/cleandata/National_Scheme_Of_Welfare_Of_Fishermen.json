@@ -1,0 +1,57 @@
+{
+    "content": {
+        "title": "National Scheme Of Welfare Of Fishermen",
+        "state": "All States",
+        "department": "Ministry of Fisheries, Animal Husbandry and Dairying",
+        "type": "Financial Assistance",
+        "beneficiary": "Fishermen",
+        "details": "The National Scheme of Welfare of Fishermen is a centrally sponsored scheme that provides financial assistance to fishermen. They can use these for constructing houses and community halls for both recreation and work purposes. Further, through the amount availed under this scheme, fishermen can install tube wells.",
+        "benefits": [
+            "Housing Facility",
+            "Construction of Common Facility",
+            "Assurance of Clean Drinking Water",
+            "Insurance Facility",
+            "Saving cum relief"
+        ],
+        "eligibility": [
+            "Fishermen living in coastal areas and with whom the respective States and Union Territories have officially licensed are eligible for this scheme.",
+            "The age of fishermen must be below 60 years old.",
+            "Applicant fishermen must belong to the BPL (Below Poverty Line) category.",
+            "They must be engaged in full-time activities inland.",
+            "Marine fishermen must operate under State, Union Territories, and FISHCOPFED."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Application in the specific format",
+            "Photograph of the applicant with spouse (if married)",
+            "Vessel registration certificate (duly issued by Directorate of Fisheries)",
+            "Current net license payment receipt",
+            "Professional cum residential certificate",
+            "Ration card copy",
+            "Income certificate",
+            "Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "Can Fishermen Or Members Of Fishermen Families Indulged In Other Income Activities Avail Funds Under The National Scheme Of Welfare Of Fishermen?",
+                "answer": "No, fishermen or fishermen family members indulged in other income activities cannot avail funds under the National Scheme of Welfare of Fishermen."
+            },
+            {
+                "question": "How Many Tube Wells Does This Scheme Provide For A Fishermen Village With More Than 10 Houses But Less Than 20 Houses?",
+                "answer": "One tube well will be provided for a fishermen village with more than 10 houses but less than 20 houses."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://dahd.nic.in/related-links/centrally-sponsored-national-scheme-welfare-fishermen#:~:text=The%20Centrally%20Sponsored%20'National%20Scheme,period%20through%20saving%20cum%20relief"
+            }
+        ],
+        "tags": [
+            "Fisheries",
+            "Social Welfare",
+            "Financial Assistance"
+        ]
+    }
+}

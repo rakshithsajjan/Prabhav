@@ -1,0 +1,80 @@
+{
+    "content": {
+        "title": "Tea Development Scheme",
+        "state": "Meghalaya",
+        "department": "Department of Agriculture & Farmers\u2019 Welfare",
+        "type": "Subsidy",
+        "beneficiary": "Tea Grower",
+        "details": "The scheme \u201cTea Development Scheme\u201d was launched by the Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya to continue the experimental plantation of tea and to find the possibility of growing tea economically as well as on a commercial scale. Further, seedlings are raised in the experimental station and distributed free to farmers.",
+        "benefits": [
+            "Seedlings are offered for sale at the rate \u20b91/- per tea seedling and one-time financial assistance at the rate \u20b910,000/- per hectare.",
+            "PP chemicals, equipment, brush cutters, tea harvesters, etc. on sale at the rate of 50% subsidy."
+        ],
+        "eligibility": [
+            "The applicant/farmer should be a resident of Meghalaya.",
+            "The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of not exceeding 2 Ha/family."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Passport-size photograph",
+            "Identity Proof",
+            "Bank passbook/account details",
+            "Documents proof of possessing own or leased land",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What is the key objective of the scheme?",
+                "answer": "To carry out experimental plantation of tea for the possibility of finding ways to grow tea economically and in a commercial scale as well. Raising seedlings in the experimental station for distribution to farmers. Encouraging Organic Certification on a cluster-based approach. Training and capacity building to Tea growers."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department of Agriculture & Farmers\u2019 Welfare, Government of Meghalaya has launched this scheme."
+            },
+            {
+                "question": "What is the type of assistance/service?",
+                "answer": "Providing tea seedlings, bio-pesticides, bio-fungicides, plant protection equipment, brush cutters, harvesters\u2019 etc. One-time financial assistance @ \u20b910,000/- per hectare and training and capacity building are also provided to the Tea growers."
+            },
+            {
+                "question": "What is the pattern of assistance?",
+                "answer": "(i) Sale @ \u20b91/- per seedling (ii) One-time financial assistance @ \u20b910,000/- per hectare. (iii)50% subsidy on bio-fertilizers bio-pesticides, bio-fungicides, plant protection equipment, brush cutters, harvesters, etc."
+            },
+            {
+                "question": "Who can apply for the scheme?",
+                "answer": "The bonafide farmers engaged in agriculture, possessing own or leased land of not exceeding 2 Ha/family can apply under the scheme."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Bonafide farmers can apply in plain paper along with supported land documents through the nearest Horticulture Development Officer of a CD Block/ Horticulture Circle."
+            },
+            {
+                "question": "What is the beneficiaries\u2019 selection procedure?",
+                "answer": "Bonafide farmers on first come first serve basis."
+            },
+            {
+                "question": "Whom to contact?",
+                "answer": "District Horticulture Officer and Horticulture Development Officer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=98"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Financial Assistance",
+            "Horticulture",
+            "Subsidy",
+            "Tea",
+            "Tea Grower"
+        ]
+    }
+}

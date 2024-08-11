@@ -1,0 +1,89 @@
+{
+    "content": {
+        "title": "Educational Assistance (Scheme for the Pre-Matric and Post-Matric Scholarship to Children of Construction Workers Registered with the MBOCWWB)",
+        "state": "Meghalaya",
+        "department": "Labour Department, Government of Meghalaya",
+        "type": "Scholarship",
+        "beneficiary": "Children of construction workers registered with the Meghalaya Building and Other Construction Workers Welfare Board",
+        "details": "The Educational Assistance scheme provides scholarships in the form of financial assistance to children of construction workers registered under the Board for Pre-Matric and Post-Matric studies. The scholarships are applicable for courses of study specified by the Board from time to time.",
+        "benefits": [
+            "Monthly stipend ranging from \u20b9400 to \u20b91,600 depending on the level of study",
+            "One-time book and uniform grant",
+            "Additional \u20b9200 per month for blind students"
+        ],
+        "eligibility": [
+            "Resident of Meghalaya",
+            "Engaged in building or other construction work",
+            "Registered under the Meghalaya Building & Other Construction Workers Welfare Board",
+            "Active membership of the Board",
+            "Children must be enrolled in any grade from Class I to Degree Course",
+            "Children must not be in receipt of any other financial assistance from any other source",
+            "Only two children of the same parents/guardians are entitled to receive scholarships"
+        ],
+        "exclusions": [
+            "Children studying in the same stage of education in different subjects",
+            "Children continuing professional studies in a different stream",
+            "Children under full employment during the period of study",
+            "Children pursuing part-time courses"
+        ],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "MBOCWWB ID Card",
+            "Birth Certificate of the student",
+            "Two passport-size photographs with signature of student",
+            "Attested copies of relevant certificates",
+            "Constitution workers' registration card",
+            "Receipt of previous year's scholarship (if applicable)",
+            "Annual Course Fee from the School/Institute",
+            "Clearance Certificate by the Head of the Institution",
+            "Verification/Information Certificate by the Head of the Institution",
+            "Bank account details/Bank Passbook"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The objective is to provide financial assistance to children of construction workers to enable them to complete their education."
+            },
+            {
+                "question": "Who is eligible for the scheme?",
+                "answer": "Children of construction workers registered under the Meghalaya Building and Other Construction Workers Welfare Board are eligible for the scholarship."
+            },
+            {
+                "question": "What are the benefits provided under this scholarship?",
+                "answer": "The scholarship includes stipends ranging from \u20b9400 to \u20b91,600 per month depending on the level of study, along with one-time book and uniform grants."
+            },
+            {
+                "question": "How can the application be submitted?",
+                "answer": "Applications can be made online at http://megbocwwb.gov.in/bocw_services"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://megbocwwb.gov.in/enrollment"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://megbocwwb.gov.in/schemes_education"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://megbocwwb.gov.in/forms/scholarship/Regulations%20governing%20the%20award%20of%20Scholarship%20to%20Children%20of%20Construction%20workers%20registered%20with%20the%20Building.pdf"
+            },
+            {
+                "type": "Online Application Portal",
+                "url": "https://megbocwwb.gov.in/bocw_services/login.htm"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Educational Assistance",
+            "Labour",
+            "Post-Matric",
+            "Pre-Matric",
+            "Scholarship",
+            "Student"
+        ]
+    }
+}

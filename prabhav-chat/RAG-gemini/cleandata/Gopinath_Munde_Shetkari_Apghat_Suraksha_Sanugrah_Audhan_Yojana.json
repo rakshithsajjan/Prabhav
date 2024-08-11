@@ -1,0 +1,98 @@
+{
+    "content": {
+        "title": "Gopinath Munde Shetkari Apghat Suraksha Sanugrah Audhan Yojana",
+        "state": "Maharashtra",
+        "department": "Agriculture Department",
+        "type": "Insurance",
+        "beneficiary": "Registered account holder farmers",
+        "details": "The Gopinath Munde Shetkari Apghat Suraksha Sanugrah Audhan Yojana provides financial assistance to farmers or their heirs in the event of accidents leading to death or permanent disability.",
+        "benefits": [
+            "Accidental death - Rs.2,00,000/-",
+            "Failure of two eyes or two organs due to accident - Rs.2,00,000/-",
+            "Failure of one eye and one organ due to accident - Rs.2,00,000/-",
+            "Failure of one eye or one organ due to accident - Rs.1,00,000/-"
+        ],
+        "eligibility": [
+            "All registered account holder farmers in the state as per revenue records in the age group of 10 to 75 years",
+            "Wife of accident victim/husband of accident victim",
+            "Accident victim's unmarried daughter",
+            "Mother of accident victim",
+            "Son of accident victim",
+            "Father of accident victim"
+        ],
+        "exclusions": [
+            "Pre disability",
+            "Attempted suicide, suicide or deliberate self-inflicted injury",
+            "An accident committed in violation of law for the purpose of a crime",
+            "An accident while under the influence of drugs",
+            "Natural death",
+            "Delusion",
+            "Internal bleeding",
+            "Motor racing accidents",
+            "War",
+            "Army job",
+            "Murder by close beneficiary"
+        ],
+        "application_process": "Farmers should contact the nearest Agriculture Supervisor of Agriculture Department or Taluka Agriculture Officer of their Taluka or District Superintendent Agriculture Officer office of their taluka.",
+        "documents_required": [
+            "The original 7/12 containing his name as a farmer",
+            "Village sample no. Extract of 6 C means the inheritance record approved as per the records of the village laborer Talathi as the heir of the farmers",
+            "Excerpt of Village Sample No. 6-D i.e. record of alteration from which the name of the accident victim appears on 7/12",
+            "Document of birth date for age proof",
+            "Death certificate in case of death",
+            "In case of disability, attested copy of medical certificate of permanent disability issued by Medical Officer or District Surgeon must be submitted",
+            "First Information Report",
+            "Spot Panchnama",
+            "Inquest Panchnama",
+            "Copy of post mortem report",
+            "Viscera report",
+            "Valid driving license if the accident victim is a driver"
+        ],
+        "faqs": [
+            {
+                "question": "Which farmers are benefited under this claim scheme?",
+                "answer": "All registered account holder farmers in the state as per revenue records in the age group of 10 to 75 years."
+            },
+            {
+                "question": "Is this a state-sponsored scheme?",
+                "answer": "Yes, 100% state-sponsored scheme."
+            },
+            {
+                "question": "Can farmers with common farm apply for this scheme?",
+                "answer": "Yes."
+            },
+            {
+                "question": "What type of permanent disability covered in this scheme?",
+                "answer": "Permanent disability covered in this scheme includes failure of two eyes or two organs, failure of one eye and one organ, and failure of one eye or one organ due to accident."
+            },
+            {
+                "question": "What care should be taken by the farmers while submitting the claim proposal?",
+                "answer": "Farmers should intimate the nearest agriculture office about the accident and submit the complete claim proposal with all the prescribed documents within 30 days."
+            },
+            {
+                "question": "What arrangement is there for any dispute arising from the approval of claims proposal?",
+                "answer": "A District Level District Appellate Committee has been formed under the chairmanship of Hon. District Collector."
+            },
+            {
+                "question": "Are applications for this scheme open throughout the year?",
+                "answer": "Yes, the scheme will be applicable for 24 hours of every day during the prescribed period."
+            },
+            {
+                "question": "What is the application fee?",
+                "answer": "There is no fee for application."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Scheme Document",
+                "url": "https://www.myscheme.gov.in/schemes/gopinath-munde-shetkari-apghat-suraksha-sanugrah-audhan-yojana"
+            }
+        ],
+        "tags": [
+            "Insurance",
+            "Farmers",
+            "Accident Coverage",
+            "Maharashtra"
+        ]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "content": {
+        "title": "Intellectual Property Rights (IPR) Reimbursement Scheme",
+        "state": "Goa",
+        "department": "Department of Information Technology, Electronics and Communications",
+        "type": "Reimbursement",
+        "beneficiary": "Startups",
+        "details": "The scheme 'Intellectual Property Rights (IPR) Reimbursement Scheme' is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The objective of the policy is to make Goa an aspirational geographical and human resource base for startups. The objective is to invite the best entrepreneurial minds and build a robust start-up ecosystem in the State. The policy contains various incentives for Start-ups and to avail the benefits of these incentives, the government has proposed many schemes under the policy.",
+        "benefits": [
+            "For start-ups registering national and international IP, the Start-up Promotion Cell will reimburse up to 50% of the cost incurred by the start-up in fees and all other costs associated with IP application, if the IP is registered successfully, subject to a cap of \u20b9 2,00,000 for national IP and \u20b9 5,00,000 for international IP.",
+            "This benefit can be availed by a maximum of 200 startups each year.",
+            "Once the application is approved by the SPC, the approved amount shall be disbursed within 60 days from the date of approval."
+        ],
+        "eligibility": [
+            "All the Start-ups certified by the Start-up Promotion Cell (SPC) having a valid start-up certificate number are eligible.",
+            "IP created for a technology-based service or product or uses technology for enhancing functionality or reach of an existing product or service is eligible.",
+            "The applicant should have already filed or been granted an IP with the concerned authority.",
+            "The applicant should have paid the mandatory government fees and attorney fees in this regard.",
+            "Only expenditures incurred after notification of Goa Start-up Policy 2017 within the validity of this policy and paid for digitally would be considered."
+        ],
+        "exclusions": [
+            "If the applicant has applied for the reimbursement benefits/grant for the same IP in any other scheme of the Centre or other State Government, then the application will be rejected."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Copy of successful IP registration",
+            "Original Proof of Payment- Detailed statement of expenses incurred towards the IP Registration along with copies of invoices & receipts from the competent authority and legal counsel as applicable",
+            "The form and documents as mentioned in Annexure 1."
+        ],
+        "faqs": [
+            {
+                "question": "What happens if the expenses incurred for IP filing or grant exceed the reimbursement amount available under this scheme?",
+                "answer": "If the expenses incurred exceed the reimbursement amount specified under the scheme, the excess amount will not be reimbursed. Applicants should be aware of the scheme's limits when applying."
+            },
+            {
+                "question": "Are there any specific categories of technology-based services or products that are particularly encouraged under this scheme?",
+                "answer": "The scheme broadly mentions that technology-based services or products are eligible for reimbursement. Specific categories may not be outlined in the scheme, so applicants are encouraged to apply if their IP involves technology in any form."
+            },
+            {
+                "question": "How does the SPC determine the approved amount for reimbursement?",
+                "answer": "The approved amount for reimbursement is determined based on seniority and SPC recommendation, considering the budget allotment of the State Government."
+            },
+            {
+                "question": "What is the role of the Start-up Promotion Cell (SPC) in the application process for this scheme?",
+                "answer": "The SPC plays a central role in the application process. It receives and evaluates applications, conducts due diligence on expenses, recommends applications for reimbursement, and has the authority to accept or reject claims. Their decision is final and binding."
+            },
+            {
+                "question": "How long does it take for the SPC to evaluate and approve or reject applications?",
+                "answer": "The applications received by the SPC shall be evaluated, and approval or rejection shall be notified within 45 days from the receipt of the application by the SPC."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://goaonline.gov.in/Downloads/Forms/IFT24.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://www.goa.gov.in/wp-content/uploads/2018/05/Schemes.pdf"
+            }
+        ],
+        "tags": [
+            "Business",
+            "Entrepreneur",
+            "IPR",
+            "Reimbursement",
+            "Startup"
+        ]
+    }
+}

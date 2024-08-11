@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Integrated Social Security Scheme - Women In Distress",
+        "state": "Jammu and Kashmir",
+        "department": "Social Welfare",
+        "type": "Pension",
+        "beneficiary": "Women in Distress",
+        "details": "Launched in 1995, ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir where financial assistance is provided to Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons. The scheme is funded through Plan and Non-Plan on the basis of a 50:50 sharing pattern. Under the 'Women in Distress' component of ISSS, a pension of \u20b91,000 per pensioner per month is deposited directly into their Bank Account through DBT mode. The aim of the scheme is to provide monthly financial assistance to destitute widows/divorced/deserted women with no source of income.",
+        "benefits": [
+            "A pension of \u20b91,000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+        ],
+        "eligibility": [
+            "The applicant should be a destitute widow/divorced/deserted woman.",
+            "The income of the applicant should be less than \u20b9 75,000/- per annum or the applicant should be from the 'Below Poverty Line (BPL)' Category.",
+            "The age of the applicant should be between 40 and 79 years."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The application forms are available with DSWO/TSWO free of cost. The applicant shall submit the duly filled and signed application form along with the required documents regarding age, income, status, and address, to the concerned Tehsil Social Welfare Officer against proper receipt. Step 2: The concerned Tehsil Social Welfare Officer (TSWO) consolidates the list of eligible applicants under the scheme and forwards it to the concerned District Social Welfare Officer for the arrangement of funds and accord of sanction by a designated District level Sanctioning Committee headed by the Director General, Social welfare Department, Kashmir. Step 3: The amount is disbursed to the beneficiaries through bank advice/money orders.",
+        "documents_required": [
+            "Proof of Residence (Ration Card / Voter Card, etc.)",
+            "Death Certificate of the Husband in case of Widow",
+            "Income Certificate (of less than \u20b9 75,000/- per annum or BPL Category)",
+            "Copy of Aadhaar Card",
+            "Copy of Bank Passbook",
+            "Passport Sized Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "Which Are The Components Of The ISSS (Integrated Social Security Scheme)?",
+                "answer": "The ISSS (Integrated Social Security Scheme) has the following components - a) Pension for Old Age Persons b) Pension for Women in Distress c) Pension for Physically Challenged Persons d) Pension to Transgenders"
+            },
+            {
+                "question": "What Benefits Are Provided Under The 'Women In Distress' Component Of ISSS?",
+                "answer": "Under the 'Pension to Women In Distress,' component of ISSS, a pension of \u20b91000 per pensioner per month is deposited directly into their Bank Account through DBT mode."
+            },
+            {
+                "question": "What Is The Aim Of The 'Pension To Transgenders' Component Of ISSS?",
+                "answer": "The aim of the scheme is to provide monthly financial assistance to destitute Widows/divorced/deserted women with no source of income."
+            },
+            {
+                "question": "Is ISSS A Central Scheme Or A State Sponsored Scheme?",
+                "answer": "ISSS (Integrated Social Security Scheme) is a State Sponsored Scheme by the Social Welfare Department of the Govt. of Jammu and Kashmir."
+            },
+            {
+                "question": "Who Are The Beneficiaries Of ISSS?",
+                "answer": "The Beneficiaries Of ISSS can be Old Age Persons, Widows, Divorcees, Women in Distress, Transgenders, and Physically Handicapped Persons."
+            },
+            {
+                "question": "Is There An Income Criteria For ISSS 'Pension To Women In Distress'?",
+                "answer": "Yes, the income of the applicant should be less than Rs. 75,000/- per annum or the applicant should be from the 'Below Poverty Line (BPL)' Category."
+            },
+            {
+                "question": "To Whom Shall The Application Be Addressed?",
+                "answer": "The applicant shall submit the duly filled and signed application form to the concerned Tehsil Social Welfare Officer."
+            },
+            {
+                "question": "Is there an age criteria to this scheme?",
+                "answer": "Yes, the age of the woman should be between 40-79 years."
+            },
+            {
+                "question": "Who is the Chairman of the Pension Sanctioning Authority?",
+                "answer": "The Chairman Of The Pension Sanctioning Authority shall be the Director General, Social welfare Department, Kashmir."
+            },
+            {
+                "question": "Who Is The Member Secretary Of The Pension Sanctioning Authority?",
+                "answer": "The Member Secretary Of The Pension Sanctioning Authority Shall Be The District Social Welfare Officer."
+            },
+            {
+                "question": "Who are The Members Of The Pension Sanctioning Authority?",
+                "answer": "The Members Secretary Of The Pension Sanctioning Authority Shall Be The Assistant Commissioner (Development), and the Chief Medical Officer."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines (PDF)",
+                "url": "https://jkdswdj.jk.gov.in/welfareSchemes/PensionSchemes.pdf"
+            },
+            {
+                "type": "Application Form & Documents Required",
+                "url": "https://jkdswdj.jk.gov.in/pdf/FORMISSS1.pdf"
+            },
+            {
+                "type": "Guidelines (Dept. Of Social Welfare)",
+                "url": "https://socialwelfarekashmir.jk.gov.in/WID.html"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Social Welfare",
+            "Women"
+        ]
+    }
+}

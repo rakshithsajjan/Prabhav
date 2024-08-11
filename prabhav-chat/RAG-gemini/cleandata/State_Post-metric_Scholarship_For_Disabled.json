@@ -1,0 +1,81 @@
+{
+    "content": {
+        "title": "State Post-metric Scholarship For Disabled",
+        "state": "Maharashtra",
+        "department": "Department of Social Justice & Special Assistance",
+        "type": "Scholarship",
+        "beneficiary": "Persons With Disability",
+        "details": "The 'State Post-metric Scholarship for Disabled' is a scheme by the Department of Social Justice & Special Assistance, Govt. of Maharashtra. The objective of this scheme is to encourage students with disability (SwDs) to pursue higher education, i.e. H.S.C., Degree, Professional, Technical, Medical, Engineering, etc. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.",
+        "benefits": [
+            "Maintenance Allowance for various groups based on the course type",
+            "Reader Allowance for Blind and Low-Vision Students",
+            "Tuition Fees as approved by the competent authority",
+            "Study Tour Expenditure",
+            "Project Typing Expenditure"
+        ],
+        "eligibility": [
+            "The applicant should be a citizen of India.",
+            "The applicant should be a domicile / permanent resident of the state of Maharashtra.",
+            "The applicant should be a student admitted/enrolled in a school recognized by the Govt. of Maharashtra.",
+            "The applicant should be a Person with Disability (Visually Handicapped, Low Vision, Hearing Impaired, Orthopedically Handicapped, etc).",
+            "The percentage of the disability should be 40% or above.",
+            "The applicant should have passed class 10th.",
+            "The applicant should not have failed in the last qualifying examination.",
+            "The applicant should be pursuing a post-metric qualification, i.e. Higher Secondary School (Class 11th, Class 12th), or a Technical/Professional Degree in Medical, Engineering, etc."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Request a hard copy of the application form from the concerned authority at your school/college, fill it out, and submit it along with the required documents.",
+        "documents_required": [
+            "Aadhaar Card",
+            "2-Passport Sized Photograph (Signed Across)",
+            "Residential Certificate / Domicile Certificate of the State of Maharashtra",
+            "Disability Certificate",
+            "Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc)",
+            "Proof of the Latest Educational Qualification (Passing Certificate or Marksheet)",
+            "Proof of Passing Class 10th",
+            "Bonafide Certificate from the School/College",
+            "Proof of Pursuance of a Post-Matric Qualification (Fee Receipt, etc)",
+            "Any other document required by the School/College or the District Social Welfare Office"
+        ],
+        "faqs": [
+            {
+                "question": "What Are The Objectives Of This Scheme?",
+                "answer": "The objective of this scheme is to encourage students with disability (SwDs) to pursue higher education, i.e. H.S.C., Degree, Professional, Technical, Medical, Engineering, etc."
+            },
+            {
+                "question": "Can All Students From Maharashtra Apply To This Scheme?",
+                "answer": "Only students with disability (SwDs) who are domiciled in the state of Maharashtra can apply to this scheme."
+            },
+            {
+                "question": "Can Students Of Pre-Matric Grade (Class 1st To Class 10th) Also Apply?",
+                "answer": "No, only the students who have passed Class 10th and pursuing a higher qualification can apply to this scheme."
+            },
+            {
+                "question": "Is This A State Funded Or A Centrally Funded Scheme?",
+                "answer": "This is a 100% State Funded scheme."
+            },
+            {
+                "question": "Is There Any Application Fee?",
+                "answer": "No, the entire application process is entirely free of cost."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/disability-welfare?&Submit=Submit&page=1"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://sjsa.maharashtra.gov.in/en/contacts"
+            }
+        ],
+        "tags": [
+            "Financial Assistance",
+            "Persons With Disability",
+            "Post-Matric",
+            "Scholarship",
+            "Social Welfare",
+            "Student"
+        ]
+    }
+}

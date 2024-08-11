@@ -1,0 +1,91 @@
+{
+    "content": {
+        "title": "Death Benefit (ANBOCWWB)",
+        "state": "Andaman and Nicobar Islands",
+        "department": "Department of Labour, Employment & Training, Andaman & Nicobar Administration",
+        "type": "Financial Assistance",
+        "beneficiary": "Nominees or dependents of workers engaged in Building or Other Construction Works",
+        "details": "The scheme \u201cDeath Benefit\u201d was started by the Andaman & Nicobar Islands Building and Other Construction Workers Welfare Board (ANBOCWWB). Under this scheme, financial assistance shall be provided to the nominees or dependents of workers engaged in Building or Other Construction Works in Andaman & Nicobar Islands in the event of their natural or accidental death.",
+        "benefits": [
+            "\u20b91,00,000/- shall be sanctioned to the nominees or dependents of a beneficiary towards natural death benefit.",
+            "If the death is due to an accident during the course of employment, the nominee or dependent of the beneficiary may be given \u20b92,00,000/- towards the death benefit.",
+            "In case of accidental death of non-registered construction workers, an amount of \u20b950,000/- shall be given to the nominee or dependent of the deceased worker, subject to the production of a certificate from the Tehsildar of the concerned area stating that the deceased was a construction worker."
+        ],
+        "eligibility": [
+            "The applicant should be a legal nominee or dependent of the deceased worker.",
+            "The deceased worker should have been a resident of the Union Territory of Andaman & Nicobar Islands.",
+            "The deceased worker should have been engaged in any building or other construction work.",
+            "The financial assistance shall be given to the nominees or dependents of deceased registered workers in the event of their natural or accidental death.",
+            "The financial assistance shall be given to the nominees or dependents of non-registered construction workers in case of accidental death only."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Copy of the death certificate",
+            "Copy of the nomination/legal heir certificate",
+            "Registration ID Card or Identity proof of deceased worker",
+            "A certificate from the Tehsildar stating that the deceased was a construction worker, in case of accidental death of a non-registered construction worker",
+            "Identity proof of nominee or dependent i.e. Aadhaar Card",
+            "Latest Subscription Receipt",
+            "Caste certificate, if any",
+            "Address proof",
+            "Bank Details of Nominee",
+            "Any other document as required"
+        ],
+        "faqs": [
+            {
+                "question": "What are the benefits offered under this scheme?",
+                "answer": "\u20b91,00,000/- is provided to nominees or dependents in case of natural death. \u20b92,00,000/- is given if the death is due to an accident during employment. Non-registered construction workers' nominees can receive \u20b950,000/- for accidental death upon producing a certificate from the Tehsildar."
+            },
+            {
+                "question": "Who is eligible to apply for this scheme?",
+                "answer": "Legal nominees or dependents of deceased workers are eligible to apply under the scheme."
+            },
+            {
+                "question": "What is the coverage area for this scheme?",
+                "answer": "The scheme covers workers residing in the Union Territory of Andaman & Nicobar Islands."
+            },
+            {
+                "question": "Are there any specific conditions regarding the type of work the deceased was engaged in?",
+                "answer": "Yes, the deceased worker must have been involved in building or other construction work to be eligible for the scheme."
+            },
+            {
+                "question": "Is financial assistance provided only in the event of natural death?",
+                "answer": "No, financial assistance is also extended in the case of accidental death during employment."
+            },
+            {
+                "question": "Is registration with the ANBOCWWB mandatory to avail of this scheme?",
+                "answer": "Registration is not mandatory for receiving financial assistance in case of accidental death. However, it is required for natural death benefits."
+            },
+            {
+                "question": "What happens if the deceased worker was not registered with ANBOCWWB?",
+                "answer": "Non-registered workers' nominees are eligible for financial assistance only in case of accidental death, subject to certain conditions."
+            },
+            {
+                "question": "How does one apply for the Death Benefit scheme?",
+                "answer": "The eligible applicant can visit and apply through online Portal : https://serviceonline.gov.in/login.do"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://labour.and.nic.in/webPages/welfareboard.html#:~:text=Pension%20Benefit%3A%20%2D%20Registered%20construction%20worker,Rs%201000%2F%2Dper%20month.&text=MBBS%2FBE%2FProfessional%20Course%20the,a%20case%20to%20case%20basis."
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/loginWindow.do"
+            },
+            {
+                "type": "Application Form For Death Benefit",
+                "url": "https://labour.and.nic.in/webPages/forms/deth.pdf"
+            }
+        ],
+        "tags": [
+            "Death",
+            "Financial Assistance",
+            "Labour",
+            "Building Worker",
+            "Construction Worker"
+        ]
+    }
+}

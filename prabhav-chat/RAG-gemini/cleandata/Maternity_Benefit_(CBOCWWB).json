@@ -1,0 +1,93 @@
+{
+    "content": {
+        "title": "Maternity Benefit (CBOCWWB)",
+        "state": "Chandigarh",
+        "department": "Labour Department, Chandigarh",
+        "type": "Financial Assistance",
+        "beneficiary": "Construction Worker",
+        "details": "The scheme \u201cMaternity Benefit\u201d was started by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. Under this scheme, financial assistance shall be given to the spouse of the registered beneficiary woman employee after the delivery of the child.",
+        "benefits": [
+            "Financial assistance of \u20b95100/- shall be given to the spouse of the registered beneficiary woman employee after the delivery of the child."
+        ],
+        "eligibility": [
+            "The beneficiary should be working in the Establishment, registered under the Punjab Labour Welfare Fund Act, 1965, and her contribution towards the labour welfare fund should regularly been received by the Board.",
+            "Financial assistance shall be given to the spouse of the registered beneficiary woman employee after the delivery of the child.",
+            "The financial assistance will be given on the production of the birth certificate issued by the competent authority.",
+            "The applicant should apply for maternity benefits within three months from the date of delivery.",
+            "The beneficiary should have been a registered member of the Board for at least six months prior to the birth of the child.",
+            "The benefit under this scheme shall be given for the birth of two children only.",
+            "The financial assistance for maternity benefits shall not be given to those beneficiaries who are covered under ESIC."
+        ],
+        "exclusions": [
+            "Financial assistance for maternity benefits will not be provided to beneficiaries covered under the ESIC."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Passport size photograph",
+            "Filled-in/signed form of CBOCW Board",
+            "A copy of the Aadhaar Card of the applicant",
+            "BOCW Card, if any",
+            "Copy of Aadhaar Card of nominee",
+            "Bank details",
+            "Receipt of payment file",
+            "Any other relevant documents",
+            "Birth Certificate of child issued by a Competent Authority",
+            "A copy of the BOCW Card of the worker",
+            "Bank account details/Bank Passbook",
+            "A copy of the salary slip of the registered worker"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Maternity Benefit Scheme?",
+                "answer": "The Maternity Benefit Scheme is an initiative by the Chandigarh Building and Other Construction Workers Welfare Board (CBOCWWB), Labour Department, Chandigarh. It provides financial assistance to the spouse of a registered beneficiary woman employee after the delivery of a child."
+            },
+            {
+                "question": "What are the benefits offered under this scheme?",
+                "answer": "Financial assistance of \u20b95100/- shall be provided to the spouse of the registered beneficiary woman employee after the delivery of the child."
+            },
+            {
+                "question": "Who is eligible to avail the Maternity Benefit under this scheme?",
+                "answer": "To be eligible for the Maternity Benefit, the beneficiary must be actively working in an establishment registered under the Punjab Labour Welfare Fund Act, 1965. Additionally, their regular contributions towards the labour welfare fund should be received by the Board."
+            },
+            {
+                "question": "When is financial assistance provided under this scheme?",
+                "answer": "Financial assistance is granted to the spouse of a registered beneficiary woman employee after the delivery of a child."
+            },
+            {
+                "question": "Is there a time limit for applying for maternity benefit?",
+                "answer": "Yes, applicants should apply for maternity benefit within three months from the date of delivery to be eligible for the financial assistance."
+            },
+            {
+                "question": "How long should a beneficiary be a registered member to qualify for maternity benefit?",
+                "answer": "The beneficiary should have been a registered member of the Board for a minimum of six months prior to the birth of the child to qualify for maternity benefit."
+            },
+            {
+                "question": "Can a beneficiary receive maternity benefits for more than two children?",
+                "answer": "No, the benefit under this scheme is applicable for the birth of two children only."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "To apply under the scheme, the applicants need to visit the official website of Labour Department Chandigarh and on the home page, select the scheme \u2018MATERNITY BENEFIT\u2019 under the Grant of Welfare Schemes to the workers of Chandigarh Labour Welfare Board."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "http://labour.chd.gov.in/PublicPages/maternity-benefit.aspx"
+            },
+            {
+                "type": "Application Portal",
+                "url": "https://serviceonline.gov.in/serviceLinkHome.html?serviceToken=H2qU46F5a8&newLink=N&%3Ccsrf:token%20uri=%27serviceLinkHome.html%27/%3E"
+            },
+            {
+                "type": "User Manual",
+                "url": "http://labour.chd.gov.in/pdf/LWB.pdf"
+            }
+        ],
+        "tags": [
+            "Maternity",
+            "Financial Assistance",
+            "Construction Worker"
+        ]
+    }
+}

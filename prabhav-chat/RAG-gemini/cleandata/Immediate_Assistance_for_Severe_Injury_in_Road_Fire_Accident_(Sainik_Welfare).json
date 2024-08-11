@@ -1,0 +1,69 @@
+{
+    "content": {
+        "title": "Immediate Assistance for Severe Injury in Road/Fire Accident (Sainik Welfare)",
+        "state": "Puducherry",
+        "department": "Department of Sainik Welfare",
+        "type": "Welfare Scheme",
+        "beneficiary": "Ex-servicemen/Widows of Ex-servicemen",
+        "details": "Immediate Assistance for Severe Injury in Road/Fire Accident is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, \u20b925,000/- is provided to the registered Ex-servicemen/Widows of Ex-servicemen who have suffered a severe injury in a Road/Fire Accident. The members of the Ex-Servicemen Contributory Health Scheme (ECHS) are not eligible. The applications are accepted offline.",
+        "benefits": [
+            "Financial Assistance of \u20b925,000/-, credited to the beneficiary\u2019s Bank Account through RTGS/ NEFT."
+        ],
+        "eligibility": [
+            "The applicant should be an Ex-serviceman/Widow of an Ex-serviceman.",
+            "The applicant should be registered with the Department of Sainik Welfare, Puducherry.",
+            "The applicant should have suffered a severe injury in a Road/Fire Accident.",
+            "The applicant should not be a member of the Ex-Servicemen Contributory Health Scheme (ECHS)."
+        ],
+        "exclusions": [
+            "The scope of this scheme will not apply to those ESM / living spouse/widows who are re-employed as regular / deemed to be regular in Government/Public Sector Undertakings/Private Organizations and self-employed IT assesses."
+        ],
+        "application_process": "Offline. The interested applicant should take print of the prescribed format of the application form for the scheme from the Official Website of the Department of Sainik Welfare or visit the Rajya Sainik Board to request a hard copy.",
+        "documents_required": [
+            "Identity Card of the ESM/ Widow of ESM.",
+            "Discharge Certificate of Ex-Serviceman.",
+            "Documentary Proof.",
+            "Medical Bill.",
+            "Declaration by the ESM/ Widow of ESM."
+        ],
+        "faqs": [
+            {
+                "question": "Which Department of the UT of Puducherry administers this scheme?",
+                "answer": "The scheme is administered by the Department of Sainik Welfare, Union Territory of Puducherry."
+            },
+            {
+                "question": "Where can I find the URL of the Official Website of the Department of Sainik Welfare, Puducherry?",
+                "answer": "The URL of the Official Website of the Department of Sainik Welfare, Puducherry is: https://sainik.py.gov.in/"
+            },
+            {
+                "question": "Are Short Service/Emergency commissioned Officers eligible to the status of ex-servicemen?",
+                "answer": "Yes, if released on completion of the specific period of engagement and were given gratuity at the time of release."
+            },
+            {
+                "question": "Is this scheme also applicable to the Widows of Ex-servicemen?",
+                "answer": "Yes, all Schemes are applicable only to the Ex-servicemen/Widows of Ex-servicemen registered with the Department of Sainik Welfare, Puducherry."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://sainik.py.gov.in/assistance-affd-fund"
+            },
+            {
+                "type": "Government Order",
+                "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+            },
+            {
+                "type": "Contact Us",
+                "url": "https://sainik.py.gov.in/contact-us"
+            }
+        ],
+        "tags": [
+            "Accident",
+            "Ex-Serviceman",
+            "Fire",
+            "Road",
+            "Widow"
+        ]
+    }
+}

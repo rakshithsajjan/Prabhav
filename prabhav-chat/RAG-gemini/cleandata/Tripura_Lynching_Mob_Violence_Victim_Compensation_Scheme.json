@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Tripura Lynching/Mob Violence Victim Compensation Scheme",
+        "state": "Tripura",
+        "department": "Home Department, Government of Tripura",
+        "type": "Compensation",
+        "beneficiary": "Victims of lynching/mob violence and their dependents",
+        "details": "The 'Tripura Lynching/Mob Violence Victim Compensation Scheme' was launched on 14th August 2018 to provide financial support to victims or their dependents who have suffered loss or injury due to lynching/mob violence. This scheme was formulated following the Supreme Court's order on 17.07.2018.",
+        "benefits": [
+            "Minimum compensation of \u20b94 Lakhs for death",
+            "\u20b92 Lakhs for permanent disability (80% or more)",
+            "\u20b91 Lakh for partial disability (40% to 80%)",
+            "\u20b995,000 for fully damaged/destroyed house",
+            "\u20b950,000 for kutcha house/shop/commercial establishment",
+            "\u20b95,000 for partially damaged/destroyed house",
+            "\u20b94,000 per hut for damaged/destroyed huts"
+        ],
+        "eligibility": [
+            "The victim must be a resident of Tripura.",
+            "Victims or dependents who have suffered loss or injury due to lynching/mob violence.",
+            "Compensation is available if ordered by the Court.",
+            "Victims must report the crime to the local Police Station.",
+            "Victims must cooperate with the Police and prosecution.",
+            "Dependents may claim compensation if the family becomes destitute due to the victim's death."
+        ],
+        "exclusions": [
+            "Claims made after six months of the crime.",
+            "Cases covered under the Motor Vehicle Act.",
+            "Existing schemes/facilities like extremist violence scheme."
+        ],
+        "application_process": "Offline. Victims or dependents must contact the District Magistrate & Collector/Sub Divisional Magistrate and submit an application with required documents.",
+        "documents_required": [
+            "Identity proof of applicant",
+            "Medical report of the victim",
+            "FIR and related papers",
+            "Copy of charge sheet/final report",
+            "Any other relevant information"
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "To provide financial support to victims of lynching/mob violence."
+            },
+            {
+                "question": "Which is the implementing agency of this scheme?",
+                "answer": "The scheme is implemented through the District Magistrate & Collectors of the State."
+            },
+            {
+                "question": "When was this scheme launched?",
+                "answer": "The scheme was launched on 14th August 2018."
+            },
+            {
+                "question": "What does 'Dependent' mean?",
+                "answer": "'Dependent' means any spouse, dependent children up to age of 21 years, and dependent parents."
+            },
+            {
+                "question": "Who is eligible under the scheme?",
+                "answer": "Victims or dependents who have suffered loss or injury due to lynching/mob violence."
+            },
+            {
+                "question": "What is the quantum of compensation awarded to the victim under the scheme?",
+                "answer": "Compensation varies based on loss, medical expenses, and rehabilitation needs, subject to limits specified in the schedule."
+            },
+            {
+                "question": "What is the limitation of the scheme?",
+                "answer": "Claims must be made within six months of the crime."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "Submit an application with required documents to the District Magistrate & Collector/Sub Divisional Magistrate."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Notification",
+                "url": "https://tripura.gov.in/sites/default/files/Tripura_lynching.pdf"
+            },
+            {
+                "type": "Official Website",
+                "url": "https://tripura.gov.in/programs-and-schemes"
+            }
+        ],
+        "tags": [
+            "Compensation",
+            "Lynching",
+            "Mob Violence",
+            "Victim Support"
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Ujjwala Yojana",
+        "state": "Uttar Pradesh",
+        "department": "Ministry Of Petroleum and Natural Gas",
+        "type": "Subsidy",
+        "beneficiary": "Women from BPL (Below Poverty Line) households",
+        "details": "In May 2016, the Ministry of Petroleum and Natural Gas (MOPNG) introduced the \u2018Pradhan Mantri Ujjwala Yojana\u2019 (PMUY) as a flagship scheme with an objective to make clean cooking fuel such as LPG available to the rural and deprived households which were otherwise using traditional cooking fuels such as firewood, coal, cow-dung cakes etc. The scheme was launched on 1st May 2016 in Ballia, Uttar Pradesh by Hon\u2019ble Prime Minister of India, Shri. Narendra Modi.",
+        "benefits": [
+            "Rs. 1600 for a connection 14.2kg cylinder or Rs. 1150 for a 5 kg cylinder.",
+            "All PMUY beneficiaries will be provided with first LPG refill and Stove (hot plate) both free of cost along with their deposit free connection."
+        ],
+        "eligibility": [
+            "An adult woman belonging to a poor household and not having an LPG connection in her household.",
+            "Eligible as per SECC 2011 list.",
+            "Belongs to SC/ST households, be a beneficiary of Pradhan Mantri Awas Yojana (PMAY), Antyodaya Anna Yojana (AAY), Forest dwellers, Most Backward Classes (MBC), Tea and Ex-Tea Garden Tribes, People residing in river islands.",
+            "If she is not falling in the above categories, she can stake her claim to be a beneficiary under Poor household by submitting a 14-point declaration."
+        ],
+        "exclusions": [
+            "Male Member from a household cannot apply for the scheme."
+        ],
+        "application_process": "Online application process through the official website.",
+        "documents_required": [
+            "Valid Photo ID",
+            "Ration Card issued by the State",
+            "Proof of Address (Aadhaar)",
+            "Bank Account Number and IFSC",
+            "Aadhaar (not mandatory for Assam and Meghalaya)",
+            "Passport size photograph"
+        ],
+        "faqs": [
+            {
+                "question": "Can a new PMUY connection be taken in the name of mother in law?",
+                "answer": "Yes, the connection can be transferred and the facility of change of address will be made available soon."
+            },
+            {
+                "question": "Can I Avail LPG Stove and First refill, Free of Cost?",
+                "answer": "Yes."
+            },
+            {
+                "question": "I am a male from BPL Household, Can I apply for the scheme?",
+                "answer": "No, This scheme is only for Women from BPL / Poor Households."
+            },
+            {
+                "question": "Who is the eligible beneficiary under Ujjwala 2.0?",
+                "answer": "An adult woman belonging to a poor household and not having LPG connection."
+            },
+            {
+                "question": "If my D.O.B is not mentioned at ration card then how can I prove that I am an adult woman?",
+                "answer": "You can use Aadhaar Card to validate your age."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "http://nadia.gov.in/DISHA/DISHASchemeGuidelines/Pradhan%20Mantri%20UJJWALA%20Yojna%20Guideline.pdf"
+            },
+            {
+                "type": "Additional Guidelines",
+                "url": "https://www.pmuy.gov.in/index.aspx"
+            },
+            {
+                "type": "Additional Guidelines",
+                "url": "https://mopng.gov.in/en/marketing/pmuy"
+            }
+        ],
+        "tags": [
+            "BPL",
+            "Gas Cylinder",
+            "LPG Cylinder",
+            "Ujjwala",
+            "Women"
+        ]
+    }
+}

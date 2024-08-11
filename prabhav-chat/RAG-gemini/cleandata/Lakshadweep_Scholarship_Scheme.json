@@ -1,0 +1,88 @@
+{
+    "content": {
+        "title": "Lakshadweep Scholarship Scheme",
+        "state": "Lakshadweep",
+        "department": "Department of Education, Ministry of Human Resource Development",
+        "type": "Scholarship",
+        "beneficiary": "Students from Lakshadweep",
+        "details": "The Lakshadweep Scholarship Scheme is an initiative by the Department of Education under the Ministry of Human Resource Development, aims to provide financial assistance to students from the Lakshadweep union territory. This program will alleviate financial burdens and empower students to pursue their educational aspirations.",
+        "benefits": [
+            "Financial assistance for various courses",
+            "Monthly scholarship rates vary by course"
+        ],
+        "eligibility": [
+            "Both parents and the student must be born in Lakshadweep or have one parent from Lakshadweep.",
+            "The student and the Islander parent must reside in the Islands.",
+            "Scholars cannot receive other scholarships, must surrender any awards, and repay funds received.",
+            "Retention of concessions granted by the institution or administration is allowed.",
+            "Scholars can pursue courses in Arts, Science, Engineering, Medicine, Agriculture, Law, or Commerce in recognized Indian institutions.",
+            "Educational concessions on the mainland are only for studies not available in the Islands.",
+            "Stipends may be granted or renewed for health reasons or disability."
+        ],
+        "exclusions": [],
+        "application_process": "Online applications are invited on the National Scholarship Portal (NSP) in the month of April every year.",
+        "documents_required": [
+            "Domicile Certificate",
+            "Income Certificate",
+            "Educational Certificate",
+            "Caste Certificate",
+            "Aadhaar Card",
+            "Bank Passbook",
+            "Passport Size Photograph"
+        ],
+        "faqs": [
+            {
+                "question": "What is this scheme?",
+                "answer": "The Lakshadweep Scholarship Scheme is a government initiative aimed at providing financial assistance to students from Lakshadweep pursuing higher education."
+            },
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "The main objective of the scheme is to alleviate financial burdens and empower students to pursue their educational aspirations."
+            },
+            {
+                "question": "What are the benefits?",
+                "answer": "Financial assistance will be provided."
+            },
+            {
+                "question": "Can students from other states/UTs also apply for this scheme?",
+                "answer": "Both parents and the student must be born in Lakshadweep or have one parent from Lakshadweep."
+            },
+            {
+                "question": "Can students get the benefits of multiple schemes parallelly?",
+                "answer": "Scholars cannot receive other scholarships, must surrender any awards, and repay funds received."
+            },
+            {
+                "question": "What documents are required?",
+                "answer": "Domicile Certificate, Income Certificate, Educational Certificate, Caste Certificate, Aadhaar Card, Bank Passbook, Passport Size Photograph."
+            },
+            {
+                "question": "What is the procedure to apply for the scheme?",
+                "answer": "Applicant must be registered on National Scholarship Portal (NSP) and only then can apply for the scheme."
+            },
+            {
+                "question": "How to apply for the scheme?",
+                "answer": "Open the official NSP website and click on New Registration under Applicant Corner. Read the Instruction /Guidelines, provide the undertaking by clicking on the checkbox and click on Continue. Start the registration by Mobile OTP and get the Registration ID. Submit required documents."
+            },
+            {
+                "question": "What is the official website to apply for the scheme?",
+                "answer": "https://scholarships.gov.in/"
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://scholarships.gov.in/public/schemeGuidelines/Lakshadweep/Lakshadweep_3024_G.pdf"
+            },
+            {
+                "type": "National Scholarship Portal",
+                "url": "https://scholarships.gov.in/"
+            }
+        ],
+        "tags": [
+            "Scholarship",
+            "Lakshadweep",
+            "Education",
+            "Financial Assistance"
+        ]
+    }
+}

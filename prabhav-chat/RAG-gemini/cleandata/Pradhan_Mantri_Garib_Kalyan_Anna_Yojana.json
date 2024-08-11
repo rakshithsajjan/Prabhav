@@ -1,0 +1,58 @@
+{
+    "content": {
+        "title": "Pradhan Mantri Garib Kalyan Anna Yojana",
+        "state": "India",
+        "department": "Ministry Of Finance",
+        "type": "Subsidy",
+        "beneficiary": "Migrants and poor families",
+        "details": "Pradhan Mantri Garib Kalyan Anna Yojana (PM-GKAY) is a scheme as part of Atmanirbhar Bharat to supply free food grains to migrants and poor. Under this scheme, the center provides 5kg of free food grains per month to the poor, in addition to the subsidized ration provided under the National Food Security Act (NFSA).",
+        "benefits": [
+            "5 kg of food grain to each family holding a ration card free of cost",
+            "Additional subsidized food grain through the Public Distribution System (PDS)",
+            "Estimated additional food subsidy of Rs. 80,000 Crore for Phase VI"
+        ],
+        "eligibility": [
+            "Families belonging to Antyodaya Anna Yojana (AAY) and Priority Households (PHH)",
+            "Households headed by widows, terminally ill persons, disabled persons, or persons aged 60 years or more with no assured means of subsistence",
+            "All primitive tribal households",
+            "Landless agriculture labourers, marginal farmers, and informal sector workers",
+            "Eligible Below Poverty Line families of HIV positive persons"
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Interested persons shall visit the nearest Fair Price Shop with the Ration Card.",
+        "documents_required": [
+            "Ration Card",
+            "Aadhar Card (if seeded with Ration Card)"
+        ],
+        "faqs": [
+            {
+                "question": "Who are eligible for the scheme?",
+                "answer": "This scheme can be availed by all eligible ration cardholders or beneficiaries covered under the National Food Security Act (NFSA), 2013."
+            },
+            {
+                "question": "How do I know if I am NFSA Beneficiary?",
+                "answer": "You can check on https://nfsa.gov.in/portal/ration_card_state_portals_aad."
+            },
+            {
+                "question": "How Do I avail the Scheme? Is there any application process?",
+                "answer": "Interested persons shall visit the nearest Fair Price Shop with Ration Card."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://www.idfcinstitute.org/site/assets/files/15623/final_white_paper_pmgky-2-1.pdf"
+            },
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/pm-gkay"
+            }
+        ],
+        "tags": [
+            "Food Security",
+            "Subsidy",
+            "Government Scheme",
+            "Atmanirbhar Bharat"
+        ]
+    }
+}

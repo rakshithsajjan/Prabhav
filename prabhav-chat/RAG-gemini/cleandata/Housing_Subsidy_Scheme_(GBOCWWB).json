@@ -1,0 +1,113 @@
+{
+    "content": {
+        "title": "Housing Subsidy Scheme (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Subsidy",
+        "beneficiary": "Construction Workers",
+        "details": "The 'Housing Subsidy Scheme' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB) to provide financial assistance to registered construction workers to build their own houses. The scheme started in the year 2021-22 to provide financial relief and social stability to construction workers through subsidies.",
+        "benefits": [
+            "Assistance of \u20b91,50,000/- will be provided to registered construction workers for a duration of 5 years, with \u20b930,000/- disbursed annually.",
+            "Construction workers who have taken a loan up to a maximum of \u20b915 lakhs to buy their house will be provided \u20b930,000/- per year for five years."
+        ],
+        "eligibility": [
+            "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "At least 2 years of registration with the construction worker's board at the time of applying.",
+            "Documented building after the resolution date of the scheme (29/06/2020) and application within one year from the date of the document.",
+            "Loan for house purchase should not exceed \u20b915 lakhs and the loan tenure should be 10 years or more.",
+            "Registered construction worker should not own any house or property in joint name.",
+            "Submission of bank loan interest certificate/bank loan statement after the financial year to avail assistance.",
+            "Annual written proposal submission at the district office for continued assistance."
+        ],
+        "exclusions": [],
+        "application_process": "Online and Offline",
+        "documents_required": [
+            "Photograph of the worker",
+            "Aadhaar Card",
+            "Ration Card",
+            "Caste Category certificate, if applicable",
+            "Proof of age (Birth certificate/Driving Licence/PAN Card/Voter ID Card)",
+            "Self-declaration certificate",
+            "Employer Certificate",
+            "Bank Passbook/cancelled Cheque",
+            "e-Nirman Card of the worker",
+            "Copy of Identity Card (Red Book) regarding enrollment in the Board",
+            "Copy of building document",
+            "Proof of taking a loan (loan sanction letter)",
+            "Annual Loan Statement/Annual Interest Certificate",
+            "Copy of Housing Loan Passbook/ Statement"
+        ],
+        "faqs": [
+            {
+                "question": "What is the Gujarat Housing Subsidy Scheme?",
+                "answer": "The Gujarat Housing Subsidy Scheme is a program initiated by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB) to provide financial assistance to registered construction workers for building their own houses."
+            },
+            {
+                "question": "What are the benefits provided under the scheme?",
+                "answer": "Registered construction workers can receive an assistance of \u20b91,50,000/- over a duration of 5 years, with \u20b930,000/- disbursed annually, subject to the terms of assistance."
+            },
+            {
+                "question": "Who is eligible to benefit from the scheme?",
+                "answer": "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board are eligible to avail the benefits of the scheme."
+            },
+            {
+                "question": "What is the minimum registration period required to apply for the scheme?",
+                "answer": "Applicants must have a minimum of 2 years of registration with the construction worker's board at the time of applying for scheme benefits."
+            },
+            {
+                "question": "What is the deadline for applying for benefits under the scheme?",
+                "answer": "The application must be made within one year from the date of the document mentioned in the house purchase document, provided it's after the scheme's resolution date of 29/06/2020."
+            },
+            {
+                "question": "Is there a limit on the loan amount for house purchase to be eligible for the subsidy?",
+                "answer": "Yes, the maximum loan amount for house purchase should not exceed \u20b915 lakh, and the loan tenure should be 10 years or more."
+            },
+            {
+                "question": "Can a registered construction worker already owning a house avail of the scheme benefits?",
+                "answer": "No, registered construction workers who already own a house or property in joint ownership are not eligible for the scheme benefits."
+            },
+            {
+                "question": "Is there a requirement to renew the application annually?",
+                "answer": "Yes, registered construction workers receiving benefits under the scheme need to submit a written proposal annually at the district office of the concerned board."
+            },
+            {
+                "question": "How to apply under the scheme?",
+                "answer": "The applicant may visit the Sanman Portal: https://sanman.gujarat.gov.in/"
+            },
+            {
+                "question": "Can an applicant also apply through offline mode?",
+                "answer": "Yes, for availing of the benefits of the scheme, the applicant may visit the district office of the BOCW Board."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://bocwwb.gujarat.gov.in/schemes.htm"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_407_1_Housing_Subsidy_Scheme_27102023.pdf"
+            },
+            {
+                "type": "E-Nirman Portal",
+                "url": "https://enirmanbocw.gujarat.gov.in/Index.aspx"
+            },
+            {
+                "type": "Sanman Portal",
+                "url": "https://sanman.gujarat.gov.in/#"
+            },
+            {
+                "type": "Scheme Details",
+                "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-22-23.pdf"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Financial Assistance",
+            "House",
+            "Labour",
+            "Loan"
+        ]
+    }
+}

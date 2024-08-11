@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Unemployment Allowance to Differently Abled Persons",
+        "state": "Tamil Nadu",
+        "department": "Department for the Welfare of Differently Abled Persons",
+        "type": "Financial Assistance",
+        "beneficiary": "Differently Abled Person",
+        "details": "The Department for the Welfare of Differently Abled Persons, Government of Tamil Nadu, has implemented the 'Unemployment Allowance Scheme for Differently Abled Persons.' This initiative aims to provide targeted financial support to registered job seekers with disabilities who have been actively seeking employment through the employment exchange for a minimum of one year. Recognizing the distinct challenges faced by this population group in securing suitable employment, the program seeks to alleviate the economic burdens associated with unemployment and foster self-sufficiency during their job search. This intervention ultimately contributes to a more inclusive workforce by empowering differently-abled individuals to actively pursue their career goals.",
+        "benefits": [
+            "For SSLC (Secondary School Leaving Certificate) and below: \u20b9600/- per month.",
+            "For Higher Secondary Course: \u20b9750/- per month.",
+            "For Degree and above: \u20b91,000/- per month."
+        ],
+        "eligibility": [
+            "The applicant should be differently abled.",
+            "The applicant should be unemployed.",
+            "The applicant should have an education certificate, diploma, or degree.",
+            "The applicant must be registered with the employment exchange for more than one year.",
+            "The status of the registered applicant should be shown live in the employment exchange."
+        ],
+        "exclusions": [],
+        "application_process": "Offline. Step 1: The interested applicant should visit (during office hours) the employment exchange and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications. Step 2: In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required). Step 3: Submit the duly filled and signed application form along with the documents to the Respective District Employment Officer. Step 4: Request a receipt or acknowledgment from the Respective District Employment Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).",
+        "documents_required": [
+            "Employment Registration Card.",
+            "National Identity Card of the Differently-Abled."
+        ],
+        "faqs": [
+            {
+                "question": "What documents are required to apply for the unemployment allowance for differently abled persons?",
+                "answer": "Need to submit employment registration card and national identity card for differently abled."
+            },
+            {
+                "question": "Is there a minimum age requirement to apply for this allowance?",
+                "answer": "There is no specific age limit mentioned for receiving the unemployment allowance."
+            },
+            {
+                "question": "Are there any specific disabilities that qualify for this allowance?",
+                "answer": "Various disabilities are considered, but specifics may vary depending on local regulations."
+            },
+            {
+                "question": "Can the allowance be claimed alongside other government benefits?",
+                "answer": "Yes, you can get other government benefits too."
+            },
+            {
+                "question": "Is there a limit to how long one can receive this allowance?",
+                "answer": "The duration of allowance receipt depends on the authority process."
+            },
+            {
+                "question": "Are there any income restrictions for eligibility?",
+                "answer": "No specific income criteria are mentioned for eligibility to receive an unemployment allowance."
+            },
+            {
+                "question": "What if someone becomes employed while receiving the allowance?",
+                "answer": "Employment may affect eligibility for the allowance."
+            },
+            {
+                "question": "Is there an appeals process if an application is denied?",
+                "answer": "Grievances related to the allowance should be addressed to the Assistant Director (Placement), O/o. The Commissionerate for Welfare of the Differently Abled, No.5, Kamarajar Salai, Chennai \u2013 600 005."
+            },
+            {
+                "question": "Are there any educational requirements to qualify?",
+                "answer": "Educational requirements may vary, but typically there are none or minimal requirements."
+            },
+            {
+                "question": "Is the allowance taxable?",
+                "answer": "Taxation of the allowance depends on local tax laws and regulations."
+            },
+            {
+                "question": "Can the allowance be used for specific purposes, such as education or training?",
+                "answer": "Usage of the allowance may not be restricted but can vary based on local guidelines."
+            },
+            {
+                "question": "Are there any additional benefits or services provided alongside the allowance?",
+                "answer": "Additional benefits or services are not mentioned in the guidelines."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Citizen's Charter",
+                "url": "https://cms.tn.gov.in/sites/default/files/documents/wda_e_cc_2022_23.pdf"
+            }
+        ],
+        "tags": [
+            "Differently Abled",
+            "Financial Assistance",
+            "Social Welfare",
+            "Unemployment"
+        ]
+    }
+}

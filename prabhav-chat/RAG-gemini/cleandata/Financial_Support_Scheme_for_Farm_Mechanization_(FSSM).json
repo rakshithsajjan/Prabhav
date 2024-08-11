@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Financial Support Scheme for Farm Mechanization (FSSM)",
+        "state": "West Bengal",
+        "department": "Department Of Agriculture, Government of West Bengal",
+        "type": "Financial Assistance",
+        "beneficiary": "Farmer",
+        "details": "Financial Support Scheme for Farm Mechanization (FSSM) under the Farm Mechanization Umbrella Scheme, was launched on 5th December 2012 by the Agriculture Department, Government of West Bengal for extending financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery with the aim to facilitate mechanization in agriculture so as to ensure better productivity and minimization of cost of cultivation. The scheme is applicable uniformly throughout the State, except Kolkata district.",
+        "benefits": [
+            "Subsidy ranging from 50-60% of the indicative price of machinery subject to maximum ceiling of \u20b93,00,000/- will be provided to the beneficiary.",
+            "An exhaustive list of different farm machinery with subsidy limits is provided in Annexure-II based on Cost Norms and Pattern of Financial Assistance under Sub Mission on Agricultural Mechanization(SMAM)."
+        ],
+        "eligibility": [
+            "Individual farmers registered under Krishak Bandhu (New) Scheme.",
+            "Groups like SKUS/PACS/FPO/FPC/FIG/SHG duly graded /LAMPS etc. approved/recognized by any Govt Institution/Departments.",
+            "Minimum 0.5 (half) acre agricultural land (RoR) is required by the applicant for purchase of power tiller & solar photo-voltaic water pumping system under FSSM.",
+            "The age of the beneficiary should be minimum 18 years at the time of application."
+        ],
+        "exclusions": [
+            "A beneficiary or his/her spouse will not be eligible to apply afresh before completion of 4(four) years from release last subsidy for any type of machinery under any Farm Mechanization scheme.",
+            "An employee/retired employee of State Government, Statutory Bodies, Government Undertakings, Panchayats, Municipal Corporations/Municipalities, Local Bodies, Government Aided Educational Institutions etc. is not eligible."
+        ],
+        "application_process": "Online. Visit the official FMS portal and click on 'New Registration'. Fill in all the mandatory details in the 'Applicant Registration' form. After successful submission of online application, hard copies of print out of the application with acknowledgement receipt, recent passport size photograph and other prescribed documents will have to be submitted to the office of the Assistant Director of Agriculture of the concerned Block within the stipulated period.",
+        "documents_required": [
+            "Identity proof (EPIC/Voter ID card)",
+            "Aadhar of Applicant & Spouse for individual application",
+            "Bank Account details (Active)",
+            "Active mobile no",
+            "Land Particulars",
+            "Krishak Bandhu ID No",
+            "Name of machinery/equipment/implement",
+            "Name of manufacturer etc."
+        ],
+        "faqs": [
+            {
+                "question": "What is the objective of the scheme?",
+                "answer": "Financial Support Scheme for Farm Mechanization (FSSM) aims to provide financial support as subsidy to the small and marginal farmers of the State for purchase of power operated farm equipment/ machinery."
+            },
+            {
+                "question": "Which department has launched this scheme?",
+                "answer": "Department Of Agriculture, Government of West Bengal has launched this scheme."
+            },
+            {
+                "question": "Who is eligible to apply under this scheme?",
+                "answer": "Individual farmers registered under Krishak Bandhu (Natun) Scheme or groups like SKUS/PACS/FPO/FPC/FIG/SHG duly graded /LAMPS etc approved/recognized by any Govt. Institution/Departments."
+            },
+            {
+                "question": "How to avail the benefits of the scheme?",
+                "answer": "Bonafide farmers can apply online in Matirkatha/FMS portal after due advertisement in leading dailies."
+            },
+            {
+                "question": "Is there any fee or charges for the scheme?",
+                "answer": "No, there are no charges to apply for this scheme."
+            },
+            {
+                "question": "Is there any age restriction?",
+                "answer": "The age of the beneficiary should be minimum 18 years at the time of application."
+            },
+            {
+                "question": "How will the subsidy be released to the beneficiary?",
+                "answer": "The subsidy will be released to the bank A/C of the respective beneficiaries through DBT mode."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://matirkatha.net/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e05a52aaf58b7fbfa749a5d71be15309a5101ea/FMS_Operational%20Guidelines_2024_25.pdf?disposition=attachment"
+            }
+        ],
+        "tags": [
+            "Agriculture",
+            "Farmer",
+            "Financial Assistance",
+            "Mechanization"
+        ]
+    }
+}

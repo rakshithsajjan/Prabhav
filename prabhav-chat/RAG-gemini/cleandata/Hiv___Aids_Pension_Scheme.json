@@ -1,0 +1,82 @@
+{
+    "content": {
+        "title": "Hiv / Aids Pension Scheme",
+        "state": "Puducherry",
+        "department": "Department of Women and Child Development",
+        "type": "Financial Assistance",
+        "beneficiary": "HIV/AIDS Affected People",
+        "details": "The Government of Puducherry introduced the HIV / AIDS Pension Scheme to extend a helping hand through monthly financial assistance to HIV/AIDS Affected People so that they could defray some petty personal/ medical expenses without depending on others.",
+        "benefits": [
+            "\u20b9 1500/- per month with age less than 60 years.",
+            "\u20b9 2000/- per month with age between 60 years and 79 years.",
+            "\u20b9 3000/- per month with age 80 years and above."
+        ],
+        "eligibility": [
+            "He/She must be a resident of UT of Puducherry.",
+            "He/She should be a registrant in the ART Centre, IGMC&RI, Puducherry / Link ART Centre JIPMER in respect of Puducherry region, ART Centre, Nagapattinam in respect of Karaikal region, ART Centre, Calicut in respect of Mahe region, ART Centre, Kakinada in respect of Yanam region and taking regular treatment and any other ART/Link ART centres to be established in future in the UT of Puducherry."
+        ],
+        "exclusions": [],
+        "application_process": "Offline",
+        "documents_required": [
+            "Registration / Treatment Certificate issued by the ART Medical Officer concerned.",
+            "Copy of Aadhaar card.",
+            "Copy of Voter ID card.",
+            "Copy of Ration card."
+        ],
+        "faqs": [
+            {
+                "question": "Who is eligible for the HIV/AIDS pension scheme in Puducherry?",
+                "answer": "Eligibility criteria may vary, but typically individuals who are living with HIV/AIDS, are residents of Puducherry, and meet certain income and other criteria may be eligible for the scheme."
+            },
+            {
+                "question": "How much is the pension amount under the scheme?",
+                "answer": "The pension amount can vary based on the government's policies and may change from time to time. It's important to check with the relevant authorities for the current pension amount."
+            },
+            {
+                "question": "How can I apply for the HIV/AIDS pension scheme?",
+                "answer": "To apply for the scheme, you usually need to submit an application to the designated government office along with the required documents. These documents may include proof of residence, medical records confirming HIV/AIDS status, income certificates, and other relevant documents."
+            },
+            {
+                "question": "What documents are required to apply for the scheme?",
+                "answer": "The required documents can include proof of residence, medical records confirming HIV/AIDS status, income certificates, identification documents (such as Aadhar card), and any other documents specified by the government."
+            },
+            {
+                "question": "Is there an age limit to apply for the scheme?",
+                "answer": "The age limit, if any, can vary based on the government's policies. Some schemes might have an age criterion while others may not."
+            },
+            {
+                "question": "How often is the pension disbursed?",
+                "answer": "Pension disbursement frequency can vary, but it's typically done on a monthly basis. The specific details would be available from the relevant authorities."
+            },
+            {
+                "question": "Can the pension be transferred to a bank account?",
+                "answer": "Yes, the pension is usually disbursed directly to the beneficiary's bank account. You would need to provide your bank account details during the application process."
+            },
+            {
+                "question": "Are there any review or renewal processes for the scheme?",
+                "answer": "Some schemes might require periodic review or renewal of the beneficiary's eligibility. This could involve submitting updated documents and information."
+            },
+            {
+                "question": "Where can I get more information about the HIV/AIDS pension scheme in Puducherry?",
+                "answer": "For the most accurate and up-to-date information, you should contact the Department of Social Welfare or the Health Department of Puducherry. They can provide you with the latest details about the scheme, including FAQs and application procedures."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://www.myscheme.gov.in/schemes/haps"
+            },
+            {
+                "type": "Source",
+                "url": "https://oaps.py.gov.in/Home/hiv.aspx"
+            }
+        ],
+        "tags": [
+            "HIV",
+            "AIDS",
+            "Pension",
+            "Financial Assistance",
+            "Puducherry"
+        ]
+    }
+}

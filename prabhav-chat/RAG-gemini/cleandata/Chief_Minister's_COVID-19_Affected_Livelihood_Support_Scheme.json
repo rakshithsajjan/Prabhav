@@ -1,0 +1,77 @@
+{
+    "content": {
+        "title": "Chief Minister's COVID-19 Affected Livelihood Support Scheme",
+        "state": "Manipur",
+        "department": "Dept. of Social Welfare, Govt. of Manipur",
+        "type": "State Sponsored",
+        "beneficiary": "Vulnerable groups including daily wage earners and those without a regular source of income",
+        "details": "The COVID-19 Pandemic and the resulting economic dislocations have severely affected the livelihood of a large percentage of the population, especially vulnerable groups including daily wage earners, those without a regular source of income, and without sufficient savings to fall back upon. There is a need to have additional direct income support for these vulnerable groups.",
+        "benefits": [
+            "Direct Cash Transfer of \u20b9 5,000/- in 2 equal installments (\u20b9 2,500/- per installment) to every identified family."
+        ],
+        "eligibility": [
+            "Only those domiciled in Manipur can apply.",
+            "Only the main bread earner of the family can apply.",
+            "Applicant should be employed in the informal sector."
+        ],
+        "exclusions": [
+            "Only one beneficiary per family can apply.",
+            "Persons domiciled in other Northeastern states cannot apply."
+        ],
+        "application_process": "Online",
+        "documents_required": [
+            "Street Vendor card/list of Municipalities or District Councils (for Street Vendors)",
+            "Permit for public transport issued by Transport Dept./Municipalities/District Councils (for Public Transport Drivers)",
+            "School Van Permit/Certificate issued by the Transport Department / School Authority concerned (for School Van Drivers)",
+            "Copy of Registration/license/permit of beneficiaries issued by the relevant Department in connection with the above profession/occupation.",
+            "Copy of the bank passbook containing details of the bank account number, name & details of the bank, and name of the account holder.",
+            "In case the applicant does not have an Aadhaar Number, then the Deputy Commissioner must certify the claim and allow other documents to be submitted (voter ID, MGNREGA Job Card, etc.)."
+        ],
+        "faqs": [
+            {
+                "question": "Can Women Also Apply To This Scheme?",
+                "answer": "Yes, this scheme is open to applicants from all genders."
+            },
+            {
+                "question": "Is Aadhaar Enrolment Mandatory For This Scheme?",
+                "answer": "Yes, the Aadhaar Enrolment is a must before the release of the 2nd installment."
+            },
+            {
+                "question": "What Is The Maximum Amount Of Financial Assistance That I Can Receive Through This Scheme?",
+                "answer": "Direct Cash Transfer of \u20b9 5,000/- in 2 equal installments (\u20b9 2,500/- per installment) to every identified family."
+            },
+            {
+                "question": "Will The Financial Assistance Be Paid In Installments Or As A Lump Sum?",
+                "answer": "The financial assistance will be paid in 2 equal installments (\u20b9 2,500/- per installment)."
+            },
+            {
+                "question": "What Is The Eligible Criteria Related To The Annual Income Of The Applicant?",
+                "answer": "In this scheme, there is no eligible criteria related to the annual income of the applicant."
+            },
+            {
+                "question": "What Is The 'Inclusion Criteria' For This Scheme?",
+                "answer": "Inclusion Criteria (subject to exclusion criteria fulfillment): (a) Ration Card Holder. (b) MGNREGA Card Holder. (c) PM-KISAN Beneficiary. (d) CMHT/ PMJAY Beneficiary. (e) PMUY Beneficiary. (f) PM SVANidhi Beneficiary. (g) CMST/ CMAT Beneficiary. (h) PMAY (G) or PMAY (U) Beneficiary. (i) SBM (G) or SBM (U) Beneficiary. (j) Person in Vendor List of Municipalities or District Councils. (k) Person with a permit for public transport/ school van in Municipalities or District Councils."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Scheme Guidelines",
+                "url": "https://socialwelfare.mn.gov.in/media/filer_public/e5/c2/e5c27bf0-8ae4-4202-bd97-f7fb263684c5/cmcalss1.pdf"
+            },
+            {
+                "type": "Application Form",
+                "url": "https://socialwelfare.mn.gov.in/media/filer_public/51/fd/51fda9bf-5542-4796-ad45-0bcfa0bb6bda/application_form_-_10__final-cmcalss__1-merged.pdf"
+            },
+            {
+                "type": "FAQs",
+                "url": "https://socialwelfare.mn.gov.in/media/filer_public/e5/c2/e5c27bf0-8ae4-4202-bd97-f7fb263684c5/cmcalss1.pdf"
+            }
+        ],
+        "tags": [
+            "COVID-19",
+            "Livelihood Support",
+            "Financial Assistance",
+            "Manipur"
+        ]
+    }
+}

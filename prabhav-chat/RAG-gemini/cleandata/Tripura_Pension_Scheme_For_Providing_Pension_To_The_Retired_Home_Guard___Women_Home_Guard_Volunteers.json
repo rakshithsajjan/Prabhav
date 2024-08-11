@@ -1,0 +1,74 @@
+{
+    "content": {
+        "title": "Tripura Pension Scheme For Providing Pension To The Retired Home Guard / Women Home Guard Volunteers",
+        "state": "Tripura",
+        "department": "Department of Home Affairs",
+        "type": "Pension",
+        "beneficiary": "Retired Home Guard / Women Home Guard Volunteers",
+        "details": "Effective from 1st December 2012, this is a pension scheme for the Retired Home Guard / Women Home Guard Volunteers. The Rate of Pension shall be \u20b9750 per head per month (without any allowances whatsoever). Arrears shall not be payable. The retirement from the service should have been on superannuation or on medical invalidation only. Persons getting pensions from other sources (excluding social pensions) shall not come under the purview of the proposed scheme. The pensioner should open a Bank Account and the pension should be only credited to their Bank Account every month.",
+        "benefits": [
+            "Rate of Pension: \u20b9750 per head per month."
+        ],
+        "eligibility": [
+            "The applicant must be a Retired Home Guard / Women Home Guard Volunteer.",
+            "The applicant must have put in a minimum period of 20 years of service.",
+            "The applicant must have retired from service as Home Guard on superannuation or on medical invalidation only."
+        ],
+        "exclusions": [
+            "Persons getting pensions from other sources (excluding social pensions) shall not come under the purview of the proposed scheme."
+        ],
+        "application_process": "Offline",
+        "documents_required": [
+            "Aadhaar Card",
+            "Proof of Identity",
+            "Proof of Age / DOB",
+            "Proof of Address",
+            "Proof of being a Retired Home Guard / Women Home Guard",
+            "Proof that the duration of service is at least 20 years.",
+            "Proof that the retirement was on superannuation or on medical invalidation only",
+            "Domicile Certificate",
+            "Details of the Aadhaar Linked Bank Account"
+        ],
+        "faqs": [
+            {
+                "question": "What are the required documents to apply for this scheme?",
+                "answer": "Aadhaar Card, Proof of Identity, Proof of Age / DOB, Proof of Address, Proof of being a Retired Home Guard / Women Home Guard, Proof that the duration of service is at least 20 years, Proof that the retirement was on superannuation or on medical invalidation only, Domicile Certificate, Details of the Aadhaar Linked Bank Account."
+            },
+            {
+                "question": "What is the maximum amount of monthly pension that one can receive through this scheme?",
+                "answer": "\u20b9750 per head per month."
+            },
+            {
+                "question": "Who shall be the Sanctioning Authority?",
+                "answer": "The Sanctioning Authority shall be The Director General of Police, Tripura."
+            },
+            {
+                "question": "Will the payment of the pension be made in cash?",
+                "answer": "No, The pensioner should open a Bank Account and the pension should be only credited to their Bank Account every month."
+            },
+            {
+                "question": "Who are excluded from applying to this scheme?",
+                "answer": "Persons getting pensions from other sources (excluding social pensions) shall not come under the purview of the proposed scheme."
+            },
+            {
+                "question": "What is the minimum years of services that the Home Guard should have put in in order to be eligible for this scheme?",
+                "answer": "A Home Guard should have put in a minimum period of 20 years of service."
+            },
+            {
+                "question": "Are Women Home Guard Volunteers also eligible to apply to this scheme?",
+                "answer": "Yes, Women Home Guard Volunteers are Eligible To Apply To This Scheme."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Guidelines",
+                "url": "https://thc.nic.in/Tripura%20State%20Lagislation%20Schemes/Pension%20scheme%20for%20providing%20pension%20to%20the%20retired%20Home%20Guard-Women%20Home%20Guard%20Volunteers.pdf"
+            }
+        ],
+        "tags": [
+            "Pension",
+            "Home Guard",
+            "Tripura"
+        ]
+    }
+}

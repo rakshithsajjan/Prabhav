@@ -1,0 +1,49 @@
+{
+    "content": {
+        "title": "Disability (Due to Accident or Other Reason) Scheme- Haryana Labour Welfare Board",
+        "state": "Haryana",
+        "department": "Labour Department Haryana",
+        "type": "Welfare Scheme",
+        "beneficiary": "Individuals with disabilities due to accidents or other reasons",
+        "details": "This scheme provides support and benefits to individuals with disabilities, ensuring their welfare and integration into society.",
+        "benefits": [
+            "Financial assistance for medical treatment",
+            "Support for rehabilitation services",
+            "Access to vocational training programs"
+        ],
+        "eligibility": [
+            "Must be a resident of Haryana",
+            "Must have a disability certificate",
+            "Age limit as specified by the scheme"
+        ],
+        "exclusions": [],
+        "application_process": "Online through the Haryana Labour Department website and Antyodaya-SARAL Portal",
+        "documents_required": [
+            "Disability certificate",
+            "Aadhaar card",
+            "Proof of residence",
+            "Bank account details"
+        ],
+        "faqs": [],
+        "sources": [
+            {
+                "type": "Official Scheme Page",
+                "url": "https://www.myscheme.gov.in/schemes/daors-hlwb"
+            },
+            {
+                "type": "Labour Department Official Website",
+                "url": "https://hrylabour.gov.in/"
+            },
+            {
+                "type": "Antyodaya-SARAL Portal",
+                "url": "https://saralharyana.gov.in/"
+            }
+        ],
+        "tags": [
+            "Disability",
+            "Welfare",
+            "Haryana",
+            "Labour Department"
+        ]
+    }
+}

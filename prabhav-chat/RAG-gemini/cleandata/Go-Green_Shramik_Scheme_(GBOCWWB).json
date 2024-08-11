@@ -1,0 +1,90 @@
+{
+    "content": {
+        "title": "Go-Green Shramik Scheme (GBOCWWB)",
+        "state": "Gujarat",
+        "department": "Labour, Skill Development & Employment Department, Government of Gujarat",
+        "type": "Subsidy",
+        "beneficiary": "Construction Worker",
+        "details": "The 'Go-Green Shramik Scheme' is implemented by the Gujarat Building and Other Construction Worker\u2019s Welfare Board (GBOCWWB). The objective of the scheme is to make the 'GREEN INDIA MISSION' of the Government of India a reality, allowing construction workers to become partners in environmental awareness and providing them with flexibility in commuting, saving money and time, and enabling them to live in a clean residential area.",
+        "benefits": [
+            "One-time subsidy of 50% of the price of the battery-operated Two-Wheeler or \u20b930,000/-, whichever is less.",
+            "Reimbursement of Registration Fee and Road Tax paid for the first time for a new two-wheeler."
+        ],
+        "eligibility": [
+            "Construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board.",
+            "Registration period for construction workers should be one year or more.",
+            "Registered construction worker must have purchased a lithium-ion battery high-speed vehicle in their own name.",
+            "Registered construction worker must have a license to drive two-wheelers.",
+            "Benefit available once per registered construction worker.",
+            "Registered construction worker cannot sell the vehicle for three years after purchasing it."
+        ],
+        "exclusions": [],
+        "application_process": "Online",
+        "documents_required": [
+            "Aadhaar card",
+            "E-Nirman card",
+            "Two-wheeler license",
+            "Any other documents as required"
+        ],
+        "faqs": [
+            {
+                "question": "What benefits are provided under the scheme?",
+                "answer": "Under the scheme, construction workers receive a one-time subsidy of 50% of the price of the battery-operated two-wheeler or \u20b930,000/-, whichever is less. Additionally, assistance is provided for the payment of Registration Fee and Road Tax for the first time for a new two-wheeler."
+            },
+            {
+                "question": "Who is eligible for the Go-Green Shramik Scheme?",
+                "answer": "Eligible participants are construction workers registered with the Gujarat Building and Other Construction Worker\u2019s Welfare Board. They must have completed one year after registration, purchased a lithium-ion battery high-speed vehicle in their own name, and hold a valid license to drive two-wheelers."
+            },
+            {
+                "question": "Can a registered construction worker avail of the scheme multiple times?",
+                "answer": "No, the benefit of the scheme is available only once per registered construction worker."
+            },
+            {
+                "question": "Is there any restriction on selling the vehicle after purchasing it under the scheme?",
+                "answer": "Yes, registered construction workers cannot sell the vehicle for three years after purchase."
+            },
+            {
+                "question": "How is the subsidy amount calculated?",
+                "answer": "The subsidy is calculated as 50% of the price of the battery-operated two-wheeler or \u20b930,000/-, whichever is less. This amount is deducted from the ex-showroom price of the vehicle, and the remaining amount is to be paid by the construction contractor."
+            },
+            {
+                "question": "Are there any additional subsidies available under the scheme?",
+                "answer": "Yes, this scheme provides an additional subsidy, which is available in addition to any subsidies provided under other government electric vehicle-related schemes."
+            },
+            {
+                "question": "How can registered construction workers apply for the scheme?",
+                "answer": "The applicant may visit and apply through the e-Nirman Portal: https://enirmanbocw.gujarat.gov.in/"
+            },
+            {
+                "question": "Can registered construction workers residing outside Gujarat avail of the scheme?",
+                "answer": "No, the scheme is specifically for registered construction workers in Gujarat."
+            }
+        ],
+        "sources": [
+            {
+                "type": "Official Website",
+                "url": "https://bocwwb.gujarat.gov.in/schemes.htm"
+            },
+            {
+                "type": "Guidelines",
+                "url": "https://bocwwb.gujarat.gov.in/Portal/Document/10_373_1_Go-Green_Shramik_Scheme.pdf"
+            },
+            {
+                "type": "Scheme Details (Page No. 373)",
+                "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-22-23.pdf"
+            },
+            {
+                "type": "E-Nirman Portal",
+                "url": "https://enirmanbocw.gujarat.gov.in/Index.aspx"
+            }
+        ],
+        "tags": [
+            "Building Worker",
+            "Construction Worker",
+            "Go-Green",
+            "Labour",
+            "Subsidy",
+            "Two-Wheeler"
+        ]
+    }
+}
