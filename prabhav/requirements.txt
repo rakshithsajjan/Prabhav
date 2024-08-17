@@ -4,4 +4,5 @@ openai
 aiohttp
 requests
 gunicorn
-pinecone-client[grpc]
+# pinecone-client[grpc]
+# google-generativeai

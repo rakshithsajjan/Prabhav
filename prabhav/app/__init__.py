@@ -6,7 +6,7 @@ from .views import webhook_blueprint
 def create_app():
     app = Flask(__name__)
     # set the route
-    app.config["APPLICATION_ROOT"] = "/backend"
+    # app.config["APPLICATION_ROOT"] = "/backend"
     # Load configurations and logging settings
     load_configurations(app)
     configure_logging()
