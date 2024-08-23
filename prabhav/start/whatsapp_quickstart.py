@@ -9,14 +9,14 @@ import asyncio
 # Load environment variables
 # --------------------------------------------------------------
 
-load_dotenv()
-ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
-RECIPIENT_WAID = os.getenv("RECIPIENT_WAID")
-PHONE_NUMBER_ID = os.getenv("PHONE_NUMBER_ID")
-VERSION = os.getenv("VERSION")
+# load_dotenv()
+# ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
+# RECIPIENT_WAID = os.getenv("RECIPIENT_WAID")
+# PHONE_NUMBER_ID = os.getenv("PHONE_NUMBER_ID")
+# VERSION = os.getenv("VERSION")
 
-APP_ID = os.getenv("APP_ID")
-APP_SECRET = os.getenv("APP_SECRET")
+# APP_ID = os.getenv("APP_ID")
+# APP_SECRET = os.getenv("APP_SECRET")
 
 # --------------------------------------------------------------
 # Send a template WhatsApp message
@@ -51,43 +51,43 @@ APP_SECRET = os.getenv("APP_SECRET")
 # NOTE: First reply to the message from the user in WhatsApp!
 
 
-def get_text_message_input(recipient, text):
-    return json.dumps(
-        {
-            "messaging_product": "whatsapp",
-            "recipient_type": "individual",
-            "to": recipient,
-            "type": "text",
-            "text": {"preview_url": False, "body": text},
-        }
-    )
+# def get_text_message_input(recipient, text):
+#     return json.dumps(
+#         {
+#             "messaging_product": "whatsapp",
+#             "recipient_type": "individual",
+#             "to": recipient,
+#             "type": "text",
+#             "text": {"preview_url": False, "body": text},
+#         }
+#     )
 
 
-def send_message(data):
-    headers = {
-        "Content-type": "application/json",
-        "Authorization": f"Bearer {ACCESS_TOKEN}",
-    }
+# def send_message(data):
+#     headers = {
+#         "Content-type": "application/json",
+#         "Authorization": f"Bearer {ACCESS_TOKEN}",
+#     }
 
-    url = f"https://graph.facebook.com/{VERSION}/{PHONE_NUMBER_ID}/messages"
+#     url = f"https://graph.facebook.com/{VERSION}/{PHONE_NUMBER_ID}/messages"
 
-    response = requests.post(url, data=data, headers=headers)
-    if response.status_code == 200:
-        print("Status:", response.status_code)
-        print("Content-type:", response.headers["content-type"])
-        print("Body:", response.text)
-        return response
-    else:
-        print(response.status_code)
-        print(response.text)
-        return response
+#     response = requests.post(url, data=data, headers=headers)
+#     if response.status_code == 200:
+#         print("Status:", response.status_code)
+#         print("Content-type:", response.headers["content-type"])
+#         print("Body:", response.text)
+#         return response
+#     else:
+#         print(response.status_code)
+#         print(response.text)
+#         return response
 
 
-data = get_text_message_input(
-    recipient=RECIPIENT_WAID, text="konichiwa. this is prabhav. i'm built by sujant (not a bimllionaire yet)"
-)
+# data = get_text_message_input(
+#     recipient=RECIPIENT_WAID, text="konichiwa. this is prabhav. i'm built by sujant (not a bimllionaire yet)"
+# )
 
-response = send_message(data)
+# response = send_message(data)
 
 # # --------------------------------------------------------------
 # # Send a custom text WhatsApp message asynchronously
