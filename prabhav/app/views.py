@@ -7,10 +7,10 @@ from .decorators.security import signature_required
 from .utils.whatsapp_utils import (
     process_whatsapp_message,
     is_valid_whatsapp_message,
+    get_analytics
 )
 
 webhook_blueprint = Blueprint("webhook", __name__)
-
 
 def handle_message():
     """
@@ -86,7 +86,11 @@ def webhook_get():
 def webhook_post():
     return handle_message()
 
-# @webhook_blueprint.route("/", methods=["GET"])
-# def index():
-#     print("hemlo world")
-#     return "hemlo world"
+@webhook_blueprint.route("/analytics", methods=["GET"])
+def analytics():
+    try:
+        analytics_data = get_analytics()
+        return jsonify(analytics_data), 200
+    except Exception as e:
+        logging.error("Failed to get analytics: %s", e)
+        return jsonify({"status": "error", "message": "Failed to get analytics"}), 500
