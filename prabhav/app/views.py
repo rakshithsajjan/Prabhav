@@ -11,6 +11,7 @@ from .utils.whatsapp_utils import (
 )
 
 webhook_blueprint = Blueprint("webhook", __name__)
+analytics_blueprint = Blueprint("analytics", __name__)
 
 def handle_message():
     """
@@ -86,7 +87,7 @@ def webhook_get():
 def webhook_post():
     return handle_message()
 
-@webhook_blueprint.route("/analytics", methods=["GET"])
+@analytics_blueprint.route("/analytics", methods=["GET"])
 def analytics():
     try:
         analytics_data = get_analytics()

@@ -1,6 +1,6 @@
 from flask import Flask
 from app.config import load_configurations, configure_logging
-from .views import webhook_blueprint
+from .views import webhook_blueprint, analytics_blueprint
 
 
 def create_app():
@@ -13,5 +13,6 @@ def create_app():
 
     # Import and register blueprints, if any
     app.register_blueprint(webhook_blueprint)
+    app.register_blueprint(analytics_blueprint)
 
     return app
