@@ -122,5 +122,10 @@ def is_valid_whatsapp_message(body):
     )
 
 def get_analytics():
-    analytics_json = jsonify(analytics)
-    return analytics_json
+    """
+    `Object of type Response is not JSON serializable` error occurs because get_analytics() 
+    is returning a Flask Response object instead of the actual analytics dictionary.
+    """
+    # analytics_json = jsonify(analytics)
+    # return analytics_json
+    return analytics
