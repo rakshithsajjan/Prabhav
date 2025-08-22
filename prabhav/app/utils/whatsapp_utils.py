@@ -6,6 +6,8 @@ import requests
 from app.services.openai_service import generate_response
 import re
 
+analytics = {"total_users": 0, "users": []}
+users = set()
 
 def log_http_response(response):
     logging.info(f"Status: {response.status_code}")
@@ -85,11 +87,24 @@ def process_whatsapp_message(body):
     # TODO: implement custom function here
     # response = generate_response(message_body)
 
+    recipient = message["from"]
+
+    # analytics
+    if not recipient in users:
+        users.add(recipient)
+        analytics["users"].append(
+            {
+            	"name": name,
+            	"number": recipient
+            })
+        analytics["total_users"] = len(users)
+
     # OpenAI Integration
     response = generate_response(message_body, wa_id, name)
     response = process_text_for_whatsapp(response)
 
-    data = get_text_message_input(current_app.config["RECIPIENT_WAID"], response)
+    # data = get_text_message_input(current_app.config["RECIPIENT_WAID"], response)
+    data = get_text_message_input(recipient=recipient, text=response)
     send_message(data)
 
 
@@ -105,3 +120,12 @@ def is_valid_whatsapp_message(body):
         and body["entry"][0]["changes"][0]["value"].get("messages")
         and body["entry"][0]["changes"][0]["value"]["messages"][0]
     )
+
+def get_analytics():
+    """
+    `Object of type Response is not JSON serializable` error occurs because get_analytics() 
+    is returning a Flask Response object instead of the actual analytics dictionary.
+    """
+    # analytics_json = jsonify(analytics)
+    # return analytics_json
+    return analytics

@@ -92,3 +92,6 @@ target/
 
 # virtual environment
 venv/
+
+# ssh keypair
+*.pem
